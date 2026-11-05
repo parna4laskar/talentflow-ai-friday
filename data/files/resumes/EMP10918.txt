@@ -1,0 +1,37 @@
+SAMEER HEGDE
+Senior Security Engineer | Cyber Security | Bengaluru, India
+Employee ID: EMP10918
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 5.5 years of experience, based in Bengaluru. Strong in Python, AWS, Application Security and Threat Modeling, with recent work in supply-chain logistics. Interested in moving towards Cloud Engineer, Security Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 4.1y)
+- Cloud & DevOps: AWS (Advanced, 2.2y)
+- Security: Application Security (Proficient, 2.1y), Threat Modeling (Proficient, 3.9y), Identity & Access Management (Proficient, 0.7y), GRC (Proficient, 3.5y), Incident Response (Proficient, 1.0y), SIEM (Proficient, 1.5y)
+- Data & AI: Machine Learning (Proficient, 2.9y)
+
+EXPERIENCE
+* Supply-chain Logistics Cloud Security Posture Programme — a leading logistics company (2026-02 to present)
+  Built a cloud security posture programme for a leading logistics company in supply-chain logistics using GRC and Python, reducing production incidents by 25%.
+* Pharma R&D Security Operations Centre Uplift — a European pharma company (2025-05 to 2025-11)
+  Scaled a security operations centre uplift for a European pharma company in pharma R&D using Application Security, Machine Learning and Incident Response, reducing production incidents by 35%.
+* Supply-chain Logistics Secure SDLC Rollout — a European logistics company (2024-03 to 2025-03)
+  Modernised a secure SDLC rollout for a European logistics company in supply-chain logistics using Threat Modeling and Python, reducing production incidents by 22%.
+* Supply-chain Logistics Security Operations Centre Uplift — a US logistics company (2022-11 to 2024-02)
+  Built a security operations centre uplift for a US logistics company in supply-chain logistics using GRC, Threat Modeling, SIEM and Python, reducing production incidents by 40%.
+
+CERTIFICATIONS
+- CISSP (2025)
+- CEH (2021)
+- CCSP (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer, Security Analyst, Site Reliability Engineer

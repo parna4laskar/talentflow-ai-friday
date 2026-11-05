@@ -1,0 +1,31 @@
+FARHAN SUBRAMANIAN
+Security Analyst | Cyber Security | Hyderabad, India
+Employee ID: EMP11073
+
+PROFESSIONAL SUMMARY
+Security Analyst with 3.3 years of experience, based in Hyderabad. Strong in Linux Administration, SIEM, Incident Response and GRC, with recent work in pharma R&D. Interested in moving towards DevOps Engineer roles and open to relocating to Bengaluru, Singapore.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 3.0y)
+- Security: SIEM (Proficient, 0.4y), Incident Response (Proficient, 1.8y), GRC (Proficient, 2.0y)
+- Business & Finance: Risk Management (Working, 0.4y)
+- Data & AI: LLM Engineering (Working, 0.5y)
+- Delivery & Leadership: Communication (Working, 1.1y)
+
+EXPERIENCE
+* HR Tech Identity and Access Platform — a tier-1 HR software company (2025-12 to present)
+  Re-architected an identity and access platform for a tier-1 HR software company in HR tech using GRC and Communication, reducing production incidents by 12%.
+* Pharma R&D Secure SDLC Rollout — an APAC pharma company (2025-04 to 2025-12)
+  Re-architected a secure SDLC rollout for an APAC pharma company in pharma R&D using Linux Administration and LLM Engineering, accelerating releases by 18%.
+* Pharma R&D Security Operations Centre Uplift — an APAC pharma company (2023-11 to 2025-01)
+  Re-architected a security operations centre uplift for an APAC pharma company in pharma R&D using Incident Response and GRC, reducing production incidents by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer

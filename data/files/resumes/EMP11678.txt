@@ -1,0 +1,31 @@
+SURESH HEGDE
+DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11678
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 2.7 years of experience, based in Pune. Strong in Docker, Communication, GCP and Observability, with recent work in retail banking. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 1.5y), GCP (Proficient, 1.1y), Observability (Proficient, 2.0y), CI/CD (Working, 0.3y), Kubernetes (Working, 0.3y), Terraform (Working, 0.3y), Linux Administration (Working, 1.2y)
+- Delivery & Leadership: Communication (Advanced, 2.1y)
+- Software Engineering: Python (Proficient, 1.4y), Go (Working, 0.5y)
+- Data & AI: Generative AI (Working, 1.1y)
+
+EXPERIENCE
+* Retail Banking Observability Stack — a tier-1 retail bank (2026-03 to present)
+  Scaled an observability stack for a tier-1 retail bank in retail banking using Terraform and GCP, reducing production incidents by 40%.
+* Manufacturing IoT Observability Stack — a leading manufacturer (2025-09 to 2026-03)
+  Designed an observability stack for a leading manufacturer in manufacturing IoT using Communication and Go, accelerating releases by 22%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Site Reliability Engineer, Backend Engineer

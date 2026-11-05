@@ -1,0 +1,31 @@
+ANJALI GOKHALE
+Platform Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10763
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 4.3 years of experience, based in Hyderabad. Strong in Kubernetes, CI/CD, Go and Site Reliability Engineering, with recent work in e-commerce. Interested in moving towards Platform Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 3.0y), CI/CD (Proficient, 0.7y), Site Reliability Engineering (Proficient, 3.0y), Terraform (Working, 0.8y), Platform Engineering (Beginner, 0.5y)
+- Software Engineering: Go (Proficient, 1.8y), Python (Working, 1.5y)
+- Data & AI: Databricks (Working, 0.5y)
+
+EXPERIENCE
+* E-commerce Kubernetes Platform — a European online retailer (2025-09 to present)
+  Migrated a Kubernetes platform for a European online retailer in e-commerce using Kubernetes and Platform Engineering, accelerating releases by 30%.
+* Wealth Management CI/CD Platform — a global wealth manager (2024-12 to 2025-06)
+  Modernised a CI/CD platform for a global wealth manager in wealth management using Platform Engineering and Site Reliability Engineering, accelerating releases by 35%.
+* E-commerce Kubernetes Platform — a US online retailer (2024-05 to 2024-10)
+  Migrated a Kubernetes platform for a US online retailer in e-commerce using Databricks, Kubernetes and Python, cutting cloud spend by 18%.
+* E-commerce Cloud Landing Zone — a global online retailer (2023-03 to 2024-05)
+  Built a cloud landing zone for a global online retailer in e-commerce using Platform Engineering and Databricks, accelerating releases by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Platform Engineer, Cloud Engineer

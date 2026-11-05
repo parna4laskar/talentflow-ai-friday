@@ -1,0 +1,29 @@
+NURUL KUMAR
+Senior Platform Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP11519
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 10.4 years of experience, based in Singapore. Strong in Platform Engineering, Terraform, Kubernetes and CI/CD, with recent work in automotive. Interested in moving towards Platform Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Expert, 10.4y), Terraform (Expert, 3.3y), Kubernetes (Advanced, 0.7y), CI/CD (Advanced, 9.4y), Observability (Advanced, 1.2y), AWS (Proficient, 5.4y), Site Reliability Engineering (Proficient, 2.1y)
+- Software Engineering: Go (Proficient, 5.8y)
+- Delivery & Leadership: Communication (Beginner, 1.2y)
+
+EXPERIENCE
+* Automotive Observability Stack — a fast-growing car maker (2026-09 to present)
+  Automated an observability stack for a fast-growing car maker in automotive using AWS, Go and Platform Engineering, accelerating releases by 12%.
+* Automotive Kubernetes Platform — a tier-1 car maker (2025-07 to 2026-07)
+  Designed a Kubernetes platform for a tier-1 car maker in automotive using Go, Observability, Communication and CI/CD, reducing production incidents by 12%.
+* Automotive CI/CD Platform — a US car maker (2023-11 to 2025-05)
+  Re-architected a CI/CD platform for a US car maker in automotive using Communication, AWS and Go, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Platform Engineer, Backend Engineer

@@ -1,0 +1,33 @@
+CHRISTOPHER MURPHY
+Senior Security Engineer | Cyber Security | Austin, United States
+Employee ID: EMP12734
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 11 years of experience, based in Austin. Strong in Application Security, GRC, Communication and Threat Modeling, with recent work in supply-chain logistics. Interested in moving towards Security Analyst, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: Application Security (Advanced, 1.1y), GRC (Advanced, 6.2y), Threat Modeling (Working, 3.7y), Identity & Access Management (Working, 2.9y)
+- Delivery & Leadership: Communication (Proficient, 4.2y)
+- Software Engineering: Python (Working, 3.1y)
+- Cloud & DevOps: AWS (Working, 2.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Identity and Access Platform — a European logistics company (2025-12 to present)
+  Modernised an identity and access platform for a European logistics company in supply-chain logistics using Threat Modeling, Python and Communication, reducing production incidents by 18%.
+* Airline Operations Identity and Access Platform — a tier-1 airline (2025-05 to 2025-10)
+  Led the delivery of an identity and access platform for a tier-1 airline in airline operations using Threat Modeling, Communication, AWS and Python, reducing production incidents by 12%.
+* Airline Operations Secure SDLC Rollout — an APAC airline (2024-02 to 2025-04)
+  Migrated a secure SDLC rollout for an APAC airline in airline operations using AWS and Application Security, accelerating releases by 35%.
+
+CERTIFICATIONS
+- CEH (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Japanese
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Security Analyst, Site Reliability Engineer

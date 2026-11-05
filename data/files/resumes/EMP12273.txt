@@ -1,0 +1,32 @@
+LUCAS SINGH
+Senior QA Engineer | Quality Engineering | Toronto, Canada
+Employee ID: EMP12273
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 6.4 years of experience, based in Toronto. Strong in Selenium, API Testing, Test Automation and SQL, with recent work in supply-chain logistics. Interested in moving towards Full Stack Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 3.0y), API Testing (Advanced, 3.0y), Test Automation (Proficient, 3.2y), Playwright (Proficient, 4.7y), Performance Testing (Working, 1.1y)
+- Data & AI: SQL (Proficient, 2.9y)
+- Software Engineering: Java (Working, 0.3y), Python (Working, 2.1y)
+
+EXPERIENCE
+* Wealth Management API Contract-testing Suite — a leading wealth manager (2026-10 to present)
+  Automated an API contract-testing suite for a leading wealth manager in wealth management using Test Automation, Playwright, Performance Testing and SQL, reducing production incidents by 22%.
+* Supply-chain Logistics Test Automation Framework — a tier-1 logistics company (2025-09 to 2026-07)
+  Led the delivery of a test automation framework for a tier-1 logistics company in supply-chain logistics using Performance Testing, API Testing, Playwright and Selenium, accelerating releases by 25%.
+* Pharma R&D Test Automation Framework — a US pharma company (2024-03 to 2025-07)
+  Migrated a test automation framework for a US pharma company in pharma R&D using API Testing and Test Automation, accelerating releases by 12%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2023)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, French, Marathi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, DevOps Engineer

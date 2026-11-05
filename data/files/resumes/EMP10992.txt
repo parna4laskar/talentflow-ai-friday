@@ -1,0 +1,33 @@
+SAURABH AGARWAL
+Lead AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP10992
+
+PROFESSIONAL SUMMARY
+Lead AI Engineer with 14.7 years of experience, based in Pune. Strong in LLM Engineering, Python, Generative AI and Docker, with recent work in supply-chain logistics. Interested in moving towards Data Scientist, Full Stack Engineer roles and open to relocating to Austin.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Expert, 5.9y), Generative AI (Advanced, 12.1y), Responsible AI (Advanced, 8.5y)
+- Software Engineering: Python (Advanced, 8.9y), System Design (Proficient, 3.6y), REST API Design (Working, 6.3y)
+- Cloud & DevOps: Docker (Advanced, 1.5y), Azure (Proficient, 9.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 4.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Document Intelligence Pipeline — a European logistics company (2026-06 to present)
+  Re-architected a document intelligence pipeline for a European logistics company in supply-chain logistics using REST API Design, Generative AI and Responsible AI, saving ~30K hours annually.
+* Supply-chain Logistics Knowledge Assistant (RAG) — an APAC logistics company (2025-06 to 2026-05)
+  Re-architected a knowledge assistant (RAG) for an APAC logistics company in supply-chain logistics using Generative AI, REST API Design, Responsible AI and LLM Engineering, lifting NPS by 40 points.
+* Supply-chain Logistics Document Intelligence Pipeline — a leading logistics company (2024-08 to 2025-04)
+  Re-architected a document intelligence pipeline for a leading logistics company in supply-chain logistics using Docker and Generative AI, saving ~18K hours annually.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2022)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Scientist, Full Stack Engineer

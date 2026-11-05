@@ -1,0 +1,32 @@
+AVA NGUYEN
+Lead Security Engineer | Cyber Security | New York, United States
+Employee ID: EMP12620
+
+PROFESSIONAL SUMMARY
+Lead Security Engineer with 10 years of experience, based in New York. Strong in Threat Modeling, Identity & Access Management, AWS and Kubernetes, with recent work in payments. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles and open to relocating to London, Kraków.
+
+CORE SKILLS
+- Security: Threat Modeling (Advanced, 9.9y), Identity & Access Management (Advanced, 8.1y), Application Security (Proficient, 6.3y), Incident Response (Proficient, 4.4y), GRC (Working, 0.4y), SIEM (Working, 1.0y)
+- Cloud & DevOps: AWS (Advanced, 7.7y), Kubernetes (Advanced, 4.4y)
+
+EXPERIENCE
+* Payments Cloud Security Posture Programme — a leading payments provider (2026-03 to present)
+  Built a cloud security posture programme for a leading payments provider in payments using AWS, Incident Response, GRC and SIEM, reducing production incidents by 18%.
+* Payments Security Operations Centre Uplift — a fast-growing payments provider (2025-09 to 2026-03)
+  Designed a security operations centre uplift for a fast-growing payments provider in payments using AWS and Threat Modeling, closing 25% of open audit findings.
+* Manufacturing IoT Identity and Access Platform — a global manufacturer (2024-02 to 2025-08)
+  Led the delivery of an identity and access platform for a global manufacturer in manufacturing IoT using Identity & Access Management, AWS, Application Security and SIEM, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- CISSP (2023)
+- CEH (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Site Reliability Engineer, Cloud Engineer

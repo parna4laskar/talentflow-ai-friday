@@ -1,0 +1,32 @@
+MAGDALENA NOWAK
+Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11461
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.5 years of experience, based in Kraków. Strong in Python, Microservices, REST API Design and SQL, with recent work in pharma R&D. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 4.8y), Microservices (Advanced, 0.7y), REST API Design (Proficient, 1.2y), System Design (Working, 0.5y), .NET Core (Working, 2.5y)
+- Data & AI: SQL (Proficient, 3.1y)
+- Cloud & DevOps: AWS (Proficient, 1.3y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a global pharma company (2026-08 to present)
+  Built a pricing engine for a global pharma company in pharma R&D using REST API Design, SQL and .NET Core, improving conversion by 18%.
+* Pharma R&D Self-service Portal — a tier-1 pharma company (2025-06 to 2026-08)
+  Led the delivery of a self-service portal for a tier-1 pharma company in pharma R&D using AWS, SQL and Microservices, saving ~40K hours annually.
+* Payments Self-service Portal — a US payments provider (2024-06 to 2025-05)
+  Automated a self-service portal for a US payments provider in payments using REST API Design, Python and SQL, saving ~12K hours annually.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer

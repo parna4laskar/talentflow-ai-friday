@@ -1,0 +1,31 @@
+EMMA TAYLOR
+ML Engineer | AI Center of Excellence | Austin, United States
+Employee ID: EMP10223
+
+PROFESSIONAL SUMMARY
+ML Engineer with 4.9 years of experience, based in Austin. Strong in MLOps, Machine Learning, Deep Learning and Databricks, with recent work in manufacturing IoT. Interested in moving towards Platform Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: MLOps (Advanced, 2.8y), Machine Learning (Proficient, 0.8y), Deep Learning (Proficient, 2.9y), Databricks (Proficient, 0.5y), Computer Vision (Beginner, 0.3y)
+- Software Engineering: Python (Working, 1.6y)
+- Cloud & DevOps: Docker (Working, 2.1y)
+
+EXPERIENCE
+* Insurance Claims Fraud Detection Model — a global insurer (2025-11 to present)
+  Migrated a fraud detection model for a global insurer in insurance claims using Deep Learning, Databricks and Python, reducing processing time by 22%.
+* Manufacturing IoT Agentic Customer-service Assistant — a tier-1 manufacturer (2024-06 to 2025-11)
+  Automated an agentic customer-service assistant for a tier-1 manufacturer in manufacturing IoT using Databricks, MLOps and Computer Vision, saving ~30K hours annually.
+* HR Tech Agentic Customer-service Assistant — an APAC HR software company (2023-03 to 2024-05)
+  Built an agentic customer-service assistant for an APAC HR software company in HR tech using Machine Learning, MLOps and Databricks, lifting NPS by 12 points.
+* Healthcare Recommendation Engine — a US hospital network (2022-06 to 2023-02)
+  Scaled a recommendation engine for a US hospital network in healthcare using MLOps, Computer Vision and Machine Learning, improving model accuracy by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Platform Engineer, AI Engineer, Data Scientist

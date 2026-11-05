@@ -1,0 +1,28 @@
+YASH SUBRAMANIAN
+Lead Engineering Manager | Engineering | Gurugram, India
+Employee ID: EMP12192
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 13.6 years of experience, based in Gurugram. Strong in People Leadership, System Design, Agile/Scrum and Stakeholder Management, with recent work in e-commerce. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 3.8y), Agile/Scrum (Advanced, 8.9y), Stakeholder Management (Advanced, 10.6y), Mentoring (Advanced, 9.5y), Project Management (Proficient, 0.8y), Communication (Proficient, 6.5y)
+- Software Engineering: System Design (Advanced, 11.7y), Java (Proficient, 5.1y)
+
+EXPERIENCE
+* Public Sector Pricing Engine — an APAC government agency (2025-10 to present)
+  Designed a pricing engine for an APAC government agency in public sector using Agile/Scrum, Project Management and Java, reducing processing time by 18%.
+* E-commerce Order Management System — a tier-1 online retailer (2025-04 to 2025-09)
+  Built an order management system for a tier-1 online retailer in e-commerce using Communication, Agile/Scrum, Mentoring and Stakeholder Management, reducing processing time by 12%.
+* E-commerce Pricing Engine — a fast-growing online retailer (2024-07 to 2025-02)
+  Designed a pricing engine for a fast-growing online retailer in e-commerce using System Design, Java, Stakeholder Management and Communication, reducing processing time by 35%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect

@@ -1,0 +1,29 @@
+ARJUN KIM
+Full Stack Engineer | Engineering | Austin, United States
+Employee ID: EMP11876
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.1 years of experience, based in Austin. Strong in TypeScript, React, Java and Next.js, with recent work in payments. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.0y), React (Advanced, 2.5y), Java (Proficient, 0.9y), Next.js (Proficient, 2.2y), GraphQL (Beginner, 1.0y)
+- Data & AI: SQL (Working, 1.8y), Agentic AI (Beginner, 0.9y)
+- Cloud & DevOps: AWS (Beginner, 0.8y)
+
+EXPERIENCE
+* Payments Pricing Engine — an APAC payments provider (2026-11 to present)
+  Re-architected a pricing engine for an APAC payments provider in payments using React, Java, TypeScript and AWS, improving conversion by 22%.
+* Payments Pricing Engine — a fast-growing payments provider (2026-01 to 2026-08)
+  Scaled a pricing engine for a fast-growing payments provider in payments using React, Agentic AI, GraphQL and SQL, reducing processing time by 40%.
+* Payments Order Management System — a fast-growing payments provider (2025-04 to 2025-12)
+  Scaled an order management system for a fast-growing payments provider in payments using React, Agentic AI and SQL, reducing processing time by 30%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Frontend Engineer

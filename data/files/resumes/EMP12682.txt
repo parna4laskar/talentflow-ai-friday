@@ -1,0 +1,31 @@
+JAMES TAYLOR
+Senior Site Reliability Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12682
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 10.3 years of experience, based in London. Strong in Terraform, Site Reliability Engineering, Observability and Kubernetes, with recent work in healthcare. Interested in moving towards Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 1.3y), Site Reliability Engineering (Advanced, 6.2y), Observability (Advanced, 8.8y), Kubernetes (Advanced, 7.2y), Linux Administration (Advanced, 2.1y)
+- Security: Incident Response (Advanced, 5.9y)
+- Software Engineering: Python (Working, 2.4y), Go (Working, 4.7y)
+
+EXPERIENCE
+* Media Streaming Observability Stack — an APAC streaming platform (2026-07 to present)
+  Re-architected an observability stack for an APAC streaming platform in media streaming using Terraform, Incident Response, Linux Administration and Go, accelerating releases by 35%.
+* Healthcare Observability Stack — a US hospital network (2025-02 to 2026-06)
+  Scaled an observability stack for a US hospital network in healthcare using Linux Administration and Observability, reducing production incidents by 30%.
+* Healthcare Kubernetes Platform — a European hospital network (2023-09 to 2025-01)
+  Built a Kubernetes platform for a European hospital network in healthcare using Incident Response, Observability, Kubernetes and Terraform, reducing production incidents by 12%.
+* Healthcare CI/CD Platform — a fast-growing hospital network (2022-11 to 2023-07)
+  Built a CI/CD platform for a fast-growing hospital network in healthcare using Incident Response, Linux Administration and Terraform, accelerating releases by 25%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Security Engineer

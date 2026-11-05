@@ -1,0 +1,31 @@
+NAVEEN BANERJEE
+Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP10532
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.2 years of experience, based in Chennai. Strong in Node.js, GraphQL, React and Figma, with recent work in pharma R&D. Interested in moving towards QA Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Advanced, 2.2y), GraphQL (Advanced, 4.0y), React (Proficient, 2.7y), TypeScript (Working, 1.5y), JavaScript (Working, 0.5y), REST API Design (Working, 0.9y)
+- Product & Design: Figma (Proficient, 0.7y)
+- Cloud & DevOps: CI/CD (Proficient, 3.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Claims Processing Engine — a global logistics company (2026-06 to present)
+  Modernised a claims processing engine for a global logistics company in supply-chain logistics using GraphQL and TypeScript, reducing processing time by 12%.
+* Pharma R&D Self-service Portal — an APAC pharma company (2025-08 to 2026-06)
+  Led the delivery of a self-service portal for an APAC pharma company in pharma R&D using GraphQL, TypeScript and Node.js, lifting NPS by 40 points.
+* Healthcare Customer Onboarding Platform — a fast-growing hospital network (2023-12 to 2025-05)
+  Scaled a customer onboarding platform for a fast-growing hospital network in healthcare using JavaScript, GraphQL, React and Figma, reducing processing time by 22%.
+* Pharma R&D Customer Onboarding Platform — a tier-1 pharma company (2022-06 to 2023-11)
+  Re-architected a customer onboarding platform for a tier-1 pharma company in pharma R&D using React and Figma, lifting NPS by 12 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, Full Stack Engineer, UX Designer

@@ -1,0 +1,29 @@
+OMKAR SHAH
+Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP12771
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 4.6 years of experience, based in Pune. Strong in Java, Test Automation, Mobile Development and CI/CD, with recent work in airline operations. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 1.8y), Mobile Development (Working, 1.0y), TypeScript (Beginner, 0.8y), Node.js (Beginner, 1.0y)
+- Quality Engineering: Test Automation (Proficient, 2.9y)
+- Cloud & DevOps: CI/CD (Working, 1.7y)
+
+EXPERIENCE
+* Airline Operations Self-service Portal — a US airline (2026-01 to present)
+  Scaled a self-service portal for a US airline in airline operations using CI/CD and Mobile Development, saving ~12K hours annually.
+* Telecom Billing Claims Processing Engine — a European telecom operator (2025-04 to 2025-11)
+  Scaled a claims processing engine for a European telecom operator in telecom billing using TypeScript, Java and Node.js, saving ~25K hours annually.
+* Energy Trading Mobile Banking App — a leading energy company (2024-01 to 2025-01)
+  Automated a mobile banking app for a leading energy company in energy trading using Node.js and Mobile Development, improving conversion by 35%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer

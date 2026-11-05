@@ -1,0 +1,34 @@
+HARINI RAO
+CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP11126
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 4.6 years of experience, based in Bengaluru. Strong in Salesforce, Business Analysis, Process Improvement and Agile/Scrum, with recent work in payments. Interested in moving towards Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 3.7y), Business Analysis (Proficient, 3.1y), Process Improvement (Proficient, 1.6y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 3.1y), Program Management (Proficient, 2.0y)
+- Software Engineering: JavaScript (Working, 0.3y)
+
+EXPERIENCE
+* Payments CRM Rollout — a leading payments provider (2025-11 to present)
+  Built a CRM rollout for a leading payments provider in payments using Process Improvement, Business Analysis, JavaScript and Salesforce, improving conversion by 18%.
+* Telecom Billing ERP Finance Rollout — a fast-growing telecom operator (2024-06 to 2025-09)
+  Modernised an ERP finance rollout for a fast-growing telecom operator in telecom billing using JavaScript, Agile/Scrum, Business Analysis and Program Management, saving ~22K hours annually.
+* Media Streaming ERP Finance Rollout — a fast-growing streaming platform (2023-05 to 2024-03)
+  Built an ERP finance rollout for a fast-growing streaming platform in media streaming using Agile/Scrum, JavaScript and Salesforce, saving ~18K hours annually.
+* E-commerce Service Desk Automation — a European online retailer (2022-01 to 2023-04)
+  Built a service desk automation for a European online retailer in e-commerce using Program Management, Business Analysis, Process Improvement and Salesforce, saving ~30K hours annually.
+
+CERTIFICATIONS
+- ServiceNow CSA (2023)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Account Manager

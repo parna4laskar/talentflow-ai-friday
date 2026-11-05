@@ -1,0 +1,29 @@
+JESSICA SINGH
+Associate Frontend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11683
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.3 years of experience, based in Toronto. Strong in TypeScript, Node.js, Design Systems and Playwright, with recent work in airline operations. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.8y), Node.js (Proficient, 0.6y), JavaScript (Working, 0.6y), Angular (Working, 0.6y)
+- Product & Design: Design Systems (Proficient, 0.7y), Figma (Working, 0.5y), UI Design (Working, 0.4y)
+- Quality Engineering: Playwright (Proficient, 0.6y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+- Cloud & DevOps: CI/CD (Beginner, 0.3y)
+
+EXPERIENCE
+* E-commerce Self-service Portal — a European online retailer (2026-01 to present)
+  Migrated a self-service portal for a European online retailer in e-commerce using Angular and JavaScript, saving ~18K hours annually.
+* Airline Operations Self-service Portal — a fast-growing airline (2025-05 to 2025-12)
+  Automated a self-service portal for a fast-growing airline in airline operations using UI Design, TypeScript, Design Systems and Playwright, lifting NPS by 35 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, QA Engineer

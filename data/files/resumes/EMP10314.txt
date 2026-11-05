@@ -1,0 +1,32 @@
+TEJAS MUKHERJEE
+Senior Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP10314
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 7.3 years of experience, based in Chennai. Strong in Data Visualization, Tableau, SQL and A/B Testing, with recent work in retail banking. Interested in moving towards Data Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 5.5y), Tableau (Advanced, 4.9y), SQL (Proficient, 4.2y)
+- Product & Design: A/B Testing (Proficient, 1.5y)
+- Business & Finance: Business Analysis (Proficient, 3.8y)
+- Software Engineering: Python (Beginner, 0.4y)
+
+EXPERIENCE
+* Retail Banking Regulatory Reporting Suite — a leading retail bank (2025-11 to present)
+  Modernised a regulatory reporting suite for a leading retail bank in retail banking using Python, Tableau, Data Visualization and Business Analysis, reducing processing time by 40%.
+* Retail Banking Data Lakehouse — a tier-1 retail bank (2025-03 to 2025-10)
+  Re-architected a data lakehouse for a tier-1 retail bank in retail banking using Python, Data Visualization and Tableau, cutting cloud spend by 12%.
+* Wealth Management Real-time Analytics Pipeline — a fast-growing wealth manager (2023-10 to 2025-01)
+  Modernised a real-time analytics pipeline for a fast-growing wealth manager in wealth management using A/B Testing, SQL, Data Visualization and Business Analysis, reducing processing time by 40%.
+* Retail Banking Regulatory Reporting Suite — a European retail bank (2023-01 to 2023-07)
+  Migrated a regulatory reporting suite for a European retail bank in retail banking using Tableau, A/B Testing and SQL, saving ~18K hours annually.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Analyst, Product Manager, Financial Analyst, Data Scientist

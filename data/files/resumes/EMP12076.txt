@@ -1,0 +1,35 @@
+FARHAN JOSHI
+Senior Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12076
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10 years of experience, based in Bengaluru. Strong in REST API Design, Kubernetes, Java and SQL, with recent work in public sector. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 5.2y), Java (Proficient, 4.6y), Microservices (Proficient, 2.2y), .NET Core (Working, 1.9y)
+- Cloud & DevOps: Kubernetes (Advanced, 0.7y), AWS (Proficient, 1.3y)
+- Data & AI: SQL (Proficient, 2.7y)
+- Delivery & Leadership: Communication (Proficient, 7.3y)
+
+EXPERIENCE
+* Public Sector Mobile Banking App — a tier-1 government agency (2025-12 to present)
+  Modernised a mobile banking app for a tier-1 government agency in public sector using .NET Core and SQL, lifting NPS by 18 points.
+* Public Sector Self-service Portal — a tier-1 government agency (2024-05 to 2025-11)
+  Scaled a self-service portal for a tier-1 government agency in public sector using REST API Design, Microservices, Communication and Java, saving ~30K hours annually.
+* Public Sector Self-service Portal — a European government agency (2023-01 to 2024-04)
+  Automated a self-service portal for a European government agency in public sector using Kubernetes, Communication and SQL, saving ~25K hours annually.
+* Public Sector Customer Onboarding Platform — a US government agency (2022-02 to 2023-01)
+  Migrated a customer onboarding platform for a US government agency in public sector using Kubernetes, Microservices and Communication, improving conversion by 35%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: AI Engineer

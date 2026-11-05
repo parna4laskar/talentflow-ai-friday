@@ -1,0 +1,30 @@
+JAKUB NOWAK
+Associate Platform Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP12609
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 2.4 years of experience, based in Kraków. Strong in Platform Engineering, CI/CD, Site Reliability Engineering and Kubernetes, with recent work in wealth management. Interested in moving towards Backend Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Proficient, 1.7y), CI/CD (Proficient, 0.6y), Site Reliability Engineering (Proficient, 1.6y), Kubernetes (Working, 1.1y), Terraform (Working, 0.5y), Observability (Working, 1.0y)
+- Software Engineering: Python (Working, 0.7y)
+- Data & AI: Agentic AI (Beginner, 0.4y)
+
+EXPERIENCE
+* E-commerce Observability Stack — a US online retailer (2026-01 to present)
+  Designed an observability stack for a US online retailer in e-commerce using CI/CD, Python, Site Reliability Engineering and Agentic AI, reducing production incidents by 25%.
+* Wealth Management CI/CD Platform — a fast-growing wealth manager (2025-03 to 2025-12)
+  Re-architected a CI/CD platform for a fast-growing wealth manager in wealth management using Kubernetes, Python, Agentic AI and Observability, accelerating releases by 25%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Cloud Engineer, DevOps Engineer

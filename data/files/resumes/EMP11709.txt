@@ -1,0 +1,30 @@
+IMRAN VERMA
+Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11709
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 3.5 years of experience, based in Pune. Strong in GCP, Terraform, Linux Administration and FinOps, with recent work in insurance claims. Interested in moving towards Software Architect, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Proficient, 2.4y), Terraform (Proficient, 2.5y), Linux Administration (Proficient, 1.2y), FinOps (Proficient, 2.4y), Kubernetes (Proficient, 1.7y), Site Reliability Engineering (Working, 0.6y)
+- Software Engineering: Python (Proficient, 1.7y)
+
+EXPERIENCE
+* Automotive Data-centre Exit To Cloud — a leading car maker (2026-04 to present)
+  Led the delivery of a data-centre exit to cloud for a leading car maker in automotive using Site Reliability Engineering, Python and GCP, cutting cloud spend by 22%.
+* Insurance Claims Cloud Landing Zone — a global insurer (2025-01 to 2026-03)
+  Scaled a cloud landing zone for a global insurer in insurance claims using GCP and Linux Administration, cutting cloud spend by 22%.
+* Wealth Management Kubernetes Platform — an APAC wealth manager (2023-06 to 2024-12)
+  Led the delivery of a Kubernetes platform for an APAC wealth manager in wealth management using Python and Terraform, reducing production incidents by 35%.
+* Insurance Claims Observability Stack — a tier-1 insurer (2021-11 to 2023-04)
+  Migrated an observability stack for a tier-1 insurer in insurance claims using FinOps and Python, reducing production incidents by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect, DevOps Engineer, Platform Engineer

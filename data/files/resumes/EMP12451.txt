@@ -1,0 +1,28 @@
+FATIMA KAUR
+Associate Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12451
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.2 years of experience, based in Pune. Strong in Communication, SQL, Data Engineering and Python, with recent work in energy trading. Interested in moving towards Data Engineer, Data Analyst roles and open to relocating to Kraków, Bengaluru, Austin.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Advanced, 0.5y)
+- Data & AI: SQL (Proficient, 0.3y), Data Engineering (Proficient, 0.3y), dbt (Working, 0.3y)
+- Software Engineering: Python (Working, 0.3y), Kafka (Working, 0.3y)
+- Cloud & DevOps: AWS (Working, 0.3y)
+
+EXPERIENCE
+* Energy Trading Executive KPI Dashboard Suite — a fast-growing energy company (2026-03 to present)
+  Modernised an executive KPI dashboard suite for a fast-growing energy company in energy trading using Python and AWS, improving forecast accuracy by 35%.
+* E-commerce Regulatory Reporting Suite — a European online retailer (2025-05 to 2026-02)
+  Migrated a regulatory reporting suite for a European online retailer in e-commerce using SQL, Python and dbt, saving ~22K hours annually.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Engineer, Data Analyst

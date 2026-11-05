@@ -1,0 +1,30 @@
+NANDINI GOH
+Security Analyst | Cyber Security | Gurugram, India
+Employee ID: EMP11613
+
+PROFESSIONAL SUMMARY
+Security Analyst with 2.7 years of experience, based in Gurugram. Strong in SIEM, GRC, Incident Response and Python, with recent work in supply-chain logistics. Interested in moving towards Security Analyst, DevOps Engineer roles.
+
+CORE SKILLS
+- Security: SIEM (Advanced, 1.8y), GRC (Advanced, 2.6y), Incident Response (Proficient, 0.9y), Cloud Security (Working, 0.9y)
+- Software Engineering: Python (Proficient, 0.8y)
+- Cloud & DevOps: AWS (Proficient, 2.0y)
+
+EXPERIENCE
+* Public Sector Security Operations Centre Uplift — a global government agency (2026-04 to present)
+  Re-architected a security operations centre uplift for a global government agency in public sector using Python, SIEM, GRC and Incident Response, closing 22% of open audit findings.
+* Manufacturing IoT Secure SDLC Rollout — a fast-growing manufacturer (2024-10 to 2026-03)
+  Modernised a secure SDLC rollout for a fast-growing manufacturer in manufacturing IoT using AWS and SIEM, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- CompTIA Security+ (2025)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Security Analyst, DevOps Engineer, Security Engineer

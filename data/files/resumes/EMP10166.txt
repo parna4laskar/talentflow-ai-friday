@@ -1,0 +1,33 @@
+ROHAN PAWAR
+Senior AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP10166
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 10.3 years of experience, based in Hyderabad. Strong in Generative AI, REST API Design, LLM Engineering and Azure, with recent work in pharma R&D. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Advanced, 3.4y), LLM Engineering (Proficient, 5.7y), Machine Learning (Proficient, 1.4y), Agentic AI (Beginner, 1.6y)
+- Software Engineering: REST API Design (Advanced, 9.1y), Python (Working, 2.9y)
+- Cloud & DevOps: Azure (Proficient, 3.8y)
+
+EXPERIENCE
+* Pharma R&D Document Intelligence Pipeline — an APAC pharma company (2025-10 to present)
+  Led the delivery of a document intelligence pipeline for an APAC pharma company in pharma R&D using Agentic AI, LLM Engineering and Generative AI, saving ~12K hours annually.
+* Pharma R&D Recommendation Engine — a global pharma company (2024-09 to 2025-08)
+  Designed a recommendation engine for a global pharma company in pharma R&D using Agentic AI, Machine Learning and Generative AI, improving conversion by 22%.
+* Wealth Management Document Intelligence Pipeline — a US wealth manager (2023-09 to 2024-08)
+  Built a document intelligence pipeline for a US wealth manager in wealth management using LLM Engineering and REST API Design, reducing processing time by 35%.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2026)
+- Google Generative AI Leader (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, DevOps Engineer, Data Scientist, ML Engineer

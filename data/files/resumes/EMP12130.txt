@@ -1,0 +1,28 @@
+MANISH GOKHALE
+Cloud Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12130
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.7 years of experience, based in Chennai. Strong in Azure, Terraform, Linux Administration and Python, with recent work in wealth management. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Advanced, 2.0y), Terraform (Proficient, 0.9y), Linux Administration (Proficient, 3.6y), Kubernetes (Proficient, 1.7y), Platform Engineering (Working, 0.5y)
+- Software Engineering: Python (Proficient, 3.8y)
+
+EXPERIENCE
+* Wealth Management Data-centre Exit To Cloud — an APAC wealth manager (2026-07 to present)
+  Migrated a data-centre exit to cloud for an APAC wealth manager in wealth management using Kubernetes, Python and Platform Engineering, cutting cloud spend by 12%.
+* Wealth Management Cloud Landing Zone — a global wealth manager (2026-01 to 2026-06)
+  Built a cloud landing zone for a global wealth manager in wealth management using Python, Terraform and Azure, accelerating releases by 25%.
+* Retail Banking Data-centre Exit To Cloud — a fast-growing retail bank (2024-08 to 2025-10)
+  Modernised a data-centre exit to cloud for a fast-growing retail bank in retail banking using Kubernetes, Terraform, Linux Administration and Azure, delivering $8M in cost savings.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer

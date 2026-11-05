@@ -1,0 +1,34 @@
+SWATI KULKARNI
+Business Analyst | Business Consulting | Gurugram, India
+Employee ID: EMP12877
+
+PROFESSIONAL SUMMARY
+Business Analyst with 3.8 years of experience, based in Gurugram. Strong in Stakeholder Management, Business Analysis, Requirements Gathering and Process Improvement, with recent work in airline operations. Interested in moving towards Account Manager, Product Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Advanced, 0.6y), Agile/Scrum (Working, 0.8y)
+- Business & Finance: Business Analysis (Proficient, 2.4y), Requirements Gathering (Proficient, 2.1y), Process Improvement (Proficient, 1.5y)
+- Data & AI: SQL (Proficient, 1.7y), Power BI (Beginner, 0.6y)
+
+EXPERIENCE
+* Payments Requirements and UAT for a CRM Rollout — a global payments provider (2026-10 to present)
+  Delivered a requirements and UAT for a CRM rollout for a global payments provider in payments using Power BI and Requirements Gathering, delivering on time across 2 workstreams.
+* E-commerce Requirements and UAT for a CRM Rollout — a fast-growing online retailer (2025-02 to 2026-08)
+  Delivered a requirements and UAT for a CRM rollout for a fast-growing online retailer in e-commerce using Stakeholder Management and Agile/Scrum, reducing processing time by 40%.
+* Payments Cloud Migration Programme — an APAC payments provider (2024-03 to 2024-12)
+  Coordinated a cloud migration programme for an APAC payments provider in payments using Stakeholder Management, Business Analysis, Process Improvement and SQL, cutting cloud spend by 35%.
+* Airline Operations Process Re-engineering Initiative — a tier-1 airline (2023-07 to 2024-02)
+  Ran a process re-engineering initiative for a tier-1 airline in airline operations using Power BI, Process Improvement and Business Analysis, delivering $3M in cost savings.
+
+CERTIFICATIONS
+- CBAP (2023)
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Account Manager, Product Manager, Scrum Master

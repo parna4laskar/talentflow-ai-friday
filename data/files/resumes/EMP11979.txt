@@ -1,0 +1,26 @@
+SANJANA CHATTERJEE
+Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP11979
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2.9 years of experience, based in Chennai. Strong in Python, Machine Learning, Statistics and SQL, with recent work in automotive. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 2.0y)
+- Data & AI: Machine Learning (Proficient, 1.0y), Statistics (Proficient, 1.0y), SQL (Proficient, 0.7y), Generative AI (Proficient, 0.5y), Responsible AI (Working, 0.7y), NLP (Beginner, 0.6y)
+
+EXPERIENCE
+* Airline Operations Real-time Analytics Pipeline — a leading airline (2026-02 to present)
+  Automated a real-time analytics pipeline for a leading airline in airline operations using Statistics and SQL, cutting cloud spend by 30%.
+* Automotive Customer Churn Model — a tier-1 car maker (2024-12 to 2025-12)
+  Led the delivery of a customer churn model for a tier-1 car maker in automotive using Statistics, Generative AI, SQL and Responsible AI, improving model accuracy by 30%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, AI Engineer, ML Engineer

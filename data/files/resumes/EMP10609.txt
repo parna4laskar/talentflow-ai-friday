@@ -1,0 +1,31 @@
+NEHA SHEIKH
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10609
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4 years of experience, based in Bengaluru. Strong in REST API Design, Go, SQL and Microservices, with recent work in HR tech. Interested in moving towards Backend Engineer, Engineering Manager roles and open to relocating to Hyderabad, Austin, New York.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 1.4y), Go (Proficient, 0.4y), Microservices (Proficient, 1.6y), GraphQL (Proficient, 0.6y), Spring Boot (Working, 0.7y)
+- Data & AI: SQL (Proficient, 2.5y), Data Engineering (Working, 1.0y)
+- Delivery & Leadership: Communication (Beginner, 0.5y)
+
+EXPERIENCE
+* HR Tech Claims Processing Engine — a fast-growing HR software company (2025-12 to present)
+  Designed a claims processing engine for a fast-growing HR software company in HR tech using GraphQL and Spring Boot, saving ~40K hours annually.
+* Telecom Billing Order Management System — a leading telecom operator (2025-03 to 2025-10)
+  Re-architected an order management system for a leading telecom operator in telecom billing using Microservices, Data Engineering, Communication and REST API Design, reducing processing time by 35%.
+* HR Tech Customer Onboarding Platform — a US HR software company (2023-11 to 2025-01)
+  Migrated a customer onboarding platform for a US HR software company in HR tech using GraphQL, Data Engineering and Microservices, lifting NPS by 22 points.
+* HR Tech Customer Onboarding Platform — a global HR software company (2023-03 to 2023-10)
+  Led the delivery of a customer onboarding platform for a global HR software company in HR tech using Data Engineering and Go, reducing processing time by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Engineering Manager

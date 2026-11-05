@@ -1,0 +1,30 @@
+GRACE THOMAS
+Cloud Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12749
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.9 years of experience, based in London. Strong in GCP, Terraform, Linux Administration and CI/CD, with recent work in energy trading. Interested in moving towards Software Architect roles and open to relocating to Kraków, Singapore.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 0.8y), Terraform (Proficient, 2.9y), Linux Administration (Proficient, 2.7y), CI/CD (Proficient, 4.1y), Kubernetes (Working, 1.6y)
+- Software Engineering: Python (Working, 1.8y)
+
+EXPERIENCE
+* Energy Trading Data-centre Exit To Cloud — a European energy company (2026-09 to present)
+  Migrated a data-centre exit to cloud for a European energy company in energy trading using Linux Administration, GCP, Kubernetes and CI/CD, cutting cloud spend by 12%.
+* Insurance Claims Cloud Landing Zone — a global insurer (2026-03 to 2026-08)
+  Scaled a cloud landing zone for a global insurer in insurance claims using GCP, Terraform, CI/CD and Linux Administration, accelerating releases by 40%.
+* Insurance Claims Kubernetes Platform — a fast-growing insurer (2025-08 to 2026-02)
+  Built a Kubernetes platform for a fast-growing insurer in insurance claims using Kubernetes and CI/CD, cutting cloud spend by 22%.
+* Retail Banking Data-centre Exit To Cloud — a fast-growing retail bank (2024-06 to 2025-07)
+  Built a data-centre exit to cloud for a fast-growing retail bank in retail banking using GCP, Kubernetes, CI/CD and Python, cutting cloud spend by 18%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect

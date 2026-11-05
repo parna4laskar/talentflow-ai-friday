@@ -1,0 +1,30 @@
+VAISHNAVI SUBRAMANIAN
+Lead Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP11363
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 15.9 years of experience, based in Pune. Strong in Python, Statistics, Machine Learning and SQL, with recent work in media streaming. Interested in moving towards Product Manager, AI Engineer roles and open to relocating to Austin.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 15.9y)
+- Data & AI: Statistics (Expert, 4.7y), Machine Learning (Advanced, 2.1y), SQL (Advanced, 2.0y), Apache Spark (Advanced, 13.8y), NLP (Proficient, 10.2y), Generative AI (Proficient, 4.8y), Data Visualization (Working, 6.8y), Deep Learning (Working, 2.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 14.4y)
+- Product & Design: A/B Testing (Proficient, 10.1y)
+
+EXPERIENCE
+* Energy Trading Regulatory Reporting Suite — a global energy company (2026-06 to present)
+  Automated a regulatory reporting suite for a global energy company in energy trading using A/B Testing, Apache Spark and Machine Learning, saving ~18K hours annually.
+* Insurance Claims Customer Churn Model — a leading insurer (2025-05 to 2026-03)
+  Migrated a customer churn model for a leading insurer in insurance claims using Statistics, Python, Apache Spark and A/B Testing, improving conversion by 25%.
+* Public Sector Real-time Analytics Pipeline — a European government agency (2024-09 to 2025-04)
+  Built a real-time analytics pipeline for a European government agency in public sector using NLP and Apache Spark, cutting cloud spend by 30%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Product Manager, AI Engineer, ML Engineer

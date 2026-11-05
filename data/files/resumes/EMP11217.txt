@@ -1,0 +1,28 @@
+JUN HAO RAHMAN
+Senior Mobile Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11217
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 6.7 years of experience, based in Singapore. Strong in Mobile Development, React, REST API Design and UI Design, with recent work in insurance claims. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 5.9y), React (Proficient, 1.1y), REST API Design (Proficient, 3.1y)
+- Product & Design: UI Design (Proficient, 2.2y)
+
+EXPERIENCE
+* Public Sector Mobile Banking App — a US government agency (2025-11 to present)
+  Re-architected a mobile banking app for a US government agency in public sector using React, REST API Design and Mobile Development, lifting NPS by 30 points.
+* Insurance Claims Self-service Portal — a European insurer (2024-04 to 2025-09)
+  Built a self-service portal for a European insurer in insurance claims using Mobile Development, UI Design and REST API Design, lifting NPS by 40 points.
+* Insurance Claims Order Management System — a tier-1 insurer (2022-11 to 2024-03)
+  Built an order management system for a tier-1 insurer in insurance claims using REST API Design and React, reducing processing time by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, Full Stack Engineer, Frontend Engineer

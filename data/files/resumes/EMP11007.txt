@@ -1,0 +1,34 @@
+YASH MEHTA
+Senior Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11007
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 7.9 years of experience, based in Gurugram. Strong in React, TypeScript, JavaScript and Node.js, with recent work in airline operations. Interested in moving towards Full Stack Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Expert, 5.3y), TypeScript (Proficient, 1.7y), JavaScript (Proficient, 1.2y), Node.js (Proficient, 4.5y), GraphQL (Working, 2.2y)
+- Product & Design: Design Systems (Proficient, 5.7y)
+- Quality Engineering: Playwright (Beginner, 0.6y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — a US manufacturer (2025-07 to present)
+  Automated a claims processing engine for a US manufacturer in manufacturing IoT using React and Node.js, saving ~35K hours annually.
+* Public Sector Pricing Engine — a European government agency (2024-01 to 2025-05)
+  Re-architected a pricing engine for a European government agency in public sector using JavaScript, Node.js, Design Systems and Playwright, reducing processing time by 12%.
+* Payments Customer Onboarding Platform — a fast-growing payments provider (2022-07 to 2023-12)
+  Modernised a customer onboarding platform for a fast-growing payments provider in payments using Node.js, React and GraphQL, reducing processing time by 30%.
+* Airline Operations Pricing Engine — a US airline (2021-06 to 2022-04)
+  Modernised a pricing engine for a US airline in airline operations using Node.js and JavaScript, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, QA Engineer

@@ -1,0 +1,31 @@
+NEHA REDDY
+Associate Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10537
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2.6 years of experience, based in Bengaluru. Strong in Cloud Security, CI/CD, GCP and Terraform, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, Software Architect roles.
+
+CORE SKILLS
+- Security: Cloud Security (Proficient, 1.7y)
+- Cloud & DevOps: CI/CD (Proficient, 0.5y), GCP (Working, 0.5y), Terraform (Working, 0.9y), Linux Administration (Working, 0.5y), Platform Engineering (Working, 1.0y)
+- Software Engineering: Python (Working, 0.3y)
+- Data & AI: Agentic AI (Working, 0.5y), LLM Engineering (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Kubernetes Platform — a leading pharma company (2025-12 to present)
+  Designed a Kubernetes platform for a leading pharma company in pharma R&D using CI/CD, Platform Engineering, LLM Engineering and Terraform, reducing production incidents by 12%.
+* Supply-chain Logistics Cloud Landing Zone — an APAC logistics company (2024-05 to 2025-11)
+  Led the delivery of a cloud landing zone for an APAC logistics company in supply-chain logistics using Terraform, GCP and Platform Engineering, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2025)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, Software Architect

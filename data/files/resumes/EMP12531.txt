@@ -1,0 +1,31 @@
+EOIN CHUA
+Associate Cloud Engineer | Cloud & Infrastructure | Dublin, Ireland
+Employee ID: EMP12531
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0.8 years of experience, based in Dublin. Strong in CI/CD, Kubernetes, Azure and Terraform, with recent work in pharma R&D. Interested in moving towards Cloud Engineer, Software Architect roles and open to relocating to Chennai, Singapore, Gurugram.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 0.5y), Kubernetes (Proficient, 0.6y), Azure (Working, 0.3y), Terraform (Working, 0.3y), Linux Administration (Working, 0.3y), Platform Engineering (Working, 0.3y)
+- Security: Cloud Security (Working, 0.3y)
+- Data & AI: Machine Learning (Working, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Cloud Landing Zone — a tier-1 pharma company (2026-02 to present)
+  Re-architected a cloud landing zone for a tier-1 pharma company in pharma R&D using Azure, CI/CD, Communication and Platform Engineering, cutting cloud spend by 35%.
+* Pharma R&D CI/CD Platform — a leading pharma company (2024-09 to 2025-11)
+  Led the delivery of a CI/CD platform for a leading pharma company in pharma R&D using Cloud Security and CI/CD, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer, Software Architect, Site Reliability Engineer

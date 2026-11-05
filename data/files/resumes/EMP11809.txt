@@ -1,0 +1,33 @@
+RAHUL SINGH
+Senior Security Engineer | Cyber Security | Hyderabad, India
+Employee ID: EMP11809
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 6.5 years of experience, based in Hyderabad. Strong in Threat Modeling, Identity & Access Management, Application Security and Kubernetes, with recent work in pharma R&D. Interested in moving towards Security Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: Threat Modeling (Advanced, 0.8y), Identity & Access Management (Advanced, 4.3y), Application Security (Proficient, 1.2y), SIEM (Proficient, 0.5y), Incident Response (Proficient, 4.1y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.2y), AWS (Proficient, 1.8y)
+- Data & AI: MLOps (Proficient, 1.0y)
+- Software Engineering: Python (Working, 2.7y)
+
+EXPERIENCE
+* Pharma R&D Security Operations Centre Uplift — an APAC pharma company (2025-09 to present)
+  Modernised a security operations centre uplift for an APAC pharma company in pharma R&D using Python and Kubernetes, closing 25% of open audit findings.
+* Pharma R&D Cloud Security Posture Programme — a leading pharma company (2024-09 to 2025-08)
+  Re-architected a cloud security posture programme for a leading pharma company in pharma R&D using Identity & Access Management and AWS, closing 22% of open audit findings.
+* Wealth Management Security Operations Centre Uplift — a US wealth manager (2023-08 to 2024-06)
+  Designed a security operations centre uplift for a US wealth manager in wealth management using MLOps and Python, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- CISSP (2025)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Security Engineer, Site Reliability Engineer, Security Analyst

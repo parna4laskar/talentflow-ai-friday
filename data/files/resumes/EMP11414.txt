@@ -1,0 +1,34 @@
+VENKAT DESHPANDE
+Principal DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11414
+
+PROFESSIONAL SUMMARY
+Principal DevOps Engineer with 24.9 years of experience, based in Pune. Strong in Kubernetes, Go, Communication and Docker, with recent work in public sector. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 24.9y), Docker (Advanced, 8.2y), GCP (Advanced, 7.5y), Terraform (Advanced, 0.9y), Observability (Advanced, 24.3y), Linux Administration (Advanced, 6.1y), CI/CD (Proficient, 11.4y)
+- Software Engineering: Go (Expert, 21.9y), Python (Advanced, 2.3y)
+- Delivery & Leadership: Communication (Expert, 17.6y), Mentoring (Proficient, 16.9y), Stakeholder Management (Proficient, 1.3y), People Leadership (Proficient, 6.8y)
+- Data & AI: Machine Learning (Proficient, 5.7y)
+
+EXPERIENCE
+* Payments Data-centre Exit To Cloud — a fast-growing payments provider (2025-12 to present)
+  Led the delivery of a data-centre exit to cloud for a fast-growing payments provider in payments using CI/CD, Docker, GCP and Terraform, delivering $4M in cost savings.
+* Public Sector Kubernetes Platform — a leading government agency (2024-07 to 2025-11)
+  Led the delivery of a Kubernetes platform for a leading government agency in public sector using GCP and Observability, reducing production incidents by 35%.
+* Healthcare Data-centre Exit To Cloud — a fast-growing hospital network (2023-06 to 2024-05)
+  Scaled a data-centre exit to cloud for a fast-growing hospital network in healthcare using Mentoring, Observability and Communication, delivering $4M in cost savings.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+- HashiCorp Terraform Associate (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Backend Engineer

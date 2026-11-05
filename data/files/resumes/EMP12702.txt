@@ -1,0 +1,32 @@
+BHAVANA BROWN
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12702
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.1 years of experience, based in Bengaluru. Strong in Kubernetes, Kafka, Python and SQL, with recent work in automotive. Interested in moving towards Full Stack Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.7y), AWS (Working, 2.1y), Docker (Working, 1.1y), Site Reliability Engineering (Working, 2.1y)
+- Software Engineering: Kafka (Advanced, 0.5y), Python (Proficient, 1.2y), Microservices (Proficient, 1.0y), Spring Boot (Proficient, 3.3y), REST API Design (Working, 2.4y)
+- Data & AI: SQL (Proficient, 3.6y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a European logistics company (2026-07 to present)
+  Scaled a payments microservices platform for a European logistics company in supply-chain logistics using Site Reliability Engineering, Python, SQL and Microservices, reducing production incidents by 40%.
+* Automotive Payments Microservices Platform — a fast-growing car maker (2025-12 to 2026-05)
+  Designed a payments microservices platform for a fast-growing car maker in automotive using REST API Design, SQL and Microservices, accelerating releases by 18%.
+* Manufacturing IoT Claims Processing Engine — a global manufacturer (2024-11 to 2025-10)
+  Re-architected a claims processing engine for a global manufacturer in manufacturing IoT using Docker, Python and Site Reliability Engineering, saving ~25K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, AI Engineer, Engineering Manager

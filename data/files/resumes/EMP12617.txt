@@ -1,0 +1,32 @@
+IMRAN RAO
+Associate ML Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12617
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 1.7 years of experience, based in Hyderabad. Strong in Python, MLOps, Deep Learning and Machine Learning, with recent work in e-commerce. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.9y)
+- Data & AI: MLOps (Proficient, 0.9y), Deep Learning (Proficient, 1.2y), Machine Learning (Working, 0.6y), Computer Vision (Working, 0.5y)
+- Cloud & DevOps: AWS (Working, 0.3y)
+- Security: Identity & Access Management (Working, 0.7y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Airline Operations Recommendation Engine — a European airline (2026-05 to present)
+  Built a recommendation engine for a European airline in airline operations using AWS, Machine Learning and Communication, improving conversion by 18%.
+* Pharma R&D Document Intelligence Pipeline — a European pharma company (2025-10 to 2026-03)
+  Modernised a document intelligence pipeline for a European pharma company in pharma R&D using Python and MLOps, reducing processing time by 12%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2025)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: ML Engineer, AI Engineer

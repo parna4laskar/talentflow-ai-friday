@@ -1,0 +1,34 @@
+RIYA VERMA
+ML Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP10679
+
+PROFESSIONAL SUMMARY
+ML Engineer with 5 years of experience, based in Pune. Strong in MLOps, Deep Learning, Python and Machine Learning, with recent work in e-commerce. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: MLOps (Expert, 5.0y), Deep Learning (Advanced, 3.1y), Machine Learning (Proficient, 2.8y), Computer Vision (Working, 1.0y), Databricks (Beginner, 0.8y), Generative AI (Beginner, 0.9y)
+- Software Engineering: Python (Proficient, 2.5y)
+- Cloud & DevOps: Kubernetes (Proficient, 2.4y), Docker (Working, 2.5y), AWS (Working, 1.3y)
+
+EXPERIENCE
+* Energy Trading Agentic Customer-service Assistant — a US energy company (2026-06 to present)
+  Built an agentic customer-service assistant for a US energy company in energy trading using Machine Learning and AWS, saving ~30K hours annually.
+* E-commerce Fraud Detection Model — an APAC online retailer (2025-07 to 2026-05)
+  Re-architected a fraud detection model for an APAC online retailer in e-commerce using Computer Vision, Docker, Kubernetes and AWS, reducing processing time by 18%.
+* E-commerce Fraud Detection Model — a European online retailer (2024-01 to 2025-04)
+  Modernised a fraud detection model for a European online retailer in e-commerce using Python, Kubernetes, MLOps and Deep Learning, reducing processing time by 30%.
+* Public Sector Document Intelligence Pipeline — an APAC government agency (2023-01 to 2023-12)
+  Designed a document intelligence pipeline for an APAC government agency in public sector using Machine Learning, Databricks, Docker and Python, reducing processing time by 25%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2026)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist, AI Engineer

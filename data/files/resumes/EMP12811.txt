@@ -1,0 +1,32 @@
+SNEHA SHEIKH
+Senior Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP12811
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 5.7 years of experience, based in Bengaluru. Strong in SQL, Data Visualization, Tableau and Snowflake, with recent work in public sector. Interested in moving towards Financial Analyst, Business Analyst roles and open to relocating to Hyderabad, Kraków, Gurugram.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 3.6y), Data Visualization (Proficient, 0.5y), Tableau (Proficient, 1.0y), Snowflake (Proficient, 2.6y), Statistics (Working, 1.9y)
+- Product & Design: A/B Testing (Proficient, 2.2y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Churn Model — a European manufacturer (2026-09 to present)
+  Re-architected a customer churn model for a European manufacturer in manufacturing IoT using Tableau, Snowflake and Data Visualization, improving conversion by 12%.
+* Public Sector Data Lakehouse — a US government agency (2025-09 to 2026-07)
+  Re-architected a data lakehouse for a US government agency in public sector using Tableau, Statistics and Data Visualization, cutting cloud spend by 40%.
+* Public Sector Customer Churn Model — a US government agency (2025-01 to 2025-09)
+  Scaled a customer churn model for a US government agency in public sector using SQL, Tableau, A/B Testing and Data Visualization, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2023)
+- Tableau Desktop Specialist (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Financial Analyst, Business Analyst, Product Manager

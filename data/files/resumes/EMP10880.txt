@@ -1,0 +1,34 @@
+NANDINI BOSE
+Senior Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10880
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 10.8 years of experience, based in Pune. Strong in Azure, Kubernetes, Cloud Security and Terraform, with recent work in healthcare. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles and open to relocating to Gurugram, London.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Advanced, 7.1y), Kubernetes (Advanced, 6.2y), Terraform (Proficient, 1.1y), CI/CD (Proficient, 4.4y), Linux Administration (Working, 2.7y), FinOps (Working, 2.7y)
+- Security: Cloud Security (Advanced, 7.5y)
+- Delivery & Leadership: Communication (Proficient, 7.7y)
+
+EXPERIENCE
+* Wealth Management Kubernetes Platform — an APAC wealth manager (2026-08 to present)
+  Led the delivery of a Kubernetes platform for an APAC wealth manager in wealth management using FinOps, Cloud Security, Kubernetes and Linux Administration, cutting cloud spend by 18%.
+* Manufacturing IoT Data-centre Exit To Cloud — a US manufacturer (2025-02 to 2026-06)
+  Scaled a data-centre exit to cloud for a US manufacturer in manufacturing IoT using Azure, Kubernetes, Linux Administration and Cloud Security, delivering $4M in cost savings.
+* Healthcare Kubernetes Platform — a US hospital network (2023-09 to 2025-01)
+  Migrated a Kubernetes platform for a US hospital network in healthcare using Communication and Kubernetes, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+- Azure Administrator Associate (2025)
+- Google Professional Cloud Architect (2022)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer, Site Reliability Engineer, Platform Engineer

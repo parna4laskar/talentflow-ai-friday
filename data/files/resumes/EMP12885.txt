@@ -1,0 +1,29 @@
+WEI JIE WONG
+Senior Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12885
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 7.8 years of experience, based in Singapore. Strong in C#, SQL, Microservices and Spring Boot, with recent work in payments. Interested in moving towards Engineering Manager, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 3.2y), Microservices (Advanced, 1.4y), Spring Boot (Advanced, 6.3y), REST API Design (Proficient, 1.4y), .NET Core (Proficient, 1.0y), GraphQL (Proficient, 4.4y), System Design (Proficient, 4.2y)
+- Data & AI: SQL (Advanced, 4.0y)
+- Cloud & DevOps: CI/CD (Advanced, 5.7y), Terraform (Working, 1.4y)
+
+EXPERIENCE
+* Wealth Management Mobile Banking App — an APAC wealth manager (2025-07 to present)
+  Led the delivery of a mobile banking app for an APAC wealth manager in wealth management using CI/CD and Microservices, improving conversion by 35%.
+* Payments Payments Microservices Platform — a European payments provider (2025-01 to 2025-06)
+  Led the delivery of a payments microservices platform for a European payments provider in payments using Spring Boot, GraphQL, .NET Core and REST API Design, reducing processing time by 30%.
+* Airline Operations Payments Microservices Platform — a European airline (2023-06 to 2024-11)
+  Automated a payments microservices platform for a European airline in airline operations using Spring Boot and REST API Design, reducing processing time by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager, AI Engineer

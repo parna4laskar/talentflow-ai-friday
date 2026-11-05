@@ -1,0 +1,28 @@
+BHAVANA RAO
+Senior Data Scientist | Data & Analytics | Hyderabad, India
+Employee ID: EMP10596
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 10.1 years of experience, based in Hyderabad. Strong in Python, SQL, Data Visualization and Generative AI, with recent work in HR tech. Interested in moving towards Data Analyst, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 6.3y)
+- Data & AI: SQL (Advanced, 8.5y), Data Visualization (Advanced, 2.0y), Generative AI (Advanced, 6.3y), Machine Learning (Proficient, 5.7y), Statistics (Proficient, 4.6y), Apache Spark (Proficient, 4.1y)
+
+EXPERIENCE
+* HR Tech Customer Churn Model — a leading HR software company (2025-08 to present)
+  Designed a customer churn model for a leading HR software company in HR tech using SQL, Python, Machine Learning and Generative AI, improving model accuracy by 25%.
+* Energy Trading Executive KPI Dashboard Suite — a tier-1 energy company (2024-09 to 2025-06)
+  Migrated an executive KPI dashboard suite for a tier-1 energy company in energy trading using Data Visualization, SQL and Machine Learning, improving forecast accuracy by 35%.
+* HR Tech Data Lakehouse — an APAC HR software company (2023-07 to 2024-08)
+  Automated a data lakehouse for an APAC HR software company in HR tech using Data Visualization, Python and Generative AI, cutting cloud spend by 25%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Analyst, ML Engineer, Product Manager

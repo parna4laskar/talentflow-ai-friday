@@ -1,0 +1,31 @@
+PIOTR KOWALSKI
+Frontend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP12909
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.5 years of experience, based in Kraków. Strong in Angular, Next.js, TypeScript and JavaScript, with recent work in e-commerce. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 2.2y), Next.js (Advanced, 2.4y), TypeScript (Proficient, 0.5y), JavaScript (Proficient, 1.2y), Node.js (Proficient, 0.8y)
+- Cloud & DevOps: CI/CD (Proficient, 1.3y)
+- Product & Design: Figma (Proficient, 1.8y), Design Systems (Working, 0.8y)
+- Delivery & Leadership: Communication (Proficient, 0.9y)
+
+EXPERIENCE
+* Payments Pricing Engine — a European payments provider (2026-12 to present)
+  Re-architected a pricing engine for a European payments provider in payments using Figma, Design Systems, Communication and CI/CD, reducing processing time by 12%.
+* Pharma R&D Pricing Engine — a leading pharma company (2025-08 to 2026-11)
+  Built a pricing engine for a leading pharma company in pharma R&D using Angular, Node.js, TypeScript and CI/CD, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+Polish, English, Kannada
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, Mobile Engineer, UX Designer

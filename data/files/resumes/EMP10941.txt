@@ -1,0 +1,29 @@
+WILLIAM THOMAS
+Business Analyst | Business Consulting | London, United Kingdom
+Employee ID: EMP10941
+
+PROFESSIONAL SUMMARY
+Business Analyst with 3.3 years of experience, based in London. Strong in Requirements Gathering, Stakeholder Management, Business Analysis and Process Improvement, with recent work in telecom billing. Interested in moving towards Data Analyst, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Expert, 1.3y), Business Analysis (Proficient, 1.4y), Process Improvement (Proficient, 1.7y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 2.9y), Agile/Scrum (Working, 1.0y), Communication (Working, 0.7y), Change Management (Beginner, 0.6y)
+- Data & AI: SQL (Working, 0.4y)
+
+EXPERIENCE
+* Public Sector Agile Transformation — a global government agency (2025-04 to present)
+  Coordinated an agile transformation for a global government agency in public sector using Stakeholder Management, Process Improvement, SQL and Requirements Gathering, delivering on time across 4 workstreams.
+* E-commerce Requirements and UAT for a CRM Rollout — a US online retailer (2024-05 to 2025-04)
+  Ran a requirements and UAT for a CRM rollout for a US online retailer in e-commerce using Stakeholder Management, SQL and Process Improvement, reducing processing time by 25%.
+* Telecom Billing Process Re-engineering Initiative — a fast-growing telecom operator (2023-07 to 2024-03)
+  Coordinated a process re-engineering initiative for a fast-growing telecom operator in telecom billing using Stakeholder Management and Agile/Scrum, delivering $2M in cost savings.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Analyst, Scrum Master, CRM Consultant

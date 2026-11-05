@@ -1,0 +1,27 @@
+VENKAT AGARWAL
+Associate Security Analyst | Cyber Security | Pune, India
+Employee ID: EMP10467
+
+PROFESSIONAL SUMMARY
+Associate Security Analyst with 2 years of experience, based in Pune. Strong in SIEM, Python, Cloud Security and Incident Response, with recent work in payments. Interested in moving towards Security Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: SIEM (Proficient, 0.8y), Cloud Security (Proficient, 0.8y), Incident Response (Working, 0.4y), GRC (Working, 0.6y), Threat Modeling (Working, 0.5y)
+- Software Engineering: Python (Proficient, 1.4y)
+- Cloud & DevOps: Linux Administration (Working, 0.6y), Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Cloud Security Posture Programme — an APAC logistics company (2026-05 to present)
+  Automated a cloud security posture programme for an APAC logistics company in supply-chain logistics using Incident Response, SIEM and Cloud Security, closing 25% of open audit findings.
+* Payments Cloud Security Posture Programme — an APAC payments provider (2025-03 to 2026-04)
+  Led the delivery of a cloud security posture programme for an APAC payments provider in payments using Kubernetes, Linux Administration and Incident Response, closing 35% of open audit findings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Security Engineer, Site Reliability Engineer

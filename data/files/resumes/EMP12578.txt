@@ -1,0 +1,36 @@
+PRANAV DESHPANDE
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12578
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 5.1 years of experience, based in Pune. Strong in REST API Design, SQL, Communication and Go, with recent work in e-commerce. Interested in moving towards Software Architect, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 4.3y), Go (Proficient, 3.5y), Microservices (Proficient, 3.7y), Spring Boot (Proficient, 3.2y), GraphQL (Working, 2.1y)
+- Data & AI: SQL (Advanced, 0.8y), Data Visualization (Working, 1.2y)
+- Delivery & Leadership: Communication (Advanced, 2.0y)
+- Cloud & DevOps: CI/CD (Proficient, 1.0y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a fast-growing online retailer (2026-03 to present)
+  Scaled a mobile banking app for a fast-growing online retailer in e-commerce using Go, GraphQL, SQL and REST API Design, lifting NPS by 12 points.
+* E-commerce Pricing Engine — a fast-growing online retailer (2025-08 to 2026-02)
+  Built a pricing engine for a fast-growing online retailer in e-commerce using Data Visualization, CI/CD and REST API Design, improving conversion by 35%.
+* Pharma R&D Customer Onboarding Platform — a tier-1 pharma company (2024-04 to 2025-06)
+  Built a customer onboarding platform for a tier-1 pharma company in pharma R&D using SQL, CI/CD, Data Visualization and Communication, lifting NPS by 18 points.
+* Supply-chain Logistics Payments Microservices Platform — a leading logistics company (2023-03 to 2024-04)
+  Modernised a payments microservices platform for a leading logistics company in supply-chain logistics using SQL, Spring Boot, REST API Design and GraphQL, accelerating releases by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect, AI Engineer

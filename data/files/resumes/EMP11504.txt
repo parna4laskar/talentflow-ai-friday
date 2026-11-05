@@ -1,0 +1,33 @@
+BHAVANA MALHOTRA
+Senior Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11504
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 6 years of experience, based in Hyderabad. Strong in SQL, Docker, C# and REST API Design, with recent work in wealth management. Interested in moving towards DevOps Engineer, Software Architect roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 4.0y)
+- Cloud & DevOps: Docker (Advanced, 3.7y), Kubernetes (Proficient, 2.5y)
+- Software Engineering: C# (Proficient, 0.6y), REST API Design (Proficient, 4.3y), Microservices (Proficient, 2.0y), Spring Boot (Proficient, 3.4y), System Design (Working, 2.8y)
+- Quality Engineering: Playwright (Proficient, 0.4y)
+
+EXPERIENCE
+* Wealth Management Order Management System — a leading wealth manager (2026-09 to present)
+  Modernised an order management system for a leading wealth manager in wealth management using System Design, C# and Playwright, onboarding 2 new enterprise clients.
+* HR Tech Pricing Engine — a tier-1 HR software company (2025-12 to 2026-07)
+  Led the delivery of a pricing engine for a tier-1 HR software company in HR tech using Spring Boot, C#, REST API Design and Playwright, improving conversion by 40%.
+* Wealth Management Mobile Banking App — an APAC wealth manager (2024-08 to 2025-10)
+  Migrated a mobile banking app for an APAC wealth manager in wealth management using SQL and Playwright, lifting NPS by 18 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, Software Architect, Engineering Manager

@@ -1,0 +1,31 @@
+KEISHA MILLER
+Senior Data Analyst | Data & Analytics | Austin, United States
+Employee ID: EMP12287
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 7.7 years of experience, based in Austin. Strong in SQL, Data Visualization, Power BI and Snowflake, with recent work in e-commerce. Interested in moving towards Product Manager roles and open to relocating to Pune, Chennai.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 6.5y), Data Visualization (Advanced, 6.3y), Power BI (Advanced, 7.7y), Snowflake (Proficient, 5.1y), Responsible AI (Proficient, 3.2y), Tableau (Working, 2.0y)
+- Product & Design: A/B Testing (Proficient, 0.8y)
+- Business & Finance: Business Analysis (Proficient, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 3.3y), Stakeholder Management (Beginner, 1.3y)
+- Software Engineering: Python (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Regulatory Reporting Suite — a leading online retailer (2026-04 to present)
+  Re-architected a regulatory reporting suite for a leading online retailer in e-commerce using Communication, Python, SQL and Tableau, reducing processing time by 40%.
+* E-commerce Real-time Analytics Pipeline — a European online retailer (2024-09 to 2026-03)
+  Re-architected a real-time analytics pipeline for a European online retailer in e-commerce using Data Visualization, Communication and Business Analysis, reducing processing time by 18%.
+* E-commerce Executive KPI Dashboard Suite — a leading online retailer (2023-08 to 2024-08)
+  Re-architected an executive KPI dashboard suite for a leading online retailer in e-commerce using Python and Tableau, improving forecast accuracy by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Product Manager

@@ -1,0 +1,37 @@
+LAKSHMI KRISHNAN
+Senior Security Engineer | Cyber Security | Gurugram, India
+Employee ID: EMP12573
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 6.4 years of experience, based in Gurugram. Strong in Threat Modeling, Python, Application Security and Identity & Access Management, with recent work in manufacturing IoT. Interested in moving towards Security Analyst, Cloud Engineer roles.
+
+CORE SKILLS
+- Security: Threat Modeling (Advanced, 5.8y), Application Security (Proficient, 1.9y), Identity & Access Management (Proficient, 2.0y), SIEM (Working, 3.1y)
+- Software Engineering: Python (Advanced, 3.0y)
+- Cloud & DevOps: Kubernetes (Proficient, 3.9y), AWS (Proficient, 1.0y)
+- Delivery & Leadership: Communication (Proficient, 2.7y)
+
+EXPERIENCE
+* Manufacturing IoT Identity and Access Platform — a global manufacturer (2025-09 to present)
+  Built an identity and access platform for a global manufacturer in manufacturing IoT using Identity & Access Management and Kubernetes, closing 25% of open audit findings.
+* Manufacturing IoT Cloud Security Posture Programme — a leading manufacturer (2024-05 to 2025-08)
+  Designed a cloud security posture programme for a leading manufacturer in manufacturing IoT using Threat Modeling, Identity & Access Management, Communication and Kubernetes, reducing production incidents by 18%.
+* Public Sector Security Operations Centre Uplift — a leading government agency (2022-10 to 2024-04)
+  Scaled a security operations centre uplift for a leading government agency in public sector using AWS, Application Security and SIEM, reducing production incidents by 35%.
+* Manufacturing IoT Secure SDLC Rollout — an APAC manufacturer (2022-01 to 2022-08)
+  Built a secure SDLC rollout for an APAC manufacturer in manufacturing IoT using AWS, Threat Modeling and Application Security, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- CISSP (2023)
+- CEH (2025)
+- CCSP (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Security Analyst, Cloud Engineer, Software Architect

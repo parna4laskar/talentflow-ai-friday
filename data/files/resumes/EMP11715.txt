@@ -1,0 +1,31 @@
+EMMA DAVIS
+Lead Software Architect | Engineering | New York, United States
+Employee ID: EMP11715
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 15 years of experience, based in New York. Strong in Kubernetes, System Design, GCP and Terraform, with recent work in telecom billing. Interested in moving towards Backend Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 9.5y), GCP (Advanced, 5.1y), Terraform (Advanced, 13.9y)
+- Software Engineering: System Design (Advanced, 6.2y), Java (Proficient, 6.6y), Kafka (Proficient, 6.5y), Microservices (Working, 1.3y)
+- Delivery & Leadership: Mentoring (Proficient, 9.0y), Communication (Proficient, 9.1y), Stakeholder Management (Working, 1.0y)
+
+EXPERIENCE
+* Telecom Billing Pricing Engine — a European telecom operator (2025-08 to present)
+  Scaled a pricing engine for a European telecom operator in telecom billing using Kafka, Kubernetes and Mentoring, reducing processing time by 35%.
+* Insurance Claims Pricing Engine — an APAC insurer (2024-01 to 2025-05)
+  Migrated a pricing engine for an APAC insurer in insurance claims using Kafka and Mentoring, improving conversion by 18%.
+* Telecom Billing Payments Microservices Platform — a fast-growing telecom operator (2023-04 to 2023-12)
+  Re-architected a payments microservices platform for a fast-growing telecom operator in telecom billing using Mentoring, Microservices, Java and GCP, reducing production incidents by 22%.
+* Telecom Billing Customer Onboarding Platform — a fast-growing telecom operator (2022-01 to 2023-01)
+  Automated a customer onboarding platform for a fast-growing telecom operator in telecom billing using Kafka and Communication, improving conversion by 22%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Cloud Engineer

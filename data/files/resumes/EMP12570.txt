@@ -1,0 +1,30 @@
+AARAV MALHOTRA
+Associate Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP12570
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.3 years of experience, based in Gurugram. Strong in REST API Design, Java, Microservices and SQL, with recent work in telecom billing. Interested in moving towards DevOps Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 2.0y), Java (Proficient, 0.6y), Microservices (Proficient, 1.4y), Spring Boot (Working, 1.0y), .NET Core (Beginner, 0.6y)
+- Data & AI: SQL (Working, 0.5y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* Automotive Pricing Engine — a leading car maker (2026-02 to present)
+  Led the delivery of a pricing engine for a leading car maker in automotive using .NET Core, Microservices, Java and Spring Boot, reducing processing time by 40%.
+* Telecom Billing Pricing Engine — a European telecom operator (2025-08 to 2026-01)
+  Re-architected a pricing engine for a European telecom operator in telecom billing using Microservices and SQL, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, AI Engineer, Software Architect

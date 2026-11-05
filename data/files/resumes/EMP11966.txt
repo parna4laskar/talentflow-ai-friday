@@ -1,0 +1,31 @@
+RAJESH DAVIS
+Principal QA Engineer | Quality Engineering | Gurugram, India
+Employee ID: EMP11966
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 23.6 years of experience, based in Gurugram. Strong in Test Automation, Selenium, API Testing and Performance Testing, with recent work in airline operations. Interested in moving towards QA Engineer, Full Stack Engineer roles and open to relocating to Chennai, Bengaluru, New York.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 6.9y), Selenium (Advanced, 16.4y), API Testing (Advanced, 19.7y), Performance Testing (Advanced, 23.1y)
+- Cloud & DevOps: CI/CD (Advanced, 0.5y)
+- Data & AI: SQL (Advanced, 10.8y), Data Engineering (Proficient, 12.5y)
+- Software Engineering: Java (Advanced, 22.1y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 5.0y), People Leadership (Proficient, 4.6y)
+
+EXPERIENCE
+* Airline Operations Test Automation Framework — a tier-1 airline (2026-04 to present)
+  Re-architected a test automation framework for a tier-1 airline in airline operations using API Testing, SQL, Data Engineering and Test Automation, accelerating releases by 40%.
+* Airline Operations Test Automation Framework — a fast-growing airline (2024-10 to 2026-03)
+  Automated a test automation framework for a fast-growing airline in airline operations using SQL, Stakeholder Management, API Testing and Test Automation, accelerating releases by 12%.
+* Public Sector Test Automation Framework — a leading government agency (2023-02 to 2024-08)
+  Built a test automation framework for a leading government agency in public sector using Test Automation and Stakeholder Management, accelerating releases by 40%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: QA Engineer, Full Stack Engineer, DevOps Engineer

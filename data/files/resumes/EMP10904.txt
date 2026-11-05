@@ -1,0 +1,31 @@
+SAMEER SHEIKH
+Senior Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10904
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.7 years of experience, based in Bengaluru. Strong in C#, REST API Design, SQL and Microservices, with recent work in telecom billing. Interested in moving towards DevOps Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 6.2y), REST API Design (Advanced, 2.1y), Microservices (Advanced, 4.6y), Kafka (Proficient, 5.6y), System Design (Working, 2.7y)
+- Data & AI: SQL (Advanced, 8.6y), Agentic AI (Working, 1.9y)
+- Delivery & Leadership: Communication (Proficient, 1.0y)
+
+EXPERIENCE
+* Insurance Claims Pricing Engine — a European insurer (2026-07 to present)
+  Built a pricing engine for a European insurer in insurance claims using Communication, System Design, REST API Design and Agentic AI, improving conversion by 35%.
+* Telecom Billing Self-service Portal — a tier-1 telecom operator (2025-03 to 2026-05)
+  Scaled a self-service portal for a tier-1 telecom operator in telecom billing using C# and Kafka, saving ~30K hours annually.
+* Telecom Billing Order Management System — an APAC telecom operator (2024-03 to 2025-01)
+  Modernised an order management system for an APAC telecom operator in telecom billing using REST API Design and System Design, reducing processing time by 35%.
+* Telecom Billing Claims Processing Engine — a US telecom operator (2023-03 to 2024-01)
+  Scaled a claims processing engine for a US telecom operator in telecom billing using C#, REST API Design and Communication, saving ~12K hours annually.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, AI Engineer

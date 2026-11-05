@@ -1,0 +1,32 @@
+ANJALI MACDONALD
+Senior Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10209
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 6.4 years of experience, based in Hyderabad. Strong in Linux Administration, Azure, Terraform and Platform Engineering, with recent work in telecom billing. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 4.9y), Azure (Proficient, 2.5y), Terraform (Proficient, 2.3y), Platform Engineering (Proficient, 2.6y), CI/CD (Proficient, 2.1y), GCP (Working, 2.4y)
+
+EXPERIENCE
+* Wealth Management Observability Stack — a European wealth manager (2026-05 to present)
+  Automated an observability stack for a European wealth manager in wealth management using Terraform, Platform Engineering, CI/CD and Azure, reducing production incidents by 18%.
+* Telecom Billing Cloud Landing Zone — a leading telecom operator (2025-03 to 2026-03)
+  Modernised a cloud landing zone for a leading telecom operator in telecom billing using CI/CD and Platform Engineering, accelerating releases by 22%.
+* Public Sector Cloud Landing Zone — an APAC government agency (2023-09 to 2025-02)
+  Re-architected a cloud landing zone for an APAC government agency in public sector using CI/CD, Azure, Platform Engineering and Terraform, accelerating releases by 22%.
+* Airline Operations Data-centre Exit To Cloud — a US airline (2022-07 to 2023-07)
+  Re-architected a data-centre exit to cloud for a US airline in airline operations using Platform Engineering, CI/CD, Terraform and GCP, delivering $3M in cost savings.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, Site Reliability Engineer, DevOps Engineer

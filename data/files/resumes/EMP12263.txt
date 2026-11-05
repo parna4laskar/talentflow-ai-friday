@@ -1,0 +1,32 @@
+RIYA PATIL
+Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12263
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4.7 years of experience, based in Pune. Strong in Python, SQL, Data Engineering and dbt, with recent work in public sector. Interested in moving towards AI Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.0y), Kafka (Working, 2.1y), System Design (Working, 1.3y)
+- Data & AI: SQL (Proficient, 2.4y), Data Engineering (Proficient, 2.1y), dbt (Working, 0.6y), Databricks (Working, 1.8y), Data Governance (Working, 0.7y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Public Sector Executive KPI Dashboard Suite — a global government agency (2026-11 to present)
+  Modernised an executive KPI dashboard suite for a global government agency in public sector using Python and Databricks, saving ~12K hours annually.
+* Supply-chain Logistics Real-time Analytics Pipeline — an APAC logistics company (2025-05 to 2026-09)
+  Modernised a real-time analytics pipeline for an APAC logistics company in supply-chain logistics using Data Governance, dbt and Data Engineering, cutting cloud spend by 40%.
+* Public Sector Regulatory Reporting Suite — a leading government agency (2024-05 to 2025-05)
+  Re-architected a regulatory reporting suite for a leading government agency in public sector using Communication, Python and System Design, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, Data Scientist

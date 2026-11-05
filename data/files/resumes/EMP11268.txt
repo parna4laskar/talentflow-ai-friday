@@ -1,0 +1,27 @@
+OMKAR SHAH
+Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11268
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.6 years of experience, based in Gurugram. Strong in JavaScript, React, TypeScript and GraphQL, with recent work in energy trading. Interested in moving towards UX Designer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Proficient, 3.1y), React (Proficient, 2.0y), TypeScript (Working, 2.3y), GraphQL (Working, 1.3y), Node.js (Beginner, 0.9y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a tier-1 hospital network (2025-11 to present)
+  Modernised a payments microservices platform for a tier-1 hospital network in healthcare using JavaScript, TypeScript, React and Node.js, reducing processing time by 12%.
+* Airline Operations Pricing Engine — an APAC airline (2024-06 to 2025-09)
+  Led the delivery of a pricing engine for an APAC airline in airline operations using GraphQL, Node.js and JavaScript, improving conversion by 25%.
+* Automotive Payments Microservices Platform — a global car maker (2023-09 to 2024-06)
+  Migrated a payments microservices platform for a global car maker in automotive using Node.js, React, GraphQL and TypeScript, reducing production incidents by 40%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: UX Designer, QA Engineer, Mobile Engineer

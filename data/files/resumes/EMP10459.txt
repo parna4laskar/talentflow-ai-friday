@@ -1,0 +1,29 @@
+SWATI REDDY
+Lead DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10459
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 15.6 years of experience, based in Hyderabad. Strong in Kubernetes, GCP, CI/CD and Site Reliability Engineering, with recent work in HR tech. Interested in moving towards Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 10.2y), GCP (Expert, 14.1y), CI/CD (Advanced, 14.3y), Site Reliability Engineering (Advanced, 1.7y), Docker (Proficient, 1.5y), Linux Administration (Proficient, 9.3y)
+- Delivery & Leadership: People Leadership (Advanced, 1.4y), Mentoring (Proficient, 4.9y), Stakeholder Management (Proficient, 11.7y)
+- Software Engineering: Go (Proficient, 6.4y), Python (Proficient, 8.5y)
+
+EXPERIENCE
+* Retail Banking Cloud Landing Zone — a leading retail bank (2025-10 to present)
+  Automated a cloud landing zone for a leading retail bank in retail banking using Python, CI/CD and Stakeholder Management, cutting cloud spend by 25%.
+* Energy Trading CI/CD Platform — a European energy company (2024-04 to 2025-10)
+  Modernised a CI/CD platform for a European energy company in energy trading using Mentoring, Docker and Site Reliability Engineering, accelerating releases by 12%.
+* HR Tech CI/CD Platform — a global HR software company (2023-09 to 2024-03)
+  Re-architected a CI/CD platform for a global HR software company in HR tech using Site Reliability Engineering, Docker, Stakeholder Management and Linux Administration, accelerating releases by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Site Reliability Engineer

@@ -1,0 +1,31 @@
+DIVYA IYER
+Associate QA Engineer | Quality Engineering | Chennai, India
+Employee ID: EMP11791
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2.5 years of experience, based in Chennai. Strong in Playwright, CI/CD, Test Automation and API Testing, with recent work in pharma R&D. Interested in moving towards Backend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Proficient, 1.8y), Test Automation (Working, 1.2y), API Testing (Working, 0.8y)
+- Cloud & DevOps: CI/CD (Proficient, 1.0y), FinOps (Beginner, 0.4y)
+- Software Engineering: Java (Working, 0.3y), Python (Working, 0.7y)
+- Data & AI: Machine Learning (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Performance Engineering Programme — a fast-growing pharma company (2025-09 to present)
+  Led the delivery of a performance engineering programme for a fast-growing pharma company in pharma R&D using Python, Playwright, Test Automation and API Testing, reducing production incidents by 22%.
+* Public Sector Performance Engineering Programme — a tier-1 government agency (2024-06 to 2025-08)
+  Migrated a performance engineering programme for a tier-1 government agency in public sector using Playwright and CI/CD, accelerating releases by 18%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Mobile Engineer

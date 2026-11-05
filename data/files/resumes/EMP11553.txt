@@ -1,0 +1,31 @@
+HARINI NAIDU
+Principal Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP11553
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 15.2 years of experience, based in Hyderabad. Strong in Kafka, Mentoring, SQL and Python, with recent work in wealth management. Interested in moving towards Data Scientist, Backend Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Software Engineering: Kafka (Expert, 4.0y), Python (Advanced, 11.4y)
+- Delivery & Leadership: Mentoring (Expert, 15.2y), Stakeholder Management (Advanced, 3.1y), Communication (Advanced, 9.6y), People Leadership (Advanced, 4.9y)
+- Data & AI: SQL (Advanced, 5.6y), Data Engineering (Advanced, 14.4y), dbt (Advanced, 1.1y), Airflow (Proficient, 7.0y), Snowflake (Proficient, 2.0y)
+
+EXPERIENCE
+* Wealth Management Regulatory Reporting Suite — a European wealth manager (2026-05 to present)
+  Re-architected a regulatory reporting suite for a European wealth manager in wealth management using Mentoring, SQL and Stakeholder Management, saving ~12K hours annually.
+* Wealth Management Real-time Analytics Pipeline — an APAC wealth manager (2025-11 to 2026-04)
+  Modernised a real-time analytics pipeline for an APAC wealth manager in wealth management using dbt, Communication and Python, cutting cloud spend by 22%.
+* Wealth Management Data Lakehouse — a European wealth manager (2024-08 to 2025-09)
+  Designed a data lakehouse for a European wealth manager in wealth management using Airflow and Stakeholder Management, reducing processing time by 18%.
+* Airline Operations Customer Churn Model — a European airline (2023-12 to 2024-05)
+  Migrated a customer churn model for a European airline in airline operations using Mentoring, Kafka and Communication, improving conversion by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist, Backend Engineer

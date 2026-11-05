@@ -1,0 +1,29 @@
+FARHAN MALHOTRA
+Principal CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP12747
+
+PROFESSIONAL SUMMARY
+Principal CRM Consultant with 14.2 years of experience, based in Bengaluru. Strong in Salesforce, Business Analysis, Requirements Gathering and Agile/Scrum, with recent work in healthcare. Interested in moving towards Business Analyst, SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Expert, 10.3y), Business Analysis (Advanced, 7.3y), Requirements Gathering (Advanced, 9.9y)
+- Delivery & Leadership: People Leadership (Expert, 6.5y), Agile/Scrum (Advanced, 11.0y), Mentoring (Working, 2.1y)
+- Software Engineering: JavaScript (Proficient, 10.4y)
+
+EXPERIENCE
+* HR Tech CRM Rollout — a leading HR software company (2025-10 to present)
+  Automated a CRM rollout for a leading HR software company in HR tech using Business Analysis, Requirements Gathering and JavaScript, improving conversion by 35%.
+* Healthcare ERP Finance Rollout — a global hospital network (2024-05 to 2025-08)
+  Automated an ERP finance rollout for a global hospital network in healthcare using Salesforce and JavaScript, reducing processing time by 18%.
+* Airline Operations Service Desk Automation — a fast-growing airline (2023-10 to 2024-04)
+  Re-architected a service desk automation for a fast-growing airline in airline operations using Mentoring, Business Analysis, Requirements Gathering and Agile/Scrum, saving ~12K hours annually.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst, SAP Consultant, Account Manager

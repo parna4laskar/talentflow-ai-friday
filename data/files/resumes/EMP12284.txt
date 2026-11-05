@@ -1,0 +1,31 @@
+JESSICA CHEN
+Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP12284
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.4 years of experience, based in New York. Strong in GCP, Terraform, Kubernetes and Communication, with recent work in manufacturing IoT. Interested in moving towards Cloud Engineer, Platform Engineer roles and open to relocating to London.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Proficient, 0.6y), Terraform (Proficient, 1.2y), Kubernetes (Proficient, 1.2y), Linux Administration (Working, 1.1y), Platform Engineering (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 1.7y)
+- Security: Cloud Security (Working, 1.0y)
+
+EXPERIENCE
+* Manufacturing IoT Data-centre Exit To Cloud — a fast-growing manufacturer (2026-04 to present)
+  Migrated a data-centre exit to cloud for a fast-growing manufacturer in manufacturing IoT using Linux Administration, GCP and Kubernetes, cutting cloud spend by 25%.
+* Manufacturing IoT Cloud Landing Zone — a global manufacturer (2025-05 to 2026-02)
+  Re-architected a cloud landing zone for a global manufacturer in manufacturing IoT using Platform Engineering, Kubernetes, Communication and GCP, accelerating releases by 40%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+- Azure Administrator Associate (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer, Platform Engineer, Site Reliability Engineer, DevOps Engineer

@@ -1,0 +1,29 @@
+OWEN SINGH
+ML Engineer | AI Center of Excellence | Toronto, Canada
+Employee ID: EMP10216
+
+PROFESSIONAL SUMMARY
+ML Engineer with 4.7 years of experience, based in Toronto. Strong in Python, Machine Learning, NLP and MLOps, with recent work in energy trading. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.9y)
+- Data & AI: Machine Learning (Advanced, 0.9y), NLP (Advanced, 1.4y), MLOps (Proficient, 2.9y), Computer Vision (Proficient, 2.7y), Deep Learning (Working, 2.2y), Vector Databases (Working, 1.8y), LLM Engineering (Working, 0.3y)
+- Cloud & DevOps: Kubernetes (Working, 0.6y)
+
+EXPERIENCE
+* Retail Banking Agentic Customer-service Assistant — a US retail bank (2026-05 to present)
+  Designed an agentic customer-service assistant for a US retail bank in retail banking using MLOps, Machine Learning, Vector Databases and Python, saving ~22K hours annually.
+* Energy Trading Agentic Customer-service Assistant — a global energy company (2025-08 to 2026-03)
+  Built an agentic customer-service assistant for a global energy company in energy trading using NLP and Computer Vision, lifting NPS by 40 points.
+* Pharma R&D Document Intelligence Pipeline — a leading pharma company (2024-05 to 2025-07)
+  Re-architected a document intelligence pipeline for a leading pharma company in pharma R&D using Vector Databases, LLM Engineering, Deep Learning and MLOps, reducing processing time by 30%.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, French, Telugu
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer

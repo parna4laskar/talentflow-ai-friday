@@ -1,0 +1,32 @@
+ARJUN SHEIKH
+Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP11435
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.6 years of experience, based in Chennai. Strong in SQL, Docker, Python and REST API Design, with recent work in wealth management. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.3y), MLOps (Working, 1.9y)
+- Cloud & DevOps: Docker (Advanced, 1.7y), AWS (Proficient, 1.1y), CI/CD (Working, 1.8y)
+- Software Engineering: Python (Proficient, 3.1y), REST API Design (Proficient, 0.5y), Microservices (Proficient, 2.5y), GraphQL (Proficient, 3.3y), .NET Core (Working, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 0.7y)
+
+EXPERIENCE
+* Wealth Management Order Management System — a tier-1 wealth manager (2025-07 to present)
+  Scaled an order management system for a tier-1 wealth manager in wealth management using REST API Design and SQL, reducing processing time by 25%.
+* Wealth Management Order Management System — a fast-growing wealth manager (2023-10 to 2025-04)
+  Designed an order management system for a fast-growing wealth manager in wealth management using Python, .NET Core and Docker, onboarding 2 new enterprise clients.
+* Wealth Management Self-service Portal — a fast-growing wealth manager (2022-08 to 2023-08)
+  Led the delivery of a self-service portal for a fast-growing wealth manager in wealth management using REST API Design, Python, SQL and Communication, lifting NPS by 35 points.
+* Wealth Management Claims Processing Engine — a US wealth manager (2021-04 to 2022-05)
+  Led the delivery of a claims processing engine for a US wealth manager in wealth management using GraphQL and MLOps, reducing processing time by 22%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Full Stack Engineer

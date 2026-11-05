@@ -1,0 +1,36 @@
+BHAVANA HEGDE
+Lead Financial Analyst | Finance | Hyderabad, India
+Employee ID: EMP12766
+
+PROFESSIONAL SUMMARY
+Lead Financial Analyst with 15 years of experience, based in Hyderabad. Strong in Financial Modeling, FP&A, Financial Analysis and Risk Management, with recent work in automotive. Interested in moving towards Business Analyst, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Financial Modeling (Expert, 11.8y), FP&A (Advanced, 2.1y), Financial Analysis (Proficient, 9.3y), Risk Management (Proficient, 7.6y), SAP FICO (Proficient, 3.9y)
+- Delivery & Leadership: People Leadership (Advanced, 1.4y), Stakeholder Management (Proficient, 10.9y), Mentoring (Proficient, 3.6y)
+- Data & AI: Power BI (Proficient, 9.2y), SQL (Working, 7.3y)
+- Quality Engineering: Playwright (Working, 6.9y)
+
+EXPERIENCE
+* Automotive Rolling Forecasting Model — a European car maker (2026-06 to present)
+  Led a rolling forecasting model for a European car maker in automotive using Stakeholder Management and Financial Modeling, improving forecast accuracy by 30%.
+* Retail Banking Risk Control Framework — a leading retail bank (2025-05 to 2026-04)
+  Built a risk control framework for a leading retail bank in retail banking using SAP FICO and Stakeholder Management, closing 40% of open audit findings.
+* Automotive Rolling Forecasting Model — a global car maker (2024-06 to 2025-02)
+  Led a rolling forecasting model for a global car maker in automotive using Stakeholder Management, Power BI, Risk Management and Playwright, improving forecast accuracy by 25%.
+* Payments Regulatory Capital Reporting — a global payments provider (2023-01 to 2024-03)
+  Redesigned a regulatory capital reporting for a global payments provider in payments using Power BI and Risk Management, reducing processing time by 40%.
+
+CERTIFICATIONS
+- CFA Level II (2024)
+- ACCA (2023)
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Business Analyst, Risk & Compliance Analyst

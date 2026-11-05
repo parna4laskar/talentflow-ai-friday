@@ -1,0 +1,30 @@
+NOAH LEE
+Senior Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP12272
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 5.3 years of experience, based in New York. Strong in AWS, Terraform, Linux Administration and Cloud Security, with recent work in media streaming. Interested in moving towards DevOps Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 3.2y), Terraform (Advanced, 2.0y), Linux Administration (Proficient, 2.5y), FinOps (Working, 2.6y)
+- Security: Cloud Security (Proficient, 2.0y)
+
+EXPERIENCE
+* Media Streaming Observability Stack — an APAC streaming platform (2026-06 to present)
+  Migrated an observability stack for an APAC streaming platform in media streaming using FinOps and Linux Administration, accelerating releases by 30%.
+* Media Streaming Data-centre Exit To Cloud — an APAC streaming platform (2025-06 to 2026-03)
+  Migrated a data-centre exit to cloud for an APAC streaming platform in media streaming using AWS, Cloud Security and FinOps, delivering $8M in cost savings.
+* Media Streaming CI/CD Platform — a global streaming platform (2024-08 to 2025-05)
+  Re-architected a CI/CD platform for a global streaming platform in media streaming using Linux Administration and Cloud Security, accelerating releases by 30%.
+* Telecom Billing Cloud Landing Zone — a leading telecom operator (2024-01 to 2024-07)
+  Migrated a cloud landing zone for a leading telecom operator in telecom billing using Terraform, Cloud Security, Linux Administration and FinOps, cutting cloud spend by 35%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Software Architect, Site Reliability Engineer

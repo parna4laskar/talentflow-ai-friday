@@ -1,0 +1,30 @@
+SURESH AGARWAL
+Senior QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP12675
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 9.3 years of experience, based in Bengaluru. Strong in API Testing, CI/CD, Selenium and Agile/Scrum, with recent work in payments. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Advanced, 5.3y), Selenium (Proficient, 2.7y), Test Automation (Working, 2.0y)
+- Cloud & DevOps: CI/CD (Advanced, 1.7y), Terraform (Proficient, 3.9y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 3.2y)
+- Data & AI: SQL (Working, 2.5y), Generative AI (Working, 2.3y)
+
+EXPERIENCE
+* Healthcare API Contract-testing Suite — an APAC hospital network (2026-07 to present)
+  Scaled an API contract-testing suite for an APAC hospital network in healthcare using Selenium, API Testing, CI/CD and Agile/Scrum, raising automated test coverage to 70%.
+* Insurance Claims Performance Engineering Programme — an APAC insurer (2025-07 to 2026-06)
+  Led the delivery of a performance engineering programme for an APAC insurer in insurance claims using CI/CD, SQL and Selenium, reducing production incidents by 12%.
+* Healthcare Test Automation Framework — a fast-growing hospital network (2024-03 to 2025-06)
+  Led the delivery of a test automation framework for a fast-growing hospital network in healthcare using Agile/Scrum, SQL and Generative AI, raising automated test coverage to 90%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer

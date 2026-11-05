@@ -1,0 +1,32 @@
+OMKAR BHAT
+Senior Financial Analyst | Finance | Chennai, India
+Employee ID: EMP12550
+
+PROFESSIONAL SUMMARY
+Senior Financial Analyst with 7.6 years of experience, based in Chennai. Strong in Financial Analysis, FP&A, Financial Modeling and SAP FICO, with recent work in e-commerce. Interested in moving towards Risk & Compliance Analyst, SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Financial Analysis (Advanced, 5.5y), FP&A (Advanced, 3.1y), Financial Modeling (Advanced, 5.2y), SAP FICO (Advanced, 4.6y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.3y), Communication (Proficient, 2.9y)
+- Data & AI: Power BI (Proficient, 1.0y), SQL (Proficient, 4.8y)
+
+EXPERIENCE
+* E-commerce Regulatory Capital Reporting — a US online retailer (2026-04 to present)
+  Built a regulatory capital reporting for a US online retailer in e-commerce using Financial Analysis and FP&A, reducing processing time by 22%.
+* Energy Trading Rolling Forecasting Model — a US energy company (2025-07 to 2026-02)
+  Built a rolling forecasting model for a US energy company in energy trading using Financial Analysis, FP&A, Communication and Power BI, saving ~22K hours annually.
+* Public Sector Cost Transformation Programme — a US government agency (2023-10 to 2025-04)
+  Redesigned a cost transformation programme for a US government agency in public sector using SQL, Power BI, Financial Modeling and SAP FICO, delivering $3M in cost savings.
+
+CERTIFICATIONS
+- ACCA (2026)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Risk & Compliance Analyst, SAP Consultant

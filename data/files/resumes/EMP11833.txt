@@ -1,0 +1,28 @@
+AVA CHEN
+Site Reliability Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11833
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 2.9 years of experience, based in New York. Strong in Site Reliability Engineering, Observability, Kubernetes and Linux Administration, with recent work in insurance claims. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Proficient, 1.8y), Observability (Proficient, 1.4y), Kubernetes (Proficient, 0.4y), Linux Administration (Proficient, 0.7y), AWS (Working, 0.6y)
+- Security: Incident Response (Working, 1.1y)
+- Delivery & Leadership: Communication (Working, 1.4y)
+- Quality Engineering: Performance Testing (Beginner, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Data-centre Exit To Cloud — a fast-growing insurer (2026-08 to present)
+  Scaled a data-centre exit to cloud for a fast-growing insurer in insurance claims using Performance Testing and Linux Administration, cutting cloud spend by 22%.
+* Insurance Claims Data-centre Exit To Cloud — a leading insurer (2025-03 to 2026-05)
+  Built a data-centre exit to cloud for a leading insurer in insurance claims using AWS, Kubernetes and Communication, delivering $4M in cost savings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer, DevOps Engineer, Platform Engineer

@@ -1,0 +1,31 @@
+KRZYSZTOF KAMIŃSKI
+Cloud Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11011
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.1 years of experience, based in Kraków. Strong in Terraform, Linux Administration, GCP and Kubernetes, with recent work in insurance claims. Interested in moving towards Site Reliability Engineer roles and open to relocating to London, Gurugram, Pune.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 1.6y), Linux Administration (Advanced, 0.8y), GCP (Proficient, 0.4y), Kubernetes (Proficient, 0.9y), FinOps (Proficient, 1.1y), Platform Engineering (Working, 0.3y)
+- Security: Cloud Security (Working, 0.8y)
+- Software Engineering: Python (Working, 0.9y)
+- Data & AI: Generative AI (Working, 1.0y), Databricks (Working, 1.0y)
+
+EXPERIENCE
+* Insurance Claims Cloud Landing Zone — a European insurer (2026-01 to present)
+  Led the delivery of a cloud landing zone for a European insurer in insurance claims using Cloud Security and Terraform, accelerating releases by 18%.
+* Insurance Claims Kubernetes Platform — an APAC insurer (2024-09 to 2025-11)
+  Scaled a Kubernetes platform for an APAC insurer in insurance claims using Cloud Security and FinOps, reducing production incidents by 22%.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2024)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+Polish, English, German
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Site Reliability Engineer

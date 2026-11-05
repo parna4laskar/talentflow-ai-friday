@@ -1,0 +1,32 @@
+RAJESH MEHTA
+Associate Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11276
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2.9 years of experience, based in Hyderabad. Strong in Linux Administration, CI/CD, Communication and AWS, with recent work in wealth management. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Proficient, 1.5y), CI/CD (Proficient, 2.1y), AWS (Working, 1.0y), Terraform (Working, 0.4y), Platform Engineering (Working, 1.3y), FinOps (Beginner, 0.3y), Kubernetes (Beginner, 0.3y), Observability (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.8y)
+- Software Engineering: Python (Working, 0.4y)
+- Data & AI: Machine Learning (Beginner, 0.4y)
+
+EXPERIENCE
+* E-commerce Kubernetes Platform — a global online retailer (2026-01 to present)
+  Led the delivery of a Kubernetes platform for a global online retailer in e-commerce using Python, AWS and FinOps, reducing production incidents by 35%.
+* Wealth Management Cloud Landing Zone — an APAC wealth manager (2024-08 to 2025-10)
+  Re-architected a cloud landing zone for an APAC wealth manager in wealth management using FinOps and Kubernetes, accelerating releases by 40%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2026)
+- Google Professional Cloud Architect (2024)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Cloud Engineer, DevOps Engineer, Site Reliability Engineer

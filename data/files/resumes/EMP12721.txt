@@ -1,0 +1,27 @@
+DARRAGH RYAN
+Associate Frontend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP12721
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1 years of experience, based in Dublin. Strong in TypeScript, JavaScript, Next.js and Angular, with recent work in telecom billing. Interested in moving towards Mobile Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.5y), JavaScript (Advanced, 0.7y), Next.js (Proficient, 0.6y), Angular (Working, 0.4y), REST API Design (Working, 0.3y), GraphQL (Beginner, 0.3y)
+- Product & Design: Figma (Working, 0.5y), Design Systems (Beginner, 0.3y)
+- Cloud & DevOps: Terraform (Beginner, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a global logistics company (2026-01 to present)
+  Designed a payments microservices platform for a global logistics company in supply-chain logistics using REST API Design and JavaScript, reducing processing time by 22%.
+* Telecom Billing Order Management System — a US telecom operator (2025-06 to 2025-11)
+  Built an order management system for a US telecom operator in telecom billing using Design Systems, TypeScript, JavaScript and Angular, onboarding 8 new enterprise clients.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Mobile Engineer, UX Designer

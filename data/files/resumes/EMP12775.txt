@@ -1,0 +1,28 @@
+HANNAH KHAN
+Associate Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12775
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 0.7 years of experience, based in London. Strong in JavaScript, React, Figma and Playwright, with recent work in supply-chain logistics. Interested in moving towards QA Engineer roles and open to relocating to Gurugram, Chennai.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Proficient, 0.5y), React (Proficient, 0.5y), GraphQL (Working, 0.3y), TypeScript (Beginner, 0.3y), Next.js (Beginner, 0.3y)
+- Product & Design: Figma (Proficient, 0.5y)
+- Quality Engineering: Playwright (Working, 0.3y)
+- Data & AI: Responsible AI (Working, 0.3y)
+
+EXPERIENCE
+* Airline Operations Payments Microservices Platform — a fast-growing airline (2025-11 to present)
+  Automated a payments microservices platform for a fast-growing airline in airline operations using Figma and React, reducing production incidents by 30%.
+* Supply-chain Logistics Customer Onboarding Platform — an APAC logistics company (2024-12 to 2025-09)
+  Migrated a customer onboarding platform for an APAC logistics company in supply-chain logistics using Next.js, Figma and React, improving conversion by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: QA Engineer

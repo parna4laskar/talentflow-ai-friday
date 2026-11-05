@@ -1,0 +1,32 @@
+TEJAS KAUR
+Senior Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP10049
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.9 years of experience, based in Pune. Strong in React, TypeScript, JavaScript and Playwright, with recent work in manufacturing IoT. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 3.8y), TypeScript (Proficient, 4.8y), JavaScript (Proficient, 1.9y), Next.js (Working, 0.5y)
+- Quality Engineering: Playwright (Proficient, 2.7y)
+- Cloud & DevOps: CI/CD (Proficient, 0.7y)
+- Product & Design: Figma (Working, 2.5y)
+
+EXPERIENCE
+* Manufacturing IoT Order Management System — an APAC manufacturer (2025-07 to present)
+  Led the delivery of an order management system for an APAC manufacturer in manufacturing IoT using TypeScript and React, reducing processing time by 22%.
+* Insurance Claims Order Management System — a tier-1 insurer (2024-10 to 2025-05)
+  Automated an order management system for a tier-1 insurer in insurance claims using TypeScript, CI/CD, Next.js and React, onboarding 2 new enterprise clients.
+* Media Streaming Claims Processing Engine — a fast-growing streaming platform (2023-12 to 2024-07)
+  Led the delivery of a claims processing engine for a fast-growing streaming platform in media streaming using TypeScript, React and Playwright, saving ~35K hours annually.
+* Insurance Claims Self-service Portal — a global insurer (2022-09 to 2023-11)
+  Migrated a self-service portal for a global insurer in insurance claims using Figma and Playwright, saving ~25K hours annually.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer

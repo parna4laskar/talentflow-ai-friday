@@ -1,0 +1,28 @@
+NIKHIL JADHAV
+Data Engineer | Data & Analytics | Gurugram, India
+Employee ID: EMP11644
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.2 years of experience, based in Gurugram. Strong in Data Engineering, Apache Spark, Python and Data Governance, with recent work in energy trading. Interested in moving towards Data Scientist, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 1.3y), Apache Spark (Advanced, 1.7y), Data Governance (Proficient, 1.1y), SQL (Working, 0.7y), dbt (Working, 0.9y)
+- Software Engineering: Python (Proficient, 0.5y)
+- Quality Engineering: Playwright (Working, 0.6y)
+- Cloud & DevOps: AWS (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Real-time Analytics Pipeline — a European energy company (2025-05 to present)
+  Built a real-time analytics pipeline for a European energy company in energy trading using Python, AWS, dbt and Playwright, cutting cloud spend by 35%.
+* Payments Customer Churn Model — an APAC payments provider (2024-07 to 2025-04)
+  Scaled a customer churn model for an APAC payments provider in payments using Data Governance and SQL, improving conversion by 35%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Scientist, ML Engineer

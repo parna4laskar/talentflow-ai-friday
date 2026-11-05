@@ -1,0 +1,34 @@
+JAMAL RODRIGUEZ
+Senior Data Scientist | Data & Analytics | Austin, United States
+Employee ID: EMP10332
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 8.3 years of experience, based in Austin. Strong in SQL, MLOps, Apache Spark and Data Visualization, with recent work in e-commerce. Interested in moving towards Data Scientist, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 4.2y), MLOps (Proficient, 6.2y), Apache Spark (Proficient, 4.5y), Data Visualization (Proficient, 4.1y), Machine Learning (Working, 1.1y), Statistics (Working, 2.1y), Generative AI (Working, 1.9y)
+- Cloud & DevOps: Terraform (Proficient, 4.2y)
+- Software Engineering: Python (Working, 1.4y)
+
+EXPERIENCE
+* Supply-chain Logistics Executive KPI Dashboard Suite — a fast-growing logistics company (2026-06 to present)
+  Built an executive KPI dashboard suite for a fast-growing logistics company in supply-chain logistics using Generative AI, Terraform, Machine Learning and MLOps, saving ~30K hours annually.
+* E-commerce Real-time Analytics Pipeline — a European online retailer (2025-02 to 2026-06)
+  Automated a real-time analytics pipeline for a European online retailer in e-commerce using Terraform and Data Visualization, cutting cloud spend by 12%.
+* E-commerce Customer Churn Model — a tier-1 online retailer (2024-02 to 2025-01)
+  Modernised a customer churn model for a tier-1 online retailer in e-commerce using SQL, Generative AI, Machine Learning and Apache Spark, improving model accuracy by 12%.
+* E-commerce Data Lakehouse — an APAC online retailer (2023-05 to 2023-12)
+  Built a data lakehouse for an APAC online retailer in e-commerce using Statistics, Python and Terraform, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Scientist, ML Engineer, Product Manager

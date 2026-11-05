@@ -1,0 +1,31 @@
+NIKHIL KAUR
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP12853
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 10 years of experience, based in Bengaluru. Strong in Stakeholder Management, People Leadership, Microservices and System Design, with recent work in airline operations. Interested in moving towards Program Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 10.0y), People Leadership (Advanced, 5.1y), Agile/Scrum (Proficient, 3.1y), Mentoring (Proficient, 0.4y), Communication (Proficient, 4.5y)
+- Software Engineering: Microservices (Advanced, 9.4y), System Design (Proficient, 6.8y)
+- Cloud & DevOps: AWS (Working, 1.9y)
+
+EXPERIENCE
+* Healthcare Self-service Portal — a tier-1 hospital network (2025-12 to present)
+  Automated a self-service portal for a tier-1 hospital network in healthcare using Communication, Microservices and People Leadership, saving ~12K hours annually.
+* Airline Operations Pricing Engine — a global airline (2024-08 to 2025-11)
+  Re-architected a pricing engine for a global airline in airline operations using Mentoring, Agile/Scrum and Stakeholder Management, improving conversion by 40%.
+* Airline Operations Pricing Engine — a fast-growing airline (2023-12 to 2024-06)
+  Migrated a pricing engine for a fast-growing airline in airline operations using Communication, AWS and System Design, improving conversion by 18%.
+* Airline Operations Mobile Banking App — a global airline (2023-03 to 2023-10)
+  Scaled a mobile banking app for a global airline in airline operations using AWS, Microservices, System Design and Mentoring, lifting NPS by 22 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Program Manager

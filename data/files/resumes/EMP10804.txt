@@ -1,0 +1,29 @@
+AKASH RODRIGUEZ
+Site Reliability Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10804
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 2.1 years of experience, based in Hyderabad. Strong in Site Reliability Engineering, Observability, Kubernetes and Linux Administration, with recent work in supply-chain logistics. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Proficient, 1.6y), Observability (Proficient, 0.9y), Kubernetes (Proficient, 0.7y), Linux Administration (Proficient, 1.3y), Terraform (Proficient, 1.2y), Platform Engineering (Beginner, 0.3y)
+- Software Engineering: Go (Proficient, 1.4y)
+- Quality Engineering: Performance Testing (Proficient, 1.6y)
+- Security: Incident Response (Working, 0.6y)
+- Delivery & Leadership: Communication (Working, 0.8y)
+
+EXPERIENCE
+* Insurance Claims CI/CD Platform — a fast-growing insurer (2025-09 to present)
+  Led the delivery of a CI/CD platform for a fast-growing insurer in insurance claims using Linux Administration and Site Reliability Engineering, accelerating releases by 25%.
+* Public Sector CI/CD Platform — an APAC government agency (2024-04 to 2025-06)
+  Re-architected a CI/CD platform for an APAC government agency in public sector using Observability, Site Reliability Engineering and Linux Administration, accelerating releases by 25%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, Cloud Engineer, Platform Engineer, DevOps Engineer

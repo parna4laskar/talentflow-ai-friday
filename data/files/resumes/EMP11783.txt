@@ -1,0 +1,33 @@
+SHREYA GOKHALE
+Principal Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP11783
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 14.3 years of experience, based in Pune. Strong in SQL, Data Visualization, Tableau and Mentoring, with recent work in supply-chain logistics. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 5.6y), Data Visualization (Expert, 1.6y), Tableau (Expert, 14.3y), Snowflake (Advanced, 8.7y)
+- Delivery & Leadership: Mentoring (Expert, 14.3y), Communication (Advanced, 14.0y)
+- Business & Finance: Business Analysis (Working, 4.8y)
+- Cloud & DevOps: Terraform (Working, 3.5y)
+
+EXPERIENCE
+* E-commerce Regulatory Reporting Suite — a tier-1 online retailer (2026-05 to present)
+  Designed a regulatory reporting suite for a tier-1 online retailer in e-commerce using SQL, Business Analysis and Tableau, reducing processing time by 35%.
+* Payments Customer Churn Model — a leading payments provider (2025-09 to 2026-03)
+  Designed a customer churn model for a leading payments provider in payments using Tableau, Business Analysis and Mentoring, improving conversion by 12%.
+* Public Sector Real-time Analytics Pipeline — an APAC government agency (2024-12 to 2025-08)
+  Modernised a real-time analytics pipeline for an APAC government agency in public sector using Business Analysis and Terraform, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2023)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Analyst, Financial Analyst

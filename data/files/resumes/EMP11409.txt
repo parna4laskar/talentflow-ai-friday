@@ -1,0 +1,33 @@
+FARHAN SHEIKH
+Principal Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11409
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 21.2 years of experience, based in Bengaluru. Strong in Angular, SQL, GraphQL and Java, with recent work in pharma R&D. Interested in moving towards Mobile Engineer roles and open to relocating to London, Chennai, Hyderabad.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 7.5y), GraphQL (Expert, 1.7y), Java (Advanced, 11.3y), Next.js (Advanced, 20.4y), Microservices (Advanced, 10.9y), TypeScript (Proficient, 5.8y)
+- Data & AI: SQL (Expert, 2.0y), LLM Engineering (Advanced, 5.7y), Generative AI (Advanced, 20.9y)
+- Cloud & DevOps: AWS (Advanced, 19.5y), Docker (Proficient, 4.2y)
+- Delivery & Leadership: Mentoring (Advanced, 17.5y), Communication (Advanced, 15.4y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a European pharma company (2026-11 to present)
+  Automated a pricing engine for a European pharma company in pharma R&D using LLM Engineering, Mentoring, Java and Next.js, improving conversion by 30%.
+* Telecom Billing Order Management System — an APAC telecom operator (2025-06 to 2026-10)
+  Scaled an order management system for an APAC telecom operator in telecom billing using Communication, AWS and TypeScript, onboarding 6 new enterprise clients.
+* Pharma R&D Customer Onboarding Platform — a fast-growing pharma company (2024-09 to 2025-04)
+  Led the delivery of a customer onboarding platform for a fast-growing pharma company in pharma R&D using Angular, Microservices, LLM Engineering and GraphQL, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer

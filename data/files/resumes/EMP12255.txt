@@ -1,0 +1,30 @@
+VARUN CHATTERJEE
+Senior Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP12255
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 7.5 years of experience, based in Pune. Strong in TypeScript, Angular, Python and Docker, with recent work in supply-chain logistics. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.9y), Angular (Advanced, 6.4y), Python (Advanced, 5.1y), GraphQL (Proficient, 3.8y), Microservices (Proficient, 0.5y), REST API Design (Working, 3.0y)
+- Cloud & DevOps: Docker (Advanced, 6.7y), AWS (Proficient, 5.5y)
+- Data & AI: SQL (Proficient, 5.6y)
+- Delivery & Leadership: Communication (Proficient, 4.1y)
+
+EXPERIENCE
+* Healthcare Self-service Portal — a US hospital network (2025-11 to present)
+  Re-architected a self-service portal for a US hospital network in healthcare using Docker and Angular, lifting NPS by 35 points.
+* Retail Banking Payments Microservices Platform — an APAC retail bank (2025-02 to 2025-09)
+  Migrated a payments microservices platform for an APAC retail bank in retail banking using REST API Design, Microservices and Angular, reducing processing time by 30%.
+* Supply-chain Logistics Mobile Banking App — a global logistics company (2023-10 to 2025-01)
+  Modernised a mobile banking app for a global logistics company in supply-chain logistics using REST API Design, Angular and AWS, improving conversion by 22%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Backend Engineer, Frontend Engineer, Mobile Engineer

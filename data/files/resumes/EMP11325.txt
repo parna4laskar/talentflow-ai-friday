@@ -1,0 +1,29 @@
+RADHIKA MUKHERJEE
+Platform Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11325
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 5.4 years of experience, based in Hyderabad. Strong in CI/CD, Platform Engineering, Terraform and Communication, with recent work in airline operations. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 4.8y), Platform Engineering (Proficient, 1.1y), Terraform (Proficient, 0.7y), Kubernetes (Working, 1.0y), Site Reliability Engineering (Working, 2.4y), Observability (Beginner, 0.8y)
+- Delivery & Leadership: Communication (Proficient, 1.6y)
+- Software Engineering: Go (Working, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Observability Stack — a leading insurer (2025-09 to present)
+  Built an observability stack for a leading insurer in insurance claims using Terraform, Observability, Go and Communication, accelerating releases by 40%.
+* Airline Operations Cloud Landing Zone — a tier-1 airline (2025-02 to 2025-08)
+  Designed a cloud landing zone for a tier-1 airline in airline operations using Platform Engineering and CI/CD, accelerating releases by 12%.
+* Airline Operations Data-centre Exit To Cloud — a European airline (2024-02 to 2025-02)
+  Modernised a data-centre exit to cloud for a European airline in airline operations using Communication, Go and CI/CD, cutting cloud spend by 22%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Site Reliability Engineer

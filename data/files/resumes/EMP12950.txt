@@ -1,0 +1,34 @@
+RAJESH MEHTA
+Senior Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12950
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 10.4 years of experience, based in Hyderabad. Strong in Angular, Terraform, TypeScript and JavaScript, with recent work in automotive. Interested in moving towards Frontend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 4.5y), TypeScript (Proficient, 0.4y), JavaScript (Proficient, 7.6y)
+- Cloud & DevOps: Terraform (Advanced, 2.0y), CI/CD (Working, 0.4y)
+- Quality Engineering: Playwright (Proficient, 7.6y)
+
+EXPERIENCE
+* Airline Operations Self-service Portal — a global airline (2026-06 to present)
+  Scaled a self-service portal for a global airline in airline operations using CI/CD, TypeScript and Terraform, saving ~25K hours annually.
+* Automotive Pricing Engine — a leading car maker (2025-06 to 2026-04)
+  Automated a pricing engine for a leading car maker in automotive using CI/CD and Playwright, improving conversion by 40%.
+* E-commerce Pricing Engine — a global online retailer (2024-01 to 2025-05)
+  Designed a pricing engine for a global online retailer in e-commerce using TypeScript and Playwright, improving conversion by 30%.
+* Media Streaming Pricing Engine — a leading streaming platform (2022-06 to 2023-11)
+  Migrated a pricing engine for a leading streaming platform in media streaming using Angular and CI/CD, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, Full Stack Engineer, UX Designer

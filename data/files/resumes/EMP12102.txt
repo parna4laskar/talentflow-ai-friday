@@ -1,0 +1,30 @@
+ARVIND JADHAV
+Lead Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12102
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 15 years of experience, based in Bengaluru. Strong in REST API Design, Go, SQL and System Design, with recent work in telecom billing. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 5.0y), Go (Advanced, 4.0y), System Design (Advanced, 2.4y), Microservices (Working, 5.2y)
+- Data & AI: SQL (Advanced, 8.1y)
+- Cloud & DevOps: CI/CD (Advanced, 4.4y), AWS (Proficient, 5.0y)
+- Delivery & Leadership: Mentoring (Proficient, 7.2y), Communication (Beginner, 3.2y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a European pharma company (2026-04 to present)
+  Scaled a pricing engine for a European pharma company in pharma R&D using Communication, SQL, REST API Design and CI/CD, reducing processing time by 18%.
+* Airline Operations Mobile Banking App — a fast-growing airline (2025-05 to 2026-03)
+  Led the delivery of a mobile banking app for a fast-growing airline in airline operations using Go, Communication and CI/CD, lifting NPS by 12 points.
+* Insurance Claims Customer Onboarding Platform — a fast-growing insurer (2024-03 to 2025-03)
+  Automated a customer onboarding platform for a fast-growing insurer in insurance claims using System Design, Communication, Go and SQL, improving conversion by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Software Architect, DevOps Engineer

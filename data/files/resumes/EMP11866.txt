@@ -1,0 +1,35 @@
+NIKHIL REDDY
+Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11866
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.5 years of experience, based in Hyderabad. Strong in SQL, GraphQL, React and TypeScript, with recent work in retail banking. Interested in moving towards Backend Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.9y)
+- Software Engineering: GraphQL (Advanced, 2.3y), React (Proficient, 2.6y), TypeScript (Working, 0.7y), Node.js (Working, 1.9y), REST API Design (Working, 0.7y)
+- Delivery & Leadership: Communication (Working, 1.5y)
+- Cloud & DevOps: Docker (Beginner, 0.8y)
+
+EXPERIENCE
+* Retail Banking Self-service Portal — a tier-1 retail bank (2026-09 to present)
+  Scaled a self-service portal for a tier-1 retail bank in retail banking using SQL and Communication, lifting NPS by 22 points.
+* Telecom Billing Customer Onboarding Platform — an APAC telecom operator (2025-10 to 2026-08)
+  Migrated a customer onboarding platform for an APAC telecom operator in telecom billing using GraphQL, SQL and Node.js, lifting NPS by 35 points.
+* Retail Banking Customer Onboarding Platform — a leading retail bank (2024-11 to 2025-08)
+  Modernised a customer onboarding platform for a leading retail bank in retail banking using React, Docker and REST API Design, reducing processing time by 18%.
+* Media Streaming Order Management System — a global streaming platform (2023-04 to 2024-10)
+  Migrated an order management system for a global streaming platform in media streaming using TypeScript and GraphQL, reducing processing time by 18%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Frontend Engineer

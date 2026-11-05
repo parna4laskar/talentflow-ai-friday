@@ -1,0 +1,30 @@
+SAMEER SEN
+Data Scientist | Data & Analytics | Gurugram, India
+Employee ID: EMP12631
+
+PROFESSIONAL SUMMARY
+Data Scientist with 4.1 years of experience, based in Gurugram. Strong in Python, Machine Learning, Statistics and SQL, with recent work in automotive. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.6y)
+- Data & AI: Machine Learning (Proficient, 1.2y), Statistics (Proficient, 1.0y), SQL (Proficient, 0.9y), Apache Spark (Proficient, 0.8y), Data Visualization (Beginner, 0.3y)
+- Product & Design: A/B Testing (Proficient, 1.3y)
+- Cloud & DevOps: FinOps (Working, 1.0y)
+
+EXPERIENCE
+* E-commerce Regulatory Reporting Suite — a fast-growing online retailer (2026-02 to present)
+  Modernised a regulatory reporting suite for a fast-growing online retailer in e-commerce using A/B Testing and Python, saving ~12K hours annually.
+* Automotive Real-time Analytics Pipeline — an APAC car maker (2024-06 to 2025-11)
+  Automated a real-time analytics pipeline for an APAC car maker in automotive using Data Visualization, SQL, Statistics and FinOps, cutting cloud spend by 40%.
+* HR Tech Executive KPI Dashboard Suite — a global HR software company (2023-11 to 2024-05)
+  Modernised an executive KPI dashboard suite for a global HR software company in HR tech using A/B Testing and SQL, saving ~25K hours annually.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: ML Engineer, AI Engineer

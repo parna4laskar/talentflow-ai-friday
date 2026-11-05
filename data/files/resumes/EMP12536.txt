@@ -1,0 +1,27 @@
+KARTHIK REDDY
+Associate Security Analyst | Cyber Security | Hyderabad, India
+Employee ID: EMP12536
+
+PROFESSIONAL SUMMARY
+Associate Security Analyst with 1.6 years of experience, based in Hyderabad. Strong in Threat Modeling, SIEM, Linux Administration and Incident Response, with recent work in wealth management. Interested in moving towards Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: Threat Modeling (Advanced, 0.7y), SIEM (Proficient, 1.2y), Incident Response (Working, 0.6y), GRC (Working, 0.5y), Cloud Security (Working, 0.6y)
+- Cloud & DevOps: Linux Administration (Proficient, 0.8y)
+- Software Engineering: Python (Working, 0.6y)
+
+EXPERIENCE
+* Wealth Management Secure SDLC Rollout — a fast-growing wealth manager (2025-12 to present)
+  Modernised a secure SDLC rollout for a fast-growing wealth manager in wealth management using Threat Modeling, SIEM and Python, reducing production incidents by 40%.
+* Wealth Management Cloud Security Posture Programme — a tier-1 wealth manager (2025-03 to 2025-11)
+  Scaled a cloud security posture programme for a tier-1 wealth manager in wealth management using Python, SIEM and Linux Administration, reducing production incidents by 12%.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Site Reliability Engineer

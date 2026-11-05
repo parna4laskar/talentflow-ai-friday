@@ -1,0 +1,28 @@
+JUN HAO ONG
+Senior Security Engineer | Cyber Security | Singapore, Singapore
+Employee ID: EMP11657
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 6.8 years of experience, based in Singapore. Strong in Identity & Access Management, GRC, Application Security and Threat Modeling, with recent work in public sector. Interested in moving towards Security Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: Identity & Access Management (Advanced, 0.9y), GRC (Advanced, 6.7y), Application Security (Proficient, 4.9y), Threat Modeling (Proficient, 4.7y), Incident Response (Proficient, 2.4y)
+- Delivery & Leadership: Communication (Working, 2.2y)
+
+EXPERIENCE
+* Public Sector Identity and Access Platform — a global government agency (2025-12 to present)
+  Migrated an identity and access platform for a global government agency in public sector using Application Security, Threat Modeling and Incident Response, closing 22% of open audit findings.
+* Public Sector Secure SDLC Rollout — a tier-1 government agency (2024-09 to 2025-10)
+  Built a secure SDLC rollout for a tier-1 government agency in public sector using Communication, Application Security, Threat Modeling and GRC, reducing production incidents by 40%.
+* Public Sector Security Operations Centre Uplift — a European government agency (2023-05 to 2024-07)
+  Re-architected a security operations centre uplift for a European government agency in public sector using GRC, Application Security and Incident Response, reducing production incidents by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Security Engineer, Site Reliability Engineer, Security Analyst

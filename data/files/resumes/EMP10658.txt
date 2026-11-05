@@ -1,0 +1,30 @@
+KAVYA SUBRAMANIAN
+Mobile Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10658
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 3.2 years of experience, based in Hyderabad. Strong in CI/CD, Mobile Development, Flutter and REST API Design, with recent work in public sector. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 1.8y)
+- Software Engineering: Mobile Development (Proficient, 1.7y), Flutter (Proficient, 2.0y), REST API Design (Proficient, 1.1y), TypeScript (Proficient, 1.7y)
+- Quality Engineering: Test Automation (Proficient, 1.5y)
+- Product & Design: UI Design (Working, 1.2y)
+
+EXPERIENCE
+* Automotive Customer Onboarding Platform — a fast-growing car maker (2026-08 to present)
+  Migrated a customer onboarding platform for a fast-growing car maker in automotive using Mobile Development and REST API Design, lifting NPS by 40 points.
+* Public Sector Mobile Banking App — a leading government agency (2024-12 to 2026-05)
+  Designed a mobile banking app for a leading government agency in public sector using TypeScript, REST API Design and UI Design, improving conversion by 40%.
+* Public Sector Payments Microservices Platform — a tier-1 government agency (2023-12 to 2024-11)
+  Led the delivery of a payments microservices platform for a tier-1 government agency in public sector using CI/CD, Flutter, Test Automation and REST API Design, reducing production incidents by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer

@@ -1,0 +1,35 @@
+AKASH DESHPANDE
+Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11386
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 4.3 years of experience, based in Hyderabad. Strong in GCP, Terraform, Linux Administration and Kubernetes, with recent work in supply-chain logistics. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Proficient, 0.8y), Terraform (Proficient, 2.7y), Linux Administration (Proficient, 0.5y), Kubernetes (Proficient, 1.7y), FinOps (Proficient, 2.8y), CI/CD (Proficient, 2.6y)
+- Security: Cloud Security (Proficient, 1.8y)
+- Software Engineering: Python (Proficient, 2.8y)
+
+EXPERIENCE
+* Supply-chain Logistics CI/CD Platform — a European logistics company (2025-11 to present)
+  Led the delivery of a CI/CD platform for a European logistics company in supply-chain logistics using Python, Terraform, Linux Administration and Cloud Security, accelerating releases by 18%.
+* Supply-chain Logistics Data-centre Exit To Cloud — a global logistics company (2024-12 to 2025-10)
+  Led the delivery of a data-centre exit to cloud for a global logistics company in supply-chain logistics using Python and Terraform, cutting cloud spend by 22%.
+* Supply-chain Logistics Observability Stack — a leading logistics company (2024-06 to 2024-10)
+  Built an observability stack for a leading logistics company in supply-chain logistics using Python, Linux Administration and Kubernetes, reducing production incidents by 18%.
+* Retail Banking CI/CD Platform — a European retail bank (2023-04 to 2024-04)
+  Modernised a CI/CD platform for a European retail bank in retail banking using Python, CI/CD and Cloud Security, accelerating releases by 40%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2024)
+- Azure Administrator Associate (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Cloud Engineer, DevOps Engineer, Software Architect, Site Reliability Engineer

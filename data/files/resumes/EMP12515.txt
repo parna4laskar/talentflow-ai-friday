@@ -1,0 +1,35 @@
+VIKRAM REDDY
+Senior Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP12515
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 7.7 years of experience, based in Chennai. Strong in SQL, Power BI, Data Visualization and A/B Testing, with recent work in healthcare. Interested in moving towards Financial Analyst, Business Analyst roles and open to relocating to Toronto, Pune.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 6.8y), Power BI (Advanced, 0.5y), Data Visualization (Proficient, 0.9y), Statistics (Working, 3.8y), Snowflake (Working, 0.8y)
+- Product & Design: A/B Testing (Proficient, 4.4y)
+- Cloud & DevOps: FinOps (Proficient, 3.0y)
+- Software Engineering: Python (Working, 3.7y)
+
+EXPERIENCE
+* Airline Operations Customer Churn Model — a European airline (2026-08 to present)
+  Led the delivery of a customer churn model for a European airline in airline operations using Snowflake, Python and Statistics, improving conversion by 12%.
+* Retail Banking Data Lakehouse — a European retail bank (2026-01 to 2026-06)
+  Designed a data lakehouse for a European retail bank in retail banking using FinOps, Power BI and Python, reducing processing time by 40%.
+* Healthcare Executive KPI Dashboard Suite — a global hospital network (2025-04 to 2025-11)
+  Designed an executive KPI dashboard suite for a global hospital network in healthcare using Snowflake and Python, saving ~22K hours annually.
+* Telecom Billing Executive KPI Dashboard Suite — a global telecom operator (2024-05 to 2025-03)
+  Modernised an executive KPI dashboard suite for a global telecom operator in telecom billing using A/B Testing, Snowflake and Data Visualization, saving ~18K hours annually.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2021)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Financial Analyst, Business Analyst, Product Manager

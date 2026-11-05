@@ -1,0 +1,29 @@
+HARINI BOSE
+Associate Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12684
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 0 years of experience, based in Bengaluru. Strong in TypeScript, JavaScript, React and Design Systems, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.3y), JavaScript (Proficient, 0.3y), React (Proficient, 0.3y), Node.js (Beginner, 0.3y)
+- Product & Design: Design Systems (Working, 0.3y), Figma (Working, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Pricing Engine — a tier-1 telecom operator (2025-10 to present)
+  Re-architected a pricing engine for a tier-1 telecom operator in telecom billing using React and JavaScript, improving conversion by 12%.
+* Retail Banking Payments Microservices Platform — an APAC retail bank (2024-09 to 2025-10)
+  Migrated a payments microservices platform for an APAC retail bank in retail banking using Design Systems, Figma, JavaScript and React, accelerating releases by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Frontend Engineer, Mobile Engineer

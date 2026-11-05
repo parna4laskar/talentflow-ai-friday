@@ -1,0 +1,32 @@
+ZUZANNA NOWAK
+Principal Cloud Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP12916
+
+PROFESSIONAL SUMMARY
+Principal Cloud Engineer with 22.5 years of experience, based in Kraków. Strong in Terraform, AWS, Linux Administration and Kubernetes, with recent work in pharma R&D. Interested in moving towards Site Reliability Engineer, Platform Engineer roles and open to relocating to Gurugram, Bengaluru, Austin.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 6.3y), AWS (Advanced, 12.3y), Linux Administration (Advanced, 17.7y), Kubernetes (Advanced, 19.5y), FinOps (Advanced, 17.5y), Platform Engineering (Proficient, 8.7y), Observability (Proficient, 2.5y)
+- Delivery & Leadership: Mentoring (Advanced, 16.2y), Stakeholder Management (Advanced, 17.2y), Communication (Advanced, 5.1y)
+
+EXPERIENCE
+* Pharma R&D Observability Stack — a European pharma company (2026-04 to present)
+  Modernised an observability stack for a European pharma company in pharma R&D using AWS and Mentoring, reducing production incidents by 30%.
+* Pharma R&D Kubernetes Platform — a European pharma company (2025-01 to 2026-02)
+  Scaled a Kubernetes platform for a European pharma company in pharma R&D using Kubernetes, Linux Administration, Mentoring and Stakeholder Management, cutting cloud spend by 22%.
+* Pharma R&D Observability Stack — a fast-growing pharma company (2023-04 to 2024-10)
+  Scaled an observability stack for a fast-growing pharma company in pharma R&D using FinOps, Terraform, AWS and Mentoring, reducing production incidents by 22%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2024)
+- Google Professional Cloud Architect (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Site Reliability Engineer, Platform Engineer

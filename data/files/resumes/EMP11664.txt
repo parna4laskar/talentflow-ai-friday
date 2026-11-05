@@ -1,0 +1,26 @@
+SANJANA KAUR
+Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11664
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.1 years of experience, based in Hyderabad. Strong in Python, TypeScript, React and SQL, with recent work in payments. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.8y), TypeScript (Proficient, 0.9y), React (Proficient, 1.1y), Next.js (Proficient, 0.8y), REST API Design (Proficient, 1.5y), Flutter (Proficient, 1.5y), GraphQL (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.5y)
+
+EXPERIENCE
+* Insurance Claims Customer Onboarding Platform — a US insurer (2025-06 to present)
+  Scaled a customer onboarding platform for a US insurer in insurance claims using Flutter, TypeScript, GraphQL and REST API Design, reducing processing time by 25%.
+* Manufacturing IoT Payments Microservices Platform — a fast-growing manufacturer (2024-02 to 2025-05)
+  Scaled a payments microservices platform for a fast-growing manufacturer in manufacturing IoT using REST API Design and SQL, accelerating releases by 22%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer

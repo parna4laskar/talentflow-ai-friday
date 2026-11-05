@@ -1,0 +1,31 @@
+SIDDHARTH HEGDE
+Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11522
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.9 years of experience, based in Bengaluru. Strong in TypeScript, Angular, Python and SQL, with recent work in insurance claims. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 4.4y), Angular (Working, 2.0y), Python (Working, 1.5y), Next.js (Working, 1.1y), REST API Design (Working, 2.5y), Microservices (Working, 1.3y), GraphQL (Beginner, 0.6y)
+- Data & AI: SQL (Working, 2.4y)
+- Cloud & DevOps: AWS (Working, 0.8y)
+
+EXPERIENCE
+* Wealth Management Payments Microservices Platform — a fast-growing wealth manager (2025-12 to present)
+  Modernised a payments microservices platform for a fast-growing wealth manager in wealth management using REST API Design, TypeScript, Microservices and Angular, accelerating releases by 35%.
+* Insurance Claims Pricing Engine — a leading insurer (2024-08 to 2025-11)
+  Designed a pricing engine for a leading insurer in insurance claims using TypeScript, Angular, GraphQL and Python, improving conversion by 25%.
+* Energy Trading Order Management System — an APAC energy company (2023-03 to 2024-07)
+  Led the delivery of an order management system for an APAC energy company in energy trading using GraphQL and REST API Design, reducing processing time by 12%.
+* Supply-chain Logistics Mobile Banking App — an APAC logistics company (2021-08 to 2023-01)
+  Migrated a mobile banking app for an APAC logistics company in supply-chain logistics using TypeScript, Python, AWS and Angular, improving conversion by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer

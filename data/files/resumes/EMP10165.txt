@@ -1,0 +1,27 @@
+SNEHA CHATTERJEE
+Associate Site Reliability Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10165
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 0.7 years of experience, based in Bengaluru. Strong in Observability, Site Reliability Engineering, Kubernetes and Linux Administration, with recent work in e-commerce. Interested in moving towards Platform Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Proficient, 0.4y), Site Reliability Engineering (Working, 0.3y), Kubernetes (Working, 0.3y), Linux Administration (Working, 0.3y), AWS (Working, 0.3y)
+- Software Engineering: Python (Working, 0.3y)
+- Data & AI: LLM Engineering (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Kubernetes Platform — an APAC online retailer (2026-08 to present)
+  Led the delivery of a Kubernetes platform for an APAC online retailer in e-commerce using Linux Administration, Observability, AWS and Site Reliability Engineering, accelerating releases by 22%.
+* Automotive CI/CD Platform — a US car maker (2025-12 to 2026-07)
+  Re-architected a CI/CD platform for a US car maker in automotive using Site Reliability Engineering, Python, Observability and AWS, accelerating releases by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Platform Engineer, DevOps Engineer

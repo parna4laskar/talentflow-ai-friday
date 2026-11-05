@@ -1,0 +1,27 @@
+SIDDHARTH LEE
+Associate Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11825
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.9 years of experience, based in Bengaluru. Strong in GraphQL, C#, REST API Design and SQL, with recent work in HR tech. Interested in moving towards AI Engineer roles and open to relocating to Kraków, Austin, Chennai.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Proficient, 1.2y), C# (Working, 0.8y), REST API Design (Working, 0.7y), Kafka (Working, 0.4y), Spring Boot (Working, 0.6y), Microservices (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.7y)
+- Cloud & DevOps: AWS (Working, 0.9y), Kubernetes (Working, 0.7y)
+
+EXPERIENCE
+* Airline Operations Mobile Banking App — a global airline (2025-09 to present)
+  Designed a mobile banking app for a global airline in airline operations using AWS, C#, GraphQL and Kubernetes, improving conversion by 18%.
+* Airline Operations Mobile Banking App — a leading airline (2024-01 to 2025-06)
+  Migrated a mobile banking app for a leading airline in airline operations using Kubernetes, Microservices, AWS and REST API Design, improving conversion by 22%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer

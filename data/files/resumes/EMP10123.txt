@@ -1,0 +1,35 @@
+KAI WEN LEE
+ML Engineer | AI Center of Excellence | Singapore, Singapore
+Employee ID: EMP10123
+
+PROFESSIONAL SUMMARY
+ML Engineer with 5.5 years of experience, based in Singapore. Strong in Deep Learning, Machine Learning, MLOps and Databricks, with recent work in e-commerce. Interested in moving towards Platform Engineer roles and open to relocating to Kraków, Austin, London.
+
+CORE SKILLS
+- Data & AI: Deep Learning (Advanced, 3.5y), Machine Learning (Proficient, 2.4y), MLOps (Proficient, 1.7y), Databricks (Proficient, 1.0y), Computer Vision (Working, 0.7y), NLP (Working, 2.1y)
+- Software Engineering: Python (Working, 2.3y)
+- Cloud & DevOps: Docker (Beginner, 0.7y)
+
+EXPERIENCE
+* E-commerce Document Intelligence Pipeline — a tier-1 online retailer (2026-10 to present)
+  Migrated a document intelligence pipeline for a tier-1 online retailer in e-commerce using MLOps, Machine Learning, Deep Learning and NLP, reducing processing time by 25%.
+* Healthcare Knowledge Assistant (RAG) — a tier-1 hospital network (2026-03 to 2026-10)
+  Automated a knowledge assistant (RAG) for a tier-1 hospital network in healthcare using NLP, Databricks, MLOps and Python, lifting NPS by 18 points.
+* E-commerce Fraud Detection Model — a European online retailer (2025-06 to 2025-12)
+  Led the delivery of a fraud detection model for a European online retailer in e-commerce using Databricks and Deep Learning, reducing processing time by 25%.
+* Automotive Recommendation Engine — a global car maker (2024-11 to 2025-04)
+  Migrated a recommendation engine for a global car maker in automotive using Databricks, Docker and Machine Learning, improving conversion by 35%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2022)
+- AWS ML Specialty (2022)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Mandarin, Tamil
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer

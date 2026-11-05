@@ -1,0 +1,31 @@
+NOAH JOHNSON
+Senior DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP12704
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 6.3 years of experience, based in New York. Strong in CI/CD, Kubernetes, Docker and GCP, with recent work in healthcare. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 4.1y), Kubernetes (Advanced, 4.6y), Docker (Proficient, 3.4y), GCP (Proficient, 2.0y), Terraform (Proficient, 3.7y)
+- Software Engineering: Python (Working, 1.9y), Go (Working, 1.4y)
+- Delivery & Leadership: Communication (Working, 2.2y)
+
+EXPERIENCE
+* Healthcare Data-centre Exit To Cloud — a global hospital network (2026-08 to present)
+  Scaled a data-centre exit to cloud for a global hospital network in healthcare using Go, Docker and Communication, delivering $2M in cost savings.
+* Payments CI/CD Platform — a US payments provider (2025-04 to 2026-07)
+  Built a CI/CD platform for a US payments provider in payments using CI/CD and Go, accelerating releases by 35%.
+* Healthcare CI/CD Platform — a US hospital network (2024-04 to 2025-03)
+  Built a CI/CD platform for a US hospital network in healthcare using Communication, Go, Docker and GCP, accelerating releases by 40%.
+* Healthcare CI/CD Platform — a European hospital network (2023-06 to 2024-03)
+  Migrated a CI/CD platform for a European hospital network in healthcare using CI/CD, Go, Python and Kubernetes, accelerating releases by 18%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer, Backend Engineer, Cloud Engineer

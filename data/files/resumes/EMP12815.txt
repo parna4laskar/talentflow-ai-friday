@@ -1,0 +1,31 @@
+MICHAŁ SZYMAŃSKI
+Mobile Engineer | Engineering | Kraków, Poland
+Employee ID: EMP12815
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 3.5 years of experience, based in Kraków. Strong in Flutter, Mobile Development, Test Automation and CI/CD, with recent work in telecom billing. Interested in moving towards Backend Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Flutter (Advanced, 0.5y), Mobile Development (Proficient, 0.7y), TypeScript (Beginner, 0.3y)
+- Quality Engineering: Test Automation (Proficient, 1.0y)
+- Cloud & DevOps: CI/CD (Beginner, 0.5y)
+
+EXPERIENCE
+* Airline Operations Pricing Engine — a European airline (2026-04 to present)
+  Built a pricing engine for a European airline in airline operations using TypeScript, Flutter and CI/CD, improving conversion by 12%.
+* Telecom Billing Customer Onboarding Platform — a European telecom operator (2025-08 to 2026-04)
+  Modernised a customer onboarding platform for a European telecom operator in telecom billing using TypeScript, CI/CD and Mobile Development, lifting NPS by 18 points.
+* Pharma R&D Customer Onboarding Platform — a leading pharma company (2024-07 to 2025-07)
+  Modernised a customer onboarding platform for a leading pharma company in pharma R&D using Test Automation, Mobile Development, Flutter and CI/CD, reducing processing time by 30%.
+* Automotive Claims Processing Engine — a global car maker (2023-08 to 2024-05)
+  Migrated a claims processing engine for a global car maker in automotive using Mobile Development, Test Automation and TypeScript, reducing processing time by 12%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+Polish, English, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Frontend Engineer

@@ -1,0 +1,27 @@
+RIYA MUKHERJEE
+Associate Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12093
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.8 years of experience, based in Hyderabad. Strong in REST API Design, SQL, Kafka and GraphQL, with recent work in telecom billing. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 1.4y), Kafka (Proficient, 0.6y), GraphQL (Proficient, 0.7y), Java (Working, 0.7y), Microservices (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.8y)
+- Cloud & DevOps: AWS (Working, 0.8y)
+
+EXPERIENCE
+* Pharma R&D Claims Processing Engine — a fast-growing pharma company (2025-11 to present)
+  Designed a claims processing engine for a fast-growing pharma company in pharma R&D using REST API Design, Microservices and AWS, reducing processing time by 22%.
+* Payments Payments Microservices Platform — a US payments provider (2024-08 to 2025-11)
+  Automated a payments microservices platform for a US payments provider in payments using Java, REST API Design, Microservices and Kafka, reducing processing time by 12%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, Software Architect, Engineering Manager

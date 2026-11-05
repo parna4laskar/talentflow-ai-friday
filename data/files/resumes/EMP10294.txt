@@ -1,0 +1,27 @@
+YASH AGARWAL
+Mobile Engineer | Engineering | Gurugram, India
+Employee ID: EMP10294
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 2.1 years of experience, based in Gurugram. Strong in Flutter, REST API Design, Mobile Development and UI Design, with recent work in manufacturing IoT. Interested in moving towards Mobile Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Flutter (Proficient, 0.9y), REST API Design (Proficient, 0.6y), Mobile Development (Working, 0.5y)
+- Product & Design: UI Design (Working, 0.5y)
+- Cloud & DevOps: Terraform (Beginner, 0.3y)
+
+EXPERIENCE
+* Healthcare Order Management System — a fast-growing hospital network (2026-07 to present)
+  Automated an order management system for a fast-growing hospital network in healthcare using Mobile Development and Flutter, onboarding 5 new enterprise clients.
+* HR Tech Order Management System — a European HR software company (2025-01 to 2026-06)
+  Migrated an order management system for a European HR software company in HR tech using Mobile Development, Terraform, REST API Design and UI Design, reducing processing time by 25%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Mobile Engineer, Frontend Engineer, Full Stack Engineer, QA Engineer

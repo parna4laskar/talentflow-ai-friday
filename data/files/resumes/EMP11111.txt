@@ -1,0 +1,35 @@
+DIVYA JOSHI
+Senior Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11111
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.1 years of experience, based in Chennai. Strong in Node.js, JavaScript, Playwright and Angular, with recent work in insurance claims. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Expert, 4.9y), JavaScript (Advanced, 1.4y), Angular (Proficient, 2.3y), TypeScript (Working, 1.5y), Next.js (Beginner, 0.4y)
+- Quality Engineering: Playwright (Advanced, 5.4y)
+- Delivery & Leadership: Communication (Proficient, 4.0y)
+- Product & Design: Design Systems (Working, 1.8y)
+
+EXPERIENCE
+* Supply-chain Logistics Customer Onboarding Platform — an APAC logistics company (2026-02 to present)
+  Re-architected a customer onboarding platform for an APAC logistics company in supply-chain logistics using Communication, Next.js and JavaScript, reducing processing time by 12%.
+* Telecom Billing Payments Microservices Platform — a European telecom operator (2024-08 to 2025-12)
+  Re-architected a payments microservices platform for a European telecom operator in telecom billing using Node.js and Communication, accelerating releases by 22%.
+* E-commerce Payments Microservices Platform — a European online retailer (2023-06 to 2024-07)
+  Led the delivery of a payments microservices platform for a European online retailer in e-commerce using Playwright, Design Systems and Communication, reducing production incidents by 18%.
+* Insurance Claims Self-service Portal — a global insurer (2021-11 to 2023-03)
+  Led the delivery of a self-service portal for a global insurer in insurance claims using Next.js, Node.js, Design Systems and JavaScript, lifting NPS by 35 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Mobile Engineer, Full Stack Engineer

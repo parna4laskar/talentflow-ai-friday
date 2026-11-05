@@ -1,0 +1,31 @@
+SNEHA DAVIS
+QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP12088
+
+PROFESSIONAL SUMMARY
+QA Engineer with 4.7 years of experience, based in Hyderabad. Strong in API Testing, Test Automation, Selenium and Performance Testing, with recent work in energy trading. Interested in moving towards DevOps Engineer, Mobile Engineer roles and open to relocating to New York, Pune.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Advanced, 4.1y), Test Automation (Proficient, 0.7y), Selenium (Proficient, 3.0y), Performance Testing (Proficient, 0.9y)
+- Software Engineering: Python (Working, 2.0y)
+- Data & AI: Machine Learning (Working, 0.5y)
+
+EXPERIENCE
+* Energy Trading Performance Engineering Programme — a US energy company (2025-12 to present)
+  Re-architected a performance engineering programme for a US energy company in energy trading using Selenium, Test Automation, Performance Testing and Python, reducing production incidents by 35%.
+* HR Tech Test Automation Framework — an APAC HR software company (2025-05 to 2025-11)
+  Led the delivery of a test automation framework for an APAC HR software company in HR tech using Machine Learning, API Testing, Python and Selenium, accelerating releases by 40%.
+* Energy Trading Test Automation Framework — a leading energy company (2023-11 to 2025-04)
+  Migrated a test automation framework for a leading energy company in energy trading using API Testing, Selenium, Machine Learning and Python, raising automated test coverage to 90%.
+* Energy Trading API Contract-testing Suite — a leading energy company (2022-10 to 2023-09)
+  Modernised an API contract-testing suite for a leading energy company in energy trading using Test Automation, API Testing, Selenium and Machine Learning, reducing production incidents by 35%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Mobile Engineer, Full Stack Engineer

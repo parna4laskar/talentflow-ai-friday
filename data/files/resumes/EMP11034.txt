@@ -1,0 +1,26 @@
+OMKAR DAS
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP11034
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1.1 years of experience, based in Bengaluru. Strong in SQL, dbt, Data Governance and Kafka, with recent work in public sector. Interested in moving towards Backend Engineer roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.5y), dbt (Proficient, 0.5y), Data Governance (Proficient, 0.8y), Data Engineering (Working, 0.3y), Snowflake (Working, 0.4y), Airflow (Working, 0.5y)
+- Software Engineering: Kafka (Proficient, 0.6y), Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Public Sector Customer Churn Model — a US government agency (2025-12 to present)
+  Re-architected a customer churn model for a US government agency in public sector using Airflow, Snowflake and Data Engineering, improving conversion by 18%.
+* Public Sector Regulatory Reporting Suite — a leading government agency (2024-05 to 2025-10)
+  Migrated a regulatory reporting suite for a leading government agency in public sector using Data Governance, SQL and Airflow, saving ~30K hours annually.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer

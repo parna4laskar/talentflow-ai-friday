@@ -1,0 +1,27 @@
+RADHIKA DESHPANDE
+AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP10988
+
+PROFESSIONAL SUMMARY
+AI Engineer with 2.1 years of experience, based in Hyderabad. Strong in Python, Communication, Generative AI and LLM Engineering, with recent work in wealth management. Interested in moving towards AI Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.7y), System Design (Working, 0.5y), REST API Design (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Advanced, 1.1y)
+- Data & AI: Generative AI (Proficient, 0.4y), LLM Engineering (Proficient, 0.6y), NLP (Proficient, 1.2y)
+
+EXPERIENCE
+* Retail Banking Knowledge Assistant (RAG) — an APAC retail bank (2026-03 to present)
+  Led the delivery of a knowledge assistant (RAG) for an APAC retail bank in retail banking using System Design and Python, lifting NPS by 25 points.
+* Wealth Management Fraud Detection Model — a US wealth manager (2025-07 to 2026-02)
+  Automated a fraud detection model for a US wealth manager in wealth management using REST API Design, Python and Communication, reducing processing time by 22%.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: AI Engineer, ML Engineer, Full Stack Engineer

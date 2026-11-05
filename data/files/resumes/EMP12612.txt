@@ -1,0 +1,28 @@
+BHAVANA DESHPANDE
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12612
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.8 years of experience, based in Pune. Strong in Microservices, Spring Boot, C# and REST API Design, with recent work in media streaming. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 2.1y), Spring Boot (Advanced, 0.8y), C# (Proficient, 1.8y), REST API Design (Proficient, 1.6y)
+- Data & AI: SQL (Working, 0.4y), Agentic AI (Working, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+- Cloud & DevOps: Docker (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a global pharma company (2025-12 to present)
+  Automated a pricing engine for a global pharma company in pharma R&D using REST API Design and Microservices, reducing processing time by 40%.
+* Media Streaming Order Management System — a European streaming platform (2024-05 to 2025-11)
+  Automated an order management system for a European streaming platform in media streaming using REST API Design, Docker, Spring Boot and SQL, reducing processing time by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, DevOps Engineer

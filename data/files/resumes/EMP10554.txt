@@ -1,0 +1,27 @@
+SIMRAN TREMBLAY
+Associate Data Analyst | Data & Analytics | Toronto, Canada
+Employee ID: EMP10554
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2.6 years of experience, based in Toronto. Strong in Tableau, Business Analysis, SQL and Data Visualization, with recent work in airline operations. Interested in moving towards Product Manager, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Tableau (Proficient, 0.7y), SQL (Working, 0.7y), Data Visualization (Working, 0.4y)
+- Business & Finance: Business Analysis (Proficient, 0.7y)
+- Software Engineering: Python (Beginner, 0.4y)
+
+EXPERIENCE
+* Airline Operations Executive KPI Dashboard Suite — a tier-1 airline (2026-01 to present)
+  Migrated an executive KPI dashboard suite for a tier-1 airline in airline operations using Python, SQL, Data Visualization and Business Analysis, saving ~35K hours annually.
+* E-commerce Data Lakehouse — a tier-1 online retailer (2024-06 to 2025-12)
+  Designed a data lakehouse for a tier-1 online retailer in e-commerce using Tableau, Python, Business Analysis and Data Visualization, cutting cloud spend by 40%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager, Financial Analyst, Business Analyst

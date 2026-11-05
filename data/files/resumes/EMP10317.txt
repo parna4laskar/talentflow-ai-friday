@@ -1,0 +1,27 @@
+RITESH BANERJEE
+Associate Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP10317
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 0.3 years of experience, based in Pune. Strong in Python, Machine Learning, Statistics and SQL, with recent work in supply-chain logistics. Interested in moving towards Data Analyst, Product Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.3y)
+- Data & AI: Machine Learning (Proficient, 0.3y), Statistics (Working, 0.3y), SQL (Working, 0.3y), Apache Spark (Working, 0.3y), Data Visualization (Working, 0.3y), Databricks (Working, 0.3y)
+- Product & Design: A/B Testing (Working, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Executive KPI Dashboard Suite — a European pharma company (2026-01 to present)
+  Designed an executive KPI dashboard suite for a European pharma company in pharma R&D using Statistics and A/B Testing, improving forecast accuracy by 25%.
+* Retail Banking Customer Churn Model — a European retail bank (2025-07 to 2025-12)
+  Built a customer churn model for a European retail bank in retail banking using Python, Apache Spark, Statistics and SQL, improving conversion by 18%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst, Product Manager

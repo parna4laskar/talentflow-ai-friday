@@ -1,0 +1,27 @@
+XIN YI DOYLE
+Associate Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP10831
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1 years of experience, based in Singapore. Strong in TypeScript, Communication, JavaScript and Angular, with recent work in e-commerce. Interested in moving towards Frontend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.7y), JavaScript (Working, 0.3y), Angular (Working, 0.3y), Next.js (Working, 0.3y), Node.js (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.7y)
+- Product & Design: Figma (Working, 0.5y)
+
+EXPERIENCE
+* E-commerce Customer Onboarding Platform — a tier-1 online retailer (2026-07 to present)
+  Designed a customer onboarding platform for a tier-1 online retailer in e-commerce using Node.js, JavaScript, TypeScript and Figma, improving conversion by 22%.
+* Supply-chain Logistics Customer Onboarding Platform — a fast-growing logistics company (2025-06 to 2026-06)
+  Designed a customer onboarding platform for a fast-growing logistics company in supply-chain logistics using Communication, Next.js, Node.js and TypeScript, reducing processing time by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Frontend Engineer, Full Stack Engineer

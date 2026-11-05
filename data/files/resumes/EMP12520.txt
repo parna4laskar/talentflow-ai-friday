@@ -1,0 +1,30 @@
+HARINI BANERJEE
+Senior Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12520
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.5 years of experience, based in Hyderabad. Strong in Python, REST API Design, SQL and Microservices, with recent work in manufacturing IoT. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.6y), REST API Design (Proficient, 5.5y), Microservices (Proficient, 3.6y), Spring Boot (Proficient, 3.2y), Kafka (Working, 1.3y)
+- Data & AI: SQL (Proficient, 1.6y), Data Engineering (Working, 3.1y)
+- Quality Engineering: Playwright (Proficient, 3.1y)
+- Delivery & Leadership: Communication (Proficient, 1.6y)
+
+EXPERIENCE
+* Manufacturing IoT Payments Microservices Platform — an APAC manufacturer (2025-11 to present)
+  Migrated a payments microservices platform for an APAC manufacturer in manufacturing IoT using Python, Spring Boot, Communication and Playwright, reducing processing time by 40%.
+* Telecom Billing Mobile Banking App — a fast-growing telecom operator (2024-09 to 2025-09)
+  Automated a mobile banking app for a fast-growing telecom operator in telecom billing using Python and Data Engineering, improving conversion by 35%.
+* Manufacturing IoT Customer Onboarding Platform — a fast-growing manufacturer (2023-09 to 2024-08)
+  Modernised a customer onboarding platform for a fast-growing manufacturer in manufacturing IoT using Spring Boot and Python, reducing processing time by 25%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer

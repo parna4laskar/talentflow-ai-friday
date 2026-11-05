@@ -1,0 +1,33 @@
+TEJAS DAS
+Lead Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP10194
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 9.2 years of experience, based in Gurugram. Strong in REST API Design, Microservices, Mentoring and Stakeholder Management, with recent work in pharma R&D. Interested in moving towards DevOps Engineer roles and open to relocating to Toronto, Hyderabad.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 5.8y), Microservices (Advanced, 5.7y), Go (Proficient, 3.1y), Kafka (Proficient, 0.7y)
+- Delivery & Leadership: Mentoring (Advanced, 2.3y), Stakeholder Management (Advanced, 2.4y), Communication (Advanced, 3.4y)
+- Cloud & DevOps: CI/CD (Proficient, 0.4y)
+- Data & AI: SQL (Working, 3.4y)
+
+EXPERIENCE
+* Airline Operations Pricing Engine — a leading airline (2026-02 to present)
+  Automated a pricing engine for a leading airline in airline operations using Mentoring, Microservices and Stakeholder Management, improving conversion by 18%.
+* Wealth Management Claims Processing Engine — a fast-growing wealth manager (2024-11 to 2025-11)
+  Built a claims processing engine for a fast-growing wealth manager in wealth management using CI/CD, Microservices and Mentoring, reducing processing time by 18%.
+* Pharma R&D Customer Onboarding Platform — a European pharma company (2023-07 to 2024-11)
+  Re-architected a customer onboarding platform for a European pharma company in pharma R&D using Communication, Go, REST API Design and Kafka, improving conversion by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer

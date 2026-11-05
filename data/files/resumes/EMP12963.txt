@@ -1,0 +1,34 @@
+CONOR BYRNE
+Full Stack Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP12963
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3.8 years of experience, based in Dublin. Strong in Java, SQL, TypeScript and React, with recent work in supply-chain logistics. Interested in moving towards Frontend Engineer, AI Engineer roles and open to relocating to London, Kraków.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 1.3y), TypeScript (Proficient, 1.8y), React (Proficient, 0.8y), Next.js (Proficient, 1.9y), REST API Design (Working, 0.8y), Microservices (Beginner, 0.5y)
+- Data & AI: SQL (Advanced, 3.5y)
+- Cloud & DevOps: Docker (Proficient, 0.4y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a leading online retailer (2026-06 to present)
+  Modernised a mobile banking app for a leading online retailer in e-commerce using Java, Docker, TypeScript and REST API Design, improving conversion by 22%.
+* Media Streaming Self-service Portal — a fast-growing streaming platform (2025-03 to 2026-04)
+  Re-architected a self-service portal for a fast-growing streaming platform in media streaming using Next.js, SQL, REST API Design and React, lifting NPS by 18 points.
+* Supply-chain Logistics Customer Onboarding Platform — a US logistics company (2023-12 to 2025-02)
+  Automated a customer onboarding platform for a US logistics company in supply-chain logistics using Docker, REST API Design, React and SQL, improving conversion by 18%.
+* Supply-chain Logistics Pricing Engine — a fast-growing logistics company (2022-05 to 2023-11)
+  Automated a pricing engine for a fast-growing logistics company in supply-chain logistics using Java and TypeScript, improving conversion by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Frontend Engineer, AI Engineer, Backend Engineer

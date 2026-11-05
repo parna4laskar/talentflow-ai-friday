@@ -1,0 +1,28 @@
+NAVEEN KAPOOR
+Associate Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP11549
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 2 years of experience, based in Chennai. Strong in TypeScript, React, SQL and AWS, with recent work in airline operations. Interested in moving towards Software Architect, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.7y), React (Proficient, 1.3y), Node.js (Working, 0.7y), Next.js (Working, 0.9y), REST API Design (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 1.0y)
+- Cloud & DevOps: AWS (Proficient, 1.0y)
+- People & Marketing: People Analytics (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Payments Microservices Platform — a European airline (2025-08 to present)
+  Migrated a payments microservices platform for a European airline in airline operations using REST API Design, Next.js, People Analytics and Node.js, accelerating releases by 40%.
+* Airline Operations Payments Microservices Platform — a European airline (2024-02 to 2025-05)
+  Automated a payments microservices platform for a European airline in airline operations using TypeScript and AWS, accelerating releases by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Software Architect, AI Engineer

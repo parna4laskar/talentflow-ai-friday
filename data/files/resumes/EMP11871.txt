@@ -1,0 +1,31 @@
+VIKRAM JADHAV
+Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP11871
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.2 years of experience, based in Chennai. Strong in SQL, Python, Microservices and Docker, with recent work in insurance claims. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.6y), Agentic AI (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 1.3y), Microservices (Proficient, 2.2y), Spring Boot (Proficient, 1.7y), REST API Design (Working, 1.3y), System Design (Working, 0.6y)
+- Cloud & DevOps: Docker (Proficient, 1.0y), CI/CD (Working, 1.9y), AWS (Working, 1.8y)
+
+EXPERIENCE
+* Telecom Billing Claims Processing Engine — a tier-1 telecom operator (2026-01 to present)
+  Built a claims processing engine for a tier-1 telecom operator in telecom billing using Docker, SQL, Agentic AI and System Design, reducing processing time by 25%.
+* Automotive Pricing Engine — a leading car maker (2025-05 to 2025-11)
+  Automated a pricing engine for a leading car maker in automotive using CI/CD and SQL, improving conversion by 35%.
+* Automotive Claims Processing Engine — a leading car maker (2023-12 to 2025-03)
+  Scaled a claims processing engine for a leading car maker in automotive using AWS, REST API Design, SQL and CI/CD, saving ~35K hours annually.
+* Insurance Claims Self-service Portal — a leading insurer (2023-01 to 2023-11)
+  Designed a self-service portal for a leading insurer in insurance claims using SQL and AWS, saving ~40K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer

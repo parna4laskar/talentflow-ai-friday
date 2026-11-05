@@ -1,0 +1,31 @@
+POOJA DAS
+Senior AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP10103
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 5.1 years of experience, based in Pune. Strong in NLP, Python, LLM Engineering and Generative AI, with recent work in payments. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: NLP (Expert, 2.6y), LLM Engineering (Advanced, 2.2y), Generative AI (Proficient, 2.8y), Agentic AI (Proficient, 3.6y)
+- Software Engineering: Python (Advanced, 0.9y), REST API Design (Proficient, 1.3y)
+- Cloud & DevOps: Azure (Working, 2.3y)
+
+EXPERIENCE
+* Payments Document Intelligence Pipeline — a European payments provider (2025-11 to present)
+  Designed a document intelligence pipeline for a European payments provider in payments using NLP, Generative AI, Azure and LLM Engineering, reducing processing time by 40%.
+* Manufacturing IoT Recommendation Engine — an APAC manufacturer (2025-04 to 2025-08)
+  Automated a recommendation engine for an APAC manufacturer in manufacturing IoT using Azure, Python and NLP, improving model accuracy by 40%.
+* Payments Recommendation Engine — a fast-growing payments provider (2023-12 to 2025-03)
+  Scaled a recommendation engine for a fast-growing payments provider in payments using LLM Engineering and Python, improving conversion by 22%.
+* Public Sector Knowledge Assistant (RAG) — an APAC government agency (2022-11 to 2023-10)
+  Migrated a knowledge assistant (RAG) for an APAC government agency in public sector using Generative AI and REST API Design, saving ~35K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, DevOps Engineer

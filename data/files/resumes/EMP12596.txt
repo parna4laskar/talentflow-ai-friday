@@ -1,0 +1,31 @@
+PALLAVI KULKARNI
+Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP12596
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.5 years of experience, based in Pune. Strong in Angular, TypeScript, JavaScript and CI/CD, with recent work in supply-chain logistics. Interested in moving towards QA Engineer, UX Designer roles and open to relocating to New York, London.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 4.4y), TypeScript (Proficient, 1.0y), JavaScript (Proficient, 0.6y), Node.js (Working, 0.7y), GraphQL (Working, 2.1y)
+- Cloud & DevOps: CI/CD (Working, 0.3y)
+- Product & Design: Design Systems (Working, 2.2y)
+
+EXPERIENCE
+* E-commerce Order Management System — a US online retailer (2026-06 to present)
+  Modernised an order management system for a US online retailer in e-commerce using TypeScript, Node.js and Design Systems, onboarding 8 new enterprise clients.
+* Payments Mobile Banking App — an APAC payments provider (2025-01 to 2026-05)
+  Automated a mobile banking app for an APAC payments provider in payments using JavaScript and TypeScript, lifting NPS by 35 points.
+* Supply-chain Logistics Pricing Engine — a leading logistics company (2024-04 to 2024-11)
+  Scaled a pricing engine for a leading logistics company in supply-chain logistics using Angular, TypeScript and GraphQL, improving conversion by 30%.
+* Payments Customer Onboarding Platform — a European payments provider (2023-02 to 2024-04)
+  Scaled a customer onboarding platform for a European payments provider in payments using GraphQL, Design Systems and Angular, improving conversion by 30%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer, UX Designer

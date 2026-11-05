@@ -1,0 +1,29 @@
+KUNAL REDDY
+Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP12147
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2.1 years of experience, based in Hyderabad. Strong in SQL, Data Visualization, Tableau and Statistics, with recent work in energy trading. Interested in moving towards Financial Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.4y), Data Visualization (Proficient, 1.1y), Tableau (Proficient, 0.4y), Statistics (Proficient, 1.4y), Data Engineering (Beginner, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.9y)
+
+EXPERIENCE
+* Energy Trading Customer Churn Model — a leading energy company (2026-07 to present)
+  Led the delivery of a customer churn model for a leading energy company in energy trading using Stakeholder Management, Statistics and Tableau, improving conversion by 18%.
+* Energy Trading Executive KPI Dashboard Suite — a US energy company (2025-10 to 2026-06)
+  Migrated an executive KPI dashboard suite for a US energy company in energy trading using Data Engineering, SQL, Stakeholder Management and Tableau, improving forecast accuracy by 35%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2025)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Financial Analyst, Product Manager

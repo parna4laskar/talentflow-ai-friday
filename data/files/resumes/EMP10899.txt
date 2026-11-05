@@ -1,0 +1,30 @@
+RADHIKA GUPTA
+Platform Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP10899
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 5.7 years of experience, based in Gurugram. Strong in Observability, Platform Engineering, Kubernetes and Terraform, with recent work in payments. Interested in moving towards Platform Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Advanced, 2.2y), Platform Engineering (Proficient, 2.2y), Kubernetes (Proficient, 1.5y), Terraform (Proficient, 1.7y), CI/CD (Proficient, 3.4y), AWS (Working, 0.3y), Site Reliability Engineering (Working, 2.1y)
+- Software Engineering: Python (Proficient, 2.5y), Go (Proficient, 1.5y)
+
+EXPERIENCE
+* Automotive Cloud Landing Zone — an APAC car maker (2026-03 to present)
+  Scaled a cloud landing zone for an APAC car maker in automotive using CI/CD, Kubernetes, Observability and Site Reliability Engineering, cutting cloud spend by 35%.
+* Payments CI/CD Platform — a fast-growing payments provider (2024-11 to 2026-02)
+  Led the delivery of a CI/CD platform for a fast-growing payments provider in payments using Kubernetes, Python, Terraform and Go, accelerating releases by 35%.
+* Retail Banking Cloud Landing Zone — a leading retail bank (2023-09 to 2024-10)
+  Modernised a cloud landing zone for a leading retail bank in retail banking using Platform Engineering and Go, cutting cloud spend by 40%.
+* Payments Data-centre Exit To Cloud — a fast-growing payments provider (2022-11 to 2023-07)
+  Scaled a data-centre exit to cloud for a fast-growing payments provider in payments using Go, Python, Site Reliability Engineering and Platform Engineering, cutting cloud spend by 30%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Platform Engineer, Cloud Engineer

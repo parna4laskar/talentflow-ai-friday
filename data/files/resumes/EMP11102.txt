@@ -1,0 +1,32 @@
+SURESH KAUR
+Senior Security Engineer | Cyber Security | Pune, India
+Employee ID: EMP11102
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 9.4 years of experience, based in Pune. Strong in Threat Modeling, Cloud Security, Application Security and Kubernetes, with recent work in public sector. Interested in moving towards Site Reliability Engineer roles and open to relocating to Gurugram, New York, Toronto.
+
+CORE SKILLS
+- Security: Threat Modeling (Advanced, 6.1y), Cloud Security (Advanced, 9.1y), Application Security (Proficient, 2.6y), SIEM (Proficient, 1.9y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.6y), AWS (Proficient, 4.3y)
+- Delivery & Leadership: Communication (Proficient, 2.8y)
+
+EXPERIENCE
+* Public Sector Identity and Access Platform — an APAC government agency (2025-08 to present)
+  Migrated an identity and access platform for an APAC government agency in public sector using AWS, Kubernetes and Threat Modeling, reducing production incidents by 30%.
+* Public Sector Secure SDLC Rollout — a leading government agency (2024-02 to 2025-06)
+  Built a secure SDLC rollout for a leading government agency in public sector using Threat Modeling, Kubernetes and Cloud Security, reducing production incidents by 30%.
+* Public Sector Secure SDLC Rollout — a US government agency (2023-02 to 2023-11)
+  Modernised a secure SDLC rollout for a US government agency in public sector using Kubernetes, Threat Modeling and AWS, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- CISSP (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Site Reliability Engineer

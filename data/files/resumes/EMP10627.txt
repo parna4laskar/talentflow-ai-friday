@@ -1,0 +1,33 @@
+RAHUL HEGDE
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP10627
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 11.3 years of experience, based in Hyderabad. Strong in Microservices, Python, System Design and GCP, with recent work in telecom billing. Interested in moving towards Software Architect, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 6.9y), Python (Expert, 9.5y), System Design (Advanced, 2.5y)
+- Cloud & DevOps: GCP (Advanced, 3.8y)
+- Delivery & Leadership: Mentoring (Advanced, 1.0y), Stakeholder Management (Proficient, 4.6y), Communication (Working, 2.6y)
+- Security: Cloud Security (Advanced, 8.1y), Application Security (Advanced, 7.5y)
+
+EXPERIENCE
+* Telecom Billing Order Management System — an APAC telecom operator (2026-01 to present)
+  Migrated an order management system for an APAC telecom operator in telecom billing using Communication, Mentoring, Application Security and Cloud Security, onboarding 6 new enterprise clients.
+* Telecom Billing Payments Microservices Platform — a global telecom operator (2025-07 to 2025-12)
+  Automated a payments microservices platform for a global telecom operator in telecom billing using Mentoring, Application Security, Communication and Python, accelerating releases by 25%.
+* Telecom Billing Order Management System — a tier-1 telecom operator (2024-07 to 2025-05)
+  Automated an order management system for a tier-1 telecom operator in telecom billing using Python, Communication and Mentoring, onboarding 4 new enterprise clients.
+
+CERTIFICATIONS
+- TOGAF 10 (2022)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, Backend Engineer, Engineering Manager, DevOps Engineer

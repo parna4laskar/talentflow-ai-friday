@@ -1,0 +1,30 @@
+HARINI PILLAI
+DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10900
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 5.5 years of experience, based in Pune. Strong in Kubernetes, Observability, Docker and GCP, with recent work in media streaming. Interested in moving towards Backend Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 3.5y), Observability (Advanced, 4.9y), Docker (Proficient, 1.8y), GCP (Proficient, 3.2y), Linux Administration (Proficient, 2.2y), CI/CD (Working, 1.4y)
+- Software Engineering: Python (Beginner, 0.7y)
+
+EXPERIENCE
+* Pharma R&D CI/CD Platform — a tier-1 pharma company (2026-01 to present)
+  Led the delivery of a CI/CD platform for a tier-1 pharma company in pharma R&D using GCP, Docker, Kubernetes and Linux Administration, accelerating releases by 12%.
+* Media Streaming Data-centre Exit To Cloud — a fast-growing streaming platform (2024-11 to 2025-11)
+  Led the delivery of a data-centre exit to cloud for a fast-growing streaming platform in media streaming using GCP, Kubernetes and CI/CD, delivering $4M in cost savings.
+* Media Streaming Kubernetes Platform — a fast-growing streaming platform (2024-03 to 2024-10)
+  Designed a Kubernetes platform for a fast-growing streaming platform in media streaming using Kubernetes, Linux Administration, Python and Observability, accelerating releases by 35%.
+* Media Streaming CI/CD Platform — a US streaming platform (2023-02 to 2024-02)
+  Led the delivery of a CI/CD platform for a US streaming platform in media streaming using Docker and Observability, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Cloud Engineer

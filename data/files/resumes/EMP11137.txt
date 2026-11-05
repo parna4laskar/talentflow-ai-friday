@@ -1,0 +1,31 @@
+SNEHA GUPTA
+SAP Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP11137
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 4 years of experience, based in Bengaluru. Strong in SAP S/4HANA, Generative AI, Communication and SAP FICO, with recent work in e-commerce. Interested in moving towards Business Analyst roles and open to relocating to Singapore, Gurugram, Toronto.
+
+CORE SKILLS
+- Business & Finance: SAP S/4HANA (Expert, 2.2y), SAP FICO (Working, 1.8y), Business Analysis (Working, 1.8y), Financial Analysis (Working, 1.7y), Process Improvement (Working, 0.6y), Requirements Gathering (Working, 0.8y)
+- Data & AI: Generative AI (Proficient, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+
+EXPERIENCE
+* Media Streaming CRM Rollout — a fast-growing streaming platform (2025-11 to present)
+  Scaled a CRM rollout for a fast-growing streaming platform in media streaming using Requirements Gathering, Process Improvement and Business Analysis, reducing processing time by 30%.
+* E-commerce ERP Finance Rollout — a global online retailer (2024-07 to 2025-08)
+  Re-architected an ERP finance rollout for a global online retailer in e-commerce using Process Improvement and Financial Analysis, saving ~18K hours annually.
+* E-commerce CRM Rollout — a US online retailer (2023-08 to 2024-06)
+  Re-architected a CRM rollout for a US online retailer in e-commerce using Business Analysis, Process Improvement, Generative AI and Communication, improving conversion by 18%.
+* E-commerce ERP Finance Rollout — a tier-1 online retailer (2022-05 to 2023-07)
+  Automated an ERP finance rollout for a tier-1 online retailer in e-commerce using SAP S/4HANA, Process Improvement, Financial Analysis and SAP FICO, saving ~22K hours annually.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Business Analyst

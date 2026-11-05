@@ -1,0 +1,31 @@
+DEEPIKA NAIDU
+Lead QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP12120
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 11.2 years of experience, based in Hyderabad. Strong in Test Automation, Selenium, API Testing and CI/CD, with recent work in automotive. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 7.9y), Selenium (Advanced, 11.0y), API Testing (Advanced, 2.6y)
+- Cloud & DevOps: CI/CD (Advanced, 3.0y)
+- Delivery & Leadership: Communication (Advanced, 6.2y), Agile/Scrum (Proficient, 6.3y), Stakeholder Management (Proficient, 1.0y)
+
+EXPERIENCE
+* Automotive Performance Engineering Programme — a global car maker (2025-07 to present)
+  Scaled a performance engineering programme for a global car maker in automotive using Test Automation, Stakeholder Management, Selenium and Communication, reducing production incidents by 25%.
+* Automotive Test Automation Framework — a European car maker (2024-10 to 2025-04)
+  Automated a test automation framework for a European car maker in automotive using Agile/Scrum, Test Automation and Selenium, accelerating releases by 40%.
+* HR Tech Test Automation Framework — a US HR software company (2023-08 to 2024-07)
+  Led the delivery of a test automation framework for a US HR software company in HR tech using Communication, CI/CD and API Testing, accelerating releases by 22%.
+* Manufacturing IoT Test Automation Framework — a fast-growing manufacturer (2022-12 to 2023-07)
+  Automated a test automation framework for a fast-growing manufacturer in manufacturing IoT using API Testing, Stakeholder Management, CI/CD and Communication, accelerating releases by 25%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager

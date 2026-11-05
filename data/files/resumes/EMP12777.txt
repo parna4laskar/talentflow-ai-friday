@@ -1,0 +1,31 @@
+MADISON DAVIS
+CRM Consultant | Enterprise Applications | New York, United States
+Employee ID: EMP12777
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 2.3 years of experience, based in New York. Strong in JavaScript, ServiceNow, Business Analysis and Requirements Gathering, with recent work in supply-chain logistics. Interested in moving towards CRM Consultant, Account Manager roles and open to relocating to Bengaluru, Gurugram.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 1.1y)
+- Business & Finance: ServiceNow (Proficient, 1.6y), Business Analysis (Proficient, 0.8y), Requirements Gathering (Proficient, 1.4y), Process Improvement (Proficient, 1.0y)
+- Data & AI: Agentic AI (Working, 0.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Service Desk Automation — a US logistics company (2026-06 to present)
+  Automated a service desk automation for a US logistics company in supply-chain logistics using Agentic AI and Requirements Gathering, reducing processing time by 22%.
+* Wealth Management ERP Finance Rollout — a US wealth manager (2025-12 to 2026-05)
+  Automated an ERP finance rollout for a US wealth manager in wealth management using Business Analysis, JavaScript and Requirements Gathering, saving ~18K hours annually.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2026)
+- ServiceNow CSA (2026)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: CRM Consultant, Account Manager, SAP Consultant, Business Analyst

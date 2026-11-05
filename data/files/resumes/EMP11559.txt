@@ -1,0 +1,31 @@
+ETHAN TREMBLAY
+Senior Data Engineer | Data & Analytics | Toronto, Canada
+Employee ID: EMP11559
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 10.6 years of experience, based in Toronto. Strong in Data Engineering, Python, AWS and SQL, with recent work in payments. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 8.6y), SQL (Proficient, 3.0y), dbt (Proficient, 6.5y), Data Governance (Working, 1.7y), Snowflake (Working, 2.5y)
+- Software Engineering: Python (Advanced, 7.9y)
+- Cloud & DevOps: AWS (Advanced, 3.0y)
+
+EXPERIENCE
+* Payments Data Lakehouse — a fast-growing payments provider (2026-07 to present)
+  Scaled a data lakehouse for a fast-growing payments provider in payments using SQL and Python, cutting cloud spend by 18%.
+* E-commerce Real-time Analytics Pipeline — a European online retailer (2025-07 to 2026-06)
+  Built a real-time analytics pipeline for a European online retailer in e-commerce using SQL, AWS and Data Engineering, cutting cloud spend by 18%.
+* Automotive Real-time Analytics Pipeline — a European car maker (2024-08 to 2025-05)
+  Designed a real-time analytics pipeline for a European car maker in automotive using dbt, AWS and Python, reducing processing time by 30%.
+* Payments Data Lakehouse — a leading payments provider (2023-11 to 2024-06)
+  Led the delivery of a data lakehouse for a leading payments provider in payments using SQL, dbt, AWS and Data Governance, cutting cloud spend by 18%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, AI Engineer, Data Analyst

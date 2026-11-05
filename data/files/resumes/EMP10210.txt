@@ -1,0 +1,35 @@
+PRIYA KIM
+Lead DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10210
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 14.1 years of experience, based in New York. Strong in CI/CD, Mentoring, Kubernetes and Terraform, with recent work in insurance claims. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 1.7y), Kubernetes (Advanced, 13.1y), Terraform (Advanced, 5.1y), Docker (Proficient, 8.5y), AWS (Proficient, 7.7y), Linux Administration (Proficient, 5.5y), Observability (Proficient, 7.0y), Azure (Proficient, 8.8y)
+- Delivery & Leadership: Mentoring (Expert, 11.1y), People Leadership (Advanced, 1.9y), Communication (Proficient, 10.3y)
+- Software Engineering: Python (Advanced, 13.7y), Go (Working, 2.0y)
+- Data & AI: Databricks (Proficient, 2.8y)
+
+EXPERIENCE
+* Insurance Claims Kubernetes Platform — an APAC insurer (2026-08 to present)
+  Automated a Kubernetes platform for an APAC insurer in insurance claims using Python, Kubernetes and Go, reducing production incidents by 40%.
+* Insurance Claims Kubernetes Platform — a fast-growing insurer (2025-10 to 2026-07)
+  Led the delivery of a Kubernetes platform for a fast-growing insurer in insurance claims using Docker and Mentoring, cutting cloud spend by 18%.
+* Insurance Claims Kubernetes Platform — a European insurer (2025-03 to 2025-10)
+  Re-architected a Kubernetes platform for a European insurer in insurance claims using Kubernetes, Linux Administration, Mentoring and Terraform, cutting cloud spend by 35%.
+* HR Tech Data-centre Exit To Cloud — a US HR software company (2024-05 to 2025-02)
+  Re-architected a data-centre exit to cloud for a US HR software company in HR tech using Communication, Go, Terraform and Observability, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2024)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Backend Engineer, Cloud Engineer, Platform Engineer

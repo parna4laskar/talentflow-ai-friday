@@ -1,0 +1,27 @@
+TANVI GOKHALE
+Associate Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP11210
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 0.1 years of experience, based in Chennai. Strong in Java, SQL, Microservices and REST API Design, with recent work in insurance claims. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 0.3y), Microservices (Proficient, 0.3y), REST API Design (Working, 0.3y), Kafka (Working, 0.3y)
+- Data & AI: SQL (Proficient, 0.3y)
+- Cloud & DevOps: AWS (Working, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Self-service Portal — a European insurer (2026-04 to present)
+  Scaled a self-service portal for a European insurer in insurance claims using Java, Microservices, REST API Design and Kafka, lifting NPS by 30 points.
+* Insurance Claims Self-service Portal — a European insurer (2024-09 to 2026-03)
+  Modernised a self-service portal for a European insurer in insurance claims using Kafka, SQL, AWS and REST API Design, lifting NPS by 40 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, AI Engineer, Full Stack Engineer, DevOps Engineer

@@ -1,0 +1,35 @@
+ALEKSANDRA ZIELIŃSKI
+Principal DevOps Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11962
+
+PROFESSIONAL SUMMARY
+Principal DevOps Engineer with 17.2 years of experience, based in Kraków. Strong in CI/CD, Docker, Kubernetes and GCP, with recent work in wealth management. Interested in moving towards DevOps Engineer, Backend Engineer roles and open to relocating to Dublin, Gurugram.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 12.5y), Docker (Expert, 1.8y), Kubernetes (Expert, 13.9y), GCP (Expert, 17.2y), Observability (Proficient, 7.1y), Linux Administration (Proficient, 10.3y)
+- Software Engineering: Go (Advanced, 9.6y)
+- Data & AI: Agentic AI (Advanced, 14.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.8y)
+
+EXPERIENCE
+* Retail Banking Kubernetes Platform — a European retail bank (2026-03 to present)
+  Automated a Kubernetes platform for a European retail bank in retail banking using CI/CD and Agentic AI, cutting cloud spend by 25%.
+* Public Sector Cloud Landing Zone — an APAC government agency (2024-10 to 2025-12)
+  Migrated a cloud landing zone for an APAC government agency in public sector using Docker, Go and Observability, cutting cloud spend by 35%.
+* Wealth Management Kubernetes Platform — a tier-1 wealth manager (2024-03 to 2024-09)
+  Scaled a Kubernetes platform for a tier-1 wealth manager in wealth management using CI/CD, Stakeholder Management and Agentic AI, cutting cloud spend by 40%.
+* Wealth Management Observability Stack — a US wealth manager (2023-03 to 2024-02)
+  Scaled an observability stack for a US wealth manager in wealth management using Linux Administration, CI/CD, Kubernetes and GCP, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Backend Engineer

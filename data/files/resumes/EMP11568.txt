@@ -1,0 +1,30 @@
+WILLIAM JONES
+Lead ML Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP11568
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 11.4 years of experience, based in London. Strong in Python, Machine Learning, Deep Learning and Kubernetes, with recent work in HR tech. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 9.1y)
+- Data & AI: Machine Learning (Advanced, 4.3y), Deep Learning (Advanced, 4.7y), MLOps (Proficient, 2.0y), Databricks (Proficient, 7.9y), Agentic AI (Proficient, 3.4y)
+- Cloud & DevOps: Kubernetes (Advanced, 5.4y), Docker (Proficient, 8.5y), AWS (Proficient, 1.2y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 9.6y), Communication (Proficient, 0.4y)
+
+EXPERIENCE
+* HR Tech Fraud Detection Model — a global HR software company (2026-01 to present)
+  Re-architected a fraud detection model for a global HR software company in HR tech using Machine Learning, AWS and Docker, reducing processing time by 30%.
+* Public Sector Recommendation Engine — a global government agency (2024-08 to 2025-11)
+  Designed a recommendation engine for a global government agency in public sector using Python and Communication, improving model accuracy by 25%.
+* HR Tech Knowledge Assistant (RAG) — an APAC HR software company (2023-08 to 2024-07)
+  Automated a knowledge assistant (RAG) for an APAC HR software company in HR tech using Machine Learning and Kubernetes, saving ~35K hours annually.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer

@@ -1,0 +1,28 @@
+TEJAS SHAH
+Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP11373
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4.8 years of experience, based in Hyderabad. Strong in Data Visualization, Power BI, SQL and Snowflake, with recent work in payments. Interested in moving towards Data Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 2.0y), Power BI (Proficient, 1.1y), SQL (Working, 2.1y), Snowflake (Working, 2.1y), Statistics (Working, 1.9y), Generative AI (Working, 1.1y)
+- Product & Design: A/B Testing (Working, 1.6y)
+
+EXPERIENCE
+* Payments Regulatory Reporting Suite — a fast-growing payments provider (2025-09 to present)
+  Scaled a regulatory reporting suite for a fast-growing payments provider in payments using Generative AI and Power BI, reducing processing time by 18%.
+* Telecom Billing Customer Churn Model — a US telecom operator (2024-05 to 2025-07)
+  Led the delivery of a customer churn model for a US telecom operator in telecom billing using SQL and Statistics, improving model accuracy by 40%.
+* Pharma R&D Data Lakehouse — a European pharma company (2022-10 to 2024-02)
+  Designed a data lakehouse for a European pharma company in pharma R&D using Data Visualization, SQL, A/B Testing and Statistics, reducing processing time by 35%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Analyst, Data Scientist, Financial Analyst

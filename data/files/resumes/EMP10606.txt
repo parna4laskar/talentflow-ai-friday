@@ -1,0 +1,30 @@
+AMARA TREMBLAY
+Lead Frontend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP10606
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 11.2 years of experience, based in Toronto. Strong in JavaScript, React, Design Systems and Mobile Development, with recent work in retail banking. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Expert, 11.2y), React (Advanced, 7.4y), Mobile Development (Advanced, 6.3y), TypeScript (Proficient, 1.7y)
+- Product & Design: Design Systems (Advanced, 0.8y), Figma (Proficient, 5.7y)
+- Delivery & Leadership: Mentoring (Advanced, 9.1y), Stakeholder Management (Proficient, 7.2y), Communication (Proficient, 5.4y), People Leadership (Proficient, 6.6y)
+- Quality Engineering: Playwright (Proficient, 5.1y)
+
+EXPERIENCE
+* Retail Banking Payments Microservices Platform — a fast-growing retail bank (2026-03 to present)
+  Led the delivery of a payments microservices platform for a fast-growing retail bank in retail banking using Design Systems, Mentoring and Stakeholder Management, accelerating releases by 25%.
+* Retail Banking Claims Processing Engine — an APAC retail bank (2025-06 to 2026-01)
+  Modernised a claims processing engine for an APAC retail bank in retail banking using JavaScript, Stakeholder Management, TypeScript and Communication, saving ~25K hours annually.
+* Retail Banking Pricing Engine — an APAC retail bank (2023-11 to 2025-03)
+  Re-architected a pricing engine for an APAC retail bank in retail banking using Mentoring, Playwright, Stakeholder Management and Figma, improving conversion by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, French, Japanese
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Mobile Engineer

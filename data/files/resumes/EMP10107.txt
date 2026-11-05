@@ -1,0 +1,32 @@
+MOHAMMED PATEL
+Lead Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10107
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 9 years of experience, based in London. Strong in Java, REST API Design, SQL and Microservices, with recent work in manufacturing IoT. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 7.7y), REST API Design (Advanced, 6.0y), Microservices (Advanced, 1.7y), .NET Core (Proficient, 4.6y)
+- Data & AI: SQL (Advanced, 4.8y)
+- Cloud & DevOps: Docker (Advanced, 7.7y), Kubernetes (Proficient, 0.6y), CI/CD (Proficient, 0.7y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.8y), People Leadership (Advanced, 4.0y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a US manufacturer (2026-07 to present)
+  Migrated a mobile banking app for a US manufacturer in manufacturing IoT using Kubernetes and CI/CD, improving conversion by 12%.
+* Manufacturing IoT Order Management System — a fast-growing manufacturer (2025-01 to 2026-06)
+  Modernised an order management system for a fast-growing manufacturer in manufacturing IoT using Stakeholder Management, CI/CD, REST API Design and SQL, reducing processing time by 18%.
+* Manufacturing IoT Payments Microservices Platform — a US manufacturer (2024-02 to 2024-12)
+  Automated a payments microservices platform for a US manufacturer in manufacturing IoT using REST API Design and Stakeholder Management, reducing processing time by 35%.
+* Supply-chain Logistics Mobile Banking App — a global logistics company (2023-06 to 2023-12)
+  Migrated a mobile banking app for a global logistics company in supply-chain logistics using Stakeholder Management, Microservices and Java, improving conversion by 40%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, DevOps Engineer

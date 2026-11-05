@@ -1,0 +1,29 @@
+ETHAN RODRIGUEZ
+Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP12364
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.2 years of experience, based in Austin. Strong in SQL, Go, Kubernetes and REST API Design, with recent work in wealth management. Interested in moving towards Backend Engineer, AI Engineer roles and open to relocating to Pune, Toronto.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.9y)
+- Software Engineering: Go (Proficient, 3.3y), REST API Design (Working, 0.5y), Microservices (Working, 2.5y), GraphQL (Working, 0.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.1y)
+
+EXPERIENCE
+* Airline Operations Order Management System — a US airline (2025-11 to present)
+  Automated an order management system for a US airline in airline operations using GraphQL, Kubernetes and Microservices, reducing processing time by 30%.
+* Wealth Management Pricing Engine — a global wealth manager (2024-04 to 2025-10)
+  Built a pricing engine for a global wealth manager in wealth management using Kubernetes, REST API Design, GraphQL and SQL, reducing processing time by 22%.
+* Wealth Management Mobile Banking App — a European wealth manager (2023-02 to 2024-02)
+  Designed a mobile banking app for a European wealth manager in wealth management using REST API Design and GraphQL, improving conversion by 12%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, AI Engineer, DevOps Engineer

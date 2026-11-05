@@ -1,0 +1,30 @@
+HARSH KRISHNAN
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12326
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.3 years of experience, based in Pune. Strong in Python, REST API Design, SQL and Microservices, with recent work in manufacturing IoT. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 1.7y), REST API Design (Proficient, 1.6y), Microservices (Proficient, 0.8y), System Design (Proficient, 1.6y), GraphQL (Proficient, 0.5y)
+- Data & AI: SQL (Proficient, 0.4y)
+
+EXPERIENCE
+* Retail Banking Customer Onboarding Platform — a European retail bank (2026-01 to present)
+  Scaled a customer onboarding platform for a European retail bank in retail banking using Microservices, REST API Design and System Design, improving conversion by 18%.
+* Supply-chain Logistics Mobile Banking App — a fast-growing logistics company (2025-03 to 2026-01)
+  Scaled a mobile banking app for a fast-growing logistics company in supply-chain logistics using Python, Microservices and GraphQL, improving conversion by 22%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2024)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer

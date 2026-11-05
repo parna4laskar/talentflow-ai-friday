@@ -1,0 +1,29 @@
+SOPHIE WILLIAMS
+Associate Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP11954
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2.2 years of experience, based in London. Strong in SQL, Power BI, Snowflake and Stakeholder Management, with recent work in pharma R&D. Interested in moving towards Business Analyst roles and open to relocating to Austin, Bengaluru, Pune.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.8y), Power BI (Working, 0.3y), Snowflake (Working, 0.5y), Data Visualization (Beginner, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 1.0y)
+- Business & Finance: Business Analysis (Working, 0.4y)
+- Product & Design: A/B Testing (Beginner, 0.3y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.5y)
+
+EXPERIENCE
+* HR Tech Data Lakehouse — a global HR software company (2025-10 to present)
+  Designed a data lakehouse for a global HR software company in HR tech using A/B Testing, Data Visualization and Stakeholder Management, reducing processing time by 40%.
+* Pharma R&D Real-time Analytics Pipeline — a leading pharma company (2025-01 to 2025-08)
+  Migrated a real-time analytics pipeline for a leading pharma company in pharma R&D using Business Analysis, Snowflake, Data Visualization and A/B Testing, cutting cloud spend by 35%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Business Analyst

@@ -1,0 +1,31 @@
+RYAN CAMPBELL
+Lead Data Scientist | Data & Analytics | Toronto, Canada
+Employee ID: EMP10175
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 13.1 years of experience, based in Toronto. Strong in Python, Machine Learning, SQL and Responsible AI, with recent work in supply-chain logistics. Interested in moving towards Data Scientist, ML Engineer roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 11.6y)
+- Data & AI: Machine Learning (Advanced, 4.3y), SQL (Advanced, 7.2y), Responsible AI (Advanced, 13.0y), Statistics (Proficient, 8.7y), Apache Spark (Proficient, 1.1y), MLOps (Proficient, 4.8y), Deep Learning (Proficient, 8.4y)
+
+EXPERIENCE
+* Manufacturing IoT Executive KPI Dashboard Suite — a tier-1 manufacturer (2025-05 to present)
+  Automated an executive KPI dashboard suite for a tier-1 manufacturer in manufacturing IoT using Machine Learning, Responsible AI, Deep Learning and Python, improving forecast accuracy by 22%.
+* Supply-chain Logistics Customer Churn Model — a European logistics company (2024-09 to 2025-03)
+  Built a customer churn model for a European logistics company in supply-chain logistics using MLOps, Python, Deep Learning and Responsible AI, improving conversion by 35%.
+* Energy Trading Customer Churn Model — a fast-growing energy company (2023-06 to 2024-08)
+  Automated a customer churn model for a fast-growing energy company in energy trading using Apache Spark, Python and Deep Learning, improving conversion by 18%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2022)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, ML Engineer, Product Manager, Data Analyst

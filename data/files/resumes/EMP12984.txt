@@ -1,0 +1,27 @@
+PARNA MENON
+Associate Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12984
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.2 years of experience, based in Bengaluru. Strong in C#, REST API Design, CI/CD and Microservices, with recent work in energy trading. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Proficient, 0.4y), REST API Design (Proficient, 0.6y), Microservices (Working, 0.3y), .NET Core (Beginner, 0.3y)
+- Cloud & DevOps: CI/CD (Proficient, 0.8y)
+- Data & AI: SQL (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Order Management System — an APAC energy company (2026-01 to present)
+  Re-architected an order management system for an APAC energy company in energy trading using .NET Core, C# and CI/CD, reducing processing time by 12%.
+* Energy Trading Self-service Portal — a US energy company (2025-01 to 2025-11)
+  Scaled a self-service portal for a US energy company in energy trading using SQL, .NET Core, C# and CI/CD, lifting NPS by 30 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer

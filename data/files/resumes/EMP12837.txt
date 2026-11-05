@@ -1,0 +1,34 @@
+KUNAL SINGH
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12837
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.6 years of experience, based in Bengaluru. Strong in Next.js, TypeScript, JavaScript and Angular, with recent work in healthcare. Interested in moving towards UX Designer, Full Stack Engineer roles and open to relocating to Pune, Chennai.
+
+CORE SKILLS
+- Software Engineering: Next.js (Expert, 9.5y), TypeScript (Advanced, 9.0y), JavaScript (Proficient, 6.7y), Angular (Proficient, 1.3y), GraphQL (Proficient, 5.0y), Node.js (Working, 2.3y), REST API Design (Working, 2.2y)
+- Cloud & DevOps: CI/CD (Proficient, 4.9y)
+- Quality Engineering: Playwright (Working, 1.0y)
+
+EXPERIENCE
+* Manufacturing IoT Payments Microservices Platform — a leading manufacturer (2025-06 to present)
+  Led the delivery of a payments microservices platform for a leading manufacturer in manufacturing IoT using TypeScript, Angular and Playwright, accelerating releases by 40%.
+* Pharma R&D Claims Processing Engine — a US pharma company (2024-01 to 2025-04)
+  Built a claims processing engine for a US pharma company in pharma R&D using CI/CD, Angular, GraphQL and Next.js, reducing processing time by 40%.
+* Healthcare Mobile Banking App — a US hospital network (2022-08 to 2023-11)
+  Built a mobile banking app for a US hospital network in healthcare using TypeScript, Next.js and JavaScript, lifting NPS by 40 points.
+* Healthcare Self-service Portal — a European hospital network (2021-04 to 2022-05)
+  Modernised a self-service portal for a European hospital network in healthcare using GraphQL, CI/CD, JavaScript and TypeScript, saving ~22K hours annually.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: UX Designer, Full Stack Engineer

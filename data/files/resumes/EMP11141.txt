@@ -1,0 +1,29 @@
+VENKAT PATIL
+Associate QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP11141
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 0.6 years of experience, based in Pune. Strong in Test Automation, LLM Engineering, Playwright and API Testing, with recent work in wealth management. Interested in moving towards QA Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 0.4y), Playwright (Working, 0.3y), API Testing (Working, 0.3y), Performance Testing (Working, 0.3y)
+- Data & AI: LLM Engineering (Proficient, 0.4y)
+- Cloud & DevOps: CI/CD (Working, 0.3y)
+- Software Engineering: Python (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Wealth Management API Contract-testing Suite — a fast-growing wealth manager (2026-01 to present)
+  Automated an API contract-testing suite for a fast-growing wealth manager in wealth management using Communication and Test Automation, raising automated test coverage to 90%.
+* Wealth Management Test Automation Framework — a tier-1 wealth manager (2024-12 to 2026-01)
+  Led the delivery of a test automation framework for a tier-1 wealth manager in wealth management using Python and Test Automation, accelerating releases by 12%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer, Mobile Engineer, Full Stack Engineer, Engineering Manager

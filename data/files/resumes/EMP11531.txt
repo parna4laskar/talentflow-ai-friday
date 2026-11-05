@@ -1,0 +1,31 @@
+IMRAN KRISHNAN
+Associate Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP11531
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.6 years of experience, based in Hyderabad. Strong in SQL, Python, AWS and Data Engineering, with recent work in telecom billing. Interested in moving towards Data Engineer, Backend Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.4y), Data Engineering (Working, 0.3y), Airflow (Working, 0.3y), Data Governance (Working, 0.3y)
+- Software Engineering: Python (Proficient, 0.4y), Kafka (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Proficient, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Data Lakehouse — a US insurer (2026-07 to present)
+  Migrated a data lakehouse for a US insurer in insurance claims using AWS, Kafka, Airflow and Data Engineering, reducing processing time by 35%.
+* HR Tech Data Lakehouse — a US HR software company (2025-10 to 2026-04)
+  Built a data lakehouse for a US HR software company in HR tech using Airflow, SQL, Kafka and Data Engineering, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer, Backend Engineer, Data Scientist

@@ -1,0 +1,34 @@
+VIVEK KHAN
+Security Engineer | Cyber Security | Pune, India
+Employee ID: EMP12408
+
+PROFESSIONAL SUMMARY
+Security Engineer with 3.1 years of experience, based in Pune. Strong in Application Security, AWS, Threat Modeling and Cloud Security, with recent work in wealth management. Interested in moving towards Security Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: Application Security (Expert, 3.1y), Threat Modeling (Proficient, 0.5y), Cloud Security (Proficient, 1.9y), SIEM (Working, 0.8y)
+- Cloud & DevOps: AWS (Advanced, 1.2y)
+
+EXPERIENCE
+* Telecom Billing Secure SDLC Rollout — a global telecom operator (2026-07 to present)
+  Built a secure SDLC rollout for a global telecom operator in telecom billing using Cloud Security, Application Security and Threat Modeling, accelerating releases by 40%.
+* Wealth Management Identity and Access Platform — a leading wealth manager (2025-04 to 2026-05)
+  Scaled an identity and access platform for a leading wealth manager in wealth management using Application Security, SIEM, AWS and Cloud Security, reducing production incidents by 35%.
+* Wealth Management Security Operations Centre Uplift — a fast-growing wealth manager (2024-05 to 2025-02)
+  Led the delivery of a security operations centre uplift for a fast-growing wealth manager in wealth management using Threat Modeling, SIEM, AWS and Cloud Security, reducing production incidents by 18%.
+* Pharma R&D Identity and Access Platform — a global pharma company (2023-02 to 2024-03)
+  Led the delivery of an identity and access platform for a global pharma company in pharma R&D using Cloud Security and Application Security, reducing production incidents by 22%.
+
+CERTIFICATIONS
+- CISSP (2023)
+- CEH (2024)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Security Engineer, Site Reliability Engineer, Security Analyst

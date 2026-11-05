@@ -1,0 +1,33 @@
+SURESH SEN
+Lead Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP12507
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 12.8 years of experience, based in Chennai. Strong in Data Engineering, Stakeholder Management, SQL and Python, with recent work in retail banking. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 12.8y), SQL (Advanced, 2.1y), Apache Spark (Advanced, 4.5y), Airflow (Advanced, 5.0y), dbt (Proficient, 4.3y), Databricks (Working, 3.9y)
+- Delivery & Leadership: Stakeholder Management (Expert, 4.5y)
+- Software Engineering: Python (Advanced, 5.6y), Go (Proficient, 6.6y)
+
+EXPERIENCE
+* Public Sector Data Lakehouse — a European government agency (2025-12 to present)
+  Led the delivery of a data lakehouse for a European government agency in public sector using SQL, dbt and Python, cutting cloud spend by 40%.
+* Retail Banking Regulatory Reporting Suite — a European retail bank (2025-02 to 2025-12)
+  Modernised a regulatory reporting suite for a European retail bank in retail banking using Go and Stakeholder Management, saving ~30K hours annually.
+* Retail Banking Data Lakehouse — a US retail bank (2024-04 to 2025-01)
+  Automated a data lakehouse for a US retail bank in retail banking using SQL, dbt and Data Engineering, cutting cloud spend by 40%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2021)
+- SnowPro Core (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, AI Engineer, ML Engineer

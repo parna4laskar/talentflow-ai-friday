@@ -1,0 +1,30 @@
+FARHAN RAO
+Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP11603
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.6 years of experience, based in Hyderabad. Strong in Airflow, Data Engineering, AWS and SQL, with recent work in insurance claims. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Airflow (Advanced, 2.3y), Data Engineering (Proficient, 0.9y), SQL (Working, 0.8y), Databricks (Working, 0.8y)
+- Cloud & DevOps: AWS (Proficient, 1.8y)
+- Software Engineering: Python (Working, 0.6y)
+- Delivery & Leadership: Communication (Working, 1.1y)
+
+EXPERIENCE
+* Healthcare Regulatory Reporting Suite — a tier-1 hospital network (2025-11 to present)
+  Designed a regulatory reporting suite for a tier-1 hospital network in healthcare using Data Engineering and Python, reducing processing time by 22%.
+* Insurance Claims Regulatory Reporting Suite — a US insurer (2025-05 to 2025-10)
+  Led the delivery of a regulatory reporting suite for a US insurer in insurance claims using AWS, SQL and Python, saving ~35K hours annually.
+* Insurance Claims Regulatory Reporting Suite — a leading insurer (2024-09 to 2025-03)
+  Built a regulatory reporting suite for a leading insurer in insurance claims using SQL, Airflow, Databricks and Python, reducing processing time by 12%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist

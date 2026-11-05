@@ -1,0 +1,32 @@
+KAVYA NAIR
+Senior Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11775
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 5.7 years of experience, based in Bengaluru. Strong in Mobile Development, Java, Test Automation and UI Design, with recent work in public sector. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 0.9y), Java (Proficient, 3.9y), TypeScript (Proficient, 0.5y)
+- Quality Engineering: Test Automation (Proficient, 3.1y)
+- Product & Design: UI Design (Proficient, 0.5y)
+- Cloud & DevOps: CI/CD (Proficient, 2.5y)
+
+EXPERIENCE
+* Energy Trading Customer Onboarding Platform — a US energy company (2025-10 to present)
+  Migrated a customer onboarding platform for a US energy company in energy trading using UI Design, Test Automation and Java, reducing processing time by 18%.
+* Airline Operations Mobile Banking App — a leading airline (2025-02 to 2025-09)
+  Designed a mobile banking app for a leading airline in airline operations using Java and CI/CD, improving conversion by 12%.
+* Insurance Claims Claims Processing Engine — a European insurer (2024-03 to 2025-01)
+  Designed a claims processing engine for a European insurer in insurance claims using Test Automation, CI/CD and Mobile Development, saving ~35K hours annually.
+* Public Sector Claims Processing Engine — a global government agency (2022-12 to 2024-01)
+  Scaled a claims processing engine for a global government agency in public sector using Mobile Development, Java and TypeScript, reducing processing time by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Full Stack Engineer, QA Engineer

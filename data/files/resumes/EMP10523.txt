@@ -1,0 +1,28 @@
+SAMEER DAS
+Associate Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10523
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.1 years of experience, based in Hyderabad. Strong in Java, REST API Design, Kafka and SQL, with recent work in HR tech. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 0.7y), REST API Design (Proficient, 0.4y), Kafka (Proficient, 0.5y), Microservices (Working, 0.4y), System Design (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.4y), Databricks (Working, 0.3y)
+- Cloud & DevOps: AWS (Working, 0.5y), CI/CD (Beginner, 0.3y)
+- Quality Engineering: Playwright (Working, 0.5y)
+
+EXPERIENCE
+* HR Tech Order Management System — a global HR software company (2026-04 to present)
+  Built an order management system for a global HR software company in HR tech using CI/CD, SQL, Playwright and REST API Design, onboarding 6 new enterprise clients.
+* Retail Banking Customer Onboarding Platform — a European retail bank (2024-11 to 2026-03)
+  Automated a customer onboarding platform for a European retail bank in retail banking using System Design, CI/CD and Microservices, improving conversion by 25%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer

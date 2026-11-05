@@ -1,0 +1,29 @@
+ALEKSANDRA LEWANDOWSKI
+Senior Platform Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11963
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 10 years of experience, based in Kraków. Strong in Kubernetes, Terraform, CI/CD and Platform Engineering, with recent work in HR tech. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 6.8y), Terraform (Advanced, 7.0y), CI/CD (Advanced, 5.2y), Platform Engineering (Proficient, 1.6y), Site Reliability Engineering (Proficient, 4.5y), AWS (Working, 4.8y), Observability (Working, 3.2y)
+- Software Engineering: Python (Proficient, 4.5y), Go (Proficient, 2.0y)
+- Data & AI: Responsible AI (Proficient, 6.4y), Generative AI (Proficient, 3.4y)
+
+EXPERIENCE
+* Automotive Data-centre Exit To Cloud — a US car maker (2025-10 to present)
+  Automated a data-centre exit to cloud for a US car maker in automotive using AWS, Platform Engineering and CI/CD, cutting cloud spend by 25%.
+* Manufacturing IoT Data-centre Exit To Cloud — a global manufacturer (2024-11 to 2025-08)
+  Modernised a data-centre exit to cloud for a global manufacturer in manufacturing IoT using Observability, AWS and Kubernetes, delivering $5M in cost savings.
+* HR Tech Observability Stack — an APAC HR software company (2023-03 to 2024-09)
+  Scaled an observability stack for an APAC HR software company in HR tech using CI/CD, Responsible AI, AWS and Go, accelerating releases by 22%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer

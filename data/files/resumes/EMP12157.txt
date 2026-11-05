@@ -1,0 +1,32 @@
+CHLOE TAYLOR
+Senior Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP12157
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 8.7 years of experience, based in London. Strong in Data Visualization, Tableau, SQL and Statistics, with recent work in payments. Interested in moving towards Data Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 2.4y), Tableau (Advanced, 1.9y), SQL (Proficient, 2.8y), Statistics (Working, 2.8y), Databricks (Working, 2.1y)
+- Product & Design: A/B Testing (Working, 2.7y)
+- Delivery & Leadership: Communication (Working, 3.6y)
+
+EXPERIENCE
+* Payments Customer Churn Model — a global payments provider (2026-09 to present)
+  Scaled a customer churn model for a global payments provider in payments using Tableau, Communication, Data Visualization and SQL, improving model accuracy by 40%.
+* Payments Real-time Analytics Pipeline — an APAC payments provider (2026-01 to 2026-07)
+  Designed a real-time analytics pipeline for an APAC payments provider in payments using Tableau and SQL, cutting cloud spend by 12%.
+* Supply-chain Logistics Real-time Analytics Pipeline — a leading logistics company (2025-01 to 2025-11)
+  Designed a real-time analytics pipeline for a leading logistics company in supply-chain logistics using Tableau, Statistics and Communication, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2023)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Analyst, Data Scientist, Product Manager, Financial Analyst

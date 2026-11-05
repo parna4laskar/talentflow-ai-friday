@@ -1,0 +1,32 @@
+ZOYA PILLAI
+Lead Engineering Manager | Engineering | Gurugram, India
+Employee ID: EMP10387
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 12.3 years of experience, based in Gurugram. Strong in Agile/Scrum, People Leadership, System Design and Stakeholder Management, with recent work in payments. Interested in moving towards Engineering Manager, Program Manager roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 4.2y), People Leadership (Advanced, 3.4y), Stakeholder Management (Advanced, 0.9y)
+- Software Engineering: System Design (Advanced, 10.2y), Python (Proficient, 8.8y)
+- Cloud & DevOps: AWS (Advanced, 11.6y)
+- Quality Engineering: Playwright (Advanced, 5.5y)
+
+EXPERIENCE
+* Pharma R&D Claims Processing Engine — a European pharma company (2026-05 to present)
+  Built a claims processing engine for a European pharma company in pharma R&D using Playwright, System Design, Stakeholder Management and AWS, saving ~30K hours annually.
+* Payments Customer Onboarding Platform — a leading payments provider (2025-07 to 2026-04)
+  Automated a customer onboarding platform for a leading payments provider in payments using Stakeholder Management, AWS and Agile/Scrum, lifting NPS by 12 points.
+* E-commerce Payments Microservices Platform — a fast-growing online retailer (2024-11 to 2025-05)
+  Led the delivery of a payments microservices platform for a fast-growing online retailer in e-commerce using Playwright and People Leadership, accelerating releases by 40%.
+* Payments Payments Microservices Platform — a fast-growing payments provider (2024-03 to 2024-09)
+  Designed a payments microservices platform for a fast-growing payments provider in payments using System Design, Stakeholder Management and Python, reducing processing time by 22%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Program Manager

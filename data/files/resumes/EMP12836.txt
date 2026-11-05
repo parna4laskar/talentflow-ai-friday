@@ -1,0 +1,30 @@
+JUN HAO RAHMAN
+Associate Platform Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP12836
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 0.7 years of experience, based in Singapore. Strong in Site Reliability Engineering, Platform Engineering, Terraform and Communication, with recent work in public sector. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 0.5y), Platform Engineering (Proficient, 0.4y), Terraform (Proficient, 0.5y), Kubernetes (Working, 0.3y), CI/CD (Working, 0.3y), Observability (Working, 0.3y), AWS (Working, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+- Software Engineering: Python (Beginner, 0.3y), Go (Beginner, 0.3y)
+
+EXPERIENCE
+* Public Sector Observability Stack — an APAC government agency (2026-03 to present)
+  Built an observability stack for an APAC government agency in public sector using Observability and Platform Engineering, reducing production incidents by 40%.
+* Public Sector Cloud Landing Zone — a global government agency (2025-06 to 2025-12)
+  Designed a cloud landing zone for a global government agency in public sector using Python, Platform Engineering and Kubernetes, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer

@@ -1,0 +1,29 @@
+ANJALI SHARMA
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10014
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4 years of experience, based in Bengaluru. Strong in Microservices, GraphQL, Java and REST API Design, with recent work in HR tech. Interested in moving towards Backend Engineer, Engineering Manager roles and open to relocating to Singapore, Pune.
+
+CORE SKILLS
+- Software Engineering: Microservices (Proficient, 0.9y), GraphQL (Proficient, 1.5y), Java (Working, 1.2y), REST API Design (Working, 1.9y), Kafka (Working, 0.5y)
+- Data & AI: SQL (Working, 1.2y)
+- Cloud & DevOps: Kubernetes (Working, 0.3y), Docker (Working, 1.2y)
+
+EXPERIENCE
+* HR Tech Claims Processing Engine — a fast-growing HR software company (2026-06 to present)
+  Migrated a claims processing engine for a fast-growing HR software company in HR tech using Docker, GraphQL, SQL and Microservices, saving ~40K hours annually.
+* Energy Trading Self-service Portal — an APAC energy company (2025-03 to 2026-04)
+  Re-architected a self-service portal for an APAC energy company in energy trading using GraphQL, Java, Kafka and Docker, lifting NPS by 40 points.
+* HR Tech Order Management System — a leading HR software company (2024-04 to 2025-02)
+  Built an order management system for a leading HR software company in HR tech using REST API Design and SQL, onboarding 3 new enterprise clients.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Engineering Manager, Software Architect

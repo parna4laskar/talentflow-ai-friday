@@ -1,0 +1,35 @@
+MRUNAL JADHAV
+Lead Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11417
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 12.7 years of experience, based in Hyderabad. Strong in Angular, TypeScript, JavaScript and Communication, with recent work in HR tech. Interested in moving towards UX Designer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 4.1y), TypeScript (Advanced, 1.9y), JavaScript (Advanced, 12.0y), Next.js (Working, 2.5y)
+- Delivery & Leadership: Communication (Advanced, 2.2y)
+- Product & Design: Design Systems (Proficient, 6.4y), Figma (Proficient, 7.5y)
+- Cloud & DevOps: Terraform (Proficient, 9.2y), CI/CD (Working, 0.4y)
+
+EXPERIENCE
+* HR Tech Pricing Engine — a leading HR software company (2026-08 to present)
+  Built a pricing engine for a leading HR software company in HR tech using Next.js, JavaScript and CI/CD, improving conversion by 35%.
+* HR Tech Pricing Engine — a US HR software company (2025-05 to 2026-07)
+  Migrated a pricing engine for a US HR software company in HR tech using Next.js, Angular and Figma, reducing processing time by 18%.
+* HR Tech Claims Processing Engine — a fast-growing HR software company (2024-07 to 2025-03)
+  Scaled a claims processing engine for a fast-growing HR software company in HR tech using CI/CD and TypeScript, saving ~30K hours annually.
+* Healthcare Customer Onboarding Platform — a fast-growing hospital network (2023-01 to 2024-06)
+  Built a customer onboarding platform for a fast-growing hospital network in healthcare using Next.js, Communication, Figma and Terraform, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2021)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: UX Designer, QA Engineer, Full Stack Engineer

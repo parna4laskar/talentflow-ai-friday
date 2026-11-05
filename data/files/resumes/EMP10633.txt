@@ -1,0 +1,33 @@
+ADITI SHAH
+Senior AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP10633
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 6.8 years of experience, based in Pune. Strong in Python, Generative AI, LLM Engineering and Docker, with recent work in healthcare. Interested in moving towards DevOps Engineer, Data Scientist roles and open to relocating to Bengaluru, Toronto.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 2.8y), REST API Design (Working, 3.0y), Go (Beginner, 0.5y)
+- Data & AI: Generative AI (Advanced, 1.3y), LLM Engineering (Advanced, 3.3y)
+- Cloud & DevOps: Docker (Proficient, 1.4y)
+
+EXPERIENCE
+* Automotive Fraud Detection Model — a US car maker (2026-03 to present)
+  Led the delivery of a fraud detection model for a US car maker in automotive using Docker, LLM Engineering and Python, improving model accuracy by 30%.
+* Insurance Claims Recommendation Engine — a European insurer (2025-04 to 2025-12)
+  Designed a recommendation engine for a European insurer in insurance claims using REST API Design, Generative AI, Python and Docker, improving conversion by 35%.
+* Wealth Management Recommendation Engine — a European wealth manager (2024-05 to 2025-02)
+  Built a recommendation engine for a European wealth manager in wealth management using LLM Engineering, Docker, Python and Generative AI, improving model accuracy by 25%.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2025)
+- Google Generative AI Leader (2022)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Data Scientist, ML Engineer

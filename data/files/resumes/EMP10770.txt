@@ -1,0 +1,29 @@
+VIVEK JOSHI
+Lead QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10770
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 11.3 years of experience, based in Bengaluru. Strong in Test Automation, Selenium, API Testing and Performance Testing, with recent work in payments. Interested in moving towards Backend Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 11.3y), Selenium (Expert, 4.9y), API Testing (Expert, 8.8y), Performance Testing (Advanced, 1.5y), Playwright (Proficient, 3.2y)
+- Software Engineering: Python (Proficient, 1.8y)
+- Delivery & Leadership: Mentoring (Proficient, 7.2y)
+
+EXPERIENCE
+* Payments API Contract-testing Suite — a European payments provider (2025-08 to present)
+  Automated an API contract-testing suite for a European payments provider in payments using Selenium and Python, reducing production incidents by 18%.
+* Payments Performance Engineering Programme — a US payments provider (2024-01 to 2025-05)
+  Re-architected a performance engineering programme for a US payments provider in payments using Performance Testing, Python and Mentoring, reducing production incidents by 18%.
+* Healthcare Performance Engineering Programme — an APAC hospital network (2022-07 to 2023-12)
+  Scaled a performance engineering programme for an APAC hospital network in healthcare using Test Automation, Performance Testing, Mentoring and Playwright, accelerating releases by 22%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer

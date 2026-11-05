@@ -1,0 +1,26 @@
+KAVYA NAIDU
+Associate Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12435
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0.3 years of experience, based in Bengaluru. Strong in AWS, Platform Engineering, Terraform and Linux Administration, with recent work in manufacturing IoT. Interested in moving towards Cloud Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 0.5y), Platform Engineering (Proficient, 0.3y), Terraform (Working, 0.3y), Linux Administration (Working, 0.3y), Kubernetes (Working, 0.3y), CI/CD (Beginner, 0.3y), Observability (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.3y)
+
+EXPERIENCE
+* Healthcare Observability Stack — a European hospital network (2025-10 to present)
+  Scaled an observability stack for a European hospital network in healthcare using CI/CD, AWS, Linux Administration and Kubernetes, reducing production incidents by 35%.
+* Payments CI/CD Platform — a European payments provider (2024-07 to 2025-08)
+  Built a CI/CD platform for a European payments provider in payments using Terraform, Platform Engineering and CI/CD, accelerating releases by 18%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, Software Architect, Site Reliability Engineer, Platform Engineer

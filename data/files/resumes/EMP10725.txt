@@ -1,0 +1,32 @@
+VARUN SHAH
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10725
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.8 years of experience, based in Bengaluru. Strong in TypeScript, CI/CD, JavaScript and GraphQL, with recent work in payments. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 5.0y), JavaScript (Proficient, 3.5y), GraphQL (Proficient, 2.4y), Angular (Working, 2.3y)
+- Cloud & DevOps: CI/CD (Advanced, 6.2y)
+- Delivery & Leadership: Communication (Proficient, 3.5y)
+- Product & Design: Figma (Working, 1.9y), Design Systems (Working, 1.7y)
+
+EXPERIENCE
+* Payments Self-service Portal — a global payments provider (2025-10 to present)
+  Built a self-service portal for a global payments provider in payments using Design Systems and CI/CD, lifting NPS by 30 points.
+* Automotive Customer Onboarding Platform — a European car maker (2025-03 to 2025-08)
+  Led the delivery of a customer onboarding platform for a European car maker in automotive using GraphQL, Design Systems and TypeScript, improving conversion by 22%.
+* E-commerce Pricing Engine — a US online retailer (2024-08 to 2025-02)
+  Designed a pricing engine for a US online retailer in e-commerce using Angular, Design Systems, Figma and Communication, improving conversion by 25%.
+* Payments Order Management System — a fast-growing payments provider (2023-06 to 2024-07)
+  Migrated an order management system for a fast-growing payments provider in payments using JavaScript and CI/CD, onboarding 5 new enterprise clients.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer

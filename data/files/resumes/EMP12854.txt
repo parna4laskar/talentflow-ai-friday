@@ -1,0 +1,29 @@
+MOHAMMED WALKER
+Associate Security Analyst | Cyber Security | London, United Kingdom
+Employee ID: EMP12854
+
+PROFESSIONAL SUMMARY
+Associate Security Analyst with 2.2 years of experience, based in London. Strong in Incident Response, SIEM, Cloud Security and Linux Administration, with recent work in insurance claims. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Security: Incident Response (Advanced, 1.9y), SIEM (Proficient, 1.6y), Cloud Security (Working, 0.9y), GRC (Beginner, 0.3y)
+- Cloud & DevOps: Linux Administration (Working, 0.5y), Kubernetes (Working, 0.4y)
+
+EXPERIENCE
+* Airline Operations Security Operations Centre Uplift — a European airline (2026-07 to present)
+  Migrated a security operations centre uplift for a European airline in airline operations using Cloud Security and Incident Response, closing 40% of open audit findings.
+* Payments Cloud Security Posture Programme — a European payments provider (2025-03 to 2026-05)
+  Automated a cloud security posture programme for a European payments provider in payments using GRC, SIEM, Incident Response and Cloud Security, closing 18% of open audit findings.
+
+CERTIFICATIONS
+- CompTIA Security+ (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Site Reliability Engineer, Cloud Engineer, DevOps Engineer

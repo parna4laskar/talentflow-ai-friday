@@ -1,0 +1,32 @@
+MEERA PAWAR
+Lead ML Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP10121
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 14.7 years of experience, based in Pune. Strong in Machine Learning, Python, MLOps and Deep Learning, with recent work in HR tech. Interested in moving towards AI Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Expert, 6.0y), MLOps (Advanced, 9.4y), Deep Learning (Advanced, 2.0y), NLP (Proficient, 5.7y), Computer Vision (Proficient, 4.8y), Databricks (Proficient, 9.0y)
+- Software Engineering: Python (Advanced, 5.6y)
+- Cloud & DevOps: AWS (Advanced, 3.0y)
+- Delivery & Leadership: Mentoring (Advanced, 13.3y), Communication (Advanced, 5.1y), Stakeholder Management (Proficient, 8.8y)
+
+EXPERIENCE
+* HR Tech Recommendation Engine — a European HR software company (2026-01 to present)
+  Migrated a recommendation engine for a European HR software company in HR tech using MLOps, Computer Vision, Communication and NLP, improving model accuracy by 25%.
+* E-commerce Document Intelligence Pipeline — a US online retailer (2025-05 to 2025-12)
+  Re-architected a document intelligence pipeline for a US online retailer in e-commerce using Communication, Stakeholder Management and Python, saving ~25K hours annually.
+* HR Tech Recommendation Engine — a US HR software company (2024-01 to 2025-04)
+  Designed a recommendation engine for a US HR software company in HR tech using Python, MLOps, NLP and Machine Learning, improving conversion by 30%.
+* Insurance Claims Knowledge Assistant (RAG) — a fast-growing insurer (2022-07 to 2023-10)
+  Migrated a knowledge assistant (RAG) for a fast-growing insurer in insurance claims using Mentoring, Deep Learning and Python, lifting NPS by 12 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: AI Engineer, Data Scientist, DevOps Engineer

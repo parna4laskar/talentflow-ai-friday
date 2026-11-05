@@ -1,0 +1,28 @@
+ARVIND MENON
+Associate AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12066
+
+PROFESSIONAL SUMMARY
+Associate AI Engineer with 0.4 years of experience, based in Hyderabad. Strong in Python, LLM Engineering, REST API Design and Agentic AI, with recent work in healthcare. Interested in moving towards AI Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.4y), REST API Design (Proficient, 0.4y)
+- Data & AI: LLM Engineering (Proficient, 0.3y), Agentic AI (Proficient, 0.3y), Generative AI (Working, 0.3y), Vector Databases (Working, 0.3y), NLP (Working, 0.3y)
+- Cloud & DevOps: Docker (Working, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Knowledge Assistant (RAG) — a European retail bank (2025-08 to present)
+  Led the delivery of a knowledge assistant (RAG) for a European retail bank in retail banking using LLM Engineering, Python, Agentic AI and Generative AI, lifting NPS by 22 points.
+* Healthcare Fraud Detection Model — a tier-1 hospital network (2024-09 to 2025-07)
+  Designed a fraud detection model for a tier-1 hospital network in healthcare using REST API Design and Generative AI, reducing processing time by 12%.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, Full Stack Engineer

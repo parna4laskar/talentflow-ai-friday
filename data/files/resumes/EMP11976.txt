@@ -1,0 +1,33 @@
+PRASAD MALHOTRA
+Senior Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP11976
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.5 years of experience, based in Pune. Strong in TypeScript, JavaScript, Angular and Playwright, with recent work in automotive. Interested in moving towards Frontend Engineer, QA Engineer roles and open to relocating to Bengaluru, Gurugram, Toronto.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 3.5y), JavaScript (Advanced, 1.3y), Angular (Advanced, 7.1y)
+- Quality Engineering: Playwright (Advanced, 7.0y)
+- Cloud & DevOps: CI/CD (Proficient, 4.2y), Platform Engineering (Proficient, 5.3y)
+- Delivery & Leadership: Communication (Working, 2.3y)
+
+EXPERIENCE
+* Public Sector Customer Onboarding Platform — a US government agency (2026-01 to present)
+  Led the delivery of a customer onboarding platform for a US government agency in public sector using CI/CD, Playwright, TypeScript and JavaScript, reducing processing time by 18%.
+* Manufacturing IoT Claims Processing Engine — a global manufacturer (2024-06 to 2025-11)
+  Built a claims processing engine for a global manufacturer in manufacturing IoT using TypeScript and CI/CD, saving ~22K hours annually.
+* Media Streaming Pricing Engine — a tier-1 streaming platform (2023-01 to 2024-05)
+  Built a pricing engine for a tier-1 streaming platform in media streaming using JavaScript, TypeScript, CI/CD and Platform Engineering, improving conversion by 18%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, QA Engineer

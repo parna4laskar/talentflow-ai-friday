@@ -1,0 +1,34 @@
+SITI LEE
+Senior Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11974
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.9 years of experience, based in Singapore. Strong in JavaScript, Angular, TypeScript and Playwright, with recent work in energy trading. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 6.3y), Angular (Advanced, 1.5y), TypeScript (Proficient, 4.7y)
+- Quality Engineering: Playwright (Proficient, 6.3y)
+- Product & Design: Design Systems (Proficient, 4.9y)
+- Cloud & DevOps: CI/CD (Working, 2.5y), Terraform (Working, 2.5y)
+- Data & AI: Responsible AI (Working, 2.8y)
+
+EXPERIENCE
+* E-commerce Payments Microservices Platform — a fast-growing online retailer (2025-12 to present)
+  Modernised a payments microservices platform for a fast-growing online retailer in e-commerce using Playwright and CI/CD, accelerating releases by 18%.
+* Payments Order Management System — a leading payments provider (2024-07 to 2025-10)
+  Migrated an order management system for a leading payments provider in payments using Playwright and Responsible AI, onboarding 3 new enterprise clients.
+* Energy Trading Mobile Banking App — a leading energy company (2023-11 to 2024-05)
+  Modernised a mobile banking app for a leading energy company in energy trading using CI/CD, Angular and Design Systems, lifting NPS by 35 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2023)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer

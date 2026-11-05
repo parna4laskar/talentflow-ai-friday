@@ -1,0 +1,31 @@
+PAWEŁ ZIELIŃSKI
+Senior DevOps Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP12489
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 6.5 years of experience, based in Kraków. Strong in CI/CD, Docker, AWS and Python, with recent work in payments. Interested in moving towards Site Reliability Engineer, Backend Engineer roles and open to relocating to Austin, Dublin.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 0.9y), Docker (Advanced, 1.4y), AWS (Advanced, 3.7y), Linux Administration (Proficient, 1.4y), Kubernetes (Working, 2.3y), Terraform (Beginner, 1.1y)
+- Software Engineering: Python (Advanced, 3.5y), Go (Proficient, 2.1y)
+- Security: Identity & Access Management (Working, 2.0y)
+
+EXPERIENCE
+* Airline Operations CI/CD Platform — a tier-1 airline (2026-04 to present)
+  Automated a CI/CD platform for a tier-1 airline in airline operations using Identity & Access Management, Kubernetes and Docker, accelerating releases by 40%.
+* Supply-chain Logistics Data-centre Exit To Cloud — a US logistics company (2024-08 to 2026-02)
+  Led the delivery of a data-centre exit to cloud for a US logistics company in supply-chain logistics using Python, Linux Administration, AWS and CI/CD, cutting cloud spend by 12%.
+* Payments Observability Stack — a fast-growing payments provider (2023-06 to 2024-07)
+  Modernised an observability stack for a fast-growing payments provider in payments using CI/CD, Go and AWS, reducing production incidents by 30%.
+* Retail Banking Cloud Landing Zone — a fast-growing retail bank (2021-11 to 2023-05)
+  Re-architected a cloud landing zone for a fast-growing retail bank in retail banking using Python, Go and Identity & Access Management, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+Polish, English, Japanese
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Site Reliability Engineer, Backend Engineer

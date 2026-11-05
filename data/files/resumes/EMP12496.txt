@@ -1,0 +1,27 @@
+KARTHIK BANERJEE
+Security Analyst | Cyber Security | Chennai, India
+Employee ID: EMP12496
+
+PROFESSIONAL SUMMARY
+Security Analyst with 2.5 years of experience, based in Chennai. Strong in Python, Linux Administration, SIEM and Incident Response, with recent work in automotive. Interested in moving towards Security Analyst, Cloud Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 2.0y)
+- Cloud & DevOps: Linux Administration (Proficient, 1.4y), FinOps (Working, 1.1y)
+- Security: SIEM (Working, 0.5y), Incident Response (Working, 0.6y), Cloud Security (Working, 1.2y)
+
+EXPERIENCE
+* Automotive Identity and Access Platform — a European car maker (2026-10 to present)
+  Built an identity and access platform for a European car maker in automotive using SIEM and Linux Administration, closing 25% of open audit findings.
+* Automotive Secure SDLC Rollout — a tier-1 car maker (2025-05 to 2026-07)
+  Migrated a secure SDLC rollout for a tier-1 car maker in automotive using SIEM and FinOps, accelerating releases by 35%.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Security Analyst, Cloud Engineer, Security Engineer, DevOps Engineer

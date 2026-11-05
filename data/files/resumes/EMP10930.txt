@@ -1,0 +1,30 @@
+VARUN LIM
+Associate Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP10930
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.2 years of experience, based in Pune. Strong in Angular, SQL, Microservices and TypeScript, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, Mobile Engineer roles and open to relocating to Bengaluru, Dublin, Toronto.
+
+CORE SKILLS
+- Software Engineering: Angular (Proficient, 0.9y), Microservices (Proficient, 0.8y), TypeScript (Working, 0.6y), Java (Working, 0.3y), GraphQL (Working, 0.3y), REST API Design (Working, 0.3y)
+- Data & AI: SQL (Proficient, 0.9y)
+- Cloud & DevOps: AWS (Working, 0.4y), Docker (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Order Management System — a tier-1 online retailer (2025-09 to present)
+  Built an order management system for a tier-1 online retailer in e-commerce using GraphQL and Angular, onboarding 6 new enterprise clients.
+* Manufacturing IoT Order Management System — a European manufacturer (2025-01 to 2025-06)
+  Scaled an order management system for a European manufacturer in manufacturing IoT using REST API Design and Microservices, onboarding 3 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, Mobile Engineer

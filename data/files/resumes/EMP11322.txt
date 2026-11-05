@@ -1,0 +1,33 @@
+ABHISHEK GUPTA
+Senior QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP11322
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.4 years of experience, based in Bengaluru. Strong in Selenium, API Testing, Python and Test Automation, with recent work in healthcare. Interested in moving towards QA Engineer, DevOps Engineer roles and open to relocating to Dublin, Gurugram, New York.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 1.1y), API Testing (Advanced, 8.7y), Test Automation (Proficient, 0.5y)
+- Software Engineering: Python (Advanced, 2.7y), Java (Proficient, 1.8y)
+
+EXPERIENCE
+* Payments Performance Engineering Programme — a leading payments provider (2026-08 to present)
+  Modernised a performance engineering programme for a leading payments provider in payments using Test Automation, Selenium and Java, accelerating releases by 12%.
+* Healthcare API Contract-testing Suite — a US hospital network (2026-02 to 2026-07)
+  Migrated an API contract-testing suite for a US hospital network in healthcare using Python, API Testing, Selenium and Test Automation, raising automated test coverage to 70%.
+* Insurance Claims Performance Engineering Programme — a tier-1 insurer (2025-03 to 2026-01)
+  Designed a performance engineering programme for a tier-1 insurer in insurance claims using API Testing, Selenium, Java and Python, reducing production incidents by 25%.
+* Payments API Contract-testing Suite — a US payments provider (2024-06 to 2024-12)
+  Scaled an API contract-testing suite for a US payments provider in payments using Java and Python, raising automated test coverage to 85%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: QA Engineer, DevOps Engineer

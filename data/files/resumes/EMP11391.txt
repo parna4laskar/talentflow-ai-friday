@@ -1,0 +1,35 @@
+WEI LING MILLER
+Senior Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11391
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.2 years of experience, based in Singapore. Strong in Java, REST API Design, SQL and Kubernetes, with recent work in public sector. Interested in moving towards Engineering Manager, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 6.9y), REST API Design (Advanced, 9.8y), Microservices (Proficient, 7.2y), Spring Boot (Proficient, 4.1y), Kafka (Proficient, 7.5y), GraphQL (Working, 4.8y)
+- Data & AI: SQL (Advanced, 3.2y), Databricks (Proficient, 1.5y)
+- Cloud & DevOps: Kubernetes (Advanced, 4.9y)
+- Delivery & Leadership: Communication (Working, 3.8y)
+
+EXPERIENCE
+* Payments Claims Processing Engine — a US payments provider (2026-05 to present)
+  Modernised a claims processing engine for a US payments provider in payments using SQL, REST API Design and Microservices, reducing processing time by 40%.
+* Supply-chain Logistics Payments Microservices Platform — a fast-growing logistics company (2025-08 to 2026-04)
+  Re-architected a payments microservices platform for a fast-growing logistics company in supply-chain logistics using SQL, Kafka and Communication, reducing processing time by 40%.
+* Wealth Management Order Management System — a global wealth manager (2024-11 to 2025-07)
+  Designed an order management system for a global wealth manager in wealth management using Databricks, GraphQL, Spring Boot and Kubernetes, reducing processing time by 40%.
+* Payments Mobile Banking App — a global payments provider (2023-09 to 2024-09)
+  Built a mobile banking app for a global payments provider in payments using Kafka, SQL, REST API Design and GraphQL, lifting NPS by 18 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager, DevOps Engineer, Full Stack Engineer

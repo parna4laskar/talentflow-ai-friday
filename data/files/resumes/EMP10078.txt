@@ -1,0 +1,30 @@
+VIVEK SUBRAMANIAN
+Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP10078
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2.3 years of experience, based in Hyderabad. Strong in A/B Testing, SQL, Data Visualization and Tableau, with recent work in e-commerce. Interested in moving towards Business Analyst, Product Manager roles.
+
+CORE SKILLS
+- Product & Design: A/B Testing (Advanced, 1.2y)
+- Data & AI: SQL (Proficient, 1.3y), Data Visualization (Proficient, 0.7y), Tableau (Proficient, 1.2y), Statistics (Beginner, 0.4y)
+- Software Engineering: Python (Proficient, 1.0y)
+- People & Marketing: People Analytics (Proficient, 1.2y)
+- Business & Finance: Business Analysis (Working, 0.8y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.6y)
+
+EXPERIENCE
+* E-commerce Executive KPI Dashboard Suite — a global online retailer (2025-11 to present)
+  Automated an executive KPI dashboard suite for a global online retailer in e-commerce using A/B Testing and SQL, improving forecast accuracy by 18%.
+* E-commerce Executive KPI Dashboard Suite — a fast-growing online retailer (2024-04 to 2025-08)
+  Designed an executive KPI dashboard suite for a fast-growing online retailer in e-commerce using A/B Testing, SQL and Python, saving ~35K hours annually.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst, Product Manager

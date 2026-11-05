@@ -1,0 +1,33 @@
+ETHAN NGUYEN
+Lead AI Engineer | AI Center of Excellence | Austin, United States
+Employee ID: EMP10122
+
+PROFESSIONAL SUMMARY
+Lead AI Engineer with 12.9 years of experience, based in Austin. Strong in Python, LLM Engineering, NLP and Vector Databases, with recent work in manufacturing IoT. Interested in moving towards AI Engineer, Data Scientist roles and open to relocating to Singapore, Toronto, Dublin.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 2.9y), REST API Design (Proficient, 0.9y)
+- Data & AI: LLM Engineering (Expert, 12.8y), NLP (Advanced, 8.7y), Vector Databases (Advanced, 2.7y), Generative AI (Proficient, 7.7y), Responsible AI (Proficient, 3.2y), Machine Learning (Proficient, 1.1y)
+- Cloud & DevOps: Azure (Proficient, 9.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 8.5y)
+
+EXPERIENCE
+* Manufacturing IoT Agentic Customer-service Assistant — a leading manufacturer (2026-03 to present)
+  Modernised an agentic customer-service assistant for a leading manufacturer in manufacturing IoT using Generative AI and Stakeholder Management, lifting NPS by 25 points.
+* Manufacturing IoT Fraud Detection Model — a global manufacturer (2025-08 to 2026-03)
+  Scaled a fraud detection model for a global manufacturer in manufacturing IoT using REST API Design and Machine Learning, reducing processing time by 25%.
+* Insurance Claims Recommendation Engine — a fast-growing insurer (2024-09 to 2025-07)
+  Led the delivery of a recommendation engine for a fast-growing insurer in insurance claims using Responsible AI and Python, improving conversion by 12%.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, Data Scientist, ML Engineer, DevOps Engineer

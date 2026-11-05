@@ -1,0 +1,29 @@
+VIVEK REDDY
+Associate Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP10998
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 1.6 years of experience, based in Bengaluru. Strong in Python, Statistics, Data Visualization and Machine Learning, with recent work in supply-chain logistics. Interested in moving towards Data Scientist, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.4y)
+- Data & AI: Statistics (Proficient, 0.5y), Data Visualization (Proficient, 0.7y), Machine Learning (Working, 0.4y), SQL (Beginner, 0.3y), Deep Learning (Beginner, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Regulatory Reporting Suite — a fast-growing logistics company (2025-06 to present)
+  Led the delivery of a regulatory reporting suite for a fast-growing logistics company in supply-chain logistics using Statistics, Data Visualization, Machine Learning and SQL, reducing processing time by 35%.
+* Supply-chain Logistics Executive KPI Dashboard Suite — a US logistics company (2024-12 to 2025-05)
+  Re-architected an executive KPI dashboard suite for a US logistics company in supply-chain logistics using Deep Learning, Data Visualization, Python and Statistics, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, ML Engineer, AI Engineer

@@ -1,0 +1,30 @@
+ROHAN SUBRAMANIAN
+Senior ML Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP12864
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 10.4 years of experience, based in Bengaluru. Strong in Machine Learning, MLOps, Deep Learning and Kubernetes, with recent work in automotive. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 8.0y), MLOps (Advanced, 3.1y), Deep Learning (Proficient, 5.4y), Vector Databases (Proficient, 5.8y), NLP (Working, 4.0y)
+- Cloud & DevOps: Kubernetes (Proficient, 5.2y), Docker (Proficient, 7.5y), AWS (Working, 2.2y)
+- Software Engineering: Python (Working, 5.1y)
+- Delivery & Leadership: Communication (Working, 3.8y)
+
+EXPERIENCE
+* Automotive Fraud Detection Model — a European car maker (2026-02 to present)
+  Led the delivery of a fraud detection model for a European car maker in automotive using Python and Kubernetes, reducing processing time by 22%.
+* Automotive Fraud Detection Model — a fast-growing car maker (2025-08 to 2026-01)
+  Modernised a fraud detection model for a fast-growing car maker in automotive using MLOps, Deep Learning, AWS and NLP, reducing processing time by 40%.
+* Payments Agentic Customer-service Assistant — a European payments provider (2024-07 to 2025-07)
+  Built an agentic customer-service assistant for a European payments provider in payments using AWS and Python, saving ~30K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Platform Engineer

@@ -1,0 +1,34 @@
+OMKAR KRISHNAN
+Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP12045
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4 years of experience, based in Chennai. Strong in SQL, Tableau, Data Visualization and A/B Testing, with recent work in pharma R&D. Interested in moving towards Product Manager, Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 4.0y), Tableau (Advanced, 2.2y), Data Visualization (Proficient, 2.8y)
+- Product & Design: A/B Testing (Proficient, 1.6y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.0y)
+- Software Engineering: Python (Working, 0.5y)
+- Business & Finance: Business Analysis (Working, 1.4y), Process Improvement (Beginner, 0.5y)
+
+EXPERIENCE
+* Retail Banking Regulatory Reporting Suite — an APAC retail bank (2025-12 to present)
+  Built a regulatory reporting suite for an APAC retail bank in retail banking using Stakeholder Management, Data Visualization, Tableau and A/B Testing, reducing processing time by 35%.
+* Retail Banking Real-time Analytics Pipeline — a European retail bank (2024-12 to 2025-12)
+  Re-architected a real-time analytics pipeline for a European retail bank in retail banking using Python, Process Improvement and Business Analysis, cutting cloud spend by 22%.
+* Pharma R&D Executive KPI Dashboard Suite — a US pharma company (2023-07 to 2024-11)
+  Led the delivery of an executive KPI dashboard suite for a US pharma company in pharma R&D using A/B Testing and Python, improving forecast accuracy by 18%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Product Manager, Business Analyst, Data Scientist

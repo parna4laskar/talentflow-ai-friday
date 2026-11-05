@@ -1,0 +1,35 @@
+HARPREET JOSHI
+Senior Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11440
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 7.5 years of experience, based in Bengaluru. Strong in SQL, Communication, Python and REST API Design, with recent work in media streaming. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 7.3y), Generative AI (Proficient, 2.5y), Machine Learning (Beginner, 1.0y)
+- Delivery & Leadership: Communication (Advanced, 2.0y)
+- Software Engineering: Python (Proficient, 4.6y), REST API Design (Proficient, 2.4y), Microservices (Proficient, 3.1y), Kafka (Proficient, 0.5y), Spring Boot (Working, 3.5y)
+- Cloud & DevOps: CI/CD (Working, 1.1y)
+
+EXPERIENCE
+* Media Streaming Mobile Banking App — a European streaming platform (2026-03 to present)
+  Re-architected a mobile banking app for a European streaming platform in media streaming using Communication, Generative AI and Spring Boot, lifting NPS by 18 points.
+* Media Streaming Pricing Engine — a global streaming platform (2025-04 to 2026-03)
+  Designed a pricing engine for a global streaming platform in media streaming using Kafka, REST API Design and Spring Boot, reducing processing time by 40%.
+* Media Streaming Pricing Engine — a leading streaming platform (2024-06 to 2025-01)
+  Re-architected a pricing engine for a leading streaming platform in media streaming using Microservices and SQL, improving conversion by 30%.
+* Healthcare Mobile Banking App — a tier-1 hospital network (2023-04 to 2024-05)
+  Scaled a mobile banking app for a tier-1 hospital network in healthcare using Spring Boot, SQL and Generative AI, lifting NPS by 35 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Engineering Manager

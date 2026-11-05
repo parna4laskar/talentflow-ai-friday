@@ -1,0 +1,31 @@
+ARVIND SUBRAMANIAN
+Lead Software Architect | Engineering | Pune, India
+Employee ID: EMP11089
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 10.7 years of experience, based in Pune. Strong in System Design, C#, AWS and Mentoring, with recent work in retail banking. Interested in moving towards DevOps Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 2.9y), C# (Expert, 4.0y), REST API Design (Advanced, 3.4y), Microservices (Proficient, 2.7y), Kafka (Proficient, 5.4y)
+- Cloud & DevOps: AWS (Advanced, 3.4y), Kubernetes (Proficient, 7.7y), CI/CD (Working, 5.2y)
+- Delivery & Leadership: Mentoring (Advanced, 5.9y), Stakeholder Management (Proficient, 5.9y), Communication (Working, 1.2y)
+- Security: Cloud Security (Proficient, 4.6y)
+- Data & AI: LLM Engineering (Proficient, 1.7y)
+
+EXPERIENCE
+* Media Streaming Mobile Banking App — a US streaming platform (2025-09 to present)
+  Migrated a mobile banking app for a US streaming platform in media streaming using Stakeholder Management, CI/CD, Kafka and Kubernetes, lifting NPS by 12 points.
+* Manufacturing IoT Order Management System — a tier-1 manufacturer (2024-06 to 2025-07)
+  Migrated an order management system for a tier-1 manufacturer in manufacturing IoT using Stakeholder Management and AWS, reducing processing time by 30%.
+* HR Tech Order Management System — an APAC HR software company (2023-07 to 2024-05)
+  Designed an order management system for an APAC HR software company in HR tech using C#, CI/CD and System Design, reducing processing time by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Cloud Engineer

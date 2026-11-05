@@ -1,0 +1,30 @@
+MICHAEL NGUYEN
+Full Stack Engineer | Engineering | Austin, United States
+Employee ID: EMP12118
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.2 years of experience, based in Austin. Strong in SQL, TypeScript, Angular and Java, with recent work in telecom billing. Interested in moving towards AI Engineer, Software Architect roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.0y)
+- Software Engineering: TypeScript (Proficient, 1.3y), Angular (Proficient, 3.6y), Java (Proficient, 1.6y), REST API Design (Proficient, 1.5y)
+- Delivery & Leadership: Communication (Proficient, 1.1y)
+- Cloud & DevOps: Docker (Working, 1.7y)
+
+EXPERIENCE
+* Telecom Billing Customer Onboarding Platform — a tier-1 telecom operator (2025-11 to present)
+  Built a customer onboarding platform for a tier-1 telecom operator in telecom billing using SQL, Docker and Java, lifting NPS by 12 points.
+* Public Sector Customer Onboarding Platform — a fast-growing government agency (2025-03 to 2025-09)
+  Migrated a customer onboarding platform for a fast-growing government agency in public sector using TypeScript and Communication, lifting NPS by 30 points.
+* Pharma R&D Claims Processing Engine — a European pharma company (2024-04 to 2025-02)
+  Built a claims processing engine for a European pharma company in pharma R&D using TypeScript and SQL, saving ~25K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Software Architect, Backend Engineer

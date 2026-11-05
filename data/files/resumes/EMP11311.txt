@@ -1,0 +1,31 @@
+NIAMH DOYLE
+SAP Consultant | Enterprise Applications | Dublin, Ireland
+Employee ID: EMP11311
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 5.9 years of experience, based in Dublin. Strong in SAP FICO, Business Analysis, Requirements Gathering and Financial Analysis, with recent work in healthcare. Interested in moving towards SAP Consultant, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Advanced, 0.8y), Business Analysis (Proficient, 1.7y), Requirements Gathering (Proficient, 1.0y), Financial Analysis (Proficient, 0.6y), SAP S/4HANA (Working, 0.8y)
+- Cloud & DevOps: Kubernetes (Working, 1.4y)
+- Delivery & Leadership: Communication (Beginner, 1.1y)
+
+EXPERIENCE
+* Healthcare CRM Rollout — a leading hospital network (2025-10 to present)
+  Automated a CRM rollout for a leading hospital network in healthcare using Business Analysis, Financial Analysis, Kubernetes and SAP S/4HANA, reducing processing time by 35%.
+* E-commerce ERP Finance Rollout — a US online retailer (2024-06 to 2025-09)
+  Migrated an ERP finance rollout for a US online retailer in e-commerce using SAP FICO and SAP S/4HANA, saving ~12K hours annually.
+* Healthcare CRM Rollout — a tier-1 hospital network (2023-06 to 2024-05)
+  Migrated a CRM rollout for a tier-1 hospital network in healthcare using Kubernetes and Requirements Gathering, reducing processing time by 25%.
+* Healthcare CRM Rollout — a tier-1 hospital network (2022-01 to 2023-05)
+  Scaled a CRM rollout for a tier-1 hospital network in healthcare using SAP FICO, Business Analysis, Kubernetes and Communication, reducing processing time by 22%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: SAP Consultant, CRM Consultant, Financial Analyst

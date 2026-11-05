@@ -1,0 +1,31 @@
+OLIVER JONES
+Associate Business Analyst | Business Consulting | London, United Kingdom
+Employee ID: EMP10377
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 1.5 years of experience, based in London. Strong in People Analytics, Business Analysis, Requirements Gathering and Stakeholder Management, with recent work in public sector. Interested in moving towards Data Analyst, Account Manager roles.
+
+CORE SKILLS
+- People & Marketing: People Analytics (Proficient, 0.8y)
+- Business & Finance: Business Analysis (Working, 0.5y), Requirements Gathering (Working, 0.6y), Salesforce (Working, 0.7y), Process Improvement (Working, 0.6y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.5y), Agile/Scrum (Beginner, 0.4y)
+- Data & AI: Power BI (Working, 0.5y), SQL (Beginner, 0.3y)
+
+EXPERIENCE
+* Payments Requirements and UAT for a CRM Rollout — a global payments provider (2025-12 to present)
+  Led a requirements and UAT for a CRM rollout for a global payments provider in payments using Requirements Gathering, Agile/Scrum and Process Improvement, delivering on time across 6 workstreams.
+* Pharma R&D Requirements and UAT for a CRM Rollout — a US pharma company (2024-10 to 2025-11)
+  Led a requirements and UAT for a CRM rollout for a US pharma company in pharma R&D using Requirements Gathering and Business Analysis, reducing processing time by 40%.
+
+CERTIFICATIONS
+- CBAP (2026)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, Account Manager, Product Manager

@@ -1,0 +1,26 @@
+MATTHEW AGARWAL
+Frontend Engineer | Engineering | New York, United States
+Employee ID: EMP11583
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.4 years of experience, based in New York. Strong in JavaScript, TypeScript, Next.js and GraphQL, with recent work in e-commerce. Interested in moving towards Frontend Engineer, Full Stack Engineer roles and open to relocating to Austin, Chennai.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 1.1y), TypeScript (Proficient, 1.7y), Next.js (Proficient, 0.4y), GraphQL (Proficient, 1.4y), Angular (Working, 0.8y), Node.js (Working, 0.4y)
+- Cloud & DevOps: CI/CD (Working, 1.2y), Terraform (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Self-service Portal — a US energy company (2026-02 to present)
+  Modernised a self-service portal for a US energy company in energy trading using Angular, Terraform and GraphQL, lifting NPS by 35 points.
+* Payments Pricing Engine — a US payments provider (2025-01 to 2025-12)
+  Built a pricing engine for a US payments provider in payments using Next.js, Angular and TypeScript, reducing processing time by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, Full Stack Engineer, QA Engineer, UX Designer

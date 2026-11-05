@@ -1,0 +1,27 @@
+RYAN MARTIN
+Data Engineer | Data & Analytics | Toronto, Canada
+Employee ID: EMP12540
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.6 years of experience, based in Toronto. Strong in SQL, Data Governance, Python and Data Engineering, with recent work in insurance claims. Interested in moving towards ML Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.4y), Data Governance (Proficient, 1.0y), Data Engineering (Working, 0.8y), dbt (Working, 1.2y), Airflow (Working, 1.2y), Snowflake (Beginner, 0.6y)
+- Software Engineering: Python (Working, 1.3y), Kafka (Working, 0.9y)
+- Cloud & DevOps: FinOps (Working, 0.8y)
+
+EXPERIENCE
+* Insurance Claims Regulatory Reporting Suite — a tier-1 insurer (2025-12 to present)
+  Automated a regulatory reporting suite for a tier-1 insurer in insurance claims using Airflow, Data Governance, Data Engineering and FinOps, reducing processing time by 25%.
+* Manufacturing IoT Customer Churn Model — a fast-growing manufacturer (2025-01 to 2025-10)
+  Led the delivery of a customer churn model for a fast-growing manufacturer in manufacturing IoT using FinOps and Data Engineering, improving model accuracy by 35%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, French, Bengali
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, Backend Engineer, Data Scientist

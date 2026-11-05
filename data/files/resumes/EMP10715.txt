@@ -1,0 +1,31 @@
+LIAM DAVIS
+Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP10715
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.1 years of experience, based in New York. Strong in Node.js, SQL, React and AWS, with recent work in retail banking. Interested in moving towards Backend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Advanced, 3.9y), React (Proficient, 2.2y), TypeScript (Working, 0.8y), REST API Design (Working, 0.3y), Next.js (Working, 1.2y), GraphQL (Working, 1.6y)
+- Data & AI: SQL (Advanced, 1.7y)
+- Cloud & DevOps: AWS (Proficient, 1.9y), Kubernetes (Beginner, 0.7y)
+
+EXPERIENCE
+* Retail Banking Mobile Banking App — a tier-1 retail bank (2025-11 to present)
+  Led the delivery of a mobile banking app for a tier-1 retail bank in retail banking using AWS, GraphQL, Node.js and REST API Design, lifting NPS by 35 points.
+* Retail Banking Order Management System — a global retail bank (2024-08 to 2025-10)
+  Led the delivery of an order management system for a global retail bank in retail banking using TypeScript, Node.js, Next.js and Kubernetes, onboarding 3 new enterprise clients.
+* E-commerce Claims Processing Engine — a leading online retailer (2023-11 to 2024-06)
+  Built a claims processing engine for a leading online retailer in e-commerce using Node.js, React and Next.js, saving ~30K hours annually.
+* Energy Trading Order Management System — a fast-growing energy company (2023-03 to 2023-10)
+  Modernised an order management system for a fast-growing energy company in energy trading using SQL, AWS, TypeScript and GraphQL, onboarding 2 new enterprise clients.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, Software Architect, Frontend Engineer

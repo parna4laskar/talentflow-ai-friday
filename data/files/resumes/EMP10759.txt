@@ -1,0 +1,31 @@
+RIYA SHARMA
+Lead Engineering Manager | Engineering | Gurugram, India
+Employee ID: EMP10759
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 10.9 years of experience, based in Gurugram. Strong in System Design, Agile/Scrum, Stakeholder Management and Java, with recent work in energy trading. Interested in moving towards Program Manager, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 10.1y), Java (Advanced, 7.7y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 5.2y), Stakeholder Management (Advanced, 1.8y), Mentoring (Advanced, 5.8y), People Leadership (Proficient, 0.8y)
+- People & Marketing: Learning & Development (Working, 0.4y)
+
+EXPERIENCE
+* Energy Trading Self-service Portal — a leading energy company (2026-05 to present)
+  Scaled a self-service portal for a leading energy company in energy trading using Agile/Scrum, Stakeholder Management, People Leadership and System Design, saving ~30K hours annually.
+* Energy Trading Customer Onboarding Platform — a US energy company (2024-09 to 2026-03)
+  Scaled a customer onboarding platform for a US energy company in energy trading using Java, Mentoring, People Leadership and Learning & Development, lifting NPS by 40 points.
+* Energy Trading Customer Onboarding Platform — a tier-1 energy company (2024-01 to 2024-08)
+  Designed a customer onboarding platform for a tier-1 energy company in energy trading using Learning & Development, System Design and People Leadership, reducing processing time by 30%.
+* Energy Trading Self-service Portal — a European energy company (2023-04 to 2024-01)
+  Built a self-service portal for a European energy company in energy trading using Java, Agile/Scrum and Stakeholder Management, saving ~30K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Program Manager, Software Architect, Backend Engineer

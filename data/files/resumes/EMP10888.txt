@@ -1,0 +1,33 @@
+EMMA RYAN
+Lead Software Architect | Engineering | Dublin, Ireland
+Employee ID: EMP10888
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 10.8 years of experience, based in Dublin. Strong in System Design, Microservices, GCP and Mentoring, with recent work in pharma R&D. Interested in moving towards Software Architect, Cloud Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 7.3y), Microservices (Advanced, 3.4y), REST API Design (Proficient, 6.6y), Python (Working, 5.0y)
+- Cloud & DevOps: GCP (Advanced, 6.3y), Kubernetes (Proficient, 6.9y)
+- Delivery & Leadership: Mentoring (Advanced, 6.2y), People Leadership (Proficient, 8.0y), Stakeholder Management (Proficient, 0.7y), Communication (Proficient, 1.8y)
+- Security: Cloud Security (Working, 4.7y)
+
+EXPERIENCE
+* Telecom Billing Mobile Banking App — a fast-growing telecom operator (2025-12 to present)
+  Scaled a mobile banking app for a fast-growing telecom operator in telecom billing using REST API Design, Kubernetes, Microservices and Communication, lifting NPS by 18 points.
+* Telecom Billing Payments Microservices Platform — a fast-growing telecom operator (2025-01 to 2025-10)
+  Scaled a payments microservices platform for a fast-growing telecom operator in telecom billing using Microservices, System Design, Python and GCP, accelerating releases by 18%.
+* HR Tech Order Management System — an APAC HR software company (2024-05 to 2024-10)
+  Modernised an order management system for an APAC HR software company in HR tech using Stakeholder Management, Communication and Mentoring, onboarding 4 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2026)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, Cloud Engineer, Engineering Manager

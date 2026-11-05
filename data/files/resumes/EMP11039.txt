@@ -1,0 +1,31 @@
+FATIMA HEGDE
+Associate Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11039
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 0.4 years of experience, based in Bengaluru. Strong in C#, REST API Design, SQL and Microservices, with recent work in wealth management. Interested in moving towards Backend Engineer, AI Engineer roles and open to relocating to New York, London, Hyderabad.
+
+CORE SKILLS
+- Software Engineering: C# (Proficient, 0.3y), REST API Design (Proficient, 0.3y), Microservices (Proficient, 0.4y), Kafka (Working, 0.3y), System Design (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.3y), Responsible AI (Working, 0.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.3y), AWS (Working, 0.3y), CI/CD (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Customer Onboarding Platform — a fast-growing online retailer (2026-06 to present)
+  Built a customer onboarding platform for a fast-growing online retailer in e-commerce using Kafka, Responsible AI, System Design and AWS, improving conversion by 12%.
+* Wealth Management Self-service Portal — a tier-1 wealth manager (2024-11 to 2026-05)
+  Led the delivery of a self-service portal for a tier-1 wealth manager in wealth management using CI/CD, Responsible AI and REST API Design, lifting NPS by 35 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, AI Engineer, Software Architect, Full Stack Engineer

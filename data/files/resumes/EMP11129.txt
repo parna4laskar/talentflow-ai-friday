@@ -1,0 +1,31 @@
+HARPREET JOSHI
+Senior Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP11129
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 9.2 years of experience, based in Pune. Strong in Stakeholder Management, SQL, Data Visualization and A/B Testing, with recent work in telecom billing. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Advanced, 8.8y)
+- Data & AI: SQL (Proficient, 3.4y), Data Visualization (Proficient, 1.0y), Tableau (Working, 2.8y), Power BI (Working, 1.5y)
+- Product & Design: A/B Testing (Proficient, 2.8y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a leading telecom operator (2025-12 to present)
+  Automated an executive KPI dashboard suite for a leading telecom operator in telecom billing using Data Visualization and Power BI, saving ~12K hours annually.
+* Wealth Management Executive KPI Dashboard Suite — a fast-growing wealth manager (2025-03 to 2025-10)
+  Led the delivery of an executive KPI dashboard suite for a fast-growing wealth manager in wealth management using A/B Testing, SQL, Tableau and Stakeholder Management, improving forecast accuracy by 40%.
+* Public Sector Regulatory Reporting Suite — a global government agency (2023-12 to 2025-01)
+  Modernised a regulatory reporting suite for a global government agency in public sector using Data Visualization, A/B Testing and Stakeholder Management, saving ~22K hours annually.
+* Manufacturing IoT Real-time Analytics Pipeline — a fast-growing manufacturer (2022-09 to 2023-11)
+  Built a real-time analytics pipeline for a fast-growing manufacturer in manufacturing IoT using SQL, Tableau and Power BI, cutting cloud spend by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Scientist, Product Manager

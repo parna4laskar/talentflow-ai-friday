@@ -1,0 +1,35 @@
+LIAM RYAN
+Data Engineer | Data & Analytics | Dublin, Ireland
+Employee ID: EMP10213
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.4 years of experience, based in Dublin. Strong in SQL, Python, Kafka and Airflow, with recent work in manufacturing IoT. Interested in moving towards Data Engineer, Data Analyst roles and open to relocating to Gurugram, London, Singapore.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.8y), Airflow (Proficient, 0.9y), Generative AI (Proficient, 1.3y), Data Engineering (Working, 0.4y), Apache Spark (Working, 0.6y), dbt (Working, 1.7y), Data Governance (Working, 0.8y)
+- Software Engineering: Python (Proficient, 2.1y), Kafka (Proficient, 1.0y)
+- Delivery & Leadership: Communication (Working, 1.1y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Churn Model — an APAC manufacturer (2026-10 to present)
+  Migrated a customer churn model for an APAC manufacturer in manufacturing IoT using Data Engineering, Apache Spark and Airflow, improving conversion by 25%.
+* HR Tech Customer Churn Model — an APAC HR software company (2025-05 to 2026-09)
+  Modernised a customer churn model for an APAC HR software company in HR tech using Communication and SQL, improving model accuracy by 30%.
+* Airline Operations Executive KPI Dashboard Suite — a fast-growing airline (2023-10 to 2025-02)
+  Migrated an executive KPI dashboard suite for a fast-growing airline in airline operations using Apache Spark, dbt and Data Engineering, improving forecast accuracy by 12%.
+* Manufacturing IoT Executive KPI Dashboard Suite — a tier-1 manufacturer (2022-10 to 2023-08)
+  Migrated an executive KPI dashboard suite for a tier-1 manufacturer in manufacturing IoT using Python, Generative AI and Apache Spark, improving forecast accuracy by 40%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+- SnowPro Core (2023)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Engineer, Data Analyst, Backend Engineer

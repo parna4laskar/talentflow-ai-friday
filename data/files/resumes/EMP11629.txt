@@ -1,0 +1,29 @@
+ABHISHEK MUKHERJEE
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP11629
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.5 years of experience, based in Pune. Strong in Agile/Scrum, Stakeholder Management, System Design and Communication, with recent work in retail banking. Interested in moving towards Backend Engineer, Program Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 8.5y), Stakeholder Management (Expert, 8.5y), Communication (Advanced, 3.5y), People Leadership (Proficient, 0.9y), Mentoring (Proficient, 5.5y)
+- Software Engineering: System Design (Advanced, 3.2y), Spring Boot (Advanced, 4.9y), Microservices (Proficient, 3.3y), Java (Proficient, 3.8y)
+- Cloud & DevOps: Terraform (Working, 4.2y)
+
+EXPERIENCE
+* Retail Banking Order Management System — a tier-1 retail bank (2025-06 to present)
+  Scaled an order management system for a tier-1 retail bank in retail banking using Mentoring, System Design, Agile/Scrum and Java, reducing processing time by 22%.
+* Energy Trading Pricing Engine — an APAC energy company (2023-12 to 2025-04)
+  Led the delivery of a pricing engine for an APAC energy company in energy trading using Spring Boot, Stakeholder Management and Microservices, improving conversion by 25%.
+* Automotive Order Management System — a tier-1 car maker (2023-04 to 2023-12)
+  Modernised an order management system for a tier-1 car maker in automotive using Stakeholder Management, Agile/Scrum and Java, reducing processing time by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Program Manager

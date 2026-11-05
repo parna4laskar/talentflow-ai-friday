@@ -1,0 +1,35 @@
+NOAH MILLER
+Principal Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP11294
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 19.1 years of experience, based in New York. Strong in React, Java, TypeScript and SQL, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Expert, 8.7y), Java (Expert, 18.7y), TypeScript (Advanced, 9.6y), REST API Design (Advanced, 1.3y), Flutter (Working, 3.3y)
+- Data & AI: SQL (Advanced, 15.9y)
+- Cloud & DevOps: Docker (Advanced, 13.9y), AWS (Advanced, 17.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 9.2y), Mentoring (Proficient, 1.2y), People Leadership (Proficient, 4.2y), Communication (Working, 7.1y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a leading manufacturer (2025-06 to present)
+  Designed a mobile banking app for a leading manufacturer in manufacturing IoT using React, Java and Mentoring, lifting NPS by 35 points.
+* Public Sector Order Management System — a leading government agency (2023-12 to 2025-05)
+  Migrated an order management system for a leading government agency in public sector using TypeScript, Mentoring and Flutter, onboarding 3 new enterprise clients.
+* Airline Operations Payments Microservices Platform — a European airline (2022-06 to 2023-11)
+  Led the delivery of a payments microservices platform for a European airline in airline operations using Stakeholder Management, Mentoring and AWS, reducing processing time by 18%.
+* Automotive Pricing Engine — a tier-1 car maker (2020-11 to 2022-05)
+  Built a pricing engine for a tier-1 car maker in automotive using React and AWS, reducing processing time by 22%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer, Backend Engineer, Frontend Engineer, AI Engineer

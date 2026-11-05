@@ -1,0 +1,34 @@
+SIDDHARTH EVANS
+Lead Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10766
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 11.1 years of experience, based in Bengaluru. Strong in Terraform, Azure, Kubernetes and Python, with recent work in HR tech. Interested in moving towards Cloud Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 6.0y), Azure (Advanced, 7.5y), Kubernetes (Proficient, 5.4y), Linux Administration (Working, 3.3y), Site Reliability Engineering (Working, 4.9y), FinOps (Working, 0.3y)
+- Delivery & Leadership: People Leadership (Advanced, 2.7y), Stakeholder Management (Proficient, 4.4y)
+- Software Engineering: Python (Proficient, 4.9y)
+- Security: Cloud Security (Working, 5.0y)
+
+EXPERIENCE
+* HR Tech CI/CD Platform — a US HR software company (2025-11 to present)
+  Automated a CI/CD platform for a US HR software company in HR tech using Azure, Cloud Security and Site Reliability Engineering, accelerating releases by 35%.
+* Telecom Billing Cloud Landing Zone — a leading telecom operator (2024-10 to 2025-08)
+  Scaled a cloud landing zone for a leading telecom operator in telecom billing using Cloud Security and Azure, cutting cloud spend by 25%.
+* HR Tech Cloud Landing Zone — an APAC HR software company (2024-01 to 2024-08)
+  Led the delivery of a cloud landing zone for an APAC HR software company in HR tech using Linux Administration and Cloud Security, cutting cloud spend by 40%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2024)
+- Google Professional Cloud Architect (2024)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, Software Architect, Site Reliability Engineer, Platform Engineer

@@ -1,0 +1,36 @@
+JAMES TAYLOR
+Lead Security Analyst | Cyber Security | London, United Kingdom
+Employee ID: EMP10321
+
+PROFESSIONAL SUMMARY
+Lead Security Analyst with 13 years of experience, based in London. Strong in Incident Response, Threat Modeling, Linux Administration and Stakeholder Management, with recent work in healthcare. Interested in moving towards Security Engineer, Site Reliability Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Security: Incident Response (Expert, 12.9y), Threat Modeling (Expert, 8.0y), SIEM (Advanced, 4.3y), Cloud Security (Proficient, 0.7y), Application Security (Proficient, 9.6y), GRC (Working, 1.5y)
+- Cloud & DevOps: Linux Administration (Expert, 2.2y)
+- Delivery & Leadership: Stakeholder Management (Expert, 2.4y), People Leadership (Expert, 7.0y), Mentoring (Proficient, 6.8y)
+- Software Engineering: Python (Proficient, 4.4y)
+
+EXPERIENCE
+* Healthcare Identity and Access Platform — a fast-growing hospital network (2026-02 to present)
+  Scaled an identity and access platform for a fast-growing hospital network in healthcare using Linux Administration, Python, Threat Modeling and GRC, closing 35% of open audit findings.
+* Healthcare Cloud Security Posture Programme — a leading hospital network (2025-02 to 2026-01)
+  Built a cloud security posture programme for a leading hospital network in healthcare using Incident Response, GRC, SIEM and Threat Modeling, closing 12% of open audit findings.
+* Healthcare Identity and Access Platform — a global hospital network (2024-03 to 2025-01)
+  Led the delivery of an identity and access platform for a global hospital network in healthcare using Python, Incident Response, Stakeholder Management and Linux Administration, closing 25% of open audit findings.
+* Supply-chain Logistics Identity and Access Platform — a global logistics company (2023-01 to 2024-01)
+  Scaled an identity and access platform for a global logistics company in supply-chain logistics using Cloud Security, SIEM and Mentoring, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- CompTIA Security+ (2026)
+- CySA+ (2023)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Security Engineer, Site Reliability Engineer

@@ -1,0 +1,31 @@
+OWEN ROY
+Associate Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11563
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.8 years of experience, based in Toronto. Strong in Python, Kubernetes, SQL and Microservices, with recent work in e-commerce. Interested in moving towards Backend Engineer, Full Stack Engineer roles and open to relocating to Dublin, London, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.4y), Microservices (Working, 1.0y), .NET Core (Working, 0.9y), System Design (Working, 0.3y), REST API Design (Beginner, 0.4y), Kafka (Beginner, 0.3y), C# (Beginner, 0.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.7y), AWS (Working, 0.5y)
+- Data & AI: SQL (Working, 0.4y)
+- Delivery & Leadership: Communication (Working, 1.1y)
+
+EXPERIENCE
+* Retail Banking Mobile Banking App — a fast-growing retail bank (2026-07 to present)
+  Designed a mobile banking app for a fast-growing retail bank in retail banking using AWS and SQL, lifting NPS by 25 points.
+* Wealth Management Self-service Portal — a tier-1 wealth manager (2025-04 to 2026-05)
+  Led the delivery of a self-service portal for a tier-1 wealth manager in wealth management using Kafka and SQL, saving ~35K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Full Stack Engineer, DevOps Engineer

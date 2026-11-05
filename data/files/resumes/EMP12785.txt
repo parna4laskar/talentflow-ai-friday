@@ -1,0 +1,33 @@
+SURESH BOSE
+Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP12785
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5.9 years of experience, based in Bengaluru. Strong in SQL, Python, Data Visualization and Tableau, with recent work in insurance claims. Interested in moving towards Product Manager, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.8y), Data Visualization (Proficient, 1.4y), Tableau (Proficient, 4.1y), Statistics (Proficient, 2.3y), Snowflake (Proficient, 4.1y)
+- Software Engineering: Python (Advanced, 3.7y)
+- Business & Finance: Business Analysis (Proficient, 1.6y)
+- Product & Design: A/B Testing (Working, 2.6y)
+- Delivery & Leadership: Communication (Working, 1.8y)
+
+EXPERIENCE
+* Telecom Billing Customer Churn Model — a leading telecom operator (2026-04 to present)
+  Re-architected a customer churn model for a leading telecom operator in telecom billing using SQL, Python, Business Analysis and Data Visualization, improving conversion by 18%.
+* Pharma R&D Real-time Analytics Pipeline — a leading pharma company (2025-02 to 2026-02)
+  Scaled a real-time analytics pipeline for a leading pharma company in pharma R&D using Communication, Statistics, A/B Testing and Business Analysis, reducing processing time by 22%.
+* Insurance Claims Regulatory Reporting Suite — a fast-growing insurer (2024-06 to 2024-12)
+  Designed a regulatory reporting suite for a fast-growing insurer in insurance claims using Business Analysis and SQL, reducing processing time by 18%.
+* Healthcare Customer Churn Model — a global hospital network (2022-12 to 2024-03)
+  Modernised a customer churn model for a global hospital network in healthcare using SQL and Communication, improving conversion by 35%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager, Financial Analyst

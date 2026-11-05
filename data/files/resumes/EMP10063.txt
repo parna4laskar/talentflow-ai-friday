@@ -1,0 +1,28 @@
+MATTHEW MILLER
+Senior SAP Consultant | Enterprise Applications | New York, United States
+Employee ID: EMP10063
+
+PROFESSIONAL SUMMARY
+Senior SAP Consultant with 5.2 years of experience, based in New York. Strong in Business Analysis, Process Improvement, SAP S/4HANA and SAP FICO, with recent work in manufacturing IoT. Interested in moving towards SAP Consultant, Financial Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 4.4y), Process Improvement (Advanced, 4.4y), SAP S/4HANA (Advanced, 1.1y), SAP FICO (Proficient, 3.8y), Requirements Gathering (Proficient, 1.0y), Financial Analysis (Proficient, 1.1y)
+- Data & AI: Agentic AI (Working, 1.6y)
+
+EXPERIENCE
+* Automotive ERP Finance Rollout — a US car maker (2026-04 to present)
+  Scaled an ERP finance rollout for a US car maker in automotive using Financial Analysis, Business Analysis, Requirements Gathering and Process Improvement, reducing processing time by 40%.
+* Manufacturing IoT CRM Rollout — a fast-growing manufacturer (2024-09 to 2026-03)
+  Scaled a CRM rollout for a fast-growing manufacturer in manufacturing IoT using SAP S/4HANA, Requirements Gathering and Business Analysis, improving conversion by 18%.
+* Manufacturing IoT Service Desk Automation — a fast-growing manufacturer (2023-09 to 2024-06)
+  Automated a service desk automation for a fast-growing manufacturer in manufacturing IoT using SAP FICO and Financial Analysis, reducing processing time by 12%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: SAP Consultant, Financial Analyst, Business Analyst

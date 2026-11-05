@@ -1,0 +1,29 @@
+GURPREET BHAT
+Senior Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP10586
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6.7 years of experience, based in Chennai. Strong in Node.js, TypeScript, Angular and SQL, with recent work in wealth management. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Advanced, 6.1y), TypeScript (Proficient, 2.7y), Angular (Proficient, 4.4y), Next.js (Proficient, 1.3y), GraphQL (Proficient, 4.5y), REST API Design (Working, 0.8y), Microservices (Working, 2.4y)
+- Data & AI: SQL (Proficient, 3.9y)
+- Cloud & DevOps: Terraform (Proficient, 4.6y), Docker (Beginner, 1.1y)
+
+EXPERIENCE
+* Wealth Management Payments Microservices Platform — a global wealth manager (2025-11 to present)
+  Designed a payments microservices platform for a global wealth manager in wealth management using Docker, SQL and GraphQL, accelerating releases by 25%.
+* Media Streaming Order Management System — a global streaming platform (2024-12 to 2025-08)
+  Migrated an order management system for a global streaming platform in media streaming using TypeScript, Terraform, Docker and Angular, onboarding 5 new enterprise clients.
+* Wealth Management Payments Microservices Platform — a leading wealth manager (2023-11 to 2024-12)
+  Modernised a payments microservices platform for a leading wealth manager in wealth management using SQL, Next.js and GraphQL, reducing processing time by 18%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer

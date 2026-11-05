@@ -1,0 +1,33 @@
+KAI WEN WONG
+Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP10756
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.4 years of experience, based in Singapore. Strong in TypeScript, Angular, CI/CD and GraphQL, with recent work in HR tech. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 2.0y), Angular (Advanced, 0.7y), GraphQL (Proficient, 1.1y), JavaScript (Working, 1.3y), Node.js (Working, 0.5y)
+- Cloud & DevOps: CI/CD (Proficient, 1.6y)
+- Product & Design: Figma (Working, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+
+EXPERIENCE
+* HR Tech Mobile Banking App — a fast-growing HR software company (2025-07 to present)
+  Re-architected a mobile banking app for a fast-growing HR software company in HR tech using Node.js, Figma and CI/CD, improving conversion by 12%.
+* Public Sector Order Management System — a leading government agency (2024-08 to 2025-05)
+  Scaled an order management system for a leading government agency in public sector using Node.js and Figma, onboarding 6 new enterprise clients.
+* HR Tech Self-service Portal — a fast-growing HR software company (2023-05 to 2024-06)
+  Modernised a self-service portal for a fast-growing HR software company in HR tech using Communication, GraphQL, Angular and Node.js, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer

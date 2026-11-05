@@ -1,0 +1,35 @@
+ZOYA IYER
+Principal Platform Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP10982
+
+PROFESSIONAL SUMMARY
+Principal Platform Engineer with 12.3 years of experience, based in Gurugram. Strong in Platform Engineering, Kubernetes, CI/CD and Python, with recent work in automotive. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles and open to relocating to Kraków, Austin, Dublin.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Expert, 0.8y), Kubernetes (Expert, 1.8y), CI/CD (Expert, 9.1y), Terraform (Advanced, 6.5y), AWS (Advanced, 6.0y)
+- Software Engineering: Python (Expert, 12.3y), Go (Proficient, 4.9y)
+- Data & AI: Machine Learning (Advanced, 11.9y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.5y)
+
+EXPERIENCE
+* Media Streaming Data-centre Exit To Cloud — a tier-1 streaming platform (2025-09 to present)
+  Automated a data-centre exit to cloud for a tier-1 streaming platform in media streaming using Machine Learning and Terraform, cutting cloud spend by 35%.
+* Automotive Data-centre Exit To Cloud — a fast-growing car maker (2024-05 to 2025-07)
+  Modernised a data-centre exit to cloud for a fast-growing car maker in automotive using Stakeholder Management, Go and Machine Learning, cutting cloud spend by 12%.
+* Energy Trading CI/CD Platform — a tier-1 energy company (2023-08 to 2024-03)
+  Modernised a CI/CD platform for a tier-1 energy company in energy trading using AWS and Platform Engineering, accelerating releases by 22%.
+* Automotive Cloud Landing Zone — a global car maker (2022-07 to 2023-06)
+  Automated a cloud landing zone for a global car maker in automotive using Stakeholder Management and Go, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2021)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Cloud Engineer, Site Reliability Engineer

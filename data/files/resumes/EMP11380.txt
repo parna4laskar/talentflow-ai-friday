@@ -1,0 +1,26 @@
+PRASAD DESHPANDE
+Associate Mobile Engineer | Engineering | Gurugram, India
+Employee ID: EMP11380
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 2.5 years of experience, based in Gurugram. Strong in Mobile Development, REST API Design, Java and UI Design, with recent work in wealth management. Interested in moving towards Mobile Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 1.5y), REST API Design (Proficient, 1.1y), Java (Working, 0.3y), TypeScript (Beginner, 0.4y), Kafka (Beginner, 0.4y)
+- Product & Design: UI Design (Working, 0.6y)
+
+EXPERIENCE
+* Wealth Management Pricing Engine — a US wealth manager (2026-01 to present)
+  Scaled a pricing engine for a US wealth manager in wealth management using REST API Design, Kafka, UI Design and Mobile Development, improving conversion by 18%.
+* Public Sector Claims Processing Engine — a fast-growing government agency (2025-01 to 2025-11)
+  Scaled a claims processing engine for a fast-growing government agency in public sector using Kafka and UI Design, reducing processing time by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer, QA Engineer

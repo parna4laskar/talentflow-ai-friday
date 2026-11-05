@@ -1,0 +1,28 @@
+NATALIA LEWANDOWSKI
+Lead Engineering Manager | Engineering | Kraków, Poland
+Employee ID: EMP10981
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.8 years of experience, based in Kraków. Strong in Stakeholder Management, People Leadership, Agile/Scrum and Microservices, with recent work in healthcare. Interested in moving towards Backend Engineer, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 4.0y), People Leadership (Advanced, 6.1y), Agile/Scrum (Advanced, 2.6y), Mentoring (Proficient, 6.4y), Communication (Proficient, 0.6y)
+- Software Engineering: Microservices (Advanced, 5.3y), System Design (Proficient, 5.9y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — a fast-growing hospital network (2026-06 to present)
+  Migrated a mobile banking app for a fast-growing hospital network in healthcare using Stakeholder Management, Microservices, Communication and Mentoring, lifting NPS by 18 points.
+* Manufacturing IoT Mobile Banking App — an APAC manufacturer (2025-06 to 2026-04)
+  Re-architected a mobile banking app for an APAC manufacturer in manufacturing IoT using People Leadership and Microservices, improving conversion by 35%.
+* Media Streaming Self-service Portal — a global streaming platform (2024-11 to 2025-05)
+  Scaled a self-service portal for a global streaming platform in media streaming using Communication, Mentoring, Stakeholder Management and Microservices, saving ~40K hours annually.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Scrum Master

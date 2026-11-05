@@ -1,0 +1,33 @@
+NATHAN TREMBLAY
+Senior Business Analyst | Business Consulting | Toronto, Canada
+Employee ID: EMP12890
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 8 years of experience, based in Toronto. Strong in Business Analysis, Stakeholder Management, Power BI and Agile/Scrum, with recent work in retail banking. Interested in moving towards Data Analyst, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 2.5y), Requirements Gathering (Proficient, 4.3y), Salesforce (Proficient, 4.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.4y), Agile/Scrum (Advanced, 3.7y)
+- Data & AI: Power BI (Advanced, 2.4y), Databricks (Proficient, 2.3y)
+
+EXPERIENCE
+* Retail Banking Agile Transformation — an APAC retail bank (2026-01 to present)
+  Coordinated an agile transformation for an APAC retail bank in retail banking using Databricks, Salesforce and Business Analysis, delivering on time across 5 workstreams.
+* Media Streaming Requirements and UAT for a CRM Rollout — a European streaming platform (2024-09 to 2025-11)
+  Coordinated a requirements and UAT for a CRM rollout for a European streaming platform in media streaming using Stakeholder Management and Salesforce, reducing processing time by 12%.
+* Insurance Claims Core Banking Transformation Programme — a US insurer (2024-02 to 2024-07)
+  Coordinated a core banking transformation programme for a US insurer in insurance claims using Business Analysis, Agile/Scrum and Databricks, delivering on time across 4 workstreams.
+
+CERTIFICATIONS
+- CBAP (2025)
+- PMI-PBA (2025)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, French, German
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, CRM Consultant, Scrum Master

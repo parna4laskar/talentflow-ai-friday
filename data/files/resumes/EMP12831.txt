@@ -1,0 +1,30 @@
+MADISON WASHINGTON
+Associate CRM Consultant | Enterprise Applications | Austin, United States
+Employee ID: EMP12831
+
+PROFESSIONAL SUMMARY
+Associate CRM Consultant with 0.6 years of experience, based in Austin. Strong in ServiceNow, JavaScript, Business Analysis and Process Improvement, with recent work in healthcare. Interested in moving towards Business Analyst, SAP Consultant roles and open to relocating to London.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Advanced, 0.6y), Business Analysis (Working, 0.3y), Process Improvement (Working, 0.3y), Requirements Gathering (Beginner, 0.3y)
+- Software Engineering: JavaScript (Proficient, 0.4y)
+- Delivery & Leadership: Agile/Scrum (Working, 0.3y)
+
+EXPERIENCE
+* Healthcare Service Desk Automation — a tier-1 hospital network (2026-04 to present)
+  Led the delivery of a service desk automation for a tier-1 hospital network in healthcare using Business Analysis, Process Improvement, Agile/Scrum and JavaScript, reducing processing time by 35%.
+* E-commerce Service Desk Automation — a US online retailer (2024-11 to 2026-03)
+  Modernised a service desk automation for a US online retailer in e-commerce using Agile/Scrum, ServiceNow and JavaScript, reducing processing time by 30%.
+
+CERTIFICATIONS
+- ServiceNow CSA (2026)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Business Analyst, SAP Consultant, Account Manager

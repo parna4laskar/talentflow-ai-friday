@@ -1,0 +1,29 @@
+PRANAV VERMA
+Senior Product Manager | Product | Pune, India
+Employee ID: EMP12561
+
+PROFESSIONAL SUMMARY
+Senior Product Manager with 9.1 years of experience, based in Pune. Strong in Product Management, Stakeholder Management, SQL and Roadmapping, with recent work in manufacturing IoT. Interested in moving towards Product Manager, UX Designer roles and open to relocating to Austin, Bengaluru.
+
+CORE SKILLS
+- Product & Design: Product Management (Advanced, 8.1y), Roadmapping (Proficient, 3.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.0y), Communication (Proficient, 4.4y)
+- Data & AI: SQL (Advanced, 4.5y), Generative AI (Proficient, 0.5y), Snowflake (Proficient, 3.9y), LLM Engineering (Working, 1.8y)
+
+EXPERIENCE
+* Pharma R&D Checkout Experience — a leading pharma company (2026-10 to present)
+  Launched a checkout experience for a leading pharma company in pharma R&D using LLM Engineering, Stakeholder Management and Snowflake, improving conversion by 30%.
+* Retail Banking Checkout Experience — a European retail bank (2025-07 to 2026-08)
+  Owned a checkout experience for a European retail bank in retail banking using LLM Engineering and Roadmapping, lifting NPS by 18 points.
+* Wealth Management Checkout Experience — a European wealth manager (2024-11 to 2025-05)
+  Launched a checkout experience for a European wealth manager in wealth management using LLM Engineering, Product Management and Generative AI, lifting NPS by 25 points.
+
+EDUCATION
+- BSc Economics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Product Manager, UX Designer, Business Analyst

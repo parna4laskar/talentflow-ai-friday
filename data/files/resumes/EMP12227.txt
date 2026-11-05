@@ -1,0 +1,34 @@
+VAISHNAVI KULKARNI
+Principal Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12227
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 18.7 years of experience, based in Bengaluru. Strong in Data Engineering, SQL, Python and Apache Spark, with recent work in HR tech. Interested in moving towards Data Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 16.2y), SQL (Advanced, 5.1y), Apache Spark (Advanced, 3.9y), Snowflake (Proficient, 11.3y), Airflow (Proficient, 7.7y)
+- Software Engineering: Python (Advanced, 16.9y), Kafka (Advanced, 6.1y)
+- Delivery & Leadership: Mentoring (Advanced, 16.5y)
+
+EXPERIENCE
+* HR Tech Real-time Analytics Pipeline — a global HR software company (2025-11 to present)
+  Scaled a real-time analytics pipeline for a global HR software company in HR tech using Apache Spark and Airflow, reducing processing time by 30%.
+* HR Tech Executive KPI Dashboard Suite — a US HR software company (2025-02 to 2025-08)
+  Designed an executive KPI dashboard suite for a US HR software company in HR tech using Apache Spark and Kafka, improving forecast accuracy by 35%.
+* HR Tech Data Lakehouse — a global HR software company (2023-11 to 2024-12)
+  Migrated a data lakehouse for a global HR software company in HR tech using Apache Spark, SQL and Kafka, cutting cloud spend by 25%.
+* HR Tech Executive KPI Dashboard Suite — an APAC HR software company (2022-03 to 2023-09)
+  Led the delivery of an executive KPI dashboard suite for an APAC HR software company in HR tech using Python, Apache Spark and Kafka, improving forecast accuracy by 30%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, ML Engineer, Data Scientist, Data Analyst

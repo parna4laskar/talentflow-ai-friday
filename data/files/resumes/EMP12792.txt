@@ -1,0 +1,31 @@
+CARLOS LEE
+Principal Engineering Manager | Engineering | Austin, United States
+Employee ID: EMP12792
+
+PROFESSIONAL SUMMARY
+Principal Engineering Manager with 24.9 years of experience, based in Austin. Strong in Agile/Scrum, Stakeholder Management, System Design and Python, with recent work in energy trading. Interested in moving towards Program Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 24.5y), Stakeholder Management (Expert, 4.0y), Communication (Advanced, 24.0y), People Leadership (Proficient, 7.9y)
+- Software Engineering: System Design (Advanced, 16.4y), Python (Advanced, 18.2y), Kafka (Advanced, 16.5y)
+- Cloud & DevOps: AWS (Advanced, 12.2y)
+
+EXPERIENCE
+* Energy Trading Order Management System — an APAC energy company (2025-06 to present)
+  Designed an order management system for an APAC energy company in energy trading using Python, Communication, System Design and AWS, onboarding 6 new enterprise clients.
+* Wealth Management Self-service Portal — a fast-growing wealth manager (2024-04 to 2025-05)
+  Automated a self-service portal for a fast-growing wealth manager in wealth management using Stakeholder Management and Python, saving ~40K hours annually.
+* Energy Trading Payments Microservices Platform — a US energy company (2023-05 to 2024-01)
+  Built a payments microservices platform for a US energy company in energy trading using Agile/Scrum, AWS, Communication and Kafka, reducing production incidents by 35%.
+* Energy Trading Claims Processing Engine — a US energy company (2021-10 to 2023-02)
+  Designed a claims processing engine for a US energy company in energy trading using Communication, People Leadership and Kafka, saving ~12K hours annually.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Program Manager, Backend Engineer, Software Architect

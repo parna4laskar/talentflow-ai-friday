@@ -1,0 +1,30 @@
+AAROHI LIM
+Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP11462
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 4.3 years of experience, based in Pune. Strong in Mobile Development, React, UI Design and REST API Design, with recent work in e-commerce. Interested in moving towards Mobile Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 3.1y), React (Advanced, 0.6y), REST API Design (Working, 1.9y)
+- Product & Design: UI Design (Working, 1.3y)
+
+EXPERIENCE
+* HR Tech Payments Microservices Platform — a tier-1 HR software company (2026-06 to present)
+  Led the delivery of a payments microservices platform for a tier-1 HR software company in HR tech using REST API Design, Mobile Development, UI Design and React, accelerating releases by 30%.
+* E-commerce Claims Processing Engine — a global online retailer (2025-01 to 2026-06)
+  Automated a claims processing engine for a global online retailer in e-commerce using Mobile Development and React, reducing processing time by 40%.
+* Retail Banking Pricing Engine — a global retail bank (2024-05 to 2024-12)
+  Built a pricing engine for a global retail bank in retail banking using REST API Design, UI Design, Mobile Development and React, improving conversion by 25%.
+* E-commerce Mobile Banking App — a global online retailer (2023-02 to 2024-02)
+  Scaled a mobile banking app for a global online retailer in e-commerce using UI Design, REST API Design, React and Mobile Development, improving conversion by 12%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, QA Engineer, Backend Engineer

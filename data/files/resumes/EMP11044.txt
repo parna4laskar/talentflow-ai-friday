@@ -1,0 +1,33 @@
+VENKAT DAS
+Site Reliability Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11044
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 3.2 years of experience, based in Hyderabad. Strong in Communication, Site Reliability Engineering, Linux Administration and Go, with recent work in insurance claims. Interested in moving towards DevOps Engineer roles and open to relocating to Gurugram, London.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Advanced, 0.6y)
+- Cloud & DevOps: Site Reliability Engineering (Proficient, 2.2y), Linux Administration (Proficient, 1.2y), Terraform (Proficient, 1.9y), Observability (Working, 0.4y), Kubernetes (Working, 1.4y), AWS (Working, 1.5y)
+- Software Engineering: Go (Proficient, 1.4y)
+- Quality Engineering: Performance Testing (Proficient, 2.4y)
+
+EXPERIENCE
+* Public Sector Kubernetes Platform — a leading government agency (2025-08 to present)
+  Migrated a Kubernetes platform for a leading government agency in public sector using Linux Administration and Kubernetes, accelerating releases by 18%.
+* Insurance Claims CI/CD Platform — a global insurer (2024-10 to 2025-06)
+  Re-architected a CI/CD platform for a global insurer in insurance claims using Communication and Linux Administration, accelerating releases by 22%.
+* Insurance Claims Data-centre Exit To Cloud — a European insurer (2023-09 to 2024-10)
+  Built a data-centre exit to cloud for a European insurer in insurance claims using AWS, Communication, Go and Linux Administration, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer

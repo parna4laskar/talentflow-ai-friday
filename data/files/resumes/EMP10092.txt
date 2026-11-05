@@ -1,0 +1,32 @@
+VAISHNAVI SHARMA
+Lead SAP Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP10092
+
+PROFESSIONAL SUMMARY
+Lead SAP Consultant with 11.1 years of experience, based in Pune. Strong in SAP FICO, Process Improvement, Financial Analysis and LLM Engineering, with recent work in airline operations. Interested in moving towards CRM Consultant, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Advanced, 9.5y), Process Improvement (Proficient, 7.9y), Financial Analysis (Proficient, 8.0y), Business Analysis (Working, 1.3y)
+- Data & AI: LLM Engineering (Proficient, 2.0y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 8.1y), People Leadership (Proficient, 5.3y)
+
+EXPERIENCE
+* Airline Operations ERP Finance Rollout — a European airline (2025-11 to present)
+  Re-architected an ERP finance rollout for a European airline in airline operations using SAP FICO, Business Analysis, Stakeholder Management and Process Improvement, saving ~40K hours annually.
+* Telecom Billing Service Desk Automation — a tier-1 telecom operator (2024-11 to 2025-08)
+  Migrated a service desk automation for a tier-1 telecom operator in telecom billing using Financial Analysis and LLM Engineering, reducing processing time by 30%.
+* Public Sector CRM Rollout — a global government agency (2024-05 to 2024-10)
+  Re-architected a CRM rollout for a global government agency in public sector using SAP FICO, Financial Analysis and Business Analysis, reducing processing time by 18%.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2026)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: CRM Consultant, Risk & Compliance Analyst, Financial Analyst

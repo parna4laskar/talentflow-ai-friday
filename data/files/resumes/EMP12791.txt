@@ -1,0 +1,32 @@
+OLIVER PATEL
+Senior AI Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP12791
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 6 years of experience, based in London. Strong in Python, Generative AI, LLM Engineering and REST API Design, with recent work in HR tech. Interested in moving towards ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 3.4y), REST API Design (Proficient, 2.3y)
+- Data & AI: Generative AI (Proficient, 0.6y), LLM Engineering (Proficient, 3.9y), Agentic AI (Working, 1.4y)
+- Cloud & DevOps: Docker (Working, 1.1y)
+
+EXPERIENCE
+* HR Tech Document Intelligence Pipeline — a fast-growing HR software company (2026-07 to present)
+  Led the delivery of a document intelligence pipeline for a fast-growing HR software company in HR tech using Python, Agentic AI and Docker, saving ~25K hours annually.
+* Insurance Claims Fraud Detection Model — a fast-growing insurer (2024-11 to 2026-05)
+  Built a fraud detection model for a fast-growing insurer in insurance claims using Agentic AI and Generative AI, improving model accuracy by 30%.
+* HR Tech Fraud Detection Model — a US HR software company (2023-09 to 2024-10)
+  Led the delivery of a fraud detection model for a US HR software company in HR tech using LLM Engineering, Generative AI and REST API Design, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2023)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer

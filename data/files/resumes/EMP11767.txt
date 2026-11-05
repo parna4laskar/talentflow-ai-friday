@@ -1,0 +1,29 @@
+ETHAN GARCIA
+Senior Business Analyst | Business Consulting | New York, United States
+Employee ID: EMP11767
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 6.8 years of experience, based in New York. Strong in Stakeholder Management, Business Analysis, Salesforce and Requirements Gathering, with recent work in insurance claims. Interested in moving towards Business Analyst, Data Analyst roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 1.5y), Communication (Proficient, 3.5y)
+- Business & Finance: Business Analysis (Advanced, 1.7y), Salesforce (Advanced, 3.9y), Requirements Gathering (Proficient, 4.1y), Process Improvement (Working, 1.0y)
+- Data & AI: SQL (Proficient, 4.2y), Power BI (Proficient, 1.9y)
+
+EXPERIENCE
+* Public Sector Requirements and UAT for a CRM Rollout — a tier-1 government agency (2026-07 to present)
+  Delivered a requirements and UAT for a CRM rollout for a tier-1 government agency in public sector using Process Improvement and Business Analysis, reducing processing time by 25%.
+* Insurance Claims Cloud Migration Programme — an APAC insurer (2025-11 to 2026-04)
+  Ran a cloud migration programme for an APAC insurer in insurance claims using Business Analysis, Communication and SQL, delivering on time across 8 workstreams.
+* Wealth Management Core Banking Transformation Programme — a tier-1 wealth manager (2024-10 to 2025-09)
+  Delivered a core banking transformation programme for a tier-1 wealth manager in wealth management using Business Analysis, Salesforce and Communication, delivering $2M in cost savings.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Business Analyst, Data Analyst

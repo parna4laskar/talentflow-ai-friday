@@ -1,0 +1,35 @@
+SURESH JADHAV
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP10871
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 11.1 years of experience, based in Hyderabad. Strong in System Design, Java, Cloud Security and Microservices, with recent work in energy trading. Interested in moving towards Software Architect, Backend Engineer roles and open to relocating to Bengaluru, Gurugram.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 1.6y), Mentoring (Proficient, 8.0y), Stakeholder Management (Working, 1.7y)
+- Software Engineering: System Design (Advanced, 6.3y), Java (Advanced, 3.0y), Microservices (Proficient, 1.0y)
+- Security: Cloud Security (Advanced, 2.6y), Threat Modeling (Proficient, 2.6y)
+- Cloud & DevOps: AWS (Proficient, 2.9y), Kubernetes (Proficient, 6.1y)
+
+EXPERIENCE
+* Energy Trading Pricing Engine — an APAC energy company (2026-06 to present)
+  Re-architected a pricing engine for an APAC energy company in energy trading using Mentoring, System Design and Kubernetes, improving conversion by 35%.
+* Energy Trading Payments Microservices Platform — a fast-growing energy company (2025-09 to 2026-05)
+  Modernised a payments microservices platform for a fast-growing energy company in energy trading using Kubernetes, AWS, Mentoring and Java, reducing production incidents by 35%.
+* Energy Trading Order Management System — a US energy company (2025-03 to 2025-08)
+  Modernised an order management system for a US energy company in energy trading using Mentoring and System Design, onboarding 4 new enterprise clients.
+* Retail Banking Payments Microservices Platform — a tier-1 retail bank (2023-11 to 2025-01)
+  Automated a payments microservices platform for a tier-1 retail bank in retail banking using Mentoring and Cloud Security, accelerating releases by 18%.
+
+CERTIFICATIONS
+- TOGAF 10 (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Backend Engineer, Cloud Engineer, Engineering Manager

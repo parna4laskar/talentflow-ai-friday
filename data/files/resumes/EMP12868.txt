@@ -1,0 +1,32 @@
+TEJAS NAIDU
+Lead Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12868
+
+PROFESSIONAL SUMMARY
+Lead Site Reliability Engineer with 10.4 years of experience, based in Pune. Strong in Observability, Kubernetes, Site Reliability Engineering and Linux Administration, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Expert, 8.0y), Kubernetes (Expert, 9.9y), Site Reliability Engineering (Advanced, 4.0y), Linux Administration (Advanced, 8.8y), Terraform (Advanced, 0.8y)
+- Delivery & Leadership: Mentoring (Advanced, 7.0y), Stakeholder Management (Advanced, 1.8y)
+- Software Engineering: Python (Proficient, 4.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Observability Stack — a European logistics company (2026-03 to present)
+  Led the delivery of an observability stack for a European logistics company in supply-chain logistics using Site Reliability Engineering, Linux Administration, Python and Kubernetes, accelerating releases by 12%.
+* Manufacturing IoT Kubernetes Platform — a fast-growing manufacturer (2025-07 to 2026-02)
+  Built a Kubernetes platform for a fast-growing manufacturer in manufacturing IoT using Linux Administration and Kubernetes, accelerating releases by 12%.
+* Supply-chain Logistics Kubernetes Platform — a US logistics company (2024-07 to 2025-05)
+  Automated a Kubernetes platform for a US logistics company in supply-chain logistics using Linux Administration, Observability and Terraform, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2021)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer

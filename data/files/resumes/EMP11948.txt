@@ -1,0 +1,31 @@
+AAROHI SUBRAMANIAN
+Associate Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11948
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 0.9 years of experience, based in Chennai. Strong in TypeScript, Design Systems, JavaScript and React, with recent work in media streaming. Interested in moving towards QA Engineer, Mobile Engineer roles and open to relocating to Dublin, New York.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.6y), JavaScript (Working, 0.4y), React (Working, 0.4y), GraphQL (Working, 0.4y), Node.js (Working, 0.4y)
+- Product & Design: Design Systems (Proficient, 0.4y), Figma (Working, 0.3y)
+- Quality Engineering: Playwright (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Wealth Management Mobile Banking App — a European wealth manager (2026-01 to present)
+  Re-architected a mobile banking app for a European wealth manager in wealth management using Communication and Node.js, improving conversion by 18%.
+* Media Streaming Self-service Portal — a fast-growing streaming platform (2024-08 to 2025-10)
+  Designed a self-service portal for a fast-growing streaming platform in media streaming using Playwright, React and JavaScript, saving ~35K hours annually.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer, Mobile Engineer, UX Designer

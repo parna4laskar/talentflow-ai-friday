@@ -1,0 +1,27 @@
+VARUN NAIR
+Associate Site Reliability Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12786
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 2.5 years of experience, based in Bengaluru. Strong in Linux Administration, Site Reliability Engineering, Observability and Kubernetes, with recent work in supply-chain logistics. Interested in moving towards Platform Engineer roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Proficient, 1.4y), Site Reliability Engineering (Working, 0.3y), Observability (Working, 0.5y), Kubernetes (Working, 0.8y), AWS (Working, 0.4y)
+- Software Engineering: Python (Working, 0.5y)
+- Data & AI: MLOps (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Data-centre Exit To Cloud — a leading telecom operator (2026-10 to present)
+  Led the delivery of a data-centre exit to cloud for a leading telecom operator in telecom billing using AWS, MLOps and Observability, cutting cloud spend by 18%.
+* Pharma R&D Observability Stack — a European pharma company (2026-05 to 2026-09)
+  Re-architected an observability stack for a European pharma company in pharma R&D using Site Reliability Engineering, Observability, Kubernetes and AWS, accelerating releases by 30%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer

@@ -1,0 +1,32 @@
+DAVID MILLER
+Lead Software Architect | Engineering | Austin, United States
+Employee ID: EMP11518
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.4 years of experience, based in Austin. Strong in System Design, Python, GCP and Kafka, with recent work in automotive. Interested in moving towards Software Architect, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 0.7y), Python (Advanced, 13.4y), Kafka (Advanced, 0.6y), Microservices (Proficient, 8.4y)
+- Cloud & DevOps: GCP (Advanced, 9.8y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 2.5y), Communication (Proficient, 5.8y)
+
+EXPERIENCE
+* Airline Operations Claims Processing Engine — a fast-growing airline (2026-06 to present)
+  Built a claims processing engine for a fast-growing airline in airline operations using Communication, System Design, Kafka and Python, reducing processing time by 35%.
+* Automotive Pricing Engine — an APAC car maker (2024-12 to 2026-04)
+  Designed a pricing engine for an APAC car maker in automotive using Stakeholder Management, Kafka, Microservices and GCP, improving conversion by 12%.
+* Automotive Pricing Engine — a European car maker (2024-06 to 2024-11)
+  Scaled a pricing engine for a European car maker in automotive using GCP, System Design, Stakeholder Management and Python, reducing processing time by 40%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2022)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect, DevOps Engineer

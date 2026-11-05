@@ -1,0 +1,34 @@
+SAMEER SHAH
+AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP11450
+
+PROFESSIONAL SUMMARY
+AI Engineer with 4.9 years of experience, based in Chennai. Strong in Generative AI, Python, Azure and LLM Engineering, with recent work in retail banking. Interested in moving towards DevOps Engineer, Full Stack Engineer roles and open to relocating to Kraków, Pune.
+
+CORE SKILLS
+- Data & AI: Generative AI (Advanced, 1.4y), LLM Engineering (Working, 1.8y), Vector Databases (Working, 0.8y), NLP (Beginner, 1.0y), Machine Learning (Beginner, 0.9y)
+- Software Engineering: Python (Proficient, 1.7y)
+- Cloud & DevOps: Azure (Proficient, 1.7y), Docker (Working, 1.2y)
+
+EXPERIENCE
+* Retail Banking Knowledge Assistant (RAG) — a European retail bank (2026-02 to present)
+  Automated a knowledge assistant (RAG) for a European retail bank in retail banking using Machine Learning, NLP and Vector Databases, saving ~22K hours annually.
+* Pharma R&D Knowledge Assistant (RAG) — a tier-1 pharma company (2024-09 to 2026-01)
+  Scaled a knowledge assistant (RAG) for a tier-1 pharma company in pharma R&D using Machine Learning, Vector Databases and Python, lifting NPS by 12 points.
+* Retail Banking Fraud Detection Model — a US retail bank (2023-03 to 2024-07)
+  Re-architected a fraud detection model for a US retail bank in retail banking using Machine Learning, Azure, Docker and Python, improving model accuracy by 25%.
+* Retail Banking Document Intelligence Pipeline — a fast-growing retail bank (2021-11 to 2023-02)
+  Migrated a document intelligence pipeline for a fast-growing retail bank in retail banking using LLM Engineering, Generative AI and Vector Databases, saving ~22K hours annually.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2025)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Full Stack Engineer, ML Engineer

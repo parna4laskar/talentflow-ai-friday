@@ -1,0 +1,30 @@
+AISHA SMITH
+Senior SAP Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP10661
+
+PROFESSIONAL SUMMARY
+Senior SAP Consultant with 7.8 years of experience, based in London. Strong in SAP S/4HANA, Business Analysis, Financial Analysis and Requirements Gathering, with recent work in public sector. Interested in moving towards Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP S/4HANA (Advanced, 2.7y), Business Analysis (Advanced, 2.2y), Financial Analysis (Proficient, 5.7y), Requirements Gathering (Proficient, 0.4y), Process Improvement (Working, 1.1y)
+- Cloud & DevOps: Terraform (Proficient, 2.6y)
+
+EXPERIENCE
+* E-commerce ERP Finance Rollout — a leading online retailer (2025-11 to present)
+  Migrated an ERP finance rollout for a leading online retailer in e-commerce using Requirements Gathering, Financial Analysis, Terraform and Business Analysis, reducing processing time by 35%.
+* Insurance Claims ERP Finance Rollout — a leading insurer (2024-10 to 2025-09)
+  Automated an ERP finance rollout for a leading insurer in insurance claims using Business Analysis, Financial Analysis and SAP S/4HANA, reducing processing time by 35%.
+* Public Sector Service Desk Automation — a US government agency (2023-12 to 2024-08)
+  Migrated a service desk automation for a US government agency in public sector using Terraform, Process Improvement, SAP S/4HANA and Business Analysis, reducing processing time by 12%.
+* Public Sector Service Desk Automation — a leading government agency (2022-06 to 2023-09)
+  Automated a service desk automation for a leading government agency in public sector using Financial Analysis, Business Analysis, Requirements Gathering and Terraform, reducing processing time by 25%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Risk & Compliance Analyst

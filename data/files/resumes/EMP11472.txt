@@ -1,0 +1,35 @@
+ARVIND GUPTA
+Lead Software Architect | Engineering | Pune, India
+Employee ID: EMP11472
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14 years of experience, based in Pune. Strong in System Design, Microservices, Java and Azure, with recent work in payments. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 4.8y), Mentoring (Advanced, 13.2y), Stakeholder Management (Proficient, 1.2y)
+- Software Engineering: System Design (Advanced, 4.1y), Microservices (Advanced, 8.9y), Java (Advanced, 5.9y)
+- Cloud & DevOps: Azure (Advanced, 5.5y), Kubernetes (Proficient, 1.5y)
+- Data & AI: Responsible AI (Working, 6.3y)
+
+EXPERIENCE
+* Energy Trading Payments Microservices Platform — a US energy company (2025-10 to present)
+  Built a payments microservices platform for a US energy company in energy trading using Microservices, Responsible AI and System Design, reducing processing time by 12%.
+* Payments Mobile Banking App — a fast-growing payments provider (2024-12 to 2025-08)
+  Modernised a mobile banking app for a fast-growing payments provider in payments using Kubernetes and Java, lifting NPS by 40 points.
+* E-commerce Claims Processing Engine — a tier-1 online retailer (2023-04 to 2024-10)
+  Built a claims processing engine for a tier-1 online retailer in e-commerce using Responsible AI and Azure, reducing processing time by 12%.
+* Payments Mobile Banking App — a fast-growing payments provider (2022-01 to 2023-02)
+  Migrated a mobile banking app for a fast-growing payments provider in payments using Responsible AI, Kubernetes, System Design and Azure, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- TOGAF 10 (2021)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer

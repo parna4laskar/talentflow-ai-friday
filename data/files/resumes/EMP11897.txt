@@ -1,0 +1,32 @@
+ZOYA PATIL
+Senior Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP11897
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 10.1 years of experience, based in Chennai. Strong in Data Engineering, Apache Spark, AWS and SQL, with recent work in telecom billing. Interested in moving towards AI Engineer, Backend Engineer roles and open to relocating to New York, Hyderabad.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 9.6y), Apache Spark (Advanced, 2.0y), SQL (Proficient, 1.9y)
+- Cloud & DevOps: AWS (Advanced, 7.2y), Kubernetes (Working, 2.7y)
+- Software Engineering: Python (Proficient, 7.3y), Kafka (Proficient, 2.1y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a US telecom operator (2026-01 to present)
+  Automated an executive KPI dashboard suite for a US telecom operator in telecom billing using Kafka and Apache Spark, improving forecast accuracy by 22%.
+* Manufacturing IoT Executive KPI Dashboard Suite — a fast-growing manufacturer (2025-06 to 2025-12)
+  Modernised an executive KPI dashboard suite for a fast-growing manufacturer in manufacturing IoT using Data Engineering, AWS and Kubernetes, saving ~25K hours annually.
+* Energy Trading Data Lakehouse — a European energy company (2024-11 to 2025-05)
+  Scaled a data lakehouse for a European energy company in energy trading using Python and Kafka, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- SnowPro Core (2023)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, Backend Engineer, ML Engineer

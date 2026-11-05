@@ -1,0 +1,28 @@
+RAJESH SHAH
+Associate Site Reliability Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP10338
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 1.9 years of experience, based in Chennai. Strong in Site Reliability Engineering, Observability, Kubernetes and Incident Response, with recent work in payments. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Proficient, 0.6y), Observability (Proficient, 1.4y), Kubernetes (Proficient, 0.4y), Linux Administration (Beginner, 0.3y), Terraform (Beginner, 0.4y)
+- Security: Incident Response (Proficient, 1.0y)
+- Software Engineering: Python (Working, 0.6y)
+- Quality Engineering: Performance Testing (Working, 0.4y)
+
+EXPERIENCE
+* Payments Observability Stack — a fast-growing payments provider (2026-08 to present)
+  Designed an observability stack for a fast-growing payments provider in payments using Python and Linux Administration, accelerating releases by 12%.
+* Wealth Management Kubernetes Platform — a fast-growing wealth manager (2026-02 to 2026-07)
+  Modernised a Kubernetes platform for a fast-growing wealth manager in wealth management using Kubernetes, Terraform, Incident Response and Python, accelerating releases by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer

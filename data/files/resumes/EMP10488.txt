@@ -1,0 +1,37 @@
+SITI LIM
+Principal ML Engineer | AI Center of Excellence | Singapore, Singapore
+Employee ID: EMP10488
+
+PROFESSIONAL SUMMARY
+Principal ML Engineer with 12.6 years of experience, based in Singapore. Strong in Python, MLOps, Deep Learning and Computer Vision, with recent work in telecom billing. Interested in moving towards Platform Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 5.4y)
+- Data & AI: MLOps (Expert, 1.6y), Deep Learning (Expert, 0.9y), Computer Vision (Expert, 10.4y), Machine Learning (Advanced, 5.1y), NLP (Advanced, 5.2y), Vector Databases (Proficient, 4.8y), Generative AI (Proficient, 6.9y)
+- Cloud & DevOps: Kubernetes (Advanced, 4.6y), AWS (Advanced, 10.5y)
+- Quality Engineering: Playwright (Advanced, 12.2y)
+- Delivery & Leadership: Mentoring (Advanced, 8.1y), Communication (Proficient, 3.7y)
+
+EXPERIENCE
+* Telecom Billing Recommendation Engine — a leading telecom operator (2026-01 to present)
+  Migrated a recommendation engine for a leading telecom operator in telecom billing using Deep Learning, Vector Databases and Playwright, improving model accuracy by 12%.
+* HR Tech Fraud Detection Model — a global HR software company (2025-01 to 2025-10)
+  Led the delivery of a fraud detection model for a global HR software company in HR tech using Machine Learning and Kubernetes, improving model accuracy by 30%.
+* Manufacturing IoT Document Intelligence Pipeline — a leading manufacturer (2023-09 to 2024-10)
+  Built a document intelligence pipeline for a leading manufacturer in manufacturing IoT using Deep Learning, AWS, NLP and Python, saving ~12K hours annually.
+* Pharma R&D Fraud Detection Model — a leading pharma company (2022-06 to 2023-07)
+  Scaled a fraud detection model for a leading pharma company in pharma R&D using NLP, Communication, Python and MLOps, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+- AWS ML Specialty (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Platform Engineer, AI Engineer

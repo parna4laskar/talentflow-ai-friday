@@ -1,0 +1,31 @@
+NAVEEN MALHOTRA
+Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10864
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 4.3 years of experience, based in Bengaluru. Strong in Platform Engineering, Go, Kubernetes and Python, with recent work in wealth management. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles and open to relocating to Dublin, Austin.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Advanced, 3.9y), Kubernetes (Proficient, 0.5y), Terraform (Working, 1.9y), CI/CD (Working, 1.7y), Site Reliability Engineering (Working, 2.0y)
+- Software Engineering: Go (Advanced, 1.7y), Python (Proficient, 1.0y)
+- Delivery & Leadership: Communication (Proficient, 1.7y)
+
+EXPERIENCE
+* Wealth Management Observability Stack — a tier-1 wealth manager (2025-12 to present)
+  Scaled an observability stack for a tier-1 wealth manager in wealth management using Terraform, Python, Platform Engineering and CI/CD, reducing production incidents by 12%.
+* Wealth Management Cloud Landing Zone — a leading wealth manager (2024-06 to 2025-11)
+  Led the delivery of a cloud landing zone for a leading wealth manager in wealth management using Python, Site Reliability Engineering, Terraform and Communication, accelerating releases by 40%.
+* Wealth Management Cloud Landing Zone — an APAC wealth manager (2023-06 to 2024-06)
+  Led the delivery of a cloud landing zone for an APAC wealth manager in wealth management using Kubernetes, Terraform, CI/CD and Python, accelerating releases by 18%.
+* Wealth Management Observability Stack — a tier-1 wealth manager (2022-03 to 2023-05)
+  Led the delivery of an observability stack for a tier-1 wealth manager in wealth management using Kubernetes, Site Reliability Engineering, Platform Engineering and Python, reducing production incidents by 18%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, Cloud Engineer, Backend Engineer

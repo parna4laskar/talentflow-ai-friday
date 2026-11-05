@@ -1,0 +1,26 @@
+RIYA RAO
+DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10969
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 2 years of experience, based in Pune. Strong in Docker, Python, CI/CD and Go, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Expert, 2.0y), CI/CD (Advanced, 0.6y), Kubernetes (Proficient, 1.3y), Azure (Proficient, 0.9y), Linux Administration (Proficient, 0.6y), Terraform (Working, 0.8y)
+- Software Engineering: Python (Expert, 1.6y), Go (Advanced, 1.2y)
+
+EXPERIENCE
+* Supply-chain Logistics Kubernetes Platform — a fast-growing logistics company (2026-08 to present)
+  Migrated a Kubernetes platform for a fast-growing logistics company in supply-chain logistics using Linux Administration, Terraform, Python and Kubernetes, cutting cloud spend by 22%.
+* Supply-chain Logistics Data-centre Exit To Cloud — a global logistics company (2026-01 to 2026-05)
+  Scaled a data-centre exit to cloud for a global logistics company in supply-chain logistics using CI/CD, Terraform and Linux Administration, cutting cloud spend by 30%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Site Reliability Engineer, Cloud Engineer

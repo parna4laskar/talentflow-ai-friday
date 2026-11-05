@@ -1,0 +1,29 @@
+RYAN TREMBLAY
+Senior Data Analyst | Data & Analytics | Toronto, Canada
+Employee ID: EMP11211
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 6.7 years of experience, based in Toronto. Strong in SQL, Python, Agentic AI and Data Visualization, with recent work in automotive. Interested in moving towards Product Manager, Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.8y), Agentic AI (Advanced, 5.0y), Data Visualization (Proficient, 1.2y), Tableau (Proficient, 3.8y), Statistics (Working, 1.0y)
+- Software Engineering: Python (Advanced, 6.3y)
+- Delivery & Leadership: Communication (Proficient, 4.5y)
+
+EXPERIENCE
+* Automotive Executive KPI Dashboard Suite — a US car maker (2026-05 to present)
+  Migrated an executive KPI dashboard suite for a US car maker in automotive using Agentic AI, Communication, Statistics and Data Visualization, saving ~22K hours annually.
+* Automotive Customer Churn Model — a tier-1 car maker (2024-09 to 2026-03)
+  Migrated a customer churn model for a tier-1 car maker in automotive using Agentic AI, Tableau and SQL, improving conversion by 35%.
+* Automotive Regulatory Reporting Suite — a fast-growing car maker (2023-12 to 2024-07)
+  Re-architected a regulatory reporting suite for a fast-growing car maker in automotive using Statistics, SQL and Python, saving ~25K hours annually.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, French, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Product Manager, Business Analyst, Financial Analyst

@@ -1,0 +1,35 @@
+RADHIKA WIŚNIEWSKI
+Lead Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP11198
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 9.4 years of experience, based in Chennai. Strong in Statistics, SQL, Python and Machine Learning, with recent work in pharma R&D. Interested in moving towards Data Analyst, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Expert, 4.8y), SQL (Expert, 8.9y), Machine Learning (Proficient, 2.6y), Apache Spark (Proficient, 3.3y), Deep Learning (Proficient, 2.5y), Generative AI (Proficient, 6.0y)
+- Software Engineering: Python (Proficient, 1.6y)
+- Quality Engineering: Playwright (Working, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Beginner, 1.6y)
+
+EXPERIENCE
+* Pharma R&D Real-time Analytics Pipeline — a European pharma company (2026-03 to present)
+  Re-architected a real-time analytics pipeline for a European pharma company in pharma R&D using Stakeholder Management, SQL, Deep Learning and Generative AI, reducing processing time by 30%.
+* Pharma R&D Regulatory Reporting Suite — a fast-growing pharma company (2025-08 to 2026-01)
+  Automated a regulatory reporting suite for a fast-growing pharma company in pharma R&D using Apache Spark, SQL, Machine Learning and Generative AI, saving ~12K hours annually.
+* Pharma R&D Data Lakehouse — a fast-growing pharma company (2024-02 to 2025-08)
+  Scaled a data lakehouse for a fast-growing pharma company in pharma R&D using Apache Spark and Python, cutting cloud spend by 40%.
+* Media Streaming Customer Churn Model — a leading streaming platform (2022-08 to 2023-11)
+  Modernised a customer churn model for a leading streaming platform in media streaming using Stakeholder Management and Python, improving conversion by 35%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, AI Engineer, Product Manager

@@ -1,0 +1,27 @@
+DARREN CHUA
+Senior Platform Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP10697
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 7.4 years of experience, based in Singapore. Strong in Kubernetes, Terraform, Platform Engineering and CI/CD, with recent work in airline operations. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 7.1y), Terraform (Expert, 7.4y), Platform Engineering (Advanced, 6.9y), CI/CD (Advanced, 6.4y), AWS (Advanced, 4.4y), Observability (Proficient, 2.4y), Site Reliability Engineering (Working, 2.5y)
+
+EXPERIENCE
+* Insurance Claims Observability Stack — a US insurer (2026-03 to present)
+  Migrated an observability stack for a US insurer in insurance claims using Kubernetes, Terraform, Observability and Site Reliability Engineering, reducing production incidents by 22%.
+* Airline Operations Kubernetes Platform — an APAC airline (2024-09 to 2026-02)
+  Migrated a Kubernetes platform for an APAC airline in airline operations using Terraform and Observability, cutting cloud spend by 35%.
+* Airline Operations Observability Stack — a leading airline (2023-11 to 2024-07)
+  Re-architected an observability stack for a leading airline in airline operations using Kubernetes, CI/CD and Site Reliability Engineering, reducing production incidents by 18%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, Site Reliability Engineer, DevOps Engineer

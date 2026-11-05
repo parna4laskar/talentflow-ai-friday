@@ -1,0 +1,36 @@
+DIVYA CHATTERJEE
+Principal ML Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP11983
+
+PROFESSIONAL SUMMARY
+Principal ML Engineer with 21.6 years of experience, based in Chennai. Strong in Python, MLOps, Vector Databases and Stakeholder Management, with recent work in media streaming. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 21.6y)
+- Data & AI: MLOps (Expert, 20.5y), Vector Databases (Expert, 6.8y), Machine Learning (Advanced, 9.3y), Databricks (Advanced, 14.2y), Deep Learning (Proficient, 5.9y)
+- Delivery & Leadership: Stakeholder Management (Expert, 21.6y), Communication (Proficient, 14.0y)
+- Cloud & DevOps: Kubernetes (Advanced, 10.5y)
+
+EXPERIENCE
+* Media Streaming Recommendation Engine — a tier-1 streaming platform (2026-04 to present)
+  Automated a recommendation engine for a tier-1 streaming platform in media streaming using Communication, Vector Databases and MLOps, improving model accuracy by 12%.
+* Media Streaming Fraud Detection Model — a US streaming platform (2024-10 to 2026-03)
+  Designed a fraud detection model for a US streaming platform in media streaming using Communication, Databricks, Python and MLOps, improving model accuracy by 12%.
+* Pharma R&D Recommendation Engine — a fast-growing pharma company (2023-09 to 2024-08)
+  Re-architected a recommendation engine for a fast-growing pharma company in pharma R&D using Vector Databases and Python, improving model accuracy by 40%.
+* Media Streaming Fraud Detection Model — a fast-growing streaming platform (2022-07 to 2023-08)
+  Re-architected a fraud detection model for a fast-growing streaming platform in media streaming using Vector Databases, Communication, Machine Learning and Stakeholder Management, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2021)
+- AWS ML Specialty (2022)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: ML Engineer, AI Engineer

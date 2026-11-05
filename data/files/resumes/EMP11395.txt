@@ -1,0 +1,35 @@
+ISHITA SUBRAMANIAN
+Lead Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP11395
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 11.2 years of experience, based in Pune. Strong in TypeScript, React, Java and Microservices, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 7.8y), React (Advanced, 0.6y), Java (Advanced, 2.1y), Microservices (Advanced, 6.8y)
+- Delivery & Leadership: Communication (Advanced, 6.8y)
+- Data & AI: SQL (Proficient, 1.9y)
+- Cloud & DevOps: AWS (Proficient, 5.9y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a leading manufacturer (2025-11 to present)
+  Designed a mobile banking app for a leading manufacturer in manufacturing IoT using React, TypeScript and Java, improving conversion by 35%.
+* Automotive Order Management System — a European car maker (2024-10 to 2025-10)
+  Modernised an order management system for a European car maker in automotive using Java and Microservices, reducing processing time by 30%.
+* Manufacturing IoT Customer Onboarding Platform — a leading manufacturer (2024-03 to 2024-08)
+  Automated a customer onboarding platform for a leading manufacturer in manufacturing IoT using AWS and Microservices, improving conversion by 18%.
+* Retail Banking Mobile Banking App — an APAC retail bank (2022-12 to 2024-02)
+  Led the delivery of a mobile banking app for an APAC retail bank in retail banking using Communication and SQL, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer

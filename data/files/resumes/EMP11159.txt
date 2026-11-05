@@ -1,0 +1,34 @@
+ZUZANNA NOWAK
+Data Analyst | Data & Analytics | Kraków, Poland
+Employee ID: EMP11159
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5.2 years of experience, based in Kraków. Strong in Power BI, A/B Testing, SQL and Data Visualization, with recent work in manufacturing IoT. Interested in moving towards Data Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Power BI (Expert, 2.0y), SQL (Working, 0.3y), Data Visualization (Working, 1.5y), Statistics (Working, 2.0y), Machine Learning (Beginner, 0.8y)
+- Product & Design: A/B Testing (Proficient, 3.5y)
+- Software Engineering: Python (Working, 0.5y)
+
+EXPERIENCE
+* Manufacturing IoT Real-time Analytics Pipeline — a global manufacturer (2025-11 to present)
+  Built a real-time analytics pipeline for a global manufacturer in manufacturing IoT using A/B Testing, Python, Statistics and SQL, cutting cloud spend by 40%.
+* Manufacturing IoT Executive KPI Dashboard Suite — a US manufacturer (2025-01 to 2025-09)
+  Automated an executive KPI dashboard suite for a US manufacturer in manufacturing IoT using A/B Testing, Python, Power BI and SQL, saving ~40K hours annually.
+* Manufacturing IoT Regulatory Reporting Suite — a fast-growing manufacturer (2024-05 to 2024-12)
+  Re-architected a regulatory reporting suite for a fast-growing manufacturer in manufacturing IoT using SQL, Data Visualization, Power BI and Python, saving ~40K hours annually.
+* Healthcare Regulatory Reporting Suite — a fast-growing hospital network (2023-04 to 2024-03)
+  Re-architected a regulatory reporting suite for a fast-growing hospital network in healthcare using Python and Machine Learning, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Analyst, Data Scientist, Product Manager

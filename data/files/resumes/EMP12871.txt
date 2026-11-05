@@ -1,0 +1,34 @@
+CHARLOTTE HUGHES
+Lead Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP12871
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 8.5 years of experience, based in London. Strong in Machine Learning, Statistics, Python and SQL, with recent work in public sector. Interested in moving towards Product Manager, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Expert, 6.2y), Statistics (Expert, 6.4y), SQL (Advanced, 7.1y), Data Visualization (Proficient, 4.2y), NLP (Proficient, 1.3y), Generative AI (Proficient, 1.1y), dbt (Proficient, 1.4y)
+- Software Engineering: Python (Advanced, 1.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.3y), Communication (Proficient, 1.3y), Mentoring (Working, 1.4y)
+
+EXPERIENCE
+* Airline Operations Executive KPI Dashboard Suite — a tier-1 airline (2025-07 to present)
+  Automated an executive KPI dashboard suite for a tier-1 airline in airline operations using Mentoring, NLP, Python and Statistics, improving forecast accuracy by 22%.
+* Automotive Real-time Analytics Pipeline — a global car maker (2024-08 to 2025-04)
+  Modernised a real-time analytics pipeline for a global car maker in automotive using Stakeholder Management, NLP and Communication, reducing processing time by 18%.
+* Public Sector Data Lakehouse — a European government agency (2024-02 to 2024-07)
+  Automated a data lakehouse for a European government agency in public sector using Statistics, Stakeholder Management, Machine Learning and Generative AI, cutting cloud spend by 35%.
+* Public Sector Data Lakehouse — a fast-growing government agency (2022-11 to 2023-12)
+  Designed a data lakehouse for a fast-growing government agency in public sector using Statistics and Python, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager, ML Engineer

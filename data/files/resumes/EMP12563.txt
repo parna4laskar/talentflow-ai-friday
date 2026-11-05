@@ -1,0 +1,31 @@
+OMKAR BANERJEE
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12563
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.4 years of experience, based in Bengaluru. Strong in TypeScript, React, JavaScript and Next.js, with recent work in public sector. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.8y), React (Advanced, 4.5y), JavaScript (Proficient, 1.1y), Next.js (Proficient, 3.0y)
+- Quality Engineering: Playwright (Working, 2.3y)
+
+EXPERIENCE
+* Wealth Management Claims Processing Engine — an APAC wealth manager (2025-08 to present)
+  Led the delivery of a claims processing engine for an APAC wealth manager in wealth management using JavaScript and TypeScript, saving ~12K hours annually.
+* Supply-chain Logistics Pricing Engine — a US logistics company (2023-11 to 2025-05)
+  Modernised a pricing engine for a US logistics company in supply-chain logistics using Next.js, JavaScript and Playwright, reducing processing time by 22%.
+* Manufacturing IoT Payments Microservices Platform — a global manufacturer (2022-04 to 2023-10)
+  Built a payments microservices platform for a global manufacturer in manufacturing IoT using JavaScript, React, TypeScript and Next.js, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, Mobile Engineer

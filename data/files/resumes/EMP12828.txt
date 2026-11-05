@@ -1,0 +1,33 @@
+GRACE WILSON
+Senior QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP12828
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 7.8 years of experience, based in London. Strong in Playwright, API Testing, CI/CD and Python, with recent work in supply-chain logistics. Interested in moving towards Mobile Engineer, DevOps Engineer roles and open to relocating to Gurugram, Pune, Chennai.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Advanced, 5.2y), API Testing (Advanced, 2.3y), Test Automation (Proficient, 2.3y)
+- Cloud & DevOps: CI/CD (Advanced, 4.5y)
+- Software Engineering: Python (Advanced, 5.6y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 1.2y), Communication (Advanced, 4.1y), Project Management (Working, 3.6y)
+- Data & AI: SQL (Proficient, 3.9y)
+
+EXPERIENCE
+* Supply-chain Logistics Test Automation Framework — an APAC logistics company (2026-02 to present)
+  Led the delivery of a test automation framework for an APAC logistics company in supply-chain logistics using Test Automation, Project Management, Agile/Scrum and Communication, raising automated test coverage to 85%.
+* Supply-chain Logistics API Contract-testing Suite — a global logistics company (2024-10 to 2026-01)
+  Scaled an API contract-testing suite for a global logistics company in supply-chain logistics using SQL, API Testing and Test Automation, reducing production incidents by 35%.
+* Supply-chain Logistics Test Automation Framework — a European logistics company (2023-04 to 2024-09)
+  Automated a test automation framework for a European logistics company in supply-chain logistics using Project Management, Python, Agile/Scrum and CI/CD, raising automated test coverage to 70%.
+* Supply-chain Logistics API Contract-testing Suite — a US logistics company (2022-01 to 2023-03)
+  Automated an API contract-testing suite for a US logistics company in supply-chain logistics using Agile/Scrum, Test Automation, CI/CD and Python, reducing production incidents by 22%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Mobile Engineer, DevOps Engineer, Full Stack Engineer

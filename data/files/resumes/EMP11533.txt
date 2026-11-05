@@ -1,0 +1,26 @@
+CHRISTOPHER ANDERSON
+Associate DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11533
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 0.8 years of experience, based in New York. Strong in Azure, CI/CD, Docker and Observability, with recent work in supply-chain logistics. Interested in moving towards Site Reliability Engineer, Backend Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Advanced, 0.7y), CI/CD (Proficient, 0.5y), Docker (Proficient, 0.4y), Observability (Proficient, 0.5y), Kubernetes (Working, 0.3y), Linux Administration (Beginner, 0.3y)
+- Quality Engineering: Playwright (Working, 0.4y)
+
+EXPERIENCE
+* Public Sector Cloud Landing Zone — a fast-growing government agency (2026-01 to present)
+  Led the delivery of a cloud landing zone for a fast-growing government agency in public sector using Observability, CI/CD, Linux Administration and Kubernetes, accelerating releases by 18%.
+* Supply-chain Logistics CI/CD Platform — a US logistics company (2025-02 to 2025-11)
+  Scaled a CI/CD platform for a US logistics company in supply-chain logistics using Observability and Docker, accelerating releases by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Site Reliability Engineer, Backend Engineer, Cloud Engineer

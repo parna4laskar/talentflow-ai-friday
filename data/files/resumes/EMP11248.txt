@@ -1,0 +1,32 @@
+JESSICA LEE
+Frontend Engineer | Engineering | New York, United States
+Employee ID: EMP11248
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.4 years of experience, based in New York. Strong in TypeScript, JavaScript, React and Figma, with recent work in wealth management. Interested in moving towards QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.1y), JavaScript (Proficient, 3.1y), React (Proficient, 1.8y), Node.js (Working, 0.3y)
+- Product & Design: Figma (Proficient, 2.0y), Design Systems (Working, 0.9y)
+- Data & AI: Agentic AI (Beginner, 0.5y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.9y)
+
+EXPERIENCE
+* Wealth Management Customer Onboarding Platform — a European wealth manager (2026-06 to present)
+  Scaled a customer onboarding platform for a European wealth manager in wealth management using Figma, React, Node.js and Design Systems, improving conversion by 22%.
+* Telecom Billing Order Management System — a leading telecom operator (2025-05 to 2026-05)
+  Built an order management system for a leading telecom operator in telecom billing using Figma and Agentic AI, reducing processing time by 22%.
+* Wealth Management Order Management System — a global wealth manager (2023-11 to 2025-03)
+  Modernised an order management system for a global wealth manager in wealth management using JavaScript, Figma, React and Kubernetes, onboarding 6 new enterprise clients.
+* Wealth Management Customer Onboarding Platform — an APAC wealth manager (2022-03 to 2023-09)
+  Automated a customer onboarding platform for an APAC wealth manager in wealth management using TypeScript, Figma, Node.js and Design Systems, lifting NPS by 12 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer

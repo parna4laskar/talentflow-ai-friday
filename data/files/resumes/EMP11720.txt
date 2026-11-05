@@ -1,0 +1,28 @@
+VIKRAM AGARWAL
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP11720
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 2.4 years of experience, based in Bengaluru. Strong in Airflow, SQL, Python and Data Engineering, with recent work in airline operations. Interested in moving towards Data Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: Airflow (Proficient, 1.7y), SQL (Working, 0.8y), Data Engineering (Working, 1.0y), Data Governance (Beginner, 0.3y)
+- Software Engineering: Python (Working, 1.2y)
+- Cloud & DevOps: AWS (Working, 0.3y), FinOps (Beginner, 0.5y), Terraform (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Airline Operations Real-time Analytics Pipeline — a tier-1 airline (2025-11 to present)
+  Automated a real-time analytics pipeline for a tier-1 airline in airline operations using Communication, Data Governance and Terraform, cutting cloud spend by 22%.
+* Airline Operations Real-time Analytics Pipeline — an APAC airline (2024-12 to 2025-09)
+  Migrated a real-time analytics pipeline for an APAC airline in airline operations using Data Governance, Communication and Terraform, cutting cloud spend by 18%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer, Backend Engineer

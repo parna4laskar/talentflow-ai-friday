@@ -1,0 +1,35 @@
+RITESH JOSHI
+Lead Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10144
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 11.7 years of experience, based in Pune. Strong in SQL, Microservices, AWS and C#, with recent work in healthcare. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 3.7y)
+- Software Engineering: Microservices (Expert, 5.6y), C# (Advanced, 5.8y), REST API Design (Advanced, 8.6y), Spring Boot (Advanced, 5.7y), System Design (Proficient, 7.8y), .NET Core (Proficient, 4.1y)
+- Cloud & DevOps: AWS (Expert, 1.5y), CI/CD (Working, 1.0y)
+- Delivery & Leadership: People Leadership (Proficient, 4.4y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — a fast-growing hospital network (2026-06 to present)
+  Designed a mobile banking app for a fast-growing hospital network in healthcare using .NET Core, Spring Boot, AWS and C#, improving conversion by 12%.
+* Healthcare Self-service Portal — a European hospital network (2025-08 to 2026-03)
+  Re-architected a self-service portal for a European hospital network in healthcare using System Design, Spring Boot and Microservices, lifting NPS by 25 points.
+* Telecom Billing Claims Processing Engine — a leading telecom operator (2024-12 to 2025-07)
+  Scaled a claims processing engine for a leading telecom operator in telecom billing using SQL, .NET Core and REST API Design, reducing processing time by 35%.
+* Insurance Claims Payments Microservices Platform — an APAC insurer (2023-08 to 2024-10)
+  Modernised a payments microservices platform for an APAC insurer in insurance claims using C#, .NET Core, CI/CD and SQL, accelerating releases by 18%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, AI Engineer, DevOps Engineer

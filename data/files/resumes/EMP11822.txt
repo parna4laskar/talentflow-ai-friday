@@ -1,0 +1,32 @@
+PRASAD GOKHALE
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP11822
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.5 years of experience, based in Hyderabad. Strong in System Design, REST API Design, Microservices and Stakeholder Management, with recent work in HR tech. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 12.3y), REST API Design (Expert, 3.2y), Microservices (Advanced, 11.1y), Java (Proficient, 5.6y)
+- Delivery & Leadership: People Leadership (Expert, 1.4y), Stakeholder Management (Advanced, 10.9y)
+- Security: Cloud Security (Proficient, 6.1y)
+- Cloud & DevOps: Azure (Working, 0.3y), AWS (Working, 1.5y)
+
+EXPERIENCE
+* HR Tech Customer Onboarding Platform — a fast-growing HR software company (2025-05 to present)
+  Modernised a customer onboarding platform for a fast-growing HR software company in HR tech using REST API Design and Java, reducing processing time by 18%.
+* Automotive Customer Onboarding Platform — a global car maker (2023-12 to 2025-04)
+  Led the delivery of a customer onboarding platform for a global car maker in automotive using Stakeholder Management and Cloud Security, reducing processing time by 25%.
+* Healthcare Pricing Engine — a tier-1 hospital network (2023-04 to 2023-10)
+  Led the delivery of a pricing engine for a tier-1 hospital network in healthcare using Stakeholder Management, Microservices, REST API Design and Cloud Security, improving conversion by 12%.
+* HR Tech Order Management System — a European HR software company (2022-06 to 2023-03)
+  Built an order management system for a European HR software company in HR tech using Azure and Java, reducing processing time by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer, DevOps Engineer

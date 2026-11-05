@@ -1,0 +1,30 @@
+VIKRAM NAIDU
+Lead Engineering Manager | Engineering | Gurugram, India
+Employee ID: EMP11355
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 11.5 years of experience, based in Gurugram. Strong in System Design, People Leadership, Agile/Scrum and Stakeholder Management, with recent work in HR tech. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 10.9y), Microservices (Advanced, 0.8y)
+- Delivery & Leadership: People Leadership (Advanced, 10.0y), Agile/Scrum (Advanced, 10.6y), Stakeholder Management (Advanced, 9.4y), Mentoring (Working, 1.6y)
+- Cloud & DevOps: FinOps (Advanced, 6.2y), AWS (Proficient, 3.1y)
+- Data & AI: Databricks (Beginner, 2.7y)
+
+EXPERIENCE
+* HR Tech Payments Microservices Platform — a fast-growing HR software company (2025-09 to present)
+  Automated a payments microservices platform for a fast-growing HR software company in HR tech using FinOps, System Design and Stakeholder Management, reducing production incidents by 12%.
+* HR Tech Pricing Engine — a leading HR software company (2024-06 to 2025-08)
+  Led the delivery of a pricing engine for a leading HR software company in HR tech using System Design, Stakeholder Management, Databricks and People Leadership, improving conversion by 35%.
+* HR Tech Self-service Portal — a US HR software company (2023-06 to 2024-05)
+  Re-architected a self-service portal for a US HR software company in HR tech using Microservices, People Leadership and Mentoring, saving ~30K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Engineering Manager, Software Architect, Scrum Master, Program Manager

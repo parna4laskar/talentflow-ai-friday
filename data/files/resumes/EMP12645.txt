@@ -1,0 +1,35 @@
+ANIRUDH KULKARNI
+Senior DevOps Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP12645
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 5.4 years of experience, based in Gurugram. Strong in Docker, GCP, CI/CD and Linux Administration, with recent work in e-commerce. Interested in moving towards Platform Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 3.3y), GCP (Advanced, 3.8y), CI/CD (Proficient, 3.3y), Linux Administration (Proficient, 0.8y), Terraform (Proficient, 1.1y), Kubernetes (Working, 0.7y)
+- Software Engineering: Python (Proficient, 2.2y), Go (Working, 0.8y)
+- Delivery & Leadership: Communication (Proficient, 4.0y)
+- Data & AI: Machine Learning (Working, 1.3y)
+
+EXPERIENCE
+* E-commerce Cloud Landing Zone — a global online retailer (2026-01 to present)
+  Designed a cloud landing zone for a global online retailer in e-commerce using GCP, Communication, Python and Go, cutting cloud spend by 22%.
+* HR Tech Data-centre Exit To Cloud — an APAC HR software company (2025-01 to 2025-11)
+  Designed a data-centre exit to cloud for an APAC HR software company in HR tech using Go and Docker, cutting cloud spend by 30%.
+* Retail Banking Observability Stack — a fast-growing retail bank (2023-07 to 2024-11)
+  Designed an observability stack for a fast-growing retail bank in retail banking using Kubernetes, Communication, GCP and Python, accelerating releases by 12%.
+* E-commerce Observability Stack — a global online retailer (2022-10 to 2023-06)
+  Modernised an observability stack for a global online retailer in e-commerce using Machine Learning, CI/CD, Terraform and Go, accelerating releases by 40%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Backend Engineer

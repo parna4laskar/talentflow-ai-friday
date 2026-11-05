@@ -1,0 +1,31 @@
+DARRAGH WALSH
+QA Engineer | Quality Engineering | Dublin, Ireland
+Employee ID: EMP10590
+
+PROFESSIONAL SUMMARY
+QA Engineer with 3.2 years of experience, based in Dublin. Strong in Selenium, API Testing, Test Automation and CI/CD, with recent work in media streaming. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 1.2y), API Testing (Advanced, 0.6y), Test Automation (Proficient, 1.7y), Playwright (Working, 0.6y)
+- Cloud & DevOps: CI/CD (Working, 0.7y)
+- Software Engineering: Python (Working, 1.2y), Go (Working, 0.5y)
+
+EXPERIENCE
+* Media Streaming API Contract-testing Suite — an APAC streaming platform (2026-01 to present)
+  Automated an API contract-testing suite for an APAC streaming platform in media streaming using Playwright, Test Automation and Go, raising automated test coverage to 90%.
+* Public Sector API Contract-testing Suite — a global government agency (2024-09 to 2025-11)
+  Designed an API contract-testing suite for a global government agency in public sector using Python and CI/CD, raising automated test coverage to 80%.
+* Media Streaming API Contract-testing Suite — a global streaming platform (2023-10 to 2024-08)
+  Scaled an API contract-testing suite for a global streaming platform in media streaming using CI/CD, Go and Playwright, raising automated test coverage to 90%.
+* Media Streaming Performance Engineering Programme — a European streaming platform (2022-05 to 2023-07)
+  Designed a performance engineering programme for a European streaming platform in media streaming using Test Automation, CI/CD and API Testing, reducing production incidents by 18%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Irish, Spanish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Mobile Engineer, DevOps Engineer

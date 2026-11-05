@@ -1,0 +1,32 @@
+MEERA PILLAI
+Senior Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP11219
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.3 years of experience, based in Pune. Strong in React, Design Systems, JavaScript and TypeScript, with recent work in pharma R&D. Interested in moving towards UX Designer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Expert, 4.3y), JavaScript (Advanced, 4.4y), TypeScript (Proficient, 3.2y)
+- Product & Design: Design Systems (Expert, 3.9y)
+- Cloud & DevOps: CI/CD (Working, 1.7y)
+
+EXPERIENCE
+* Payments Customer Onboarding Platform — a European payments provider (2026-06 to present)
+  Designed a customer onboarding platform for a European payments provider in payments using Design Systems, CI/CD and JavaScript, reducing processing time by 18%.
+* Retail Banking Claims Processing Engine — an APAC retail bank (2025-11 to 2026-05)
+  Designed a claims processing engine for an APAC retail bank in retail banking using JavaScript, Design Systems and CI/CD, reducing processing time by 40%.
+* Pharma R&D Customer Onboarding Platform — a leading pharma company (2024-11 to 2025-08)
+  Led the delivery of a customer onboarding platform for a leading pharma company in pharma R&D using Design Systems, React and JavaScript, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: UX Designer, Full Stack Engineer

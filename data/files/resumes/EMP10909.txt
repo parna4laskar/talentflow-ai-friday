@@ -1,0 +1,28 @@
+GAURAV KRISHNAN
+Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10909
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.5 years of experience, based in Bengaluru. Strong in React, SQL, TypeScript and Node.js, with recent work in retail banking. Interested in moving towards Software Architect, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 2.4y), TypeScript (Proficient, 0.8y), Node.js (Proficient, 1.4y), GraphQL (Proficient, 1.7y), REST API Design (Proficient, 0.7y)
+- Data & AI: SQL (Advanced, 0.7y)
+- Cloud & DevOps: Docker (Proficient, 1.1y), AWS (Proficient, 0.5y), Kubernetes (Working, 0.8y)
+- Delivery & Leadership: Communication (Beginner, 0.5y)
+
+EXPERIENCE
+* Retail Banking Mobile Banking App — a tier-1 retail bank (2025-11 to present)
+  Designed a mobile banking app for a tier-1 retail bank in retail banking using Communication and AWS, lifting NPS by 18 points.
+* Retail Banking Mobile Banking App — a tier-1 retail bank (2024-04 to 2025-10)
+  Built a mobile banking app for a tier-1 retail bank in retail banking using TypeScript and REST API Design, improving conversion by 12%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Software Architect, AI Engineer, Mobile Engineer

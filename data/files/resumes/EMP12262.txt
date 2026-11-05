@@ -1,0 +1,35 @@
+CIAN O'SULLIVAN
+Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP12262
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.3 years of experience, based in Dublin. Strong in SQL, C#, REST API Design and Microservices, with recent work in insurance claims. Interested in moving towards Engineering Manager, Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.0y)
+- Software Engineering: C# (Proficient, 2.4y), REST API Design (Proficient, 2.3y), Microservices (Proficient, 1.5y), Spring Boot (Working, 2.0y)
+- Cloud & DevOps: Kubernetes (Proficient, 2.1y), Docker (Working, 1.4y), CI/CD (Working, 1.4y), AWS (Working, 1.1y), Linux Administration (Working, 1.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Order Management System — a leading insurer (2026-04 to present)
+  Re-architected an order management system for a leading insurer in insurance claims using CI/CD and AWS, reducing processing time by 40%.
+* Insurance Claims Order Management System — a fast-growing insurer (2025-07 to 2026-01)
+  Scaled an order management system for a fast-growing insurer in insurance claims using Linux Administration, C#, Docker and SQL, reducing processing time by 30%.
+* Insurance Claims Mobile Banking App — a leading insurer (2024-02 to 2025-05)
+  Scaled a mobile banking app for a leading insurer in insurance claims using AWS and Spring Boot, lifting NPS by 40 points.
+* Retail Banking Self-service Portal — a fast-growing retail bank (2023-03 to 2023-12)
+  Scaled a self-service portal for a fast-growing retail bank in retail banking using Docker and CI/CD, saving ~12K hours annually.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager, Full Stack Engineer, Software Architect

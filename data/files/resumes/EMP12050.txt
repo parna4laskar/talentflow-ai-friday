@@ -1,0 +1,35 @@
+HARSH CHATTERJEE
+Senior Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP12050
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.1 years of experience, based in Pune. Strong in TypeScript, JavaScript, Angular and Node.js, with recent work in HR tech. Interested in moving towards Mobile Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.4y), JavaScript (Advanced, 7.1y), Angular (Proficient, 5.8y), Node.js (Proficient, 6.1y)
+- Quality Engineering: Playwright (Proficient, 6.1y), API Testing (Proficient, 1.9y)
+- Cloud & DevOps: CI/CD (Proficient, 1.7y)
+- Product & Design: Figma (Working, 2.9y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — a European HR software company (2026-08 to present)
+  Migrated a self-service portal for a European HR software company in HR tech using API Testing, Angular and JavaScript, saving ~18K hours annually.
+* HR Tech Claims Processing Engine — a fast-growing HR software company (2025-01 to 2026-07)
+  Re-architected a claims processing engine for a fast-growing HR software company in HR tech using CI/CD, JavaScript, API Testing and Node.js, reducing processing time by 18%.
+* HR Tech Customer Onboarding Platform — a tier-1 HR software company (2023-11 to 2024-11)
+  Migrated a customer onboarding platform for a tier-1 HR software company in HR tech using JavaScript and TypeScript, improving conversion by 25%.
+* HR Tech Pricing Engine — a global HR software company (2023-01 to 2023-10)
+  Modernised a pricing engine for a global HR software company in HR tech using CI/CD, Node.js and Figma, improving conversion by 25%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer, UX Designer

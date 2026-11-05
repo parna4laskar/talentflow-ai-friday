@@ -1,0 +1,30 @@
+KARTHIK JADHAV
+Lead DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12937
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 15.3 years of experience, based in Pune. Strong in Observability, CI/CD, Docker and Kubernetes, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Expert, 12.2y), CI/CD (Advanced, 7.2y), Docker (Advanced, 9.8y), Kubernetes (Advanced, 8.1y), AWS (Advanced, 13.6y), Linux Administration (Proficient, 1.8y)
+- Data & AI: Generative AI (Proficient, 4.8y)
+
+EXPERIENCE
+* E-commerce Kubernetes Platform — a leading online retailer (2026-01 to present)
+  Scaled a Kubernetes platform for a leading online retailer in e-commerce using Kubernetes, Docker, Observability and Linux Administration, reducing production incidents by 12%.
+* HR Tech Observability Stack — a European HR software company (2025-03 to 2025-10)
+  Automated an observability stack for a European HR software company in HR tech using Generative AI, Linux Administration and CI/CD, reducing production incidents by 30%.
+* Pharma R&D Kubernetes Platform — a fast-growing pharma company (2024-07 to 2025-03)
+  Re-architected a Kubernetes platform for a fast-growing pharma company in pharma R&D using AWS, Linux Administration, Observability and Generative AI, accelerating releases by 40%.
+* Manufacturing IoT Data-centre Exit To Cloud — a fast-growing manufacturer (2023-03 to 2024-05)
+  Designed a data-centre exit to cloud for a fast-growing manufacturer in manufacturing IoT using Observability and Generative AI, delivering $3M in cost savings.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Backend Engineer

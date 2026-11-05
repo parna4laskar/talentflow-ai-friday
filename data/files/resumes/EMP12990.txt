@@ -1,0 +1,29 @@
+VIVEK SHEIKH
+Associate Cloud Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP12990
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0.6 years of experience, based in Gurugram. Strong in Terraform, Linux Administration, Azure and Cloud Security, with recent work in insurance claims. Interested in moving towards Cloud Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Proficient, 0.4y), Linux Administration (Proficient, 0.4y), Azure (Working, 0.3y)
+- Security: Cloud Security (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+- Software Engineering: Python (Beginner, 0.3y)
+- Quality Engineering: Playwright (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Cloud Landing Zone — a tier-1 energy company (2026-01 to present)
+  Modernised a cloud landing zone for a tier-1 energy company in energy trading using Azure, Python and Linux Administration, cutting cloud spend by 35%.
+* Insurance Claims Cloud Landing Zone — a fast-growing insurer (2025-07 to 2026-01)
+  Modernised a cloud landing zone for a fast-growing insurer in insurance claims using Playwright, Terraform and Azure, cutting cloud spend by 40%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer, Platform Engineer, Software Architect, DevOps Engineer

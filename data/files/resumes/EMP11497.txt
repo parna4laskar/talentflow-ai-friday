@@ -1,0 +1,34 @@
+CHRISTOPHER DAVIS
+Senior Data Engineer | Data & Analytics | Austin, United States
+Employee ID: EMP11497
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 8.8 years of experience, based in Austin. Strong in Python, Data Engineering, SQL and Airflow, with recent work in pharma R&D. Interested in moving towards Data Scientist roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 8.8y), Kafka (Proficient, 0.7y)
+- Data & AI: Data Engineering (Expert, 1.4y), SQL (Proficient, 5.5y), Airflow (Proficient, 5.0y), Data Governance (Proficient, 0.6y), dbt (Working, 2.7y)
+
+EXPERIENCE
+* Payments Data Lakehouse — a European payments provider (2025-08 to present)
+  Modernised a data lakehouse for a European payments provider in payments using Airflow, SQL, Python and Kafka, cutting cloud spend by 12%.
+* Pharma R&D Executive KPI Dashboard Suite — a leading pharma company (2024-04 to 2025-06)
+  Designed an executive KPI dashboard suite for a leading pharma company in pharma R&D using Data Governance, SQL, Kafka and Data Engineering, saving ~22K hours annually.
+* Pharma R&D Customer Churn Model — an APAC pharma company (2023-08 to 2024-02)
+  Led the delivery of a customer churn model for an APAC pharma company in pharma R&D using Airflow, SQL and Data Governance, improving conversion by 25%.
+* Pharma R&D Data Lakehouse — an APAC pharma company (2022-08 to 2023-07)
+  Designed a data lakehouse for an APAC pharma company in pharma R&D using Airflow, Kafka and dbt, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+- SnowPro Core (2022)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Scientist

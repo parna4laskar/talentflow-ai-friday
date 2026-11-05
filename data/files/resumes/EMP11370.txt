@@ -1,0 +1,28 @@
+YASH SHEIKH
+Associate DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11370
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.4 years of experience, based in Bengaluru. Strong in Kubernetes, Linux Administration, Docker and AWS, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, Backend Engineer roles and open to relocating to Austin, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 0.6y), Linux Administration (Advanced, 2.4y), Docker (Proficient, 0.4y), AWS (Proficient, 1.2y), CI/CD (Beginner, 0.4y)
+- Data & AI: Machine Learning (Proficient, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 1.3y)
+- Software Engineering: Go (Working, 0.9y), Python (Working, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Kubernetes Platform — a global pharma company (2026-10 to present)
+  Re-architected a Kubernetes platform for a global pharma company in pharma R&D using Linux Administration, Machine Learning and AWS, cutting cloud spend by 40%.
+* Pharma R&D Kubernetes Platform — a leading pharma company (2025-05 to 2026-09)
+  Automated a Kubernetes platform for a leading pharma company in pharma R&D using Linux Administration, CI/CD and Docker, accelerating releases by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, Backend Engineer

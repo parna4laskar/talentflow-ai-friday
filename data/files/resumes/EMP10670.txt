@@ -1,0 +1,30 @@
+NEHA MEHTA
+Senior ML Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP10670
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 10 years of experience, based in Bengaluru. Strong in Python, Machine Learning, MLOps and Deep Learning, with recent work in automotive. Interested in moving towards ML Engineer, Data Scientist roles and open to relocating to Austin, Kraków, Dublin.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 8.6y)
+- Data & AI: Machine Learning (Proficient, 1.3y), MLOps (Proficient, 6.9y), Deep Learning (Proficient, 5.4y), Computer Vision (Proficient, 1.1y), Vector Databases (Proficient, 6.5y), LLM Engineering (Working, 0.4y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.8y), AWS (Working, 0.6y)
+- Security: Cloud Security (Working, 2.4y)
+
+EXPERIENCE
+* HR Tech Knowledge Assistant (RAG) — a European HR software company (2025-07 to present)
+  Re-architected a knowledge assistant (RAG) for a European HR software company in HR tech using Kubernetes and Cloud Security, saving ~30K hours annually.
+* E-commerce Knowledge Assistant (RAG) — a US online retailer (2024-02 to 2025-06)
+  Migrated a knowledge assistant (RAG) for a US online retailer in e-commerce using Cloud Security and Vector Databases, lifting NPS by 30 points.
+* Media Streaming Agentic Customer-service Assistant — a leading streaming platform (2023-07 to 2024-01)
+  Migrated an agentic customer-service assistant for a leading streaming platform in media streaming using Python, LLM Engineering and Kubernetes, saving ~25K hours annually.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: ML Engineer, Data Scientist, AI Engineer, Platform Engineer

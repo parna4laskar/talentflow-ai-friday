@@ -1,0 +1,35 @@
+HARPREET KHAN
+Lead ML Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP10080
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 12.4 years of experience, based in Chennai. Strong in Python, Machine Learning, MLOps and Deep Learning, with recent work in retail banking. Interested in moving towards ML Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 9.6y)
+- Data & AI: Machine Learning (Advanced, 4.7y), MLOps (Advanced, 7.6y), Deep Learning (Advanced, 5.3y), Vector Databases (Advanced, 10.8y), NLP (Proficient, 1.4y), Databricks (Working, 1.0y)
+- Cloud & DevOps: Docker (Advanced, 7.0y), Platform Engineering (Proficient, 8.2y), Kubernetes (Working, 2.9y)
+- Delivery & Leadership: Mentoring (Proficient, 1.4y), Stakeholder Management (Proficient, 3.5y)
+
+EXPERIENCE
+* Telecom Billing Fraud Detection Model — a fast-growing telecom operator (2025-09 to present)
+  Designed a fraud detection model for a fast-growing telecom operator in telecom billing using NLP, MLOps, Machine Learning and Mentoring, improving model accuracy by 25%.
+* Retail Banking Recommendation Engine — an APAC retail bank (2025-02 to 2025-08)
+  Migrated a recommendation engine for an APAC retail bank in retail banking using NLP, Databricks, Docker and Vector Databases, improving model accuracy by 35%.
+* Retail Banking Agentic Customer-service Assistant — a global retail bank (2024-05 to 2024-11)
+  Migrated an agentic customer-service assistant for a global retail bank in retail banking using MLOps and Vector Databases, lifting NPS by 22 points.
+* Retail Banking Fraud Detection Model — a leading retail bank (2022-10 to 2024-04)
+  Migrated a fraud detection model for a leading retail bank in retail banking using Stakeholder Management and Docker, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: ML Engineer, Platform Engineer, Data Scientist

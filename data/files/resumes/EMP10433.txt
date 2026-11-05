@@ -1,0 +1,32 @@
+GEORGE THOMAS
+Product Manager | Product | London, United Kingdom
+Employee ID: EMP10433
+
+PROFESSIONAL SUMMARY
+Product Manager with 3.9 years of experience, based in London. Strong in Product Management, Stakeholder Management, Roadmapping and Generative AI, with recent work in insurance claims. Interested in moving towards Product Manager, UX Designer roles and open to relocating to New York, Austin, Toronto.
+
+CORE SKILLS
+- Product & Design: Product Management (Proficient, 1.9y), Roadmapping (Working, 1.1y), A/B Testing (Beginner, 1.0y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.3y), Agile/Scrum (Beginner, 0.3y)
+- Data & AI: Generative AI (Working, 0.8y), SQL (Working, 1.7y), Data Engineering (Beginner, 0.8y)
+
+EXPERIENCE
+* Healthcare B2B Analytics Product — an APAC hospital network (2026-08 to present)
+  Led discovery for a B2B analytics product for an APAC hospital network in healthcare using Generative AI and SQL, growing account revenue by 18%.
+* Retail Banking Mobile App Relaunch — a fast-growing retail bank (2025-10 to 2026-06)
+  Led discovery for a mobile app relaunch for a fast-growing retail bank in retail banking using Generative AI, SQL, Data Engineering and Product Management, lifting NPS by 12 points.
+* Pharma R&D AI-assisted Customer Journey — a European pharma company (2024-10 to 2025-09)
+  Defined the roadmap for an AI-assisted customer journey for a European pharma company in pharma R&D using Data Engineering and Agile/Scrum, improving conversion by 18%.
+
+CERTIFICATIONS
+- Pragmatic Institute PMC (2026)
+
+EDUCATION
+- BSc Economics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager, UX Designer, Scrum Master, Business Analyst

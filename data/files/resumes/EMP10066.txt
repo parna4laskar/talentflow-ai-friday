@@ -1,0 +1,29 @@
+PIOTR KOWALSKI
+Financial Analyst | Finance | Kraków, Poland
+Employee ID: EMP10066
+
+PROFESSIONAL SUMMARY
+Financial Analyst with 2.9 years of experience, based in Kraków. Strong in SAP FICO, Financial Modeling, Financial Analysis and FP&A, with recent work in manufacturing IoT. Interested in moving towards Financial Analyst, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Expert, 2.4y), Financial Modeling (Advanced, 2.4y), Financial Analysis (Proficient, 1.1y), FP&A (Proficient, 2.1y), Risk Management (Working, 0.7y)
+- Data & AI: Databricks (Working, 1.4y)
+
+EXPERIENCE
+* Manufacturing IoT Cost Transformation Programme — a leading manufacturer (2025-11 to present)
+  Owned a cost transformation programme for a leading manufacturer in manufacturing IoT using FP&A and Financial Modeling, delivering $3M in cost savings.
+* Payments Risk Control Framework — a tier-1 payments provider (2024-10 to 2025-09)
+  Built a risk control framework for a tier-1 payments provider in payments using Risk Management and FP&A, closing 35% of open audit findings.
+
+CERTIFICATIONS
+- CFA Level II (2024)
+
+EDUCATION
+- Chartered Accountant
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Financial Analyst, Business Analyst, Data Analyst

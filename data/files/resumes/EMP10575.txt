@@ -1,0 +1,31 @@
+RAJESH SUBRAMANIAN
+Principal Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP10575
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 17.9 years of experience, based in Bengaluru. Strong in Python, SQL, Data Engineering and dbt, with recent work in energy trading. Interested in moving towards Data Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 5.5y)
+- Data & AI: SQL (Advanced, 9.5y), Data Engineering (Advanced, 10.2y), dbt (Advanced, 15.7y), Snowflake (Advanced, 7.6y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 10.1y), Communication (Advanced, 16.6y), People Leadership (Advanced, 2.5y)
+
+EXPERIENCE
+* Energy Trading Customer Churn Model — a European energy company (2026-01 to present)
+  Led the delivery of a customer churn model for a European energy company in energy trading using SQL, dbt, Snowflake and Stakeholder Management, improving conversion by 35%.
+* Energy Trading Executive KPI Dashboard Suite — a fast-growing energy company (2025-03 to 2025-10)
+  Scaled an executive KPI dashboard suite for a fast-growing energy company in energy trading using Data Engineering and SQL, improving forecast accuracy by 12%.
+* Public Sector Data Lakehouse — a US government agency (2024-05 to 2025-03)
+  Migrated a data lakehouse for a US government agency in public sector using Communication, Snowflake, Data Engineering and SQL, reducing processing time by 12%.
+* Wealth Management Data Lakehouse — a leading wealth manager (2023-06 to 2024-02)
+  Designed a data lakehouse for a leading wealth manager in wealth management using SQL, Stakeholder Management, Data Engineering and Communication, cutting cloud spend by 12%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer, ML Engineer, Data Scientist, Backend Engineer

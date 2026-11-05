@@ -1,0 +1,33 @@
+FARHAN MARTINEZ
+Senior ML Engineer | AI Center of Excellence | Gurugram, India
+Employee ID: EMP11153
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 6.2 years of experience, based in Gurugram. Strong in Python, Deep Learning, AWS and Machine Learning, with recent work in pharma R&D. Interested in moving towards ML Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.6y)
+- Data & AI: Deep Learning (Advanced, 2.5y), Machine Learning (Proficient, 2.6y), MLOps (Proficient, 1.5y), Vector Databases (Proficient, 1.3y)
+- Cloud & DevOps: AWS (Advanced, 5.7y)
+- Delivery & Leadership: Communication (Working, 1.5y)
+
+EXPERIENCE
+* Pharma R&D Recommendation Engine — a European pharma company (2026-02 to present)
+  Built a recommendation engine for a European pharma company in pharma R&D using Deep Learning, MLOps, Machine Learning and AWS, improving model accuracy by 18%.
+* Pharma R&D Knowledge Assistant (RAG) — an APAC pharma company (2025-09 to 2026-02)
+  Re-architected a knowledge assistant (RAG) for an APAC pharma company in pharma R&D using AWS, Deep Learning, Vector Databases and Machine Learning, saving ~25K hours annually.
+* Pharma R&D Recommendation Engine — a leading pharma company (2024-01 to 2025-06)
+  Automated a recommendation engine for a leading pharma company in pharma R&D using Deep Learning, Python, Vector Databases and Communication, improving model accuracy by 25%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2021)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: ML Engineer, DevOps Engineer, AI Engineer, Data Scientist

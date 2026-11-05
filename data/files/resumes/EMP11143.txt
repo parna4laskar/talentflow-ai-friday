@@ -1,0 +1,31 @@
+JESSICA MARTINEZ
+Associate Data Analyst | Data & Analytics | Austin, United States
+Employee ID: EMP11143
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 1.9 years of experience, based in Austin. Strong in Power BI, A/B Testing, Snowflake and Business Analysis, with recent work in airline operations. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Power BI (Advanced, 0.6y), Snowflake (Proficient, 0.6y), Data Visualization (Working, 0.4y), SQL (Beginner, 0.4y), Tableau (Beginner, 0.3y), Data Engineering (Beginner, 0.3y)
+- Product & Design: A/B Testing (Proficient, 1.4y)
+- Business & Finance: Business Analysis (Proficient, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 0.8y)
+
+EXPERIENCE
+* Energy Trading Customer Churn Model — a tier-1 energy company (2026-01 to present)
+  Modernised a customer churn model for a tier-1 energy company in energy trading using A/B Testing, Power BI, Tableau and SQL, improving model accuracy by 35%.
+* Pharma R&D Real-time Analytics Pipeline — a leading pharma company (2024-09 to 2025-12)
+  Led the delivery of a real-time analytics pipeline for a leading pharma company in pharma R&D using Tableau, Data Visualization, SQL and Data Engineering, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2026)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, Product Manager

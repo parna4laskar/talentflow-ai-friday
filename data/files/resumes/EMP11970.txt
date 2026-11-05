@@ -1,0 +1,29 @@
+LEAH TREMBLAY
+Data Scientist | Data & Analytics | Toronto, Canada
+Employee ID: EMP11970
+
+PROFESSIONAL SUMMARY
+Data Scientist with 4.8 years of experience, based in Toronto. Strong in Machine Learning, SQL, Python and Statistics, with recent work in airline operations. Interested in moving towards ML Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Expert, 4.8y), SQL (Advanced, 3.0y), Statistics (Proficient, 1.7y), Apache Spark (Proficient, 3.5y), NLP (Proficient, 1.3y), Generative AI (Proficient, 3.0y), MLOps (Proficient, 0.5y), Deep Learning (Working, 1.7y)
+- Software Engineering: Python (Proficient, 2.7y)
+- Cloud & DevOps: FinOps (Beginner, 0.9y)
+
+EXPERIENCE
+* Airline Operations Executive KPI Dashboard Suite — a US airline (2025-11 to present)
+  Modernised an executive KPI dashboard suite for a US airline in airline operations using NLP, Generative AI, Statistics and Python, saving ~30K hours annually.
+* Airline Operations Executive KPI Dashboard Suite — a European airline (2025-02 to 2025-08)
+  Modernised an executive KPI dashboard suite for a European airline in airline operations using MLOps and Apache Spark, improving forecast accuracy by 22%.
+* Airline Operations Customer Churn Model — a European airline (2024-05 to 2025-02)
+  Designed a customer churn model for a European airline in airline operations using Generative AI, Python and MLOps, improving model accuracy by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, Data Analyst, Product Manager

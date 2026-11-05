@@ -1,0 +1,29 @@
+ARJUN DAVIS
+AI Engineer | AI Center of Excellence | New York, United States
+Employee ID: EMP10322
+
+PROFESSIONAL SUMMARY
+AI Engineer with 4.8 years of experience, based in New York. Strong in Python, Azure, REST API Design and NLP, with recent work in airline operations. Interested in moving towards ML Engineer, Data Scientist roles and open to relocating to London, Pune, Dublin.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 2.2y), REST API Design (Advanced, 0.8y)
+- Cloud & DevOps: Azure (Advanced, 4.1y), Docker (Proficient, 2.6y)
+- Data & AI: NLP (Advanced, 3.3y), LLM Engineering (Proficient, 1.6y), Generative AI (Working, 1.0y), Vector Databases (Beginner, 1.2y)
+
+EXPERIENCE
+* Airline Operations Knowledge Assistant (RAG) — a tier-1 airline (2025-07 to present)
+  Designed a knowledge assistant (RAG) for a tier-1 airline in airline operations using Generative AI, Azure, NLP and Vector Databases, saving ~18K hours annually.
+* Airline Operations Recommendation Engine — a European airline (2023-12 to 2025-06)
+  Led the delivery of a recommendation engine for a European airline in airline operations using REST API Design, Python and LLM Engineering, improving conversion by 22%.
+* Insurance Claims Knowledge Assistant (RAG) — an APAC insurer (2022-11 to 2023-11)
+  Led the delivery of a knowledge assistant (RAG) for an APAC insurer in insurance claims using Vector Databases, Azure and Python, lifting NPS by 12 points.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: ML Engineer, Data Scientist

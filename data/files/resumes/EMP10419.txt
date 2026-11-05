@@ -1,0 +1,31 @@
+IMRAN MALHOTRA
+Associate Security Engineer | Cyber Security | Bengaluru, India
+Employee ID: EMP10419
+
+PROFESSIONAL SUMMARY
+Associate Security Engineer with 1.8 years of experience, based in Bengaluru. Strong in Application Security, Python, Threat Modeling and Cloud Security, with recent work in pharma R&D. Interested in moving towards Security Analyst roles.
+
+CORE SKILLS
+- Security: Application Security (Proficient, 1.1y), Threat Modeling (Working, 0.5y), Cloud Security (Working, 0.7y), Incident Response (Working, 0.8y), SIEM (Working, 0.7y)
+- Software Engineering: Python (Proficient, 0.5y)
+- Cloud & DevOps: AWS (Working, 0.7y), FinOps (Working, 0.7y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+
+EXPERIENCE
+* Pharma R&D Cloud Security Posture Programme — a global pharma company (2026-04 to present)
+  Designed a cloud security posture programme for a global pharma company in pharma R&D using AWS and Threat Modeling, reducing production incidents by 40%.
+* Pharma R&D Security Operations Centre Uplift — a European pharma company (2025-06 to 2026-02)
+  Scaled a security operations centre uplift for a European pharma company in pharma R&D using Application Security, Cloud Security, Threat Modeling and Python, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- CISSP (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Security Analyst

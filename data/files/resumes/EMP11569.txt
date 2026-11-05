@@ -1,0 +1,33 @@
+OMKAR MALHOTRA
+Senior Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11569
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.8 years of experience, based in Hyderabad. Strong in TypeScript, JavaScript, React and Playwright, with recent work in supply-chain logistics. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.3y), JavaScript (Advanced, 4.0y), React (Advanced, 6.4y), Node.js (Proficient, 1.6y)
+- Quality Engineering: Playwright (Advanced, 6.2y), Selenium (Proficient, 2.3y)
+- Product & Design: Figma (Proficient, 4.2y), UI Design (Working, 1.7y)
+- Cloud & DevOps: CI/CD (Proficient, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 1.2y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a global logistics company (2025-10 to present)
+  Migrated a payments microservices platform for a global logistics company in supply-chain logistics using Node.js, JavaScript and React, accelerating releases by 22%.
+* Supply-chain Logistics Claims Processing Engine — a fast-growing logistics company (2025-02 to 2025-08)
+  Migrated a claims processing engine for a fast-growing logistics company in supply-chain logistics using Figma and Playwright, reducing processing time by 18%.
+* Telecom Billing Self-service Portal — a global telecom operator (2024-07 to 2025-01)
+  Modernised a self-service portal for a global telecom operator in telecom billing using TypeScript and CI/CD, saving ~12K hours annually.
+* Supply-chain Logistics Customer Onboarding Platform — a tier-1 logistics company (2023-03 to 2024-06)
+  Built a customer onboarding platform for a tier-1 logistics company in supply-chain logistics using CI/CD, Communication and Node.js, improving conversion by 40%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer, QA Engineer, Full Stack Engineer

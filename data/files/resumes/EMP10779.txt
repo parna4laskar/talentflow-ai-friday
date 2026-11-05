@@ -1,0 +1,33 @@
+ABHISHEK JADHAV
+Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10779
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 3.4 years of experience, based in Bengaluru. Strong in AWS, Linux Administration, Kubernetes and Cloud Security, with recent work in wealth management. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Proficient, 1.0y), Linux Administration (Proficient, 2.3y), Kubernetes (Proficient, 2.0y), Terraform (Working, 1.3y), FinOps (Working, 0.5y), CI/CD (Working, 0.6y), Platform Engineering (Beginner, 0.4y)
+- Security: Cloud Security (Proficient, 2.5y)
+- Delivery & Leadership: Communication (Proficient, 1.2y)
+
+EXPERIENCE
+* HR Tech Data-centre Exit To Cloud — a US HR software company (2026-11 to present)
+  Modernised a data-centre exit to cloud for a US HR software company in HR tech using Communication and AWS, delivering $4M in cost savings.
+* Wealth Management Kubernetes Platform — a US wealth manager (2026-02 to 2026-09)
+  Built a Kubernetes platform for a US wealth manager in wealth management using CI/CD, Cloud Security and AWS, reducing production incidents by 30%.
+* Wealth Management Cloud Landing Zone — a tier-1 wealth manager (2025-02 to 2025-12)
+  Re-architected a cloud landing zone for a tier-1 wealth manager in wealth management using Linux Administration, AWS, Platform Engineering and Cloud Security, accelerating releases by 12%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+- Azure Administrator Associate (2025)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer

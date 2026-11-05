@@ -1,0 +1,35 @@
+AARAV PATIL
+Principal Data Scientist | Data & Analytics | Gurugram, India
+Employee ID: EMP12224
+
+PROFESSIONAL SUMMARY
+Principal Data Scientist with 14.1 years of experience, based in Gurugram. Strong in Python, MLOps, Machine Learning and Statistics, with recent work in automotive. Interested in moving towards Data Analyst, Product Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 8.9y)
+- Data & AI: MLOps (Expert, 1.9y), Machine Learning (Advanced, 6.2y), Statistics (Advanced, 12.2y), SQL (Advanced, 12.4y), Data Visualization (Advanced, 4.1y), Agentic AI (Advanced, 9.8y), Generative AI (Proficient, 3.6y), Deep Learning (Proficient, 3.3y)
+- Product & Design: A/B Testing (Advanced, 0.5y)
+- Delivery & Leadership: Mentoring (Advanced, 4.4y), People Leadership (Proficient, 4.6y)
+
+EXPERIENCE
+* Automotive Real-time Analytics Pipeline — a European car maker (2025-08 to present)
+  Led the delivery of a real-time analytics pipeline for a European car maker in automotive using SQL, A/B Testing, MLOps and Machine Learning, reducing processing time by 22%.
+* Wealth Management Data Lakehouse — a tier-1 wealth manager (2024-07 to 2025-07)
+  Modernised a data lakehouse for a tier-1 wealth manager in wealth management using A/B Testing, Statistics, MLOps and Mentoring, cutting cloud spend by 18%.
+* Automotive Regulatory Reporting Suite — a tier-1 car maker (2023-07 to 2024-07)
+  Modernised a regulatory reporting suite for a tier-1 car maker in automotive using MLOps, A/B Testing, SQL and Mentoring, reducing processing time by 12%.
+* Automotive Regulatory Reporting Suite — a leading car maker (2022-02 to 2023-05)
+  Built a regulatory reporting suite for a leading car maker in automotive using SQL, Mentoring and Agentic AI, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2021)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst, Product Manager

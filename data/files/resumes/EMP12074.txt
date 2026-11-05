@@ -1,0 +1,35 @@
+XIN YI WONG
+Principal Business Analyst | Business Consulting | Singapore, Singapore
+Employee ID: EMP12074
+
+PROFESSIONAL SUMMARY
+Principal Business Analyst with 25 years of experience, based in Singapore. Strong in Stakeholder Management, Business Analysis, SQL and Power BI, with recent work in manufacturing IoT. Interested in moving towards Data Analyst, Account Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 14.6y), People Leadership (Expert, 6.6y), Communication (Advanced, 24.7y)
+- Business & Finance: Business Analysis (Advanced, 15.1y), Requirements Gathering (Proficient, 2.5y)
+- Data & AI: SQL (Advanced, 15.8y), Power BI (Advanced, 16.9y), Data Engineering (Working, 11.5y)
+
+EXPERIENCE
+* HR Tech Agile Transformation — a US HR software company (2026-02 to present)
+  Ran an agile transformation for a US HR software company in HR tech using Communication, Requirements Gathering, Business Analysis and SQL, accelerating releases by 25%.
+* Retail Banking Core Banking Transformation Programme — a tier-1 retail bank (2024-10 to 2025-12)
+  Led a core banking transformation programme for a tier-1 retail bank in retail banking using Data Engineering, SQL, Stakeholder Management and Communication, delivering $5M in cost savings.
+* Manufacturing IoT Requirements and UAT for a CRM Rollout — a US manufacturer (2023-03 to 2024-07)
+  Ran a requirements and UAT for a CRM rollout for a US manufacturer in manufacturing IoT using SQL, Requirements Gathering, Data Engineering and Communication, delivering on time across 3 workstreams.
+* Manufacturing IoT Core Banking Transformation Programme — a US manufacturer (2021-07 to 2023-01)
+  Coordinated a core banking transformation programme for a US manufacturer in manufacturing IoT using Data Engineering, Stakeholder Management and Power BI, delivering $3M in cost savings.
+
+CERTIFICATIONS
+- CBAP (2021)
+- PMI-PBA (2024)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, Account Manager

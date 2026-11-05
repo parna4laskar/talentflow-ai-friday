@@ -1,0 +1,30 @@
+SNEHA BOSE
+Lead DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12313
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 9.7 years of experience, based in Bengaluru. Strong in AWS, Linux Administration, Stakeholder Management and CI/CD, with recent work in airline operations. Interested in moving towards Platform Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 3.9y), Linux Administration (Advanced, 6.3y), CI/CD (Proficient, 6.9y), Docker (Proficient, 5.1y), Kubernetes (Proficient, 1.3y), Terraform (Proficient, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 7.7y)
+- Software Engineering: Python (Proficient, 0.6y), Go (Working, 2.6y)
+- Data & AI: Databricks (Proficient, 1.5y)
+
+EXPERIENCE
+* Airline Operations Cloud Landing Zone — a tier-1 airline (2025-10 to present)
+  Built a cloud landing zone for a tier-1 airline in airline operations using Docker, CI/CD and Kubernetes, cutting cloud spend by 22%.
+* Airline Operations Kubernetes Platform — a US airline (2024-12 to 2025-10)
+  Modernised a Kubernetes platform for a US airline in airline operations using CI/CD and Go, reducing production incidents by 12%.
+* Airline Operations Data-centre Exit To Cloud — a leading airline (2023-08 to 2024-11)
+  Automated a data-centre exit to cloud for a leading airline in airline operations using Docker, Terraform and Stakeholder Management, cutting cloud spend by 35%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Platform Engineer, Cloud Engineer

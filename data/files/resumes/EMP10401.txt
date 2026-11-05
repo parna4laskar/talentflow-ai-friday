@@ -1,0 +1,32 @@
+RAJESH SHEIKH
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10401
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 7.2 years of experience, based in Pune. Strong in REST API Design, SQL, Kubernetes and Terraform, with recent work in telecom billing. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 2.4y), Java (Proficient, 2.1y), Microservices (Proficient, 2.0y), Spring Boot (Working, 0.8y)
+- Data & AI: SQL (Advanced, 3.2y)
+- Cloud & DevOps: Kubernetes (Advanced, 2.2y), Terraform (Advanced, 1.6y), AWS (Proficient, 2.6y), CI/CD (Proficient, 1.0y)
+- Quality Engineering: Playwright (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a European online retailer (2026-01 to present)
+  Scaled a mobile banking app for a European online retailer in e-commerce using CI/CD, AWS, Terraform and Spring Boot, improving conversion by 25%.
+* Telecom Billing Payments Microservices Platform — a US telecom operator (2025-02 to 2026-01)
+  Designed a payments microservices platform for a US telecom operator in telecom billing using Terraform, Microservices, Playwright and Kubernetes, reducing processing time by 40%.
+* Telecom Billing Customer Onboarding Platform — a European telecom operator (2023-12 to 2024-12)
+  Migrated a customer onboarding platform for a European telecom operator in telecom billing using Spring Boot, Microservices and Kubernetes, reducing processing time by 35%.
+* Telecom Billing Self-service Portal — an APAC telecom operator (2023-03 to 2023-10)
+  Migrated a self-service portal for an APAC telecom operator in telecom billing using AWS and REST API Design, saving ~30K hours annually.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Engineering Manager, Software Architect, AI Engineer

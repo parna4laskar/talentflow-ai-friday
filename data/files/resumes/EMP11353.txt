@@ -1,0 +1,29 @@
+EOIN O'BRIEN
+Associate Cloud Engineer | Cloud & Infrastructure | Dublin, Ireland
+Employee ID: EMP11353
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2 years of experience, based in Dublin. Strong in AWS, Terraform, FinOps and CI/CD, with recent work in manufacturing IoT. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 1.9y), Terraform (Proficient, 1.0y), FinOps (Proficient, 1.5y), CI/CD (Working, 1.0y), Platform Engineering (Working, 0.7y), Azure (Working, 0.9y), Linux Administration (Beginner, 0.5y)
+- Security: Cloud Security (Beginner, 0.4y)
+
+EXPERIENCE
+* Energy Trading Cloud Landing Zone — a European energy company (2025-09 to present)
+  Led the delivery of a cloud landing zone for a European energy company in energy trading using FinOps, AWS and Linux Administration, cutting cloud spend by 40%.
+* HR Tech Observability Stack — a US HR software company (2025-03 to 2025-08)
+  Built an observability stack for a US HR software company in HR tech using Cloud Security, Platform Engineering and CI/CD, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Platform Engineer

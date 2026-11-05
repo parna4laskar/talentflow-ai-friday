@@ -1,0 +1,33 @@
+RITESH SHARMA
+QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP11309
+
+PROFESSIONAL SUMMARY
+QA Engineer with 4.6 years of experience, based in Pune. Strong in Performance Testing, Test Automation, Playwright and API Testing, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Performance Testing (Advanced, 2.1y), Test Automation (Proficient, 0.5y), Playwright (Proficient, 2.6y), API Testing (Proficient, 0.4y)
+- Software Engineering: Python (Proficient, 1.6y)
+- Cloud & DevOps: CI/CD (Proficient, 3.3y)
+- Data & AI: SQL (Working, 1.0y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Test Automation Framework — a European manufacturer (2025-11 to present)
+  Built a test automation framework for a European manufacturer in manufacturing IoT using Test Automation and Python, raising automated test coverage to 80%.
+* E-commerce Performance Engineering Programme — a global online retailer (2025-04 to 2025-09)
+  Migrated a performance engineering programme for a global online retailer in e-commerce using Playwright, API Testing, SQL and Test Automation, accelerating releases by 25%.
+* Supply-chain Logistics Performance Engineering Programme — a global logistics company (2023-10 to 2025-03)
+  Automated a performance engineering programme for a global logistics company in supply-chain logistics using API Testing, Communication, CI/CD and Python, reducing production incidents by 18%.
+* Manufacturing IoT Test Automation Framework — a tier-1 manufacturer (2022-08 to 2023-08)
+  Migrated a test automation framework for a tier-1 manufacturer in manufacturing IoT using Python and CI/CD, accelerating releases by 40%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer, DevOps Engineer

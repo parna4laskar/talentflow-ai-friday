@@ -1,0 +1,35 @@
+NIKHIL IYER
+Senior Business Analyst | Business Consulting | Bengaluru, India
+Employee ID: EMP10579
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 9.6 years of experience, based in Bengaluru. Strong in Business Analysis, Stakeholder Management, Requirements Gathering and SQL, with recent work in HR tech. Interested in moving towards Account Manager, Product Manager roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 2.7y), Requirements Gathering (Proficient, 2.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.2y), Communication (Working, 2.4y), Agile/Scrum (Working, 2.8y)
+- Data & AI: SQL (Proficient, 4.5y), Power BI (Proficient, 0.8y)
+- Quality Engineering: Playwright (Proficient, 6.1y)
+
+EXPERIENCE
+* HR Tech Cloud Migration Programme — a European HR software company (2025-11 to present)
+  Delivered a cloud migration programme for a European HR software company in HR tech using Power BI, SQL, Communication and Playwright, cutting cloud spend by 18%.
+* HR Tech Core Banking Transformation Programme — a European HR software company (2024-12 to 2025-09)
+  Delivered a core banking transformation programme for a European HR software company in HR tech using SQL, Playwright and Requirements Gathering, delivering $2M in cost savings.
+* Healthcare Requirements and UAT for a CRM Rollout — a fast-growing hospital network (2024-04 to 2024-09)
+  Delivered a requirements and UAT for a CRM rollout for a fast-growing hospital network in healthcare using Stakeholder Management and Requirements Gathering, delivering on time across 8 workstreams.
+* Media Streaming Cloud Migration Programme — a global streaming platform (2023-08 to 2024-03)
+  Delivered a cloud migration programme for a global streaming platform in media streaming using Stakeholder Management, Communication and Playwright, delivering on time across 5 workstreams.
+
+CERTIFICATIONS
+- CBAP (2021)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Account Manager, Product Manager

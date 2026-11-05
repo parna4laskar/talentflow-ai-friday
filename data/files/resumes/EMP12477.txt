@@ -1,0 +1,31 @@
+PALLAVI MALHOTRA
+Associate QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP12477
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 1.8 years of experience, based in Bengaluru. Strong in Test Automation, Playwright, API Testing and Java, with recent work in wealth management. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 1.2y), Playwright (Proficient, 1.2y), API Testing (Working, 0.4y)
+- Software Engineering: Java (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+- Data & AI: SQL (Beginner, 0.4y), dbt (Beginner, 0.4y)
+
+EXPERIENCE
+* Healthcare Test Automation Framework — a leading hospital network (2026-01 to present)
+  Led the delivery of a test automation framework for a leading hospital network in healthcare using Test Automation, SQL and Java, accelerating releases by 12%.
+* Pharma R&D API Contract-testing Suite — a leading pharma company (2024-10 to 2025-11)
+  Automated an API contract-testing suite for a leading pharma company in pharma R&D using Java, SQL, API Testing and Test Automation, raising automated test coverage to 90%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2025)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer

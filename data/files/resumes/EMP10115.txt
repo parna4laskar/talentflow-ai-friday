@@ -1,0 +1,28 @@
+NEHA JADHAV
+Lead Engineering Manager | Engineering | Hyderabad, India
+Employee ID: EMP10115
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 13 years of experience, based in Hyderabad. Strong in Stakeholder Management, Mentoring, People Leadership and System Design, with recent work in retail banking. Interested in moving towards Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 11.4y), Mentoring (Advanced, 11.6y), People Leadership (Proficient, 4.0y), Agile/Scrum (Proficient, 6.8y)
+- Software Engineering: System Design (Proficient, 7.3y), Microservices (Proficient, 8.6y), Java (Proficient, 0.5y), Python (Proficient, 9.1y)
+
+EXPERIENCE
+* Retail Banking Self-service Portal — a global retail bank (2026-02 to present)
+  Scaled a self-service portal for a global retail bank in retail banking using People Leadership, Agile/Scrum and Java, lifting NPS by 35 points.
+* Retail Banking Customer Onboarding Platform — a global retail bank (2024-06 to 2025-12)
+  Designed a customer onboarding platform for a global retail bank in retail banking using Mentoring, Microservices and Stakeholder Management, improving conversion by 35%.
+* Automotive Mobile Banking App — a European car maker (2023-03 to 2024-05)
+  Re-architected a mobile banking app for a European car maker in automotive using Java, Mentoring and People Leadership, improving conversion by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Scrum Master

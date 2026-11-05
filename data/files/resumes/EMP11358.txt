@@ -1,0 +1,28 @@
+ANIRUDH NGUYEN
+Associate Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP11358
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 2.7 years of experience, based in Bengaluru. Strong in Python, Machine Learning, Statistics and SQL, with recent work in supply-chain logistics. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 2.0y)
+- Data & AI: Machine Learning (Proficient, 1.8y), Statistics (Proficient, 1.7y), SQL (Proficient, 1.2y), NLP (Proficient, 0.7y), MLOps (Proficient, 0.7y), Deep Learning (Working, 0.4y), Apache Spark (Beginner, 0.3y)
+- Product & Design: A/B Testing (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.6y)
+
+EXPERIENCE
+* Pharma R&D Data Lakehouse — a leading pharma company (2026-07 to present)
+  Scaled a data lakehouse for a leading pharma company in pharma R&D using Python and Communication, cutting cloud spend by 35%.
+* Retail Banking Regulatory Reporting Suite — a European retail bank (2025-08 to 2026-06)
+  Migrated a regulatory reporting suite for a European retail bank in retail banking using Machine Learning and A/B Testing, saving ~30K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, AI Engineer

@@ -1,0 +1,29 @@
+FARHAN CHATTERJEE
+DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12190
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 5.3 years of experience, based in Hyderabad. Strong in Terraform, Observability, CI/CD and Docker, with recent work in manufacturing IoT. Interested in moving towards Platform Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Proficient, 1.2y), Observability (Proficient, 1.9y), CI/CD (Working, 0.3y), Docker (Working, 1.7y), Kubernetes (Working, 0.8y), GCP (Working, 2.5y), Linux Administration (Working, 2.1y)
+- Software Engineering: Python (Working, 1.8y)
+- Delivery & Leadership: Communication (Working, 1.2y)
+
+EXPERIENCE
+* Healthcare Observability Stack — a European hospital network (2026-05 to present)
+  Led the delivery of an observability stack for a European hospital network in healthcare using Python and CI/CD, reducing production incidents by 22%.
+* Wealth Management Data-centre Exit To Cloud — an APAC wealth manager (2025-06 to 2026-03)
+  Migrated a data-centre exit to cloud for an APAC wealth manager in wealth management using CI/CD and GCP, cutting cloud spend by 12%.
+* Automotive Cloud Landing Zone — a US car maker (2023-10 to 2025-03)
+  Built a cloud landing zone for a US car maker in automotive using Kubernetes, Python, Docker and GCP, cutting cloud spend by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Platform Engineer, Site Reliability Engineer, Cloud Engineer

@@ -1,0 +1,28 @@
+JESSICA GARCIA
+Senior ML Engineer | AI Center of Excellence | New York, United States
+Employee ID: EMP11297
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 7.4 years of experience, based in New York. Strong in Machine Learning, MLOps, Deep Learning and Databricks, with recent work in automotive. Interested in moving towards ML Engineer, AI Engineer roles and open to relocating to Dublin, Chennai, Austin.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 3.2y), MLOps (Advanced, 3.1y), Deep Learning (Advanced, 4.4y), Databricks (Advanced, 2.0y), Vector Databases (Advanced, 1.6y), Computer Vision (Proficient, 0.4y), Agentic AI (Working, 2.7y)
+- Software Engineering: Python (Proficient, 2.2y)
+
+EXPERIENCE
+* Automotive Fraud Detection Model — a tier-1 car maker (2026-01 to present)
+  Re-architected a fraud detection model for a tier-1 car maker in automotive using Computer Vision and Machine Learning, reducing processing time by 25%.
+* Automotive Document Intelligence Pipeline — a fast-growing car maker (2024-10 to 2025-12)
+  Automated a document intelligence pipeline for a fast-growing car maker in automotive using Python and Computer Vision, reducing processing time by 22%.
+* Automotive Fraud Detection Model — a European car maker (2023-01 to 2024-07)
+  Built a fraud detection model for a European car maker in automotive using Computer Vision, Python and Vector Databases, improving model accuracy by 18%.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: ML Engineer, AI Engineer

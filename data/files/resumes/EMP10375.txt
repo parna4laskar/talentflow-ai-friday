@@ -1,0 +1,27 @@
+SIDDHARTH JADHAV
+Associate Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10375
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 0.8 years of experience, based in Hyderabad. Strong in TypeScript, Node.js, SQL and React, with recent work in airline operations. Interested in moving towards Full Stack Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.5y), Node.js (Proficient, 0.6y), React (Working, 0.3y), REST API Design (Working, 0.3y), Next.js (Working, 0.4y)
+- Data & AI: SQL (Proficient, 0.6y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Healthcare Customer Onboarding Platform — a fast-growing hospital network (2026-01 to present)
+  Designed a customer onboarding platform for a fast-growing hospital network in healthcare using TypeScript, React and Node.js, improving conversion by 35%.
+* Airline Operations Pricing Engine — a fast-growing airline (2024-06 to 2025-11)
+  Led the delivery of a pricing engine for a fast-growing airline in airline operations using React, Next.js, SQL and Communication, improving conversion by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, AI Engineer, Frontend Engineer, Backend Engineer

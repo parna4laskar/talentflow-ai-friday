@@ -1,0 +1,33 @@
+MATTHEW JOHNSON
+Senior Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP12546
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 7.7 years of experience, based in New York. Strong in Airflow, SQL, Python and Data Engineering, with recent work in media streaming. Interested in moving towards AI Engineer roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Data & AI: Airflow (Advanced, 1.5y), SQL (Proficient, 3.8y), Data Engineering (Proficient, 1.6y), dbt (Proficient, 2.8y), Data Governance (Beginner, 0.8y)
+- Software Engineering: Python (Proficient, 3.1y)
+
+EXPERIENCE
+* Media Streaming Customer Churn Model — a US streaming platform (2025-11 to present)
+  Designed a customer churn model for a US streaming platform in media streaming using Airflow and SQL, improving model accuracy by 12%.
+* Telecom Billing Real-time Analytics Pipeline — a fast-growing telecom operator (2024-04 to 2025-10)
+  Scaled a real-time analytics pipeline for a fast-growing telecom operator in telecom billing using Data Governance, Data Engineering and dbt, reducing processing time by 35%.
+* Media Streaming Regulatory Reporting Suite — a leading streaming platform (2022-12 to 2024-02)
+  Migrated a regulatory reporting suite for a leading streaming platform in media streaming using dbt, Airflow and Python, reducing processing time by 18%.
+* Insurance Claims Customer Churn Model — a leading insurer (2022-04 to 2022-11)
+  Led the delivery of a customer churn model for a leading insurer in insurance claims using Python and SQL, improving conversion by 18%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2024)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer

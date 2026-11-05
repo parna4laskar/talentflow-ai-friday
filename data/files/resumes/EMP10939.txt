@@ -1,0 +1,32 @@
+JESSICA CHEN
+Lead QA Engineer | Quality Engineering | Austin, United States
+Employee ID: EMP10939
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 15.4 years of experience, based in Austin. Strong in API Testing, Test Automation, Playwright and SQL, with recent work in pharma R&D. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 12.1y), Test Automation (Advanced, 13.2y), Playwright (Advanced, 14.9y)
+- Data & AI: SQL (Advanced, 10.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.0y), People Leadership (Advanced, 3.2y), Agile/Scrum (Proficient, 5.3y), Mentoring (Proficient, 9.1y), Communication (Proficient, 4.8y)
+
+EXPERIENCE
+* Telecom Billing API Contract-testing Suite — a fast-growing telecom operator (2026-03 to present)
+  Modernised an API contract-testing suite for a fast-growing telecom operator in telecom billing using API Testing, Playwright, Mentoring and Stakeholder Management, reducing production incidents by 35%.
+* Healthcare API Contract-testing Suite — a European hospital network (2025-05 to 2026-01)
+  Led the delivery of an API contract-testing suite for a European hospital network in healthcare using Communication, Stakeholder Management, SQL and Mentoring, reducing production incidents by 18%.
+* Payments API Contract-testing Suite — a tier-1 payments provider (2024-09 to 2025-03)
+  Re-architected an API contract-testing suite for a tier-1 payments provider in payments using Communication, Test Automation and API Testing, reducing production incidents by 40%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2026)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Engineering Manager

@@ -1,0 +1,30 @@
+EMMA NGUYEN
+Principal Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP11247
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 13.8 years of experience, based in New York. Strong in TypeScript, Angular, SQL and Microservices, with recent work in pharma R&D. Interested in moving towards Full Stack Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 6.1y), Angular (Expert, 13.1y), Microservices (Advanced, 13.3y), REST API Design (Advanced, 2.3y), Node.js (Proficient, 1.1y), Next.js (Proficient, 5.0y), GraphQL (Working, 4.8y)
+- Delivery & Leadership: People Leadership (Expert, 7.2y), Stakeholder Management (Advanced, 8.2y)
+- Data & AI: SQL (Advanced, 6.0y)
+- Cloud & DevOps: Docker (Advanced, 2.0y)
+
+EXPERIENCE
+* Pharma R&D Self-service Portal — a global pharma company (2026-02 to present)
+  Built a self-service portal for a global pharma company in pharma R&D using REST API Design, Stakeholder Management, TypeScript and Angular, lifting NPS by 30 points.
+* Manufacturing IoT Self-service Portal — a fast-growing manufacturer (2025-05 to 2026-01)
+  Designed a self-service portal for a fast-growing manufacturer in manufacturing IoT using SQL and REST API Design, saving ~12K hours annually.
+* Automotive Customer Onboarding Platform — a fast-growing car maker (2024-10 to 2025-04)
+  Automated a customer onboarding platform for a fast-growing car maker in automotive using Stakeholder Management, SQL and REST API Design, reducing processing time by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, AI Engineer

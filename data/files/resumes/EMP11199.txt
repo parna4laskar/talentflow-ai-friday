@@ -1,0 +1,32 @@
+HANNAH HUGHES
+Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11199
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.7 years of experience, based in London. Strong in Playwright, TypeScript, Angular and Next.js, with recent work in supply-chain logistics. Interested in moving towards UX Designer roles.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Advanced, 3.4y)
+- Software Engineering: TypeScript (Proficient, 1.8y), Angular (Proficient, 2.4y), Next.js (Proficient, 2.2y), JavaScript (Working, 1.2y), Node.js (Working, 1.6y)
+- Product & Design: Design Systems (Proficient, 1.2y)
+- Cloud & DevOps: CI/CD (Working, 1.1y)
+
+EXPERIENCE
+* Retail Banking Order Management System — a European retail bank (2026-04 to present)
+  Modernised an order management system for a European retail bank in retail banking using Next.js, Design Systems, CI/CD and TypeScript, onboarding 4 new enterprise clients.
+* Supply-chain Logistics Claims Processing Engine — a global logistics company (2025-04 to 2026-03)
+  Scaled a claims processing engine for a global logistics company in supply-chain logistics using Next.js, CI/CD, Design Systems and JavaScript, reducing processing time by 40%.
+* Airline Operations Payments Microservices Platform — a US airline (2023-09 to 2025-02)
+  Modernised a payments microservices platform for a US airline in airline operations using JavaScript and TypeScript, reducing processing time by 35%.
+* Supply-chain Logistics Customer Onboarding Platform — a fast-growing logistics company (2022-10 to 2023-06)
+  Scaled a customer onboarding platform for a fast-growing logistics company in supply-chain logistics using CI/CD and Node.js, lifting NPS by 40 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Japanese
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: UX Designer

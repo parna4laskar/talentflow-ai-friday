@@ -1,0 +1,32 @@
+SURESH RODRIGUEZ
+Associate Security Analyst | Cyber Security | Bengaluru, India
+Employee ID: EMP12543
+
+PROFESSIONAL SUMMARY
+Associate Security Analyst with 2.4 years of experience, based in Bengaluru. Strong in SIEM, Incident Response, Threat Modeling and Python, with recent work in e-commerce. Interested in moving towards Cloud Engineer roles and open to relocating to New York, London, Chennai.
+
+CORE SKILLS
+- Security: SIEM (Proficient, 0.7y), Incident Response (Proficient, 1.3y), Threat Modeling (Proficient, 1.6y), Cloud Security (Working, 0.8y)
+- Software Engineering: Python (Proficient, 1.5y)
+- Cloud & DevOps: Linux Administration (Working, 1.0y)
+- Data & AI: Responsible AI (Working, 0.4y)
+
+EXPERIENCE
+* Wealth Management Identity and Access Platform — a European wealth manager (2026-05 to present)
+  Migrated an identity and access platform for a European wealth manager in wealth management using Linux Administration and SIEM, closing 40% of open audit findings.
+* Manufacturing IoT Security Operations Centre Uplift — a fast-growing manufacturer (2024-12 to 2026-03)
+  Scaled a security operations centre uplift for a fast-growing manufacturer in manufacturing IoT using Responsible AI, Cloud Security, Incident Response and Threat Modeling, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- CompTIA Security+ (2025)
+- CySA+ (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer

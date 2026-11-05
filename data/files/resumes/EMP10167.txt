@@ -1,0 +1,31 @@
+RAJESH SUBRAMANIAN
+Associate Risk & Compliance Analyst | Risk & Compliance | Pune, India
+Employee ID: EMP10167
+
+PROFESSIONAL SUMMARY
+Associate Risk & Compliance Analyst with 2.5 years of experience, based in Pune. Strong in GRC, Risk Management, Regulatory Compliance and Responsible AI, with recent work in telecom billing. Interested in moving towards Security Analyst, Data Engineer roles.
+
+CORE SKILLS
+- Security: GRC (Advanced, 2.2y)
+- Business & Finance: Risk Management (Proficient, 1.5y), Regulatory Compliance (Proficient, 1.6y), Financial Analysis (Working, 0.9y)
+- Data & AI: Responsible AI (Proficient, 1.5y), Data Governance (Working, 0.7y), SQL (Working, 0.5y)
+- Cloud & DevOps: FinOps (Working, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Regulatory Capital Reporting — a European manufacturer (2026-04 to present)
+  Built a regulatory capital reporting for a European manufacturer in manufacturing IoT using Responsible AI, Data Governance and Financial Analysis, closing 35% of open audit findings.
+* Airline Operations Risk Control Framework — a European airline (2024-09 to 2026-02)
+  Built a risk control framework for a European airline in airline operations using GRC, Responsible AI, Financial Analysis and Regulatory Compliance, closing 25% of open audit findings.
+
+CERTIFICATIONS
+- CRISC (2026)
+
+EDUCATION
+- MSc Economics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Security Analyst, Data Engineer, Financial Analyst

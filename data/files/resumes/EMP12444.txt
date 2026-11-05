@@ -1,0 +1,35 @@
+RADHIKA VERMA
+Lead CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP12444
+
+PROFESSIONAL SUMMARY
+Lead CRM Consultant with 10.5 years of experience, based in Bengaluru. Strong in Salesforce, Process Improvement, Stakeholder Management and Business Analysis, with recent work in wealth management. Interested in moving towards Business Analyst, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Expert, 1.3y), Process Improvement (Advanced, 8.6y), Business Analysis (Proficient, 4.0y), Requirements Gathering (Working, 3.1y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 5.9y), Agile/Scrum (Proficient, 4.1y), People Leadership (Proficient, 7.8y)
+- Software Engineering: JavaScript (Proficient, 7.0y)
+
+EXPERIENCE
+* Wealth Management CRM Rollout — a US wealth manager (2026-08 to present)
+  Designed a CRM rollout for a US wealth manager in wealth management using Salesforce, Requirements Gathering and JavaScript, reducing processing time by 12%.
+* Retail Banking ERP Finance Rollout — a leading retail bank (2025-04 to 2026-07)
+  Designed an ERP finance rollout for a leading retail bank in retail banking using Process Improvement, JavaScript, Salesforce and Agile/Scrum, reducing processing time by 22%.
+* Wealth Management CRM Rollout — a European wealth manager (2024-09 to 2025-02)
+  Migrated a CRM rollout for a European wealth manager in wealth management using Salesforce, Stakeholder Management, JavaScript and Business Analysis, improving conversion by 12%.
+* Wealth Management CRM Rollout — an APAC wealth manager (2023-07 to 2024-07)
+  Led the delivery of a CRM rollout for an APAC wealth manager in wealth management using Salesforce, Agile/Scrum and Stakeholder Management, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2025)
+- ServiceNow CSA (2024)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Business Analyst, Account Manager

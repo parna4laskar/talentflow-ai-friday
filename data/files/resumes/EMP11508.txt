@@ -1,0 +1,36 @@
+WILLIAM BROWN
+Lead Software Architect | Engineering | London, United Kingdom
+Employee ID: EMP11508
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 10.3 years of experience, based in London. Strong in C#, System Design, Kubernetes and Kafka, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 3.9y), System Design (Advanced, 2.8y), Kafka (Advanced, 4.6y), Microservices (Proficient, 1.4y)
+- Cloud & DevOps: Kubernetes (Advanced, 6.1y), GCP (Proficient, 2.3y)
+- Security: Cloud Security (Proficient, 5.9y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.6y), Communication (Proficient, 3.5y)
+
+EXPERIENCE
+* Supply-chain Logistics Claims Processing Engine — a fast-growing logistics company (2026-11 to present)
+  Modernised a claims processing engine for a fast-growing logistics company in supply-chain logistics using Stakeholder Management, Cloud Security and Kubernetes, saving ~22K hours annually.
+* Energy Trading Self-service Portal — a US energy company (2026-01 to 2026-08)
+  Led the delivery of a self-service portal for a US energy company in energy trading using Kubernetes, System Design, Stakeholder Management and Communication, saving ~12K hours annually.
+* Supply-chain Logistics Self-service Portal — a US logistics company (2024-08 to 2026-01)
+  Scaled a self-service portal for a US logistics company in supply-chain logistics using Communication, Stakeholder Management and GCP, lifting NPS by 35 points.
+* Supply-chain Logistics Pricing Engine — a global logistics company (2023-06 to 2024-05)
+  Built a pricing engine for a global logistics company in supply-chain logistics using Kubernetes, Cloud Security, Microservices and GCP, improving conversion by 25%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2025)
+- TOGAF 10 (2021)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer, Engineering Manager, Cloud Engineer

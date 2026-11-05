@@ -1,0 +1,31 @@
+RIYA JOSHI
+Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP11814
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2.3 years of experience, based in Pune. Strong in Statistics, MLOps, Machine Learning and SQL, with recent work in public sector. Interested in moving towards Product Manager, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 0.6y), MLOps (Advanced, 0.6y), Machine Learning (Proficient, 0.4y), SQL (Proficient, 0.6y), Deep Learning (Working, 1.0y), Generative AI (Working, 0.7y), NLP (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.7y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+- Quality Engineering: Playwright (Beginner, 0.4y)
+
+EXPERIENCE
+* Automotive Customer Churn Model — a European car maker (2026-03 to present)
+  Re-architected a customer churn model for a European car maker in automotive using Playwright and MLOps, improving conversion by 12%.
+* Public Sector Real-time Analytics Pipeline — an APAC government agency (2024-10 to 2025-12)
+  Automated a real-time analytics pipeline for an APAC government agency in public sector using SQL, Deep Learning, Machine Learning and NLP, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2024)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Product Manager, AI Engineer

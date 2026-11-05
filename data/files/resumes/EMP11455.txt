@@ -1,0 +1,30 @@
+PIOTR KAMIŃSKI
+Senior Frontend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11455
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.3 years of experience, based in Kraków. Strong in TypeScript, CI/CD, Communication and JavaScript, with recent work in insurance claims. Interested in moving towards UX Designer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.9y), JavaScript (Proficient, 4.3y), Angular (Proficient, 3.8y), Node.js (Proficient, 3.0y)
+- Cloud & DevOps: CI/CD (Advanced, 2.4y)
+- Delivery & Leadership: Communication (Advanced, 2.1y)
+- Product & Design: Design Systems (Working, 0.6y)
+
+EXPERIENCE
+* Insurance Claims Customer Onboarding Platform — a US insurer (2025-12 to present)
+  Designed a customer onboarding platform for a US insurer in insurance claims using TypeScript, Design Systems and Communication, improving conversion by 30%.
+* Insurance Claims Claims Processing Engine — an APAC insurer (2025-04 to 2025-10)
+  Led the delivery of a claims processing engine for an APAC insurer in insurance claims using Design Systems, TypeScript, Angular and Node.js, saving ~30K hours annually.
+* Airline Operations Self-service Portal — a US airline (2024-07 to 2025-02)
+  Migrated a self-service portal for a US airline in airline operations using Angular and CI/CD, lifting NPS by 40 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: UX Designer, Full Stack Engineer, Mobile Engineer

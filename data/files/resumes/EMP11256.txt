@@ -1,0 +1,30 @@
+SAMUEL HUGHES
+Principal Mobile Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11256
+
+PROFESSIONAL SUMMARY
+Principal Mobile Engineer with 24.6 years of experience, based in London. Strong in Mobile Development, Flutter, FinOps and Stakeholder Management, with recent work in automotive. Interested in moving towards Full Stack Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Expert, 15.0y), Flutter (Expert, 1.8y), TypeScript (Working, 3.9y)
+- Cloud & DevOps: FinOps (Advanced, 6.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 19.5y)
+- Quality Engineering: Test Automation (Proficient, 2.1y), API Testing (Working, 12.0y)
+
+EXPERIENCE
+* Automotive Claims Processing Engine — a European car maker (2025-11 to present)
+  Automated a claims processing engine for a European car maker in automotive using API Testing and TypeScript, saving ~22K hours annually.
+* Airline Operations Order Management System — a US airline (2024-11 to 2025-10)
+  Migrated an order management system for a US airline in airline operations using Flutter, Stakeholder Management, Mobile Development and TypeScript, reducing processing time by 35%.
+* Automotive Payments Microservices Platform — an APAC car maker (2023-05 to 2024-10)
+  Modernised a payments microservices platform for an APAC car maker in automotive using API Testing, Stakeholder Management, TypeScript and Mobile Development, reducing processing time by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, QA Engineer

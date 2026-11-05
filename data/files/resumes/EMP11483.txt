@@ -1,0 +1,31 @@
+PRANAV MUKHERJEE
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11483
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.5 years of experience, based in Pune. Strong in Go, Microservices, CI/CD and REST API Design, with recent work in telecom billing. Interested in moving towards Backend Engineer, AI Engineer roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Software Engineering: Go (Proficient, 1.6y), Microservices (Proficient, 6.2y), REST API Design (Working, 5.0y), GraphQL (Working, 3.7y)
+- Cloud & DevOps: CI/CD (Proficient, 6.2y)
+- Data & AI: SQL (Working, 4.7y)
+
+EXPERIENCE
+* Payments Order Management System — a global payments provider (2026-05 to present)
+  Designed an order management system for a global payments provider in payments using REST API Design, CI/CD and Microservices, onboarding 8 new enterprise clients.
+* Telecom Billing Customer Onboarding Platform — a global telecom operator (2025-01 to 2026-03)
+  Modernised a customer onboarding platform for a global telecom operator in telecom billing using GraphQL and Microservices, reducing processing time by 25%.
+* Telecom Billing Customer Onboarding Platform — a fast-growing telecom operator (2023-08 to 2024-12)
+  Led the delivery of a customer onboarding platform for a fast-growing telecom operator in telecom billing using Microservices, CI/CD and REST API Design, improving conversion by 35%.
+* Insurance Claims Self-service Portal — a tier-1 insurer (2023-03 to 2023-08)
+  Led the delivery of a self-service portal for a tier-1 insurer in insurance claims using GraphQL, REST API Design, SQL and Microservices, saving ~18K hours annually.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, AI Engineer

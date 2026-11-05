@@ -1,0 +1,35 @@
+TEJAS DESHPANDE
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12014
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.3 years of experience, based in Pune. Strong in Microservices, Java, REST API Design and SQL, with recent work in telecom billing. Interested in moving towards Backend Engineer, Engineering Manager roles and open to relocating to New York.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 10.3y), Java (Proficient, 6.4y), REST API Design (Proficient, 2.8y), System Design (Proficient, 0.8y), Spring Boot (Proficient, 0.9y)
+- Data & AI: SQL (Proficient, 2.2y)
+- Cloud & DevOps: AWS (Proficient, 4.7y), Kubernetes (Proficient, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 5.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Mobile Banking App — a leading logistics company (2026-02 to present)
+  Migrated a mobile banking app for a leading logistics company in supply-chain logistics using SQL, Spring Boot, AWS and Java, improving conversion by 25%.
+* Telecom Billing Mobile Banking App — a leading telecom operator (2025-02 to 2026-01)
+  Led the delivery of a mobile banking app for a leading telecom operator in telecom billing using REST API Design, Spring Boot, Kubernetes and Microservices, improving conversion by 25%.
+* Telecom Billing Claims Processing Engine — an APAC telecom operator (2023-12 to 2024-11)
+  Scaled a claims processing engine for an APAC telecom operator in telecom billing using REST API Design and Microservices, reducing processing time by 30%.
+* Pharma R&D Payments Microservices Platform — a European pharma company (2022-12 to 2023-11)
+  Automated a payments microservices platform for a European pharma company in pharma R&D using Java, REST API Design, Kubernetes and Microservices, accelerating releases by 25%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, Engineering Manager, DevOps Engineer

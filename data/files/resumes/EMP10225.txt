@@ -1,0 +1,36 @@
+NURUL GOH
+Senior Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP10225
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 7.7 years of experience, based in Singapore. Strong in Go, REST API Design, .NET Core and Microservices, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, AI Engineer roles and open to relocating to Gurugram, Pune.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 2.8y), REST API Design (Advanced, 7.2y), .NET Core (Advanced, 3.2y), Microservices (Proficient, 1.0y), System Design (Beginner, 1.4y)
+- Cloud & DevOps: Docker (Proficient, 3.7y), Kubernetes (Working, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 3.2y)
+- Data & AI: SQL (Working, 3.4y)
+
+EXPERIENCE
+* Insurance Claims Customer Onboarding Platform — an APAC insurer (2025-07 to present)
+  Migrated a customer onboarding platform for an APAC insurer in insurance claims using Microservices, Kubernetes, SQL and REST API Design, reducing processing time by 30%.
+* Telecom Billing Order Management System — a fast-growing telecom operator (2024-10 to 2025-04)
+  Built an order management system for a fast-growing telecom operator in telecom billing using Go and System Design, onboarding 3 new enterprise clients.
+* Energy Trading Self-service Portal — a leading energy company (2023-05 to 2024-10)
+  Scaled a self-service portal for a leading energy company in energy trading using Kubernetes and SQL, lifting NPS by 25 points.
+* Supply-chain Logistics Pricing Engine — a global logistics company (2022-09 to 2023-04)
+  Scaled a pricing engine for a global logistics company in supply-chain logistics using REST API Design, .NET Core, System Design and Kubernetes, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, AI Engineer

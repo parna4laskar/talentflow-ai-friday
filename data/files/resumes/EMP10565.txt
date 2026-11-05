@@ -1,0 +1,27 @@
+AISHA THOMAS
+Associate CRM Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP10565
+
+PROFESSIONAL SUMMARY
+Associate CRM Consultant with 1.8 years of experience, based in London. Strong in Business Analysis, Requirements Gathering, Agile/Scrum and Responsible AI, with recent work in energy trading. Interested in moving towards CRM Consultant, Account Manager roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 1.2y), Requirements Gathering (Proficient, 1.3y), ServiceNow (Working, 0.7y), Salesforce (Beginner, 0.3y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.5y), Communication (Proficient, 0.6y)
+- Data & AI: Responsible AI (Proficient, 1.2y)
+
+EXPERIENCE
+* Energy Trading ERP Finance Rollout — a fast-growing energy company (2026-05 to present)
+  Automated an ERP finance rollout for a fast-growing energy company in energy trading using Salesforce, Responsible AI, Agile/Scrum and Requirements Gathering, saving ~35K hours annually.
+* Telecom Billing ERP Finance Rollout — a tier-1 telecom operator (2025-09 to 2026-02)
+  Built an ERP finance rollout for a tier-1 telecom operator in telecom billing using Business Analysis and ServiceNow, saving ~35K hours annually.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: CRM Consultant, Account Manager, SAP Consultant

@@ -1,0 +1,32 @@
+ROHAN KHAN
+Senior Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10414
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 7.8 years of experience, based in Bengaluru. Strong in TypeScript, SQL, Angular and Java, with recent work in telecom billing. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 6.0y), Angular (Proficient, 4.2y), Java (Proficient, 4.0y), Next.js (Proficient, 3.7y), Spring Boot (Working, 3.5y)
+- Data & AI: SQL (Advanced, 1.2y)
+- Cloud & DevOps: Docker (Proficient, 0.6y)
+
+EXPERIENCE
+* Telecom Billing Order Management System — a fast-growing telecom operator (2026-08 to present)
+  Designed an order management system for a fast-growing telecom operator in telecom billing using SQL, Angular and Java, reducing processing time by 40%.
+* Telecom Billing Customer Onboarding Platform — a fast-growing telecom operator (2025-08 to 2026-08)
+  Migrated a customer onboarding platform for a fast-growing telecom operator in telecom billing using TypeScript, Angular, Next.js and Docker, improving conversion by 18%.
+* Media Streaming Pricing Engine — a fast-growing streaming platform (2024-10 to 2025-07)
+  Built a pricing engine for a fast-growing streaming platform in media streaming using Angular, SQL and Docker, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer

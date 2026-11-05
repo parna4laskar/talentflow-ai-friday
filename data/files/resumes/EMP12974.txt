@@ -1,0 +1,30 @@
+MEERA BANERJEE
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12974
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 5.5 years of experience, based in Pune. Strong in Microservices, REST API Design, SQL and AWS, with recent work in pharma R&D. Interested in moving towards Engineering Manager, DevOps Engineer roles and open to relocating to London, Toronto.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 5.2y), REST API Design (Proficient, 3.0y), GraphQL (Proficient, 3.0y), Python (Working, 0.3y)
+- Data & AI: SQL (Proficient, 3.6y)
+- Cloud & DevOps: AWS (Proficient, 3.0y)
+- Delivery & Leadership: Communication (Working, 1.7y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a European pharma company (2026-04 to present)
+  Migrated a pricing engine for a European pharma company in pharma R&D using SQL, Microservices and GraphQL, improving conversion by 18%.
+* Pharma R&D Self-service Portal — a leading pharma company (2025-09 to 2026-03)
+  Re-architected a self-service portal for a leading pharma company in pharma R&D using AWS, Communication, REST API Design and GraphQL, saving ~30K hours annually.
+* Pharma R&D Self-service Portal — a US pharma company (2024-12 to 2025-06)
+  Migrated a self-service portal for a US pharma company in pharma R&D using AWS, Python, Microservices and REST API Design, lifting NPS by 18 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager, DevOps Engineer

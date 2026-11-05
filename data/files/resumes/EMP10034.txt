@@ -1,0 +1,30 @@
+SIMRAN KHAN
+Associate Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10034
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 1.1 years of experience, based in Pune. Strong in Incident Response, Observability, Kubernetes and Linux Administration, with recent work in manufacturing IoT. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Security: Incident Response (Advanced, 1.0y)
+- Cloud & DevOps: Observability (Proficient, 0.6y), Kubernetes (Proficient, 0.7y), Linux Administration (Proficient, 0.7y), Site Reliability Engineering (Working, 0.5y), AWS (Working, 0.5y)
+- Data & AI: Databricks (Proficient, 0.7y), LLM Engineering (Beginner, 0.3y)
+- Quality Engineering: Performance Testing (Working, 0.5y)
+- Software Engineering: Go (Working, 0.4y), Python (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Telecom Billing CI/CD Platform — a fast-growing telecom operator (2026-05 to present)
+  Built a CI/CD platform for a fast-growing telecom operator in telecom billing using Incident Response and Linux Administration, accelerating releases by 25%.
+* Manufacturing IoT Data-centre Exit To Cloud — a European manufacturer (2025-04 to 2026-03)
+  Automated a data-centre exit to cloud for a European manufacturer in manufacturing IoT using AWS, Incident Response and Site Reliability Engineering, delivering $8M in cost savings.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer

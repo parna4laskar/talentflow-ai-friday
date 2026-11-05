@@ -1,0 +1,33 @@
+ETHAN JOHNSON
+Senior Site Reliability Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP12544
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 9.5 years of experience, based in Austin. Strong in Kubernetes, Site Reliability Engineering, Observability and Linux Administration, with recent work in wealth management. Interested in moving towards Platform Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.5y), Site Reliability Engineering (Proficient, 1.5y), Observability (Proficient, 4.0y), Linux Administration (Proficient, 6.1y), FinOps (Proficient, 2.6y), AWS (Working, 4.4y), Terraform (Working, 1.2y)
+- Quality Engineering: Performance Testing (Proficient, 5.7y)
+
+EXPERIENCE
+* Insurance Claims Data-centre Exit To Cloud — a European insurer (2026-06 to present)
+  Re-architected a data-centre exit to cloud for a European insurer in insurance claims using Kubernetes, Performance Testing and Terraform, cutting cloud spend by 40%.
+* Wealth Management Observability Stack — a leading wealth manager (2025-11 to 2026-05)
+  Designed an observability stack for a leading wealth manager in wealth management using AWS and Kubernetes, accelerating releases by 35%.
+* Airline Operations Cloud Landing Zone — a European airline (2025-05 to 2025-10)
+  Automated a cloud landing zone for a European airline in airline operations using FinOps and Observability, cutting cloud spend by 30%.
+* Automotive Kubernetes Platform — a fast-growing car maker (2023-12 to 2025-04)
+  Re-architected a Kubernetes platform for a fast-growing car maker in automotive using Linux Administration, FinOps and AWS, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2021)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Platform Engineer, DevOps Engineer, Cloud Engineer

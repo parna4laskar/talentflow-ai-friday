@@ -1,0 +1,29 @@
+ISHITA PAWAR
+Senior Mobile Engineer | Engineering | Chennai, India
+Employee ID: EMP11267
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 6 years of experience, based in Chennai. Strong in Mobile Development, Java, Test Automation and UI Design, with recent work in HR tech. Interested in moving towards Mobile Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 4.1y), Java (Advanced, 3.0y), TypeScript (Proficient, 1.5y), REST API Design (Proficient, 2.2y)
+- Quality Engineering: Test Automation (Advanced, 1.0y)
+- Product & Design: UI Design (Proficient, 3.0y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — a European government agency (2025-10 to present)
+  Migrated a self-service portal for a European government agency in public sector using UI Design, REST API Design and Mobile Development, lifting NPS by 18 points.
+* HR Tech Payments Microservices Platform — a leading HR software company (2024-09 to 2025-08)
+  Led the delivery of a payments microservices platform for a leading HR software company in HR tech using REST API Design, UI Design, Test Automation and Mobile Development, reducing processing time by 40%.
+* HR Tech Payments Microservices Platform — a leading HR software company (2023-07 to 2024-07)
+  Modernised a payments microservices platform for a leading HR software company in HR tech using Java, TypeScript and Mobile Development, reducing processing time by 22%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer, Frontend Engineer, Full Stack Engineer, Backend Engineer

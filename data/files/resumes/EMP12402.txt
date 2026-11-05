@@ -1,0 +1,31 @@
+KUNAL DAS
+Lead Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP12402
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 11.3 years of experience, based in Pune. Strong in Python, Statistics, SQL and Apache Spark, with recent work in automotive. Interested in moving towards ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 9.0y)
+- Data & AI: Statistics (Advanced, 11.1y), SQL (Advanced, 5.0y), Apache Spark (Advanced, 4.0y), MLOps (Advanced, 11.0y), NLP (Advanced, 3.7y), Machine Learning (Proficient, 0.7y), Deep Learning (Proficient, 1.6y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 10.5y), Communication (Proficient, 3.4y)
+- Product & Design: A/B Testing (Proficient, 1.7y)
+- Quality Engineering: Playwright (Working, 1.8y)
+
+EXPERIENCE
+* Automotive Regulatory Reporting Suite — a fast-growing car maker (2026-01 to present)
+  Modernised a regulatory reporting suite for a fast-growing car maker in automotive using Communication and Apache Spark, saving ~40K hours annually.
+* Manufacturing IoT Data Lakehouse — a global manufacturer (2024-07 to 2025-12)
+  Led the delivery of a data lakehouse for a global manufacturer in manufacturing IoT using Deep Learning and SQL, reducing processing time by 40%.
+* Automotive Regulatory Reporting Suite — a fast-growing car maker (2024-01 to 2024-05)
+  Migrated a regulatory reporting suite for a fast-growing car maker in automotive using Deep Learning, Apache Spark, SQL and Communication, reducing processing time by 35%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: ML Engineer

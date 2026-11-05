@@ -1,0 +1,29 @@
+FARHAN SUBRAMANIAN
+Lead Engineering Manager | Engineering | Gurugram, India
+Employee ID: EMP12572
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 13.7 years of experience, based in Gurugram. Strong in Stakeholder Management, System Design, Agile/Scrum and Python, with recent work in wealth management. Interested in moving towards Scrum Master roles and open to relocating to Pune, Dublin, Kraków.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 9.3y), Agile/Scrum (Advanced, 4.4y), People Leadership (Proficient, 5.1y), Communication (Proficient, 9.6y)
+- Software Engineering: System Design (Advanced, 5.1y), Python (Advanced, 9.4y), Java (Proficient, 3.6y)
+- Cloud & DevOps: Terraform (Advanced, 9.6y), AWS (Proficient, 0.4y)
+
+EXPERIENCE
+* HR Tech Claims Processing Engine — a fast-growing HR software company (2026-01 to present)
+  Led the delivery of a claims processing engine for a fast-growing HR software company in HR tech using Agile/Scrum, People Leadership, System Design and AWS, reducing processing time by 12%.
+* Healthcare Pricing Engine — a fast-growing hospital network (2025-03 to 2025-12)
+  Led the delivery of a pricing engine for a fast-growing hospital network in healthcare using AWS, Communication and System Design, improving conversion by 22%.
+* Wealth Management Pricing Engine — a global wealth manager (2024-02 to 2025-02)
+  Scaled a pricing engine for a global wealth manager in wealth management using Agile/Scrum, Java, Stakeholder Management and System Design, reducing processing time by 12%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Scrum Master

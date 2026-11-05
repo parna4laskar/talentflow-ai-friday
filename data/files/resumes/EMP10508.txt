@@ -1,0 +1,30 @@
+ABHISHEK DAS
+AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP10508
+
+PROFESSIONAL SUMMARY
+AI Engineer with 3.3 years of experience, based in Pune. Strong in Python, Docker, REST API Design and Generative AI, with recent work in manufacturing IoT. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 0.9y), REST API Design (Advanced, 0.6y)
+- Cloud & DevOps: Docker (Advanced, 2.7y), Azure (Working, 0.4y)
+- Data & AI: Generative AI (Proficient, 0.5y), LLM Engineering (Proficient, 1.6y), Vector Databases (Working, 1.0y), NLP (Beginner, 0.7y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* Manufacturing IoT Document Intelligence Pipeline — a US manufacturer (2025-11 to present)
+  Led the delivery of a document intelligence pipeline for a US manufacturer in manufacturing IoT using LLM Engineering, NLP and REST API Design, saving ~35K hours annually.
+* Airline Operations Knowledge Assistant (RAG) — a tier-1 airline (2025-05 to 2025-10)
+  Led the delivery of a knowledge assistant (RAG) for a tier-1 airline in airline operations using Azure, NLP and Python, lifting NPS by 18 points.
+* Manufacturing IoT Document Intelligence Pipeline — a tier-1 manufacturer (2024-01 to 2025-04)
+  Led the delivery of a document intelligence pipeline for a tier-1 manufacturer in manufacturing IoT using Python, Azure and Vector Databases, reducing processing time by 40%.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, DevOps Engineer

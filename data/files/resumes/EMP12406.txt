@@ -1,0 +1,32 @@
+NEHA KHAN
+Principal Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12406
+
+PROFESSIONAL SUMMARY
+Principal Mobile Engineer with 21.4 years of experience, based in Bengaluru. Strong in REST API Design, CI/CD, Test Automation and UI Design, with recent work in e-commerce. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 7.3y), Flutter (Advanced, 3.8y), Mobile Development (Proficient, 6.6y), React (Proficient, 13.8y)
+- Cloud & DevOps: CI/CD (Advanced, 18.8y)
+- Quality Engineering: Test Automation (Advanced, 9.3y)
+- Product & Design: UI Design (Advanced, 6.0y)
+- Delivery & Leadership: People Leadership (Advanced, 7.2y)
+- Data & AI: Generative AI (Proficient, 11.2y)
+
+EXPERIENCE
+* E-commerce Claims Processing Engine — a European online retailer (2026-12 to present)
+  Modernised a claims processing engine for a European online retailer in e-commerce using CI/CD, Generative AI, React and UI Design, reducing processing time by 40%.
+* E-commerce Claims Processing Engine — a leading online retailer (2025-10 to 2026-09)
+  Designed a claims processing engine for a leading online retailer in e-commerce using CI/CD, Generative AI and Test Automation, reducing processing time by 35%.
+* E-commerce Claims Processing Engine — a US online retailer (2024-02 to 2025-08)
+  Automated a claims processing engine for a US online retailer in e-commerce using REST API Design, UI Design and CI/CD, saving ~25K hours annually.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Mobile Engineer, Full Stack Engineer

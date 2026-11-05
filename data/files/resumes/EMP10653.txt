@@ -1,0 +1,32 @@
+VENKAT BROWN
+Senior Security Engineer | Cyber Security | Pune, India
+Employee ID: EMP10653
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 5.6 years of experience, based in Pune. Strong in Application Security, Threat Modeling, Cloud Security and Python, with recent work in automotive. Interested in moving towards Cloud Engineer, Software Architect roles.
+
+CORE SKILLS
+- Security: Application Security (Advanced, 4.1y), Threat Modeling (Advanced, 4.5y), Cloud Security (Advanced, 0.8y), SIEM (Proficient, 2.9y), GRC (Proficient, 1.3y), Incident Response (Working, 1.9y)
+- Software Engineering: Python (Advanced, 5.4y)
+- Cloud & DevOps: AWS (Proficient, 3.3y)
+
+EXPERIENCE
+* Automotive Security Operations Centre Uplift — a fast-growing car maker (2025-10 to present)
+  Automated a security operations centre uplift for a fast-growing car maker in automotive using Cloud Security, AWS and Python, closing 35% of open audit findings.
+* Automotive Security Operations Centre Uplift — a tier-1 car maker (2024-04 to 2025-10)
+  Led the delivery of a security operations centre uplift for a tier-1 car maker in automotive using Cloud Security and Threat Modeling, closing 25% of open audit findings.
+* Manufacturing IoT Identity and Access Platform — a leading manufacturer (2023-03 to 2024-02)
+  Modernised an identity and access platform for a leading manufacturer in manufacturing IoT using SIEM, Application Security and Incident Response, closing 25% of open audit findings.
+
+CERTIFICATIONS
+- CCSP (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Cloud Engineer, Software Architect

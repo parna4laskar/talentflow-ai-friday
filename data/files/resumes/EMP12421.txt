@@ -1,0 +1,30 @@
+SURESH HEGDE
+Senior DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12421
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 7.7 years of experience, based in Pune. Strong in Docker, Kubernetes, Observability and Terraform, with recent work in wealth management. Interested in moving towards Platform Engineer, Cloud Engineer roles and open to relocating to Bengaluru, London, Toronto.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 2.7y), Kubernetes (Advanced, 5.3y), Observability (Advanced, 4.6y), Terraform (Advanced, 2.9y), GCP (Proficient, 3.6y), Linux Administration (Proficient, 1.4y), CI/CD (Working, 3.3y), Platform Engineering (Working, 3.5y)
+- Delivery & Leadership: Communication (Advanced, 4.3y)
+
+EXPERIENCE
+* Manufacturing IoT Kubernetes Platform — a tier-1 manufacturer (2025-12 to present)
+  Scaled a Kubernetes platform for a tier-1 manufacturer in manufacturing IoT using Platform Engineering and Linux Administration, cutting cloud spend by 40%.
+* Retail Banking Cloud Landing Zone — a fast-growing retail bank (2025-06 to 2025-11)
+  Automated a cloud landing zone for a fast-growing retail bank in retail banking using Observability and Platform Engineering, cutting cloud spend by 30%.
+* Payments CI/CD Platform — a tier-1 payments provider (2024-10 to 2025-05)
+  Designed a CI/CD platform for a tier-1 payments provider in payments using Terraform, Platform Engineering, Docker and Linux Administration, accelerating releases by 25%.
+* Wealth Management Data-centre Exit To Cloud — a fast-growing wealth manager (2023-08 to 2024-07)
+  Automated a data-centre exit to cloud for a fast-growing wealth manager in wealth management using CI/CD and Platform Engineering, cutting cloud spend by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Platform Engineer, Cloud Engineer, Backend Engineer

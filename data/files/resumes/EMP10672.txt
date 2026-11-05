@@ -1,0 +1,28 @@
+VARUN SINGH
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10672
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5 years of experience, based in Pune. Strong in Microservices, C#, REST API Design and SQL, with recent work in payments. Interested in moving towards AI Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 5.0y), C# (Advanced, 1.9y), REST API Design (Advanced, 2.3y), .NET Core (Proficient, 1.4y), Spring Boot (Proficient, 0.4y)
+- Data & AI: SQL (Proficient, 3.1y)
+
+EXPERIENCE
+* Payments Self-service Portal — a fast-growing payments provider (2025-07 to present)
+  Modernised a self-service portal for a fast-growing payments provider in payments using SQL and Microservices, saving ~22K hours annually.
+* Payments Mobile Banking App — a European payments provider (2024-10 to 2025-05)
+  Built a mobile banking app for a European payments provider in payments using Microservices and .NET Core, improving conversion by 25%.
+* Automotive Payments Microservices Platform — a leading car maker (2023-10 to 2024-08)
+  Designed a payments microservices platform for a leading car maker in automotive using Spring Boot and Microservices, reducing production incidents by 40%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, Software Architect

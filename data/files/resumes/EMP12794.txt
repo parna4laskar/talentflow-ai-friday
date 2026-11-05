@@ -1,0 +1,26 @@
+DANIEL TAYLOR
+Associate DevOps Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12794
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 1.1 years of experience, based in London. Strong in CI/CD, Docker, FinOps and Azure, with recent work in pharma R&D. Interested in moving towards Backend Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 0.5y), Docker (Proficient, 0.4y), FinOps (Proficient, 0.5y), Azure (Working, 0.3y), Observability (Working, 0.4y), Terraform (Working, 0.3y), Kubernetes (Beginner, 0.3y), Linux Administration (Beginner, 0.3y)
+- Software Engineering: Go (Working, 0.5y), Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Observability Stack — a fast-growing pharma company (2026-05 to present)
+  Modernised an observability stack for a fast-growing pharma company in pharma R&D using Go, Linux Administration, Terraform and Kubernetes, accelerating releases by 30%.
+* Insurance Claims Observability Stack — a global insurer (2025-01 to 2026-03)
+  Designed an observability stack for a global insurer in insurance claims using Kubernetes, FinOps and Go, accelerating releases by 22%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Site Reliability Engineer, Cloud Engineer

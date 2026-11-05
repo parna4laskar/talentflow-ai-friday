@@ -1,0 +1,31 @@
+WILLIAM WALKER
+Financial Analyst | Finance | London, United Kingdom
+Employee ID: EMP11816
+
+PROFESSIONAL SUMMARY
+Financial Analyst with 2.5 years of experience, based in London. Strong in Financial Analysis, Stakeholder Management, FP&A and Financial Modeling, with recent work in pharma R&D. Interested in moving towards SAP Consultant, Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Financial Analysis (Advanced, 1.4y), FP&A (Proficient, 0.6y), Financial Modeling (Proficient, 1.1y), Risk Management (Proficient, 0.7y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 1.5y)
+- Data & AI: Power BI (Proficient, 0.6y)
+- Cloud & DevOps: FinOps (Proficient, 1.2y)
+
+EXPERIENCE
+* Manufacturing IoT Risk Control Framework — a fast-growing manufacturer (2026-11 to present)
+  Redesigned a risk control framework for a fast-growing manufacturer in manufacturing IoT using Risk Management, Financial Analysis and Power BI, closing 25% of open audit findings.
+* Automotive Regulatory Capital Reporting — a global car maker (2025-12 to 2026-10)
+  Led a regulatory capital reporting for a global car maker in automotive using Power BI and Financial Analysis, reducing processing time by 40%.
+
+CERTIFICATIONS
+- ACCA (2024)
+
+EDUCATION
+- MSc Finance
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: SAP Consultant, Data Analyst, Business Analyst

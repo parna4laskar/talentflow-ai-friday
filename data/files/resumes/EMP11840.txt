@@ -1,0 +1,35 @@
+RAJESH RAO
+Lead ML Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP11840
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 8.8 years of experience, based in Hyderabad. Strong in Python, Machine Learning, Deep Learning and AWS, with recent work in pharma R&D. Interested in moving towards Platform Engineer roles and open to relocating to Pune.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 8.8y)
+- Data & AI: Machine Learning (Expert, 8.4y), Deep Learning (Expert, 3.0y), MLOps (Advanced, 0.8y), NLP (Proficient, 2.2y), Computer Vision (Proficient, 3.2y)
+- Cloud & DevOps: AWS (Expert, 8.8y), Kubernetes (Advanced, 8.2y)
+- Delivery & Leadership: Mentoring (Proficient, 0.6y), Communication (Proficient, 1.1y)
+
+EXPERIENCE
+* Automotive Agentic Customer-service Assistant — a leading car maker (2025-10 to present)
+  Built an agentic customer-service assistant for a leading car maker in automotive using AWS and Computer Vision, saving ~40K hours annually.
+* Supply-chain Logistics Knowledge Assistant (RAG) — a US logistics company (2024-06 to 2025-08)
+  Migrated a knowledge assistant (RAG) for a US logistics company in supply-chain logistics using MLOps and NLP, saving ~18K hours annually.
+* Pharma R&D Recommendation Engine — an APAC pharma company (2022-11 to 2024-03)
+  Modernised a recommendation engine for an APAC pharma company in pharma R&D using Mentoring, MLOps and Machine Learning, improving model accuracy by 35%.
+* Payments Fraud Detection Model — a fast-growing payments provider (2021-09 to 2022-08)
+  Automated a fraud detection model for a fast-growing payments provider in payments using Deep Learning and Kubernetes, improving model accuracy by 40%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2023)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Platform Engineer

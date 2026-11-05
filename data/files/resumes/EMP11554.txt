@@ -1,0 +1,32 @@
+CARLOS MILLER
+Principal DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11554
+
+PROFESSIONAL SUMMARY
+Principal DevOps Engineer with 24.7 years of experience, based in New York. Strong in CI/CD, AWS, Go and Kubernetes, with recent work in airline operations. Interested in moving towards Site Reliability Engineer, Platform Engineer roles and open to relocating to London, Dublin, Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 12.3y), AWS (Expert, 7.6y), Kubernetes (Advanced, 17.2y), Observability (Advanced, 12.4y), Terraform (Advanced, 3.7y), Docker (Proficient, 8.1y), Linux Administration (Proficient, 5.9y)
+- Software Engineering: Go (Expert, 1.6y), Python (Advanced, 16.3y)
+- Delivery & Leadership: Mentoring (Proficient, 1.7y), Stakeholder Management (Proficient, 8.0y), People Leadership (Proficient, 5.2y)
+
+EXPERIENCE
+* Airline Operations Kubernetes Platform — a tier-1 airline (2026-07 to present)
+  Designed a Kubernetes platform for a tier-1 airline in airline operations using Mentoring, Python and Terraform, accelerating releases by 18%.
+* Healthcare Data-centre Exit To Cloud — an APAC hospital network (2025-01 to 2026-06)
+  Automated a data-centre exit to cloud for an APAC hospital network in healthcare using Mentoring and Linux Administration, delivering $8M in cost savings.
+* Airline Operations Cloud Landing Zone — a leading airline (2024-06 to 2024-11)
+  Built a cloud landing zone for a leading airline in airline operations using Observability and Linux Administration, accelerating releases by 25%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2021)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Site Reliability Engineer, Platform Engineer, Cloud Engineer

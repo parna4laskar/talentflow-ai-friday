@@ -1,0 +1,34 @@
+OWEN SUBRAMANIAN
+Principal Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP10527
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 19.4 years of experience, based in Toronto. Strong in C#, REST API Design, GraphQL and Microservices, with recent work in pharma R&D. Interested in moving towards Software Architect, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 19.4y), REST API Design (Expert, 19.4y), GraphQL (Expert, 7.1y), Microservices (Advanced, 19.4y), Kafka (Advanced, 18.7y), System Design (Advanced, 2.2y), .NET Core (Proficient, 7.1y)
+- Cloud & DevOps: Kubernetes (Advanced, 9.8y)
+- Data & AI: Responsible AI (Advanced, 10.3y), SQL (Proficient, 9.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 10.2y), People Leadership (Advanced, 7.7y)
+
+EXPERIENCE
+* Pharma R&D Customer Onboarding Platform — a global pharma company (2025-08 to present)
+  Automated a customer onboarding platform for a global pharma company in pharma R&D using Stakeholder Management, REST API Design and .NET Core, improving conversion by 22%.
+* Pharma R&D Self-service Portal — an APAC pharma company (2024-04 to 2025-07)
+  Led the delivery of a self-service portal for an APAC pharma company in pharma R&D using Microservices and GraphQL, saving ~12K hours annually.
+* Pharma R&D Order Management System — a fast-growing pharma company (2023-08 to 2024-03)
+  Designed an order management system for a fast-growing pharma company in pharma R&D using System Design and Responsible AI, onboarding 6 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect, Full Stack Engineer

@@ -1,0 +1,26 @@
+MARIA PATEL
+Associate DevOps Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP11296
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.1 years of experience, based in Austin. Strong in CI/CD, AWS, Kubernetes and Docker, with recent work in retail banking. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 1.9y), AWS (Advanced, 2.0y), Kubernetes (Proficient, 1.2y), Docker (Working, 0.4y), Terraform (Working, 0.3y), Observability (Working, 0.5y)
+- Quality Engineering: Playwright (Beginner, 0.5y)
+
+EXPERIENCE
+* Retail Banking Observability Stack — a leading retail bank (2026-10 to present)
+  Automated an observability stack for a leading retail bank in retail banking using AWS, Kubernetes and Observability, reducing production incidents by 25%.
+* Retail Banking CI/CD Platform — a fast-growing retail bank (2025-08 to 2026-09)
+  Automated a CI/CD platform for a fast-growing retail bank in retail banking using CI/CD, Docker, Playwright and Observability, accelerating releases by 25%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer

@@ -1,0 +1,26 @@
+ARVIND BHAT
+Associate Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11344
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.1 years of experience, based in Bengaluru. Strong in TypeScript, React, GraphQL and JavaScript, with recent work in telecom billing. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.4y), React (Proficient, 0.5y), GraphQL (Proficient, 0.8y), JavaScript (Working, 0.3y), Node.js (Working, 0.5y), Mobile Development (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Media Streaming Claims Processing Engine — a European streaming platform (2025-10 to present)
+  Scaled a claims processing engine for a European streaming platform in media streaming using GraphQL, JavaScript and Mobile Development, saving ~30K hours annually.
+* Telecom Billing Order Management System — a leading telecom operator (2024-05 to 2025-08)
+  Modernised an order management system for a leading telecom operator in telecom billing using Node.js, TypeScript, JavaScript and Mobile Development, onboarding 3 new enterprise clients.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Frontend Engineer, QA Engineer

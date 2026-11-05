@@ -1,0 +1,31 @@
+LIAM KIM
+Lead Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP10190
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 12 years of experience, based in New York. Strong in Node.js, TypeScript, Angular and SQL, with recent work in energy trading. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to Gurugram, Toronto.
+
+CORE SKILLS
+- Software Engineering: Node.js (Expert, 12.0y), TypeScript (Advanced, 1.2y), Angular (Advanced, 7.0y), GraphQL (Advanced, 4.5y), REST API Design (Proficient, 6.3y), Next.js (Working, 3.3y)
+- Data & AI: SQL (Advanced, 8.3y)
+- Delivery & Leadership: Mentoring (Advanced, 1.5y), Stakeholder Management (Advanced, 3.4y), Communication (Proficient, 7.9y), People Leadership (Proficient, 1.9y)
+
+EXPERIENCE
+* HR Tech Payments Microservices Platform — a leading HR software company (2026-04 to present)
+  Automated a payments microservices platform for a leading HR software company in HR tech using Next.js, TypeScript, Stakeholder Management and SQL, accelerating releases by 40%.
+* Payments Order Management System — a fast-growing payments provider (2025-01 to 2026-03)
+  Designed an order management system for a fast-growing payments provider in payments using Node.js and Next.js, reducing processing time by 12%.
+* Pharma R&D Claims Processing Engine — a global pharma company (2023-06 to 2024-11)
+  Built a claims processing engine for a global pharma company in pharma R&D using REST API Design, Stakeholder Management, Angular and Node.js, reducing processing time by 22%.
+* Energy Trading Pricing Engine — a tier-1 energy company (2022-11 to 2023-05)
+  Designed a pricing engine for a tier-1 energy company in energy trading using GraphQL, Next.js, Stakeholder Management and Mentoring, reducing processing time by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Software Architect

@@ -1,0 +1,33 @@
+JACK WILLIAMS
+Senior Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP11056
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 6.4 years of experience, based in London. Strong in SQL, A/B Testing, Data Visualization and Tableau, with recent work in pharma R&D. Interested in moving towards Financial Analyst, Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 1.9y), Data Visualization (Proficient, 4.0y), Tableau (Proficient, 4.3y), Statistics (Proficient, 3.2y)
+- Product & Design: A/B Testing (Advanced, 2.9y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.7y), Communication (Proficient, 2.9y)
+- Software Engineering: Python (Working, 1.1y)
+
+EXPERIENCE
+* Pharma R&D Data Lakehouse — a leading pharma company (2026-05 to present)
+  Modernised a data lakehouse for a leading pharma company in pharma R&D using Communication, Statistics, A/B Testing and SQL, reducing processing time by 22%.
+* Pharma R&D Customer Churn Model — a tier-1 pharma company (2025-07 to 2026-02)
+  Automated a customer churn model for a tier-1 pharma company in pharma R&D using Tableau, Statistics, Data Visualization and A/B Testing, improving model accuracy by 35%.
+* Manufacturing IoT Data Lakehouse — a fast-growing manufacturer (2024-08 to 2025-06)
+  Built a data lakehouse for a fast-growing manufacturer in manufacturing IoT using Statistics and Tableau, cutting cloud spend by 25%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Financial Analyst, Business Analyst, Product Manager

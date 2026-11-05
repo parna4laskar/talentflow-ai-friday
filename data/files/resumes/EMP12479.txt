@@ -1,0 +1,32 @@
+ETHAN DAS
+Lead CRM Consultant | Enterprise Applications | Austin, United States
+Employee ID: EMP12479
+
+PROFESSIONAL SUMMARY
+Lead CRM Consultant with 8.2 years of experience, based in Austin. Strong in Salesforce, Business Analysis, Process Improvement and Requirements Gathering, with recent work in e-commerce. Interested in moving towards CRM Consultant, SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 2.5y), Business Analysis (Advanced, 5.3y), Process Improvement (Advanced, 1.0y), Requirements Gathering (Advanced, 3.3y)
+- Delivery & Leadership: Mentoring (Advanced, 6.8y), Stakeholder Management (Advanced, 2.5y), Communication (Working, 0.7y)
+- Data & AI: Generative AI (Proficient, 2.1y)
+
+EXPERIENCE
+* E-commerce ERP Finance Rollout — a tier-1 online retailer (2026-01 to present)
+  Built an ERP finance rollout for a tier-1 online retailer in e-commerce using Generative AI and Communication, reducing processing time by 18%.
+* E-commerce ERP Finance Rollout — an APAC online retailer (2024-07 to 2025-11)
+  Led the delivery of an ERP finance rollout for an APAC online retailer in e-commerce using Communication, Mentoring, Requirements Gathering and Process Improvement, reducing processing time by 12%.
+* Telecom Billing CRM Rollout — an APAC telecom operator (2023-10 to 2024-06)
+  Re-architected a CRM rollout for an APAC telecom operator in telecom billing using Business Analysis, Salesforce, Requirements Gathering and Process Improvement, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2022)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: CRM Consultant, SAP Consultant, Scrum Master

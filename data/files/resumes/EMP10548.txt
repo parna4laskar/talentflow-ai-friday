@@ -1,0 +1,26 @@
+VARUN KULKARNI
+Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10548
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.7 years of experience, based in Pune. Strong in Azure, Linux Administration, CI/CD and Python, with recent work in energy trading. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to Hyderabad, Chennai, Austin.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Proficient, 0.4y), Linux Administration (Proficient, 1.4y), CI/CD (Proficient, 1.3y), Terraform (Working, 1.0y), FinOps (Working, 0.3y), Platform Engineering (Working, 0.8y)
+- Software Engineering: Python (Proficient, 1.4y)
+
+EXPERIENCE
+* Energy Trading Data-centre Exit To Cloud — a global energy company (2026-06 to present)
+  Automated a data-centre exit to cloud for a global energy company in energy trading using Terraform, CI/CD, Platform Engineering and FinOps, delivering $5M in cost savings.
+* Energy Trading Kubernetes Platform — a global energy company (2025-06 to 2026-04)
+  Modernised a Kubernetes platform for a global energy company in energy trading using Linux Administration, Python, Azure and Terraform, reducing production incidents by 25%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Cloud Engineer, DevOps Engineer

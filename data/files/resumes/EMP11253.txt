@@ -1,0 +1,36 @@
+SURESH O'BRIEN
+Senior Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP11253
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 7.7 years of experience, based in Hyderabad. Strong in Data Visualization, SQL, Tableau and A/B Testing, with recent work in airline operations. Interested in moving towards Data Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 2.7y), SQL (Proficient, 5.7y), Tableau (Proficient, 1.3y), Statistics (Proficient, 1.3y), Snowflake (Proficient, 0.4y), Databricks (Proficient, 2.0y)
+- Product & Design: A/B Testing (Proficient, 4.8y)
+- Delivery & Leadership: Communication (Proficient, 5.8y)
+- People & Marketing: Marketing Analytics (Working, 1.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Real-time Analytics Pipeline — a European logistics company (2026-01 to present)
+  Automated a real-time analytics pipeline for a European logistics company in supply-chain logistics using Statistics, Snowflake, Data Visualization and Tableau, reducing processing time by 22%.
+* Airline Operations Executive KPI Dashboard Suite — a global airline (2024-10 to 2025-11)
+  Designed an executive KPI dashboard suite for a global airline in airline operations using Data Visualization and A/B Testing, saving ~25K hours annually.
+* Healthcare Executive KPI Dashboard Suite — a global hospital network (2023-11 to 2024-08)
+  Scaled an executive KPI dashboard suite for a global hospital network in healthcare using Data Visualization, Tableau, Snowflake and Databricks, improving forecast accuracy by 25%.
+* Airline Operations Customer Churn Model — a US airline (2022-07 to 2023-09)
+  Led the delivery of a customer churn model for a US airline in airline operations using Tableau and Snowflake, improving conversion by 40%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+- Tableau Desktop Specialist (2022)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst, Product Manager

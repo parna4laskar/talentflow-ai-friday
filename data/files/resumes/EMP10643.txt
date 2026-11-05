@@ -1,0 +1,30 @@
+SHREYA JOSHI
+ML Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP10643
+
+PROFESSIONAL SUMMARY
+ML Engineer with 2.8 years of experience, based in Hyderabad. Strong in Python, Machine Learning, Deep Learning and Databricks, with recent work in HR tech. Interested in moving towards ML Engineer, Platform Engineer roles and open to relocating to London.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 1.2y)
+- Data & AI: Machine Learning (Proficient, 0.8y), Deep Learning (Proficient, 1.2y), Databricks (Proficient, 1.0y), MLOps (Working, 1.0y), Computer Vision (Working, 0.6y)
+- Cloud & DevOps: Docker (Working, 0.8y), AWS (Working, 0.9y), Kubernetes (Beginner, 0.7y)
+
+EXPERIENCE
+* Pharma R&D Recommendation Engine — a leading pharma company (2025-10 to present)
+  Migrated a recommendation engine for a leading pharma company in pharma R&D using Machine Learning and Kubernetes, improving conversion by 12%.
+* Manufacturing IoT Knowledge Assistant (RAG) — a leading manufacturer (2025-02 to 2025-09)
+  Modernised a knowledge assistant (RAG) for a leading manufacturer in manufacturing IoT using MLOps, Docker and Python, lifting NPS by 30 points.
+
+CERTIFICATIONS
+- AWS ML Specialty (2024)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: ML Engineer, Platform Engineer, DevOps Engineer

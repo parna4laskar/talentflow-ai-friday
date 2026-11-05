@@ -1,0 +1,28 @@
+ANJALI CHATTERJEE
+Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10693
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.3 years of experience, based in Hyderabad. Strong in TypeScript, JavaScript, Angular and GraphQL, with recent work in payments. Interested in moving towards Frontend Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.6y), JavaScript (Advanced, 1.7y), Angular (Proficient, 0.5y), GraphQL (Proficient, 0.4y), Next.js (Working, 0.6y)
+- Cloud & DevOps: CI/CD (Working, 0.9y)
+- Quality Engineering: Playwright (Working, 0.4y)
+- Product & Design: Figma (Working, 0.6y)
+
+EXPERIENCE
+* Payments Self-service Portal — a tier-1 payments provider (2026-08 to present)
+  Scaled a self-service portal for a tier-1 payments provider in payments using CI/CD, Next.js, Angular and GraphQL, lifting NPS by 35 points.
+* Manufacturing IoT Order Management System — a European manufacturer (2025-11 to 2026-05)
+  Built an order management system for a European manufacturer in manufacturing IoT using JavaScript, GraphQL and Playwright, reducing processing time by 12%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, UX Designer, QA Engineer, Full Stack Engineer

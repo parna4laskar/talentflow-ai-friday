@@ -1,0 +1,28 @@
+PAWEŁ WIŚNIEWSKI
+Associate Frontend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP10577
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.1 years of experience, based in Kraków. Strong in TypeScript, JavaScript, Angular and Playwright, with recent work in airline operations. Interested in moving towards QA Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.6y), JavaScript (Proficient, 0.6y), Angular (Proficient, 0.5y), Node.js (Beginner, 0.3y)
+- Quality Engineering: Playwright (Proficient, 0.4y)
+- Product & Design: Figma (Working, 0.3y), Design Systems (Working, 0.3y)
+- Cloud & DevOps: CI/CD (Working, 0.4y), Platform Engineering (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Claims Processing Engine — a US airline (2026-09 to present)
+  Led the delivery of a claims processing engine for a US airline in airline operations using Node.js and JavaScript, reducing processing time by 25%.
+* Payments Order Management System — a European payments provider (2025-01 to 2026-06)
+  Migrated an order management system for a European payments provider in payments using CI/CD, TypeScript, Figma and Playwright, reducing processing time by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer, UX Designer, Mobile Engineer

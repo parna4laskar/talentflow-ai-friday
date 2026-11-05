@@ -1,0 +1,31 @@
+EOIN ZIELIŃSKI
+Associate Data Engineer | Data & Analytics | Dublin, Ireland
+Employee ID: EMP11500
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1.2 years of experience, based in Dublin. Strong in SQL, Python, Data Engineering and Airflow, with recent work in airline operations. Interested in moving towards AI Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.6y), Data Engineering (Working, 0.4y), Airflow (Working, 0.6y), dbt (Working, 0.6y), Data Governance (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.6y), Kafka (Working, 0.5y)
+- Cloud & DevOps: AWS (Working, 0.4y), Terraform (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Regulatory Reporting Suite — a fast-growing airline (2026-11 to present)
+  Built a regulatory reporting suite for a fast-growing airline in airline operations using AWS, SQL, Kafka and Terraform, reducing processing time by 18%.
+* Airline Operations Customer Churn Model — a tier-1 airline (2025-03 to 2026-09)
+  Led the delivery of a customer churn model for a tier-1 airline in airline operations using SQL, dbt, AWS and Python, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Data Scientist, ML Engineer

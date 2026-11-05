@@ -1,0 +1,32 @@
+TANVI KAPOOR
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10360
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.9 years of experience, based in Hyderabad. Strong in Communication, Java, REST API Design and SQL, with recent work in manufacturing IoT. Interested in moving towards AI Engineer, Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Advanced, 1.2y)
+- Software Engineering: Java (Proficient, 1.1y), REST API Design (Proficient, 1.4y), Microservices (Working, 1.8y), GraphQL (Working, 1.8y)
+- Data & AI: SQL (Proficient, 0.9y)
+- Cloud & DevOps: CI/CD (Beginner, 0.4y)
+
+EXPERIENCE
+* Energy Trading Payments Microservices Platform — a fast-growing energy company (2026-04 to present)
+  Re-architected a payments microservices platform for a fast-growing energy company in energy trading using REST API Design and Microservices, accelerating releases by 12%.
+* Healthcare Pricing Engine — a tier-1 hospital network (2024-11 to 2026-03)
+  Modernised a pricing engine for a tier-1 hospital network in healthcare using SQL, GraphQL and Communication, improving conversion by 30%.
+* Manufacturing IoT Payments Microservices Platform — a European manufacturer (2024-04 to 2024-09)
+  Built a payments microservices platform for a European manufacturer in manufacturing IoT using Java, Microservices and GraphQL, reducing processing time by 22%.
+* Manufacturing IoT Self-service Portal — an APAC manufacturer (2022-08 to 2024-02)
+  Migrated a self-service portal for an APAC manufacturer in manufacturing IoT using Microservices, REST API Design and Java, lifting NPS by 25 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, Software Architect

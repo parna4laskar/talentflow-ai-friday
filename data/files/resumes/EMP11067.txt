@@ -1,0 +1,30 @@
+NIKHIL RAO
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP11067
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 9.6 years of experience, based in Pune. Strong in Stakeholder Management, System Design, Agile/Scrum and People Leadership, with recent work in airline operations. Interested in moving towards Engineering Manager, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 3.7y), Agile/Scrum (Advanced, 4.5y), People Leadership (Proficient, 2.6y), Mentoring (Proficient, 1.0y), Communication (Proficient, 1.1y), Project Management (Working, 1.8y)
+- Software Engineering: System Design (Advanced, 2.2y), Microservices (Proficient, 2.7y), Python (Proficient, 2.6y), Java (Working, 4.6y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — a leading logistics company (2026-01 to present)
+  Modernised a pricing engine for a leading logistics company in supply-chain logistics using Stakeholder Management and System Design, reducing processing time by 12%.
+* Airline Operations Payments Microservices Platform — an APAC airline (2024-05 to 2025-10)
+  Automated a payments microservices platform for an APAC airline in airline operations using Communication, Java and Mentoring, reducing processing time by 30%.
+* Manufacturing IoT Mobile Banking App — a leading manufacturer (2023-06 to 2024-03)
+  Modernised a mobile banking app for a leading manufacturer in manufacturing IoT using Stakeholder Management and Project Management, lifting NPS by 30 points.
+* Healthcare Claims Processing Engine — a tier-1 hospital network (2022-08 to 2023-04)
+  Scaled a claims processing engine for a tier-1 hospital network in healthcare using Stakeholder Management, Communication, People Leadership and Mentoring, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager, Scrum Master, Backend Engineer

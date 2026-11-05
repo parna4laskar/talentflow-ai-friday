@@ -1,0 +1,32 @@
+SURESH SUBRAMANIAN
+Lead Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP11432
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 9.7 years of experience, based in Pune. Strong in SQL, Python, Airflow and Data Governance, with recent work in insurance claims. Interested in moving towards Backend Engineer, Data Analyst roles and open to relocating to Singapore, Chennai, Toronto.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.9y), Airflow (Advanced, 7.5y), Data Governance (Advanced, 9.4y), Data Engineering (Proficient, 6.0y), Snowflake (Proficient, 4.3y)
+- Software Engineering: Python (Advanced, 6.3y), Kafka (Proficient, 1.0y), Go (Working, 1.0y)
+- Cloud & DevOps: AWS (Proficient, 3.0y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.4y), People Leadership (Proficient, 1.5y)
+
+EXPERIENCE
+* Pharma R&D Data Lakehouse — a US pharma company (2026-05 to present)
+  Migrated a data lakehouse for a US pharma company in pharma R&D using SQL, Kafka and Python, reducing processing time by 35%.
+* Insurance Claims Customer Churn Model — a fast-growing insurer (2025-04 to 2026-04)
+  Designed a customer churn model for a fast-growing insurer in insurance claims using SQL, Stakeholder Management, Data Governance and AWS, improving model accuracy by 35%.
+* Insurance Claims Executive KPI Dashboard Suite — a leading insurer (2023-11 to 2025-03)
+  Built an executive KPI dashboard suite for a leading insurer in insurance claims using Data Governance, Airflow, Stakeholder Management and Data Engineering, saving ~12K hours annually.
+* E-commerce Data Lakehouse — a global online retailer (2023-03 to 2023-10)
+  Built a data lakehouse for a global online retailer in e-commerce using AWS, Airflow, Python and Data Engineering, reducing processing time by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, Data Analyst

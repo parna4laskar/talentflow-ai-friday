@@ -1,0 +1,31 @@
+ANANYA PILLAI
+Principal Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12673
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 21 years of experience, based in Bengaluru. Strong in SQL, GraphQL, Mentoring and Go, with recent work in HR tech. Interested in moving towards Full Stack Engineer roles and open to relocating to Gurugram, Kraków.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 1.7y)
+- Software Engineering: GraphQL (Expert, 8.8y), Go (Advanced, 11.0y), REST API Design (Advanced, 13.6y), Microservices (Advanced, 16.3y), Kafka (Advanced, 20.3y)
+- Delivery & Leadership: Mentoring (Expert, 10.5y), Communication (Advanced, 13.0y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — a global HR software company (2025-08 to present)
+  Re-architected a self-service portal for a global HR software company in HR tech using Microservices, REST API Design and Kafka, saving ~40K hours annually.
+* Energy Trading Order Management System — an APAC energy company (2024-03 to 2025-05)
+  Scaled an order management system for an APAC energy company in energy trading using Microservices and Kafka, onboarding 2 new enterprise clients.
+* Media Streaming Mobile Banking App — a US streaming platform (2022-11 to 2024-01)
+  Modernised a mobile banking app for a US streaming platform in media streaming using Microservices, REST API Design, Kafka and Communication, lifting NPS by 40 points.
+* Wealth Management Order Management System — an APAC wealth manager (2021-12 to 2022-10)
+  Led the delivery of an order management system for an APAC wealth manager in wealth management using Kafka, Go and SQL, onboarding 5 new enterprise clients.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer

@@ -1,0 +1,32 @@
+ISHITA MEHTA
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10952
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 7.3 years of experience, based in Bengaluru. Strong in GraphQL, JavaScript, CI/CD and React, with recent work in insurance claims. Interested in moving towards Full Stack Engineer, QA Engineer roles and open to relocating to Kraków, New York.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Expert, 7.3y), JavaScript (Advanced, 2.5y), React (Proficient, 3.8y), Next.js (Proficient, 1.7y), TypeScript (Working, 2.2y)
+- Cloud & DevOps: CI/CD (Advanced, 2.2y)
+- Product & Design: Figma (Proficient, 2.1y), Design Systems (Working, 3.3y)
+- Data & AI: Agentic AI (Proficient, 2.4y)
+
+EXPERIENCE
+* HR Tech Payments Microservices Platform — a global HR software company (2025-11 to present)
+  Designed a payments microservices platform for a global HR software company in HR tech using GraphQL, Design Systems and Next.js, reducing production incidents by 40%.
+* Insurance Claims Self-service Portal — a tier-1 insurer (2025-04 to 2025-09)
+  Modernised a self-service portal for a tier-1 insurer in insurance claims using JavaScript, CI/CD, GraphQL and React, saving ~18K hours annually.
+* Insurance Claims Self-service Portal — a leading insurer (2024-04 to 2025-03)
+  Automated a self-service portal for a leading insurer in insurance claims using TypeScript, Next.js and Figma, lifting NPS by 35 points.
+* Insurance Claims Customer Onboarding Platform — a leading insurer (2023-11 to 2024-04)
+  Migrated a customer onboarding platform for a leading insurer in insurance claims using React, GraphQL and Next.js, reducing processing time by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, QA Engineer

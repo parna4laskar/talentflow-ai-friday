@@ -1,0 +1,35 @@
+AMELIA WILSON
+Business Analyst | Business Consulting | London, United Kingdom
+Employee ID: EMP11743
+
+PROFESSIONAL SUMMARY
+Business Analyst with 4.4 years of experience, based in London. Strong in Requirements Gathering, Stakeholder Management, SQL and Business Analysis, with recent work in HR tech. Interested in moving towards CRM Consultant, Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 2.4y), Business Analysis (Working, 1.3y), Process Improvement (Working, 0.6y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.8y), Agile/Scrum (Working, 2.1y)
+- Data & AI: SQL (Proficient, 2.6y)
+- Cloud & DevOps: Terraform (Beginner, 0.6y)
+
+EXPERIENCE
+* HR Tech Process Re-engineering Initiative — a global HR software company (2025-08 to present)
+  Ran a process re-engineering initiative for a global HR software company in HR tech using Requirements Gathering, Terraform, Process Improvement and Stakeholder Management, delivering $4M in cost savings.
+* HR Tech Requirements and UAT for a CRM Rollout — an APAC HR software company (2024-07 to 2025-05)
+  Ran a requirements and UAT for a CRM rollout for an APAC HR software company in HR tech using Process Improvement, Stakeholder Management, Requirements Gathering and SQL, reducing processing time by 40%.
+* Energy Trading Agile Transformation — a European energy company (2022-12 to 2024-05)
+  Delivered an agile transformation for a European energy company in energy trading using Agile/Scrum, Process Improvement and Terraform, accelerating releases by 18%.
+* HR Tech Cloud Migration Programme — a European HR software company (2022-06 to 2022-11)
+  Led a cloud migration programme for a European HR software company in HR tech using Stakeholder Management, Agile/Scrum, Business Analysis and Terraform, delivering on time across 6 workstreams.
+
+CERTIFICATIONS
+- CBAP (2025)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: CRM Consultant, Data Analyst

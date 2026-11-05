@@ -1,0 +1,29 @@
+ANJALI KRISHNAN
+Senior Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP12972
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10.6 years of experience, based in Chennai. Strong in Tableau, SQL, Data Visualization and Python, with recent work in insurance claims. Interested in moving towards Business Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Tableau (Expert, 0.8y), SQL (Advanced, 4.9y), Data Visualization (Advanced, 7.7y), Snowflake (Proficient, 5.2y), Statistics (Proficient, 5.8y), Power BI (Working, 1.7y)
+- Software Engineering: Python (Proficient, 2.7y)
+- Business & Finance: Business Analysis (Proficient, 4.3y)
+
+EXPERIENCE
+* Insurance Claims Data Lakehouse — a global insurer (2025-12 to present)
+  Built a data lakehouse for a global insurer in insurance claims using SQL, Power BI, Data Visualization and Statistics, cutting cloud spend by 35%.
+* Healthcare Data Lakehouse — a US hospital network (2024-04 to 2025-09)
+  Re-architected a data lakehouse for a US hospital network in healthcare using Snowflake and Python, cutting cloud spend by 12%.
+* Energy Trading Executive KPI Dashboard Suite — an APAC energy company (2023-05 to 2024-04)
+  Automated an executive KPI dashboard suite for an APAC energy company in energy trading using Python and Tableau, improving forecast accuracy by 18%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, Product Manager

@@ -1,0 +1,31 @@
+NEHA KULKARNI
+Business Analyst | Business Consulting | Hyderabad, India
+Employee ID: EMP12206
+
+PROFESSIONAL SUMMARY
+Business Analyst with 5.3 years of experience, based in Hyderabad. Strong in Requirements Gathering, Business Analysis, Stakeholder Management and SQL, with recent work in payments. Interested in moving towards Data Analyst, Account Manager roles and open to relocating to Toronto, Austin.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 2.4y), Business Analysis (Proficient, 0.7y), Process Improvement (Working, 1.0y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.7y), Agile/Scrum (Working, 1.1y)
+- Data & AI: SQL (Proficient, 1.9y), Power BI (Beginner, 1.2y)
+- Quality Engineering: Playwright (Proficient, 2.9y)
+- Cloud & DevOps: Terraform (Beginner, 0.8y)
+
+EXPERIENCE
+* Payments Agile Transformation — a tier-1 payments provider (2025-08 to present)
+  Led an agile transformation for a tier-1 payments provider in payments using Power BI, Terraform and Stakeholder Management, delivering on time across 5 workstreams.
+* Public Sector Agile Transformation — a US government agency (2024-04 to 2025-07)
+  Coordinated an agile transformation for a US government agency in public sector using Stakeholder Management, Process Improvement, Playwright and Requirements Gathering, delivering on time across 6 workstreams.
+* Payments Agile Transformation — a European payments provider (2023-08 to 2024-02)
+  Delivered an agile transformation for a European payments provider in payments using SQL, Agile/Scrum, Power BI and Playwright, delivering on time across 6 workstreams.
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, Account Manager

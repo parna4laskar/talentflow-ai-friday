@@ -1,0 +1,31 @@
+DIVYA NAIDU
+Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11741
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2 years of experience, based in Hyderabad. Strong in FinOps, Platform Engineering, Python and AWS, with recent work in media streaming. Interested in moving towards Platform Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: FinOps (Proficient, 0.6y), Platform Engineering (Proficient, 0.7y), AWS (Proficient, 0.9y), GCP (Working, 0.4y), Terraform (Working, 0.7y), Linux Administration (Working, 0.5y), CI/CD (Working, 0.9y)
+- Software Engineering: Python (Proficient, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 0.9y)
+- Security: Cloud Security (Working, 0.6y)
+
+EXPERIENCE
+* HR Tech Data-centre Exit To Cloud — a European HR software company (2026-07 to present)
+  Automated a data-centre exit to cloud for a European HR software company in HR tech using Cloud Security, Terraform, AWS and Communication, delivering $3M in cost savings.
+* Wealth Management Data-centre Exit To Cloud — a tier-1 wealth manager (2025-08 to 2026-05)
+  Re-architected a data-centre exit to cloud for a tier-1 wealth manager in wealth management using Python and AWS, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Site Reliability Engineer, DevOps Engineer

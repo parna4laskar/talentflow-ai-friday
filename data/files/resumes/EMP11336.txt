@@ -1,0 +1,34 @@
+HARRY JONES
+Lead Cloud Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP11336
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 13.2 years of experience, based in London. Strong in Terraform, Linux Administration, Platform Engineering and Azure, with recent work in payments. Interested in moving towards Platform Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 8.8y), Linux Administration (Advanced, 4.7y), Platform Engineering (Advanced, 8.3y), Azure (Proficient, 3.9y), Kubernetes (Proficient, 0.9y)
+- Delivery & Leadership: Mentoring (Proficient, 3.8y), People Leadership (Proficient, 6.3y)
+- Software Engineering: Python (Working, 5.0y)
+
+EXPERIENCE
+* Telecom Billing Cloud Landing Zone — a European telecom operator (2026-04 to present)
+  Modernised a cloud landing zone for a European telecom operator in telecom billing using Platform Engineering, Terraform, Linux Administration and Kubernetes, cutting cloud spend by 35%.
+* Insurance Claims Kubernetes Platform — a European insurer (2025-06 to 2026-02)
+  Re-architected a Kubernetes platform for a European insurer in insurance claims using Python, Azure and Platform Engineering, accelerating releases by 40%.
+* E-commerce Observability Stack — a global online retailer (2024-08 to 2025-04)
+  Led the delivery of an observability stack for a global online retailer in e-commerce using Mentoring, Kubernetes, Python and Azure, reducing production incidents by 22%.
+* Insurance Claims Data-centre Exit To Cloud — a European insurer (2023-05 to 2024-05)
+  Built a data-centre exit to cloud for a European insurer in insurance claims using Python and Platform Engineering, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Platform Engineer, DevOps Engineer, Software Architect

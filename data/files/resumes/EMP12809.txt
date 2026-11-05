@@ -1,0 +1,30 @@
+VENKAT PAWAR
+Lead Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12809
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 8.2 years of experience, based in Pune. Strong in Python, Apache Spark, SQL and Data Engineering, with recent work in HR tech. Interested in moving towards AI Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 3.8y), Kafka (Proficient, 1.8y)
+- Data & AI: Apache Spark (Expert, 4.7y), SQL (Advanced, 8.1y), Data Engineering (Advanced, 7.8y), dbt (Advanced, 5.6y), Airflow (Working, 2.2y)
+- Cloud & DevOps: AWS (Proficient, 1.3y)
+- Delivery & Leadership: Mentoring (Proficient, 5.4y)
+
+EXPERIENCE
+* Retail Banking Regulatory Reporting Suite — a fast-growing retail bank (2026-09 to present)
+  Modernised a regulatory reporting suite for a fast-growing retail bank in retail banking using Python, SQL and dbt, saving ~40K hours annually.
+* HR Tech Regulatory Reporting Suite — a fast-growing HR software company (2025-06 to 2026-07)
+  Led the delivery of a regulatory reporting suite for a fast-growing HR software company in HR tech using AWS, Kafka, Data Engineering and Python, reducing processing time by 18%.
+* HR Tech Executive KPI Dashboard Suite — a fast-growing HR software company (2024-01 to 2025-06)
+  Designed an executive KPI dashboard suite for a fast-growing HR software company in HR tech using SQL, Data Engineering and Mentoring, improving forecast accuracy by 25%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Data Analyst, Data Scientist

@@ -1,0 +1,35 @@
+NANDINI SHEIKH
+Lead Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP11830
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 9.9 years of experience, based in Chennai. Strong in SQL, Python, Data Engineering and Airflow, with recent work in media streaming. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 5.7y), Data Engineering (Advanced, 9.2y), Airflow (Advanced, 7.6y), Databricks (Advanced, 7.4y), Snowflake (Proficient, 0.6y), Data Governance (Working, 2.5y)
+- Software Engineering: Python (Advanced, 8.8y), Kafka (Proficient, 7.2y)
+- Delivery & Leadership: Mentoring (Advanced, 2.5y), Stakeholder Management (Advanced, 2.3y)
+- Cloud & DevOps: FinOps (Working, 2.7y)
+
+EXPERIENCE
+* Media Streaming Regulatory Reporting Suite — a European streaming platform (2026-06 to present)
+  Built a regulatory reporting suite for a European streaming platform in media streaming using Databricks, Mentoring and FinOps, reducing processing time by 30%.
+* Media Streaming Regulatory Reporting Suite — a tier-1 streaming platform (2025-12 to 2026-05)
+  Led the delivery of a regulatory reporting suite for a tier-1 streaming platform in media streaming using Python, Data Engineering and Airflow, saving ~12K hours annually.
+* Manufacturing IoT Data Lakehouse — a European manufacturer (2025-05 to 2025-11)
+  Migrated a data lakehouse for a European manufacturer in manufacturing IoT using Data Engineering, Mentoring, Airflow and SQL, cutting cloud spend by 12%.
+* Retail Banking Customer Churn Model — a leading retail bank (2024-06 to 2025-03)
+  Automated a customer churn model for a leading retail bank in retail banking using FinOps, SQL, Stakeholder Management and Python, improving conversion by 25%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer

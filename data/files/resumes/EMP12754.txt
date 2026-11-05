@@ -1,0 +1,33 @@
+ANANYA BHAT
+Senior Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP12754
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 7.7 years of experience, based in Hyderabad. Strong in Data Visualization, Statistics, SQL and Power BI, with recent work in retail banking. Interested in moving towards Data Scientist roles and open to relocating to Kraków, Dublin.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 3.4y), Statistics (Advanced, 3.0y), SQL (Proficient, 2.0y), Power BI (Proficient, 4.1y), Snowflake (Working, 1.0y)
+- Product & Design: A/B Testing (Proficient, 4.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 5.3y), Communication (Proficient, 0.4y)
+- Cloud & DevOps: FinOps (Working, 1.5y)
+
+EXPERIENCE
+* Healthcare Executive KPI Dashboard Suite — a European hospital network (2026-05 to present)
+  Modernised an executive KPI dashboard suite for a European hospital network in healthcare using Statistics, Snowflake, A/B Testing and Stakeholder Management, improving forecast accuracy by 40%.
+* Retail Banking Customer Churn Model — a leading retail bank (2025-04 to 2026-02)
+  Designed a customer churn model for a leading retail bank in retail banking using FinOps, Statistics and Power BI, improving model accuracy by 30%.
+* Retail Banking Real-time Analytics Pipeline — a US retail bank (2023-10 to 2025-04)
+  Re-architected a real-time analytics pipeline for a US retail bank in retail banking using FinOps and Statistics, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist

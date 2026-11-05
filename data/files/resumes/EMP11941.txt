@@ -1,0 +1,35 @@
+ROHAN BROWN
+Senior ML Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP11941
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 8 years of experience, based in London. Strong in Machine Learning, Python, MLOps and Deep Learning, with recent work in insurance claims. Interested in moving towards DevOps Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 3.5y), MLOps (Proficient, 2.0y), Deep Learning (Proficient, 3.9y), NLP (Working, 1.5y)
+- Software Engineering: Python (Proficient, 2.9y)
+- Cloud & DevOps: Docker (Working, 0.4y), AWS (Working, 2.2y), Kubernetes (Working, 0.5y), CI/CD (Working, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Document Intelligence Pipeline — a tier-1 insurer (2026-09 to present)
+  Designed a document intelligence pipeline for a tier-1 insurer in insurance claims using AWS and CI/CD, reducing processing time by 35%.
+* Insurance Claims Fraud Detection Model — an APAC insurer (2025-08 to 2026-07)
+  Modernised a fraud detection model for an APAC insurer in insurance claims using Deep Learning and MLOps, improving model accuracy by 40%.
+* Insurance Claims Document Intelligence Pipeline — a European insurer (2024-03 to 2025-06)
+  Migrated a document intelligence pipeline for a European insurer in insurance claims using Machine Learning, Docker, Deep Learning and NLP, reducing processing time by 30%.
+* Airline Operations Recommendation Engine — a global airline (2023-09 to 2024-01)
+  Designed a recommendation engine for a global airline in airline operations using Machine Learning, Kubernetes and Python, improving model accuracy by 35%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+- AWS ML Specialty (2025)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Data Scientist

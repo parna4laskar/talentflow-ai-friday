@@ -1,0 +1,33 @@
+NAVEEN NAIDU
+Senior Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP10708
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5.3 years of experience, based in Hyderabad. Strong in Kafka, Python, Airflow and dbt, with recent work in wealth management. Interested in moving towards ML Engineer roles and open to relocating to Dublin, Gurugram, Kraków.
+
+CORE SKILLS
+- Software Engineering: Kafka (Expert, 5.3y), Python (Advanced, 0.6y)
+- Data & AI: Airflow (Advanced, 3.9y), dbt (Advanced, 3.3y), SQL (Proficient, 3.4y), Data Engineering (Proficient, 1.9y), Snowflake (Proficient, 1.2y), Data Governance (Working, 1.0y)
+- Cloud & DevOps: AWS (Proficient, 1.1y), GCP (Proficient, 3.7y)
+- Delivery & Leadership: Communication (Working, 1.3y)
+
+EXPERIENCE
+* Energy Trading Regulatory Reporting Suite — a global energy company (2026-01 to present)
+  Built a regulatory reporting suite for a global energy company in energy trading using Communication and GCP, reducing processing time by 35%.
+* Wealth Management Real-time Analytics Pipeline — a global wealth manager (2025-04 to 2026-01)
+  Scaled a real-time analytics pipeline for a global wealth manager in wealth management using GCP and AWS, reducing processing time by 22%.
+* Pharma R&D Customer Churn Model — a US pharma company (2024-07 to 2025-02)
+  Led the delivery of a customer churn model for a US pharma company in pharma R&D using Data Governance and Snowflake, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: ML Engineer

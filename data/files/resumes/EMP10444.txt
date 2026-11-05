@@ -1,0 +1,31 @@
+ROHAN BROWN
+Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP10444
+
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience, based in London. Strong in Python, Machine Learning, SQL and Data Visualization, with recent work in media streaming. Interested in moving towards Product Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 2.4y)
+- Data & AI: Machine Learning (Proficient, 2.1y), SQL (Proficient, 0.8y), Data Visualization (Proficient, 4.0y), Statistics (Working, 2.1y), Generative AI (Working, 1.3y), Deep Learning (Working, 1.5y), MLOps (Working, 2.7y), NLP (Working, 2.2y), Computer Vision (Working, 2.0y)
+- Delivery & Leadership: Communication (Working, 2.7y)
+
+EXPERIENCE
+* Media Streaming Customer Churn Model — a European streaming platform (2025-10 to present)
+  Re-architected a customer churn model for a European streaming platform in media streaming using Data Visualization, Communication, MLOps and Python, improving model accuracy by 40%.
+* Media Streaming Real-time Analytics Pipeline — a US streaming platform (2024-08 to 2025-09)
+  Automated a real-time analytics pipeline for a US streaming platform in media streaming using Python, SQL, Communication and Computer Vision, cutting cloud spend by 18%.
+* Media Streaming Executive KPI Dashboard Suite — an APAC streaming platform (2024-01 to 2024-08)
+  Automated an executive KPI dashboard suite for an APAC streaming platform in media streaming using Deep Learning, Data Visualization, NLP and Computer Vision, improving forecast accuracy by 12%.
+* Retail Banking Data Lakehouse — a tier-1 retail bank (2023-04 to 2023-11)
+  Designed a data lakehouse for a tier-1 retail bank in retail banking using Deep Learning, MLOps and Computer Vision, reducing processing time by 40%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Product Manager

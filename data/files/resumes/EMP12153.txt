@@ -1,0 +1,33 @@
+MATEUSZ NOWAK
+Data Engineer | Data & Analytics | Kraków, Poland
+Employee ID: EMP12153
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4.4 years of experience, based in Kraków. Strong in Python, Data Engineering, SQL and Databricks, with recent work in healthcare. Interested in moving towards Data Engineer, Backend Engineer roles and open to relocating to Dublin, Austin, London.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.4y)
+- Data & AI: Data Engineering (Advanced, 0.9y), SQL (Proficient, 2.2y), Databricks (Proficient, 1.0y), dbt (Working, 1.0y), Snowflake (Working, 1.7y), Airflow (Beginner, 0.9y)
+- Delivery & Leadership: Communication (Working, 2.0y)
+- Cloud & DevOps: AWS (Beginner, 0.9y)
+
+EXPERIENCE
+* Public Sector Regulatory Reporting Suite — a leading government agency (2026-08 to present)
+  Scaled a regulatory reporting suite for a leading government agency in public sector using Snowflake, SQL, Communication and AWS, reducing processing time by 30%.
+* Healthcare Regulatory Reporting Suite — a European hospital network (2025-06 to 2026-07)
+  Automated a regulatory reporting suite for a European hospital network in healthcare using Python and Snowflake, saving ~25K hours annually.
+* Pharma R&D Regulatory Reporting Suite — a global pharma company (2024-04 to 2025-06)
+  Built a regulatory reporting suite for a global pharma company in pharma R&D using Python, SQL, AWS and Snowflake, saving ~18K hours annually.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer, Backend Engineer

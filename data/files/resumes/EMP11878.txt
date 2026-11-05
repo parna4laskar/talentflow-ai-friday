@@ -1,0 +1,30 @@
+AARAV PATIL
+Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11878
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.5 years of experience, based in Chennai. Strong in TypeScript, JavaScript, Communication and Angular, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.5y), JavaScript (Advanced, 2.4y), Angular (Proficient, 0.7y), Next.js (Working, 1.0y)
+- Delivery & Leadership: Communication (Advanced, 0.8y)
+- Quality Engineering: Playwright (Beginner, 0.6y)
+
+EXPERIENCE
+* Manufacturing IoT Pricing Engine — a leading manufacturer (2025-11 to present)
+  Modernised a pricing engine for a leading manufacturer in manufacturing IoT using Angular and Playwright, improving conversion by 22%.
+* Healthcare Mobile Banking App — an APAC hospital network (2025-04 to 2025-10)
+  Migrated a mobile banking app for an APAC hospital network in healthcare using JavaScript, Communication, Next.js and Playwright, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, Mobile Engineer, QA Engineer, Full Stack Engineer

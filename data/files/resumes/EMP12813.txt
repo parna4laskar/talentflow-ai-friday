@@ -1,0 +1,35 @@
+KUNAL VERMA
+Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12813
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5.5 years of experience, based in Bengaluru. Strong in Python, Data Engineering, dbt and Databricks, with recent work in healthcare. Interested in moving towards AI Engineer, ML Engineer roles and open to relocating to New York, Gurugram, Toronto.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 3.8y)
+- Data & AI: Data Engineering (Proficient, 0.4y), dbt (Proficient, 3.2y), Databricks (Proficient, 4.0y), Snowflake (Proficient, 1.0y), LLM Engineering (Proficient, 2.2y), SQL (Working, 1.1y), Data Governance (Working, 0.5y)
+- Cloud & DevOps: AWS (Proficient, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 1.8y)
+
+EXPERIENCE
+* Supply-chain Logistics Customer Churn Model — a fast-growing logistics company (2025-11 to present)
+  Designed a customer churn model for a fast-growing logistics company in supply-chain logistics using Communication and AWS, improving conversion by 40%.
+* Supply-chain Logistics Executive KPI Dashboard Suite — a European logistics company (2024-06 to 2025-10)
+  Modernised an executive KPI dashboard suite for a European logistics company in supply-chain logistics using Python, Databricks and Snowflake, saving ~22K hours annually.
+* Healthcare Regulatory Reporting Suite — an APAC hospital network (2022-10 to 2024-03)
+  Re-architected a regulatory reporting suite for an APAC hospital network in healthcare using LLM Engineering and Data Engineering, reducing processing time by 35%.
+* Healthcare Regulatory Reporting Suite — a US hospital network (2022-02 to 2022-10)
+  Migrated a regulatory reporting suite for a US hospital network in healthcare using Python, Data Governance and dbt, saving ~18K hours annually.
+
+CERTIFICATIONS
+- SnowPro Core (2025)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, ML Engineer

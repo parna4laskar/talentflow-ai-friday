@@ -1,0 +1,32 @@
+CHRISTOPHER LEE
+Frontend Engineer | Engineering | Austin, United States
+Employee ID: EMP10447
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.4 years of experience, based in Austin. Strong in TypeScript, JavaScript, Design Systems and React, with recent work in insurance claims. Interested in moving towards Frontend Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 1.5y), JavaScript (Proficient, 2.1y), React (Working, 0.9y), Next.js (Working, 1.3y), GraphQL (Working, 1.4y)
+- Product & Design: Design Systems (Proficient, 1.8y), Figma (Working, 0.9y)
+- Delivery & Leadership: Communication (Working, 1.2y)
+- Cloud & DevOps: CI/CD (Beginner, 0.7y), Terraform (Beginner, 0.7y), Kubernetes (Beginner, 0.8y)
+
+EXPERIENCE
+* Insurance Claims Mobile Banking App — a global insurer (2025-10 to present)
+  Designed a mobile banking app for a global insurer in insurance claims using Kubernetes, GraphQL and CI/CD, lifting NPS by 40 points.
+* Automotive Self-service Portal — a European car maker (2024-12 to 2025-09)
+  Led the delivery of a self-service portal for a European car maker in automotive using React, CI/CD, Next.js and Kubernetes, lifting NPS by 18 points.
+* Insurance Claims Mobile Banking App — a European insurer (2023-09 to 2024-11)
+  Automated a mobile banking app for a European insurer in insurance claims using Kubernetes and GraphQL, lifting NPS by 40 points.
+* Energy Trading Order Management System — a European energy company (2023-02 to 2023-09)
+  Led the delivery of an order management system for a European energy company in energy trading using Kubernetes, Figma and TypeScript, reducing processing time by 25%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Frontend Engineer, UX Designer, Mobile Engineer

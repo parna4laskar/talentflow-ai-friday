@@ -1,0 +1,31 @@
+ARJUN BANERJEE
+Lead Data Scientist | Data & Analytics | Hyderabad, India
+Employee ID: EMP11222
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 13.8 years of experience, based in Hyderabad. Strong in Python, Machine Learning, Statistics and SQL, with recent work in healthcare. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 11.8y)
+- Data & AI: Machine Learning (Expert, 10.4y), Statistics (Advanced, 10.1y), SQL (Advanced, 11.7y), Deep Learning (Advanced, 3.9y), MLOps (Proficient, 6.0y)
+- Delivery & Leadership: Mentoring (Proficient, 5.7y)
+
+EXPERIENCE
+* Insurance Claims Data Lakehouse — a fast-growing insurer (2026-05 to present)
+  Designed a data lakehouse for a fast-growing insurer in insurance claims using MLOps, Machine Learning and Mentoring, cutting cloud spend by 22%.
+* Telecom Billing Customer Churn Model — a tier-1 telecom operator (2024-11 to 2026-05)
+  Led the delivery of a customer churn model for a tier-1 telecom operator in telecom billing using Machine Learning and Mentoring, improving conversion by 35%.
+* HR Tech Executive KPI Dashboard Suite — a tier-1 HR software company (2023-07 to 2024-08)
+  Migrated an executive KPI dashboard suite for a tier-1 HR software company in HR tech using Mentoring, Python, SQL and Deep Learning, improving forecast accuracy by 12%.
+* Healthcare Customer Churn Model — a leading hospital network (2022-02 to 2023-06)
+  Automated a customer churn model for a leading hospital network in healthcare using Python, Statistics, MLOps and SQL, improving conversion by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, Product Manager, Data Analyst

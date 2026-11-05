@@ -1,0 +1,29 @@
+ZOYA KULKARNI
+DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10425
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 2.5 years of experience, based in Bengaluru. Strong in CI/CD, Docker, AWS and Python, with recent work in payments. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 0.5y), Docker (Advanced, 2.5y), AWS (Advanced, 1.1y), Kubernetes (Working, 0.5y), Terraform (Working, 1.1y)
+- Software Engineering: Python (Proficient, 1.1y), Go (Beginner, 0.6y)
+
+EXPERIENCE
+* Payments Data-centre Exit To Cloud — a tier-1 payments provider (2026-02 to present)
+  Modernised a data-centre exit to cloud for a tier-1 payments provider in payments using Python, CI/CD and Docker, cutting cloud spend by 18%.
+* Energy Trading Observability Stack — a European energy company (2024-09 to 2026-01)
+  Designed an observability stack for a European energy company in energy trading using CI/CD, Terraform and AWS, accelerating releases by 40%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2024)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Backend Engineer, Cloud Engineer

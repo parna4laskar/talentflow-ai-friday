@@ -1,0 +1,32 @@
+VIVEK PATIL
+Lead Software Architect | Engineering | Bengaluru, India
+Employee ID: EMP10184
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 10.2 years of experience, based in Bengaluru. Strong in System Design, Microservices, Cloud Security and Stakeholder Management, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, DevOps Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 2.9y), Stakeholder Management (Advanced, 1.2y), Communication (Proficient, 2.0y)
+- Software Engineering: System Design (Advanced, 2.2y), Microservices (Advanced, 2.3y), Java (Proficient, 6.5y), Kafka (Proficient, 1.0y)
+- Security: Cloud Security (Advanced, 3.5y)
+- Cloud & DevOps: AWS (Working, 1.1y), Kubernetes (Working, 1.0y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — a fast-growing manufacturer (2026-03 to present)
+  Automated a claims processing engine for a fast-growing manufacturer in manufacturing IoT using System Design and Kafka, saving ~30K hours annually.
+* Insurance Claims Payments Microservices Platform — a European insurer (2024-11 to 2026-01)
+  Scaled a payments microservices platform for a European insurer in insurance claims using System Design, AWS, Kafka and Java, reducing processing time by 35%.
+* Manufacturing IoT Pricing Engine — a fast-growing manufacturer (2023-04 to 2024-10)
+  Led the delivery of a pricing engine for a fast-growing manufacturer in manufacturing IoT using System Design and Kafka, improving conversion by 12%.
+* Manufacturing IoT Self-service Portal — a global manufacturer (2022-10 to 2023-04)
+  Migrated a self-service portal for a global manufacturer in manufacturing IoT using Kafka, Cloud Security and Java, saving ~35K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Engineering Manager, DevOps Engineer, Backend Engineer

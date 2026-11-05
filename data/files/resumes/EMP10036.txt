@@ -1,0 +1,32 @@
+PAWEŁ ZIELIŃSKI
+Mobile Engineer | Engineering | Kraków, Poland
+Employee ID: EMP10036
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 3.8 years of experience, based in Kraków. Strong in Mobile Development, React, Test Automation and Communication, with recent work in pharma R&D. Interested in moving towards Frontend Engineer, Backend Engineer roles and open to relocating to New York, Singapore, London.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 0.8y), React (Proficient, 1.2y), TypeScript (Working, 1.1y), REST API Design (Working, 0.6y), GraphQL (Working, 1.5y)
+- Quality Engineering: Test Automation (Proficient, 1.4y)
+- Delivery & Leadership: Communication (Proficient, 2.5y)
+- Product & Design: UI Design (Working, 0.9y)
+
+EXPERIENCE
+* Pharma R&D Order Management System — a leading pharma company (2026-02 to present)
+  Modernised an order management system for a leading pharma company in pharma R&D using Test Automation and UI Design, onboarding 4 new enterprise clients.
+* E-commerce Order Management System — a tier-1 online retailer (2025-04 to 2025-12)
+  Automated an order management system for a tier-1 online retailer in e-commerce using TypeScript and Mobile Development, reducing processing time by 40%.
+* Manufacturing IoT Customer Onboarding Platform — a US manufacturer (2023-09 to 2025-02)
+  Scaled a customer onboarding platform for a US manufacturer in manufacturing IoT using UI Design, Mobile Development and React, lifting NPS by 35 points.
+* Pharma R&D Pricing Engine — a fast-growing pharma company (2022-11 to 2023-07)
+  Led the delivery of a pricing engine for a fast-growing pharma company in pharma R&D using Test Automation, UI Design and REST API Design, improving conversion by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Frontend Engineer, Backend Engineer, QA Engineer

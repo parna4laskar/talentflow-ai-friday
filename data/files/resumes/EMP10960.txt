@@ -1,0 +1,27 @@
+VARUN HEGDE
+Associate Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP10960
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2.6 years of experience, based in Hyderabad. Strong in Data Visualization, Power BI, SQL and A/B Testing, with recent work in automotive. Interested in moving towards Data Analyst, Business Analyst roles and open to relocating to London, Austin, Toronto.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 1.4y), Power BI (Advanced, 2.0y), SQL (Proficient, 1.2y), Statistics (Working, 1.3y)
+- Product & Design: A/B Testing (Working, 1.2y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+
+EXPERIENCE
+* Automotive Data Lakehouse — a global car maker (2025-10 to present)
+  Designed a data lakehouse for a global car maker in automotive using Statistics and A/B Testing, cutting cloud spend by 22%.
+* Automotive Regulatory Reporting Suite — an APAC car maker (2025-05 to 2025-10)
+  Modernised a regulatory reporting suite for an APAC car maker in automotive using SQL, Data Visualization and A/B Testing, reducing processing time by 12%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, Business Analyst

@@ -1,0 +1,28 @@
+PIOTR ROY
+Associate Frontend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11261
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 2.6 years of experience, based in Kraków. Strong in React, GraphQL, Figma and Node.js, with recent work in HR tech. Interested in moving towards Mobile Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: React (Proficient, 1.3y), GraphQL (Proficient, 1.9y), Node.js (Proficient, 1.9y), JavaScript (Working, 1.0y), Next.js (Working, 1.0y), TypeScript (Beginner, 0.4y)
+- Product & Design: Figma (Proficient, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+- Cloud & DevOps: FinOps (Beginner, 0.3y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — a European HR software company (2025-11 to present)
+  Modernised a self-service portal for a European HR software company in HR tech using React, Node.js and GraphQL, saving ~12K hours annually.
+* HR Tech Customer Onboarding Platform — a fast-growing HR software company (2024-11 to 2025-09)
+  Modernised a customer onboarding platform for a fast-growing HR software company in HR tech using Next.js and Node.js, reducing processing time by 40%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Mobile Engineer, UX Designer, QA Engineer

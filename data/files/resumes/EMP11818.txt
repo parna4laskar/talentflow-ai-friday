@@ -1,0 +1,30 @@
+SAURABH SHEIKH
+Senior Site Reliability Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP11818
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 5.2 years of experience, based in Chennai. Strong in Kubernetes, Observability, Terraform and Communication, with recent work in insurance claims. Interested in moving towards Site Reliability Engineer, Security Engineer roles and open to relocating to Austin, Toronto, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 5.2y), Observability (Advanced, 1.2y), Terraform (Advanced, 1.0y), Site Reliability Engineering (Proficient, 3.0y), Linux Administration (Proficient, 1.3y), AWS (Proficient, 0.8y), Platform Engineering (Working, 0.8y)
+- Delivery & Leadership: Communication (Advanced, 2.5y)
+- Software Engineering: Python (Proficient, 3.6y), Go (Proficient, 2.2y)
+- Security: Incident Response (Working, 1.9y)
+
+EXPERIENCE
+* Insurance Claims Cloud Landing Zone — a US insurer (2025-10 to present)
+  Migrated a cloud landing zone for a US insurer in insurance claims using Linux Administration and Communication, accelerating releases by 30%.
+* Media Streaming Data-centre Exit To Cloud — a tier-1 streaming platform (2025-03 to 2025-08)
+  Built a data-centre exit to cloud for a tier-1 streaming platform in media streaming using AWS, Site Reliability Engineering, Communication and Kubernetes, cutting cloud spend by 12%.
+* HR Tech CI/CD Platform — a tier-1 HR software company (2023-08 to 2025-02)
+  Modernised a CI/CD platform for a tier-1 HR software company in HR tech using Observability and Python, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer, Security Engineer, Cloud Engineer, Platform Engineer

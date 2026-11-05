@@ -1,0 +1,28 @@
+ASHLEY GARCIA
+Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP11301
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.4 years of experience, based in New York. Strong in TypeScript, Angular, Java and SQL, with recent work in wealth management. Interested in moving towards Mobile Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.8y), Angular (Proficient, 1.8y), Java (Proficient, 1.4y), Next.js (Working, 0.6y), Microservices (Beginner, 0.3y), GraphQL (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.7y), LLM Engineering (Beginner, 0.5y)
+- Cloud & DevOps: Docker (Proficient, 0.9y), AWS (Working, 0.4y), Terraform (Working, 0.7y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Public Sector Order Management System — a leading government agency (2025-08 to present)
+  Built an order management system for a leading government agency in public sector using LLM Engineering and AWS, onboarding 2 new enterprise clients.
+* Wealth Management Mobile Banking App — a leading wealth manager (2024-11 to 2025-06)
+  Scaled a mobile banking app for a leading wealth manager in wealth management using SQL and Angular, lifting NPS by 18 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer, Frontend Engineer

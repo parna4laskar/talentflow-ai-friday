@@ -1,0 +1,27 @@
+JAMES EVANS
+Associate Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP11953
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1 years of experience, based in London. Strong in SQL, Apache Spark, Data Governance and Python, with recent work in insurance claims. Interested in moving towards AI Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.6y), Apache Spark (Proficient, 0.6y), Data Governance (Proficient, 0.6y), Data Engineering (Working, 0.4y), dbt (Working, 0.4y)
+- Software Engineering: Python (Working, 0.5y)
+- Cloud & DevOps: AWS (Working, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Executive KPI Dashboard Suite — an APAC insurer (2026-10 to present)
+  Designed an executive KPI dashboard suite for an APAC insurer in insurance claims using Apache Spark and Python, saving ~12K hours annually.
+* Insurance Claims Executive KPI Dashboard Suite — a US insurer (2025-03 to 2026-07)
+  Automated an executive KPI dashboard suite for a US insurer in insurance claims using Python, Data Governance and dbt, saving ~12K hours annually.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Tamil
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, Data Analyst

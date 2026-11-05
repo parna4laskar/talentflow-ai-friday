@@ -1,0 +1,30 @@
+AARAV SUBRAMANIAN
+Senior Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11032
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 10.8 years of experience, based in Pune. Strong in AWS, Linux Administration, CI/CD and FinOps, with recent work in HR tech. Interested in moving towards Cloud Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 10.4y), Linux Administration (Proficient, 0.8y), CI/CD (Proficient, 6.0y), FinOps (Proficient, 1.2y), Terraform (Working, 4.3y), Platform Engineering (Working, 4.5y), Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Observability Stack — a European retail bank (2026-03 to present)
+  Modernised an observability stack for a European retail bank in retail banking using CI/CD and Kubernetes, accelerating releases by 30%.
+* Retail Banking Data-centre Exit To Cloud — an APAC retail bank (2024-09 to 2026-02)
+  Automated a data-centre exit to cloud for an APAC retail bank in retail banking using Linux Administration and Terraform, cutting cloud spend by 35%.
+* Healthcare CI/CD Platform — an APAC hospital network (2024-01 to 2024-06)
+  Migrated a CI/CD platform for an APAC hospital network in healthcare using Linux Administration, Terraform, FinOps and Platform Engineering, accelerating releases by 22%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Cloud Engineer, Platform Engineer, Software Architect, DevOps Engineer

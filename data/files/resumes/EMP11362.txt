@@ -1,0 +1,28 @@
+NIKHIL BHAT
+Cloud Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP11362
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.7 years of experience, based in Gurugram. Strong in Linux Administration, Kubernetes, GCP and Terraform, with recent work in wealth management. Interested in moving towards Software Architect, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 2.4y), Kubernetes (Proficient, 1.7y), GCP (Working, 0.7y), Terraform (Working, 0.4y), CI/CD (Working, 0.3y), Observability (Working, 1.3y)
+
+EXPERIENCE
+* Wealth Management Observability Stack — an APAC wealth manager (2026-06 to present)
+  Migrated an observability stack for an APAC wealth manager in wealth management using CI/CD, Observability, Kubernetes and Terraform, accelerating releases by 35%.
+* Telecom Billing Data-centre Exit To Cloud — a US telecom operator (2024-11 to 2026-04)
+  Led the delivery of a data-centre exit to cloud for a US telecom operator in telecom billing using Linux Administration, CI/CD and Observability, delivering $8M in cost savings.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Platform Engineer

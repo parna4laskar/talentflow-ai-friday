@@ -1,0 +1,35 @@
+ANDREW CHEN
+Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP11021
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5.9 years of experience, based in New York. Strong in Databricks, Data Engineering, SQL and Python, with recent work in energy trading. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Databricks (Advanced, 1.8y), Data Engineering (Proficient, 2.3y), SQL (Working, 1.9y), dbt (Working, 2.3y), Snowflake (Working, 1.8y), Data Governance (Working, 2.1y)
+- Software Engineering: Python (Working, 0.3y)
+- Cloud & DevOps: AWS (Working, 0.8y)
+
+EXPERIENCE
+* Energy Trading Real-time Analytics Pipeline — a tier-1 energy company (2026-08 to present)
+  Built a real-time analytics pipeline for a tier-1 energy company in energy trading using Data Governance, Snowflake and Data Engineering, cutting cloud spend by 40%.
+* Energy Trading Data Lakehouse — an APAC energy company (2026-01 to 2026-06)
+  Designed a data lakehouse for an APAC energy company in energy trading using Data Engineering, SQL, Databricks and Snowflake, cutting cloud spend by 22%.
+* Retail Banking Data Lakehouse — a fast-growing retail bank (2025-02 to 2025-10)
+  Migrated a data lakehouse for a fast-growing retail bank in retail banking using AWS, SQL and Data Governance, cutting cloud spend by 18%.
+* Pharma R&D Executive KPI Dashboard Suite — a global pharma company (2023-11 to 2025-02)
+  Built an executive KPI dashboard suite for a global pharma company in pharma R&D using Databricks and Snowflake, improving forecast accuracy by 25%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+- SnowPro Core (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Japanese
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, AI Engineer, Data Analyst

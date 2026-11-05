@@ -1,0 +1,27 @@
+AARAV SEN
+Associate Business Analyst | Business Consulting | Hyderabad, India
+Employee ID: EMP11969
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 1 years of experience, based in Hyderabad. Strong in Business Analysis, Stakeholder Management, Requirements Gathering and Process Improvement, with recent work in manufacturing IoT. Interested in moving towards CRM Consultant, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 0.8y), Requirements Gathering (Proficient, 0.6y), Process Improvement (Working, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 0.7y), Communication (Beginner, 0.3y)
+- Data & AI: dbt (Working, 0.3y), SQL (Beginner, 0.3y), Agentic AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Process Re-engineering Initiative — a leading manufacturer (2026-04 to present)
+  Led a process re-engineering initiative for a leading manufacturer in manufacturing IoT using Process Improvement and SQL, delivering $5M in cost savings.
+* Manufacturing IoT Agile Transformation — a US manufacturer (2024-09 to 2026-03)
+  Delivered an agile transformation for a US manufacturer in manufacturing IoT using Communication, dbt, SQL and Business Analysis, delivering on time across 2 workstreams.
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: CRM Consultant, Scrum Master

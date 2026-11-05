@@ -1,0 +1,32 @@
+DARREN NG
+Lead Full Stack Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11552
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 8.4 years of experience, based in Singapore. Strong in Angular, Python, SQL and Docker, with recent work in supply-chain logistics. Interested in moving towards Mobile Engineer, AI Engineer roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 6.3y), Python (Advanced, 2.5y), Next.js (Advanced, 3.3y), TypeScript (Proficient, 4.1y), GraphQL (Proficient, 2.0y), Microservices (Proficient, 0.8y)
+- Data & AI: SQL (Advanced, 8.2y)
+- Cloud & DevOps: Docker (Advanced, 2.4y), AWS (Advanced, 7.5y)
+- Delivery & Leadership: Mentoring (Proficient, 3.5y), Communication (Proficient, 3.4y), People Leadership (Proficient, 4.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Self-service Portal — an APAC logistics company (2026-05 to present)
+  Re-architected a self-service portal for an APAC logistics company in supply-chain logistics using Microservices and Communication, lifting NPS by 40 points.
+* Supply-chain Logistics Claims Processing Engine — a leading logistics company (2025-06 to 2026-05)
+  Automated a claims processing engine for a leading logistics company in supply-chain logistics using GraphQL, Next.js and Mentoring, reducing processing time by 40%.
+* Supply-chain Logistics Order Management System — a US logistics company (2024-07 to 2025-05)
+  Re-architected an order management system for a US logistics company in supply-chain logistics using GraphQL, Communication, Python and Docker, onboarding 4 new enterprise clients.
+* Telecom Billing Claims Processing Engine — an APAC telecom operator (2024-01 to 2024-06)
+  Designed a claims processing engine for an APAC telecom operator in telecom billing using Angular and Mentoring, saving ~18K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin, Marathi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Mobile Engineer, AI Engineer, Software Architect

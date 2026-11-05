@@ -1,0 +1,29 @@
+PRIYA WASHINGTON
+Senior QA Engineer | Quality Engineering | Austin, United States
+Employee ID: EMP10154
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 7.1 years of experience, based in Austin. Strong in Test Automation, API Testing, Performance Testing and LLM Engineering, with recent work in manufacturing IoT. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 3.8y), API Testing (Proficient, 3.9y), Performance Testing (Proficient, 3.9y), Playwright (Proficient, 5.2y), Selenium (Working, 1.7y)
+- Data & AI: LLM Engineering (Proficient, 2.4y)
+- Delivery & Leadership: Agile/Scrum (Working, 0.9y)
+
+EXPERIENCE
+* Automotive API Contract-testing Suite — a global car maker (2026-04 to present)
+  Re-architected an API contract-testing suite for a global car maker in automotive using Selenium, Performance Testing, API Testing and LLM Engineering, reducing production incidents by 18%.
+* Energy Trading Test Automation Framework — an APAC energy company (2025-01 to 2026-01)
+  Automated a test automation framework for an APAC energy company in energy trading using Performance Testing and Test Automation, accelerating releases by 12%.
+* Manufacturing IoT Performance Engineering Programme — a global manufacturer (2023-08 to 2024-11)
+  Modernised a performance engineering programme for a global manufacturer in manufacturing IoT using Agile/Scrum and API Testing, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer, Backend Engineer, DevOps Engineer

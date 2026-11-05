@@ -1,0 +1,27 @@
+EMMA O'BRIEN
+Associate Full Stack Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP11567
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 2.6 years of experience, based in Dublin. Strong in TypeScript, Node.js, AWS and Angular, with recent work in supply-chain logistics. Interested in moving towards Mobile Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.1y), Node.js (Advanced, 0.7y), Angular (Proficient, 1.2y), REST API Design (Proficient, 0.8y), Next.js (Working, 0.9y), Microservices (Working, 1.2y), GraphQL (Beginner, 0.5y)
+- Cloud & DevOps: AWS (Advanced, 2.3y)
+- Data & AI: SQL (Proficient, 0.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — a US logistics company (2025-11 to present)
+  Built a pricing engine for a US logistics company in supply-chain logistics using Microservices and REST API Design, improving conversion by 18%.
+* Retail Banking Mobile Banking App — a global retail bank (2024-09 to 2025-09)
+  Re-architected a mobile banking app for a global retail bank in retail banking using TypeScript and SQL, lifting NPS by 40 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, Frontend Engineer, Software Architect

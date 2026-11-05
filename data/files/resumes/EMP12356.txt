@@ -1,0 +1,27 @@
+AARAV MEHTA
+Associate DevOps Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12356
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.3 years of experience, based in Chennai. Strong in CI/CD, Azure, Observability and Go, with recent work in manufacturing IoT. Interested in moving towards Backend Engineer, Cloud Engineer roles and open to relocating to Kraków, Singapore.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 0.4y), Azure (Proficient, 1.7y), Observability (Proficient, 0.8y), Docker (Working, 1.0y), Kubernetes (Working, 1.0y), Terraform (Working, 0.7y), Linux Administration (Working, 1.0y)
+- Software Engineering: Go (Proficient, 1.7y), Python (Working, 0.7y)
+- Data & AI: Machine Learning (Working, 1.1y)
+
+EXPERIENCE
+* Manufacturing IoT Observability Stack — a US manufacturer (2025-10 to present)
+  Led the delivery of an observability stack for a US manufacturer in manufacturing IoT using Linux Administration, Docker, Terraform and CI/CD, reducing production incidents by 18%.
+* E-commerce CI/CD Platform — an APAC online retailer (2024-07 to 2025-07)
+  Automated a CI/CD platform for an APAC online retailer in e-commerce using Docker, Azure and Terraform, accelerating releases by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Cloud Engineer, Platform Engineer

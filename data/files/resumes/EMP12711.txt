@@ -1,0 +1,31 @@
+RIYA KAUR
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP12711
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.4 years of experience, based in Pune. Strong in People Leadership, Stakeholder Management, Mentoring and System Design, with recent work in manufacturing IoT. Interested in moving towards Program Manager roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 8.4y), Stakeholder Management (Advanced, 1.6y), Mentoring (Advanced, 6.4y), Agile/Scrum (Proficient, 2.0y)
+- Software Engineering: System Design (Proficient, 2.9y), Java (Proficient, 0.8y), Python (Working, 0.5y)
+- Cloud & DevOps: AWS (Proficient, 5.7y)
+
+EXPERIENCE
+* Manufacturing IoT Pricing Engine — a global manufacturer (2026-05 to present)
+  Built a pricing engine for a global manufacturer in manufacturing IoT using Agile/Scrum, AWS and Mentoring, improving conversion by 12%.
+* Manufacturing IoT Order Management System — an APAC manufacturer (2025-10 to 2026-03)
+  Designed an order management system for an APAC manufacturer in manufacturing IoT using System Design, Java, Mentoring and Agile/Scrum, onboarding 3 new enterprise clients.
+* Manufacturing IoT Claims Processing Engine — a global manufacturer (2024-05 to 2025-10)
+  Re-architected a claims processing engine for a global manufacturer in manufacturing IoT using System Design and Agile/Scrum, reducing processing time by 30%.
+* Media Streaming Customer Onboarding Platform — a leading streaming platform (2023-07 to 2024-05)
+  Scaled a customer onboarding platform for a leading streaming platform in media streaming using Agile/Scrum, AWS, Java and Python, reducing processing time by 18%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Program Manager

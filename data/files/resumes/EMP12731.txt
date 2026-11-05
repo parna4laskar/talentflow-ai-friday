@@ -1,0 +1,30 @@
+MEI LEE
+Senior Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP12731
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 7.7 years of experience, based in New York. Strong in TypeScript, React, SQL and AWS, with recent work in public sector. Interested in moving towards Software Architect, Frontend Engineer roles and open to relocating to Kraków, Gurugram.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 3.3y), React (Advanced, 1.5y), Next.js (Proficient, 2.4y), Python (Working, 1.2y)
+- Data & AI: SQL (Advanced, 2.4y)
+- Cloud & DevOps: AWS (Advanced, 4.6y)
+- Delivery & Leadership: Communication (Proficient, 1.0y)
+
+EXPERIENCE
+* Pharma R&D Mobile Banking App — a fast-growing pharma company (2026-04 to present)
+  Designed a mobile banking app for a fast-growing pharma company in pharma R&D using TypeScript, Next.js and AWS, lifting NPS by 35 points.
+* Insurance Claims Pricing Engine — a fast-growing insurer (2024-11 to 2026-02)
+  Migrated a pricing engine for a fast-growing insurer in insurance claims using SQL, Next.js, React and TypeScript, improving conversion by 40%.
+* E-commerce Mobile Banking App — a US online retailer (2024-02 to 2024-10)
+  Designed a mobile banking app for a US online retailer in e-commerce using TypeScript and React, improving conversion by 30%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, Frontend Engineer

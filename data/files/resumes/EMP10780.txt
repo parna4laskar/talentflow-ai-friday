@@ -1,0 +1,27 @@
+LIAM MURPHY
+Associate Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP10780
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 0.6 years of experience, based in Dublin. Strong in C#, REST API Design, SQL and Microservices, with recent work in airline operations. Interested in moving towards Backend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: C# (Proficient, 0.4y), REST API Design (Proficient, 0.4y), Microservices (Proficient, 0.4y), System Design (Working, 0.3y), Kafka (Working, 0.3y)
+- Data & AI: SQL (Proficient, 0.4y)
+- Cloud & DevOps: Docker (Working, 0.3y)
+
+EXPERIENCE
+* Airline Operations Customer Onboarding Platform — a leading airline (2025-08 to present)
+  Modernised a customer onboarding platform for a leading airline in airline operations using SQL, REST API Design, System Design and Kafka, lifting NPS by 30 points.
+* Automotive Order Management System — an APAC car maker (2024-07 to 2025-07)
+  Migrated an order management system for an APAC car maker in automotive using Kafka and REST API Design, onboarding 8 new enterprise clients.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Software Architect, Engineering Manager, AI Engineer

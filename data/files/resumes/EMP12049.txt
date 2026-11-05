@@ -1,0 +1,35 @@
+DIVYA SMITH
+Principal Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12049
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 21.5 years of experience, based in Pune. Strong in SQL, Python, Data Engineering and Apache Spark, with recent work in manufacturing IoT. Interested in moving towards Data Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 2.2y), Data Engineering (Expert, 8.1y), Apache Spark (Advanced, 3.8y), Data Governance (Advanced, 17.6y), Responsible AI (Advanced, 19.2y), Databricks (Working, 9.0y)
+- Software Engineering: Python (Expert, 7.2y), Kafka (Proficient, 15.0y)
+- Cloud & DevOps: AWS (Advanced, 6.0y), Terraform (Working, 1.9y)
+- Delivery & Leadership: Mentoring (Proficient, 15.2y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a European telecom operator (2025-12 to present)
+  Automated an executive KPI dashboard suite for a European telecom operator in telecom billing using Responsible AI, Data Governance, Databricks and Mentoring, improving forecast accuracy by 18%.
+* Healthcare Real-time Analytics Pipeline — an APAC hospital network (2024-11 to 2025-10)
+  Modernised a real-time analytics pipeline for an APAC hospital network in healthcare using Python, Data Engineering, Kafka and Apache Spark, cutting cloud spend by 35%.
+* HR Tech Executive KPI Dashboard Suite — a tier-1 HR software company (2024-03 to 2024-11)
+  Migrated an executive KPI dashboard suite for a tier-1 HR software company in HR tech using Databricks and SQL, saving ~30K hours annually.
+* Energy Trading Executive KPI Dashboard Suite — a fast-growing energy company (2022-10 to 2023-12)
+  Scaled an executive KPI dashboard suite for a fast-growing energy company in energy trading using Terraform, Python and Data Governance, saving ~30K hours annually.
+
+CERTIFICATIONS
+- SnowPro Core (2024)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Engineer, Data Scientist

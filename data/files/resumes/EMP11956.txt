@@ -1,0 +1,31 @@
+SNEHA AGARWAL
+Lead UX Designer | Design | Bengaluru, India
+Employee ID: EMP11956
+
+PROFESSIONAL SUMMARY
+Lead UX Designer with 13.7 years of experience, based in Bengaluru. Strong in UI Design, Figma, Mentoring and Stakeholder Management, with recent work in automotive. Interested in moving towards Frontend Engineer, Talent Acquisition Specialist roles and open to relocating to New York, Pune.
+
+CORE SKILLS
+- Product & Design: UI Design (Advanced, 7.0y), Figma (Advanced, 12.8y), UX Research (Proficient, 5.9y), A/B Testing (Proficient, 8.5y), Design Systems (Proficient, 3.2y)
+- Delivery & Leadership: Mentoring (Advanced, 12.2y), Stakeholder Management (Advanced, 9.2y), Communication (Advanced, 7.5y), People Leadership (Proficient, 7.2y)
+- Data & AI: Responsible AI (Proficient, 5.5y)
+
+EXPERIENCE
+* Wealth Management Onboarding Flow — a European wealth manager (2025-12 to present)
+  Redesigned an onboarding flow for a European wealth manager in wealth management using UI Design, Figma, Responsible AI and Communication, improving conversion by 30%.
+* Telecom Billing Enterprise Design System — a US telecom operator (2024-05 to 2025-09)
+  Led UX for an enterprise design system for a US telecom operator in telecom billing using Stakeholder Management, Design Systems and Communication, lifting NPS by 18 points.
+* Public Sector Onboarding Flow — a global government agency (2023-02 to 2024-04)
+  Ran research for an onboarding flow for a global government agency in public sector using UX Research and UI Design, lifting NPS by 25 points.
+* Supply-chain Logistics Onboarding Flow — a global logistics company (2022-03 to 2022-12)
+  Designed an onboarding flow for a global logistics company in supply-chain logistics using Communication and Mentoring, lifting NPS by 40 points.
+
+EDUCATION
+- B.Des Interaction Design
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, Talent Acquisition Specialist, Marketing Specialist

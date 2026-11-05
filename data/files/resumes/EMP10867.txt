@@ -1,0 +1,33 @@
+MICHAŁ WÓJCIK
+Senior CRM Consultant | Enterprise Applications | Kraków, Poland
+Employee ID: EMP10867
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 5.6 years of experience, based in Kraków. Strong in Business Analysis, JavaScript, Process Improvement and Agile/Scrum, with recent work in telecom billing. Interested in moving towards CRM Consultant, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 2.9y), Process Improvement (Proficient, 3.1y), Salesforce (Working, 2.0y), Requirements Gathering (Working, 1.3y)
+- Software Engineering: JavaScript (Advanced, 4.1y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.8y), Communication (Proficient, 0.4y)
+- Cloud & DevOps: Terraform (Proficient, 1.1y)
+
+EXPERIENCE
+* Telecom Billing ERP Finance Rollout — an APAC telecom operator (2025-06 to present)
+  Designed an ERP finance rollout for an APAC telecom operator in telecom billing using Business Analysis, Communication, Salesforce and Process Improvement, reducing processing time by 25%.
+* Telecom Billing CRM Rollout — a leading telecom operator (2024-06 to 2025-05)
+  Re-architected a CRM rollout for a leading telecom operator in telecom billing using Terraform, JavaScript, Business Analysis and Agile/Scrum, improving conversion by 18%.
+* Retail Banking Service Desk Automation — an APAC retail bank (2023-12 to 2024-05)
+  Automated a service desk automation for an APAC retail bank in retail banking using JavaScript and Requirements Gathering, reducing processing time by 18%.
+
+CERTIFICATIONS
+- ServiceNow CSA (2026)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: CRM Consultant, Scrum Master

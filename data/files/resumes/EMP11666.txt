@@ -1,0 +1,28 @@
+JAMAL RODRIGUEZ
+Associate Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP11666
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1.2 years of experience, based in New York. Strong in Data Engineering, SQL, Python and dbt, with recent work in telecom billing. Interested in moving towards ML Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 1.2y), SQL (Proficient, 0.5y), dbt (Proficient, 0.7y), Airflow (Working, 0.6y), Databricks (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.7y), Kafka (Beginner, 0.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.5y), AWS (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Healthcare Executive KPI Dashboard Suite — an APAC hospital network (2025-10 to present)
+  Led the delivery of an executive KPI dashboard suite for an APAC hospital network in healthcare using SQL and Python, saving ~18K hours annually.
+* Telecom Billing Real-time Analytics Pipeline — a US telecom operator (2024-04 to 2025-08)
+  Led the delivery of a real-time analytics pipeline for a US telecom operator in telecom billing using Kubernetes and Kafka, reducing processing time by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: ML Engineer, Data Analyst, Backend Engineer

@@ -1,0 +1,29 @@
+DAVID GARCIA
+Senior Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11492
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 7.7 years of experience, based in New York. Strong in Terraform, Kubernetes, AWS and Linux Administration, with recent work in automotive. Interested in moving towards Software Architect, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 5.0y), Kubernetes (Advanced, 4.9y), AWS (Proficient, 1.9y), Linux Administration (Proficient, 5.3y), CI/CD (Working, 0.9y), Platform Engineering (Working, 0.7y)
+
+EXPERIENCE
+* Automotive Data-centre Exit To Cloud — an APAC car maker (2026-05 to present)
+  Led the delivery of a data-centre exit to cloud for an APAC car maker in automotive using Kubernetes and Terraform, delivering $4M in cost savings.
+* Automotive Observability Stack — a tier-1 car maker (2025-07 to 2026-03)
+  Automated an observability stack for a tier-1 car maker in automotive using Platform Engineering, AWS and CI/CD, reducing production incidents by 22%.
+* Automotive CI/CD Platform — a tier-1 car maker (2023-11 to 2025-05)
+  Built a CI/CD platform for a tier-1 car maker in automotive using Linux Administration, Terraform, CI/CD and AWS, accelerating releases by 22%.
+* Automotive CI/CD Platform — a US car maker (2022-05 to 2023-09)
+  Led the delivery of a CI/CD platform for a US car maker in automotive using Kubernetes, Terraform and Platform Engineering, accelerating releases by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, DevOps Engineer, Site Reliability Engineer

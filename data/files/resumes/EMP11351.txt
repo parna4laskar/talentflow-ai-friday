@@ -1,0 +1,31 @@
+MANISH SHEIKH
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP11351
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 15.6 years of experience, based in Bengaluru. Strong in People Leadership, Agile/Scrum, Stakeholder Management and Mentoring, with recent work in pharma R&D. Interested in moving towards Software Architect, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 0.7y), Agile/Scrum (Advanced, 7.9y), Stakeholder Management (Advanced, 8.5y), Mentoring (Advanced, 4.1y), Communication (Working, 7.3y)
+- Software Engineering: System Design (Proficient, 5.7y), Microservices (Proficient, 9.8y)
+- Cloud & DevOps: FinOps (Working, 4.6y)
+
+EXPERIENCE
+* Pharma R&D Customer Onboarding Platform — a fast-growing pharma company (2025-11 to present)
+  Automated a customer onboarding platform for a fast-growing pharma company in pharma R&D using Communication, People Leadership and Stakeholder Management, reducing processing time by 40%.
+* Pharma R&D Pricing Engine — a leading pharma company (2024-03 to 2025-09)
+  Migrated a pricing engine for a leading pharma company in pharma R&D using System Design and Microservices, improving conversion by 22%.
+* Pharma R&D Self-service Portal — a European pharma company (2023-01 to 2023-12)
+  Automated a self-service portal for a European pharma company in pharma R&D using People Leadership, Mentoring, Agile/Scrum and System Design, lifting NPS by 25 points.
+* Manufacturing IoT Self-service Portal — a global manufacturer (2021-10 to 2022-12)
+  Designed a self-service portal for a global manufacturer in manufacturing IoT using Communication and Agile/Scrum, lifting NPS by 35 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect, Backend Engineer, Program Manager

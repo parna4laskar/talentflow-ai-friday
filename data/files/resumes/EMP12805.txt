@@ -1,0 +1,32 @@
+RAHUL BANERJEE
+Principal Business Analyst | Business Consulting | Hyderabad, India
+Employee ID: EMP12805
+
+PROFESSIONAL SUMMARY
+Principal Business Analyst with 14.8 years of experience, based in Hyderabad. Strong in Business Analysis, Requirements Gathering, Process Improvement and Stakeholder Management, with recent work in payments. Interested in moving towards CRM Consultant, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 4.9y), Requirements Gathering (Expert, 14.8y), Process Improvement (Expert, 3.0y), Salesforce (Advanced, 8.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 12.0y), Agile/Scrum (Advanced, 8.5y), Change Management (Advanced, 1.3y), People Leadership (Advanced, 7.6y), Communication (Proficient, 6.0y)
+- Data & AI: Generative AI (Advanced, 10.7y), SQL (Proficient, 5.0y)
+
+EXPERIENCE
+* Payments Process Re-engineering Initiative — an APAC payments provider (2025-07 to present)
+  Led a process re-engineering initiative for an APAC payments provider in payments using Salesforce, Process Improvement, Requirements Gathering and Communication, delivering $2M in cost savings.
+* Payments Agile Transformation — a fast-growing payments provider (2024-08 to 2025-04)
+  Led an agile transformation for a fast-growing payments provider in payments using SQL and Change Management, accelerating releases by 12%.
+* Payments Requirements and UAT for a CRM Rollout — a fast-growing payments provider (2023-11 to 2024-06)
+  Delivered a requirements and UAT for a CRM rollout for a fast-growing payments provider in payments using Change Management, Process Improvement, Communication and Business Analysis, delivering on time across 2 workstreams.
+
+CERTIFICATIONS
+- PMI-PBA (2026)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: CRM Consultant, Account Manager

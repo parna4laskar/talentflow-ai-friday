@@ -1,0 +1,30 @@
+MEI DAVIS
+Associate Business Analyst | Business Consulting | Austin, United States
+Employee ID: EMP12073
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 2.1 years of experience, based in Austin. Strong in Stakeholder Management, Business Analysis, Process Improvement and Salesforce, with recent work in e-commerce. Interested in moving towards Business Analyst, Product Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.2y), Agile/Scrum (Working, 1.0y)
+- Business & Finance: Business Analysis (Working, 0.6y), Process Improvement (Working, 0.8y), Salesforce (Working, 0.5y), Requirements Gathering (Beginner, 0.4y)
+- Data & AI: SQL (Working, 0.8y), Power BI (Working, 0.7y), LLM Engineering (Beginner, 0.4y)
+
+EXPERIENCE
+* E-commerce Cloud Migration Programme — a US online retailer (2025-09 to present)
+  Coordinated a cloud migration programme for a US online retailer in e-commerce using SQL, LLM Engineering, Stakeholder Management and Process Improvement, cutting cloud spend by 25%.
+* E-commerce Agile Transformation — an APAC online retailer (2024-02 to 2025-08)
+  Delivered an agile transformation for an APAC online retailer in e-commerce using Salesforce and Requirements Gathering, delivering on time across 5 workstreams.
+
+CERTIFICATIONS
+- CBAP (2026)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Japanese
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Business Analyst, Product Manager

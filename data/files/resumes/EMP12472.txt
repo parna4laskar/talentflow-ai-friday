@@ -1,0 +1,30 @@
+FATIMA JADHAV
+Platform Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12472
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 4.2 years of experience, based in Pune. Strong in CI/CD, Platform Engineering, Kubernetes and AWS, with recent work in telecom billing. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 3.4y), Platform Engineering (Proficient, 0.8y), Kubernetes (Proficient, 1.2y), AWS (Proficient, 3.1y), Site Reliability Engineering (Working, 0.9y), Terraform (Beginner, 1.0y)
+- Software Engineering: Go (Beginner, 1.0y)
+
+EXPERIENCE
+* Telecom Billing Cloud Landing Zone — a European telecom operator (2025-12 to present)
+  Built a cloud landing zone for a European telecom operator in telecom billing using Kubernetes, AWS and Terraform, cutting cloud spend by 35%.
+* Media Streaming CI/CD Platform — a global streaming platform (2024-03 to 2025-09)
+  Designed a CI/CD platform for a global streaming platform in media streaming using CI/CD and Kubernetes, accelerating releases by 12%.
+* Telecom Billing CI/CD Platform — a European telecom operator (2023-01 to 2024-02)
+  Migrated a CI/CD platform for a European telecom operator in telecom billing using Site Reliability Engineering, Go, Terraform and Kubernetes, accelerating releases by 25%.
+* Telecom Billing Kubernetes Platform — an APAC telecom operator (2021-11 to 2023-01)
+  Modernised a Kubernetes platform for an APAC telecom operator in telecom billing using Platform Engineering and Kubernetes, reducing production incidents by 22%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, DevOps Engineer, Cloud Engineer

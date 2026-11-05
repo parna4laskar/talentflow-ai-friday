@@ -1,0 +1,30 @@
+YASH RAO
+Senior Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10555
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 7.9 years of experience, based in Hyderabad. Strong in TypeScript, JavaScript, Angular and Playwright, with recent work in payments. Interested in moving towards Mobile Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 3.2y), JavaScript (Expert, 0.9y), Angular (Advanced, 1.1y), Node.js (Working, 1.8y)
+- Quality Engineering: Playwright (Proficient, 3.6y)
+- Delivery & Leadership: Communication (Proficient, 5.6y)
+- Data & AI: Agentic AI (Working, 2.4y)
+
+EXPERIENCE
+* Payments Customer Onboarding Platform — a European payments provider (2026-04 to present)
+  Migrated a customer onboarding platform for a European payments provider in payments using TypeScript, Angular and Communication, improving conversion by 22%.
+* Payments Mobile Banking App — a European payments provider (2024-09 to 2026-03)
+  Re-architected a mobile banking app for a European payments provider in payments using Node.js, Communication and Playwright, lifting NPS by 30 points.
+* Pharma R&D Pricing Engine — a US pharma company (2023-05 to 2024-08)
+  Led the delivery of a pricing engine for a US pharma company in pharma R&D using Agentic AI, Communication, Playwright and TypeScript, improving conversion by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Mobile Engineer, QA Engineer, UX Designer

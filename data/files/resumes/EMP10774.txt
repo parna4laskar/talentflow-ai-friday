@@ -1,0 +1,31 @@
+KUNAL KRISHNAN
+Associate ML Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP10774
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 2.3 years of experience, based in Pune. Strong in Python, MLOps, Deep Learning and Machine Learning, with recent work in energy trading. Interested in moving towards Platform Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.8y)
+- Data & AI: MLOps (Advanced, 1.1y), Deep Learning (Advanced, 1.4y), Machine Learning (Proficient, 1.3y), NLP (Working, 1.0y), Databricks (Beginner, 0.5y)
+- Quality Engineering: Playwright (Working, 0.9y)
+- Cloud & DevOps: FinOps (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Knowledge Assistant (RAG) — a US energy company (2026-06 to present)
+  Led the delivery of a knowledge assistant (RAG) for a US energy company in energy trading using Databricks and Deep Learning, lifting NPS by 22 points.
+* Energy Trading Agentic Customer-service Assistant — a European energy company (2025-05 to 2026-04)
+  Led the delivery of an agentic customer-service assistant for a European energy company in energy trading using Databricks and Machine Learning, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2024)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Platform Engineer, AI Engineer, Data Scientist

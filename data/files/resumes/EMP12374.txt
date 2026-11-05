@@ -1,0 +1,27 @@
+DAVID GARCIA
+Frontend Engineer | Engineering | New York, United States
+Employee ID: EMP12374
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.5 years of experience, based in New York. Strong in JavaScript, React, TypeScript and Playwright, with recent work in payments. Interested in moving towards QA Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 1.8y), React (Advanced, 2.4y), TypeScript (Proficient, 1.1y), Node.js (Working, 0.6y), Next.js (Beginner, 0.6y)
+- Quality Engineering: Playwright (Proficient, 0.6y)
+- Product & Design: Design Systems (Working, 0.9y)
+
+EXPERIENCE
+* Payments Pricing Engine — a tier-1 payments provider (2026-02 to present)
+  Built a pricing engine for a tier-1 payments provider in payments using JavaScript and Next.js, reducing processing time by 22%.
+* Payments Claims Processing Engine — a fast-growing payments provider (2024-09 to 2025-11)
+  Designed a claims processing engine for a fast-growing payments provider in payments using React, Design Systems and Node.js, reducing processing time by 12%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer, UX Designer

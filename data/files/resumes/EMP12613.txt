@@ -1,0 +1,36 @@
+JUN HAO NG
+Lead Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12613
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 13.4 years of experience, based in Singapore. Strong in Java, SQL, Microservices and Stakeholder Management, with recent work in telecom billing. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 0.8y), Microservices (Expert, 12.0y), REST API Design (Proficient, 5.0y), Kafka (Proficient, 5.5y), GraphQL (Proficient, 8.0y)
+- Data & AI: SQL (Expert, 13.4y)
+- Delivery & Leadership: Stakeholder Management (Expert, 10.5y)
+- Cloud & DevOps: CI/CD (Proficient, 1.3y)
+
+EXPERIENCE
+* Telecom Billing Self-service Portal — a fast-growing telecom operator (2026-05 to present)
+  Scaled a self-service portal for a fast-growing telecom operator in telecom billing using Kafka, SQL, Java and Microservices, saving ~25K hours annually.
+* Telecom Billing Order Management System — a European telecom operator (2025-01 to 2026-03)
+  Designed an order management system for a European telecom operator in telecom billing using Microservices, CI/CD, REST API Design and Stakeholder Management, reducing processing time by 35%.
+* Telecom Billing Pricing Engine — a European telecom operator (2023-10 to 2024-11)
+  Scaled a pricing engine for a European telecom operator in telecom billing using Kafka and CI/CD, reducing processing time by 25%.
+* HR Tech Order Management System — a fast-growing HR software company (2022-02 to 2023-08)
+  Scaled an order management system for a fast-growing HR software company in HR tech using Java and REST API Design, reducing processing time by 25%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect

@@ -1,0 +1,32 @@
+ZOYA SEN
+Principal Site Reliability Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10757
+
+PROFESSIONAL SUMMARY
+Principal Site Reliability Engineer with 17.1 years of experience, based in Bengaluru. Strong in Site Reliability Engineering, Observability, Performance Testing and Kubernetes, with recent work in HR tech. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles and open to relocating to Chennai, Gurugram, Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Expert, 17.1y), Observability (Expert, 16.4y), Kubernetes (Advanced, 14.2y), Linux Administration (Advanced, 5.3y), AWS (Proficient, 11.1y)
+- Quality Engineering: Performance Testing (Expert, 17.1y)
+- Software Engineering: Python (Advanced, 16.1y), Go (Proficient, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.1y), People Leadership (Advanced, 3.7y), Mentoring (Proficient, 7.8y)
+
+EXPERIENCE
+* Airline Operations Data-centre Exit To Cloud — a US airline (2025-09 to present)
+  Modernised a data-centre exit to cloud for a US airline in airline operations using Python and Observability, cutting cloud spend by 35%.
+* Automotive Cloud Landing Zone — a European car maker (2024-06 to 2025-08)
+  Built a cloud landing zone for a European car maker in automotive using Site Reliability Engineering, Mentoring and AWS, accelerating releases by 30%.
+* Telecom Billing Cloud Landing Zone — a global telecom operator (2023-09 to 2024-03)
+  Led the delivery of a cloud landing zone for a global telecom operator in telecom billing using AWS, Mentoring, Linux Administration and Go, accelerating releases by 30%.
+* HR Tech Observability Stack — an APAC HR software company (2022-08 to 2023-08)
+  Modernised an observability stack for an APAC HR software company in HR tech using Stakeholder Management, AWS, Linux Administration and Site Reliability Engineering, reducing production incidents by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer, Cloud Engineer, DevOps Engineer

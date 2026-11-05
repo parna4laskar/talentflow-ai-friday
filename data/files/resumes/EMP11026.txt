@@ -1,0 +1,34 @@
+NANDINI PILLAI
+Senior CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP11026
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 7.7 years of experience, based in Bengaluru. Strong in Business Analysis, JavaScript, Agile/Scrum and Requirements Gathering, with recent work in energy trading. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 3.8y), Requirements Gathering (Advanced, 4.2y), ServiceNow (Proficient, 2.2y), Process Improvement (Beginner, 0.5y)
+- Software Engineering: JavaScript (Advanced, 2.4y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 3.9y), Communication (Proficient, 2.7y)
+- Cloud & DevOps: Kubernetes (Working, 3.6y)
+- Data & AI: Databricks (Working, 2.2y)
+
+EXPERIENCE
+* Energy Trading CRM Rollout — a European energy company (2026-07 to present)
+  Scaled a CRM rollout for a European energy company in energy trading using Business Analysis and Agile/Scrum, improving conversion by 30%.
+* Energy Trading Service Desk Automation — a European energy company (2025-09 to 2026-05)
+  Automated a service desk automation for a European energy company in energy trading using Agile/Scrum and Business Analysis, reducing processing time by 12%.
+* Energy Trading Service Desk Automation — a US energy company (2024-03 to 2025-07)
+  Automated a service desk automation for a US energy company in energy trading using Communication and JavaScript, saving ~12K hours annually.
+
+CERTIFICATIONS
+- ServiceNow CSA (2023)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Business Analyst

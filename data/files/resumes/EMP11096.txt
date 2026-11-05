@@ -1,0 +1,31 @@
+VARUN SUBRAMANIAN
+Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP11096
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2.3 years of experience, based in Bengaluru. Strong in Business Analysis, Stakeholder Management, Data Visualization and Tableau, with recent work in manufacturing IoT. Interested in moving towards Business Analyst roles and open to relocating to New York, London.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 0.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.3y)
+- Data & AI: Data Visualization (Working, 0.8y), Tableau (Working, 0.8y), Statistics (Working, 0.5y), Snowflake (Working, 0.9y), SQL (Beginner, 0.3y)
+- Software Engineering: Python (Working, 1.1y)
+
+EXPERIENCE
+* Retail Banking Customer Churn Model — a US retail bank (2025-07 to present)
+  Automated a customer churn model for a US retail bank in retail banking using SQL, Python, Stakeholder Management and Tableau, improving conversion by 25%.
+* Pharma R&D Executive KPI Dashboard Suite — a European pharma company (2024-11 to 2025-05)
+  Designed an executive KPI dashboard suite for a European pharma company in pharma R&D using Data Visualization, Statistics and SQL, improving forecast accuracy by 35%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2024)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Business Analyst

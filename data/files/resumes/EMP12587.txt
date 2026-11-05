@@ -1,0 +1,31 @@
+SIMRAN CAMPBELL
+DevOps Engineer | Cloud & Infrastructure | Toronto, Canada
+Employee ID: EMP12587
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 5.1 years of experience, based in Toronto. Strong in Docker, AWS, Terraform and Communication, with recent work in automotive. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 4.9y), AWS (Advanced, 4.6y), Terraform (Proficient, 2.3y), Kubernetes (Working, 2.2y), Linux Administration (Working, 0.5y), CI/CD (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 0.9y)
+- Software Engineering: Go (Working, 0.4y)
+
+EXPERIENCE
+* Payments Data-centre Exit To Cloud — an APAC payments provider (2025-12 to present)
+  Re-architected a data-centre exit to cloud for an APAC payments provider in payments using Kubernetes, Terraform and CI/CD, cutting cloud spend by 12%.
+* Insurance Claims CI/CD Platform — a leading insurer (2025-03 to 2025-10)
+  Designed a CI/CD platform for a leading insurer in insurance claims using Docker and AWS, accelerating releases by 18%.
+* Automotive CI/CD Platform — a fast-growing car maker (2024-05 to 2025-02)
+  Built a CI/CD platform for a fast-growing car maker in automotive using CI/CD and Terraform, accelerating releases by 30%.
+* Insurance Claims Data-centre Exit To Cloud — a global insurer (2023-08 to 2024-04)
+  Migrated a data-centre exit to cloud for a global insurer in insurance claims using AWS, Terraform, CI/CD and Communication, cutting cloud spend by 25%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Site Reliability Engineer, Platform Engineer

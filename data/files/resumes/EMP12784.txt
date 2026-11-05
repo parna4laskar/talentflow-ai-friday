@@ -1,0 +1,30 @@
+SAMEER KHAN
+Senior QA Engineer | Quality Engineering | Chennai, India
+Employee ID: EMP12784
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 8.4 years of experience, based in Chennai. Strong in Test Automation, Agile/Scrum, CI/CD and API Testing, with recent work in pharma R&D. Interested in moving towards Full Stack Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 6.5y), API Testing (Proficient, 2.0y), Performance Testing (Proficient, 5.4y), Playwright (Working, 0.6y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 1.8y)
+- Cloud & DevOps: CI/CD (Advanced, 4.2y)
+- Data & AI: Generative AI (Proficient, 2.1y)
+
+EXPERIENCE
+* Wealth Management API Contract-testing Suite — a tier-1 wealth manager (2025-08 to present)
+  Re-architected an API contract-testing suite for a tier-1 wealth manager in wealth management using Generative AI, CI/CD, Performance Testing and Playwright, reducing production incidents by 40%.
+* Pharma R&D API Contract-testing Suite — a fast-growing pharma company (2024-03 to 2025-07)
+  Automated an API contract-testing suite for a fast-growing pharma company in pharma R&D using Playwright and API Testing, reducing production incidents by 18%.
+* Pharma R&D API Contract-testing Suite — an APAC pharma company (2023-08 to 2024-01)
+  Automated an API contract-testing suite for an APAC pharma company in pharma R&D using Performance Testing, Generative AI and Agile/Scrum, raising automated test coverage to 90%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, DevOps Engineer

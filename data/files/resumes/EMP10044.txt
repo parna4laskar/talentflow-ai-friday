@@ -1,0 +1,29 @@
+ETHAN KIM
+Site Reliability Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10044
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 5.2 years of experience, based in New York. Strong in Observability, Kubernetes, Linux Administration and Site Reliability Engineering, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, Security Engineer roles and open to relocating to Singapore, Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Advanced, 3.6y), Kubernetes (Advanced, 4.7y), Linux Administration (Advanced, 1.6y), Site Reliability Engineering (Proficient, 0.9y), Terraform (Proficient, 2.0y), AWS (Working, 1.9y)
+- Security: Incident Response (Proficient, 3.5y), Cloud Security (Working, 1.1y)
+- Quality Engineering: Performance Testing (Working, 1.6y)
+
+EXPERIENCE
+* Pharma R&D Data-centre Exit To Cloud — a fast-growing pharma company (2026-04 to present)
+  Designed a data-centre exit to cloud for a fast-growing pharma company in pharma R&D using Kubernetes and Observability, delivering $4M in cost savings.
+* Airline Operations Data-centre Exit To Cloud — a European airline (2024-11 to 2026-01)
+  Led the delivery of a data-centre exit to cloud for a European airline in airline operations using Terraform, Cloud Security, Kubernetes and Site Reliability Engineering, cutting cloud spend by 25%.
+* Wealth Management CI/CD Platform — a European wealth manager (2023-04 to 2024-10)
+  Modernised a CI/CD platform for a European wealth manager in wealth management using Incident Response, Site Reliability Engineering, AWS and Linux Administration, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Security Engineer

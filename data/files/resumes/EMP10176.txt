@@ -1,0 +1,27 @@
+KARTHIK JOSHI
+QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP10176
+
+PROFESSIONAL SUMMARY
+QA Engineer with 2.3 years of experience, based in Pune. Strong in Terraform, Test Automation, Performance Testing and Selenium, with recent work in healthcare. Interested in moving towards QA Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 0.6y), CI/CD (Working, 1.0y)
+- Quality Engineering: Test Automation (Proficient, 0.4y), Performance Testing (Proficient, 1.5y), Selenium (Working, 1.0y), API Testing (Working, 0.5y), Playwright (Beginner, 0.3y)
+- Software Engineering: Java (Working, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics API Contract-testing Suite — a global logistics company (2026-01 to present)
+  Re-architected an API contract-testing suite for a global logistics company in supply-chain logistics using API Testing, Terraform and CI/CD, raising automated test coverage to 70%.
+* Healthcare Test Automation Framework — a leading hospital network (2024-05 to 2025-11)
+  Automated a test automation framework for a leading hospital network in healthcare using Test Automation and Selenium, raising automated test coverage to 80%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: QA Engineer, Engineering Manager, DevOps Engineer, Backend Engineer

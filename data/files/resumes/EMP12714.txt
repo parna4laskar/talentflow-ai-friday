@@ -1,0 +1,34 @@
+GAURAV SUBRAMANIAN
+Principal Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12714
+
+PROFESSIONAL SUMMARY
+Principal Cloud Engineer with 13.2 years of experience, based in Hyderabad. Strong in GCP, Kubernetes, Terraform and Linux Administration, with recent work in wealth management. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Expert, 12.3y), Kubernetes (Expert, 13.2y), Terraform (Advanced, 8.5y), Linux Administration (Advanced, 1.8y)
+- Software Engineering: Python (Advanced, 9.6y)
+- Delivery & Leadership: Communication (Proficient, 7.0y), People Leadership (Proficient, 7.2y), Stakeholder Management (Working, 4.7y)
+
+EXPERIENCE
+* Energy Trading Observability Stack — a US energy company (2026-01 to present)
+  Led the delivery of an observability stack for a US energy company in energy trading using Python, GCP and Communication, reducing production incidents by 30%.
+* Wealth Management Data-centre Exit To Cloud — a European wealth manager (2025-07 to 2025-12)
+  Automated a data-centre exit to cloud for a European wealth manager in wealth management using Terraform and Stakeholder Management, cutting cloud spend by 40%.
+* Wealth Management Cloud Landing Zone — a leading wealth manager (2024-07 to 2025-05)
+  Designed a cloud landing zone for a leading wealth manager in wealth management using Stakeholder Management and Kubernetes, accelerating releases by 12%.
+* Payments Kubernetes Platform — a global payments provider (2023-09 to 2024-05)
+  Scaled a Kubernetes platform for a global payments provider in payments using Kubernetes, Communication, Terraform and GCP, reducing production incidents by 12%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer

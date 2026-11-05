@@ -1,0 +1,32 @@
+RAHUL MENON
+Principal CRM Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP12468
+
+PROFESSIONAL SUMMARY
+Principal CRM Consultant with 16 years of experience, based in Pune. Strong in Agile/Scrum, Business Analysis, Process Improvement and JavaScript, with recent work in HR tech. Interested in moving towards CRM Consultant, Account Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 8.7y), Mentoring (Advanced, 13.5y), Communication (Proficient, 1.8y), Stakeholder Management (Working, 7.5y)
+- Business & Finance: Business Analysis (Advanced, 7.8y), Process Improvement (Advanced, 2.3y), Requirements Gathering (Advanced, 9.0y), Salesforce (Proficient, 4.8y)
+- Software Engineering: JavaScript (Advanced, 12.8y)
+
+EXPERIENCE
+* HR Tech ERP Finance Rollout — a leading HR software company (2026-07 to present)
+  Modernised an ERP finance rollout for a leading HR software company in HR tech using Requirements Gathering and JavaScript, reducing processing time by 22%.
+* Public Sector CRM Rollout — a fast-growing government agency (2026-01 to 2026-07)
+  Re-architected a CRM rollout for a fast-growing government agency in public sector using Stakeholder Management, Agile/Scrum, Business Analysis and Salesforce, reducing processing time by 35%.
+* Automotive Service Desk Automation — a fast-growing car maker (2024-08 to 2025-12)
+  Migrated a service desk automation for a fast-growing car maker in automotive using Process Improvement, Agile/Scrum, Mentoring and Salesforce, saving ~12K hours annually.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2025)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: CRM Consultant, Account Manager, Business Analyst, SAP Consultant

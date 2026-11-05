@@ -1,0 +1,29 @@
+MATTHEW NGUYEN
+Senior Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP12724
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5.8 years of experience, based in New York. Strong in AWS, Python, Airflow and Data Engineering, with recent work in healthcare. Interested in moving towards ML Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Expert, 2.8y), FinOps (Proficient, 0.7y)
+- Software Engineering: Python (Advanced, 1.0y), Kafka (Working, 0.9y)
+- Data & AI: Airflow (Advanced, 5.5y), Data Engineering (Proficient, 1.2y), Data Governance (Proficient, 0.6y), SQL (Working, 0.4y), Databricks (Working, 0.5y)
+
+EXPERIENCE
+* Healthcare Real-time Analytics Pipeline — a fast-growing hospital network (2026-01 to present)
+  Modernised a real-time analytics pipeline for a fast-growing hospital network in healthcare using AWS, Kafka, SQL and Python, cutting cloud spend by 25%.
+* Healthcare Data Lakehouse — a European hospital network (2024-11 to 2025-11)
+  Scaled a data lakehouse for a European hospital network in healthcare using SQL, AWS, Data Engineering and Data Governance, cutting cloud spend by 40%.
+* Public Sector Customer Churn Model — a fast-growing government agency (2023-04 to 2024-08)
+  Designed a customer churn model for a fast-growing government agency in public sector using AWS and FinOps, improving model accuracy by 25%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: ML Engineer, Data Analyst, AI Engineer

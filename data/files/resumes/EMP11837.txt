@@ -1,0 +1,34 @@
+PAWEŁ JONES
+Data Analyst | Data & Analytics | Kraków, Poland
+Employee ID: EMP11837
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4.8 years of experience, based in Kraków. Strong in SQL, Data Visualization, Power BI and A/B Testing, with recent work in insurance claims. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.1y), Data Visualization (Advanced, 3.0y), Power BI (Advanced, 0.7y), Snowflake (Working, 1.1y), Agentic AI (Beginner, 0.5y)
+- Product & Design: A/B Testing (Proficient, 0.8y)
+- Business & Finance: Business Analysis (Working, 0.7y)
+- Delivery & Leadership: Stakeholder Management (Working, 1.5y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Data Lakehouse — a fast-growing logistics company (2026-03 to present)
+  Migrated a data lakehouse for a fast-growing logistics company in supply-chain logistics using SQL, Data Visualization and Stakeholder Management, reducing processing time by 40%.
+* Insurance Claims Real-time Analytics Pipeline — a fast-growing insurer (2024-10 to 2025-12)
+  Built a real-time analytics pipeline for a fast-growing insurer in insurance claims using Data Visualization, Power BI, SQL and Stakeholder Management, reducing processing time by 35%.
+* Insurance Claims Regulatory Reporting Suite — a European insurer (2023-08 to 2024-08)
+  Led the delivery of a regulatory reporting suite for a European insurer in insurance claims using Agentic AI and Snowflake, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, Product Manager

@@ -1,0 +1,31 @@
+ABHISHEK MENON
+Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12619
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2 years of experience, based in Bengaluru. Strong in JavaScript, Figma, TypeScript and Angular, with recent work in wealth management. Interested in moving towards Frontend Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 1.2y), TypeScript (Proficient, 0.9y), Angular (Proficient, 1.3y)
+- Product & Design: Figma (Advanced, 1.6y)
+- Quality Engineering: Playwright (Proficient, 0.7y)
+- Data & AI: Responsible AI (Working, 0.5y), Databricks (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Order Management System — a European wealth manager (2025-12 to present)
+  Modernised an order management system for a European wealth manager in wealth management using JavaScript, Figma and Databricks, reducing processing time by 18%.
+* Wealth Management Mobile Banking App — a global wealth manager (2025-05 to 2025-10)
+  Designed a mobile banking app for a global wealth manager in wealth management using Figma, Responsible AI and JavaScript, improving conversion by 25%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, UX Designer

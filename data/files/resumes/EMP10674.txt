@@ -1,0 +1,30 @@
+VENKAT SINGH
+ML Engineer | AI Center of Excellence | Gurugram, India
+Employee ID: EMP10674
+
+PROFESSIONAL SUMMARY
+ML Engineer with 3.4 years of experience, based in Gurugram. Strong in Machine Learning, NLP, Python and MLOps, with recent work in wealth management. Interested in moving towards Platform Engineer, Data Scientist roles and open to relocating to London.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 2.8y), NLP (Advanced, 1.0y), MLOps (Proficient, 1.6y), Vector Databases (Proficient, 1.1y), Deep Learning (Working, 0.7y), Computer Vision (Working, 1.3y), Agentic AI (Working, 1.1y)
+- Software Engineering: Python (Proficient, 1.6y)
+- Cloud & DevOps: Kubernetes (Working, 1.5y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Agentic Customer-service Assistant — a leading insurer (2026-01 to present)
+  Modernised an agentic customer-service assistant for a leading insurer in insurance claims using Computer Vision, Kubernetes, MLOps and Python, lifting NPS by 12 points.
+* Wealth Management Knowledge Assistant (RAG) — a leading wealth manager (2025-06 to 2026-01)
+  Migrated a knowledge assistant (RAG) for a leading wealth manager in wealth management using Agentic AI, Computer Vision, MLOps and Kubernetes, lifting NPS by 12 points.
+* Energy Trading Agentic Customer-service Assistant — an APAC energy company (2024-10 to 2025-04)
+  Scaled an agentic customer-service assistant for an APAC energy company in energy trading using Communication, Deep Learning and Agentic AI, saving ~30K hours annually.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Platform Engineer, Data Scientist

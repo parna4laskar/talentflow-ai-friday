@@ -1,0 +1,31 @@
+SURESH MALHOTRA
+Senior Business Analyst | Business Consulting | Bengaluru, India
+Employee ID: EMP12492
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 7 years of experience, based in Bengaluru. Strong in Stakeholder Management, SQL, Agile/Scrum and Process Improvement, with recent work in healthcare. Interested in moving towards Data Analyst, Product Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.6y), Agile/Scrum (Advanced, 2.6y), Communication (Proficient, 2.1y)
+- Data & AI: SQL (Advanced, 1.2y), Power BI (Proficient, 4.1y), Generative AI (Working, 2.2y)
+- Business & Finance: Process Improvement (Advanced, 6.9y), Business Analysis (Proficient, 3.2y), Requirements Gathering (Proficient, 2.3y)
+
+EXPERIENCE
+* Energy Trading Agile Transformation — a global energy company (2025-11 to present)
+  Led an agile transformation for a global energy company in energy trading using Requirements Gathering, SQL and Process Improvement, accelerating releases by 35%.
+* Healthcare Cloud Migration Programme — a leading hospital network (2025-03 to 2025-11)
+  Coordinated a cloud migration programme for a leading hospital network in healthcare using Power BI, Requirements Gathering, Generative AI and Stakeholder Management, delivering on time across 5 workstreams.
+* Energy Trading Agile Transformation — a tier-1 energy company (2024-01 to 2024-12)
+  Ran an agile transformation for a tier-1 energy company in energy trading using Business Analysis, Power BI and Requirements Gathering, delivering on time across 2 workstreams.
+* Healthcare Requirements and UAT for a CRM Rollout — a US hospital network (2023-02 to 2023-10)
+  Led a requirements and UAT for a CRM rollout for a US hospital network in healthcare using Requirements Gathering and Power BI, reducing processing time by 22%.
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, Product Manager

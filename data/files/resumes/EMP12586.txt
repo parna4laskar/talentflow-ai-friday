@@ -1,0 +1,27 @@
+NAVEEN BANERJEE
+Associate Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12586
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 2.1 years of experience, based in Bengaluru. Strong in Node.js, SQL, REST API Design and TypeScript, with recent work in supply-chain logistics. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Proficient, 0.7y), REST API Design (Proficient, 0.7y), TypeScript (Working, 0.7y), Angular (Working, 0.7y), Next.js (Working, 0.6y), GraphQL (Beginner, 0.3y), React (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.4y)
+- Cloud & DevOps: Docker (Beginner, 0.3y), AWS (Beginner, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Claims Processing Engine — an APAC logistics company (2025-10 to present)
+  Modernised a claims processing engine for an APAC logistics company in supply-chain logistics using Docker and SQL, reducing processing time by 40%.
+* Insurance Claims Order Management System — a fast-growing insurer (2025-04 to 2025-10)
+  Led the delivery of an order management system for a fast-growing insurer in insurance claims using React and AWS, reducing processing time by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Frontend Engineer

@@ -1,0 +1,31 @@
+DIVYA DAVIS
+Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP10835
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 5.3 years of experience, based in Gurugram. Strong in TypeScript, React, Design Systems and CI/CD, with recent work in public sector. Interested in moving towards UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 4.2y), React (Advanced, 1.0y), JavaScript (Working, 0.7y)
+- Product & Design: Design Systems (Proficient, 1.2y)
+- Cloud & DevOps: CI/CD (Proficient, 3.8y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — a leading government agency (2026-01 to present)
+  Modernised a self-service portal for a leading government agency in public sector using TypeScript, React and CI/CD, saving ~40K hours annually.
+* Payments Mobile Banking App — a leading payments provider (2024-09 to 2025-12)
+  Built a mobile banking app for a leading payments provider in payments using CI/CD, JavaScript and Design Systems, lifting NPS by 30 points.
+* Airline Operations Customer Onboarding Platform — an APAC airline (2023-03 to 2024-08)
+  Re-architected a customer onboarding platform for an APAC airline in airline operations using React and Design Systems, reducing processing time by 25%.
+* Public Sector Claims Processing Engine — a leading government agency (2021-09 to 2023-02)
+  Modernised a claims processing engine for a leading government agency in public sector using Design Systems and JavaScript, saving ~25K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: UX Designer

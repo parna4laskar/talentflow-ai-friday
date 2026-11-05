@@ -1,0 +1,31 @@
+MATEUSZ WIŚNIEWSKI
+Senior Full Stack Engineer | Engineering | Kraków, Poland
+Employee ID: EMP12717
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 9.2 years of experience, based in Kraków. Strong in TypeScript, SQL, GraphQL and React, with recent work in energy trading. Interested in moving towards Backend Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 0.8y), GraphQL (Advanced, 3.1y), React (Proficient, 6.7y), Python (Proficient, 3.4y), REST API Design (Proficient, 2.2y)
+- Data & AI: SQL (Advanced, 3.2y)
+- Cloud & DevOps: AWS (Working, 0.6y)
+
+EXPERIENCE
+* Energy Trading Customer Onboarding Platform — a fast-growing energy company (2026-05 to present)
+  Led the delivery of a customer onboarding platform for a fast-growing energy company in energy trading using AWS, GraphQL and TypeScript, reducing processing time by 30%.
+* E-commerce Pricing Engine — a European online retailer (2025-09 to 2026-03)
+  Designed a pricing engine for a European online retailer in e-commerce using Python, GraphQL and TypeScript, reducing processing time by 18%.
+* Retail Banking Order Management System — a fast-growing retail bank (2025-01 to 2025-07)
+  Led the delivery of an order management system for a fast-growing retail bank in retail banking using GraphQL, SQL, TypeScript and React, onboarding 6 new enterprise clients.
+* Energy Trading Claims Processing Engine — an APAC energy company (2023-07 to 2024-11)
+  Built a claims processing engine for an APAC energy company in energy trading using React, Python, TypeScript and REST API Design, reducing processing time by 25%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+Polish, English, Tamil
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Frontend Engineer, Mobile Engineer

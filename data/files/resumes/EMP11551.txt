@@ -1,0 +1,34 @@
+VAISHNAVI NAIR
+Principal ML Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP11551
+
+PROFESSIONAL SUMMARY
+Principal ML Engineer with 24 years of experience, based in Bengaluru. Strong in Python, MLOps, Stakeholder Management and Machine Learning, with recent work in media streaming. Interested in moving towards ML Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 9.4y)
+- Data & AI: MLOps (Expert, 13.1y), Machine Learning (Advanced, 11.0y), Deep Learning (Advanced, 1.5y), Computer Vision (Advanced, 16.2y), NLP (Advanced, 9.2y), Vector Databases (Advanced, 2.5y)
+- Delivery & Leadership: Stakeholder Management (Expert, 11.3y), Mentoring (Advanced, 12.3y), Communication (Advanced, 2.4y)
+- Cloud & DevOps: Kubernetes (Advanced, 17.2y), AWS (Advanced, 16.5y)
+- Quality Engineering: Playwright (Proficient, 9.7y)
+
+EXPERIENCE
+* Wealth Management Document Intelligence Pipeline — a European wealth manager (2025-12 to present)
+  Modernised a document intelligence pipeline for a European wealth manager in wealth management using Machine Learning, Kubernetes and Mentoring, saving ~22K hours annually.
+* Automotive Agentic Customer-service Assistant — an APAC car maker (2024-07 to 2025-10)
+  Led the delivery of an agentic customer-service assistant for an APAC car maker in automotive using NLP, Vector Databases and Python, lifting NPS by 12 points.
+* Manufacturing IoT Agentic Customer-service Assistant — a fast-growing manufacturer (2023-07 to 2024-06)
+  Built an agentic customer-service assistant for a fast-growing manufacturer in manufacturing IoT using Communication, Python and Deep Learning, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2025)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: ML Engineer, Platform Engineer, AI Engineer, DevOps Engineer

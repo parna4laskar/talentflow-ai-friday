@@ -1,0 +1,29 @@
+ZHI HAO TAN
+Lead Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11434
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 12.7 years of experience, based in Singapore. Strong in TypeScript, JavaScript, Angular and GraphQL, with recent work in automotive. Interested in moving towards Full Stack Engineer, UX Designer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 3.9y), Stakeholder Management (Advanced, 11.6y)
+- Software Engineering: TypeScript (Advanced, 10.8y), JavaScript (Advanced, 4.1y), Angular (Advanced, 10.6y), GraphQL (Advanced, 6.9y)
+- Cloud & DevOps: CI/CD (Proficient, 1.9y)
+
+EXPERIENCE
+* Automotive Order Management System — a tier-1 car maker (2026-03 to present)
+  Designed an order management system for a tier-1 car maker in automotive using JavaScript and GraphQL, onboarding 5 new enterprise clients.
+* Public Sector Payments Microservices Platform — a US government agency (2024-10 to 2026-01)
+  Scaled a payments microservices platform for a US government agency in public sector using TypeScript, CI/CD and Angular, accelerating releases by 18%.
+* Automotive Self-service Portal — a European car maker (2023-04 to 2024-07)
+  Built a self-service portal for a European car maker in automotive using Angular, GraphQL and TypeScript, lifting NPS by 30 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin, Tamil
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, UX Designer

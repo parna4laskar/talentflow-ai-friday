@@ -1,0 +1,35 @@
+ALEKSANDRA KAMIŃSKI
+Lead Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11748
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 15.4 years of experience, based in Kraków. Strong in REST API Design, Spring Boot, Java and SQL, with recent work in telecom billing. Interested in moving towards DevOps Engineer, Software Architect roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 7.3y), Spring Boot (Expert, 7.4y), Java (Advanced, 5.5y), Microservices (Advanced, 13.6y), Kafka (Advanced, 15.0y), GraphQL (Proficient, 3.5y)
+- Delivery & Leadership: People Leadership (Expert, 1.6y), Mentoring (Working, 0.7y), Stakeholder Management (Working, 5.8y)
+- Data & AI: SQL (Advanced, 6.8y), Agentic AI (Proficient, 5.4y)
+- Cloud & DevOps: AWS (Proficient, 2.9y), CI/CD (Working, 1.6y)
+
+EXPERIENCE
+* Telecom Billing Self-service Portal — a European telecom operator (2026-03 to present)
+  Migrated a self-service portal for a European telecom operator in telecom billing using Spring Boot, REST API Design and GraphQL, saving ~12K hours annually.
+* Telecom Billing Self-service Portal — a leading telecom operator (2024-08 to 2026-01)
+  Migrated a self-service portal for a leading telecom operator in telecom billing using GraphQL and Spring Boot, lifting NPS by 40 points.
+* Automotive Mobile Banking App — a tier-1 car maker (2023-12 to 2024-06)
+  Led the delivery of a mobile banking app for a tier-1 car maker in automotive using CI/CD and Agentic AI, improving conversion by 25%.
+* Telecom Billing Self-service Portal — a fast-growing telecom operator (2023-01 to 2023-11)
+  Automated a self-service portal for a fast-growing telecom operator in telecom billing using Microservices and GraphQL, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, Software Architect

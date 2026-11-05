@@ -1,0 +1,28 @@
+ABHISHEK NAIDU
+Lead Engineering Manager | Engineering | Chennai, India
+Employee ID: EMP10583
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14.7 years of experience, based in Chennai. Strong in People Leadership, System Design, Agile/Scrum and Stakeholder Management, with recent work in automotive. Interested in moving towards Engineering Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 7.7y), Agile/Scrum (Advanced, 9.5y), Stakeholder Management (Advanced, 7.9y), Communication (Advanced, 4.3y), Mentoring (Proficient, 3.9y)
+- Software Engineering: System Design (Advanced, 1.1y), Java (Advanced, 13.5y), Python (Proficient, 7.8y)
+
+EXPERIENCE
+* Automotive Customer Onboarding Platform — a global car maker (2026-05 to present)
+  Migrated a customer onboarding platform for a global car maker in automotive using Java and Mentoring, lifting NPS by 35 points.
+* Airline Operations Claims Processing Engine — a global airline (2024-10 to 2026-03)
+  Migrated a claims processing engine for a global airline in airline operations using Mentoring, Stakeholder Management, Java and Communication, saving ~40K hours annually.
+* Automotive Claims Processing Engine — a tier-1 car maker (2023-10 to 2024-09)
+  Automated a claims processing engine for a tier-1 car maker in automotive using Mentoring, Communication, Stakeholder Management and System Design, saving ~30K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager, Backend Engineer, Software Architect

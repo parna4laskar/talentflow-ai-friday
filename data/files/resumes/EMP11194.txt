@@ -1,0 +1,36 @@
+FARHAN GOH
+Lead ML Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP11194
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 13.4 years of experience, based in Bengaluru. Strong in MLOps, Python, Machine Learning and Deep Learning, with recent work in e-commerce. Interested in moving towards AI Engineer roles and open to relocating to Austin, Toronto, Singapore.
+
+CORE SKILLS
+- Data & AI: MLOps (Expert, 5.5y), Machine Learning (Advanced, 0.6y), Deep Learning (Advanced, 8.8y), Databricks (Advanced, 12.7y), Vector Databases (Proficient, 8.7y)
+- Software Engineering: Python (Advanced, 8.8y)
+- Delivery & Leadership: Communication (Advanced, 1.0y), Mentoring (Proficient, 4.7y)
+- Cloud & DevOps: Docker (Proficient, 6.8y)
+
+EXPERIENCE
+* E-commerce Knowledge Assistant (RAG) — a US online retailer (2026-02 to present)
+  Automated a knowledge assistant (RAG) for a US online retailer in e-commerce using Deep Learning and Machine Learning, saving ~35K hours annually.
+* E-commerce Recommendation Engine — an APAC online retailer (2024-07 to 2026-01)
+  Led the delivery of a recommendation engine for an APAC online retailer in e-commerce using Python, Docker, Communication and Vector Databases, improving model accuracy by 30%.
+* E-commerce Agentic Customer-service Assistant — a tier-1 online retailer (2023-10 to 2024-06)
+  Scaled an agentic customer-service assistant for a tier-1 online retailer in e-commerce using Python and Machine Learning, saving ~35K hours annually.
+* E-commerce Agentic Customer-service Assistant — a US online retailer (2022-11 to 2023-08)
+  Built an agentic customer-service assistant for a US online retailer in e-commerce using Mentoring, MLOps and Vector Databases, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+- AWS ML Specialty (2023)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer

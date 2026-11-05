@@ -1,0 +1,32 @@
+AVA KELLY
+Senior QA Engineer | Quality Engineering | New York, United States
+Employee ID: EMP10253
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.6 years of experience, based in New York. Strong in Test Automation, Playwright, API Testing and Agile/Scrum, with recent work in public sector. Interested in moving towards Backend Engineer roles and open to relocating to Austin, Pune, Bengaluru.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 2.8y), Playwright (Advanced, 6.0y), API Testing (Proficient, 5.0y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.2y)
+- Software Engineering: Java (Proficient, 1.5y)
+- Data & AI: Databricks (Proficient, 7.6y), Generative AI (Beginner, 1.2y)
+
+EXPERIENCE
+* Public Sector Test Automation Framework — a European government agency (2026-09 to present)
+  Built a test automation framework for a European government agency in public sector using Generative AI, Java, Test Automation and Databricks, accelerating releases by 30%.
+* Public Sector Performance Engineering Programme — an APAC government agency (2025-03 to 2026-06)
+  Modernised a performance engineering programme for an APAC government agency in public sector using Agile/Scrum and Java, reducing production incidents by 40%.
+* E-commerce Performance Engineering Programme — a US online retailer (2023-08 to 2024-12)
+  Scaled a performance engineering programme for a US online retailer in e-commerce using Agile/Scrum and Generative AI, accelerating releases by 22%.
+* Public Sector API Contract-testing Suite — a European government agency (2022-09 to 2023-06)
+  Migrated an API contract-testing suite for a European government agency in public sector using Test Automation, Generative AI, Databricks and Playwright, reducing production incidents by 40%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer

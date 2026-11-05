@@ -1,0 +1,33 @@
+ANIRUDH LEWANDOWSKI
+Senior Product Manager | Product | Bengaluru, India
+Employee ID: EMP12545
+
+PROFESSIONAL SUMMARY
+Senior Product Manager with 5 years of experience, based in Bengaluru. Strong in Stakeholder Management, Product Management, Roadmapping and Product Strategy, with recent work in automotive. Interested in moving towards Business Analyst, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Advanced, 2.5y), Agile/Scrum (Working, 2.4y)
+- Product & Design: Product Management (Proficient, 2.3y), Roadmapping (Proficient, 0.6y), Product Strategy (Proficient, 1.3y), A/B Testing (Working, 1.9y)
+- Data & AI: SQL (Proficient, 2.5y), Generative AI (Working, 2.0y)
+
+EXPERIENCE
+* Automotive Mobile App Relaunch — a tier-1 car maker (2026-05 to present)
+  Owned a mobile app relaunch for a tier-1 car maker in automotive using Product Strategy and Stakeholder Management, improving conversion by 25%.
+* Automotive Checkout Experience — a European car maker (2025-05 to 2026-03)
+  Owned a checkout experience for a European car maker in automotive using Product Management and SQL, lifting NPS by 25 points.
+* Telecom Billing AI-assisted Customer Journey — a leading telecom operator (2023-10 to 2025-04)
+  Launched an AI-assisted customer journey for a leading telecom operator in telecom billing using Generative AI and Stakeholder Management, saving ~25K hours annually.
+
+CERTIFICATIONS
+- Pragmatic Institute PMC (2021)
+- SAFe POPM (2021)
+
+EDUCATION
+- B.Tech + MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Business Analyst, Scrum Master, UX Designer

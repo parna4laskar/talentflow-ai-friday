@@ -1,0 +1,27 @@
+MANISH MARTIN
+Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP10239
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.8 years of experience, based in Pune. Strong in TypeScript, Angular, Node.js and Next.js, with recent work in e-commerce. Interested in moving towards Full Stack Engineer, Mobile Engineer roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 1.3y), Angular (Proficient, 1.9y), Node.js (Proficient, 0.6y), Next.js (Proficient, 0.4y), Microservices (Beginner, 0.4y)
+- Cloud & DevOps: AWS (Proficient, 1.7y), Docker (Proficient, 0.8y), GCP (Working, 1.0y)
+- Data & AI: SQL (Working, 0.7y)
+
+EXPERIENCE
+* Energy Trading Claims Processing Engine — a tier-1 energy company (2025-07 to present)
+  Automated a claims processing engine for a tier-1 energy company in energy trading using GCP, SQL and Angular, saving ~35K hours annually.
+* E-commerce Customer Onboarding Platform — a global online retailer (2024-01 to 2025-05)
+  Re-architected a customer onboarding platform for a global online retailer in e-commerce using Angular, SQL and Docker, lifting NPS by 30 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Mobile Engineer

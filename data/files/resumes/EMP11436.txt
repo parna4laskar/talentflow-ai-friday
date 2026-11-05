@@ -1,0 +1,34 @@
+GEORGE JONES
+QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP11436
+
+PROFESSIONAL SUMMARY
+QA Engineer with 3.8 years of experience, based in London. Strong in Selenium, API Testing, Java and Python, with recent work in wealth management. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 1.1y), API Testing (Proficient, 1.2y), Test Automation (Working, 0.4y), Performance Testing (Working, 1.5y)
+- Software Engineering: Java (Proficient, 0.8y), Python (Proficient, 1.6y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.7y), Communication (Working, 0.4y)
+
+EXPERIENCE
+* Manufacturing IoT Performance Engineering Programme — a tier-1 manufacturer (2026-05 to present)
+  Scaled a performance engineering programme for a tier-1 manufacturer in manufacturing IoT using Python, Communication, Java and API Testing, accelerating releases by 22%.
+* Healthcare Test Automation Framework — a fast-growing hospital network (2025-08 to 2026-05)
+  Led the delivery of a test automation framework for a fast-growing hospital network in healthcare using Python and Agile/Scrum, accelerating releases by 40%.
+* Wealth Management API Contract-testing Suite — a fast-growing wealth manager (2024-08 to 2025-07)
+  Designed an API contract-testing suite for a fast-growing wealth manager in wealth management using Performance Testing, Test Automation and API Testing, raising automated test coverage to 90%.
+* Wealth Management Performance Engineering Programme — a European wealth manager (2023-03 to 2024-07)
+  Built a performance engineering programme for a European wealth manager in wealth management using Communication, API Testing, Test Automation and Agile/Scrum, accelerating releases by 22%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2026)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Backend Engineer, Full Stack Engineer

@@ -1,0 +1,31 @@
+AARAV SHEIKH
+QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP12191
+
+PROFESSIONAL SUMMARY
+QA Engineer with 5.9 years of experience, based in Pune. Strong in Test Automation, Selenium, CI/CD and API Testing, with recent work in e-commerce. Interested in moving towards Mobile Engineer, Full Stack Engineer roles and open to relocating to Chennai, Gurugram, Toronto.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 4.8y), Selenium (Advanced, 0.9y), API Testing (Proficient, 0.5y), Performance Testing (Proficient, 0.9y)
+- Cloud & DevOps: CI/CD (Advanced, 0.9y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.6y)
+- Data & AI: LLM Engineering (Proficient, 2.4y)
+- Software Engineering: Python (Working, 1.9y), Java (Beginner, 1.2y), Go (Beginner, 0.9y)
+
+EXPERIENCE
+* E-commerce API Contract-testing Suite — a European online retailer (2026-02 to present)
+  Designed an API contract-testing suite for a European online retailer in e-commerce using Test Automation, Java, Agile/Scrum and Go, reducing production incidents by 30%.
+* E-commerce Performance Engineering Programme — a European online retailer (2025-03 to 2025-11)
+  Modernised a performance engineering programme for a European online retailer in e-commerce using Test Automation, CI/CD and Go, reducing production incidents by 40%.
+* Wealth Management Test Automation Framework — a European wealth manager (2024-10 to 2025-03)
+  Re-architected a test automation framework for a European wealth manager in wealth management using Agile/Scrum, Python and Java, accelerating releases by 30%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Mobile Engineer, Full Stack Engineer, Backend Engineer

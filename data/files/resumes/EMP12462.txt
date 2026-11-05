@@ -1,0 +1,32 @@
+MANISH NAIR
+QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP12462
+
+PROFESSIONAL SUMMARY
+QA Engineer with 3.7 years of experience, based in Hyderabad. Strong in Test Automation, Agile/Scrum, Playwright and API Testing, with recent work in wealth management. Interested in moving towards Backend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 3.6y), Playwright (Proficient, 1.5y), API Testing (Proficient, 1.2y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 2.7y)
+- Cloud & DevOps: CI/CD (Working, 1.3y)
+- Data & AI: MLOps (Working, 0.7y)
+
+EXPERIENCE
+* Insurance Claims API Contract-testing Suite — a European insurer (2026-02 to present)
+  Built an API contract-testing suite for a European insurer in insurance claims using Agile/Scrum and CI/CD, reducing production incidents by 22%.
+* Wealth Management Performance Engineering Programme — an APAC wealth manager (2025-04 to 2026-01)
+  Migrated a performance engineering programme for an APAC wealth manager in wealth management using API Testing and MLOps, accelerating releases by 25%.
+* Wealth Management API Contract-testing Suite — a fast-growing wealth manager (2024-01 to 2025-03)
+  Migrated an API contract-testing suite for a fast-growing wealth manager in wealth management using CI/CD and MLOps, raising automated test coverage to 80%.
+* Wealth Management Performance Engineering Programme — an APAC wealth manager (2023-05 to 2023-12)
+  Modernised a performance engineering programme for an APAC wealth manager in wealth management using CI/CD, MLOps, API Testing and Playwright, accelerating releases by 18%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Mobile Engineer, Engineering Manager

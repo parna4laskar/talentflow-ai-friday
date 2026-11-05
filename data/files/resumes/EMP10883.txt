@@ -1,0 +1,28 @@
+WEI JIE ONG
+Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP10883
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.1 years of experience, based in Singapore. Strong in TypeScript, Figma, JavaScript and CI/CD, with recent work in automotive. Interested in moving towards UX Designer roles and open to relocating to Chennai, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.8y), JavaScript (Working, 0.8y), React (Beginner, 0.3y)
+- Product & Design: Figma (Proficient, 0.7y)
+- Cloud & DevOps: CI/CD (Working, 0.5y)
+- Data & AI: Machine Learning (Working, 0.3y)
+
+EXPERIENCE
+* Automotive Order Management System — a US car maker (2025-07 to present)
+  Led the delivery of an order management system for a US car maker in automotive using Machine Learning, TypeScript, Figma and React, onboarding 2 new enterprise clients.
+* Supply-chain Logistics Claims Processing Engine — a US logistics company (2024-03 to 2025-05)
+  Migrated a claims processing engine for a US logistics company in supply-chain logistics using TypeScript and Figma, saving ~18K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin, Bengali
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: UX Designer

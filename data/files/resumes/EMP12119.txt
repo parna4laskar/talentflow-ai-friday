@@ -1,0 +1,33 @@
+MATTHEW MARTINEZ
+Senior UX Designer | Design | New York, United States
+Employee ID: EMP12119
+
+PROFESSIONAL SUMMARY
+Senior UX Designer with 10.5 years of experience, based in New York. Strong in UX Research, UI Design, Figma and Design Systems, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, Marketing Specialist roles.
+
+CORE SKILLS
+- Product & Design: UX Research (Advanced, 6.8y), UI Design (Advanced, 2.0y), Figma (Advanced, 1.9y), Design Systems (Advanced, 9.6y), A/B Testing (Advanced, 8.2y), Product Management (Proficient, 6.3y)
+- Delivery & Leadership: Communication (Advanced, 0.8y)
+
+EXPERIENCE
+* Airline Operations Onboarding Flow — a tier-1 airline (2025-12 to present)
+  Designed an onboarding flow for a tier-1 airline in airline operations using Communication and Design Systems, improving conversion by 40%.
+* Manufacturing IoT Onboarding Flow — a tier-1 manufacturer (2024-10 to 2025-10)
+  Designed an onboarding flow for a tier-1 manufacturer in manufacturing IoT using A/B Testing, Figma and Design Systems, improving conversion by 22%.
+* Manufacturing IoT Enterprise Design System — a global manufacturer (2023-06 to 2024-09)
+  Designed an enterprise design system for a global manufacturer in manufacturing IoT using Communication, Figma, UX Research and A/B Testing, lifting NPS by 22 points.
+* Manufacturing IoT Enterprise Design System — a fast-growing manufacturer (2022-10 to 2023-04)
+  Designed an enterprise design system for a fast-growing manufacturer in manufacturing IoT using A/B Testing, Communication and Product Management, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- NN/g UX Certification (2022)
+
+EDUCATION
+- M.Des
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, Marketing Specialist, Product Manager

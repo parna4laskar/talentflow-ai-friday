@@ -1,0 +1,26 @@
+SWATI SHAH
+Associate Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP11191
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 2.9 years of experience, based in Bengaluru. Strong in Python, SQL, NLP and Statistics, with recent work in energy trading. Interested in moving towards Product Manager, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.4y)
+- Data & AI: SQL (Proficient, 1.2y), NLP (Proficient, 0.4y), Statistics (Working, 1.3y), Power BI (Working, 1.0y), Machine Learning (Beginner, 0.4y), Apache Spark (Beginner, 0.4y), Data Visualization (Beginner, 0.4y)
+
+EXPERIENCE
+* Energy Trading Customer Churn Model — a leading energy company (2026-06 to present)
+  Modernised a customer churn model for a leading energy company in energy trading using Data Visualization and Machine Learning, improving model accuracy by 40%.
+* Energy Trading Executive KPI Dashboard Suite — a global energy company (2025-08 to 2026-06)
+  Automated an executive KPI dashboard suite for a global energy company in energy trading using Data Visualization and Python, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager, ML Engineer, AI Engineer

@@ -1,0 +1,33 @@
+SAMUEL WILSON
+Senior QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP12307
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 5.8 years of experience, based in London. Strong in Test Automation, API Testing, Selenium and Performance Testing, with recent work in pharma R&D. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 5.8y), API Testing (Advanced, 2.6y), Selenium (Proficient, 3.7y), Performance Testing (Proficient, 2.8y)
+- Cloud & DevOps: Platform Engineering (Proficient, 1.9y), CI/CD (Working, 1.3y)
+- Software Engineering: Java (Working, 2.1y)
+- Delivery & Leadership: Agile/Scrum (Working, 2.3y)
+
+EXPERIENCE
+* Airline Operations API Contract-testing Suite — a leading airline (2025-11 to present)
+  Migrated an API contract-testing suite for a leading airline in airline operations using Platform Engineering, API Testing, Java and Agile/Scrum, reducing production incidents by 22%.
+* Pharma R&D Test Automation Framework — a tier-1 pharma company (2024-08 to 2025-09)
+  Designed a test automation framework for a tier-1 pharma company in pharma R&D using Test Automation, CI/CD, Selenium and Platform Engineering, raising automated test coverage to 80%.
+* Pharma R&D API Contract-testing Suite — a fast-growing pharma company (2023-03 to 2024-07)
+  Scaled an API contract-testing suite for a fast-growing pharma company in pharma R&D using Performance Testing, Agile/Scrum and Platform Engineering, reducing production incidents by 22%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2026)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: QA Engineer, Backend Engineer, Full Stack Engineer

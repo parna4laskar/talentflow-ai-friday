@@ -1,0 +1,27 @@
+SHREYA MEHTA
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP10120
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 2.8 years of experience, based in Bengaluru. Strong in Airflow, Python, Data Engineering and Snowflake, with recent work in pharma R&D. Interested in moving towards Data Analyst roles and open to relocating to Hyderabad, Dublin, Austin.
+
+CORE SKILLS
+- Data & AI: Airflow (Advanced, 1.4y), Data Engineering (Proficient, 0.4y), Snowflake (Proficient, 1.3y), Databricks (Proficient, 0.8y), dbt (Proficient, 1.1y), SQL (Working, 0.7y), Data Governance (Beginner, 0.5y)
+- Software Engineering: Python (Proficient, 0.7y)
+- Cloud & DevOps: AWS (Working, 1.0y), FinOps (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Data Lakehouse — an APAC pharma company (2025-09 to present)
+  Modernised a data lakehouse for an APAC pharma company in pharma R&D using AWS and SQL, reducing processing time by 30%.
+* Telecom Billing Executive KPI Dashboard Suite — a US telecom operator (2024-06 to 2025-06)
+  Scaled an executive KPI dashboard suite for a US telecom operator in telecom billing using Snowflake, FinOps, Python and Data Governance, improving forecast accuracy by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst

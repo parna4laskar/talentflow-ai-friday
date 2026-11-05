@@ -1,0 +1,27 @@
+PIOTR KAMIŃSKI
+Data Scientist | Data & Analytics | Kraków, Poland
+Employee ID: EMP11904
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2.4 years of experience, based in Kraków. Strong in Statistics, Python, Machine Learning and SQL, with recent work in energy trading. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 1.0y), Machine Learning (Proficient, 0.9y), SQL (Proficient, 0.7y), Deep Learning (Proficient, 0.9y)
+- Software Engineering: Python (Proficient, 0.6y)
+- Product & Design: A/B Testing (Working, 0.7y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a US telecom operator (2026-07 to present)
+  Automated an executive KPI dashboard suite for a US telecom operator in telecom billing using SQL, Machine Learning and Deep Learning, saving ~22K hours annually.
+* Energy Trading Customer Churn Model — a fast-growing energy company (2025-09 to 2026-06)
+  Migrated a customer churn model for a fast-growing energy company in energy trading using Statistics and Python, improving model accuracy by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist, Product Manager, ML Engineer

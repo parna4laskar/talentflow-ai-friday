@@ -1,0 +1,34 @@
+TANVI REDDY
+Lead UX Designer | Design | Bengaluru, India
+Employee ID: EMP11842
+
+PROFESSIONAL SUMMARY
+Lead UX Designer with 12.8 years of experience, based in Bengaluru. Strong in UX Research, Figma, Stakeholder Management and UI Design, with recent work in payments. Interested in moving towards UX Designer, Marketing Specialist roles.
+
+CORE SKILLS
+- Product & Design: UX Research (Advanced, 10.5y), Figma (Advanced, 12.5y), UI Design (Proficient, 1.3y), A/B Testing (Working, 1.5y), Design Systems (Working, 3.7y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 12.5y)
+- Cloud & DevOps: FinOps (Proficient, 5.2y)
+
+EXPERIENCE
+* Payments Onboarding Flow — a European payments provider (2025-11 to present)
+  Led UX for an onboarding flow for a European payments provider in payments using FinOps, UX Research and A/B Testing, improving conversion by 35%.
+* Manufacturing IoT Customer Self-service Journey — a tier-1 manufacturer (2024-08 to 2025-11)
+  Led UX for a customer self-service journey for a tier-1 manufacturer in manufacturing IoT using Figma, UI Design, FinOps and Design Systems, improving conversion by 22%.
+* Payments Customer Self-service Journey — a fast-growing payments provider (2023-12 to 2024-06)
+  Led UX for a customer self-service journey for a fast-growing payments provider in payments using A/B Testing, Design Systems, UX Research and Figma, improving conversion by 18%.
+* Payments Enterprise Design System — a fast-growing payments provider (2022-05 to 2023-09)
+  Led UX for an enterprise design system for a fast-growing payments provider in payments using Figma and UI Design, accelerating releases by 30%.
+
+CERTIFICATIONS
+- NN/g UX Certification (2021)
+
+EDUCATION
+- B.Des Interaction Design
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: UX Designer, Marketing Specialist, Product Manager

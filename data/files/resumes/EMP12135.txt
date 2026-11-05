@@ -1,0 +1,29 @@
+JAKUB KAMIŃSKI
+Senior Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP12135
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.1 years of experience, based in Kraków. Strong in Python, SQL, .NET Core and AWS, with recent work in airline operations. Interested in moving towards Engineering Manager roles and open to relocating to Chennai, Dublin.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.1y), .NET Core (Advanced, 4.2y), REST API Design (Proficient, 6.9y), Microservices (Proficient, 2.3y), System Design (Working, 0.4y), Spring Boot (Working, 4.1y)
+- Data & AI: SQL (Advanced, 5.9y)
+- Cloud & DevOps: AWS (Advanced, 6.9y), Kubernetes (Proficient, 6.2y)
+
+EXPERIENCE
+* Pharma R&D Mobile Banking App — an APAC pharma company (2025-11 to present)
+  Modernised a mobile banking app for an APAC pharma company in pharma R&D using System Design, .NET Core and Microservices, lifting NPS by 12 points.
+* Pharma R&D Order Management System — a US pharma company (2025-01 to 2025-09)
+  Led the delivery of an order management system for a US pharma company in pharma R&D using System Design and REST API Design, onboarding 5 new enterprise clients.
+* Media Streaming Payments Microservices Platform — an APAC streaming platform (2024-06 to 2024-11)
+  Automated a payments microservices platform for an APAC streaming platform in media streaming using Kubernetes, SQL, Python and Spring Boot, reducing processing time by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager

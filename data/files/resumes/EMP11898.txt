@@ -1,0 +1,34 @@
+TANVI MENON
+Senior Security Analyst | Cyber Security | Pune, India
+Employee ID: EMP11898
+
+PROFESSIONAL SUMMARY
+Senior Security Analyst with 7 years of experience, based in Pune. Strong in SIEM, Incident Response, Linux Administration and GRC, with recent work in energy trading. Interested in moving towards Site Reliability Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Security: SIEM (Expert, 6.4y), Incident Response (Advanced, 6.1y), GRC (Working, 2.1y)
+- Cloud & DevOps: Linux Administration (Proficient, 1.9y)
+- Data & AI: LLM Engineering (Beginner, 1.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Identity and Access Platform — an APAC logistics company (2026-07 to present)
+  Migrated an identity and access platform for an APAC logistics company in supply-chain logistics using LLM Engineering and GRC, reducing production incidents by 22%.
+* Public Sector Identity and Access Platform — a leading government agency (2025-06 to 2026-04)
+  Designed an identity and access platform for a leading government agency in public sector using SIEM and Linux Administration, closing 35% of open audit findings.
+* Retail Banking Security Operations Centre Uplift — a fast-growing retail bank (2023-11 to 2025-03)
+  Designed a security operations centre uplift for a fast-growing retail bank in retail banking using Incident Response and LLM Engineering, closing 40% of open audit findings.
+* Energy Trading Cloud Security Posture Programme — a global energy company (2022-03 to 2023-08)
+  Modernised a cloud security posture programme for a global energy company in energy trading using Linux Administration, Incident Response, GRC and LLM Engineering, closing 22% of open audit findings.
+
+CERTIFICATIONS
+- CompTIA Security+ (2023)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer, DevOps Engineer

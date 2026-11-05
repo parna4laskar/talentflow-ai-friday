@@ -1,0 +1,33 @@
+CIARA KELLY
+Data Engineer | Data & Analytics | Dublin, Ireland
+Employee ID: EMP12855
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5.2 years of experience, based in Dublin. Strong in SQL, Data Engineering, dbt and AWS, with recent work in pharma R&D. Interested in moving towards Data Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.1y), Data Engineering (Advanced, 0.8y), dbt (Proficient, 3.2y), Data Governance (Working, 1.2y), Snowflake (Working, 0.8y)
+- Cloud & DevOps: AWS (Proficient, 2.0y)
+- Software Engineering: Python (Working, 1.3y), Kafka (Working, 2.0y), Go (Working, 0.7y)
+- Delivery & Leadership: Communication (Working, 1.8y)
+
+EXPERIENCE
+* Media Streaming Customer Churn Model — an APAC streaming platform (2026-02 to present)
+  Automated a customer churn model for an APAC streaming platform in media streaming using AWS and Python, improving conversion by 35%.
+* Telecom Billing Data Lakehouse — a tier-1 telecom operator (2025-03 to 2025-12)
+  Built a data lakehouse for a tier-1 telecom operator in telecom billing using Data Engineering, Kafka, Snowflake and Python, cutting cloud spend by 18%.
+* Pharma R&D Customer Churn Model — a global pharma company (2023-08 to 2025-01)
+  Re-architected a customer churn model for a global pharma company in pharma R&D using Go, Data Engineering and Python, improving model accuracy by 22%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Engineer, ML Engineer, Backend Engineer, Data Analyst

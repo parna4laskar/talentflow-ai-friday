@@ -1,0 +1,32 @@
+ARVIND JADHAV
+Lead Business Analyst | Business Consulting | Bengaluru, India
+Employee ID: EMP10626
+
+PROFESSIONAL SUMMARY
+Lead Business Analyst with 13.2 years of experience, based in Bengaluru. Strong in Business Analysis, Requirements Gathering, Stakeholder Management and Communication, with recent work in manufacturing IoT. Interested in moving towards Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 2.3y), Requirements Gathering (Proficient, 1.4y), Process Improvement (Working, 3.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.0y), Communication (Proficient, 8.2y), Mentoring (Proficient, 4.6y)
+- Data & AI: SQL (Proficient, 5.1y), Responsible AI (Working, 3.1y)
+
+EXPERIENCE
+* Manufacturing IoT Cloud Migration Programme — a leading manufacturer (2026-05 to present)
+  Delivered a cloud migration programme for a leading manufacturer in manufacturing IoT using SQL, Mentoring and Communication, delivering on time across 5 workstreams.
+* Manufacturing IoT Process Re-engineering Initiative — a tier-1 manufacturer (2024-11 to 2026-04)
+  Coordinated a process re-engineering initiative for a tier-1 manufacturer in manufacturing IoT using Process Improvement, Requirements Gathering and Business Analysis, reducing processing time by 25%.
+* Energy Trading Agile Transformation — a tier-1 energy company (2024-06 to 2024-10)
+  Led an agile transformation for a tier-1 energy company in energy trading using Process Improvement, Stakeholder Management, Mentoring and Business Analysis, delivering on time across 6 workstreams.
+
+CERTIFICATIONS
+- CBAP (2025)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Analyst

@@ -1,0 +1,33 @@
+GAURAV SINGH
+Principal Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP10805
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 19.4 years of experience, based in Hyderabad. Strong in Tableau, Data Visualization, Snowflake and Statistics, with recent work in public sector. Interested in moving towards Financial Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Tableau (Expert, 0.9y), Data Visualization (Advanced, 4.8y), Snowflake (Advanced, 0.8y), Statistics (Advanced, 5.4y), dbt (Advanced, 7.2y), SQL (Proficient, 14.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.8y), Mentoring (Proficient, 3.9y)
+- Product & Design: A/B Testing (Proficient, 2.1y)
+- People & Marketing: People Analytics (Proficient, 7.0y)
+
+EXPERIENCE
+* Public Sector Customer Churn Model — an APAC government agency (2025-06 to present)
+  Led the delivery of a customer churn model for an APAC government agency in public sector using dbt, Data Visualization, Stakeholder Management and People Analytics, improving conversion by 25%.
+* Public Sector Regulatory Reporting Suite — a US government agency (2023-11 to 2025-05)
+  Re-architected a regulatory reporting suite for a US government agency in public sector using dbt and Mentoring, saving ~22K hours annually.
+* Public Sector Regulatory Reporting Suite — an APAC government agency (2023-05 to 2023-10)
+  Built a regulatory reporting suite for an APAC government agency in public sector using Snowflake, Mentoring and Statistics, saving ~12K hours annually.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2022)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Financial Analyst, Data Scientist, Product Manager

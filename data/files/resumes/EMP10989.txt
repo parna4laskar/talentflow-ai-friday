@@ -1,0 +1,31 @@
+SANJANA SINGH
+Senior Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10989
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 7.3 years of experience, based in Bengaluru. Strong in TypeScript, React, Python and SQL, with recent work in wealth management. Interested in moving towards Mobile Engineer, Backend Engineer roles and open to relocating to Pune, Hyderabad.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.1y), React (Advanced, 0.9y), Python (Proficient, 3.1y), Next.js (Working, 0.3y)
+- Data & AI: SQL (Proficient, 4.5y), Data Engineering (Working, 1.7y)
+- Cloud & DevOps: AWS (Proficient, 3.5y)
+
+EXPERIENCE
+* Telecom Billing Claims Processing Engine — a leading telecom operator (2026-05 to present)
+  Designed a claims processing engine for a leading telecom operator in telecom billing using Next.js, SQL, Data Engineering and React, reducing processing time by 18%.
+* Wealth Management Claims Processing Engine — a leading wealth manager (2025-01 to 2026-03)
+  Automated a claims processing engine for a leading wealth manager in wealth management using TypeScript and React, saving ~25K hours annually.
+* Payments Customer Onboarding Platform — an APAC payments provider (2024-05 to 2024-11)
+  Migrated a customer onboarding platform for an APAC payments provider in payments using Python, SQL and React, lifting NPS by 35 points.
+* Wealth Management Pricing Engine — a fast-growing wealth manager (2023-09 to 2024-03)
+  Modernised a pricing engine for a fast-growing wealth manager in wealth management using Data Engineering and Next.js, improving conversion by 30%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, Backend Engineer

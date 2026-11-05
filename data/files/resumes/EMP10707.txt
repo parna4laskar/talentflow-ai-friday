@@ -1,0 +1,35 @@
+HARINI NAIDU
+Lead DevOps Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP10707
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 12.3 years of experience, based in Chennai. Strong in Terraform, Docker, AWS and Go, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, Platform Engineer roles and open to relocating to London, Toronto.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 12.3y), Docker (Advanced, 9.2y), AWS (Advanced, 6.4y), CI/CD (Proficient, 6.8y), Kubernetes (Proficient, 5.9y), Observability (Working, 6.1y), Linux Administration (Working, 5.6y)
+- Software Engineering: Go (Advanced, 3.0y), Python (Proficient, 6.2y)
+- Delivery & Leadership: People Leadership (Advanced, 5.6y), Stakeholder Management (Proficient, 3.0y), Mentoring (Working, 2.4y)
+- Data & AI: Agentic AI (Proficient, 4.3y)
+
+EXPERIENCE
+* Pharma R&D CI/CD Platform — a leading pharma company (2025-07 to present)
+  Scaled a CI/CD platform for a leading pharma company in pharma R&D using Observability, Agentic AI, Python and Linux Administration, accelerating releases by 30%.
+* Public Sector CI/CD Platform — a global government agency (2024-05 to 2025-05)
+  Automated a CI/CD platform for a global government agency in public sector using Observability, Python and Go, accelerating releases by 35%.
+* Pharma R&D CI/CD Platform — a fast-growing pharma company (2022-12 to 2024-03)
+  Designed a CI/CD platform for a fast-growing pharma company in pharma R&D using Kubernetes, Linux Administration and Python, accelerating releases by 18%.
+* Pharma R&D Data-centre Exit To Cloud — a tier-1 pharma company (2021-09 to 2022-09)
+  Led the delivery of a data-centre exit to cloud for a tier-1 pharma company in pharma R&D using AWS and Agentic AI, cutting cloud spend by 40%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer, Platform Engineer

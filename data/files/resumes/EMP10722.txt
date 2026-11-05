@@ -1,0 +1,30 @@
+AAROHI NAIDU
+Lead QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10722
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 9.9 years of experience, based in Bengaluru. Strong in Selenium, API Testing, Test Automation and SQL, with recent work in payments. Interested in moving towards QA Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 5.5y), API Testing (Advanced, 3.5y), Test Automation (Proficient, 1.6y)
+- Data & AI: SQL (Proficient, 4.2y)
+- Software Engineering: Python (Proficient, 4.5y)
+- Delivery & Leadership: Communication (Proficient, 7.1y), People Leadership (Proficient, 6.9y)
+
+EXPERIENCE
+* HR Tech Test Automation Framework — a US HR software company (2026-04 to present)
+  Scaled a test automation framework for a US HR software company in HR tech using Test Automation and API Testing, accelerating releases by 30%.
+* E-commerce Performance Engineering Programme — a US online retailer (2025-01 to 2026-01)
+  Scaled a performance engineering programme for a US online retailer in e-commerce using Test Automation, API Testing, SQL and Selenium, reducing production incidents by 18%.
+* Payments Performance Engineering Programme — a leading payments provider (2024-07 to 2024-12)
+  Re-architected a performance engineering programme for a leading payments provider in payments using SQL, API Testing, Test Automation and Python, reducing production incidents by 30%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: QA Engineer, DevOps Engineer, Mobile Engineer

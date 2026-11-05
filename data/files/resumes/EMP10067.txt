@@ -1,0 +1,27 @@
+ABHISHEK KHAN
+Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10067
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.2 years of experience, based in Hyderabad. Strong in TypeScript, JavaScript, React and CI/CD, with recent work in insurance claims. Interested in moving towards Frontend Engineer, Mobile Engineer roles and open to relocating to Gurugram, Bengaluru, Dublin.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.1y), JavaScript (Advanced, 1.8y), React (Proficient, 0.8y), Next.js (Working, 0.8y)
+- Cloud & DevOps: CI/CD (Proficient, 1.4y)
+- Product & Design: Figma (Working, 1.1y), Design Systems (Working, 0.7y)
+
+EXPERIENCE
+* Energy Trading Self-service Portal — a fast-growing energy company (2026-05 to present)
+  Automated a self-service portal for a fast-growing energy company in energy trading using Next.js and TypeScript, saving ~30K hours annually.
+* Insurance Claims Self-service Portal — a US insurer (2025-05 to 2026-03)
+  Scaled a self-service portal for a US insurer in insurance claims using React, JavaScript and Next.js, saving ~30K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, Mobile Engineer

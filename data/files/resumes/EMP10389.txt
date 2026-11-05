@@ -1,0 +1,30 @@
+SWATI RAO
+DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10389
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 3 years of experience, based in Pune. Strong in CI/CD, GCP, Kubernetes and Go, with recent work in wealth management. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 1.9y), GCP (Advanced, 0.7y), Kubernetes (Proficient, 2.1y), Terraform (Proficient, 1.8y), Linux Administration (Proficient, 1.4y), Observability (Working, 0.6y), Docker (Beginner, 0.3y)
+- Software Engineering: Go (Proficient, 1.0y), Python (Proficient, 1.0y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+- Data & AI: Machine Learning (Beginner, 0.7y)
+
+EXPERIENCE
+* Pharma R&D Observability Stack — an APAC pharma company (2026-05 to present)
+  Led the delivery of an observability stack for an APAC pharma company in pharma R&D using Go and Docker, accelerating releases by 22%.
+* Retail Banking CI/CD Platform — a tier-1 retail bank (2025-07 to 2026-03)
+  Automated a CI/CD platform for a tier-1 retail bank in retail banking using Go and Communication, accelerating releases by 22%.
+* Wealth Management Data-centre Exit To Cloud — a fast-growing wealth manager (2024-02 to 2025-06)
+  Automated a data-centre exit to cloud for a fast-growing wealth manager in wealth management using Linux Administration, Observability and CI/CD, delivering $4M in cost savings.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Platform Engineer, Cloud Engineer

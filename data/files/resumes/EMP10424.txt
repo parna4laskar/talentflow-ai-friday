@@ -1,0 +1,32 @@
+BHAVANA DAVIS
+ML Engineer | AI Center of Excellence | Gurugram, India
+Employee ID: EMP10424
+
+PROFESSIONAL SUMMARY
+ML Engineer with 5.9 years of experience, based in Gurugram. Strong in Python, Machine Learning, MLOps and AWS, with recent work in public sector. Interested in moving towards ML Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 4.3y)
+- Data & AI: Machine Learning (Advanced, 4.1y), MLOps (Advanced, 1.2y), Vector Databases (Proficient, 2.8y), NLP (Proficient, 3.7y), Databricks (Proficient, 1.6y), Deep Learning (Working, 2.5y), Computer Vision (Working, 1.4y)
+- Cloud & DevOps: AWS (Proficient, 2.8y)
+
+EXPERIENCE
+* Public Sector Recommendation Engine — a US government agency (2026-03 to present)
+  Scaled a recommendation engine for a US government agency in public sector using NLP and Vector Databases, improving conversion by 35%.
+* Public Sector Document Intelligence Pipeline — a US government agency (2025-08 to 2026-02)
+  Designed a document intelligence pipeline for a US government agency in public sector using Vector Databases and Databricks, reducing processing time by 18%.
+* Retail Banking Knowledge Assistant (RAG) — an APAC retail bank (2024-08 to 2025-07)
+  Modernised a knowledge assistant (RAG) for an APAC retail bank in retail banking using AWS, Deep Learning and MLOps, saving ~12K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2023)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, Platform Engineer, DevOps Engineer

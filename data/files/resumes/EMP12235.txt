@@ -1,0 +1,31 @@
+VARUN SHARMA
+Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12235
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3.2 years of experience, based in Bengaluru. Strong in TypeScript, Angular, Node.js and SQL, with recent work in pharma R&D. Interested in moving towards Software Architect, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.7y), Angular (Proficient, 1.7y), Node.js (Proficient, 1.6y), Microservices (Working, 1.2y)
+- Data & AI: SQL (Proficient, 1.2y), dbt (Working, 0.4y)
+- Cloud & DevOps: Docker (Proficient, 1.6y)
+
+EXPERIENCE
+* Retail Banking Mobile Banking App — an APAC retail bank (2026-07 to present)
+  Designed a mobile banking app for an APAC retail bank in retail banking using Microservices and Docker, improving conversion by 35%.
+* Pharma R&D Customer Onboarding Platform — an APAC pharma company (2025-10 to 2026-04)
+  Built a customer onboarding platform for an APAC pharma company in pharma R&D using Docker and Microservices, reducing processing time by 30%.
+* Insurance Claims Customer Onboarding Platform — a global insurer (2025-01 to 2025-09)
+  Automated a customer onboarding platform for a global insurer in insurance claims using SQL, Angular, dbt and TypeScript, reducing processing time by 22%.
+* Pharma R&D Customer Onboarding Platform — a global pharma company (2024-06 to 2024-11)
+  Designed a customer onboarding platform for a global pharma company in pharma R&D using Angular, TypeScript and SQL, lifting NPS by 40 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Software Architect, Frontend Engineer, AI Engineer

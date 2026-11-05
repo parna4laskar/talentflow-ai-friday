@@ -1,0 +1,30 @@
+SEÁN WALSH
+Lead Full Stack Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP11485
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 12.7 years of experience, based in Dublin. Strong in TypeScript, SQL, REST API Design and React, with recent work in manufacturing IoT. Interested in moving towards Software Architect, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 1.4y), REST API Design (Expert, 6.0y), React (Advanced, 10.5y), Node.js (Advanced, 11.7y), Microservices (Advanced, 0.8y), Next.js (Proficient, 7.1y)
+- Data & AI: SQL (Expert, 1.4y)
+- Delivery & Leadership: People Leadership (Expert, 7.4y), Mentoring (Proficient, 3.4y), Stakeholder Management (Working, 1.5y)
+- Cloud & DevOps: Docker (Advanced, 11.9y), AWS (Working, 3.7y)
+
+EXPERIENCE
+* Public Sector Order Management System — a fast-growing government agency (2026-09 to present)
+  Automated an order management system for a fast-growing government agency in public sector using Microservices, TypeScript and REST API Design, reducing processing time by 12%.
+* Manufacturing IoT Self-service Portal — a US manufacturer (2026-01 to 2026-08)
+  Re-architected a self-service portal for a US manufacturer in manufacturing IoT using REST API Design, Docker, Next.js and AWS, lifting NPS by 18 points.
+* Public Sector Pricing Engine — a tier-1 government agency (2024-10 to 2025-12)
+  Modernised a pricing engine for a tier-1 government agency in public sector using Stakeholder Management, TypeScript, Node.js and SQL, reducing processing time by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, Mobile Engineer

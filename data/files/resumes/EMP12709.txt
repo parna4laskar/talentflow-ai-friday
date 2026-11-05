@@ -1,0 +1,32 @@
+CIARA O'SULLIVAN
+Senior Platform Engineer | Cloud & Infrastructure | Dublin, Ireland
+Employee ID: EMP12709
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 10.6 years of experience, based in Dublin. Strong in Platform Engineering, Kubernetes, Terraform and CI/CD, with recent work in automotive. Interested in moving towards Platform Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Advanced, 2.0y), Kubernetes (Advanced, 4.1y), Terraform (Advanced, 4.1y), CI/CD (Advanced, 10.0y), AWS (Proficient, 7.3y), Site Reliability Engineering (Working, 1.3y)
+- Delivery & Leadership: Communication (Advanced, 2.7y)
+- Security: Cloud Security (Working, 2.6y)
+
+EXPERIENCE
+* E-commerce Data-centre Exit To Cloud — a European online retailer (2025-10 to present)
+  Re-architected a data-centre exit to cloud for a European online retailer in e-commerce using CI/CD and AWS, cutting cloud spend by 30%.
+* Pharma R&D Cloud Landing Zone — an APAC pharma company (2025-03 to 2025-09)
+  Modernised a cloud landing zone for an APAC pharma company in pharma R&D using Cloud Security, Site Reliability Engineering, AWS and Terraform, accelerating releases by 35%.
+* Automotive Cloud Landing Zone — a global car maker (2023-08 to 2025-01)
+  Led the delivery of a cloud landing zone for a global car maker in automotive using Kubernetes, AWS and Terraform, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Platform Engineer, Site Reliability Engineer

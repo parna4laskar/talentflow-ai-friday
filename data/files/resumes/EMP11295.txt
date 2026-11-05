@@ -1,0 +1,29 @@
+TANVI KHAN
+Principal Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11295
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 17.3 years of experience, based in Bengaluru. Strong in Microservices, GraphQL, Python and REST API Design, with recent work in automotive. Interested in moving towards AI Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 17.3y), GraphQL (Expert, 14.5y), Python (Advanced, 6.8y), REST API Design (Advanced, 6.8y), System Design (Advanced, 7.5y)
+- Delivery & Leadership: Communication (Advanced, 2.3y), Mentoring (Proficient, 4.2y), People Leadership (Proficient, 1.6y)
+- Data & AI: SQL (Proficient, 3.9y)
+
+EXPERIENCE
+* Automotive Self-service Portal — a fast-growing car maker (2026-06 to present)
+  Built a self-service portal for a fast-growing car maker in automotive using REST API Design, GraphQL, SQL and Communication, lifting NPS by 25 points.
+* Automotive Pricing Engine — a global car maker (2025-11 to 2026-04)
+  Automated a pricing engine for a global car maker in automotive using Python and Mentoring, improving conversion by 40%.
+* Airline Operations Pricing Engine — a fast-growing airline (2024-05 to 2025-10)
+  Scaled a pricing engine for a fast-growing airline in airline operations using SQL and REST API Design, reducing processing time by 30%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Software Architect, DevOps Engineer

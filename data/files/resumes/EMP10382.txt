@@ -1,0 +1,32 @@
+ARJUN SHARMA
+Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP10382
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4.3 years of experience, based in Bengaluru. Strong in Data Engineering, Airflow, AWS and Databricks, with recent work in public sector. Interested in moving towards Data Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 3.7y), Airflow (Proficient, 1.5y), Databricks (Proficient, 2.3y), LLM Engineering (Proficient, 0.9y), SQL (Working, 0.9y), Snowflake (Working, 1.0y)
+- Cloud & DevOps: AWS (Proficient, 2.1y)
+- Software Engineering: Python (Working, 1.8y)
+
+EXPERIENCE
+* Insurance Claims Customer Churn Model — a European insurer (2026-07 to present)
+  Automated a customer churn model for a European insurer in insurance claims using LLM Engineering and Data Engineering, improving conversion by 30%.
+* Public Sector Customer Churn Model — a US government agency (2024-10 to 2026-04)
+  Migrated a customer churn model for a US government agency in public sector using LLM Engineering, SQL and Airflow, improving model accuracy by 18%.
+* Public Sector Customer Churn Model — a leading government agency (2024-01 to 2024-09)
+  Led the delivery of a customer churn model for a leading government agency in public sector using SQL, Python, Airflow and AWS, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Engineer, ML Engineer, Data Analyst, AI Engineer

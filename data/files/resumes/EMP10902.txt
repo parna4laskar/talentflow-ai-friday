@@ -1,0 +1,31 @@
+NOAH GARCIA
+Senior Site Reliability Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10902
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 8.4 years of experience, based in New York. Strong in Site Reliability Engineering, Kubernetes, Terraform and Observability, with recent work in payments. Interested in moving towards Security Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 5.4y), Kubernetes (Advanced, 4.7y), Terraform (Advanced, 3.7y), Observability (Proficient, 4.3y), Linux Administration (Proficient, 0.7y), AWS (Proficient, 1.1y)
+- Security: Incident Response (Working, 0.6y)
+- Quality Engineering: Performance Testing (Beginner, 1.8y)
+
+EXPERIENCE
+* Payments Cloud Landing Zone — a US payments provider (2025-12 to present)
+  Led the delivery of a cloud landing zone for a US payments provider in payments using Kubernetes, Site Reliability Engineering, Observability and Terraform, cutting cloud spend by 25%.
+* Payments Cloud Landing Zone — a leading payments provider (2025-02 to 2025-11)
+  Scaled a cloud landing zone for a leading payments provider in payments using Site Reliability Engineering, Kubernetes and Linux Administration, cutting cloud spend by 12%.
+* Payments Observability Stack — a global payments provider (2023-08 to 2024-11)
+  Led the delivery of an observability stack for a global payments provider in payments using Incident Response and AWS, reducing production incidents by 12%.
+* Supply-chain Logistics Observability Stack — a global logistics company (2022-11 to 2023-05)
+  Scaled an observability stack for a global logistics company in supply-chain logistics using Observability and Terraform, accelerating releases by 22%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Security Engineer, DevOps Engineer, Platform Engineer

@@ -1,0 +1,31 @@
+AARAV RAO
+Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10612
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3.2 years of experience, based in Bengaluru. Strong in TypeScript, Angular, SQL and Docker, with recent work in media streaming. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 1.8y), Angular (Proficient, 2.4y), Node.js (Working, 0.3y), GraphQL (Working, 0.7y), Microservices (Beginner, 0.7y)
+- Data & AI: SQL (Proficient, 1.7y)
+- Cloud & DevOps: Docker (Proficient, 0.8y), AWS (Beginner, 0.6y)
+
+EXPERIENCE
+* Media Streaming Customer Onboarding Platform — a fast-growing streaming platform (2026-06 to present)
+  Designed a customer onboarding platform for a fast-growing streaming platform in media streaming using TypeScript, Docker and Node.js, lifting NPS by 18 points.
+* Media Streaming Payments Microservices Platform — a US streaming platform (2025-04 to 2026-05)
+  Migrated a payments microservices platform for a US streaming platform in media streaming using Microservices and GraphQL, reducing processing time by 22%.
+* E-commerce Mobile Banking App — a fast-growing online retailer (2023-12 to 2025-03)
+  Designed a mobile banking app for a fast-growing online retailer in e-commerce using Microservices and TypeScript, improving conversion by 22%.
+* Pharma R&D Payments Microservices Platform — a European pharma company (2022-07 to 2023-09)
+  Built a payments microservices platform for a European pharma company in pharma R&D using SQL and Angular, accelerating releases by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer

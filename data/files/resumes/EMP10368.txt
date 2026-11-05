@@ -1,0 +1,27 @@
+MEERA NOWAK
+Platform Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10368
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 4.7 years of experience, based in Pune. Strong in Platform Engineering, Terraform, CI/CD and Kubernetes, with recent work in energy trading. Interested in moving towards Platform Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Proficient, 3.1y), Terraform (Proficient, 0.7y), CI/CD (Proficient, 0.7y), Kubernetes (Working, 1.7y), Site Reliability Engineering (Working, 0.5y), Observability (Beginner, 0.5y)
+
+EXPERIENCE
+* Energy Trading Kubernetes Platform — a tier-1 energy company (2026-01 to present)
+  Designed a Kubernetes platform for a tier-1 energy company in energy trading using Observability, Kubernetes and Terraform, cutting cloud spend by 25%.
+* Energy Trading Data-centre Exit To Cloud — a European energy company (2025-04 to 2025-11)
+  Automated a data-centre exit to cloud for a European energy company in energy trading using Site Reliability Engineering and Terraform, cutting cloud spend by 12%.
+* Retail Banking CI/CD Platform — an APAC retail bank (2024-05 to 2025-02)
+  Re-architected a CI/CD platform for an APAC retail bank in retail banking using Site Reliability Engineering and Platform Engineering, accelerating releases by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Platform Engineer, Cloud Engineer, DevOps Engineer

@@ -1,0 +1,27 @@
+GURPREET IYER
+Associate Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP10862
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 1.3 years of experience, based in Pune. Strong in Mobile Development, UI Design, Java and TypeScript, with recent work in healthcare. Interested in moving towards Frontend Engineer, Full Stack Engineer roles and open to relocating to Austin, Kraków, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 0.7y), Java (Working, 0.3y), TypeScript (Working, 0.5y)
+- Product & Design: UI Design (Proficient, 0.6y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Healthcare Self-service Portal — a European hospital network (2025-08 to present)
+  Migrated a self-service portal for a European hospital network in healthcare using TypeScript and Communication, saving ~35K hours annually.
+* Energy Trading Pricing Engine — a European energy company (2024-12 to 2025-06)
+  Designed a pricing engine for a European energy company in energy trading using UI Design, TypeScript and Java, reducing processing time by 40%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, Full Stack Engineer

@@ -1,0 +1,30 @@
+MAGDALENA GARCIA
+Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP10970
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.1 years of experience, based in Kraków. Strong in SQL, Docker, Java and Microservices, with recent work in retail banking. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.7y), Databricks (Working, 1.0y)
+- Cloud & DevOps: Docker (Advanced, 1.2y), CI/CD (Working, 0.6y)
+- Software Engineering: Java (Proficient, 0.9y), Microservices (Proficient, 0.9y), System Design (Proficient, 1.3y), Spring Boot (Proficient, 0.5y), REST API Design (Working, 0.4y), GraphQL (Working, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Order Management System — an APAC manufacturer (2025-08 to present)
+  Re-architected an order management system for an APAC manufacturer in manufacturing IoT using SQL and System Design, reducing processing time by 35%.
+* Insurance Claims Order Management System — a leading insurer (2024-12 to 2025-07)
+  Designed an order management system for a leading insurer in insurance claims using REST API Design, Docker and GraphQL, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+Polish, English, Spanish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, AI Engineer

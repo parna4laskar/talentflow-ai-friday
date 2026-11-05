@@ -1,0 +1,33 @@
+ZHI HAO LIM
+Senior Site Reliability Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP10248
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 7.6 years of experience, based in Singapore. Strong in Site Reliability Engineering, Observability, Kubernetes and Linux Administration, with recent work in airline operations. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Expert, 7.0y), Observability (Expert, 6.3y), Kubernetes (Expert, 6.4y), Linux Administration (Advanced, 2.5y), AWS (Working, 2.7y)
+- Security: Incident Response (Advanced, 5.2y)
+
+EXPERIENCE
+* Airline Operations Observability Stack — a European airline (2026-02 to present)
+  Led the delivery of an observability stack for a European airline in airline operations using Incident Response, Site Reliability Engineering and Linux Administration, accelerating releases by 25%.
+* Airline Operations Data-centre Exit To Cloud — a fast-growing airline (2025-05 to 2025-11)
+  Migrated a data-centre exit to cloud for a fast-growing airline in airline operations using Site Reliability Engineering, Observability and Linux Administration, cutting cloud spend by 18%.
+* HR Tech Cloud Landing Zone — a fast-growing HR software company (2024-04 to 2025-03)
+  Led the delivery of a cloud landing zone for a fast-growing HR software company in HR tech using Observability and Kubernetes, accelerating releases by 12%.
+* Airline Operations CI/CD Platform — a leading airline (2023-08 to 2024-02)
+  Built a CI/CD platform for a leading airline in airline operations using Linux Administration, AWS and Observability, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin, Telugu
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Site Reliability Engineer, Platform Engineer

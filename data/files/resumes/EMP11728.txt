@@ -1,0 +1,33 @@
+MEERA GUPTA
+Senior AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP11728
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 8.3 years of experience, based in Chennai. Strong in Python, Generative AI, LLM Engineering and Azure, with recent work in telecom billing. Interested in moving towards ML Engineer, Data Scientist roles and open to relocating to London, New York, Dublin.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 4.2y)
+- Data & AI: Generative AI (Proficient, 0.6y), LLM Engineering (Working, 2.3y), NLP (Working, 0.3y), Responsible AI (Working, 1.2y), Vector Databases (Beginner, 1.0y)
+- Cloud & DevOps: Azure (Working, 2.7y), Docker (Working, 2.0y)
+- Quality Engineering: Playwright (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Agentic Customer-service Assistant — a European wealth manager (2026-03 to present)
+  Scaled an agentic customer-service assistant for a European wealth manager in wealth management using Python, Vector Databases and Azure, saving ~40K hours annually.
+* Telecom Billing Knowledge Assistant (RAG) — an APAC telecom operator (2024-12 to 2025-12)
+  Re-architected a knowledge assistant (RAG) for an APAC telecom operator in telecom billing using Docker, Vector Databases and LLM Engineering, saving ~35K hours annually.
+* Retail Banking Knowledge Assistant (RAG) — a European retail bank (2024-02 to 2024-10)
+  Scaled a knowledge assistant (RAG) for a European retail bank in retail banking using Vector Databases, Azure, Python and NLP, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2022)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, Data Scientist, DevOps Engineer

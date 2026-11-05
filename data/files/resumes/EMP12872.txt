@@ -1,0 +1,35 @@
+IMRAN SHARMA
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP12872
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 13 years of experience, based in Hyderabad. Strong in Kafka, Microservices, Java and Azure, with recent work in public sector. Interested in moving towards Engineering Manager, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Kafka (Expert, 4.4y), Microservices (Advanced, 2.3y), Java (Advanced, 7.7y), System Design (Proficient, 4.6y)
+- Cloud & DevOps: Azure (Advanced, 12.9y), Kubernetes (Beginner, 2.5y)
+- Security: Cloud Security (Advanced, 8.5y)
+- Delivery & Leadership: Mentoring (Advanced, 7.5y), Stakeholder Management (Proficient, 5.8y)
+
+EXPERIENCE
+* Airline Operations Pricing Engine — a global airline (2026-03 to present)
+  Led the delivery of a pricing engine for a global airline in airline operations using Cloud Security, Stakeholder Management and Kafka, improving conversion by 18%.
+* Insurance Claims Payments Microservices Platform — a tier-1 insurer (2024-08 to 2026-02)
+  Designed a payments microservices platform for a tier-1 insurer in insurance claims using Kubernetes, Stakeholder Management, Cloud Security and Java, reducing production incidents by 40%.
+* Public Sector Pricing Engine — a European government agency (2023-11 to 2024-06)
+  Modernised a pricing engine for a European government agency in public sector using Java, Azure and Kafka, improving conversion by 18%.
+* Wealth Management Customer Onboarding Platform — a global wealth manager (2023-04 to 2023-09)
+  Automated a customer onboarding platform for a global wealth manager in wealth management using System Design and Azure, improving conversion by 35%.
+
+CERTIFICATIONS
+- TOGAF 10 (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Engineering Manager, DevOps Engineer, Cloud Engineer

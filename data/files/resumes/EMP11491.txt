@@ -1,0 +1,31 @@
+FARHAN SUBRAMANIAN
+AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP11491
+
+PROFESSIONAL SUMMARY
+AI Engineer with 3.4 years of experience, based in Chennai. Strong in Vector Databases, Python, Agentic AI and Generative AI, with recent work in airline operations. Interested in moving towards Full Stack Engineer roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Data & AI: Vector Databases (Expert, 3.1y), Agentic AI (Proficient, 1.9y), Generative AI (Working, 0.9y), LLM Engineering (Working, 1.6y), Responsible AI (Working, 0.3y)
+- Software Engineering: Python (Proficient, 1.0y), REST API Design (Working, 1.4y)
+- Cloud & DevOps: Azure (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Knowledge Assistant (RAG) — a global airline (2026-10 to present)
+  Automated a knowledge assistant (RAG) for a global airline in airline operations using Python, Vector Databases, LLM Engineering and Azure, lifting NPS by 30 points.
+* Airline Operations Knowledge Assistant (RAG) — a global airline (2026-04 to 2026-09)
+  Re-architected a knowledge assistant (RAG) for a global airline in airline operations using Python, Generative AI, Responsible AI and LLM Engineering, saving ~12K hours annually.
+* Airline Operations Agentic Customer-service Assistant — a global airline (2025-03 to 2026-01)
+  Automated an agentic customer-service assistant for a global airline in airline operations using REST API Design, Python, Generative AI and Responsible AI, lifting NPS by 18 points.
+* Airline Operations Knowledge Assistant (RAG) — a tier-1 airline (2023-11 to 2025-01)
+  Migrated a knowledge assistant (RAG) for a tier-1 airline in airline operations using LLM Engineering and Azure, lifting NPS by 22 points.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer

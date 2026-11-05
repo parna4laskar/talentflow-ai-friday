@@ -1,0 +1,30 @@
+SHREYA MEHTA
+Principal Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11975
+
+PROFESSIONAL SUMMARY
+Principal Site Reliability Engineer with 12.9 years of experience, based in Pune. Strong in Observability, Python, Site Reliability Engineering and Kubernetes, with recent work in healthcare. Interested in moving towards Platform Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Expert, 8.2y), Site Reliability Engineering (Advanced, 9.0y), Kubernetes (Advanced, 6.5y), Linux Administration (Advanced, 4.1y), Terraform (Proficient, 8.7y), AWS (Proficient, 1.0y)
+- Software Engineering: Python (Expert, 12.9y), Go (Advanced, 2.7y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 10.5y), Mentoring (Proficient, 7.4y), People Leadership (Proficient, 5.0y)
+- Security: Incident Response (Proficient, 5.7y)
+
+EXPERIENCE
+* Healthcare Data-centre Exit To Cloud — a leading hospital network (2026-05 to present)
+  Built a data-centre exit to cloud for a leading hospital network in healthcare using Observability, Go and AWS, delivering $5M in cost savings.
+* Pharma R&D Data-centre Exit To Cloud — a leading pharma company (2025-10 to 2026-04)
+  Modernised a data-centre exit to cloud for a leading pharma company in pharma R&D using Go, Site Reliability Engineering and Python, cutting cloud spend by 12%.
+* Healthcare Observability Stack — a European hospital network (2025-02 to 2025-09)
+  Designed an observability stack for a European hospital network in healthcare using Terraform, Linux Administration and Mentoring, reducing production incidents by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Platform Engineer, DevOps Engineer

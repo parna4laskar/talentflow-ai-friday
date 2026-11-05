@@ -1,0 +1,33 @@
+SAMEER SUBRAMANIAN
+Senior QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP12071
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 8.8 years of experience, based in Hyderabad. Strong in Test Automation, Selenium, CI/CD and API Testing, with recent work in retail banking. Interested in moving towards Mobile Engineer, DevOps Engineer roles and open to relocating to London, Kraków.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 3.6y), Selenium (Advanced, 4.1y), API Testing (Proficient, 2.0y)
+- Cloud & DevOps: CI/CD (Advanced, 4.8y), FinOps (Proficient, 1.2y)
+- Data & AI: SQL (Proficient, 4.4y), Agentic AI (Proficient, 6.3y)
+- Software Engineering: Java (Working, 1.6y), Python (Working, 1.7y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.0y)
+
+EXPERIENCE
+* Retail Banking Test Automation Framework — a European retail bank (2026-04 to present)
+  Modernised a test automation framework for a European retail bank in retail banking using Python, SQL, Test Automation and Java, accelerating releases by 35%.
+* Airline Operations Performance Engineering Programme — a US airline (2025-09 to 2026-02)
+  Re-architected a performance engineering programme for a US airline in airline operations using API Testing, Selenium, Agentic AI and Java, reducing production incidents by 25%.
+* Retail Banking Performance Engineering Programme — a European retail bank (2025-03 to 2025-08)
+  Scaled a performance engineering programme for a European retail bank in retail banking using Selenium, SQL, Test Automation and Agentic AI, reducing production incidents by 25%.
+* Retail Banking Test Automation Framework — a US retail bank (2023-11 to 2025-01)
+  Re-architected a test automation framework for a US retail bank in retail banking using API Testing, CI/CD, Test Automation and Python, accelerating releases by 18%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, DevOps Engineer, Backend Engineer

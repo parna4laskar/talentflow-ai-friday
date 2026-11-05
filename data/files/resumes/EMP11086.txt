@@ -1,0 +1,31 @@
+ADITI SHEIKH
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP11086
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.2 years of experience, based in Bengaluru. Strong in Python, SQL, Data Governance and AWS, with recent work in energy trading. Interested in moving towards Data Analyst, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.3y), Go (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.3y), Data Governance (Working, 0.3y), Data Engineering (Beginner, 0.3y), Apache Spark (Beginner, 0.3y), Airflow (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Working, 0.3y), Kubernetes (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Energy Trading Executive KPI Dashboard Suite — a European energy company (2026-05 to present)
+  Scaled an executive KPI dashboard suite for a European energy company in energy trading using Airflow, Data Governance and AWS, saving ~22K hours annually.
+* Energy Trading Executive KPI Dashboard Suite — a tier-1 energy company (2025-02 to 2026-03)
+  Scaled an executive KPI dashboard suite for a tier-1 energy company in energy trading using AWS, Communication, Data Governance and Python, saving ~25K hours annually.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Analyst, AI Engineer

@@ -1,0 +1,28 @@
+EOIN MURPHY
+Data Engineer | Data & Analytics | Dublin, Ireland
+Employee ID: EMP11851
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.4 years of experience, based in Dublin. Strong in SQL, Data Engineering, Python and Kafka, with recent work in public sector. Interested in moving towards ML Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.8y), Data Engineering (Advanced, 1.8y), Data Governance (Proficient, 0.8y), Databricks (Proficient, 1.2y), dbt (Working, 0.3y), Machine Learning (Working, 0.6y)
+- Software Engineering: Python (Proficient, 1.2y), Kafka (Proficient, 1.5y)
+- Quality Engineering: Playwright (Proficient, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 0.6y)
+
+EXPERIENCE
+* Wealth Management Customer Churn Model — a leading wealth manager (2026-06 to present)
+  Led the delivery of a customer churn model for a leading wealth manager in wealth management using Machine Learning, Communication and dbt, improving conversion by 18%.
+* Wealth Management Real-time Analytics Pipeline — a leading wealth manager (2025-03 to 2026-05)
+  Scaled a real-time analytics pipeline for a leading wealth manager in wealth management using Python, dbt and Databricks, cutting cloud spend by 40%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: ML Engineer, Data Scientist, Data Analyst

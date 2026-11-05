@@ -1,0 +1,31 @@
+SAURABH KRISHNAN
+Senior Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10605
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.1 years of experience, based in Hyderabad. Strong in Angular, TypeScript, JavaScript and Design Systems, with recent work in airline operations. Interested in moving towards Mobile Engineer, Full Stack Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 6.8y), TypeScript (Proficient, 1.0y), JavaScript (Proficient, 3.8y), Next.js (Working, 2.5y)
+- Product & Design: Design Systems (Proficient, 4.7y), Figma (Proficient, 3.6y)
+
+EXPERIENCE
+* Insurance Claims Claims Processing Engine — a US insurer (2025-09 to present)
+  Automated a claims processing engine for a US insurer in insurance claims using Design Systems, JavaScript, Angular and TypeScript, saving ~12K hours annually.
+* Airline Operations Claims Processing Engine — a US airline (2024-05 to 2025-08)
+  Designed a claims processing engine for a US airline in airline operations using Angular, Design Systems, JavaScript and Figma, reducing processing time by 22%.
+* Airline Operations Customer Onboarding Platform — a leading airline (2022-09 to 2024-03)
+  Modernised a customer onboarding platform for a leading airline in airline operations using JavaScript and TypeScript, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Mobile Engineer, Full Stack Engineer

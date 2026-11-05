@@ -1,0 +1,32 @@
+NAVEEN SUBRAMANIAN
+Security Engineer | Cyber Security | Hyderabad, India
+Employee ID: EMP12762
+
+PROFESSIONAL SUMMARY
+Security Engineer with 2.9 years of experience, based in Hyderabad. Strong in Kubernetes, Application Security, Cloud Security and SIEM, with recent work in public sector. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.0y), AWS (Working, 1.4y)
+- Security: Application Security (Proficient, 0.5y), Cloud Security (Proficient, 1.4y), SIEM (Proficient, 0.8y), Threat Modeling (Working, 0.8y), Incident Response (Working, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 1.2y)
+- Data & AI: Generative AI (Working, 0.4y)
+- Software Engineering: Python (Beginner, 0.7y)
+
+EXPERIENCE
+* Public Sector Security Operations Centre Uplift — an APAC government agency (2025-08 to present)
+  Re-architected a security operations centre uplift for an APAC government agency in public sector using Application Security and Python, closing 25% of open audit findings.
+* Public Sector Identity and Access Platform — a leading government agency (2024-08 to 2025-07)
+  Modernised an identity and access platform for a leading government agency in public sector using Kubernetes, Cloud Security and Threat Modeling, closing 25% of open audit findings.
+
+CERTIFICATIONS
+- CISSP (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, Site Reliability Engineer, Software Architect

@@ -1,0 +1,37 @@
+PRIYA WONG
+Senior Data Analyst | Data & Analytics | Singapore, Singapore
+Employee ID: EMP12389
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10.2 years of experience, based in Singapore. Strong in Tableau, A/B Testing, Business Analysis and FinOps, with recent work in manufacturing IoT. Interested in moving towards Data Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Tableau (Advanced, 3.9y), SQL (Proficient, 1.0y), Data Visualization (Proficient, 3.1y)
+- Product & Design: A/B Testing (Advanced, 9.4y)
+- Business & Finance: Business Analysis (Advanced, 8.4y)
+- Cloud & DevOps: FinOps (Advanced, 2.0y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.9y)
+
+EXPERIENCE
+* Manufacturing IoT Data Lakehouse — an APAC manufacturer (2026-07 to present)
+  Automated a data lakehouse for an APAC manufacturer in manufacturing IoT using Stakeholder Management and FinOps, cutting cloud spend by 22%.
+* Pharma R&D Data Lakehouse — a leading pharma company (2025-03 to 2026-07)
+  Designed a data lakehouse for a leading pharma company in pharma R&D using Tableau and FinOps, cutting cloud spend by 12%.
+* Automotive Data Lakehouse — a US car maker (2024-01 to 2025-01)
+  Led the delivery of a data lakehouse for a US car maker in automotive using Tableau, SQL and FinOps, reducing processing time by 22%.
+* Healthcare Real-time Analytics Pipeline — a European hospital network (2023-05 to 2023-11)
+  Modernised a real-time analytics pipeline for a European hospital network in healthcare using Business Analysis and Stakeholder Management, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, Data Scientist, Business Analyst

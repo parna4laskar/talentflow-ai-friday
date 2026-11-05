@@ -1,0 +1,35 @@
+MEERA SHAH
+Principal Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11214
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 15.3 years of experience, based in Pune. Strong in C#, System Design, REST API Design and SQL, with recent work in HR tech. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 10.6y), System Design (Expert, 15.3y), REST API Design (Advanced, 5.0y), Microservices (Advanced, 2.7y), Kafka (Proficient, 10.2y)
+- Data & AI: SQL (Advanced, 6.6y)
+- Cloud & DevOps: Docker (Advanced, 5.7y), AWS (Advanced, 5.5y), Kubernetes (Proficient, 6.9y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.4y)
+
+EXPERIENCE
+* Airline Operations Customer Onboarding Platform — a global airline (2026-03 to present)
+  Led the delivery of a customer onboarding platform for a global airline in airline operations using REST API Design, SQL, C# and Kubernetes, lifting NPS by 12 points.
+* Energy Trading Customer Onboarding Platform — a global energy company (2025-05 to 2026-03)
+  Re-architected a customer onboarding platform for a global energy company in energy trading using System Design, Stakeholder Management, Microservices and AWS, reducing processing time by 22%.
+* Wealth Management Claims Processing Engine — a tier-1 wealth manager (2024-05 to 2025-03)
+  Automated a claims processing engine for a tier-1 wealth manager in wealth management using Kafka and AWS, reducing processing time by 18%.
+* Supply-chain Logistics Claims Processing Engine — a leading logistics company (2022-12 to 2024-04)
+  Migrated a claims processing engine for a leading logistics company in supply-chain logistics using Kafka and REST API Design, saving ~12K hours annually.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer

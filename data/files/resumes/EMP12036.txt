@@ -1,0 +1,31 @@
+ANIRUDH HEGDE
+Lead Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12036
+
+PROFESSIONAL SUMMARY
+Lead Mobile Engineer with 11.6 years of experience, based in Bengaluru. Strong in Mobile Development, Mentoring, Flutter and UI Design, with recent work in insurance claims. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Expert, 5.5y), Flutter (Advanced, 9.5y), REST API Design (Proficient, 6.5y)
+- Delivery & Leadership: Mentoring (Expert, 7.0y), Stakeholder Management (Advanced, 11.5y), People Leadership (Advanced, 1.7y)
+- Product & Design: UI Design (Advanced, 3.4y), UX Research (Working, 2.1y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a US pharma company (2025-05 to present)
+  Migrated a pricing engine for a US pharma company in pharma R&D using Mobile Development and Stakeholder Management, improving conversion by 18%.
+* Insurance Claims Customer Onboarding Platform — a global insurer (2024-09 to 2025-03)
+  Led the delivery of a customer onboarding platform for a global insurer in insurance claims using Stakeholder Management, Mobile Development and REST API Design, lifting NPS by 12 points.
+* Insurance Claims Order Management System — a leading insurer (2023-10 to 2024-06)
+  Designed an order management system for a leading insurer in insurance claims using Flutter, REST API Design and UX Research, onboarding 3 new enterprise clients.
+* Insurance Claims Mobile Banking App — an APAC insurer (2022-07 to 2023-08)
+  Migrated a mobile banking app for an APAC insurer in insurance claims using Mobile Development, UI Design and UX Research, lifting NPS by 40 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: QA Engineer, Backend Engineer

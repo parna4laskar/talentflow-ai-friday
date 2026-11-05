@@ -1,0 +1,32 @@
+PALLAVI DESHPANDE
+Lead Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12512
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 15.9 years of experience, based in Bengaluru. Strong in Airflow, Python, Data Engineering and Kafka, with recent work in HR tech. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Airflow (Expert, 1.9y), Data Engineering (Advanced, 3.9y), Databricks (Advanced, 13.8y), SQL (Proficient, 4.4y), dbt (Proficient, 6.7y)
+- Software Engineering: Python (Advanced, 12.7y), Kafka (Advanced, 5.3y)
+- Delivery & Leadership: Mentoring (Advanced, 9.9y), People Leadership (Proficient, 4.8y)
+
+EXPERIENCE
+* Wealth Management Data Lakehouse — a US wealth manager (2026-05 to present)
+  Migrated a data lakehouse for a US wealth manager in wealth management using Python and Kafka, cutting cloud spend by 25%.
+* Automotive Executive KPI Dashboard Suite — a fast-growing car maker (2025-11 to 2026-05)
+  Modernised an executive KPI dashboard suite for a fast-growing car maker in automotive using Mentoring, SQL, dbt and Databricks, saving ~30K hours annually.
+* Supply-chain Logistics Real-time Analytics Pipeline — a tier-1 logistics company (2024-07 to 2025-09)
+  Re-architected a real-time analytics pipeline for a tier-1 logistics company in supply-chain logistics using SQL, Airflow and Python, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer, Data Analyst

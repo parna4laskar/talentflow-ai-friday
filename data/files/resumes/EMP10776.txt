@@ -1,0 +1,32 @@
+ROHAN SHEIKH
+Senior Site Reliability Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP10776
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 9.1 years of experience, based in Gurugram. Strong in Observability, Linux Administration, Kubernetes and Python, with recent work in e-commerce. Interested in moving towards DevOps Engineer roles and open to relocating to New York, Dublin.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Advanced, 8.8y), Linux Administration (Advanced, 3.3y), Kubernetes (Proficient, 1.1y), Terraform (Proficient, 2.2y), AWS (Proficient, 0.6y), Site Reliability Engineering (Working, 2.7y)
+- Software Engineering: Python (Proficient, 1.5y), Go (Working, 3.6y)
+- Quality Engineering: Performance Testing (Proficient, 5.1y)
+
+EXPERIENCE
+* E-commerce CI/CD Platform — a European online retailer (2026-08 to present)
+  Scaled a CI/CD platform for a European online retailer in e-commerce using Terraform, AWS and Site Reliability Engineering, accelerating releases by 35%.
+* E-commerce Data-centre Exit To Cloud — a fast-growing online retailer (2025-12 to 2026-06)
+  Designed a data-centre exit to cloud for a fast-growing online retailer in e-commerce using Kubernetes, Go and Performance Testing, cutting cloud spend by 40%.
+* E-commerce Data-centre Exit To Cloud — a global online retailer (2024-08 to 2025-10)
+  Modernised a data-centre exit to cloud for a global online retailer in e-commerce using Observability and Go, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer

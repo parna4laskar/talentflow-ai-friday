@@ -1,0 +1,31 @@
+JANHAVI SHAH
+Lead Mobile Engineer | Engineering | Gurugram, India
+Employee ID: EMP11874
+
+PROFESSIONAL SUMMARY
+Lead Mobile Engineer with 12.7 years of experience, based in Gurugram. Strong in UI Design, Stakeholder Management, Mobile Development and CI/CD, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Product & Design: UI Design (Advanced, 11.9y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.0y)
+- Software Engineering: Mobile Development (Proficient, 1.7y), REST API Design (Proficient, 7.6y), TypeScript (Proficient, 8.8y), React (Working, 5.3y)
+- Cloud & DevOps: CI/CD (Proficient, 4.8y)
+- Quality Engineering: Test Automation (Proficient, 2.8y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a European manufacturer (2026-01 to present)
+  Modernised a mobile banking app for a European manufacturer in manufacturing IoT using React, REST API Design and UI Design, improving conversion by 35%.
+* Manufacturing IoT Payments Microservices Platform — a tier-1 manufacturer (2024-07 to 2025-11)
+  Automated a payments microservices platform for a tier-1 manufacturer in manufacturing IoT using Stakeholder Management and CI/CD, reducing processing time by 30%.
+* Supply-chain Logistics Order Management System — a fast-growing logistics company (2023-01 to 2024-07)
+  Automated an order management system for a fast-growing logistics company in supply-chain logistics using CI/CD, UI Design, Stakeholder Management and React, onboarding 6 new enterprise clients.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, QA Engineer, Frontend Engineer

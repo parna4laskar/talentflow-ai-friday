@@ -1,0 +1,32 @@
+ADITI DAS
+Senior Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP12393
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 8.7 years of experience, based in Chennai. Strong in SQL, Python, Data Engineering and dbt, with recent work in manufacturing IoT. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 6.5y), Data Engineering (Proficient, 2.2y), dbt (Proficient, 1.5y), Snowflake (Proficient, 3.8y), Databricks (Working, 2.4y)
+- Software Engineering: Python (Proficient, 1.9y), Kafka (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Customer Churn Model — a global online retailer (2026-05 to present)
+  Designed a customer churn model for a global online retailer in e-commerce using Data Engineering, Python, Kafka and Databricks, improving conversion by 22%.
+* Manufacturing IoT Real-time Analytics Pipeline — a fast-growing manufacturer (2024-08 to 2026-02)
+  Re-architected a real-time analytics pipeline for a fast-growing manufacturer in manufacturing IoT using Data Engineering and Databricks, cutting cloud spend by 18%.
+* HR Tech Real-time Analytics Pipeline — a European HR software company (2023-08 to 2024-06)
+  Re-architected a real-time analytics pipeline for a European HR software company in HR tech using Data Engineering and Python, cutting cloud spend by 18%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+- SnowPro Core (2021)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Engineer, Data Analyst, AI Engineer

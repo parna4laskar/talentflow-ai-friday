@@ -1,0 +1,30 @@
+SAMEER MUKHERJEE
+AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12697
+
+PROFESSIONAL SUMMARY
+AI Engineer with 4.1 years of experience, based in Hyderabad. Strong in Python, Generative AI, Communication and LLM Engineering, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 1.4y)
+- Data & AI: Generative AI (Proficient, 1.8y), LLM Engineering (Working, 1.6y), Responsible AI (Working, 0.9y), Agentic AI (Working, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 1.1y)
+- Cloud & DevOps: Docker (Beginner, 0.6y)
+
+EXPERIENCE
+* Supply-chain Logistics Recommendation Engine — a US logistics company (2026-01 to present)
+  Re-architected a recommendation engine for a US logistics company in supply-chain logistics using Communication, Docker and Agentic AI, improving model accuracy by 30%.
+* Supply-chain Logistics Knowledge Assistant (RAG) — a global logistics company (2024-10 to 2025-11)
+  Re-architected a knowledge assistant (RAG) for a global logistics company in supply-chain logistics using Agentic AI and Generative AI, saving ~12K hours annually.
+* Supply-chain Logistics Agentic Customer-service Assistant — a leading logistics company (2023-09 to 2024-08)
+  Scaled an agentic customer-service assistant for a leading logistics company in supply-chain logistics using Communication, Python and Agentic AI, saving ~40K hours annually.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer

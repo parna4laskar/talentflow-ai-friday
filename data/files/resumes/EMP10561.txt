@@ -1,0 +1,31 @@
+JANHAVI RAO
+Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP10561
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3 years of experience, based in Bengaluru. Strong in Statistics, Python, SQL and Data Visualization, with recent work in healthcare. Interested in moving towards AI Engineer, Product Manager roles and open to relocating to Toronto, Dublin.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 3.0y), SQL (Proficient, 1.9y), Data Visualization (Proficient, 1.3y), Machine Learning (Working, 1.3y), Deep Learning (Working, 1.0y), Apache Spark (Working, 0.7y), Generative AI (Working, 0.4y)
+- Software Engineering: Python (Proficient, 1.1y)
+- Product & Design: A/B Testing (Beginner, 0.3y)
+
+EXPERIENCE
+* Healthcare Real-time Analytics Pipeline — an APAC hospital network (2026-05 to present)
+  Migrated a real-time analytics pipeline for an APAC hospital network in healthcare using Generative AI, A/B Testing and Python, reducing processing time by 22%.
+* Retail Banking Real-time Analytics Pipeline — an APAC retail bank (2024-12 to 2026-02)
+  Designed a real-time analytics pipeline for an APAC retail bank in retail banking using SQL and Machine Learning, reducing processing time by 18%.
+* Healthcare Real-time Analytics Pipeline — a leading hospital network (2024-01 to 2024-10)
+  Migrated a real-time analytics pipeline for a leading hospital network in healthcare using Statistics, A/B Testing and Python, reducing processing time by 30%.
+* Healthcare Data Lakehouse — a leading hospital network (2022-06 to 2023-10)
+  Migrated a data lakehouse for a leading hospital network in healthcare using Data Visualization, Machine Learning and Python, cutting cloud spend by 12%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Product Manager, Data Analyst

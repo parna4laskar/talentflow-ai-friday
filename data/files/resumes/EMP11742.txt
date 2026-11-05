@@ -1,0 +1,30 @@
+SIDDHARTH KHAN
+Senior Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11742
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 5.3 years of experience, based in Gurugram. Strong in Go, SQL, REST API Design and Microservices, with recent work in pharma R&D. Interested in moving towards AI Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Go (Expert, 5.3y), REST API Design (Proficient, 2.5y), Microservices (Proficient, 2.1y), GraphQL (Proficient, 4.0y), Kafka (Working, 1.2y)
+- Data & AI: SQL (Advanced, 1.0y)
+- Delivery & Leadership: Communication (Proficient, 3.5y)
+- Quality Engineering: Playwright (Working, 2.2y)
+
+EXPERIENCE
+* Wealth Management Claims Processing Engine — a US wealth manager (2026-02 to present)
+  Designed a claims processing engine for a US wealth manager in wealth management using Microservices, REST API Design, SQL and Go, reducing processing time by 18%.
+* Pharma R&D Self-service Portal — an APAC pharma company (2025-04 to 2026-01)
+  Led the delivery of a self-service portal for an APAC pharma company in pharma R&D using Go and REST API Design, lifting NPS by 18 points.
+* Pharma R&D Mobile Banking App — a leading pharma company (2023-12 to 2025-03)
+  Automated a mobile banking app for a leading pharma company in pharma R&D using Microservices, SQL, GraphQL and Go, lifting NPS by 18 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Software Architect, Engineering Manager

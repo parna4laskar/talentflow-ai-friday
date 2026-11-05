@@ -1,0 +1,30 @@
+AAROHI MALHOTRA
+Senior Mobile Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10397
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 9.5 years of experience, based in Hyderabad. Strong in TypeScript, Mobile Development, CI/CD and Java, with recent work in manufacturing IoT. Interested in moving towards Mobile Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 7.5y), Mobile Development (Advanced, 3.1y), Java (Working, 4.0y)
+- Cloud & DevOps: CI/CD (Proficient, 4.1y)
+- Quality Engineering: Test Automation (Working, 0.7y), Selenium (Working, 2.3y)
+- Delivery & Leadership: Communication (Working, 3.9y)
+
+EXPERIENCE
+* Public Sector Customer Onboarding Platform — a US government agency (2026-10 to present)
+  Modernised a customer onboarding platform for a US government agency in public sector using CI/CD, TypeScript, Mobile Development and Test Automation, improving conversion by 18%.
+* Manufacturing IoT Payments Microservices Platform — a fast-growing manufacturer (2025-06 to 2026-08)
+  Designed a payments microservices platform for a fast-growing manufacturer in manufacturing IoT using Mobile Development, Test Automation and CI/CD, reducing production incidents by 18%.
+* Manufacturing IoT Mobile Banking App — a fast-growing manufacturer (2024-04 to 2025-04)
+  Scaled a mobile banking app for a fast-growing manufacturer in manufacturing IoT using Mobile Development, CI/CD, Java and Test Automation, lifting NPS by 35 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, QA Engineer, Backend Engineer

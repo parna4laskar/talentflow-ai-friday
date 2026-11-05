@@ -1,0 +1,28 @@
+VENKAT WALSH
+Associate Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP12932
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2 years of experience, based in Hyderabad. Strong in Data Visualization, Business Analysis, Python and Tableau, with recent work in payments. Interested in moving towards Financial Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Proficient, 1.2y), Tableau (Working, 0.8y), Statistics (Working, 0.9y), SQL (Beginner, 0.5y)
+- Business & Finance: Business Analysis (Proficient, 1.0y)
+- Software Engineering: Python (Proficient, 1.0y)
+- Product & Design: A/B Testing (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Data Lakehouse — a European wealth manager (2026-10 to present)
+  Designed a data lakehouse for a European wealth manager in wealth management using Tableau, Statistics, Data Visualization and A/B Testing, reducing processing time by 25%.
+* Payments Data Lakehouse — a leading payments provider (2025-03 to 2026-08)
+  Designed a data lakehouse for a leading payments provider in payments using Business Analysis, A/B Testing, SQL and Data Visualization, reducing processing time by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Financial Analyst, Data Scientist

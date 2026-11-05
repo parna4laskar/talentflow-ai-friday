@@ -1,0 +1,32 @@
+RAJESH DAS
+Principal QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP12116
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 23.3 years of experience, based in Hyderabad. Strong in API Testing, Test Automation, Playwright and Performance Testing, with recent work in wealth management. Interested in moving towards Mobile Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 11.6y), Test Automation (Advanced, 18.6y), Playwright (Advanced, 19.4y), Performance Testing (Advanced, 13.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 21.1y), Communication (Advanced, 10.7y), Agile/Scrum (Proficient, 17.3y)
+- Cloud & DevOps: CI/CD (Working, 4.2y), Platform Engineering (Working, 8.1y)
+
+EXPERIENCE
+* Wealth Management API Contract-testing Suite — a global wealth manager (2025-11 to present)
+  Scaled an API contract-testing suite for a global wealth manager in wealth management using Communication, API Testing, Playwright and Performance Testing, reducing production incidents by 12%.
+* Telecom Billing Test Automation Framework — an APAC telecom operator (2024-04 to 2025-10)
+  Re-architected a test automation framework for an APAC telecom operator in telecom billing using Performance Testing and API Testing, accelerating releases by 35%.
+* Public Sector Test Automation Framework — an APAC government agency (2023-01 to 2024-03)
+  Led the delivery of a test automation framework for an APAC government agency in public sector using Stakeholder Management and CI/CD, accelerating releases by 25%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2025)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer, DevOps Engineer, Full Stack Engineer

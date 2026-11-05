@@ -1,0 +1,26 @@
+ANDREW WASHINGTON
+Associate SAP Consultant | Enterprise Applications | Austin, United States
+Employee ID: EMP12016
+
+PROFESSIONAL SUMMARY
+Associate SAP Consultant with 2.3 years of experience, based in Austin. Strong in SAP S/4HANA, Business Analysis, Financial Analysis and Process Improvement, with recent work in pharma R&D. Interested in moving towards Risk & Compliance Analyst, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: SAP S/4HANA (Advanced, 1.1y), Business Analysis (Advanced, 0.6y), Financial Analysis (Proficient, 1.1y), Process Improvement (Working, 0.7y)
+- Cloud & DevOps: Terraform (Working, 0.7y)
+
+EXPERIENCE
+* Pharma R&D CRM Rollout — a US pharma company (2025-09 to present)
+  Built a CRM rollout for a US pharma company in pharma R&D using Terraform, Process Improvement, SAP S/4HANA and Business Analysis, reducing processing time by 40%.
+* Pharma R&D ERP Finance Rollout — a leading pharma company (2025-01 to 2025-08)
+  Built an ERP finance rollout for a leading pharma company in pharma R&D using Business Analysis, Financial Analysis and Process Improvement, reducing processing time by 25%.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Risk & Compliance Analyst, CRM Consultant, Financial Analyst

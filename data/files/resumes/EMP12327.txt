@@ -1,0 +1,30 @@
+LIAM MURPHY
+Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP12327
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.9 years of experience, based in Dublin. Strong in SQL, C#, REST API Design and Microservices, with recent work in insurance claims. Interested in moving towards Engineering Manager roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 1.1y)
+- Software Engineering: C# (Proficient, 1.0y), REST API Design (Proficient, 1.3y), Microservices (Proficient, 1.5y)
+- Cloud & DevOps: AWS (Proficient, 1.8y), CI/CD (Proficient, 0.8y)
+
+EXPERIENCE
+* Insurance Claims Pricing Engine — an APAC insurer (2025-08 to present)
+  Modernised a pricing engine for an APAC insurer in insurance claims using AWS, SQL and C#, improving conversion by 40%.
+* Payments Pricing Engine — a European payments provider (2025-02 to 2025-07)
+  Designed a pricing engine for a European payments provider in payments using SQL, CI/CD and REST API Design, reducing processing time by 25%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Engineering Manager

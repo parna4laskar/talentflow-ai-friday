@@ -1,0 +1,29 @@
+OMKAR RAO
+Associate Cloud Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP12446
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0.1 years of experience, based in Gurugram. Strong in AWS, Terraform, CI/CD and Python, with recent work in payments. Interested in moving towards Software Architect, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 0.3y), Terraform (Proficient, 0.3y), CI/CD (Proficient, 0.3y), FinOps (Proficient, 0.3y), Platform Engineering (Working, 0.3y), Kubernetes (Working, 0.3y), Linux Administration (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.3y)
+
+EXPERIENCE
+* Payments Observability Stack — an APAC payments provider (2026-08 to present)
+  Modernised an observability stack for an APAC payments provider in payments using Linux Administration, Terraform and AWS, reducing production incidents by 25%.
+* Payments Data-centre Exit To Cloud — a European payments provider (2025-12 to 2026-05)
+  Built a data-centre exit to cloud for a European payments provider in payments using AWS and CI/CD, delivering $3M in cost savings.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, DevOps Engineer

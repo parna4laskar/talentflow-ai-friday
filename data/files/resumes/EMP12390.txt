@@ -1,0 +1,34 @@
+ETHAN MARTIN
+AI Engineer | AI Center of Excellence | Toronto, Canada
+Employee ID: EMP12390
+
+PROFESSIONAL SUMMARY
+AI Engineer with 4.2 years of experience, based in Toronto. Strong in Generative AI, LLM Engineering, NLP and Vector Databases, with recent work in insurance claims. Interested in moving towards ML Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Advanced, 3.7y), LLM Engineering (Advanced, 3.6y), NLP (Advanced, 3.3y), Vector Databases (Advanced, 4.0y), Responsible AI (Proficient, 2.7y), Agentic AI (Working, 0.6y)
+- Software Engineering: REST API Design (Proficient, 1.1y), Python (Working, 1.1y)
+- Delivery & Leadership: Communication (Working, 1.3y)
+
+EXPERIENCE
+* Insurance Claims Recommendation Engine — a fast-growing insurer (2026-03 to present)
+  Migrated a recommendation engine for a fast-growing insurer in insurance claims using Python, Communication, Responsible AI and Agentic AI, improving conversion by 35%.
+* Insurance Claims Document Intelligence Pipeline — a fast-growing insurer (2025-06 to 2025-12)
+  Re-architected a document intelligence pipeline for a fast-growing insurer in insurance claims using REST API Design and Python, saving ~35K hours annually.
+* Insurance Claims Knowledge Assistant (RAG) — a global insurer (2024-05 to 2025-05)
+  Scaled a knowledge assistant (RAG) for a global insurer in insurance claims using Communication, Python, Agentic AI and LLM Engineering, saving ~40K hours annually.
+* Insurance Claims Fraud Detection Model — a global insurer (2023-10 to 2024-03)
+  Designed a fraud detection model for a global insurer in insurance claims using Vector Databases, Python and REST API Design, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Google Generative AI Leader (2025)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, French, Spanish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: ML Engineer, DevOps Engineer

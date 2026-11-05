@@ -1,0 +1,28 @@
+GRACE EVANS
+Associate Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP11619
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.7 years of experience, based in London. Strong in SQL, Python, Data Engineering and dbt, with recent work in payments. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.5y), Data Engineering (Proficient, 0.4y), dbt (Working, 0.3y), Snowflake (Working, 0.3y), Data Governance (Working, 0.3y), Airflow (Working, 0.3y)
+- Software Engineering: Python (Proficient, 0.5y)
+- Business & Finance: Regulatory Compliance (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Wealth Management Data Lakehouse — a US wealth manager (2026-02 to present)
+  Automated a data lakehouse for a US wealth manager in wealth management using Data Engineering, Airflow and Regulatory Compliance, cutting cloud spend by 35%.
+* Payments Real-time Analytics Pipeline — a global payments provider (2024-10 to 2026-01)
+  Led the delivery of a real-time analytics pipeline for a global payments provider in payments using Regulatory Compliance and Python, cutting cloud spend by 30%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer

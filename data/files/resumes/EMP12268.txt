@@ -1,0 +1,36 @@
+SURESH NAIDU
+Principal Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12268
+
+PROFESSIONAL SUMMARY
+Principal Site Reliability Engineer with 18.5 years of experience, based in Pune. Strong in Site Reliability Engineering, Observability, Kubernetes and Terraform, with recent work in automotive. Interested in moving towards Security Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Expert, 1.3y), Observability (Expert, 12.0y), Kubernetes (Expert, 5.9y), Terraform (Expert, 18.5y), Linux Administration (Advanced, 13.3y)
+- Security: Incident Response (Expert, 7.0y)
+- Data & AI: Responsible AI (Advanced, 16.8y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 9.6y), Mentoring (Proficient, 0.9y)
+- Software Engineering: Go (Proficient, 3.1y), Python (Proficient, 9.4y)
+
+EXPERIENCE
+* E-commerce Observability Stack — a tier-1 online retailer (2026-01 to present)
+  Migrated an observability stack for a tier-1 online retailer in e-commerce using Responsible AI and Incident Response, accelerating releases by 18%.
+* Public Sector Kubernetes Platform — a leading government agency (2025-04 to 2025-10)
+  Re-architected a Kubernetes platform for a leading government agency in public sector using Responsible AI, Stakeholder Management, Kubernetes and Site Reliability Engineering, cutting cloud spend by 12%.
+* Automotive CI/CD Platform — an APAC car maker (2023-11 to 2025-01)
+  Modernised a CI/CD platform for an APAC car maker in automotive using Incident Response, Terraform and Stakeholder Management, accelerating releases by 35%.
+* HR Tech Data-centre Exit To Cloud — a tier-1 HR software company (2022-09 to 2023-11)
+  Built a data-centre exit to cloud for a tier-1 HR software company in HR tech using Linux Administration, Python and Mentoring, delivering $8M in cost savings.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2022)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Security Engineer, DevOps Engineer

@@ -1,0 +1,31 @@
+GRACE WILLIAMS
+ML Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP11907
+
+PROFESSIONAL SUMMARY
+ML Engineer with 2.4 years of experience, based in London. Strong in Python, Machine Learning, MLOps and Deep Learning, with recent work in manufacturing IoT. Interested in moving towards AI Engineer, Platform Engineer roles and open to relocating to Toronto, Pune.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.6y)
+- Data & AI: Machine Learning (Proficient, 0.6y), MLOps (Proficient, 0.6y), Deep Learning (Proficient, 0.6y), Vector Databases (Proficient, 0.9y), Responsible AI (Working, 0.5y), Databricks (Beginner, 0.4y)
+- Cloud & DevOps: AWS (Proficient, 0.5y), Docker (Working, 0.5y), Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Agentic Customer-service Assistant — a fast-growing manufacturer (2026-10 to present)
+  Modernised an agentic customer-service assistant for a fast-growing manufacturer in manufacturing IoT using Python, Vector Databases and MLOps, lifting NPS by 30 points.
+* Automotive Recommendation Engine — a European car maker (2025-09 to 2026-07)
+  Built a recommendation engine for a European car maker in automotive using Deep Learning, Docker, Kubernetes and Responsible AI, improving conversion by 30%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2025)
+- AWS ML Specialty (2025)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Platform Engineer, Data Scientist

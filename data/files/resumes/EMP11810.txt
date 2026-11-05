@@ -1,0 +1,28 @@
+ALEKSANDRA LEWANDOWSKI
+Associate Cloud Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11810
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0.4 years of experience, based in Kraków. Strong in Platform Engineering, Terraform, Linux Administration and Kubernetes, with recent work in energy trading. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Proficient, 0.4y), Terraform (Working, 0.3y), Linux Administration (Working, 0.3y), Kubernetes (Working, 0.3y), CI/CD (Working, 0.3y), Azure (Beginner, 0.3y), FinOps (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Data-centre Exit To Cloud — a tier-1 energy company (2025-07 to present)
+  Built a data-centre exit to cloud for a tier-1 energy company in energy trading using FinOps and Linux Administration, cutting cloud spend by 35%.
+* Pharma R&D Kubernetes Platform — a fast-growing pharma company (2024-05 to 2025-06)
+  Designed a Kubernetes platform for a fast-growing pharma company in pharma R&D using CI/CD, Terraform, Linux Administration and Azure, accelerating releases by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Cloud Engineer, Site Reliability Engineer

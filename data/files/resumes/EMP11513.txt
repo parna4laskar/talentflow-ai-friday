@@ -1,0 +1,34 @@
+PRASAD JOSHI
+Senior Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11513
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 8.6 years of experience, based in Bengaluru. Strong in Terraform, Azure, Communication and Linux Administration, with recent work in energy trading. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 1.4y), Azure (Advanced, 8.3y), Linux Administration (Proficient, 2.8y), Kubernetes (Proficient, 1.4y)
+- Delivery & Leadership: Communication (Advanced, 5.8y)
+- Security: Cloud Security (Proficient, 6.3y)
+
+EXPERIENCE
+* Energy Trading Observability Stack — a fast-growing energy company (2026-01 to present)
+  Re-architected an observability stack for a fast-growing energy company in energy trading using Linux Administration and Azure, reducing production incidents by 18%.
+* Energy Trading CI/CD Platform — a fast-growing energy company (2024-07 to 2025-12)
+  Migrated a CI/CD platform for a fast-growing energy company in energy trading using Communication, Kubernetes and Cloud Security, accelerating releases by 40%.
+* Energy Trading Kubernetes Platform — a tier-1 energy company (2023-06 to 2024-05)
+  Automated a Kubernetes platform for a tier-1 energy company in energy trading using Cloud Security, Communication and Kubernetes, reducing production incidents by 30%.
+* Energy Trading Cloud Landing Zone — a US energy company (2021-12 to 2023-03)
+  Scaled a cloud landing zone for a US energy company in energy trading using Kubernetes and Cloud Security, accelerating releases by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2021)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Site Reliability Engineer, Platform Engineer

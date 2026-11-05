@@ -1,0 +1,32 @@
+ZOYA VERMA
+Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP10002
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4.5 years of experience, based in Bengaluru. Strong in SQL, Databricks, Python and Data Engineering, with recent work in healthcare. Interested in moving towards AI Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.2y), Databricks (Proficient, 0.9y), Data Engineering (Working, 2.0y), Airflow (Working, 1.9y), Data Visualization (Working, 1.5y), Snowflake (Beginner, 0.5y)
+- Software Engineering: Python (Working, 0.7y)
+- Cloud & DevOps: AWS (Working, 1.6y)
+- Delivery & Leadership: Communication (Working, 1.9y)
+
+EXPERIENCE
+* Airline Operations Executive KPI Dashboard Suite — an APAC airline (2026-08 to present)
+  Scaled an executive KPI dashboard suite for an APAC airline in airline operations using Data Engineering, Airflow, Python and Databricks, saving ~30K hours annually.
+* Insurance Claims Data Lakehouse — a fast-growing insurer (2025-05 to 2026-06)
+  Built a data lakehouse for a fast-growing insurer in insurance claims using Airflow and Communication, reducing processing time by 40%.
+* Healthcare Customer Churn Model — a tier-1 hospital network (2024-07 to 2025-03)
+  Built a customer churn model for a tier-1 hospital network in healthcare using AWS, Snowflake, Communication and Data Visualization, improving model accuracy by 25%.
+* E-commerce Executive KPI Dashboard Suite — a European online retailer (2023-09 to 2024-05)
+  Modernised an executive KPI dashboard suite for a European online retailer in e-commerce using SQL, Python and Data Visualization, improving forecast accuracy by 22%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Data Analyst

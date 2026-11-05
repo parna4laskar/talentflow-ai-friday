@@ -1,0 +1,27 @@
+JESSICA JOHNSON
+Associate Backend Engineer | Engineering | New York, United States
+Employee ID: EMP12454
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.2 years of experience, based in New York. Strong in Java, SQL, Microservices and CI/CD, with recent work in HR tech. Interested in moving towards DevOps Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 0.8y), Microservices (Proficient, 1.4y), Kafka (Proficient, 1.3y), Spring Boot (Proficient, 0.9y), REST API Design (Working, 0.7y), System Design (Working, 0.4y)
+- Data & AI: SQL (Proficient, 0.8y)
+- Cloud & DevOps: CI/CD (Proficient, 1.2y), Kubernetes (Proficient, 0.7y)
+
+EXPERIENCE
+* HR Tech Mobile Banking App — a global HR software company (2026-02 to present)
+  Designed a mobile banking app for a global HR software company in HR tech using Kafka, Java, System Design and Spring Boot, lifting NPS by 40 points.
+* HR Tech Customer Onboarding Platform — a tier-1 HR software company (2024-12 to 2025-12)
+  Migrated a customer onboarding platform for a tier-1 HR software company in HR tech using Spring Boot and Microservices, improving conversion by 40%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Software Architect, AI Engineer

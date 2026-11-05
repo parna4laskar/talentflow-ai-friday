@@ -1,0 +1,30 @@
+HARSH KHAN
+Senior Site Reliability Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12194
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 7.3 years of experience, based in Bengaluru. Strong in Site Reliability Engineering, Observability, Kubernetes and Python, with recent work in public sector. Interested in moving towards Site Reliability Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 1.7y), Observability (Advanced, 0.8y), Kubernetes (Advanced, 5.4y), Linux Administration (Proficient, 1.7y), Terraform (Proficient, 4.4y), AWS (Working, 2.5y)
+- Software Engineering: Python (Advanced, 7.3y), Go (Proficient, 0.4y)
+- Security: Incident Response (Advanced, 6.1y)
+- Delivery & Leadership: Communication (Proficient, 1.1y)
+
+EXPERIENCE
+* Energy Trading Kubernetes Platform — a leading energy company (2025-08 to present)
+  Modernised a Kubernetes platform for a leading energy company in energy trading using Observability and AWS, reducing production incidents by 18%.
+* Public Sector Data-centre Exit To Cloud — a US government agency (2024-03 to 2025-06)
+  Re-architected a data-centre exit to cloud for a US government agency in public sector using Communication, Observability, Python and Kubernetes, delivering $8M in cost savings.
+* Media Streaming Observability Stack — a leading streaming platform (2023-05 to 2023-12)
+  Built an observability stack for a leading streaming platform in media streaming using Kubernetes and Observability, reducing production incidents by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer, DevOps Engineer

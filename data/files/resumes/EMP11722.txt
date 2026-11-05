@@ -1,0 +1,27 @@
+IMRAN MALHOTRA
+Mobile Engineer | Engineering | Gurugram, India
+Employee ID: EMP11722
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 2.8 years of experience, based in Gurugram. Strong in React, Mobile Development, Flutter and UI Design, with recent work in automotive. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 1.1y), Mobile Development (Proficient, 0.6y), Flutter (Proficient, 0.5y), TypeScript (Working, 0.8y)
+- Product & Design: UI Design (Proficient, 1.2y)
+- Quality Engineering: Selenium (Working, 0.3y), Test Automation (Beginner, 0.5y)
+
+EXPERIENCE
+* Energy Trading Self-service Portal — a US energy company (2025-09 to present)
+  Migrated a self-service portal for a US energy company in energy trading using Flutter, UI Design and React, lifting NPS by 18 points.
+* Telecom Billing Payments Microservices Platform — a tier-1 telecom operator (2024-05 to 2025-09)
+  Led the delivery of a payments microservices platform for a tier-1 telecom operator in telecom billing using Mobile Development, UI Design and React, accelerating releases by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer

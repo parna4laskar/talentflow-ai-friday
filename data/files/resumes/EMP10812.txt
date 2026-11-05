@@ -1,0 +1,34 @@
+WEI LING TAN
+Principal Software Architect | Engineering | Singapore, Singapore
+Employee ID: EMP10812
+
+PROFESSIONAL SUMMARY
+Principal Software Architect with 14.9 years of experience, based in Singapore. Strong in Mentoring, Communication, System Design and Microservices, with recent work in HR tech. Interested in moving towards Software Architect, DevOps Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Mentoring (Expert, 7.5y), Communication (Expert, 14.9y), Stakeholder Management (Advanced, 11.5y), People Leadership (Advanced, 12.7y)
+- Software Engineering: System Design (Advanced, 6.5y), Microservices (Advanced, 11.1y), C# (Proficient, 7.3y)
+- Cloud & DevOps: Azure (Advanced, 4.4y)
+
+EXPERIENCE
+* Public Sector Pricing Engine — a fast-growing government agency (2026-06 to present)
+  Scaled a pricing engine for a fast-growing government agency in public sector using People Leadership, C#, Azure and Mentoring, reducing processing time by 12%.
+* Airline Operations Order Management System — a fast-growing airline (2025-11 to 2026-05)
+  Modernised an order management system for a fast-growing airline in airline operations using People Leadership, Azure, Microservices and Communication, reducing processing time by 12%.
+* Payments Order Management System — a global payments provider (2025-05 to 2025-10)
+  Automated an order management system for a global payments provider in payments using System Design, People Leadership, Microservices and Mentoring, reducing processing time by 40%.
+* HR Tech Payments Microservices Platform — a fast-growing HR software company (2024-09 to 2025-04)
+  Designed a payments microservices platform for a fast-growing HR software company in HR tech using System Design, Microservices, Mentoring and Communication, accelerating releases by 30%.
+
+CERTIFICATIONS
+- TOGAF 10 (2021)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, DevOps Engineer, Engineering Manager

@@ -1,0 +1,35 @@
+PARNA TREMBLAY
+Lead Data Scientist | Data & Analytics | Hyderabad, India
+Employee ID: EMP10659
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 8.2 years of experience, based in Hyderabad. Strong in Machine Learning, Statistics, SQL and Mentoring, with recent work in HR tech. Interested in moving towards Data Scientist, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Expert, 7.4y), Statistics (Expert, 4.3y), SQL (Advanced, 1.4y), NLP (Proficient, 3.5y), Deep Learning (Proficient, 5.1y)
+- Delivery & Leadership: Mentoring (Advanced, 6.6y)
+- Software Engineering: Python (Proficient, 5.8y)
+- Cloud & DevOps: Terraform (Proficient, 4.5y)
+
+EXPERIENCE
+* HR Tech Regulatory Reporting Suite — an APAC HR software company (2026-05 to present)
+  Led the delivery of a regulatory reporting suite for an APAC HR software company in HR tech using Terraform, Machine Learning and SQL, saving ~18K hours annually.
+* HR Tech Data Lakehouse — a US HR software company (2025-02 to 2026-04)
+  Built a data lakehouse for a US HR software company in HR tech using Deep Learning, SQL, Machine Learning and NLP, reducing processing time by 12%.
+* HR Tech Executive KPI Dashboard Suite — a European HR software company (2023-11 to 2025-02)
+  Re-architected an executive KPI dashboard suite for a European HR software company in HR tech using Python, Machine Learning, Deep Learning and Mentoring, saving ~18K hours annually.
+* Energy Trading Executive KPI Dashboard Suite — a US energy company (2022-03 to 2023-09)
+  Led the delivery of an executive KPI dashboard suite for a US energy company in energy trading using NLP, Machine Learning, Python and Mentoring, saving ~25K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, ML Engineer, AI Engineer

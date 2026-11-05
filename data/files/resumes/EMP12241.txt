@@ -1,0 +1,34 @@
+VENKAT REDDY
+Senior Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP12241
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.6 years of experience, based in Chennai. Strong in REST API Design, Go, SQL and Microservices, with recent work in retail banking. Interested in moving towards Engineering Manager roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 10.6y), Go (Advanced, 4.0y), Microservices (Proficient, 7.6y), GraphQL (Proficient, 2.2y), Python (Proficient, 3.2y)
+- Data & AI: SQL (Proficient, 5.4y)
+- Cloud & DevOps: AWS (Proficient, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 5.1y)
+
+EXPERIENCE
+* Retail Banking Customer Onboarding Platform — a leading retail bank (2026-01 to present)
+  Automated a customer onboarding platform for a leading retail bank in retail banking using Python, REST API Design and Communication, improving conversion by 30%.
+* Energy Trading Order Management System — a fast-growing energy company (2024-09 to 2025-12)
+  Built an order management system for a fast-growing energy company in energy trading using Python and SQL, onboarding 2 new enterprise clients.
+* Manufacturing IoT Payments Microservices Platform — a global manufacturer (2024-04 to 2024-09)
+  Re-architected a payments microservices platform for a global manufacturer in manufacturing IoT using REST API Design, SQL and Python, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager

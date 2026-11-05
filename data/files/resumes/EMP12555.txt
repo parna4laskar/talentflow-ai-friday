@@ -1,0 +1,26 @@
+VIKRAM RAO
+Associate DevOps Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP12555
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 0.5 years of experience, based in Gurugram. Strong in CI/CD, Docker, Azure and Kubernetes, with recent work in automotive. Interested in moving towards Platform Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 0.4y), Docker (Proficient, 0.4y), Azure (Proficient, 0.4y), Kubernetes (Working, 0.3y), Linux Administration (Beginner, 0.3y), GCP (Beginner, 0.3y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Kubernetes Platform — a global insurer (2026-04 to present)
+  Built a Kubernetes platform for a global insurer in insurance claims using GCP and Python, cutting cloud spend by 35%.
+* Automotive CI/CD Platform — a fast-growing car maker (2025-04 to 2026-04)
+  Led the delivery of a CI/CD platform for a fast-growing car maker in automotive using Azure, Linux Administration, CI/CD and Python, accelerating releases by 25%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Cloud Engineer

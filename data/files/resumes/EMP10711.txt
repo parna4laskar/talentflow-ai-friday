@@ -1,0 +1,32 @@
+VIKRAM MUKHERJEE
+Senior Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10711
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 8.1 years of experience, based in Bengaluru. Strong in SQL, TypeScript, React and Node.js, with recent work in energy trading. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 7.3y)
+- Software Engineering: TypeScript (Advanced, 6.4y), React (Advanced, 6.8y), Node.js (Advanced, 3.4y), GraphQL (Advanced, 1.4y), Microservices (Proficient, 0.8y), REST API Design (Beginner, 0.4y)
+- Cloud & DevOps: AWS (Proficient, 2.8y)
+- Delivery & Leadership: Communication (Proficient, 5.0y)
+
+EXPERIENCE
+* HR Tech Claims Processing Engine — a US HR software company (2026-01 to present)
+  Built a claims processing engine for a US HR software company in HR tech using AWS, REST API Design, Communication and React, saving ~35K hours annually.
+* Energy Trading Order Management System — a tier-1 energy company (2025-02 to 2025-12)
+  Automated an order management system for a tier-1 energy company in energy trading using Node.js and TypeScript, onboarding 5 new enterprise clients.
+* Telecom Billing Order Management System — a tier-1 telecom operator (2024-08 to 2025-01)
+  Re-architected an order management system for a tier-1 telecom operator in telecom billing using Communication and AWS, reducing processing time by 40%.
+* Insurance Claims Pricing Engine — a fast-growing insurer (2023-04 to 2024-08)
+  Re-architected a pricing engine for a fast-growing insurer in insurance claims using React and Microservices, improving conversion by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Backend Engineer

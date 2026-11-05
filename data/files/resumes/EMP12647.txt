@@ -1,0 +1,32 @@
+MOHAMMED TAYLOR
+Lead Engineering Manager | Engineering | London, United Kingdom
+Employee ID: EMP12647
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 13.4 years of experience, based in London. Strong in People Leadership, Agile/Scrum, System Design and Stakeholder Management, with recent work in telecom billing. Interested in moving towards Engineering Manager, Backend Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 11.7y), Agile/Scrum (Expert, 2.7y), Stakeholder Management (Advanced, 5.6y), Mentoring (Proficient, 2.0y), Communication (Proficient, 8.1y)
+- Software Engineering: System Design (Advanced, 8.4y), Java (Proficient, 2.6y)
+- Cloud & DevOps: AWS (Advanced, 7.8y)
+- Quality Engineering: Playwright (Proficient, 7.6y)
+
+EXPERIENCE
+* Automotive Payments Microservices Platform — a global car maker (2025-11 to present)
+  Automated a payments microservices platform for a global car maker in automotive using Communication, Playwright and System Design, reducing production incidents by 30%.
+* Airline Operations Self-service Portal — a fast-growing airline (2024-11 to 2025-08)
+  Re-architected a self-service portal for a fast-growing airline in airline operations using Agile/Scrum, Stakeholder Management and AWS, saving ~25K hours annually.
+* Telecom Billing Customer Onboarding Platform — an APAC telecom operator (2023-12 to 2024-08)
+  Designed a customer onboarding platform for an APAC telecom operator in telecom billing using AWS and Communication, lifting NPS by 22 points.
+* Telecom Billing Claims Processing Engine — a global telecom operator (2023-06 to 2023-11)
+  Designed a claims processing engine for a global telecom operator in telecom billing using Playwright, Stakeholder Management and AWS, saving ~40K hours annually.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Backend Engineer, Scrum Master, Program Manager

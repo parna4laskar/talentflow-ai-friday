@@ -1,0 +1,32 @@
+TEJAS WÓJCIK
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11383
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.4 years of experience, based in Bengaluru. Strong in Angular, TypeScript, JavaScript and Playwright, with recent work in supply-chain logistics. Interested in moving towards Full Stack Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 5.6y), TypeScript (Advanced, 7.7y), JavaScript (Advanced, 6.6y), GraphQL (Working, 1.6y)
+- Quality Engineering: Playwright (Proficient, 0.5y)
+- Product & Design: Figma (Proficient, 3.1y)
+- Delivery & Leadership: Communication (Proficient, 6.0y)
+
+EXPERIENCE
+* Energy Trading Order Management System — an APAC energy company (2026-10 to present)
+  Scaled an order management system for an APAC energy company in energy trading using JavaScript, Figma, Playwright and GraphQL, reducing processing time by 30%.
+* Energy Trading Customer Onboarding Platform — a global energy company (2026-02 to 2026-08)
+  Migrated a customer onboarding platform for a global energy company in energy trading using Angular, Figma, JavaScript and Playwright, lifting NPS by 40 points.
+* Supply-chain Logistics Order Management System — a European logistics company (2025-04 to 2026-01)
+  Scaled an order management system for a European logistics company in supply-chain logistics using Playwright, GraphQL and Communication, reducing processing time by 30%.
+* Pharma R&D Pricing Engine — a tier-1 pharma company (2024-06 to 2025-02)
+  Led the delivery of a pricing engine for a tier-1 pharma company in pharma R&D using JavaScript and Angular, improving conversion by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, UX Designer, QA Engineer

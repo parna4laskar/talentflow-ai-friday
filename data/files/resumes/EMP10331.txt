@@ -1,0 +1,33 @@
+TANVI MALHOTRA
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10331
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.2 years of experience, based in Pune. Strong in Java, REST API Design, SQL and Microservices, with recent work in payments. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 7.3y), REST API Design (Advanced, 9.4y), Microservices (Proficient, 2.4y), Kafka (Proficient, 6.8y)
+- Data & AI: SQL (Proficient, 6.5y)
+- Cloud & DevOps: Kubernetes (Proficient, 7.2y), CI/CD (Proficient, 6.1y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a tier-1 online retailer (2026-03 to present)
+  Automated a mobile banking app for a tier-1 online retailer in e-commerce using Microservices and Kafka, improving conversion by 40%.
+* Payments Payments Microservices Platform — a European payments provider (2025-06 to 2026-02)
+  Designed a payments microservices platform for a European payments provider in payments using Microservices, Java and CI/CD, reducing processing time by 18%.
+* Payments Mobile Banking App — an APAC payments provider (2023-11 to 2025-05)
+  Designed a mobile banking app for an APAC payments provider in payments using REST API Design and Java, improving conversion by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer

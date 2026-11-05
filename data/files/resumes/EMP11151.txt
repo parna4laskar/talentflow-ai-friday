@@ -1,0 +1,32 @@
+NIAMH O'SULLIVAN
+Senior Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP11151
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.1 years of experience, based in Dublin. Strong in C#, REST API Design, .NET Core and SQL, with recent work in HR tech. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 6.6y), REST API Design (Advanced, 1.5y), .NET Core (Advanced, 8.0y), Microservices (Proficient, 3.2y), GraphQL (Proficient, 6.0y), Spring Boot (Working, 3.3y)
+- Data & AI: SQL (Proficient, 2.8y)
+- Cloud & DevOps: CI/CD (Working, 3.7y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a leading hospital network (2025-11 to present)
+  Re-architected a payments microservices platform for a leading hospital network in healthcare using REST API Design, C#, GraphQL and Spring Boot, accelerating releases by 40%.
+* Automotive Self-service Portal — a fast-growing car maker (2024-12 to 2025-09)
+  Scaled a self-service portal for a fast-growing car maker in automotive using REST API Design, Spring Boot, .NET Core and CI/CD, saving ~18K hours annually.
+* HR Tech Customer Onboarding Platform — a tier-1 HR software company (2023-07 to 2024-09)
+  Built a customer onboarding platform for a tier-1 HR software company in HR tech using SQL, Spring Boot and CI/CD, reducing processing time by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager, Software Architect, Full Stack Engineer

@@ -1,0 +1,35 @@
+GAURAV VERMA
+Lead Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP10177
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 11.9 years of experience, based in Chennai. Strong in TypeScript, JavaScript, React and CI/CD, with recent work in payments. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 7.2y), Mentoring (Proficient, 5.7y)
+- Software Engineering: TypeScript (Advanced, 2.2y), JavaScript (Advanced, 9.1y), React (Advanced, 11.6y), Next.js (Proficient, 5.6y), GraphQL (Working, 5.5y)
+- Cloud & DevOps: CI/CD (Advanced, 1.1y)
+- Product & Design: Figma (Proficient, 0.9y), Design Systems (Proficient, 3.8y)
+
+EXPERIENCE
+* Payments Claims Processing Engine — a fast-growing payments provider (2026-08 to present)
+  Automated a claims processing engine for a fast-growing payments provider in payments using React, TypeScript, Figma and Mentoring, saving ~25K hours annually.
+* Automotive Mobile Banking App — a fast-growing car maker (2025-05 to 2026-06)
+  Built a mobile banking app for a fast-growing car maker in automotive using Mentoring, JavaScript, Design Systems and Next.js, lifting NPS by 30 points.
+* Payments Pricing Engine — a tier-1 payments provider (2024-02 to 2025-03)
+  Built a pricing engine for a tier-1 payments provider in payments using Figma and CI/CD, improving conversion by 25%.
+* Payments Claims Processing Engine — an APAC payments provider (2023-07 to 2024-01)
+  Scaled a claims processing engine for an APAC payments provider in payments using JavaScript, Figma and TypeScript, saving ~25K hours annually.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, QA Engineer, Full Stack Engineer

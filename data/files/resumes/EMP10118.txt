@@ -1,0 +1,26 @@
+CARLOS DAVIS
+Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10118
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.9 years of experience, based in New York. Strong in Linux Administration, Azure, Terraform and FinOps, with recent work in e-commerce. Interested in moving towards Software Architect, DevOps Engineer roles and open to relocating to Toronto, Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 1.8y), Azure (Proficient, 1.0y), Terraform (Proficient, 1.1y), FinOps (Proficient, 1.3y), Kubernetes (Proficient, 1.4y), Platform Engineering (Proficient, 1.9y), CI/CD (Beginner, 0.7y), Site Reliability Engineering (Beginner, 0.5y)
+- Software Engineering: Python (Working, 0.9y)
+
+EXPERIENCE
+* E-commerce Observability Stack — a European online retailer (2025-07 to present)
+  Built an observability stack for a European online retailer in e-commerce using Python and CI/CD, reducing production incidents by 12%.
+* Telecom Billing Data-centre Exit To Cloud — a European telecom operator (2024-07 to 2025-05)
+  Designed a data-centre exit to cloud for a European telecom operator in telecom billing using Kubernetes, Platform Engineering and Site Reliability Engineering, delivering $3M in cost savings.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, DevOps Engineer, Site Reliability Engineer

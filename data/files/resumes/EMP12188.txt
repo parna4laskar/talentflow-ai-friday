@@ -1,0 +1,32 @@
+RITESH RAO
+Senior QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP12188
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 6.9 years of experience, based in Hyderabad. Strong in Test Automation, API Testing, Python and Selenium, with recent work in retail banking. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 3.2y), API Testing (Advanced, 2.7y), Selenium (Proficient, 4.2y)
+- Software Engineering: Python (Advanced, 6.4y)
+- Cloud & DevOps: CI/CD (Proficient, 1.0y), Kubernetes (Working, 2.1y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 3.2y)
+
+EXPERIENCE
+* Retail Banking Performance Engineering Programme — a European retail bank (2026-06 to present)
+  Modernised a performance engineering programme for a European retail bank in retail banking using Kubernetes, Selenium and API Testing, reducing production incidents by 30%.
+* Retail Banking Performance Engineering Programme — a fast-growing retail bank (2025-04 to 2026-03)
+  Led the delivery of a performance engineering programme for a fast-growing retail bank in retail banking using Python and CI/CD, accelerating releases by 35%.
+* Public Sector Test Automation Framework — a global government agency (2024-04 to 2025-01)
+  Led the delivery of a test automation framework for a global government agency in public sector using Kubernetes and Python, raising automated test coverage to 80%.
+* Retail Banking API Contract-testing Suite — an APAC retail bank (2022-12 to 2024-03)
+  Designed an API contract-testing suite for an APAC retail bank in retail banking using Agile/Scrum, Python, API Testing and Kubernetes, raising automated test coverage to 70%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer, Backend Engineer

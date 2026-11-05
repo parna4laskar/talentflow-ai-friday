@@ -1,0 +1,33 @@
+TANVI DAS
+Mobile Engineer | Engineering | Chennai, India
+Employee ID: EMP12821
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 3.8 years of experience, based in Chennai. Strong in Mobile Development, React, TypeScript and UI Design, with recent work in manufacturing IoT. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 1.0y), React (Proficient, 0.7y), TypeScript (Proficient, 1.2y), REST API Design (Working, 0.6y)
+- Product & Design: UI Design (Proficient, 2.4y)
+- Cloud & DevOps: CI/CD (Proficient, 1.2y)
+- Quality Engineering: Test Automation (Working, 1.3y)
+- Delivery & Leadership: Communication (Working, 1.2y)
+
+EXPERIENCE
+* Manufacturing IoT Order Management System — a global manufacturer (2026-12 to present)
+  Scaled an order management system for a global manufacturer in manufacturing IoT using Mobile Development, React, UI Design and REST API Design, reducing processing time by 30%.
+* Manufacturing IoT Payments Microservices Platform — a US manufacturer (2026-02 to 2026-10)
+  Migrated a payments microservices platform for a US manufacturer in manufacturing IoT using REST API Design, UI Design and Communication, reducing processing time by 18%.
+* Manufacturing IoT Claims Processing Engine — a US manufacturer (2024-12 to 2025-12)
+  Modernised a claims processing engine for a US manufacturer in manufacturing IoT using Test Automation, CI/CD and Mobile Development, reducing processing time by 25%.
+* Manufacturing IoT Pricing Engine — a leading manufacturer (2023-12 to 2024-10)
+  Designed a pricing engine for a leading manufacturer in manufacturing IoT using REST API Design and UI Design, improving conversion by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer

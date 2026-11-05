@@ -1,0 +1,30 @@
+PRASAD AGARWAL
+Principal ML Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12588
+
+PROFESSIONAL SUMMARY
+Principal ML Engineer with 13.7 years of experience, based in Hyderabad. Strong in Deep Learning, Python, Machine Learning and MLOps, with recent work in healthcare. Interested in moving towards Platform Engineer, AI Engineer roles and open to relocating to Toronto, Chennai, New York.
+
+CORE SKILLS
+- Data & AI: Deep Learning (Expert, 7.6y), Machine Learning (Advanced, 4.6y), MLOps (Advanced, 9.1y), Vector Databases (Advanced, 1.5y), Computer Vision (Advanced, 12.4y), Databricks (Proficient, 6.7y)
+- Software Engineering: Python (Advanced, 3.0y)
+- Cloud & DevOps: AWS (Advanced, 11.8y), Docker (Advanced, 13.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.5y)
+
+EXPERIENCE
+* Healthcare Recommendation Engine — a European hospital network (2026-02 to present)
+  Migrated a recommendation engine for a European hospital network in healthcare using Machine Learning and MLOps, improving conversion by 18%.
+* Healthcare Document Intelligence Pipeline — a US hospital network (2025-04 to 2026-01)
+  Designed a document intelligence pipeline for a US hospital network in healthcare using Computer Vision, AWS, Docker and Machine Learning, saving ~12K hours annually.
+* Healthcare Agentic Customer-service Assistant — a tier-1 hospital network (2024-03 to 2025-03)
+  Built an agentic customer-service assistant for a tier-1 hospital network in healthcare using Machine Learning, Deep Learning, Databricks and MLOps, lifting NPS by 22 points.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Platform Engineer, AI Engineer, DevOps Engineer

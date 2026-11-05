@@ -1,0 +1,34 @@
+LAKSHMI JOSHI
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10958
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.6 years of experience, based in Pune. Strong in Communication, Java, SQL and Microservices, with recent work in airline operations. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Advanced, 1.2y)
+- Software Engineering: Java (Proficient, 2.0y), Microservices (Proficient, 0.8y), REST API Design (Working, 0.7y), System Design (Working, 1.2y)
+- Data & AI: SQL (Proficient, 1.4y)
+- Cloud & DevOps: Kubernetes (Proficient, 2.4y)
+
+EXPERIENCE
+* Airline Operations Order Management System — a leading airline (2026-07 to present)
+  Re-architected an order management system for a leading airline in airline operations using REST API Design, Microservices and System Design, reducing processing time by 40%.
+* Media Streaming Mobile Banking App — a fast-growing streaming platform (2024-11 to 2026-04)
+  Designed a mobile banking app for a fast-growing streaming platform in media streaming using System Design and SQL, lifting NPS by 40 points.
+* Airline Operations Self-service Portal — a global airline (2023-08 to 2024-08)
+  Scaled a self-service portal for a global airline in airline operations using System Design, Java and Microservices, saving ~25K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Engineering Manager, Software Architect, Full Stack Engineer

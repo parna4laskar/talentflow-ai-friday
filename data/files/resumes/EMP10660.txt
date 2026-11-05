@@ -1,0 +1,30 @@
+LUCAS MACDONALD
+Senior QA Engineer | Quality Engineering | Toronto, Canada
+Employee ID: EMP10660
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 5.8 years of experience, based in Toronto. Strong in Performance Testing, Test Automation, Playwright and API Testing, with recent work in public sector. Interested in moving towards Mobile Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Performance Testing (Expert, 4.1y), Test Automation (Proficient, 1.9y), Playwright (Proficient, 1.9y), API Testing (Proficient, 3.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 2.3y), CI/CD (Working, 2.5y)
+- Software Engineering: Java (Working, 2.1y), Python (Working, 0.3y)
+- Data & AI: SQL (Working, 1.0y)
+
+EXPERIENCE
+* Public Sector API Contract-testing Suite — a European government agency (2025-09 to present)
+  Re-architected an API contract-testing suite for a European government agency in public sector using SQL and Java, reducing production incidents by 18%.
+* Automotive API Contract-testing Suite — a global car maker (2024-08 to 2025-09)
+  Modernised an API contract-testing suite for a global car maker in automotive using SQL and Test Automation, reducing production incidents by 40%.
+* Public Sector Performance Engineering Programme — a leading government agency (2023-09 to 2024-06)
+  Re-architected a performance engineering programme for a leading government agency in public sector using Python, API Testing, Kubernetes and CI/CD, accelerating releases by 25%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, DevOps Engineer

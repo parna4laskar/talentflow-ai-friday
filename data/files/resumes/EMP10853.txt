@@ -1,0 +1,36 @@
+ETHAN MILLER
+Senior QA Engineer | Quality Engineering | New York, United States
+Employee ID: EMP10853
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.1 years of experience, based in New York. Strong in Test Automation, Selenium, API Testing and SQL, with recent work in pharma R&D. Interested in moving towards QA Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 5.5y), Selenium (Proficient, 7.0y), API Testing (Proficient, 2.7y)
+- Data & AI: SQL (Proficient, 1.3y)
+- Software Engineering: Python (Proficient, 5.0y), Java (Working, 1.8y)
+- Cloud & DevOps: CI/CD (Proficient, 4.7y)
+- Delivery & Leadership: Communication (Working, 3.7y)
+
+EXPERIENCE
+* E-commerce Performance Engineering Programme — an APAC online retailer (2026-10 to present)
+  Built a performance engineering programme for an APAC online retailer in e-commerce using SQL, Java and API Testing, accelerating releases by 18%.
+* Pharma R&D API Contract-testing Suite — a US pharma company (2025-03 to 2026-08)
+  Built an API contract-testing suite for a US pharma company in pharma R&D using Test Automation, SQL, CI/CD and API Testing, raising automated test coverage to 80%.
+* HR Tech Test Automation Framework — a European HR software company (2024-01 to 2025-02)
+  Automated a test automation framework for a European HR software company in HR tech using Test Automation and CI/CD, accelerating releases by 25%.
+* Pharma R&D Performance Engineering Programme — a leading pharma company (2023-05 to 2024-01)
+  Re-architected a performance engineering programme for a leading pharma company in pharma R&D using Selenium, SQL and CI/CD, accelerating releases by 18%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: QA Engineer, DevOps Engineer

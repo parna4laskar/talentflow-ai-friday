@@ -1,0 +1,35 @@
+AKASH MEHTA
+Senior Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10441
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.9 years of experience, based in Bengaluru. Strong in REST API Design, SQL, AWS and C#, with recent work in retail banking. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 6.1y), C# (Advanced, 3.5y), GraphQL (Proficient, 4.3y), Microservices (Working, 3.9y), Spring Boot (Working, 3.0y), System Design (Working, 2.9y)
+- Data & AI: SQL (Expert, 0.8y)
+- Cloud & DevOps: AWS (Expert, 8.0y), Docker (Advanced, 8.5y), Kubernetes (Proficient, 3.5y)
+- Delivery & Leadership: Communication (Working, 1.4y)
+
+EXPERIENCE
+* HR Tech Customer Onboarding Platform — a European HR software company (2025-10 to present)
+  Modernised a customer onboarding platform for a European HR software company in HR tech using Microservices and Docker, reducing processing time by 35%.
+* Retail Banking Pricing Engine — a US retail bank (2024-09 to 2025-08)
+  Re-architected a pricing engine for a US retail bank in retail banking using System Design, AWS, Microservices and REST API Design, improving conversion by 35%.
+* Retail Banking Order Management System — a fast-growing retail bank (2023-12 to 2024-07)
+  Designed an order management system for a fast-growing retail bank in retail banking using Communication and Kubernetes, reducing processing time by 12%.
+* Telecom Billing Self-service Portal — a fast-growing telecom operator (2023-03 to 2023-11)
+  Migrated a self-service portal for a fast-growing telecom operator in telecom billing using Spring Boot and AWS, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, DevOps Engineer, AI Engineer, Full Stack Engineer

@@ -1,0 +1,29 @@
+ETHAN ROY
+Senior Platform Engineer | Cloud & Infrastructure | Toronto, Canada
+Employee ID: EMP12915
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 10.6 years of experience, based in Toronto. Strong in Terraform, Platform Engineering, Go and Site Reliability Engineering, with recent work in automotive. Interested in moving towards DevOps Engineer, Cloud Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 5.9y), Platform Engineering (Proficient, 3.1y), Site Reliability Engineering (Proficient, 1.1y), Kubernetes (Working, 4.8y), CI/CD (Working, 0.8y)
+- Software Engineering: Go (Proficient, 5.5y)
+- Delivery & Leadership: Communication (Proficient, 7.1y)
+
+EXPERIENCE
+* Telecom Billing Cloud Landing Zone — a tier-1 telecom operator (2026-05 to present)
+  Automated a cloud landing zone for a tier-1 telecom operator in telecom billing using Go, CI/CD and Site Reliability Engineering, cutting cloud spend by 25%.
+* Public Sector Observability Stack — a leading government agency (2025-10 to 2026-04)
+  Re-architected an observability stack for a leading government agency in public sector using CI/CD, Communication, Terraform and Kubernetes, reducing production incidents by 30%.
+* Automotive Kubernetes Platform — a US car maker (2024-11 to 2025-07)
+  Led the delivery of a Kubernetes platform for a US car maker in automotive using Go and CI/CD, reducing production incidents by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, Cloud Engineer, Backend Engineer

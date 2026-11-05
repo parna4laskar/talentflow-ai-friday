@@ -1,0 +1,29 @@
+PRASAD PATIL
+CRM Consultant | Enterprise Applications | Hyderabad, India
+Employee ID: EMP10261
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 3.4 years of experience, based in Hyderabad. Strong in Salesforce, FinOps, Business Analysis and Agile/Scrum, with recent work in supply-chain logistics. Interested in moving towards SAP Consultant, Account Manager roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Proficient, 2.3y), Business Analysis (Working, 1.6y), Requirements Gathering (Working, 1.5y), Process Improvement (Beginner, 0.3y)
+- Cloud & DevOps: FinOps (Proficient, 2.4y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.6y), Communication (Working, 0.4y)
+
+EXPERIENCE
+* Supply-chain Logistics ERP Finance Rollout — a US logistics company (2026-03 to present)
+  Re-architected an ERP finance rollout for a US logistics company in supply-chain logistics using Communication, Agile/Scrum, Requirements Gathering and Salesforce, reducing processing time by 12%.
+* Insurance Claims Service Desk Automation — a leading insurer (2025-03 to 2026-02)
+  Led the delivery of a service desk automation for a leading insurer in insurance claims using Business Analysis, FinOps, Communication and Process Improvement, reducing processing time by 40%.
+* Supply-chain Logistics CRM Rollout — a leading logistics company (2024-07 to 2025-02)
+  Designed a CRM rollout for a leading logistics company in supply-chain logistics using Communication and Salesforce, reducing processing time by 12%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: SAP Consultant, Account Manager, Scrum Master

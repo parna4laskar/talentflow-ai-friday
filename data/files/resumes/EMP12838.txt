@@ -1,0 +1,34 @@
+GURPREET SINGH
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12838
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.9 years of experience, based in Bengaluru. Strong in CI/CD, Spring Boot, REST API Design and SQL, with recent work in healthcare. Interested in moving towards Engineering Manager, DevOps Engineer roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 2.0y)
+- Software Engineering: Spring Boot (Advanced, 1.1y), REST API Design (Proficient, 1.5y), Kafka (Proficient, 0.6y), Python (Working, 0.6y), Microservices (Working, 1.2y), .NET Core (Working, 1.7y), System Design (Working, 0.5y)
+- Data & AI: SQL (Proficient, 1.1y)
+
+EXPERIENCE
+* Healthcare Order Management System — a tier-1 hospital network (2025-09 to present)
+  Modernised an order management system for a tier-1 hospital network in healthcare using CI/CD and SQL, reducing processing time by 35%.
+* Insurance Claims Payments Microservices Platform — an APAC insurer (2025-03 to 2025-08)
+  Scaled a payments microservices platform for an APAC insurer in insurance claims using SQL, CI/CD and Python, accelerating releases by 18%.
+* Pharma R&D Claims Processing Engine — a leading pharma company (2024-06 to 2024-12)
+  Designed a claims processing engine for a leading pharma company in pharma R&D using SQL, Microservices and CI/CD, reducing processing time by 30%.
+* Media Streaming Mobile Banking App — an APAC streaming platform (2023-10 to 2024-05)
+  Designed a mobile banking app for an APAC streaming platform in media streaming using SQL and Python, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Engineering Manager, DevOps Engineer, AI Engineer

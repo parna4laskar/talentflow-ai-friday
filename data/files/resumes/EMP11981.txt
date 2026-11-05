@@ -1,0 +1,33 @@
+GRACE WILSON
+Lead DevOps Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP11981
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 10 years of experience, based in London. Strong in CI/CD, Docker, Kubernetes and Linux Administration, with recent work in pharma R&D. Interested in moving towards Backend Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 7.2y), Docker (Advanced, 1.6y), Kubernetes (Advanced, 1.0y), Linux Administration (Advanced, 4.5y), Observability (Advanced, 8.4y), Azure (Proficient, 4.2y), Terraform (Working, 2.3y), Site Reliability Engineering (Working, 4.1y)
+- Delivery & Leadership: Communication (Advanced, 5.4y)
+- Software Engineering: Python (Proficient, 3.1y), Go (Proficient, 3.4y)
+
+EXPERIENCE
+* Pharma R&D Kubernetes Platform — a US pharma company (2026-04 to present)
+  Designed a Kubernetes platform for a US pharma company in pharma R&D using Observability and Site Reliability Engineering, reducing production incidents by 25%.
+* Payments CI/CD Platform — a global payments provider (2025-03 to 2026-01)
+  Scaled a CI/CD platform for a global payments provider in payments using Observability, Azure and Docker, accelerating releases by 22%.
+* Energy Trading Kubernetes Platform — a fast-growing energy company (2023-08 to 2025-02)
+  Modernised a Kubernetes platform for a fast-growing energy company in energy trading using Kubernetes, Azure and Python, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+- HashiCorp Terraform Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, Platform Engineer, Cloud Engineer

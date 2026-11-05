@@ -1,0 +1,32 @@
+KUNAL SHARMA
+Senior Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10079
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6 years of experience, based in Bengaluru. Strong in TypeScript, Java, SQL and REST API Design, with recent work in supply-chain logistics. Interested in moving towards Mobile Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 4.5y), Java (Advanced, 2.3y), REST API Design (Advanced, 1.5y), Angular (Proficient, 3.5y), Microservices (Proficient, 2.4y)
+- Data & AI: SQL (Advanced, 1.8y), Responsible AI (Beginner, 1.4y)
+- Cloud & DevOps: AWS (Proficient, 4.1y), Docker (Working, 0.4y)
+
+EXPERIENCE
+* Healthcare Self-service Portal — an APAC hospital network (2026-06 to present)
+  Migrated a self-service portal for an APAC hospital network in healthcare using AWS, Java and Angular, saving ~25K hours annually.
+* Airline Operations Claims Processing Engine — a global airline (2025-09 to 2026-04)
+  Automated a claims processing engine for a global airline in airline operations using Angular, REST API Design and TypeScript, saving ~22K hours annually.
+* Supply-chain Logistics Self-service Portal — a European logistics company (2024-11 to 2025-07)
+  Automated a self-service portal for a European logistics company in supply-chain logistics using Microservices and SQL, lifting NPS by 35 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Mobile Engineer, Software Architect, AI Engineer

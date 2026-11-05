@@ -1,0 +1,30 @@
+FÉLIX SINGH
+Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11887
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.6 years of experience, based in Toronto. Strong in Python, SQL, Microservices and REST API Design, with recent work in automotive. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 1.9y), Microservices (Proficient, 1.0y), REST API Design (Working, 1.0y), GraphQL (Working, 0.7y), .NET Core (Working, 0.4y)
+- Data & AI: SQL (Proficient, 1.7y), Data Engineering (Working, 0.9y)
+- Cloud & DevOps: Kubernetes (Working, 1.0y), AWS (Working, 1.0y)
+
+EXPERIENCE
+* Automotive Self-service Portal — a leading car maker (2026-02 to present)
+  Built a self-service portal for a leading car maker in automotive using SQL, REST API Design and .NET Core, saving ~12K hours annually.
+* Manufacturing IoT Payments Microservices Platform — a European manufacturer (2025-05 to 2025-11)
+  Automated a payments microservices platform for a European manufacturer in manufacturing IoT using GraphQL, Kubernetes and Data Engineering, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Full Stack Engineer, DevOps Engineer

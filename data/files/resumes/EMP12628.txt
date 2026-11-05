@@ -1,0 +1,29 @@
+SOPHIA CHEN
+Senior QA Engineer | Quality Engineering | New York, United States
+Employee ID: EMP12628
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 7.2 years of experience, based in New York. Strong in Test Automation, Playwright, Java and Performance Testing, with recent work in public sector. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 2.8y), Playwright (Advanced, 6.1y), Performance Testing (Proficient, 1.9y), API Testing (Working, 1.8y)
+- Software Engineering: Java (Proficient, 2.4y)
+- Data & AI: Agentic AI (Working, 3.3y)
+
+EXPERIENCE
+* Healthcare Performance Engineering Programme — a leading hospital network (2026-09 to present)
+  Built a performance engineering programme for a leading hospital network in healthcare using Playwright, Java, Performance Testing and Test Automation, accelerating releases by 35%.
+* Payments API Contract-testing Suite — a leading payments provider (2025-04 to 2026-08)
+  Built an API contract-testing suite for a leading payments provider in payments using Playwright, Java and Agentic AI, raising automated test coverage to 70%.
+* Wealth Management Performance Engineering Programme — a tier-1 wealth manager (2023-10 to 2025-03)
+  Designed a performance engineering programme for a tier-1 wealth manager in wealth management using Java, Performance Testing and Test Automation, accelerating releases by 25%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Japanese
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, DevOps Engineer, Full Stack Engineer

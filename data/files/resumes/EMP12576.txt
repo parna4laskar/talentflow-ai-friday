@@ -1,0 +1,30 @@
+LIAM WASHINGTON
+Cloud Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP12576
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 4.6 years of experience, based in Austin. Strong in Linux Administration, Azure, Terraform and Python, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 3.2y), Azure (Proficient, 1.3y), Terraform (Proficient, 0.4y), Platform Engineering (Working, 1.7y), FinOps (Working, 0.7y), AWS (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 2.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Cloud Landing Zone — a global logistics company (2026-08 to present)
+  Modernised a cloud landing zone for a global logistics company in supply-chain logistics using AWS, Platform Engineering and Terraform, cutting cloud spend by 22%.
+* Airline Operations Cloud Landing Zone — a European airline (2025-01 to 2026-06)
+  Scaled a cloud landing zone for a European airline in airline operations using AWS, Azure and Python, cutting cloud spend by 35%.
+* Retail Banking Observability Stack — a US retail bank (2023-09 to 2024-12)
+  Migrated an observability stack for a US retail bank in retail banking using Linux Administration, AWS, FinOps and Platform Engineering, reducing production incidents by 22%.
+* Supply-chain Logistics Kubernetes Platform — a fast-growing logistics company (2022-10 to 2023-07)
+  Re-architected a Kubernetes platform for a fast-growing logistics company in supply-chain logistics using Terraform, Azure and FinOps, accelerating releases by 12%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Site Reliability Engineer

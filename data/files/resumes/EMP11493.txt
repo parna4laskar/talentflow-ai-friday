@@ -1,0 +1,28 @@
+MANISH IYER
+Senior Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP11493
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 7.4 years of experience, based in Pune. Strong in Machine Learning, SQL, Deep Learning and Python, with recent work in supply-chain logistics. Interested in moving towards Data Scientist, AI Engineer roles and open to relocating to Dublin, London, Austin.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 4.9y), SQL (Advanced, 4.8y), Deep Learning (Advanced, 2.7y), Statistics (Proficient, 1.0y), Vector Databases (Proficient, 4.2y), Data Engineering (Proficient, 3.4y), Data Visualization (Working, 1.8y), NLP (Working, 1.8y)
+- Software Engineering: Python (Proficient, 3.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Regulatory Reporting Suite — a fast-growing logistics company (2026-07 to present)
+  Designed a regulatory reporting suite for a fast-growing logistics company in supply-chain logistics using Python and Statistics, saving ~40K hours annually.
+* Supply-chain Logistics Data Lakehouse — an APAC logistics company (2025-05 to 2026-06)
+  Designed a data lakehouse for an APAC logistics company in supply-chain logistics using SQL and Deep Learning, cutting cloud spend by 30%.
+* Supply-chain Logistics Executive KPI Dashboard Suite — a tier-1 logistics company (2024-04 to 2025-03)
+  Led the delivery of an executive KPI dashboard suite for a tier-1 logistics company in supply-chain logistics using NLP, SQL and Deep Learning, saving ~22K hours annually.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, AI Engineer, ML Engineer

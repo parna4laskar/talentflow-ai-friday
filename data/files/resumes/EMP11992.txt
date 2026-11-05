@@ -1,0 +1,29 @@
+SIDDHARTH VERMA
+Senior UX Designer | Design | Pune, India
+Employee ID: EMP11992
+
+PROFESSIONAL SUMMARY
+Senior UX Designer with 9.8 years of experience, based in Pune. Strong in UI Design, Figma, Communication and UX Research, with recent work in wealth management. Interested in moving towards Product Manager, Talent Acquisition Specialist roles.
+
+CORE SKILLS
+- Product & Design: UI Design (Expert, 3.0y), Figma (Advanced, 8.4y), UX Research (Proficient, 7.1y), A/B Testing (Proficient, 6.1y)
+- Delivery & Leadership: Communication (Advanced, 9.1y)
+- Data & AI: Agentic AI (Proficient, 3.7y), LLM Engineering (Working, 0.8y)
+
+EXPERIENCE
+* Telecom Billing Onboarding Flow — a European telecom operator (2026-04 to present)
+  Ran research for an onboarding flow for a European telecom operator in telecom billing using Agentic AI, Communication and LLM Engineering, lifting NPS by 40 points.
+* Insurance Claims Onboarding Flow — an APAC insurer (2024-12 to 2026-01)
+  Redesigned an onboarding flow for an APAC insurer in insurance claims using Communication and LLM Engineering, lifting NPS by 12 points.
+* Wealth Management Enterprise Design System — a leading wealth manager (2023-04 to 2024-09)
+  Designed an enterprise design system for a leading wealth manager in wealth management using Agentic AI and UI Design, accelerating releases by 25%.
+
+EDUCATION
+- BA Psychology
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Product Manager, Talent Acquisition Specialist

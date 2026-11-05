@@ -1,0 +1,33 @@
+JUN HAO ONG
+Cloud Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP12677
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 4.7 years of experience, based in Singapore. Strong in GCP, Terraform, Linux Administration and Cloud Security, with recent work in media streaming. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Proficient, 0.6y), Terraform (Proficient, 1.7y), Linux Administration (Proficient, 2.3y), CI/CD (Proficient, 1.9y), Platform Engineering (Working, 2.1y)
+- Security: Cloud Security (Proficient, 1.4y)
+- Data & AI: Agentic AI (Proficient, 0.6y)
+
+EXPERIENCE
+* Media Streaming Kubernetes Platform — a global streaming platform (2026-08 to present)
+  Built a Kubernetes platform for a global streaming platform in media streaming using Linux Administration, Cloud Security, CI/CD and Platform Engineering, cutting cloud spend by 30%.
+* Media Streaming Kubernetes Platform — a tier-1 streaming platform (2025-02 to 2026-06)
+  Re-architected a Kubernetes platform for a tier-1 streaming platform in media streaming using Platform Engineering, Terraform and GCP, reducing production incidents by 22%.
+* Media Streaming Kubernetes Platform — a US streaming platform (2023-08 to 2025-01)
+  Automated a Kubernetes platform for a US streaming platform in media streaming using Agentic AI, Terraform and Platform Engineering, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2022)
+- Google Professional Cloud Architect (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin, German
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, Site Reliability Engineer, Software Architect

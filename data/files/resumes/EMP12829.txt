@@ -1,0 +1,34 @@
+SHREYA KULKARNI
+Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12829
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3 years of experience, based in Bengaluru. Strong in TypeScript, Angular, SQL and AWS, with recent work in insurance claims. Interested in moving towards AI Engineer, Mobile Engineer roles and open to relocating to Toronto, Hyderabad, Kraków.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.1y), Angular (Proficient, 1.3y), Next.js (Proficient, 0.4y), Node.js (Working, 1.5y), Microservices (Working, 0.6y), GraphQL (Working, 0.4y), REST API Design (Beginner, 0.4y)
+- Data & AI: SQL (Proficient, 1.5y)
+- Cloud & DevOps: AWS (Proficient, 2.2y)
+
+EXPERIENCE
+* Healthcare Self-service Portal — a leading hospital network (2025-09 to present)
+  Designed a self-service portal for a leading hospital network in healthcare using Next.js, Node.js and AWS, saving ~22K hours annually.
+* Pharma R&D Pricing Engine — a leading pharma company (2025-03 to 2025-08)
+  Migrated a pricing engine for a leading pharma company in pharma R&D using SQL, Node.js and AWS, reducing processing time by 30%.
+* Telecom Billing Payments Microservices Platform — a global telecom operator (2024-04 to 2025-01)
+  Built a payments microservices platform for a global telecom operator in telecom billing using REST API Design and Node.js, reducing production incidents by 30%.
+* Public Sector Order Management System — a tier-1 government agency (2023-06 to 2024-02)
+  Designed an order management system for a tier-1 government agency in public sector using Angular, Next.js, Microservices and REST API Design, onboarding 2 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, Mobile Engineer, Backend Engineer

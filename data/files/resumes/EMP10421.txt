@@ -1,0 +1,31 @@
+VARUN KULKARNI
+Senior Security Engineer | Cyber Security | Hyderabad, India
+Employee ID: EMP10421
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 5 years of experience, based in Hyderabad. Strong in Kubernetes, Cloud Security, Application Security and Threat Modeling, with recent work in energy trading. Interested in moving towards Security Analyst, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 2.3y), AWS (Proficient, 2.9y)
+- Security: Cloud Security (Advanced, 4.1y), Application Security (Proficient, 2.8y), Threat Modeling (Proficient, 2.9y), Incident Response (Proficient, 0.7y), SIEM (Proficient, 3.3y)
+- Software Engineering: Python (Proficient, 0.5y)
+
+EXPERIENCE
+* Energy Trading Secure SDLC Rollout — a leading energy company (2025-11 to present)
+  Migrated a secure SDLC rollout for a leading energy company in energy trading using Application Security, Cloud Security and Incident Response, reducing production incidents by 40%.
+* Energy Trading Identity and Access Platform — a global energy company (2024-06 to 2025-09)
+  Modernised an identity and access platform for a global energy company in energy trading using Application Security and Cloud Security, reducing production incidents by 18%.
+* Airline Operations Secure SDLC Rollout — a US airline (2023-10 to 2024-03)
+  Scaled a secure SDLC rollout for a US airline in airline operations using AWS and Kubernetes, reducing production incidents by 12%.
+* Payments Identity and Access Platform — a European payments provider (2022-04 to 2023-08)
+  Scaled an identity and access platform for a European payments provider in payments using Incident Response, Threat Modeling and Application Security, reducing production incidents by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Security Analyst, Cloud Engineer

@@ -1,0 +1,34 @@
+HUI MIN LIM
+Lead Software Architect | Engineering | Singapore, Singapore
+Employee ID: EMP12383
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.9 years of experience, based in Singapore. Strong in System Design, C#, Azure and Kubernetes, with recent work in wealth management. Interested in moving towards Engineering Manager, Cloud Engineer roles and open to relocating to Pune.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 14.8y), C# (Advanced, 13.6y), REST API Design (Advanced, 13.0y), Microservices (Proficient, 4.0y)
+- Cloud & DevOps: Azure (Advanced, 13.1y), Kubernetes (Advanced, 12.6y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 12.9y), Communication (Advanced, 5.4y), People Leadership (Proficient, 7.1y), Mentoring (Working, 1.3y)
+- Security: Cloud Security (Advanced, 0.7y)
+
+EXPERIENCE
+* Wealth Management Self-service Portal — a US wealth manager (2025-11 to present)
+  Modernised a self-service portal for a US wealth manager in wealth management using Communication, REST API Design and C#, lifting NPS by 22 points.
+* Wealth Management Customer Onboarding Platform — a leading wealth manager (2025-04 to 2025-10)
+  Re-architected a customer onboarding platform for a leading wealth manager in wealth management using Stakeholder Management, Mentoring and REST API Design, reducing processing time by 30%.
+* Wealth Management Self-service Portal — a global wealth manager (2024-04 to 2025-02)
+  Migrated a self-service portal for a global wealth manager in wealth management using Azure and Communication, saving ~30K hours annually.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2022)
+- TOGAF 10 (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Engineering Manager, Cloud Engineer

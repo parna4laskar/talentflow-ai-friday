@@ -1,0 +1,28 @@
+AOIFE DOYLE
+Senior Platform Engineer | Cloud & Infrastructure | Dublin, Ireland
+Employee ID: EMP10639
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 6.5 years of experience, based in Dublin. Strong in Kubernetes, CI/CD, Go and Platform Engineering, with recent work in retail banking. Interested in moving towards Platform Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 4.4y), CI/CD (Advanced, 1.3y), Platform Engineering (Proficient, 4.4y), Terraform (Proficient, 1.3y), Site Reliability Engineering (Proficient, 1.4y), AWS (Proficient, 3.0y)
+- Software Engineering: Go (Advanced, 2.6y), Python (Proficient, 0.7y)
+
+EXPERIENCE
+* Wealth Management Cloud Landing Zone — a fast-growing wealth manager (2026-10 to present)
+  Built a cloud landing zone for a fast-growing wealth manager in wealth management using Python and Terraform, accelerating releases by 30%.
+* Energy Trading Kubernetes Platform — an APAC energy company (2026-03 to 2026-08)
+  Designed a Kubernetes platform for an APAC energy company in energy trading using Python and Kubernetes, accelerating releases by 30%.
+* Automotive Observability Stack — a European car maker (2025-07 to 2026-03)
+  Automated an observability stack for a European car maker in automotive using CI/CD, Platform Engineering and Terraform, accelerating releases by 40%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Platform Engineer, Site Reliability Engineer, DevOps Engineer, Backend Engineer

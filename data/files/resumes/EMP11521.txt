@@ -1,0 +1,32 @@
+GAURAV RAO
+Principal Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP11521
+
+PROFESSIONAL SUMMARY
+Principal Frontend Engineer with 20.9 years of experience, based in Pune. Strong in TypeScript, React, JavaScript and CI/CD, with recent work in airline operations. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 1.1y), React (Expert, 3.4y), JavaScript (Advanced, 19.5y), Next.js (Proficient, 1.3y), GraphQL (Proficient, 12.5y)
+- Cloud & DevOps: CI/CD (Advanced, 16.3y)
+- Quality Engineering: Playwright (Advanced, 14.1y)
+- Product & Design: Design Systems (Advanced, 16.9y)
+- Data & AI: Machine Learning (Advanced, 11.2y)
+- Delivery & Leadership: Mentoring (Advanced, 19.7y), Stakeholder Management (Proficient, 8.0y), Communication (Proficient, 4.6y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a leading hospital network (2025-07 to present)
+  Built a payments microservices platform for a leading hospital network in healthcare using JavaScript, Next.js, React and Mentoring, accelerating releases by 40%.
+* Retail Banking Self-service Portal — an APAC retail bank (2024-04 to 2025-06)
+  Scaled a self-service portal for an APAC retail bank in retail banking using TypeScript, CI/CD and Stakeholder Management, lifting NPS by 35 points.
+* Automotive Claims Processing Engine — a tier-1 car maker (2023-04 to 2024-02)
+  Automated a claims processing engine for a tier-1 car maker in automotive using CI/CD, JavaScript and Next.js, saving ~22K hours annually.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer

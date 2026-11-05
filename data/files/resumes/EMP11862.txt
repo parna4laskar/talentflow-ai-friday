@@ -1,0 +1,29 @@
+PAWEŁ WÓJCIK
+Senior Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11862
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.1 years of experience, based in Kraków. Strong in REST API Design, SQL, C# and Microservices, with recent work in payments. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 3.4y), C# (Proficient, 1.6y), Microservices (Proficient, 6.2y), Spring Boot (Proficient, 1.9y), GraphQL (Proficient, 6.3y), Kafka (Working, 1.1y)
+- Data & AI: SQL (Advanced, 2.8y)
+- Cloud & DevOps: Kubernetes (Proficient, 6.3y)
+
+EXPERIENCE
+* Payments Self-service Portal — a leading payments provider (2026-01 to present)
+  Designed a self-service portal for a leading payments provider in payments using Kafka and Spring Boot, saving ~25K hours annually.
+* Payments Self-service Portal — a global payments provider (2024-07 to 2025-12)
+  Migrated a self-service portal for a global payments provider in payments using Spring Boot and GraphQL, lifting NPS by 25 points.
+* Wealth Management Mobile Banking App — a leading wealth manager (2023-04 to 2024-05)
+  Scaled a mobile banking app for a leading wealth manager in wealth management using Kubernetes, C#, SQL and GraphQL, lifting NPS by 18 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager

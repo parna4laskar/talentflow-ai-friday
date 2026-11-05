@@ -1,0 +1,29 @@
+MATTHEW CHEN
+Senior UX Designer | Design | New York, United States
+Employee ID: EMP11971
+
+PROFESSIONAL SUMMARY
+Senior UX Designer with 8.7 years of experience, based in New York. Strong in UX Research, Figma, UI Design and Communication, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Product & Design: UX Research (Expert, 3.7y), Figma (Advanced, 6.7y), UI Design (Proficient, 1.3y), A/B Testing (Proficient, 6.5y), Product Management (Working, 3.5y), Design Systems (Working, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 2.9y), Stakeholder Management (Proficient, 0.9y)
+- Data & AI: Agentic AI (Beginner, 1.3y)
+
+EXPERIENCE
+* E-commerce Customer Self-service Journey — an APAC online retailer (2026-10 to present)
+  Led UX for a customer self-service journey for an APAC online retailer in e-commerce using Figma and UI Design, improving conversion by 22%.
+* Manufacturing IoT Enterprise Design System — a European manufacturer (2025-08 to 2026-08)
+  Designed an enterprise design system for a European manufacturer in manufacturing IoT using Design Systems, UX Research, Figma and Stakeholder Management, accelerating releases by 25%.
+* Manufacturing IoT Customer Self-service Journey — a European manufacturer (2024-05 to 2025-06)
+  Redesigned a customer self-service journey for a European manufacturer in manufacturing IoT using Design Systems, Communication, UI Design and Product Management, improving conversion by 18%.
+
+EDUCATION
+- B.Des Interaction Design
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer

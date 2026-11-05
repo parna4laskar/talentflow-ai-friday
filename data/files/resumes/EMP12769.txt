@@ -1,0 +1,30 @@
+HARSH KELLY
+Associate Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP12769
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 2.7 years of experience, based in Gurugram. Strong in JavaScript, Angular, TypeScript and Design Systems, with recent work in public sector. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Proficient, 1.4y), Angular (Proficient, 1.2y), TypeScript (Working, 0.4y), GraphQL (Beginner, 0.4y), Node.js (Beginner, 0.4y)
+- Product & Design: Design Systems (Working, 1.3y)
+- Quality Engineering: Playwright (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Self-service Portal — a tier-1 telecom operator (2026-03 to present)
+  Led the delivery of a self-service portal for a tier-1 telecom operator in telecom billing using Node.js, TypeScript and Angular, lifting NPS by 40 points.
+* Wealth Management Payments Microservices Platform — a European wealth manager (2025-06 to 2025-12)
+  Scaled a payments microservices platform for a European wealth manager in wealth management using JavaScript, Node.js, GraphQL and Playwright, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, Mobile Engineer, UX Designer

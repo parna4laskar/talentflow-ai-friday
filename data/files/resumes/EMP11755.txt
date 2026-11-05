@@ -1,0 +1,29 @@
+ZOYA ZIELIŃSKI
+QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP11755
+
+PROFESSIONAL SUMMARY
+QA Engineer with 5.7 years of experience, based in Bengaluru. Strong in Test Automation, Playwright, Performance Testing and API Testing, with recent work in telecom billing. Interested in moving towards QA Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 2.0y), Playwright (Proficient, 2.0y), Performance Testing (Proficient, 1.1y), API Testing (Working, 0.6y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.7y)
+- Cloud & DevOps: CI/CD (Working, 2.3y)
+
+EXPERIENCE
+* Telecom Billing API Contract-testing Suite — an APAC telecom operator (2025-11 to present)
+  Re-architected an API contract-testing suite for an APAC telecom operator in telecom billing using Playwright and Agile/Scrum, reducing production incidents by 22%.
+* Retail Banking API Contract-testing Suite — a tier-1 retail bank (2024-08 to 2025-09)
+  Re-architected an API contract-testing suite for a tier-1 retail bank in retail banking using Test Automation, Agile/Scrum, Performance Testing and API Testing, reducing production incidents by 35%.
+* Telecom Billing Performance Engineering Programme — a leading telecom operator (2023-10 to 2024-05)
+  Re-architected a performance engineering programme for a leading telecom operator in telecom billing using CI/CD and Agile/Scrum, accelerating releases by 35%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: QA Engineer, DevOps Engineer, Mobile Engineer

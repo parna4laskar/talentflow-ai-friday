@@ -1,0 +1,31 @@
+THOMAS BROWN
+Senior QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP11081
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 9.6 years of experience, based in London. Strong in API Testing, Test Automation, CI/CD and Playwright, with recent work in retail banking. Interested in moving towards Full Stack Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 9.6y), Test Automation (Advanced, 0.6y), Playwright (Proficient, 3.3y), Performance Testing (Proficient, 5.8y)
+- Cloud & DevOps: CI/CD (Advanced, 0.7y)
+- Software Engineering: Python (Proficient, 5.2y), Java (Working, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 5.8y), Agile/Scrum (Working, 2.5y)
+- Data & AI: Responsible AI (Working, 1.8y)
+
+EXPERIENCE
+* Manufacturing IoT Performance Engineering Programme — a US manufacturer (2026-06 to present)
+  Built a performance engineering programme for a US manufacturer in manufacturing IoT using Agile/Scrum and CI/CD, reducing production incidents by 40%.
+* Retail Banking API Contract-testing Suite — a fast-growing retail bank (2025-08 to 2026-04)
+  Re-architected an API contract-testing suite for a fast-growing retail bank in retail banking using Communication, CI/CD, Performance Testing and Python, raising automated test coverage to 85%.
+* Supply-chain Logistics Test Automation Framework — a leading logistics company (2024-03 to 2025-07)
+  Modernised a test automation framework for a leading logistics company in supply-chain logistics using Playwright, Performance Testing, Test Automation and Responsible AI, raising automated test coverage to 90%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, DevOps Engineer, Engineering Manager

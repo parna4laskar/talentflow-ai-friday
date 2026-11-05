@@ -1,0 +1,35 @@
+ISHITA SHAH
+Lead AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP11526
+
+PROFESSIONAL SUMMARY
+Lead AI Engineer with 13.1 years of experience, based in Chennai. Strong in Generative AI, Agentic AI, Python and LLM Engineering, with recent work in energy trading. Interested in moving towards AI Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Expert, 9.2y), Agentic AI (Expert, 3.1y), LLM Engineering (Proficient, 1.3y), Responsible AI (Proficient, 3.8y)
+- Software Engineering: Python (Proficient, 4.0y), REST API Design (Working, 4.5y)
+- Cloud & DevOps: Azure (Proficient, 4.0y), Docker (Working, 2.4y)
+- Delivery & Leadership: Communication (Proficient, 9.1y)
+
+EXPERIENCE
+* Energy Trading Knowledge Assistant (RAG) — a fast-growing energy company (2025-12 to present)
+  Built a knowledge assistant (RAG) for a fast-growing energy company in energy trading using Azure and REST API Design, saving ~25K hours annually.
+* HR Tech Fraud Detection Model — a tier-1 HR software company (2024-08 to 2025-09)
+  Modernised a fraud detection model for a tier-1 HR software company in HR tech using Azure, Responsible AI, Python and Communication, improving model accuracy by 30%.
+* Energy Trading Knowledge Assistant (RAG) — an APAC energy company (2023-11 to 2024-06)
+  Designed a knowledge assistant (RAG) for an APAC energy company in energy trading using Azure, LLM Engineering, Python and REST API Design, saving ~22K hours annually.
+* Energy Trading Knowledge Assistant (RAG) — a leading energy company (2023-04 to 2023-09)
+  Modernised a knowledge assistant (RAG) for a leading energy company in energy trading using REST API Design and Communication, lifting NPS by 35 points.
+
+CERTIFICATIONS
+- Google Generative AI Leader (2025)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: AI Engineer, ML Engineer, Data Scientist, DevOps Engineer

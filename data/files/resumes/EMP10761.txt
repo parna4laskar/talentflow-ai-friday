@@ -1,0 +1,27 @@
+AARAV JADHAV
+Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP10761
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2.3 years of experience, based in Chennai. Strong in Statistics, Python, Machine Learning and SQL, with recent work in e-commerce. Interested in moving towards Product Manager, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Expert, 0.9y), Machine Learning (Proficient, 0.7y), SQL (Proficient, 0.7y), Deep Learning (Proficient, 1.3y), NLP (Proficient, 1.6y), MLOps (Working, 0.9y), Generative AI (Beginner, 0.3y), Apache Spark (Beginner, 0.4y), Vector Databases (Beginner, 0.5y)
+- Software Engineering: Python (Advanced, 1.3y)
+- Delivery & Leadership: Communication (Working, 0.9y)
+
+EXPERIENCE
+* E-commerce Customer Churn Model — a US online retailer (2026-05 to present)
+  Scaled a customer churn model for a US online retailer in e-commerce using SQL, Statistics and Python, improving conversion by 30%.
+* E-commerce Real-time Analytics Pipeline — a tier-1 online retailer (2025-05 to 2026-04)
+  Led the delivery of a real-time analytics pipeline for a tier-1 online retailer in e-commerce using Deep Learning, Apache Spark, Python and Machine Learning, cutting cloud spend by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager, ML Engineer, AI Engineer

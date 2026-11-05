@@ -1,0 +1,35 @@
+POOJA GUPTA
+Principal Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP10503
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 24.2 years of experience, based in Chennai. Strong in SQL, Go, Microservices and Communication, with recent work in telecom billing. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 16.9y)
+- Software Engineering: Go (Advanced, 22.3y), Microservices (Advanced, 19.5y), REST API Design (Proficient, 1.2y)
+- Delivery & Leadership: Communication (Advanced, 3.9y), Mentoring (Proficient, 8.3y)
+- Cloud & DevOps: Docker (Proficient, 1.4y), Kubernetes (Proficient, 4.8y)
+
+EXPERIENCE
+* Telecom Billing Pricing Engine — a leading telecom operator (2025-10 to present)
+  Re-architected a pricing engine for a leading telecom operator in telecom billing using SQL, Microservices and Mentoring, improving conversion by 30%.
+* Wealth Management Self-service Portal — a tier-1 wealth manager (2024-01 to 2025-07)
+  Modernised a self-service portal for a tier-1 wealth manager in wealth management using SQL and Go, lifting NPS by 35 points.
+* Telecom Billing Pricing Engine — a fast-growing telecom operator (2023-03 to 2024-01)
+  Re-architected a pricing engine for a fast-growing telecom operator in telecom billing using Mentoring and SQL, improving conversion by 30%.
+* Healthcare Mobile Banking App — a leading hospital network (2022-09 to 2023-02)
+  Designed a mobile banking app for a leading hospital network in healthcare using Communication, SQL, Docker and Microservices, improving conversion by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer

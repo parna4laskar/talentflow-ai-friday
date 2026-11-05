@@ -1,0 +1,32 @@
+ROHAN GOKHALE
+Senior Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP11679
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 10.5 years of experience, based in Bengaluru. Strong in Machine Learning, Communication, Python and Statistics, with recent work in telecom billing. Interested in moving towards Data Analyst roles and open to relocating to Austin, Pune, Gurugram.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 3.3y), Statistics (Proficient, 4.3y), Data Visualization (Proficient, 2.3y), MLOps (Proficient, 2.9y), SQL (Working, 2.8y), NLP (Working, 1.5y), Snowflake (Working, 3.5y)
+- Delivery & Leadership: Communication (Advanced, 4.2y)
+- Software Engineering: Python (Proficient, 5.8y)
+
+EXPERIENCE
+* Airline Operations Customer Churn Model — a tier-1 airline (2026-03 to present)
+  Migrated a customer churn model for a tier-1 airline in airline operations using Snowflake, Statistics and SQL, improving conversion by 18%.
+* Telecom Billing Customer Churn Model — a European telecom operator (2025-07 to 2026-01)
+  Led the delivery of a customer churn model for a European telecom operator in telecom billing using NLP and Python, improving conversion by 12%.
+* Telecom Billing Regulatory Reporting Suite — an APAC telecom operator (2024-08 to 2025-05)
+  Re-architected a regulatory reporting suite for an APAC telecom operator in telecom billing using NLP and SQL, saving ~18K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Analyst

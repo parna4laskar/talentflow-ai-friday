@@ -1,0 +1,35 @@
+SNEHA MALHOTRA
+Senior Risk & Compliance Analyst | Risk & Compliance | Hyderabad, India
+Employee ID: EMP12216
+
+PROFESSIONAL SUMMARY
+Senior Risk & Compliance Analyst with 9.4 years of experience, based in Hyderabad. Strong in Risk Management, Regulatory Compliance, GRC and Data Governance, with recent work in healthcare. Interested in moving towards Security Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Risk Management (Advanced, 5.7y), Regulatory Compliance (Advanced, 7.2y), Financial Analysis (Proficient, 5.8y)
+- Security: GRC (Advanced, 1.8y)
+- Data & AI: Data Governance (Advanced, 5.8y), SQL (Proficient, 0.6y), Snowflake (Proficient, 0.6y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Healthcare Cost Transformation Programme — an APAC hospital network (2025-11 to present)
+  Redesigned a cost transformation programme for an APAC hospital network in healthcare using Risk Management, GRC, Communication and Snowflake, delivering $6M in cost savings.
+* Healthcare Risk Control Framework — a fast-growing hospital network (2024-11 to 2025-10)
+  Built a risk control framework for a fast-growing hospital network in healthcare using Data Governance, Communication and Risk Management, closing 18% of open audit findings.
+* Wealth Management Cost Transformation Programme — a US wealth manager (2023-05 to 2024-09)
+  Led a cost transformation programme for a US wealth manager in wealth management using Data Governance, SQL and Financial Analysis, delivering $3M in cost savings.
+* Pharma R&D Risk Control Framework — an APAC pharma company (2022-07 to 2023-02)
+  Owned a risk control framework for an APAC pharma company in pharma R&D using Communication and Snowflake, closing 35% of open audit findings.
+
+CERTIFICATIONS
+- CRISC (2025)
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Security Analyst

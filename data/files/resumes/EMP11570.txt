@@ -1,0 +1,31 @@
+SHREYA DESHPANDE
+Senior Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11570
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 9.3 years of experience, based in Hyderabad. Strong in Terraform, AWS, Platform Engineering and CI/CD, with recent work in energy trading. Interested in moving towards Software Architect, DevOps Engineer roles and open to relocating to Bengaluru, London, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 7.3y), AWS (Advanced, 4.0y), Platform Engineering (Advanced, 6.2y), CI/CD (Advanced, 4.6y), Linux Administration (Proficient, 3.5y), FinOps (Proficient, 5.0y), Kubernetes (Proficient, 2.1y)
+- Software Engineering: Python (Proficient, 6.6y), Go (Beginner, 0.8y)
+- Data & AI: Generative AI (Proficient, 1.6y)
+
+EXPERIENCE
+* Energy Trading Observability Stack — a tier-1 energy company (2026-05 to present)
+  Automated an observability stack for a tier-1 energy company in energy trading using CI/CD, Python, AWS and Terraform, accelerating releases by 25%.
+* Airline Operations Kubernetes Platform — a US airline (2024-12 to 2026-04)
+  Built a Kubernetes platform for a US airline in airline operations using CI/CD and Kubernetes, reducing production incidents by 40%.
+* Energy Trading Kubernetes Platform — a global energy company (2023-08 to 2024-11)
+  Led the delivery of a Kubernetes platform for a global energy company in energy trading using Python, CI/CD and Go, reducing production incidents by 22%.
+* Energy Trading Observability Stack — a US energy company (2022-09 to 2023-06)
+  Migrated an observability stack for a US energy company in energy trading using FinOps and Generative AI, accelerating releases by 25%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, DevOps Engineer, Platform Engineer

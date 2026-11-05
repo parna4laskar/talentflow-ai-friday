@@ -1,0 +1,34 @@
+SAMUEL SEN
+Principal Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP12732
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 22.1 years of experience, based in London. Strong in SQL, Data Engineering, Python and Apache Spark, with recent work in airline operations. Interested in moving towards Data Analyst roles and open to relocating to Dublin, Hyderabad, Chennai.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 5.9y), Data Engineering (Expert, 1.8y), Apache Spark (Advanced, 20.0y), Data Governance (Advanced, 5.6y), Databricks (Advanced, 8.4y), Snowflake (Advanced, 11.4y), Airflow (Advanced, 8.5y), Machine Learning (Working, 7.9y)
+- Delivery & Leadership: People Leadership (Expert, 7.9y), Communication (Advanced, 21.5y), Mentoring (Proficient, 11.3y), Stakeholder Management (Proficient, 14.3y)
+- Software Engineering: Python (Advanced, 5.7y), Kafka (Advanced, 5.8y)
+- Cloud & DevOps: FinOps (Advanced, 18.6y)
+
+EXPERIENCE
+* Airline Operations Customer Churn Model — an APAC airline (2026-04 to present)
+  Automated a customer churn model for an APAC airline in airline operations using Communication and SQL, improving conversion by 22%.
+* Public Sector Real-time Analytics Pipeline — a tier-1 government agency (2025-05 to 2026-04)
+  Migrated a real-time analytics pipeline for a tier-1 government agency in public sector using Apache Spark, Python, Data Engineering and Airflow, cutting cloud spend by 12%.
+* Retail Banking Real-time Analytics Pipeline — a fast-growing retail bank (2024-04 to 2025-02)
+  Built a real-time analytics pipeline for a fast-growing retail bank in retail banking using SQL, Stakeholder Management and Airflow, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+- SnowPro Core (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Spanish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst

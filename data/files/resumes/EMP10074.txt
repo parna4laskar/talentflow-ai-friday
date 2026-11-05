@@ -1,0 +1,31 @@
+FATIMA CAMPBELL
+Associate QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP10074
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2 years of experience, based in Pune. Strong in Test Automation, Selenium, API Testing and SQL, with recent work in public sector. Interested in moving towards QA Engineer, Backend Engineer roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 1.2y), Selenium (Proficient, 0.4y), API Testing (Proficient, 0.8y)
+- Data & AI: SQL (Working, 0.5y)
+- Cloud & DevOps: FinOps (Working, 0.6y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Performance Engineering Programme — a fast-growing manufacturer (2025-12 to present)
+  Designed a performance engineering programme for a fast-growing manufacturer in manufacturing IoT using Selenium, SQL and API Testing, accelerating releases by 12%.
+* Pharma R&D API Contract-testing Suite — a leading pharma company (2024-11 to 2025-10)
+  Built an API contract-testing suite for a leading pharma company in pharma R&D using SQL, FinOps, Selenium and API Testing, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, Backend Engineer, Mobile Engineer

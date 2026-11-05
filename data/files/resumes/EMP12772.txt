@@ -1,0 +1,28 @@
+JUN HAO ONG
+Associate Full Stack Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12772
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 0.6 years of experience, based in Singapore. Strong in React, TypeScript, Python and GraphQL, with recent work in healthcare. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 0.5y), TypeScript (Proficient, 0.4y), Python (Proficient, 0.4y), GraphQL (Proficient, 0.4y), REST API Design (Working, 0.3y), Microservices (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.3y)
+- Cloud & DevOps: Docker (Working, 0.3y), AWS (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Healthcare Customer Onboarding Platform — a US hospital network (2025-10 to present)
+  Automated a customer onboarding platform for a US hospital network in healthcare using SQL and AWS, improving conversion by 35%.
+* Healthcare Order Management System — a fast-growing hospital network (2024-08 to 2025-08)
+  Migrated an order management system for a fast-growing hospital network in healthcare using React and AWS, onboarding 5 new enterprise clients.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Mobile Engineer

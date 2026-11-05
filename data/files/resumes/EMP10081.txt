@@ -1,0 +1,30 @@
+RAJESH CHUA
+Associate Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP10081
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 2.5 years of experience, based in Singapore. Strong in JavaScript, TypeScript, React and Playwright, with recent work in public sector. Interested in moving towards UX Designer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 0.8y), TypeScript (Proficient, 0.9y), React (Proficient, 0.7y), Node.js (Working, 0.8y)
+- Quality Engineering: Playwright (Proficient, 0.7y)
+- Cloud & DevOps: CI/CD (Working, 0.8y)
+
+EXPERIENCE
+* Energy Trading Pricing Engine — a US energy company (2025-12 to present)
+  Designed a pricing engine for a US energy company in energy trading using Playwright and CI/CD, reducing processing time by 12%.
+* Public Sector Mobile Banking App — a global government agency (2025-01 to 2025-11)
+  Designed a mobile banking app for a global government agency in public sector using CI/CD, TypeScript, JavaScript and Node.js, improving conversion by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: UX Designer, QA Engineer, Mobile Engineer

@@ -1,0 +1,31 @@
+PRASAD PATIL
+Lead Engineering Manager | Engineering | Chennai, India
+Employee ID: EMP10298
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 12 years of experience, based in Chennai. Strong in People Leadership, System Design, Stakeholder Management and Communication, with recent work in insurance claims. Interested in moving towards Program Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 6.7y), Stakeholder Management (Advanced, 5.3y), Communication (Advanced, 2.5y), Agile/Scrum (Proficient, 4.3y), Mentoring (Proficient, 6.4y)
+- Software Engineering: System Design (Advanced, 9.5y)
+- Data & AI: Generative AI (Beginner, 1.4y)
+
+EXPERIENCE
+* Insurance Claims Pricing Engine — a leading insurer (2026-02 to present)
+  Scaled a pricing engine for a leading insurer in insurance claims using System Design, Communication and Agile/Scrum, improving conversion by 18%.
+* Retail Banking Self-service Portal — a US retail bank (2024-10 to 2025-11)
+  Designed a self-service portal for a US retail bank in retail banking using People Leadership, Communication and Mentoring, saving ~35K hours annually.
+* Payments Order Management System — a US payments provider (2023-06 to 2024-07)
+  Automated an order management system for a US payments provider in payments using People Leadership, Communication, Mentoring and Agile/Scrum, reducing processing time by 40%.
+* Insurance Claims Order Management System — a fast-growing insurer (2021-12 to 2023-05)
+  Migrated an order management system for a fast-growing insurer in insurance claims using Communication and People Leadership, reducing processing time by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Program Manager, Backend Engineer

@@ -1,0 +1,37 @@
+HARPREET PATIL
+Principal Site Reliability Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12278
+
+PROFESSIONAL SUMMARY
+Principal Site Reliability Engineer with 15.1 years of experience, based in Chennai. Strong in Linux Administration, Go, Site Reliability Engineering and Observability, with recent work in pharma R&D. Interested in moving towards DevOps Engineer roles and open to relocating to Austin.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Expert, 6.5y), Site Reliability Engineering (Advanced, 8.8y), Observability (Advanced, 10.6y), Kubernetes (Advanced, 7.9y), Terraform (Advanced, 7.0y), AWS (Proficient, 5.4y)
+- Software Engineering: Go (Expert, 15.1y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.3y), People Leadership (Advanced, 7.3y), Mentoring (Proficient, 7.8y)
+- Quality Engineering: Performance Testing (Proficient, 8.0y)
+- Security: Incident Response (Proficient, 8.2y)
+- Data & AI: MLOps (Proficient, 6.5y)
+
+EXPERIENCE
+* E-commerce Observability Stack — a fast-growing online retailer (2026-04 to present)
+  Migrated an observability stack for a fast-growing online retailer in e-commerce using Observability and AWS, accelerating releases by 40%.
+* Automotive Observability Stack — a US car maker (2024-11 to 2026-03)
+  Led the delivery of an observability stack for a US car maker in automotive using Go and MLOps, reducing production incidents by 35%.
+* Energy Trading Observability Stack — a global energy company (2023-05 to 2024-10)
+  Automated an observability stack for a global energy company in energy trading using Linux Administration and Mentoring, reducing production incidents by 35%.
+* Pharma R&D Kubernetes Platform — a European pharma company (2022-08 to 2023-04)
+  Led the delivery of a Kubernetes platform for a European pharma company in pharma R&D using AWS, Terraform and Kubernetes, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer

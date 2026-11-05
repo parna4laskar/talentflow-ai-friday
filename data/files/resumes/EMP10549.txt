@@ -1,0 +1,27 @@
+MANISH MENON
+Associate Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10549
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 2.6 years of experience, based in Bengaluru. Strong in GraphQL, Next.js, Microservices and TypeScript, with recent work in healthcare. Interested in moving towards Frontend Engineer, Software Architect roles and open to relocating to Austin, Kraków, Gurugram.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Advanced, 2.1y), Next.js (Proficient, 1.0y), Microservices (Proficient, 1.3y), TypeScript (Working, 1.2y), Angular (Working, 0.7y), Java (Working, 0.8y)
+- Data & AI: SQL (Working, 0.8y)
+- Cloud & DevOps: Docker (Working, 1.0y)
+
+EXPERIENCE
+* HR Tech Pricing Engine — an APAC HR software company (2025-11 to present)
+  Built a pricing engine for an APAC HR software company in HR tech using Angular, SQL and GraphQL, improving conversion by 12%.
+* Healthcare Pricing Engine — a fast-growing hospital network (2024-05 to 2025-09)
+  Scaled a pricing engine for a fast-growing hospital network in healthcare using Angular and Microservices, improving conversion by 25%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, Software Architect

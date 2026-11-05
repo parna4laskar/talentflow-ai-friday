@@ -1,0 +1,34 @@
+SWATI NAIDU
+Principal SAP Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP11484
+
+PROFESSIONAL SUMMARY
+Principal SAP Consultant with 21.4 years of experience, based in Bengaluru. Strong in SAP FICO, Business Analysis, SAP S/4HANA and Requirements Gathering, with recent work in pharma R&D. Interested in moving towards SAP Consultant, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Advanced, 17.1y), Business Analysis (Advanced, 3.3y), SAP S/4HANA (Advanced, 7.0y), Requirements Gathering (Advanced, 10.7y), Financial Analysis (Proficient, 14.7y), Process Improvement (Proficient, 5.5y), FP&A (Proficient, 10.0y)
+- Delivery & Leadership: Mentoring (Proficient, 6.6y), Stakeholder Management (Proficient, 12.1y)
+- Data & AI: Responsible AI (Working, 0.6y)
+
+EXPERIENCE
+* Energy Trading ERP Finance Rollout — a fast-growing energy company (2026-02 to present)
+  Modernised an ERP finance rollout for a fast-growing energy company in energy trading using SAP FICO and Financial Analysis, saving ~30K hours annually.
+* Pharma R&D CRM Rollout — a leading pharma company (2025-05 to 2025-11)
+  Built a CRM rollout for a leading pharma company in pharma R&D using Requirements Gathering, Mentoring, Process Improvement and FP&A, reducing processing time by 35%.
+* Pharma R&D CRM Rollout — a fast-growing pharma company (2024-09 to 2025-04)
+  Modernised a CRM rollout for a fast-growing pharma company in pharma R&D using Process Improvement and Mentoring, improving conversion by 40%.
+* Public Sector ERP Finance Rollout — a European government agency (2023-11 to 2024-07)
+  Automated an ERP finance rollout for a European government agency in public sector using Requirements Gathering, Stakeholder Management, FP&A and Financial Analysis, saving ~30K hours annually.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2023)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: SAP Consultant, Business Analyst, Financial Analyst

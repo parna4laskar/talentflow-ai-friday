@@ -1,0 +1,33 @@
+ROHAN MUKHERJEE
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12342
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3 years of experience, based in Hyderabad. Strong in SQL, Microservices, Java and REST API Design, with recent work in telecom billing. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.3y), Responsible AI (Working, 0.5y)
+- Software Engineering: Microservices (Advanced, 1.9y), Java (Proficient, 1.1y), REST API Design (Proficient, 1.0y), .NET Core (Working, 0.5y)
+- Cloud & DevOps: CI/CD (Proficient, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 1.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Customer Onboarding Platform — a fast-growing logistics company (2026-10 to present)
+  Re-architected a customer onboarding platform for a fast-growing logistics company in supply-chain logistics using CI/CD, Responsible AI, REST API Design and Java, reducing processing time by 35%.
+* E-commerce Order Management System — an APAC online retailer (2025-07 to 2026-08)
+  Re-architected an order management system for an APAC online retailer in e-commerce using Responsible AI, .NET Core and Communication, reducing processing time by 12%.
+* Telecom Billing Pricing Engine — a fast-growing telecom operator (2024-06 to 2025-07)
+  Scaled a pricing engine for a fast-growing telecom operator in telecom billing using Java, REST API Design and CI/CD, improving conversion by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: AI Engineer

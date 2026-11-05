@@ -1,0 +1,35 @@
+RADHIKA HEGDE
+Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11364
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 5.4 years of experience, based in Bengaluru. Strong in React, Playwright, TypeScript and JavaScript, with recent work in payments. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Proficient, 4.0y), TypeScript (Working, 2.6y), JavaScript (Working, 0.8y), GraphQL (Working, 2.5y)
+- Quality Engineering: Playwright (Proficient, 2.3y)
+- Product & Design: Figma (Working, 1.6y)
+- Cloud & DevOps: CI/CD (Working, 2.6y), Terraform (Working, 1.2y)
+
+EXPERIENCE
+* Payments Mobile Banking App — an APAC payments provider (2026-11 to present)
+  Migrated a mobile banking app for an APAC payments provider in payments using JavaScript and Terraform, lifting NPS by 40 points.
+* Retail Banking Customer Onboarding Platform — a fast-growing retail bank (2025-06 to 2026-08)
+  Scaled a customer onboarding platform for a fast-growing retail bank in retail banking using Terraform, JavaScript, Playwright and React, reducing processing time by 25%.
+* Payments Claims Processing Engine — a fast-growing payments provider (2024-06 to 2025-03)
+  Re-architected a claims processing engine for a fast-growing payments provider in payments using GraphQL and TypeScript, saving ~12K hours annually.
+* Payments Claims Processing Engine — a global payments provider (2023-01 to 2024-05)
+  Re-architected a claims processing engine for a global payments provider in payments using Figma and CI/CD, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2022)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, QA Engineer

@@ -1,0 +1,33 @@
+SEÁN MURPHY
+Principal AI Engineer | AI Center of Excellence | Dublin, Ireland
+Employee ID: EMP11274
+
+PROFESSIONAL SUMMARY
+Principal AI Engineer with 18.4 years of experience, based in Dublin. Strong in Python, Generative AI, LLM Engineering and NLP, with recent work in automotive. Interested in moving towards AI Engineer, Full Stack Engineer roles and open to relocating to Bengaluru, New York, Gurugram.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 18.4y)
+- Data & AI: Generative AI (Advanced, 4.0y), LLM Engineering (Advanced, 6.8y), NLP (Advanced, 3.5y), Vector Databases (Advanced, 2.9y)
+- Cloud & DevOps: Azure (Advanced, 5.2y)
+- Delivery & Leadership: Mentoring (Advanced, 2.3y), Communication (Advanced, 1.8y), Stakeholder Management (Proficient, 8.3y)
+
+EXPERIENCE
+* Manufacturing IoT Agentic Customer-service Assistant — a tier-1 manufacturer (2026-07 to present)
+  Automated an agentic customer-service assistant for a tier-1 manufacturer in manufacturing IoT using Azure and Communication, lifting NPS by 35 points.
+* Supply-chain Logistics Agentic Customer-service Assistant — a tier-1 logistics company (2025-10 to 2026-05)
+  Automated an agentic customer-service assistant for a tier-1 logistics company in supply-chain logistics using Vector Databases, Python and Generative AI, lifting NPS by 30 points.
+* Airline Operations Fraud Detection Model — a European airline (2024-06 to 2025-09)
+  Built a fraud detection model for a European airline in airline operations using Mentoring and Vector Databases, improving model accuracy by 25%.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2026)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Full Stack Engineer, Data Scientist

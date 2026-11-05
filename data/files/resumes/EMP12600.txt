@@ -1,0 +1,34 @@
+MOHAMMED HUGHES
+Senior Cloud Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12600
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 6.3 years of experience, based in London. Strong in Terraform, CI/CD, Azure and Linux Administration, with recent work in insurance claims. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 1.5y), CI/CD (Advanced, 6.1y), Azure (Proficient, 1.2y), Linux Administration (Proficient, 4.4y), Platform Engineering (Proficient, 3.5y), Kubernetes (Working, 2.5y), Site Reliability Engineering (Working, 0.3y)
+- Security: Cloud Security (Proficient, 4.1y)
+- Software Engineering: Python (Working, 2.1y)
+
+EXPERIENCE
+* Insurance Claims Data-centre Exit To Cloud — a European insurer (2025-11 to present)
+  Led the delivery of a data-centre exit to cloud for a European insurer in insurance claims using Cloud Security and Kubernetes, delivering $5M in cost savings.
+* Wealth Management Cloud Landing Zone — a leading wealth manager (2025-05 to 2025-10)
+  Re-architected a cloud landing zone for a leading wealth manager in wealth management using Platform Engineering, Azure and Linux Administration, cutting cloud spend by 40%.
+* Insurance Claims Observability Stack — a tier-1 insurer (2024-04 to 2025-03)
+  Migrated an observability stack for a tier-1 insurer in insurance claims using Python, Cloud Security, CI/CD and Linux Administration, accelerating releases by 40%.
+* Insurance Claims Observability Stack — a fast-growing insurer (2023-04 to 2024-03)
+  Migrated an observability stack for a fast-growing insurer in insurance claims using Site Reliability Engineering, Terraform, Python and Linux Administration, accelerating releases by 12%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2021)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect

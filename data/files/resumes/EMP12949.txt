@@ -1,0 +1,32 @@
+SOPHIE HUGHES
+Senior DevOps Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12949
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 9.3 years of experience, based in London. Strong in Kubernetes, Python, Responsible AI and CI/CD, with recent work in e-commerce. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 4.8y), CI/CD (Proficient, 1.9y), Docker (Proficient, 1.4y), AWS (Proficient, 2.6y), Observability (Working, 2.0y), Linux Administration (Working, 4.1y)
+- Software Engineering: Python (Advanced, 5.5y), Go (Working, 3.4y)
+- Data & AI: Responsible AI (Advanced, 3.7y)
+- Delivery & Leadership: Communication (Proficient, 1.0y)
+
+EXPERIENCE
+* E-commerce Cloud Landing Zone — a fast-growing online retailer (2026-06 to present)
+  Built a cloud landing zone for a fast-growing online retailer in e-commerce using Communication and Responsible AI, accelerating releases by 18%.
+* E-commerce Data-centre Exit To Cloud — a fast-growing online retailer (2025-06 to 2026-04)
+  Built a data-centre exit to cloud for a fast-growing online retailer in e-commerce using Observability and Responsible AI, delivering $6M in cost savings.
+* Energy Trading Cloud Landing Zone — a European energy company (2024-02 to 2025-04)
+  Led the delivery of a cloud landing zone for a European energy company in energy trading using Go and Kubernetes, cutting cloud spend by 18%.
+* Wealth Management Kubernetes Platform — a fast-growing wealth manager (2022-07 to 2024-01)
+  Designed a Kubernetes platform for a fast-growing wealth manager in wealth management using Docker and Communication, accelerating releases by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Cloud Engineer

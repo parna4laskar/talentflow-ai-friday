@@ -1,0 +1,29 @@
+VARUN JOSHI
+Senior Security Engineer | Cyber Security | Hyderabad, India
+Employee ID: EMP11242
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 10.6 years of experience, based in Hyderabad. Strong in Kubernetes, Application Security, Threat Modeling and Identity & Access Management, with recent work in wealth management. Interested in moving towards Security Analyst roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 3.2y), AWS (Proficient, 4.8y), FinOps (Beginner, 1.9y)
+- Security: Application Security (Proficient, 2.4y), Threat Modeling (Proficient, 3.4y), Identity & Access Management (Proficient, 4.3y), Incident Response (Proficient, 3.9y), GRC (Working, 2.4y), Cloud Security (Beginner, 2.2y)
+- Delivery & Leadership: Communication (Working, 2.1y)
+
+EXPERIENCE
+* Payments Cloud Security Posture Programme — a fast-growing payments provider (2026-07 to present)
+  Led the delivery of a cloud security posture programme for a fast-growing payments provider in payments using Identity & Access Management, Communication and Cloud Security, reducing production incidents by 30%.
+* Wealth Management Identity and Access Platform — a global wealth manager (2025-06 to 2026-05)
+  Re-architected an identity and access platform for a global wealth manager in wealth management using Cloud Security, AWS, Identity & Access Management and Threat Modeling, reducing production incidents by 18%.
+* Wealth Management Security Operations Centre Uplift — an APAC wealth manager (2024-12 to 2025-05)
+  Scaled a security operations centre uplift for an APAC wealth manager in wealth management using Communication, Cloud Security and Application Security, closing 35% of open audit findings.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Security Analyst

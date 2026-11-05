@@ -1,0 +1,32 @@
+RAJESH WONG
+Lead SAP Consultant | Enterprise Applications | Singapore, Singapore
+Employee ID: EMP12414
+
+PROFESSIONAL SUMMARY
+Lead SAP Consultant with 12.8 years of experience, based in Singapore. Strong in SAP FICO, Business Analysis, Requirements Gathering and Communication, with recent work in retail banking. Interested in moving towards Financial Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Advanced, 9.6y), Business Analysis (Advanced, 5.1y), Requirements Gathering (Advanced, 2.2y), SAP S/4HANA (Proficient, 0.4y)
+- Delivery & Leadership: Communication (Advanced, 5.5y), Mentoring (Working, 0.5y)
+- Quality Engineering: Playwright (Working, 0.7y)
+
+EXPERIENCE
+* Retail Banking Service Desk Automation — a global retail bank (2026-03 to present)
+  Re-architected a service desk automation for a global retail bank in retail banking using SAP FICO and Communication, saving ~30K hours annually.
+* Healthcare Service Desk Automation — a global hospital network (2024-12 to 2025-12)
+  Scaled a service desk automation for a global hospital network in healthcare using Playwright, Mentoring, Requirements Gathering and Communication, reducing processing time by 12%.
+* Retail Banking ERP Finance Rollout — a European retail bank (2024-03 to 2024-11)
+  Designed an ERP finance rollout for a European retail bank in retail banking using Mentoring and SAP FICO, saving ~12K hours annually.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2021)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Financial Analyst

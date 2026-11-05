@@ -1,0 +1,30 @@
+TEJAS JOSHI
+Lead Software Architect | Engineering | Pune, India
+Employee ID: EMP11785
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 9.7 years of experience, based in Pune. Strong in Microservices, System Design, Python and GCP, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, DevOps Engineer roles and open to relocating to Chennai, Singapore, New York.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 8.3y), System Design (Advanced, 5.4y), Python (Advanced, 9.0y), REST API Design (Advanced, 9.7y), Kafka (Advanced, 0.7y)
+- Cloud & DevOps: GCP (Advanced, 1.2y)
+- Security: Cloud Security (Advanced, 7.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.2y), People Leadership (Advanced, 8.0y), Mentoring (Working, 0.9y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — a European manufacturer (2025-09 to present)
+  Migrated a claims processing engine for a European manufacturer in manufacturing IoT using System Design and Mentoring, saving ~35K hours annually.
+* Manufacturing IoT Claims Processing Engine — a fast-growing manufacturer (2024-04 to 2025-07)
+  Migrated a claims processing engine for a fast-growing manufacturer in manufacturing IoT using GCP and Mentoring, saving ~18K hours annually.
+* Manufacturing IoT Order Management System — a US manufacturer (2022-08 to 2024-02)
+  Re-architected an order management system for a US manufacturer in manufacturing IoT using Stakeholder Management and Microservices, reducing processing time by 30%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager, DevOps Engineer

@@ -1,0 +1,29 @@
+MARIA RODRIGUEZ
+Associate DevOps Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP11796
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.2 years of experience, based in Austin. Strong in GCP, CI/CD, Observability and Docker, with recent work in wealth management. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 1.4y), CI/CD (Proficient, 0.9y), Observability (Proficient, 0.8y), Docker (Working, 1.1y), Kubernetes (Working, 0.4y), Terraform (Working, 1.0y)
+- Software Engineering: Python (Working, 0.4y), Go (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Data-centre Exit To Cloud — a European wealth manager (2026-08 to present)
+  Built a data-centre exit to cloud for a European wealth manager in wealth management using Docker and CI/CD, cutting cloud spend by 25%.
+* Wealth Management Observability Stack — a global wealth manager (2025-07 to 2026-07)
+  Re-architected an observability stack for a global wealth manager in wealth management using Terraform, Go, GCP and CI/CD, accelerating releases by 25%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Platform Engineer, Backend Engineer, Cloud Engineer

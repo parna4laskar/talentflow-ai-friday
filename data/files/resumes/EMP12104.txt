@@ -1,0 +1,28 @@
+JESSICA GOKHALE
+Associate Cloud Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP12104
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 1.7 years of experience, based in Austin. Strong in AWS, Terraform, Linux Administration and Platform Engineering, with recent work in healthcare. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to New York, Singapore.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 1.4y), Terraform (Proficient, 1.0y), Linux Administration (Working, 0.5y), Platform Engineering (Working, 0.5y), Kubernetes (Beginner, 0.3y), Site Reliability Engineering (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Kubernetes Platform — a European manufacturer (2025-10 to present)
+  Designed a Kubernetes platform for a European manufacturer in manufacturing IoT using Linux Administration, AWS, Site Reliability Engineering and Kubernetes, accelerating releases by 30%.
+* E-commerce Observability Stack — a leading online retailer (2024-05 to 2025-08)
+  Led the delivery of an observability stack for a leading online retailer in e-commerce using Linux Administration, Site Reliability Engineering, Terraform and AWS, accelerating releases by 18%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer, DevOps Engineer, Platform Engineer

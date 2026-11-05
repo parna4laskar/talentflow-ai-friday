@@ -1,0 +1,29 @@
+EOIN DOYLE
+Senior Data Analyst | Data & Analytics | Dublin, Ireland
+Employee ID: EMP11780
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 6.1 years of experience, based in Dublin. Strong in SQL, Data Visualization, Power BI and Stakeholder Management, with recent work in supply-chain logistics. Interested in moving towards Financial Analyst, Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 1.8y), Data Visualization (Advanced, 4.3y), Power BI (Advanced, 0.7y), Snowflake (Proficient, 4.1y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.5y), Change Management (Proficient, 2.8y)
+- Software Engineering: Python (Working, 1.9y)
+
+EXPERIENCE
+* Supply-chain Logistics Customer Churn Model — a fast-growing logistics company (2025-11 to present)
+  Built a customer churn model for a fast-growing logistics company in supply-chain logistics using Snowflake, Power BI, SQL and Stakeholder Management, improving conversion by 30%.
+* Supply-chain Logistics Real-time Analytics Pipeline — a European logistics company (2024-09 to 2025-09)
+  Led the delivery of a real-time analytics pipeline for a European logistics company in supply-chain logistics using Python, Change Management, Power BI and Snowflake, reducing processing time by 40%.
+* HR Tech Real-time Analytics Pipeline — a fast-growing HR software company (2023-08 to 2024-07)
+  Automated a real-time analytics pipeline for a fast-growing HR software company in HR tech using Change Management and Data Visualization, cutting cloud spend by 25%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Financial Analyst, Business Analyst

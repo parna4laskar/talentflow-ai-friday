@@ -1,0 +1,30 @@
+AAROHI NAIDU
+Lead QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP11727
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 12.1 years of experience, based in Pune. Strong in API Testing, Test Automation, Java and Python, with recent work in payments. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 8.5y), Test Automation (Advanced, 1.6y), Selenium (Proficient, 1.1y)
+- Software Engineering: Java (Advanced, 9.2y), Python (Advanced, 11.0y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 12.1y), Mentoring (Working, 4.3y)
+- Cloud & DevOps: CI/CD (Proficient, 6.1y)
+
+EXPERIENCE
+* Public Sector API Contract-testing Suite — a European government agency (2026-05 to present)
+  Migrated an API contract-testing suite for a European government agency in public sector using Agile/Scrum and Selenium, reducing production incidents by 30%.
+* Wealth Management Test Automation Framework — a leading wealth manager (2025-05 to 2026-04)
+  Modernised a test automation framework for a leading wealth manager in wealth management using Mentoring, API Testing and CI/CD, raising automated test coverage to 70%.
+* Payments API Contract-testing Suite — a European payments provider (2023-09 to 2025-03)
+  Re-architected an API contract-testing suite for a European payments provider in payments using Test Automation, Agile/Scrum, CI/CD and Python, reducing production incidents by 25%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer

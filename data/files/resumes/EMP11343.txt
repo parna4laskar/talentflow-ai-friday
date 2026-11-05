@@ -1,0 +1,27 @@
+GURPREET PAWAR
+Associate Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11343
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.1 years of experience, based in Bengaluru. Strong in Angular, SQL, TypeScript and Java, with recent work in wealth management. Interested in moving towards Backend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 1.1y), TypeScript (Working, 0.4y), Java (Working, 0.3y), Kafka (Working, 0.4y), Next.js (Beginner, 0.3y), Microservices (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.6y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Self-service Portal — a global wealth manager (2026-05 to present)
+  Migrated a self-service portal for a global wealth manager in wealth management using Next.js, TypeScript, Java and Kafka, lifting NPS by 12 points.
+* Wealth Management Order Management System — an APAC wealth manager (2024-08 to 2026-02)
+  Automated an order management system for an APAC wealth manager in wealth management using SQL, Communication and Java, reducing processing time by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Mobile Engineer, AI Engineer

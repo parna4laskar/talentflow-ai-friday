@@ -1,0 +1,33 @@
+ZOYA IYER
+Lead Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11798
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 12.1 years of experience, based in Bengaluru. Strong in Python, REST API Design, SQL and Microservices, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 2.4y), Stakeholder Management (Advanced, 5.1y), Communication (Advanced, 6.8y)
+- Software Engineering: Python (Advanced, 1.7y), REST API Design (Advanced, 1.3y), Microservices (Advanced, 8.7y), Kafka (Advanced, 6.6y), Spring Boot (Advanced, 10.2y), .NET Core (Proficient, 7.2y), GraphQL (Proficient, 5.6y)
+- Data & AI: SQL (Advanced, 7.7y)
+- Cloud & DevOps: AWS (Proficient, 3.7y)
+
+EXPERIENCE
+* Airline Operations Pricing Engine — a global airline (2025-10 to present)
+  Designed a pricing engine for a global airline in airline operations using Kafka, .NET Core, SQL and Python, improving conversion by 30%.
+* Energy Trading Customer Onboarding Platform — a European energy company (2025-01 to 2025-07)
+  Scaled a customer onboarding platform for a European energy company in energy trading using GraphQL, Spring Boot and Microservices, reducing processing time by 40%.
+* Manufacturing IoT Order Management System — a global manufacturer (2024-05 to 2025-01)
+  Designed an order management system for a global manufacturer in manufacturing IoT using GraphQL and REST API Design, onboarding 5 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Software Architect, Full Stack Engineer

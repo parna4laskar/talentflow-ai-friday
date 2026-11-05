@@ -1,0 +1,32 @@
+SANJANA GARCIA
+AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP12145
+
+PROFESSIONAL SUMMARY
+AI Engineer with 4.2 years of experience, based in Pune. Strong in LLM Engineering, Python, Responsible AI and Generative AI, with recent work in e-commerce. Interested in moving towards AI Engineer, Full Stack Engineer roles and open to relocating to Gurugram, Chennai, Dublin.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Advanced, 2.8y), Responsible AI (Proficient, 1.9y), Generative AI (Working, 1.6y), Agentic AI (Working, 1.0y)
+- Software Engineering: Python (Proficient, 1.3y), REST API Design (Beginner, 0.9y)
+- Business & Finance: Regulatory Compliance (Beginner, 0.5y)
+
+EXPERIENCE
+* E-commerce Recommendation Engine — a fast-growing online retailer (2026-02 to present)
+  Modernised a recommendation engine for a fast-growing online retailer in e-commerce using Responsible AI, Agentic AI, REST API Design and Regulatory Compliance, improving model accuracy by 35%.
+* Pharma R&D Recommendation Engine — a leading pharma company (2024-12 to 2026-02)
+  Designed a recommendation engine for a leading pharma company in pharma R&D using REST API Design and Generative AI, improving model accuracy by 12%.
+* E-commerce Document Intelligence Pipeline — a leading online retailer (2023-09 to 2024-11)
+  Re-architected a document intelligence pipeline for a leading online retailer in e-commerce using Regulatory Compliance, LLM Engineering, Agentic AI and Responsible AI, saving ~22K hours annually.
+
+CERTIFICATIONS
+- Google Generative AI Leader (2022)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Full Stack Engineer

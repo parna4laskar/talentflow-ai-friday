@@ -1,0 +1,31 @@
+FARHAN MALHOTRA
+Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10544
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.7 years of experience, based in Bengaluru. Strong in TypeScript, JavaScript, React and GraphQL, with recent work in retail banking. Interested in moving towards QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.4y), JavaScript (Proficient, 0.9y), React (Proficient, 1.8y), GraphQL (Proficient, 1.3y), Node.js (Working, 0.8y), Next.js (Working, 0.9y)
+- Product & Design: Design Systems (Proficient, 2.8y)
+- Data & AI: Generative AI (Proficient, 2.3y)
+
+EXPERIENCE
+* Retail Banking Pricing Engine — a global retail bank (2025-08 to present)
+  Migrated a pricing engine for a global retail bank in retail banking using Next.js, Node.js, GraphQL and React, reducing processing time by 25%.
+* Airline Operations Order Management System — a fast-growing airline (2024-09 to 2025-06)
+  Led the delivery of an order management system for a fast-growing airline in airline operations using GraphQL and Node.js, reducing processing time by 18%.
+* Retail Banking Customer Onboarding Platform — an APAC retail bank (2024-02 to 2024-07)
+  Led the delivery of a customer onboarding platform for an APAC retail bank in retail banking using Design Systems, Generative AI and Next.js, lifting NPS by 30 points.
+* E-commerce Mobile Banking App — a European online retailer (2023-05 to 2024-01)
+  Automated a mobile banking app for a European online retailer in e-commerce using Node.js and Design Systems, lifting NPS by 30 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer

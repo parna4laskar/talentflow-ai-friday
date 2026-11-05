@@ -1,0 +1,34 @@
+DANIEL WILLIAMS
+Principal Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12880
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 17.5 years of experience, based in London. Strong in SQL, Java, REST API Design and Microservices, with recent work in HR tech. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 12.1y)
+- Software Engineering: Java (Advanced, 12.4y), REST API Design (Advanced, 10.3y), Microservices (Advanced, 9.8y), .NET Core (Advanced, 6.9y), Spring Boot (Advanced, 4.7y), Kafka (Proficient, 2.4y)
+- Cloud & DevOps: CI/CD (Advanced, 10.6y), Kubernetes (Advanced, 4.9y)
+- Delivery & Leadership: Mentoring (Advanced, 4.2y), Stakeholder Management (Advanced, 12.0y), Communication (Advanced, 6.2y)
+- Quality Engineering: Playwright (Proficient, 7.8y)
+
+EXPERIENCE
+* Telecom Billing Payments Microservices Platform — a tier-1 telecom operator (2026-08 to present)
+  Designed a payments microservices platform for a tier-1 telecom operator in telecom billing using Communication and REST API Design, reducing production incidents by 18%.
+* Insurance Claims Order Management System — a European insurer (2025-03 to 2026-06)
+  Built an order management system for a European insurer in insurance claims using Java, Playwright, Stakeholder Management and Kafka, onboarding 2 new enterprise clients.
+* HR Tech Customer Onboarding Platform — an APAC HR software company (2023-09 to 2024-12)
+  Designed a customer onboarding platform for an APAC HR software company in HR tech using Java, .NET Core, REST API Design and CI/CD, improving conversion by 40%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer

@@ -1,0 +1,27 @@
+RADHIKA BHAT
+Associate Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP10945
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 1.4 years of experience, based in Pune. Strong in Statistics, SQL, Data Visualization and Python, with recent work in automotive. Interested in moving towards AI Engineer, Product Manager roles and open to relocating to Chennai, Toronto, Gurugram.
+
+CORE SKILLS
+- Data & AI: Statistics (Proficient, 0.6y), SQL (Proficient, 0.7y), Data Visualization (Proficient, 0.9y), Machine Learning (Working, 0.5y), MLOps (Beginner, 0.3y), Apache Spark (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.4y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Media Streaming Customer Churn Model — a global streaming platform (2026-04 to present)
+  Modernised a customer churn model for a global streaming platform in media streaming using MLOps, Python and Statistics, improving model accuracy by 12%.
+* Pharma R&D Data Lakehouse — a global pharma company (2025-06 to 2026-03)
+  Led the delivery of a data lakehouse for a global pharma company in pharma R&D using Communication and Python, reducing processing time by 40%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Product Manager, ML Engineer

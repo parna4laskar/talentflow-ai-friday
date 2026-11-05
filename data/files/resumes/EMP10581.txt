@@ -1,0 +1,29 @@
+SEÁN O'BRIEN
+Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP10581
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.6 years of experience, based in Dublin. Strong in REST API Design, SQL, Microservices and System Design, with recent work in HR tech. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 3.7y), Microservices (Proficient, 2.3y), System Design (Proficient, 1.9y), .NET Core (Proficient, 1.7y), Go (Working, 2.1y)
+- Data & AI: SQL (Proficient, 1.3y), Agentic AI (Beginner, 0.8y)
+- Cloud & DevOps: Kubernetes (Proficient, 2.6y), AWS (Working, 2.1y), CI/CD (Working, 1.3y)
+
+EXPERIENCE
+* HR Tech Order Management System — a European HR software company (2026-01 to present)
+  Built an order management system for a European HR software company in HR tech using SQL, System Design and REST API Design, onboarding 4 new enterprise clients.
+* Supply-chain Logistics Order Management System — a US logistics company (2024-05 to 2025-10)
+  Designed an order management system for a US logistics company in supply-chain logistics using AWS, Go, System Design and Microservices, reducing processing time by 18%.
+* HR Tech Self-service Portal — a leading HR software company (2023-06 to 2024-03)
+  Built a self-service portal for a leading HR software company in HR tech using Go, SQL and Kubernetes, lifting NPS by 18 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Engineering Manager, Software Architect

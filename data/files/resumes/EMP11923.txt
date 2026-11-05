@@ -1,0 +1,30 @@
+WEI JIE WONG
+Lead Engineering Manager | Engineering | Singapore, Singapore
+Employee ID: EMP11923
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 9.1 years of experience, based in Singapore. Strong in People Leadership, Agile/Scrum, Stakeholder Management and Mentoring, with recent work in manufacturing IoT. Interested in moving towards Backend Engineer, Scrum Master roles and open to relocating to Austin, New York.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 1.3y), Agile/Scrum (Advanced, 0.8y), Stakeholder Management (Advanced, 2.4y), Mentoring (Advanced, 5.2y), Communication (Proficient, 2.5y)
+- Software Engineering: System Design (Proficient, 4.6y), Microservices (Proficient, 1.9y)
+
+EXPERIENCE
+* Manufacturing IoT Pricing Engine — a leading manufacturer (2026-08 to present)
+  Migrated a pricing engine for a leading manufacturer in manufacturing IoT using People Leadership and Microservices, reducing processing time by 35%.
+* Manufacturing IoT Claims Processing Engine — a leading manufacturer (2025-11 to 2026-05)
+  Led the delivery of a claims processing engine for a leading manufacturer in manufacturing IoT using People Leadership, Communication, Agile/Scrum and Microservices, saving ~25K hours annually.
+* Automotive Customer Onboarding Platform — a tier-1 car maker (2024-05 to 2025-10)
+  Modernised a customer onboarding platform for a tier-1 car maker in automotive using Mentoring, People Leadership, Communication and Microservices, improving conversion by 22%.
+* Media Streaming Self-service Portal — a tier-1 streaming platform (2023-09 to 2024-03)
+  Re-architected a self-service portal for a tier-1 streaming platform in media streaming using Communication and Mentoring, lifting NPS by 25 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Scrum Master, Software Architect

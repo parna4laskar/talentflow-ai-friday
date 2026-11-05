@@ -1,0 +1,28 @@
+YASH SHEIKH
+Associate Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12921
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 0.9 years of experience, based in Pune. Strong in Kubernetes, Linux Administration, Terraform and Go, with recent work in retail banking. Interested in moving towards Security Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Proficient, 0.4y), Linux Administration (Proficient, 0.5y), Terraform (Proficient, 0.5y), Site Reliability Engineering (Working, 0.3y), Observability (Working, 0.3y), AWS (Working, 0.3y)
+- Software Engineering: Go (Proficient, 0.5y), Python (Working, 0.4y)
+- Quality Engineering: Performance Testing (Beginner, 0.3y)
+- Data & AI: LLM Engineering (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Cloud Landing Zone — a US retail bank (2026-11 to present)
+  Led the delivery of a cloud landing zone for a US retail bank in retail banking using Python, Linux Administration, LLM Engineering and Terraform, cutting cloud spend by 30%.
+* HR Tech Cloud Landing Zone — a leading HR software company (2026-02 to 2026-10)
+  Built a cloud landing zone for a leading HR software company in HR tech using Terraform, Kubernetes, Go and LLM Engineering, cutting cloud spend by 30%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Security Engineer, Cloud Engineer

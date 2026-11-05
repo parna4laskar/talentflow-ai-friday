@@ -1,0 +1,28 @@
+VENKAT O'BRIEN
+Associate Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11669
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.6 years of experience, based in Hyderabad. Strong in Angular, Python, SQL and People Analytics, with recent work in telecom billing. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Proficient, 0.5y), Python (Proficient, 1.0y), TypeScript (Working, 0.6y), Microservices (Beginner, 0.3y), Node.js (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 1.1y)
+- People & Marketing: People Analytics (Proficient, 0.5y)
+- Cloud & DevOps: Docker (Working, 0.7y), AWS (Beginner, 0.3y)
+
+EXPERIENCE
+* Media Streaming Pricing Engine — a fast-growing streaming platform (2026-10 to present)
+  Modernised a pricing engine for a fast-growing streaming platform in media streaming using TypeScript, Node.js, Angular and Python, improving conversion by 22%.
+* HR Tech Self-service Portal — an APAC HR software company (2025-10 to 2026-09)
+  Re-architected a self-service portal for an APAC HR software company in HR tech using Node.js and Microservices, lifting NPS by 40 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer

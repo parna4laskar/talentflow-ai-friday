@@ -1,0 +1,33 @@
+LIAM JOHNSON
+Lead Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP10558
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 14.1 years of experience, based in New York. Strong in Python, SQL, Data Engineering and Snowflake, with recent work in public sector. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 9.0y)
+- Data & AI: SQL (Advanced, 3.3y), Data Engineering (Advanced, 9.2y), Snowflake (Advanced, 9.0y), Airflow (Proficient, 8.5y), Data Governance (Proficient, 8.6y)
+- Cloud & DevOps: AWS (Proficient, 5.8y), FinOps (Proficient, 10.1y)
+- Delivery & Leadership: Mentoring (Proficient, 3.1y), Stakeholder Management (Proficient, 2.2y)
+
+EXPERIENCE
+* Public Sector Regulatory Reporting Suite — a global government agency (2026-01 to present)
+  Modernised a regulatory reporting suite for a global government agency in public sector using Snowflake, AWS, FinOps and Data Governance, reducing processing time by 25%.
+* Public Sector Real-time Analytics Pipeline — a fast-growing government agency (2024-10 to 2025-12)
+  Built a real-time analytics pipeline for a fast-growing government agency in public sector using AWS and Airflow, cutting cloud spend by 35%.
+* Retail Banking Real-time Analytics Pipeline — a US retail bank (2024-01 to 2024-08)
+  Modernised a real-time analytics pipeline for a US retail bank in retail banking using SQL, Python and Data Governance, cutting cloud spend by 40%.
+
+CERTIFICATIONS
+- SnowPro Core (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer

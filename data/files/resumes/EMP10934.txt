@@ -1,0 +1,30 @@
+PRIYA KHAN
+Lead Data Scientist | Data & Analytics | Gurugram, India
+Employee ID: EMP10934
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 15.7 years of experience, based in Gurugram. Strong in Machine Learning, Statistics, Python and SQL, with recent work in manufacturing IoT. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 6.5y)
+- Data & AI: Machine Learning (Advanced, 8.9y), Statistics (Advanced, 12.3y), SQL (Proficient, 7.5y), Generative AI (Proficient, 7.9y), MLOps (Proficient, 1.6y)
+- Software Engineering: Python (Proficient, 3.9y)
+- Cloud & DevOps: CI/CD (Proficient, 10.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Data Lakehouse — an APAC logistics company (2026-05 to present)
+  Modernised a data lakehouse for an APAC logistics company in supply-chain logistics using Machine Learning and MLOps, cutting cloud spend by 22%.
+* Telecom Billing Regulatory Reporting Suite — a fast-growing telecom operator (2025-10 to 2026-03)
+  Built a regulatory reporting suite for a fast-growing telecom operator in telecom billing using Python, MLOps and Statistics, saving ~25K hours annually.
+* Manufacturing IoT Real-time Analytics Pipeline — a leading manufacturer (2025-01 to 2025-09)
+  Led the delivery of a real-time analytics pipeline for a leading manufacturer in manufacturing IoT using MLOps and Machine Learning, cutting cloud spend by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist, Product Manager, Data Analyst, ML Engineer

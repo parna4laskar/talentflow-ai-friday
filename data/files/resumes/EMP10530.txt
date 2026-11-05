@@ -1,0 +1,33 @@
+ZOYA NAIR
+Lead DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10530
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 15.3 years of experience, based in Bengaluru. Strong in Kubernetes, CI/CD, Docker and Azure, with recent work in HR tech. Interested in moving towards Backend Engineer, Platform Engineer roles and open to relocating to New York, Austin.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 2.7y), CI/CD (Advanced, 4.4y), Docker (Advanced, 11.7y), Azure (Advanced, 9.0y), Terraform (Proficient, 5.5y), FinOps (Proficient, 9.2y)
+- Software Engineering: Python (Proficient, 11.0y), Go (Proficient, 3.0y)
+- Data & AI: Machine Learning (Proficient, 1.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 7.0y), Communication (Proficient, 6.2y), Mentoring (Working, 0.5y)
+
+EXPERIENCE
+* Automotive Observability Stack — a global car maker (2026-03 to present)
+  Designed an observability stack for a global car maker in automotive using Python and Mentoring, accelerating releases by 18%.
+* HR Tech Observability Stack — a tier-1 HR software company (2025-02 to 2026-01)
+  Built an observability stack for a tier-1 HR software company in HR tech using Stakeholder Management and FinOps, accelerating releases by 22%.
+* Insurance Claims Kubernetes Platform — a US insurer (2023-08 to 2024-12)
+  Automated a Kubernetes platform for a US insurer in insurance claims using Docker and Go, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2025)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Platform Engineer

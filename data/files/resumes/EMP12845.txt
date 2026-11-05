@@ -1,0 +1,31 @@
+KRZYSZTOF WÓJCIK
+Associate QA Engineer | Quality Engineering | Kraków, Poland
+Employee ID: EMP12845
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2 years of experience, based in Kraków. Strong in API Testing, Test Automation, Selenium and CI/CD, with recent work in payments. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Proficient, 1.4y), Test Automation (Working, 0.3y), Selenium (Working, 1.0y)
+- Cloud & DevOps: CI/CD (Working, 0.9y)
+- Software Engineering: Java (Working, 0.8y), Spring Boot (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Payments API Contract-testing Suite — a global payments provider (2025-10 to present)
+  Scaled an API contract-testing suite for a global payments provider in payments using Spring Boot and API Testing, raising automated test coverage to 70%.
+* Telecom Billing API Contract-testing Suite — a US telecom operator (2024-03 to 2025-08)
+  Scaled an API contract-testing suite for a US telecom operator in telecom billing using Java, Test Automation, Communication and API Testing, reducing production incidents by 12%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer

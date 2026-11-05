@@ -1,0 +1,34 @@
+NEHA DAS
+Senior Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11305
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 6.7 years of experience, based in Bengaluru. Strong in Terraform, Linux Administration, AWS and Platform Engineering, with recent work in payments. Interested in moving towards Site Reliability Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 3.3y), Linux Administration (Advanced, 3.3y), AWS (Proficient, 1.0y), Platform Engineering (Proficient, 0.6y), FinOps (Proficient, 4.5y), Kubernetes (Beginner, 0.3y)
+- Security: Cloud Security (Proficient, 3.3y)
+
+EXPERIENCE
+* Energy Trading CI/CD Platform — a leading energy company (2026-09 to present)
+  Modernised a CI/CD platform for a leading energy company in energy trading using Platform Engineering, FinOps, Kubernetes and AWS, accelerating releases by 25%.
+* E-commerce Kubernetes Platform — a global online retailer (2025-06 to 2026-07)
+  Migrated a Kubernetes platform for a global online retailer in e-commerce using Linux Administration, Platform Engineering and AWS, reducing production incidents by 22%.
+* Public Sector CI/CD Platform — a leading government agency (2023-11 to 2025-03)
+  Automated a CI/CD platform for a leading government agency in public sector using FinOps, AWS, Kubernetes and Cloud Security, accelerating releases by 40%.
+* Insurance Claims Data-centre Exit To Cloud — a global insurer (2022-03 to 2023-09)
+  Built a data-centre exit to cloud for a global insurer in insurance claims using Platform Engineering and AWS, delivering $4M in cost savings.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2024)
+- Google Professional Cloud Architect (2024)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer, Software Architect, Platform Engineer

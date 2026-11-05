@@ -1,0 +1,28 @@
+POOJA DESHPANDE
+Associate QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP12295
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 1.5 years of experience, based in Bengaluru. Strong in Test Automation, Playwright, API Testing and SQL, with recent work in payments. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Working, 0.4y), Playwright (Working, 0.4y), API Testing (Working, 0.5y)
+- Data & AI: SQL (Working, 0.5y), Data Visualization (Working, 0.5y)
+- Software Engineering: Python (Working, 0.7y), Java (Beginner, 0.3y)
+- Delivery & Leadership: Agile/Scrum (Working, 0.4y)
+
+EXPERIENCE
+* Payments Performance Engineering Programme — a US payments provider (2026-03 to present)
+  Scaled a performance engineering programme for a US payments provider in payments using Test Automation, Agile/Scrum, Python and API Testing, accelerating releases by 25%.
+* Energy Trading API Contract-testing Suite — a leading energy company (2024-09 to 2026-03)
+  Scaled an API contract-testing suite for a leading energy company in energy trading using Python and Java, reducing production incidents by 18%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer

@@ -1,0 +1,30 @@
+ETHAN GARCIA
+Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11116
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.5 years of experience, based in New York. Strong in Linux Administration, Terraform, FinOps and Kubernetes, with recent work in wealth management. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 1.5y), Terraform (Proficient, 1.3y), FinOps (Proficient, 1.5y), Kubernetes (Proficient, 1.4y), CI/CD (Proficient, 0.8y), AWS (Working, 1.2y), Docker (Working, 1.1y)
+- Security: Cloud Security (Proficient, 1.9y), Identity & Access Management (Working, 0.3y)
+
+EXPERIENCE
+* Public Sector CI/CD Platform — a European government agency (2025-12 to present)
+  Re-architected a CI/CD platform for a European government agency in public sector using Linux Administration, Terraform, Kubernetes and Docker, accelerating releases by 22%.
+* Retail Banking Kubernetes Platform — a European retail bank (2024-05 to 2025-11)
+  Automated a Kubernetes platform for a European retail bank in retail banking using Docker and CI/CD, accelerating releases by 25%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2024)
+- Google Professional Cloud Architect (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Platform Engineer, Site Reliability Engineer

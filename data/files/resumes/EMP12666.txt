@@ -1,0 +1,35 @@
+BHAVANA JOSHI
+Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP12666
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.9 years of experience, based in Chennai. Strong in Playwright, JavaScript, Communication and TypeScript, with recent work in energy trading. Interested in moving towards Frontend Engineer, Mobile Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Advanced, 3.2y)
+- Software Engineering: JavaScript (Proficient, 2.5y), TypeScript (Working, 1.5y), Angular (Working, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 2.5y)
+- Product & Design: Figma (Working, 1.7y)
+
+EXPERIENCE
+* Energy Trading Claims Processing Engine — a European energy company (2026-03 to present)
+  Scaled a claims processing engine for a European energy company in energy trading using Angular and JavaScript, reducing processing time by 35%.
+* Energy Trading Self-service Portal — an APAC energy company (2025-08 to 2026-01)
+  Built a self-service portal for an APAC energy company in energy trading using Playwright and Figma, saving ~12K hours annually.
+* Automotive Self-service Portal — a tier-1 car maker (2024-03 to 2025-07)
+  Scaled a self-service portal for a tier-1 car maker in automotive using Angular, Playwright and Figma, saving ~25K hours annually.
+* Energy Trading Pricing Engine — a global energy company (2023-06 to 2024-03)
+  Scaled a pricing engine for a global energy company in energy trading using Angular, JavaScript, Communication and Playwright, improving conversion by 35%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Frontend Engineer, Mobile Engineer, Full Stack Engineer

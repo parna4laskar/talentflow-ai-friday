@@ -1,0 +1,28 @@
+MARIA WASHINGTON
+Senior Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10491
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 9.3 years of experience, based in New York. Strong in Linux Administration, Azure, Terraform and Python, with recent work in payments. Interested in moving towards Cloud Engineer, Software Architect roles and open to relocating to London, Bengaluru, Austin.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 4.4y), Azure (Proficient, 4.8y), Terraform (Proficient, 5.8y), CI/CD (Working, 2.1y), AWS (Working, 1.7y), Platform Engineering (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 6.5y)
+
+EXPERIENCE
+* Payments CI/CD Platform — a leading payments provider (2026-06 to present)
+  Built a CI/CD platform for a leading payments provider in payments using Platform Engineering and Linux Administration, accelerating releases by 12%.
+* Payments Data-centre Exit To Cloud — a European payments provider (2025-04 to 2026-05)
+  Migrated a data-centre exit to cloud for a European payments provider in payments using Platform Engineering and Python, delivering $6M in cost savings.
+* Energy Trading CI/CD Platform — a US energy company (2024-07 to 2025-02)
+  Scaled a CI/CD platform for a US energy company in energy trading using Platform Engineering, Azure and Python, accelerating releases by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, Software Architect, DevOps Engineer

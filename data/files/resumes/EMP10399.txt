@@ -1,0 +1,29 @@
+PARNA PATEL
+Senior Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10399
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 7.9 years of experience, based in Hyderabad. Strong in Terraform, GCP, Linux Administration and Python, with recent work in payments. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 4.8y), GCP (Advanced, 6.1y), Linux Administration (Advanced, 1.6y), CI/CD (Proficient, 3.5y)
+- Software Engineering: Python (Proficient, 4.0y)
+- Data & AI: Machine Learning (Beginner, 0.7y)
+
+EXPERIENCE
+* Media Streaming Data-centre Exit To Cloud — an APAC streaming platform (2026-01 to present)
+  Led the delivery of a data-centre exit to cloud for an APAC streaming platform in media streaming using Machine Learning, GCP and Linux Administration, cutting cloud spend by 25%.
+* Payments Observability Stack — an APAC payments provider (2024-07 to 2025-12)
+  Built an observability stack for an APAC payments provider in payments using Linux Administration, CI/CD, Python and Machine Learning, reducing production incidents by 25%.
+* Automotive Data-centre Exit To Cloud — a leading car maker (2022-12 to 2024-04)
+  Modernised a data-centre exit to cloud for a leading car maker in automotive using Terraform, Machine Learning and GCP, delivering $5M in cost savings.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, Site Reliability Engineer, Software Architect, Platform Engineer

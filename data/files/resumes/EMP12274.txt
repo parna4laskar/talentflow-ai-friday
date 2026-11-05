@@ -1,0 +1,29 @@
+PRANAV VERMA
+Associate Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP12274
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 2.5 years of experience, based in Pune. Strong in Angular, Node.js, AWS and Docker, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Proficient, 1.7y), Node.js (Proficient, 1.6y), REST API Design (Proficient, 0.8y), TypeScript (Working, 1.2y), Next.js (Working, 0.3y), System Design (Working, 1.1y), GraphQL (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Proficient, 0.5y), Docker (Proficient, 1.1y)
+- Data & AI: SQL (Working, 0.7y)
+- Security: Cloud Security (Working, 0.8y)
+- Delivery & Leadership: Communication (Working, 1.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Customer Onboarding Platform — a US logistics company (2026-09 to present)
+  Automated a customer onboarding platform for a US logistics company in supply-chain logistics using Angular, Cloud Security and Next.js, reducing processing time by 30%.
+* Supply-chain Logistics Customer Onboarding Platform — a leading logistics company (2025-03 to 2026-06)
+  Modernised a customer onboarding platform for a leading logistics company in supply-chain logistics using GraphQL, SQL and Angular, improving conversion by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer

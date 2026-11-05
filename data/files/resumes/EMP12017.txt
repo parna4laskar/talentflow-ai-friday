@@ -1,0 +1,27 @@
+KARTHIK GOKHALE
+Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP12017
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.5 years of experience, based in Pune. Strong in JavaScript, Angular, GraphQL and TypeScript, with recent work in telecom billing. Interested in moving towards UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Proficient, 1.1y), Angular (Proficient, 1.8y), GraphQL (Proficient, 0.4y), TypeScript (Working, 1.2y)
+- Quality Engineering: Playwright (Working, 0.8y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+
+EXPERIENCE
+* Telecom Billing Self-service Portal — a US telecom operator (2026-11 to present)
+  Built a self-service portal for a US telecom operator in telecom billing using Angular, TypeScript and Playwright, saving ~30K hours annually.
+* Telecom Billing Mobile Banking App — an APAC telecom operator (2025-10 to 2026-09)
+  Built a mobile banking app for an APAC telecom operator in telecom billing using TypeScript, Angular, Communication and Playwright, lifting NPS by 18 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: UX Designer

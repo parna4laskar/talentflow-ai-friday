@@ -1,0 +1,30 @@
+LUCAS TREMBLAY
+Lead DevOps Engineer | Cloud & Infrastructure | Toronto, Canada
+Employee ID: EMP10907
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 10.3 years of experience, based in Toronto. Strong in CI/CD, Docker, Azure and Observability, with recent work in airline operations. Interested in moving towards Backend Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 10.3y), Docker (Advanced, 1.2y), Azure (Advanced, 5.3y), Observability (Proficient, 3.7y), Kubernetes (Working, 2.2y), Terraform (Working, 1.2y)
+- Software Engineering: Go (Proficient, 3.2y)
+- Delivery & Leadership: Mentoring (Proficient, 3.3y), Stakeholder Management (Working, 0.4y)
+- Data & AI: MLOps (Working, 0.6y)
+
+EXPERIENCE
+* Insurance Claims Cloud Landing Zone — a leading insurer (2026-06 to present)
+  Migrated a cloud landing zone for a leading insurer in insurance claims using Azure and Observability, accelerating releases by 18%.
+* Wealth Management Cloud Landing Zone — a US wealth manager (2024-10 to 2026-03)
+  Designed a cloud landing zone for a US wealth manager in wealth management using Observability, CI/CD, MLOps and Go, accelerating releases by 40%.
+* Wealth Management Kubernetes Platform — a fast-growing wealth manager (2023-07 to 2024-08)
+  Scaled a Kubernetes platform for a fast-growing wealth manager in wealth management using Observability, Docker and Stakeholder Management, cutting cloud spend by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Platform Engineer

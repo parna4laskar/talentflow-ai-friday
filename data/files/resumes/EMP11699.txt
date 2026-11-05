@@ -1,0 +1,32 @@
+ARVIND REDDY
+Senior DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11699
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 10.5 years of experience, based in Hyderabad. Strong in GCP, Docker, Kubernetes and Linux Administration, with recent work in healthcare. Interested in moving towards DevOps Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 7.2y), Docker (Proficient, 4.3y), Kubernetes (Proficient, 3.0y), Linux Administration (Proficient, 1.1y), Terraform (Proficient, 2.6y), CI/CD (Working, 4.4y)
+
+EXPERIENCE
+* Healthcare Cloud Landing Zone — a US hospital network (2026-07 to present)
+  Built a cloud landing zone for a US hospital network in healthcare using GCP and Terraform, accelerating releases by 35%.
+* Healthcare CI/CD Platform — a US hospital network (2025-03 to 2026-05)
+  Designed a CI/CD platform for a US hospital network in healthcare using Terraform, CI/CD and GCP, accelerating releases by 40%.
+* Pharma R&D Kubernetes Platform — a global pharma company (2023-10 to 2025-02)
+  Scaled a Kubernetes platform for a global pharma company in pharma R&D using Terraform, GCP, Docker and Kubernetes, accelerating releases by 25%.
+* Airline Operations Data-centre Exit To Cloud — a US airline (2022-11 to 2023-08)
+  Designed a data-centre exit to cloud for a US airline in airline operations using Docker, CI/CD and Kubernetes, delivering $5M in cost savings.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Cloud Engineer, Site Reliability Engineer, Platform Engineer

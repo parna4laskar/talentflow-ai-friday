@@ -1,0 +1,30 @@
+RITESH MUKHERJEE
+Senior QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP10106
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 6 years of experience, based in Hyderabad. Strong in Test Automation, API Testing, Playwright and SQL, with recent work in automotive. Interested in moving towards Backend Engineer roles and open to relocating to Chennai, Toronto.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 0.5y), API Testing (Advanced, 3.9y), Playwright (Proficient, 2.8y)
+- Data & AI: SQL (Proficient, 0.5y), MLOps (Working, 2.2y)
+- Delivery & Leadership: Communication (Proficient, 1.8y)
+- Cloud & DevOps: CI/CD (Working, 0.7y)
+
+EXPERIENCE
+* HR Tech API Contract-testing Suite — a US HR software company (2025-11 to present)
+  Designed an API contract-testing suite for a US HR software company in HR tech using SQL, API Testing, MLOps and Test Automation, reducing production incidents by 35%.
+* Automotive Performance Engineering Programme — a leading car maker (2024-07 to 2025-09)
+  Migrated a performance engineering programme for a leading car maker in automotive using Test Automation, Playwright and CI/CD, reducing production incidents by 22%.
+* Automotive Performance Engineering Programme — a US car maker (2023-09 to 2024-05)
+  Built a performance engineering programme for a US car maker in automotive using Communication, CI/CD and Test Automation, reducing production incidents by 35%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer

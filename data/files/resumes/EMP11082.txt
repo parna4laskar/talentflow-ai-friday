@@ -1,0 +1,30 @@
+CIARA MUKHERJEE
+Senior Frontend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP11082
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 7.3 years of experience, based in Dublin. Strong in JavaScript, TypeScript, React and CI/CD, with recent work in e-commerce. Interested in moving towards QA Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 2.0y), TypeScript (Proficient, 3.3y), React (Proficient, 3.3y), Node.js (Proficient, 2.4y)
+- Cloud & DevOps: CI/CD (Proficient, 4.9y), Terraform (Proficient, 0.8y)
+- Product & Design: Design Systems (Proficient, 4.5y)
+- Quality Engineering: Playwright (Working, 2.4y)
+
+EXPERIENCE
+* E-commerce Customer Onboarding Platform — a leading online retailer (2026-09 to present)
+  Built a customer onboarding platform for a leading online retailer in e-commerce using TypeScript and Playwright, improving conversion by 12%.
+* Supply-chain Logistics Order Management System — a tier-1 logistics company (2025-12 to 2026-07)
+  Modernised an order management system for a tier-1 logistics company in supply-chain logistics using React, JavaScript, CI/CD and Node.js, reducing processing time by 30%.
+* E-commerce Payments Microservices Platform — an APAC online retailer (2024-10 to 2025-11)
+  Re-architected a payments microservices platform for an APAC online retailer in e-commerce using Node.js and Playwright, accelerating releases by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer, Full Stack Engineer

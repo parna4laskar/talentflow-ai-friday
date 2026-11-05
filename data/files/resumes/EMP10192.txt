@@ -1,0 +1,32 @@
+NURUL CHUA
+Principal Financial Analyst | Finance | Singapore, Singapore
+Employee ID: EMP10192
+
+PROFESSIONAL SUMMARY
+Principal Financial Analyst with 21.4 years of experience, based in Singapore. Strong in Financial Analysis, FP&A, Financial Modeling and Risk Management, with recent work in HR tech. Interested in moving towards Business Analyst, Data Analyst roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Business & Finance: Financial Analysis (Expert, 8.8y), FP&A (Advanced, 20.9y), Financial Modeling (Advanced, 13.1y), Risk Management (Advanced, 16.9y)
+- Data & AI: Power BI (Advanced, 11.0y), SQL (Advanced, 19.9y), Snowflake (Proficient, 6.1y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.0y), People Leadership (Advanced, 3.0y)
+- Cloud & DevOps: Terraform (Proficient, 4.7y)
+
+EXPERIENCE
+* Media Streaming Risk Control Framework — a global streaming platform (2026-03 to present)
+  Built a risk control framework for a global streaming platform in media streaming using Power BI, FP&A, SQL and Stakeholder Management, closing 25% of open audit findings.
+* Media Streaming Regulatory Capital Reporting — a tier-1 streaming platform (2025-08 to 2026-03)
+  Owned a regulatory capital reporting for a tier-1 streaming platform in media streaming using Financial Analysis, Stakeholder Management, SQL and Snowflake, reducing processing time by 25%.
+* HR Tech Cost Transformation Programme — a European HR software company (2024-07 to 2025-07)
+  Owned a cost transformation programme for a European HR software company in HR tech using Snowflake and SQL, delivering $8M in cost savings.
+* Media Streaming Risk Control Framework — a global streaming platform (2023-07 to 2024-05)
+  Redesigned a risk control framework for a global streaming platform in media streaming using FP&A and Stakeholder Management, closing 12% of open audit findings.
+
+EDUCATION
+- MSc Finance
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst, Data Analyst

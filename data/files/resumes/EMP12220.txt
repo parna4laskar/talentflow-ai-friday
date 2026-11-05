@@ -1,0 +1,32 @@
+MADISON JOHNSON
+Associate Backend Engineer | Engineering | New York, United States
+Employee ID: EMP12220
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.8 years of experience, based in New York. Strong in Go, REST API Design, SQL and Microservices, with recent work in energy trading. Interested in moving towards Engineering Manager, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Go (Proficient, 1.2y), REST API Design (Proficient, 0.7y), Microservices (Working, 0.9y), Kafka (Working, 0.7y), .NET Core (Working, 0.7y)
+- Data & AI: SQL (Working, 0.8y)
+- Cloud & DevOps: FinOps (Working, 0.6y), CI/CD (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Order Management System — a European manufacturer (2026-08 to present)
+  Automated an order management system for a European manufacturer in manufacturing IoT using .NET Core and FinOps, reducing processing time by 30%.
+* Airline Operations Payments Microservices Platform — a leading airline (2025-07 to 2026-08)
+  Led the delivery of a payments microservices platform for a leading airline in airline operations using CI/CD and Go, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Engineering Manager, Full Stack Engineer

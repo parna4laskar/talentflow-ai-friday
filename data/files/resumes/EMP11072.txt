@@ -1,0 +1,28 @@
+ZHI HAO LIM
+Associate QA Engineer | Quality Engineering | Singapore, Singapore
+Employee ID: EMP11072
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2.2 years of experience, based in Singapore. Strong in API Testing, Python, Test Automation and Selenium, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Proficient, 1.5y), Test Automation (Working, 1.0y), Selenium (Working, 0.3y), Performance Testing (Beginner, 0.3y), Playwright (Beginner, 0.4y)
+- Software Engineering: Python (Proficient, 1.4y), Java (Working, 0.8y)
+- Data & AI: SQL (Working, 0.6y)
+- Delivery & Leadership: Agile/Scrum (Beginner, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Performance Engineering Programme — a leading logistics company (2025-07 to present)
+  Automated a performance engineering programme for a leading logistics company in supply-chain logistics using Java, API Testing, Playwright and SQL, reducing production incidents by 25%.
+* Supply-chain Logistics Test Automation Framework — a leading logistics company (2024-04 to 2025-05)
+  Re-architected a test automation framework for a leading logistics company in supply-chain logistics using SQL and Python, accelerating releases by 40%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Full Stack Engineer, Backend Engineer

@@ -1,0 +1,35 @@
+PRASAD SHEIKH
+Lead Financial Analyst | Finance | Pune, India
+Employee ID: EMP10420
+
+PROFESSIONAL SUMMARY
+Lead Financial Analyst with 15 years of experience, based in Pune. Strong in Financial Analysis, Financial Modeling, Power BI and Risk Management, with recent work in manufacturing IoT. Interested in moving towards Financial Analyst, Risk & Compliance Analyst roles and open to relocating to Singapore, Austin, Gurugram.
+
+CORE SKILLS
+- Business & Finance: Financial Analysis (Advanced, 3.8y), Financial Modeling (Advanced, 5.1y), Risk Management (Advanced, 0.8y), FP&A (Proficient, 3.4y)
+- Data & AI: Power BI (Advanced, 7.5y)
+- Cloud & DevOps: Terraform (Proficient, 6.0y)
+- Delivery & Leadership: Mentoring (Proficient, 5.3y)
+
+EXPERIENCE
+* Insurance Claims Rolling Forecasting Model — a tier-1 insurer (2026-08 to present)
+  Led a rolling forecasting model for a tier-1 insurer in insurance claims using Power BI, Financial Analysis, Financial Modeling and Risk Management, saving ~35K hours annually.
+* Manufacturing IoT Risk Control Framework — a European manufacturer (2025-04 to 2026-07)
+  Built a risk control framework for a European manufacturer in manufacturing IoT using Terraform, Risk Management, Financial Analysis and FP&A, closing 30% of open audit findings.
+* Manufacturing IoT Cost Transformation Programme — a fast-growing manufacturer (2024-07 to 2025-03)
+  Owned a cost transformation programme for a fast-growing manufacturer in manufacturing IoT using Power BI, Terraform and FP&A, delivering $3M in cost savings.
+* Manufacturing IoT Cost Transformation Programme — a European manufacturer (2023-11 to 2024-05)
+  Redesigned a cost transformation programme for a European manufacturer in manufacturing IoT using FP&A, Power BI and Financial Modeling, delivering $5M in cost savings.
+
+CERTIFICATIONS
+- CFA Level II (2021)
+
+EDUCATION
+- MSc Finance
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Financial Analyst, Risk & Compliance Analyst, Business Analyst

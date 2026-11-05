@@ -1,0 +1,36 @@
+ARJUN RAO
+Lead Program Manager | Delivery Excellence | Hyderabad, India
+Employee ID: EMP12991
+
+PROFESSIONAL SUMMARY
+Lead Program Manager with 12.5 years of experience, based in Hyderabad. Strong in Risk Management, Program Management, Vendor Management and Agile/Scrum, with recent work in payments. Interested in moving towards Engineering Manager, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Risk Management (Expert, 7.1y)
+- Delivery & Leadership: Program Management (Advanced, 11.0y), Vendor Management (Advanced, 2.8y), Agile/Scrum (Advanced, 12.1y), Stakeholder Management (Proficient, 1.2y), Change Management (Proficient, 4.9y), Communication (Proficient, 2.4y), People Leadership (Proficient, 3.7y), Mentoring (Proficient, 3.7y)
+- Security: GRC (Proficient, 5.5y)
+- Data & AI: Databricks (Proficient, 7.4y)
+
+EXPERIENCE
+* HR Tech Core Banking Transformation Programme — an APAC HR software company (2026-04 to present)
+  Delivered a core banking transformation programme for an APAC HR software company in HR tech using Change Management and People Leadership, delivering $6M in cost savings.
+* Payments Process Re-engineering Initiative — a tier-1 payments provider (2025-05 to 2026-04)
+  Delivered a process re-engineering initiative for a tier-1 payments provider in payments using Risk Management, Change Management and Stakeholder Management, reducing processing time by 30%.
+* Payments Cloud Migration Programme — a global payments provider (2024-01 to 2025-04)
+  Led a cloud migration programme for a global payments provider in payments using Program Management, People Leadership, Databricks and Agile/Scrum, cutting cloud spend by 22%.
+* Payments Cloud Migration Programme — a global payments provider (2022-11 to 2023-11)
+  Delivered a cloud migration programme for a global payments provider in payments using Risk Management, Communication and Stakeholder Management, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- PgMP (2026)
+- PMP (2025)
+
+EDUCATION
+- B.E. Mechanical
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Account Manager

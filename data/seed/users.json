@@ -1,0 +1,37 @@
+[
+ {
+  "username": "hr.admin",
+  "display_name": "Ritu Malhotra",
+  "role": "hr_admin",
+  "employee_id": null,
+  "title": "HR Admin – Talent Mobility"
+ },
+ {
+  "username": "hiring.manager",
+  "display_name": "Rohan Brown",
+  "role": "hiring_manager",
+  "employee_id": "EMP12449",
+  "title": "Lead ML Engineer"
+ },
+ {
+  "username": "hiring.manager2",
+  "display_name": "Farhan Bhat",
+  "role": "hiring_manager",
+  "employee_id": "EMP10464",
+  "title": "Lead AI Engineer"
+ },
+ {
+  "username": "employee",
+  "display_name": "Nathan Gagnon",
+  "role": "employee",
+  "employee_id": "EMP11592",
+  "title": "Senior Backend Engineer"
+ },
+ {
+  "username": "leader",
+  "display_name": "Arvind Krishnan",
+  "role": "leadership",
+  "employee_id": null,
+  "title": "Chief People Officer"
+ }
+]

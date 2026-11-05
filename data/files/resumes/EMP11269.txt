@@ -1,0 +1,27 @@
+IMRAN MALHOTRA
+Associate Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11269
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.6 years of experience, based in Hyderabad. Strong in REST API Design, Microservices, Go and SQL, with recent work in energy trading. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 0.8y), Microservices (Proficient, 0.5y), Go (Working, 0.8y), .NET Core (Working, 0.6y), Kafka (Working, 0.5y)
+- Data & AI: SQL (Working, 0.5y)
+- Cloud & DevOps: Docker (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Mobile Banking App — an APAC telecom operator (2026-02 to present)
+  Led the delivery of a mobile banking app for an APAC telecom operator in telecom billing using Go, Kafka, .NET Core and Docker, lifting NPS by 35 points.
+* HR Tech Mobile Banking App — a European HR software company (2025-04 to 2025-11)
+  Automated a mobile banking app for a European HR software company in HR tech using SQL, REST API Design and .NET Core, improving conversion by 18%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, AI Engineer, Engineering Manager

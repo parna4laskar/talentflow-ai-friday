@@ -1,0 +1,30 @@
+BHAVANA KRISHNAN
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11986
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.4 years of experience, based in Pune. Strong in Java, SQL, Microservices and Kafka, with recent work in healthcare. Interested in moving towards DevOps Engineer, AI Engineer roles and open to relocating to Toronto, New York, Chennai.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 4.0y), Microservices (Advanced, 7.9y), Kafka (Advanced, 7.2y), REST API Design (Proficient, 2.9y), Spring Boot (Proficient, 3.0y), System Design (Proficient, 5.4y), GraphQL (Working, 1.5y)
+- Data & AI: SQL (Advanced, 5.3y)
+- People & Marketing: People Analytics (Proficient, 3.1y)
+- Cloud & DevOps: Kubernetes (Working, 2.9y)
+
+EXPERIENCE
+* Retail Banking Payments Microservices Platform — a tier-1 retail bank (2026-09 to present)
+  Automated a payments microservices platform for a tier-1 retail bank in retail banking using Kafka, System Design, SQL and Kubernetes, reducing processing time by 40%.
+* Airline Operations Pricing Engine — an APAC airline (2025-12 to 2026-07)
+  Automated a pricing engine for an APAC airline in airline operations using Kubernetes, Microservices, Spring Boot and Java, reducing processing time by 40%.
+* Energy Trading Order Management System — an APAC energy company (2024-11 to 2025-11)
+  Migrated an order management system for an APAC energy company in energy trading using System Design and REST API Design, onboarding 8 new enterprise clients.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, AI Engineer

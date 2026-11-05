@@ -1,0 +1,31 @@
+PARNA BOSE
+Principal Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP10519
+
+PROFESSIONAL SUMMARY
+Principal Data Scientist with 20.6 years of experience, based in Bengaluru. Strong in Machine Learning, Statistics, NLP and Python, with recent work in energy trading. Interested in moving towards Data Scientist, Data Analyst roles and open to relocating to Austin, Singapore.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Expert, 20.6y), Statistics (Expert, 15.2y), NLP (Expert, 16.7y), SQL (Advanced, 9.0y), Generative AI (Advanced, 1.5y)
+- Software Engineering: Python (Advanced, 12.6y)
+- Quality Engineering: Playwright (Proficient, 6.4y)
+
+EXPERIENCE
+* Energy Trading Data Lakehouse — a European energy company (2025-10 to present)
+  Led the delivery of a data lakehouse for a European energy company in energy trading using NLP, Python, Statistics and Playwright, reducing processing time by 35%.
+* Insurance Claims Executive KPI Dashboard Suite — a US insurer (2024-02 to 2025-08)
+  Migrated an executive KPI dashboard suite for a US insurer in insurance claims using Statistics, Python and NLP, saving ~12K hours annually.
+* Energy Trading Executive KPI Dashboard Suite — an APAC energy company (2022-10 to 2023-11)
+  Led the delivery of an executive KPI dashboard suite for an APAC energy company in energy trading using Playwright and Python, saving ~40K hours annually.
+* Energy Trading Executive KPI Dashboard Suite — a tier-1 energy company (2022-03 to 2022-09)
+  Led the delivery of an executive KPI dashboard suite for a tier-1 energy company in energy trading using Python, Generative AI, SQL and Machine Learning, improving forecast accuracy by 35%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Scientist, Data Analyst

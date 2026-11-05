@@ -1,0 +1,30 @@
+JESSICA O'BRIEN
+Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP10827
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.2 years of experience, based in New York. Strong in React, TypeScript, Node.js and REST API Design, with recent work in telecom billing. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 2.6y), TypeScript (Proficient, 3.5y), Node.js (Proficient, 2.0y), REST API Design (Proficient, 2.3y), GraphQL (Proficient, 3.1y), Microservices (Working, 0.9y)
+- Cloud & DevOps: Docker (Proficient, 1.5y), AWS (Working, 2.1y)
+- Data & AI: SQL (Working, 2.0y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Telecom Billing Claims Processing Engine — a US telecom operator (2025-12 to present)
+  Scaled a claims processing engine for a US telecom operator in telecom billing using Node.js, React and TypeScript, saving ~12K hours annually.
+* Wealth Management Customer Onboarding Platform — a European wealth manager (2024-06 to 2025-12)
+  Led the delivery of a customer onboarding platform for a European wealth manager in wealth management using Microservices, Communication and Docker, lifting NPS by 40 points.
+* Payments Claims Processing Engine — a leading payments provider (2023-11 to 2024-05)
+  Re-architected a claims processing engine for a leading payments provider in payments using REST API Design and Microservices, reducing processing time by 30%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Mobile Engineer

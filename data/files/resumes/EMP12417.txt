@@ -1,0 +1,35 @@
+SAURABH CHATTERJEE
+Senior Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12417
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 6.2 years of experience, based in Bengaluru. Strong in Snowflake, SQL, Python and Data Engineering, with recent work in manufacturing IoT. Interested in moving towards Data Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Snowflake (Advanced, 2.6y), SQL (Proficient, 0.4y), Data Engineering (Proficient, 1.7y), Airflow (Proficient, 2.1y), Databricks (Proficient, 2.5y), dbt (Working, 1.8y)
+- Software Engineering: Python (Proficient, 1.6y)
+- Delivery & Leadership: Communication (Proficient, 3.1y)
+- Cloud & DevOps: FinOps (Working, 2.8y)
+
+EXPERIENCE
+* Telecom Billing Data Lakehouse — a European telecom operator (2026-06 to present)
+  Modernised a data lakehouse for a European telecom operator in telecom billing using Data Engineering and dbt, cutting cloud spend by 25%.
+* Manufacturing IoT Regulatory Reporting Suite — a US manufacturer (2025-08 to 2026-03)
+  Led the delivery of a regulatory reporting suite for a US manufacturer in manufacturing IoT using Python, Communication and SQL, saving ~25K hours annually.
+* HR Tech Real-time Analytics Pipeline — a leading HR software company (2025-01 to 2025-07)
+  Re-architected a real-time analytics pipeline for a leading HR software company in HR tech using Airflow, Python and Communication, reducing processing time by 18%.
+* Retail Banking Customer Churn Model — a fast-growing retail bank (2023-05 to 2024-11)
+  Designed a customer churn model for a fast-growing retail bank in retail banking using Airflow and Databricks, improving conversion by 35%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, AI Engineer, Data Analyst, Backend Engineer

@@ -1,0 +1,35 @@
+SWATI NAIR
+Lead Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11860
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 13.9 years of experience, based in Gurugram. Strong in JavaScript, React, TypeScript and Next.js, with recent work in public sector. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Expert, 7.7y), React (Expert, 2.5y), TypeScript (Advanced, 12.1y), Next.js (Advanced, 4.0y)
+- Delivery & Leadership: Mentoring (Advanced, 2.7y)
+- Cloud & DevOps: CI/CD (Proficient, 0.5y)
+- Data & AI: Responsible AI (Proficient, 6.2y)
+
+EXPERIENCE
+* Public Sector Order Management System — a global government agency (2026-03 to present)
+  Led the delivery of an order management system for a global government agency in public sector using TypeScript and Responsible AI, reducing processing time by 35%.
+* Public Sector Payments Microservices Platform — a leading government agency (2024-12 to 2025-12)
+  Designed a payments microservices platform for a leading government agency in public sector using CI/CD, JavaScript, TypeScript and React, accelerating releases by 40%.
+* Public Sector Order Management System — a European government agency (2023-07 to 2024-11)
+  Re-architected an order management system for a European government agency in public sector using TypeScript and Mentoring, reducing processing time by 40%.
+* Public Sector Claims Processing Engine — a European government agency (2022-11 to 2023-06)
+  Modernised a claims processing engine for a European government agency in public sector using Next.js, JavaScript, CI/CD and TypeScript, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2023)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, QA Engineer, Full Stack Engineer

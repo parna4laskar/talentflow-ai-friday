@@ -1,0 +1,30 @@
+NATHAN ROY
+Associate Business Analyst | Business Consulting | Toronto, Canada
+Employee ID: EMP10208
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 1.4 years of experience, based in Toronto. Strong in Requirements Gathering, SQL, Power BI and Business Analysis, with recent work in airline operations. Interested in moving towards Scrum Master, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Proficient, 0.5y), Business Analysis (Working, 0.3y), Salesforce (Working, 0.6y)
+- Data & AI: SQL (Proficient, 1.0y), Power BI (Proficient, 0.5y), dbt (Beginner, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.5y), Communication (Working, 0.5y), Agile/Scrum (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Cloud Migration Programme — a European wealth manager (2025-12 to present)
+  Delivered a cloud migration programme for a European wealth manager in wealth management using Stakeholder Management, Requirements Gathering, Business Analysis and Communication, cutting cloud spend by 25%.
+* Airline Operations Requirements and UAT for a CRM Rollout — a leading airline (2025-05 to 2025-10)
+  Coordinated a requirements and UAT for a CRM rollout for a leading airline in airline operations using Agile/Scrum and Requirements Gathering, reducing processing time by 22%.
+
+CERTIFICATIONS
+- CBAP (2025)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Scrum Master, CRM Consultant

@@ -1,0 +1,35 @@
+TANVI SUBRAMANIAN
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP12258
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 8.4 years of experience, based in Hyderabad. Strong in System Design, Microservices, Python and Azure, with recent work in telecom billing. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to London, Dublin, Singapore.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 0.9y), Microservices (Advanced, 5.9y), Python (Advanced, 7.7y), REST API Design (Proficient, 0.5y)
+- Cloud & DevOps: Azure (Advanced, 6.2y), Kubernetes (Advanced, 6.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 2.4y), Mentoring (Proficient, 1.3y), People Leadership (Beginner, 1.5y)
+
+EXPERIENCE
+* Healthcare Self-service Portal — a European hospital network (2025-10 to present)
+  Built a self-service portal for a European hospital network in healthcare using Azure, Microservices, REST API Design and Stakeholder Management, saving ~25K hours annually.
+* Wealth Management Customer Onboarding Platform — a global wealth manager (2024-12 to 2025-08)
+  Designed a customer onboarding platform for a global wealth manager in wealth management using Mentoring, Kubernetes, Python and Stakeholder Management, improving conversion by 12%.
+* Insurance Claims Pricing Engine — a US insurer (2023-12 to 2024-11)
+  Scaled a pricing engine for a US insurer in insurance claims using People Leadership, Azure and Mentoring, reducing processing time by 22%.
+* Telecom Billing Self-service Portal — a global telecom operator (2022-08 to 2023-09)
+  Scaled a self-service portal for a global telecom operator in telecom billing using Kubernetes, System Design, REST API Design and Mentoring, saving ~18K hours annually.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2025)
+- TOGAF 10 (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer, DevOps Engineer

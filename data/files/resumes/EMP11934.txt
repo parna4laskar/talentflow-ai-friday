@@ -1,0 +1,34 @@
+JANHAVI KHAN
+Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP11934
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4.3 years of experience, based in Hyderabad. Strong in SQL, Data Engineering, Databricks and Data Visualization, with recent work in wealth management. Interested in moving towards AI Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 4.1y), Data Engineering (Proficient, 1.0y), Databricks (Proficient, 2.3y), Data Visualization (Proficient, 1.1y), Apache Spark (Working, 0.5y), dbt (Working, 1.8y), Data Governance (Working, 0.7y), Airflow (Working, 0.8y)
+- Software Engineering: Python (Working, 2.1y)
+- Cloud & DevOps: Terraform (Beginner, 0.8y)
+
+EXPERIENCE
+* Energy Trading Executive KPI Dashboard Suite — a leading energy company (2026-05 to present)
+  Built an executive KPI dashboard suite for a leading energy company in energy trading using Airflow and SQL, saving ~12K hours annually.
+* Supply-chain Logistics Customer Churn Model — a US logistics company (2024-09 to 2026-03)
+  Scaled a customer churn model for a US logistics company in supply-chain logistics using Data Engineering, Terraform and Apache Spark, improving conversion by 40%.
+* Wealth Management Executive KPI Dashboard Suite — an APAC wealth manager (2023-07 to 2024-08)
+  Re-architected an executive KPI dashboard suite for an APAC wealth manager in wealth management using Databricks and Data Visualization, improving forecast accuracy by 35%.
+* Energy Trading Regulatory Reporting Suite — a global energy company (2022-04 to 2023-07)
+  Migrated a regulatory reporting suite for a global energy company in energy trading using dbt and Apache Spark, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, ML Engineer

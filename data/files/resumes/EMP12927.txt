@@ -1,0 +1,34 @@
+FÉLIX MACDONALD
+Lead Software Architect | Engineering | Toronto, Canada
+Employee ID: EMP12927
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 10.9 years of experience, based in Toronto. Strong in Stakeholder Management, System Design, Microservices and Azure, with recent work in insurance claims. Interested in moving towards Software Architect, Engineering Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 10.9y), People Leadership (Expert, 1.9y), Communication (Proficient, 4.8y)
+- Software Engineering: System Design (Advanced, 4.5y), Microservices (Advanced, 2.9y), REST API Design (Advanced, 9.4y), Kafka (Advanced, 1.5y), Python (Working, 1.3y)
+- Cloud & DevOps: Azure (Advanced, 1.3y), Kubernetes (Proficient, 3.0y)
+
+EXPERIENCE
+* Automotive Claims Processing Engine — a fast-growing car maker (2025-11 to present)
+  Scaled a claims processing engine for a fast-growing car maker in automotive using Communication and Microservices, reducing processing time by 40%.
+* Energy Trading Self-service Portal — a global energy company (2025-05 to 2025-10)
+  Re-architected a self-service portal for a global energy company in energy trading using Azure, REST API Design, Microservices and Kubernetes, lifting NPS by 30 points.
+* Media Streaming Payments Microservices Platform — a fast-growing streaming platform (2024-05 to 2025-02)
+  Led the delivery of a payments microservices platform for a fast-growing streaming platform in media streaming using Communication, Stakeholder Management and REST API Design, reducing production incidents by 25%.
+* Wealth Management Pricing Engine — a US wealth manager (2023-04 to 2024-02)
+  Scaled a pricing engine for a US wealth manager in wealth management using Azure, Communication and Microservices, reducing processing time by 40%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2021)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, Engineering Manager

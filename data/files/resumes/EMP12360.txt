@@ -1,0 +1,27 @@
+RAHUL REDDY
+Associate Platform Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12360
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 1.4 years of experience, based in Hyderabad. Strong in CI/CD, Site Reliability Engineering, Kubernetes and Terraform, with recent work in public sector. Interested in moving towards Platform Engineer, Backend Engineer roles and open to relocating to Dublin, New York, London.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 0.8y), Site Reliability Engineering (Proficient, 0.5y), Kubernetes (Working, 0.6y), Terraform (Working, 0.5y), Observability (Working, 0.6y), AWS (Working, 0.4y), Platform Engineering (Beginner, 0.3y)
+- Software Engineering: Go (Working, 0.5y), Python (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Cloud Landing Zone — a US logistics company (2026-05 to present)
+  Scaled a cloud landing zone for a US logistics company in supply-chain logistics using Python, AWS, Go and Platform Engineering, accelerating releases by 35%.
+* Pharma R&D Kubernetes Platform — a US pharma company (2025-07 to 2026-04)
+  Scaled a Kubernetes platform for a US pharma company in pharma R&D using Terraform and Communication, cutting cloud spend by 18%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer, Backend Engineer, DevOps Engineer, Cloud Engineer

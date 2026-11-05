@@ -1,0 +1,27 @@
+SIDDHARTH PAWAR
+Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10713
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.2 years of experience, based in Bengaluru. Strong in TypeScript, Angular, Java and SQL, with recent work in pharma R&D. Interested in moving towards Backend Engineer, Mobile Engineer roles and open to relocating to Toronto, Pune, Dublin.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 1.1y), Angular (Proficient, 1.3y), Java (Proficient, 0.6y), Microservices (Proficient, 0.8y), Next.js (Working, 0.6y), Node.js (Working, 1.1y)
+- Data & AI: SQL (Proficient, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 0.5y)
+
+EXPERIENCE
+* Pharma R&D Self-service Portal — a US pharma company (2026-04 to present)
+  Re-architected a self-service portal for a US pharma company in pharma R&D using Communication, Next.js, Java and Angular, lifting NPS by 35 points.
+* Pharma R&D Payments Microservices Platform — a fast-growing pharma company (2024-12 to 2026-01)
+  Designed a payments microservices platform for a fast-growing pharma company in pharma R&D using SQL, Java and Communication, reducing production incidents by 12%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Mobile Engineer, Software Architect

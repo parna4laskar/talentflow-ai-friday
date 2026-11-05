@@ -1,0 +1,31 @@
+WEI LING TAN
+Senior Cloud Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP11168
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 10.3 years of experience, based in Singapore. Strong in Terraform, Kubernetes, CI/CD and Linux Administration, with recent work in insurance claims. Interested in moving towards Software Architect, Platform Engineer roles and open to relocating to Chennai, Toronto, London.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 1.8y), Kubernetes (Advanced, 2.7y), CI/CD (Advanced, 5.2y), Linux Administration (Proficient, 4.5y), Platform Engineering (Proficient, 2.3y), GCP (Working, 3.5y)
+- Software Engineering: Python (Proficient, 2.4y)
+
+EXPERIENCE
+* Public Sector Kubernetes Platform — an APAC government agency (2026-06 to present)
+  Scaled a Kubernetes platform for an APAC government agency in public sector using Python, Linux Administration, GCP and Terraform, cutting cloud spend by 12%.
+* Public Sector Kubernetes Platform — a European government agency (2025-11 to 2026-05)
+  Migrated a Kubernetes platform for a European government agency in public sector using Platform Engineering, CI/CD and Terraform, reducing production incidents by 35%.
+* Insurance Claims CI/CD Platform — a European insurer (2025-01 to 2025-09)
+  Designed a CI/CD platform for a European insurer in insurance claims using Kubernetes, Terraform and CI/CD, accelerating releases by 18%.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2023)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Mandarin, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect, Platform Engineer

@@ -1,0 +1,31 @@
+NIAMH O'BRIEN
+Senior Data Scientist | Data & Analytics | Dublin, Ireland
+Employee ID: EMP12814
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 6.3 years of experience, based in Dublin. Strong in Statistics, SQL, Python and Machine Learning, with recent work in insurance claims. Interested in moving towards Product Manager, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 3.8y), SQL (Advanced, 2.4y), Machine Learning (Proficient, 4.7y), NLP (Proficient, 3.6y), MLOps (Working, 2.5y)
+- Software Engineering: Python (Proficient, 2.2y)
+- Delivery & Leadership: Communication (Proficient, 2.0y)
+
+EXPERIENCE
+* Insurance Claims Executive KPI Dashboard Suite — a fast-growing insurer (2026-06 to present)
+  Automated an executive KPI dashboard suite for a fast-growing insurer in insurance claims using Communication and MLOps, saving ~40K hours annually.
+* Insurance Claims Executive KPI Dashboard Suite — a tier-1 insurer (2025-09 to 2026-05)
+  Built an executive KPI dashboard suite for a tier-1 insurer in insurance claims using MLOps and Communication, improving forecast accuracy by 25%.
+* Insurance Claims Regulatory Reporting Suite — a fast-growing insurer (2024-11 to 2025-08)
+  Led the delivery of a regulatory reporting suite for a fast-growing insurer in insurance claims using Statistics and MLOps, saving ~35K hours annually.
+* Energy Trading Executive KPI Dashboard Suite — an APAC energy company (2023-04 to 2024-08)
+  Led the delivery of an executive KPI dashboard suite for an APAC energy company in energy trading using Python and MLOps, saving ~30K hours annually.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Product Manager, ML Engineer, Data Analyst

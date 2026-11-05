@@ -1,0 +1,29 @@
+OMKAR JADHAV
+Senior Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11244
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.6 years of experience, based in Gurugram. Strong in JavaScript, Angular, Playwright and Design Systems, with recent work in retail banking. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 7.1y), Angular (Advanced, 8.4y), TypeScript (Working, 0.3y), Node.js (Working, 3.3y)
+- Quality Engineering: Playwright (Advanced, 2.5y)
+- Product & Design: Design Systems (Proficient, 3.9y)
+
+EXPERIENCE
+* Retail Banking Mobile Banking App — an APAC retail bank (2026-01 to present)
+  Built a mobile banking app for an APAC retail bank in retail banking using JavaScript, Playwright and Node.js, improving conversion by 25%.
+* Insurance Claims Pricing Engine — an APAC insurer (2024-11 to 2026-01)
+  Re-architected a pricing engine for an APAC insurer in insurance claims using Playwright and Design Systems, improving conversion by 35%.
+* HR Tech Pricing Engine — a European HR software company (2024-01 to 2024-09)
+  Scaled a pricing engine for a European HR software company in HR tech using Playwright, Angular, TypeScript and Node.js, reducing processing time by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, QA Engineer, Mobile Engineer

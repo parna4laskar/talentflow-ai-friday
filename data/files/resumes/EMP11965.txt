@@ -1,0 +1,34 @@
+IMRAN LEE
+Lead Financial Analyst | Finance | Bengaluru, India
+Employee ID: EMP11965
+
+PROFESSIONAL SUMMARY
+Lead Financial Analyst with 8.6 years of experience, based in Bengaluru. Strong in FP&A, Financial Analysis, Financial Modeling and SQL, with recent work in retail banking. Interested in moving towards Financial Analyst, Risk & Compliance Analyst roles and open to relocating to Pune.
+
+CORE SKILLS
+- Business & Finance: FP&A (Expert, 5.8y), Financial Analysis (Advanced, 4.9y), Financial Modeling (Advanced, 8.3y), SAP FICO (Proficient, 2.5y), Risk Management (Proficient, 3.0y), SAP S/4HANA (Working, 3.9y)
+- Delivery & Leadership: People Leadership (Expert, 4.3y), Stakeholder Management (Proficient, 1.2y), Communication (Proficient, 2.8y)
+- Data & AI: SQL (Advanced, 4.7y), Power BI (Advanced, 7.7y)
+- Quality Engineering: Playwright (Proficient, 5.2y)
+
+EXPERIENCE
+* Retail Banking Regulatory Capital Reporting — an APAC retail bank (2026-03 to present)
+  Owned a regulatory capital reporting for an APAC retail bank in retail banking using FP&A, Communication and SQL, reducing processing time by 40%.
+* Retail Banking Rolling Forecasting Model — a leading retail bank (2025-02 to 2026-02)
+  Redesigned a rolling forecasting model for a leading retail bank in retail banking using Financial Analysis and SQL, saving ~30K hours annually.
+* Retail Banking Rolling Forecasting Model — a tier-1 retail bank (2023-10 to 2024-12)
+  Built a rolling forecasting model for a tier-1 retail bank in retail banking using Financial Analysis and Stakeholder Management, saving ~30K hours annually.
+
+CERTIFICATIONS
+- CFA Level II (2023)
+- ACCA (2024)
+
+EDUCATION
+- MSc Finance
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Financial Analyst, Risk & Compliance Analyst, Data Analyst, Business Analyst

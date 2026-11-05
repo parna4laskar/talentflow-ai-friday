@@ -1,0 +1,31 @@
+MEI ANDERSON
+Lead Software Architect | Engineering | Austin, United States
+Employee ID: EMP12125
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.8 years of experience, based in Austin. Strong in Stakeholder Management, System Design, Java and Azure, with recent work in airline operations. Interested in moving towards Backend Engineer, Engineering Manager roles and open to relocating to Hyderabad, Kraków.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 2.9y), Mentoring (Proficient, 2.7y), People Leadership (Proficient, 3.9y)
+- Software Engineering: System Design (Advanced, 13.9y), Java (Advanced, 3.5y), Kafka (Advanced, 10.7y), Microservices (Proficient, 2.8y), Spring Boot (Beginner, 0.5y)
+- Cloud & DevOps: Azure (Advanced, 2.6y), Kubernetes (Advanced, 3.7y)
+
+EXPERIENCE
+* Airline Operations Self-service Portal — an APAC airline (2025-12 to present)
+  Modernised a self-service portal for an APAC airline in airline operations using Azure, Stakeholder Management, System Design and Spring Boot, saving ~35K hours annually.
+* Airline Operations Order Management System — a fast-growing airline (2024-04 to 2025-10)
+  Scaled an order management system for a fast-growing airline in airline operations using System Design, Stakeholder Management and Kafka, onboarding 2 new enterprise clients.
+* Healthcare Payments Microservices Platform — a US hospital network (2023-01 to 2024-02)
+  Built a payments microservices platform for a US hospital network in healthcare using Kubernetes, Kafka and Spring Boot, reducing processing time by 18%.
+* Airline Operations Order Management System — a fast-growing airline (2021-11 to 2022-11)
+  Re-architected an order management system for a fast-growing airline in airline operations using Stakeholder Management, System Design, Java and Kafka, onboarding 4 new enterprise clients.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Engineering Manager

@@ -1,0 +1,32 @@
+HARPREET SINGH
+Business Analyst | Business Consulting | Chennai, India
+Employee ID: EMP10712
+
+PROFESSIONAL SUMMARY
+Business Analyst with 4.5 years of experience, based in Chennai. Strong in Business Analysis, Requirements Gathering, Stakeholder Management and Communication, with recent work in airline operations. Interested in moving towards Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 2.8y), Requirements Gathering (Proficient, 1.6y), Process Improvement (Working, 0.9y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.6y), Communication (Proficient, 1.5y), Agile/Scrum (Working, 1.8y)
+- Cloud & DevOps: FinOps (Beginner, 1.0y)
+
+EXPERIENCE
+* Healthcare Process Re-engineering Initiative — an APAC hospital network (2025-05 to present)
+  Coordinated a process re-engineering initiative for an APAC hospital network in healthcare using Business Analysis and FinOps, delivering $2M in cost savings.
+* Public Sector Agile Transformation — a leading government agency (2024-05 to 2025-03)
+  Ran an agile transformation for a leading government agency in public sector using Requirements Gathering, Stakeholder Management and Agile/Scrum, delivering on time across 4 workstreams.
+* Airline Operations Cloud Migration Programme — a European airline (2023-04 to 2024-02)
+  Ran a cloud migration programme for a European airline in airline operations using FinOps, Business Analysis, Agile/Scrum and Stakeholder Management, delivering on time across 6 workstreams.
+
+CERTIFICATIONS
+- CBAP (2026)
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst

@@ -1,0 +1,32 @@
+MOHAMMED WILLIAMS
+Principal Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11157
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 23.2 years of experience, based in London. Strong in Go, SQL, REST API Design and Microservices, with recent work in automotive. Interested in moving towards Software Architect, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Go (Expert, 23.2y), REST API Design (Advanced, 11.4y), Microservices (Advanced, 21.0y), .NET Core (Advanced, 6.9y), GraphQL (Working, 6.2y)
+- Data & AI: SQL (Expert, 18.1y), Generative AI (Working, 10.0y)
+- Delivery & Leadership: Mentoring (Advanced, 17.5y), Stakeholder Management (Advanced, 17.0y), People Leadership (Proficient, 2.6y)
+
+EXPERIENCE
+* Automotive Mobile Banking App — a fast-growing car maker (2025-12 to present)
+  Built a mobile banking app for a fast-growing car maker in automotive using Go, Microservices and GraphQL, improving conversion by 22%.
+* Public Sector Payments Microservices Platform — a fast-growing government agency (2025-05 to 2025-12)
+  Migrated a payments microservices platform for a fast-growing government agency in public sector using Mentoring and .NET Core, reducing production incidents by 25%.
+* Automotive Claims Processing Engine — a leading car maker (2024-08 to 2025-03)
+  Modernised a claims processing engine for a leading car maker in automotive using Generative AI and Mentoring, saving ~40K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Software Architect, DevOps Engineer

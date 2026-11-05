@@ -1,0 +1,33 @@
+AARAV SEN
+Senior Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10990
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 9.2 years of experience, based in Hyderabad. Strong in Microservices, Java, REST API Design and SQL, with recent work in insurance claims. Interested in moving towards AI Engineer, Engineering Manager roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 1.2y), Java (Proficient, 6.2y), REST API Design (Proficient, 5.2y), .NET Core (Proficient, 0.6y)
+- Data & AI: SQL (Proficient, 3.5y), Databricks (Proficient, 4.9y)
+- Cloud & DevOps: Docker (Proficient, 1.9y)
+- Delivery & Leadership: Communication (Proficient, 2.1y)
+
+EXPERIENCE
+* Insurance Claims Customer Onboarding Platform — an APAC insurer (2025-08 to present)
+  Modernised a customer onboarding platform for an APAC insurer in insurance claims using Microservices and .NET Core, reducing processing time by 30%.
+* Insurance Claims Mobile Banking App — a global insurer (2024-12 to 2025-07)
+  Scaled a mobile banking app for a global insurer in insurance claims using Java, Databricks, REST API Design and SQL, lifting NPS by 12 points.
+* Airline Operations Customer Onboarding Platform — a leading airline (2023-06 to 2024-10)
+  Migrated a customer onboarding platform for a leading airline in airline operations using Databricks and SQL, lifting NPS by 30 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, Engineering Manager, Software Architect

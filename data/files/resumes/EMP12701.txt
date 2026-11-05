@@ -1,0 +1,33 @@
+GURPREET KAUR
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12701
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.5 years of experience, based in Bengaluru. Strong in TypeScript, JavaScript, Angular and GraphQL, with recent work in wealth management. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.9y), JavaScript (Advanced, 6.8y), Angular (Advanced, 6.0y), GraphQL (Advanced, 1.6y), Node.js (Proficient, 4.1y)
+- Delivery & Leadership: Communication (Advanced, 1.0y)
+- Product & Design: Design Systems (Working, 3.5y)
+- Cloud & DevOps: CI/CD (Working, 2.5y)
+- Quality Engineering: Playwright (Working, 4.1y), Test Automation (Working, 0.8y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — a leading logistics company (2025-06 to present)
+  Led the delivery of a pricing engine for a leading logistics company in supply-chain logistics using Node.js and Communication, reducing processing time by 12%.
+* HR Tech Self-service Portal — a leading HR software company (2023-11 to 2025-03)
+  Led the delivery of a self-service portal for a leading HR software company in HR tech using Communication, Design Systems, JavaScript and GraphQL, lifting NPS by 22 points.
+* Wealth Management Mobile Banking App — a leading wealth manager (2022-12 to 2023-10)
+  Built a mobile banking app for a leading wealth manager in wealth management using Test Automation, TypeScript and GraphQL, lifting NPS by 40 points.
+* Energy Trading Claims Processing Engine — a European energy company (2021-07 to 2022-10)
+  Re-architected a claims processing engine for a European energy company in energy trading using GraphQL, TypeScript and Design Systems, saving ~22K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Mobile Engineer

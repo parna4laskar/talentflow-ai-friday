@@ -1,0 +1,34 @@
+NANDINI MENON
+Lead QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP11856
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 11.8 years of experience, based in Pune. Strong in Test Automation, Playwright, Python and Agile/Scrum, with recent work in public sector. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 5.2y), Agile/Scrum (Advanced, 1.6y), Stakeholder Management (Working, 2.1y)
+- Quality Engineering: Test Automation (Advanced, 6.2y), Playwright (Advanced, 7.0y), API Testing (Proficient, 1.3y)
+- Software Engineering: Python (Advanced, 1.1y), Java (Proficient, 3.9y)
+- Cloud & DevOps: CI/CD (Proficient, 1.1y)
+- Data & AI: Databricks (Proficient, 5.0y)
+
+EXPERIENCE
+* Automotive API Contract-testing Suite — a global car maker (2026-04 to present)
+  Migrated an API contract-testing suite for a global car maker in automotive using Playwright and Python, raising automated test coverage to 90%.
+* Public Sector Test Automation Framework — a global government agency (2025-11 to 2026-04)
+  Designed a test automation framework for a global government agency in public sector using Agile/Scrum and Java, accelerating releases by 18%.
+* Public Sector Test Automation Framework — a fast-growing government agency (2024-05 to 2025-08)
+  Re-architected a test automation framework for a fast-growing government agency in public sector using API Testing, Databricks and Agile/Scrum, raising automated test coverage to 70%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2023)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Mobile Engineer, DevOps Engineer

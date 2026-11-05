@@ -1,0 +1,34 @@
+SIDDHARTH PILLAI
+Senior Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP10762
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 7.5 years of experience, based in Pune. Strong in Statistics, A/B Testing, NLP and Communication, with recent work in supply-chain logistics. Interested in moving towards AI Engineer, Product Manager roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 3.4y), NLP (Advanced, 6.8y), Machine Learning (Proficient, 2.1y), Apache Spark (Proficient, 4.9y), Generative AI (Proficient, 2.2y), SQL (Working, 2.0y), MLOps (Working, 1.8y)
+- Product & Design: A/B Testing (Advanced, 7.0y)
+- Delivery & Leadership: Communication (Advanced, 2.6y)
+- Software Engineering: Python (Proficient, 2.2y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.9y)
+
+EXPERIENCE
+* Supply-chain Logistics Regulatory Reporting Suite — a leading logistics company (2026-09 to present)
+  Led the delivery of a regulatory reporting suite for a leading logistics company in supply-chain logistics using NLP and Python, saving ~22K hours annually.
+* E-commerce Data Lakehouse — a US online retailer (2025-08 to 2026-06)
+  Modernised a data lakehouse for a US online retailer in e-commerce using A/B Testing, Statistics, MLOps and SQL, reducing processing time by 18%.
+* Insurance Claims Executive KPI Dashboard Suite — an APAC insurer (2024-11 to 2025-06)
+  Led the delivery of an executive KPI dashboard suite for an APAC insurer in insurance claims using MLOps and Statistics, improving forecast accuracy by 30%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2023)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, Product Manager

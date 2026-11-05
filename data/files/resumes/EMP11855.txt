@@ -1,0 +1,28 @@
+ROHAN BYRNE
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11855
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.1 years of experience, based in Bengaluru. Strong in TypeScript, GraphQL, JavaScript and React, with recent work in energy trading. Interested in moving towards Full Stack Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 2.4y), GraphQL (Advanced, 2.3y), JavaScript (Proficient, 0.9y), React (Proficient, 2.1y)
+- Quality Engineering: Playwright (Proficient, 4.3y)
+
+EXPERIENCE
+* Energy Trading Customer Onboarding Platform — a European energy company (2026-03 to present)
+  Led the delivery of a customer onboarding platform for a European energy company in energy trading using React, Playwright and TypeScript, reducing processing time by 18%.
+* Energy Trading Mobile Banking App — a US energy company (2025-05 to 2026-01)
+  Re-architected a mobile banking app for a US energy company in energy trading using GraphQL, JavaScript, TypeScript and Playwright, improving conversion by 40%.
+* Insurance Claims Pricing Engine — a leading insurer (2024-11 to 2025-04)
+  Modernised a pricing engine for a leading insurer in insurance claims using React and TypeScript, reducing processing time by 30%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer, UX Designer, Mobile Engineer

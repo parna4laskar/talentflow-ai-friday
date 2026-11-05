@@ -1,0 +1,36 @@
+EMILY KHAN
+Lead Software Architect | Engineering | London, United Kingdom
+Employee ID: EMP11804
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 12.8 years of experience, based in London. Strong in Microservices, System Design, AWS and Cloud Security, with recent work in pharma R&D. Interested in moving towards Engineering Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 7.3y), System Design (Advanced, 7.7y), REST API Design (Advanced, 9.3y), Python (Proficient, 7.8y)
+- Cloud & DevOps: AWS (Advanced, 11.4y), Kubernetes (Proficient, 4.5y)
+- Security: Cloud Security (Advanced, 8.2y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 1.5y)
+- Data & AI: Responsible AI (Working, 5.0y)
+
+EXPERIENCE
+* Pharma R&D Claims Processing Engine — a leading pharma company (2025-11 to present)
+  Re-architected a claims processing engine for a leading pharma company in pharma R&D using Kubernetes and Stakeholder Management, saving ~25K hours annually.
+* Manufacturing IoT Payments Microservices Platform — a European manufacturer (2025-06 to 2025-11)
+  Designed a payments microservices platform for a European manufacturer in manufacturing IoT using Kubernetes, REST API Design, AWS and System Design, reducing processing time by 12%.
+* Pharma R&D Mobile Banking App — a fast-growing pharma company (2024-08 to 2025-05)
+  Migrated a mobile banking app for a fast-growing pharma company in pharma R&D using Microservices, AWS and Stakeholder Management, improving conversion by 12%.
+* Pharma R&D Payments Microservices Platform — a US pharma company (2023-08 to 2024-08)
+  Modernised a payments microservices platform for a US pharma company in pharma R&D using Python, Cloud Security and System Design, accelerating releases by 12%.
+
+CERTIFICATIONS
+- TOGAF 10 (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager, Backend Engineer, Cloud Engineer

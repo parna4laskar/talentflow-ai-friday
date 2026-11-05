@@ -1,0 +1,33 @@
+ISLA PATEL
+Lead Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP11107
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 12.5 years of experience, based in London. Strong in Data Visualization, Power BI, Stakeholder Management and FinOps, with recent work in wealth management. Interested in moving towards Product Manager roles and open to relocating to New York, Austin, Hyderabad.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Expert, 12.2y), Power BI (Advanced, 4.5y), SQL (Proficient, 8.4y), Snowflake (Proficient, 8.6y)
+- Delivery & Leadership: People Leadership (Expert, 3.0y), Stakeholder Management (Advanced, 11.7y), Mentoring (Working, 2.8y)
+- Cloud & DevOps: FinOps (Advanced, 2.6y)
+- Quality Engineering: Playwright (Proficient, 1.0y)
+
+EXPERIENCE
+* Wealth Management Customer Churn Model — a fast-growing wealth manager (2026-03 to present)
+  Re-architected a customer churn model for a fast-growing wealth manager in wealth management using Playwright, Mentoring, FinOps and Snowflake, improving conversion by 25%.
+* Energy Trading Real-time Analytics Pipeline — a leading energy company (2025-07 to 2026-01)
+  Designed a real-time analytics pipeline for a leading energy company in energy trading using Data Visualization and Stakeholder Management, cutting cloud spend by 12%.
+* Wealth Management Data Lakehouse — a fast-growing wealth manager (2023-12 to 2025-04)
+  Designed a data lakehouse for a fast-growing wealth manager in wealth management using Power BI and Stakeholder Management, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2021)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Japanese
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager

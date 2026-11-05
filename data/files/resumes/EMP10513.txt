@@ -1,0 +1,32 @@
+DANIEL WILSON
+Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10513
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.2 years of experience, based in London. Strong in JavaScript, CI/CD, Figma and GraphQL, with recent work in public sector. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Proficient, 2.4y), GraphQL (Proficient, 2.0y), TypeScript (Working, 1.7y), Angular (Working, 0.6y), Node.js (Beginner, 0.8y)
+- Cloud & DevOps: CI/CD (Proficient, 0.8y)
+- Product & Design: Figma (Proficient, 1.9y)
+- Quality Engineering: Playwright (Working, 1.9y)
+
+EXPERIENCE
+* Public Sector Order Management System — a fast-growing government agency (2026-08 to present)
+  Designed an order management system for a fast-growing government agency in public sector using JavaScript and Angular, reducing processing time by 25%.
+* Insurance Claims Self-service Portal — a global insurer (2025-11 to 2026-05)
+  Scaled a self-service portal for a global insurer in insurance claims using TypeScript, JavaScript and GraphQL, lifting NPS by 40 points.
+* Public Sector Order Management System — a European government agency (2025-01 to 2025-09)
+  Automated an order management system for a European government agency in public sector using JavaScript and GraphQL, onboarding 5 new enterprise clients.
+* Public Sector Payments Microservices Platform — a leading government agency (2023-10 to 2024-11)
+  Automated a payments microservices platform for a leading government agency in public sector using GraphQL, CI/CD, TypeScript and JavaScript, reducing processing time by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Spanish
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Mobile Engineer, Full Stack Engineer, UX Designer

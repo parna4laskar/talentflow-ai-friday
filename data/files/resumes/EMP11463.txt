@@ -1,0 +1,27 @@
+GURPREET KULKARNI
+Associate Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11463
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 0.7 years of experience, based in Chennai. Strong in TypeScript, JavaScript, Playwright and Angular, with recent work in media streaming. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.5y), JavaScript (Proficient, 0.5y), Angular (Working, 0.3y), Next.js (Working, 0.3y), GraphQL (Working, 0.3y), Node.js (Beginner, 0.3y)
+- Quality Engineering: Playwright (Proficient, 0.4y)
+- Cloud & DevOps: CI/CD (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a European pharma company (2025-09 to present)
+  Scaled a pricing engine for a European pharma company in pharma R&D using GraphQL and Next.js, reducing processing time by 12%.
+* Insurance Claims Claims Processing Engine — a tier-1 insurer (2024-08 to 2025-08)
+  Scaled a claims processing engine for a tier-1 insurer in insurance claims using TypeScript, Angular and GraphQL, reducing processing time by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer, Full Stack Engineer

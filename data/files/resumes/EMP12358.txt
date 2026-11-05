@@ -1,0 +1,32 @@
+MATTHEW RODRIGUEZ
+Full Stack Engineer | Engineering | Austin, United States
+Employee ID: EMP12358
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.9 years of experience, based in Austin. Strong in AWS, Communication, TypeScript and Node.js, with recent work in retail banking. Interested in moving towards Software Architect, AI Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 2.0y)
+- Delivery & Leadership: Communication (Advanced, 5.0y)
+- Software Engineering: TypeScript (Proficient, 1.1y), Node.js (Proficient, 1.7y), Next.js (Working, 2.0y), React (Beginner, 0.6y)
+- Data & AI: SQL (Proficient, 3.1y), Agentic AI (Proficient, 3.4y)
+
+EXPERIENCE
+* Retail Banking Order Management System — a tier-1 retail bank (2026-01 to present)
+  Re-architected an order management system for a tier-1 retail bank in retail banking using Communication and Node.js, onboarding 3 new enterprise clients.
+* Airline Operations Customer Onboarding Platform — a European airline (2024-09 to 2025-10)
+  Designed a customer onboarding platform for a European airline in airline operations using Communication and Next.js, lifting NPS by 35 points.
+* Retail Banking Mobile Banking App — an APAC retail bank (2023-07 to 2024-08)
+  Automated a mobile banking app for an APAC retail bank in retail banking using Next.js and AWS, improving conversion by 18%.
+* HR Tech Customer Onboarding Platform — a tier-1 HR software company (2022-08 to 2023-05)
+  Built a customer onboarding platform for a tier-1 HR software company in HR tech using TypeScript and Communication, improving conversion by 22%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, AI Engineer, Backend Engineer

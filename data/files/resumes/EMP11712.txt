@@ -1,0 +1,29 @@
+KARTHIK KULKARNI
+Security Engineer | Cyber Security | Pune, India
+Employee ID: EMP11712
+
+PROFESSIONAL SUMMARY
+Security Engineer with 4 years of experience, based in Pune. Strong in Application Security, Incident Response, Threat Modeling and Identity & Access Management, with recent work in energy trading. Interested in moving towards Security Analyst roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Security: Application Security (Advanced, 3.5y), Incident Response (Advanced, 1.8y), Threat Modeling (Proficient, 2.6y), Identity & Access Management (Proficient, 0.8y), SIEM (Working, 2.0y), GRC (Working, 0.9y)
+- Software Engineering: Python (Proficient, 0.8y)
+- Data & AI: Machine Learning (Beginner, 1.0y)
+
+EXPERIENCE
+* Energy Trading Cloud Security Posture Programme — a US energy company (2026-07 to present)
+  Automated a cloud security posture programme for a US energy company in energy trading using GRC, Application Security and Machine Learning, closing 30% of open audit findings.
+* Energy Trading Security Operations Centre Uplift — a tier-1 energy company (2025-08 to 2026-05)
+  Led the delivery of a security operations centre uplift for a tier-1 energy company in energy trading using Incident Response, Threat Modeling and GRC, reducing production incidents by 22%.
+* Energy Trading Cloud Security Posture Programme — an APAC energy company (2024-12 to 2025-08)
+  Scaled a cloud security posture programme for an APAC energy company in energy trading using Python and Threat Modeling, closing 22% of open audit findings.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Security Analyst

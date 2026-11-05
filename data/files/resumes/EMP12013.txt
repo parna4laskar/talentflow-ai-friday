@@ -1,0 +1,30 @@
+NEHA RAO
+Lead Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP12013
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 15.2 years of experience, based in Chennai. Strong in React, Node.js, SQL and AWS, with recent work in automotive. Interested in moving towards Full Stack Engineer, Mobile Engineer roles and open to relocating to Kraków, Gurugram.
+
+CORE SKILLS
+- Software Engineering: React (Expert, 5.6y), Node.js (Advanced, 6.3y), TypeScript (Proficient, 7.1y), GraphQL (Proficient, 6.1y)
+- Data & AI: SQL (Advanced, 3.3y), Agentic AI (Proficient, 1.7y), Databricks (Working, 3.2y)
+- Cloud & DevOps: AWS (Advanced, 4.9y), Docker (Proficient, 9.9y)
+- Delivery & Leadership: Mentoring (Proficient, 1.6y), Communication (Proficient, 0.5y)
+
+EXPERIENCE
+* Automotive Order Management System — a leading car maker (2026-07 to present)
+  Modernised an order management system for a leading car maker in automotive using React and Agentic AI, onboarding 2 new enterprise clients.
+* Automotive Customer Onboarding Platform — an APAC car maker (2025-07 to 2026-04)
+  Scaled a customer onboarding platform for an APAC car maker in automotive using React, Node.js, Agentic AI and AWS, reducing processing time by 22%.
+* Automotive Claims Processing Engine — a leading car maker (2024-07 to 2025-05)
+  Scaled a claims processing engine for a leading car maker in automotive using GraphQL, React and TypeScript, reducing processing time by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Mobile Engineer

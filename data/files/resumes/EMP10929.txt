@@ -1,0 +1,30 @@
+ANJALI SUBRAMANIAN
+Senior Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP10929
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 5.6 years of experience, based in Chennai. Strong in TypeScript, GraphQL, Design Systems and JavaScript, with recent work in HR tech. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 5.4y), GraphQL (Advanced, 2.5y), JavaScript (Proficient, 1.9y), Angular (Proficient, 2.0y), Next.js (Proficient, 1.9y)
+- Product & Design: Design Systems (Advanced, 1.9y), Figma (Working, 2.1y)
+- Quality Engineering: Playwright (Working, 0.9y)
+- Cloud & DevOps: CI/CD (Working, 0.9y)
+
+EXPERIENCE
+* Healthcare Claims Processing Engine — a US hospital network (2026-03 to present)
+  Built a claims processing engine for a US hospital network in healthcare using Angular and Next.js, reducing processing time by 25%.
+* Supply-chain Logistics Order Management System — an APAC logistics company (2025-02 to 2025-12)
+  Designed an order management system for an APAC logistics company in supply-chain logistics using GraphQL and Figma, reducing processing time by 18%.
+* HR Tech Order Management System — a US HR software company (2023-09 to 2024-11)
+  Designed an order management system for a US HR software company in HR tech using Figma, Playwright and Angular, reducing processing time by 35%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer

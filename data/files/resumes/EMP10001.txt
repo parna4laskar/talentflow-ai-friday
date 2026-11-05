@@ -1,0 +1,35 @@
+PRANAV NAIR
+Senior Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP10001
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 7.5 years of experience, based in Pune. Strong in Python, Data Engineering, Apache Spark and Kafka, with recent work in supply-chain logistics. Interested in moving towards AI Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 6.4y), Kafka (Proficient, 3.2y)
+- Data & AI: Data Engineering (Advanced, 5.5y), Apache Spark (Proficient, 1.9y), SQL (Working, 3.2y), Snowflake (Working, 1.4y), Responsible AI (Working, 0.5y)
+- Cloud & DevOps: AWS (Proficient, 2.5y), Azure (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+
+EXPERIENCE
+* HR Tech Executive KPI Dashboard Suite — a leading HR software company (2025-11 to present)
+  Built an executive KPI dashboard suite for a leading HR software company in HR tech using AWS, Kafka and Snowflake, saving ~22K hours annually.
+* Airline Operations Customer Churn Model — a US airline (2025-01 to 2025-08)
+  Designed a customer churn model for a US airline in airline operations using Azure, Communication and Kafka, improving conversion by 40%.
+* Telecom Billing Real-time Analytics Pipeline — a tier-1 telecom operator (2023-09 to 2024-11)
+  Designed a real-time analytics pipeline for a tier-1 telecom operator in telecom billing using Azure, Kafka and Communication, cutting cloud spend by 30%.
+* Supply-chain Logistics Regulatory Reporting Suite — a fast-growing logistics company (2022-03 to 2023-09)
+  Designed a regulatory reporting suite for a fast-growing logistics company in supply-chain logistics using Communication and AWS, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2023)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: AI Engineer, Data Analyst, Data Scientist

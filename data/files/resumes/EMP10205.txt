@@ -1,0 +1,27 @@
+KEISHA NGUYEN
+Associate Backend Engineer | Engineering | New York, United States
+Employee ID: EMP10205
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.6 years of experience, based in New York. Strong in REST API Design, Go, SQL and Microservices, with recent work in wealth management. Interested in moving towards Software Architect, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 0.4y), Go (Working, 0.7y), Microservices (Working, 0.3y), System Design (Working, 0.3y)
+- Data & AI: SQL (Working, 0.4y)
+- Cloud & DevOps: CI/CD (Working, 0.4y), Kubernetes (Beginner, 0.4y)
+
+EXPERIENCE
+* Wealth Management Customer Onboarding Platform — a tier-1 wealth manager (2026-11 to present)
+  Built a customer onboarding platform for a tier-1 wealth manager in wealth management using CI/CD, Go, REST API Design and Kubernetes, lifting NPS by 35 points.
+* Wealth Management Payments Microservices Platform — a fast-growing wealth manager (2025-09 to 2026-10)
+  Built a payments microservices platform for a fast-growing wealth manager in wealth management using SQL and Go, reducing production incidents by 40%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, Engineering Manager

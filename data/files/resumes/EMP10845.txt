@@ -1,0 +1,35 @@
+SIDDHARTH GUPTA
+Lead Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP10845
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 11.5 years of experience, based in Chennai. Strong in C#, REST API Design, SQL and Docker, with recent work in HR tech. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 6.5y), REST API Design (Advanced, 2.5y), Microservices (Proficient, 7.4y), System Design (Proficient, 7.8y), .NET Core (Working, 5.5y)
+- Data & AI: SQL (Advanced, 0.6y), LLM Engineering (Proficient, 0.5y)
+- Cloud & DevOps: Docker (Advanced, 7.2y), Kubernetes (Proficient, 2.6y)
+- Delivery & Leadership: Communication (Advanced, 8.3y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — a fast-growing HR software company (2025-11 to present)
+  Designed a self-service portal for a fast-growing HR software company in HR tech using .NET Core, System Design, REST API Design and Communication, lifting NPS by 40 points.
+* HR Tech Self-service Portal — a US HR software company (2025-02 to 2025-10)
+  Scaled a self-service portal for a US HR software company in HR tech using System Design, SQL, LLM Engineering and Communication, saving ~18K hours annually.
+* HR Tech Pricing Engine — a fast-growing HR software company (2023-08 to 2024-12)
+  Built a pricing engine for a fast-growing HR software company in HR tech using Microservices, Docker, LLM Engineering and .NET Core, improving conversion by 12%.
+* HR Tech Self-service Portal — a tier-1 HR software company (2022-11 to 2023-07)
+  Automated a self-service portal for a tier-1 HR software company in HR tech using SQL, LLM Engineering, Docker and .NET Core, lifting NPS by 18 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer

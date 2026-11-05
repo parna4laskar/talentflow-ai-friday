@@ -1,0 +1,31 @@
+PRASAD PAWAR
+Senior Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP10193
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 5.2 years of experience, based in Gurugram. Strong in React, SQL, Microservices and TypeScript, with recent work in healthcare. Interested in moving towards Software Architect, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 4.5y), Microservices (Advanced, 3.0y), TypeScript (Proficient, 1.3y), Java (Proficient, 0.9y), GraphQL (Proficient, 3.6y)
+- Data & AI: SQL (Advanced, 1.6y)
+- Cloud & DevOps: Docker (Working, 1.0y)
+- People & Marketing: People Analytics (Working, 2.4y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Public Sector Mobile Banking App — a global government agency (2026-01 to present)
+  Re-architected a mobile banking app for a global government agency in public sector using SQL and Docker, lifting NPS by 30 points.
+* Automotive Claims Processing Engine — a leading car maker (2024-10 to 2025-10)
+  Migrated a claims processing engine for a leading car maker in automotive using People Analytics, Java and SQL, saving ~22K hours annually.
+* Healthcare Payments Microservices Platform — a US hospital network (2023-06 to 2024-08)
+  Scaled a payments microservices platform for a US hospital network in healthcare using People Analytics and Docker, reducing production incidents by 25%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, AI Engineer, Mobile Engineer

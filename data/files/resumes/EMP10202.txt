@@ -1,0 +1,35 @@
+KUNAL O'BRIEN
+Lead Risk & Compliance Analyst | Risk & Compliance | Hyderabad, India
+Employee ID: EMP10202
+
+PROFESSIONAL SUMMARY
+Lead Risk & Compliance Analyst with 9.3 years of experience, based in Hyderabad. Strong in Regulatory Compliance, Risk Management, GRC and Financial Analysis, with recent work in energy trading. Interested in moving towards Data Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Business & Finance: Regulatory Compliance (Expert, 9.3y), Risk Management (Advanced, 5.9y), Financial Analysis (Advanced, 5.3y)
+- Security: GRC (Advanced, 7.3y)
+- Data & AI: Responsible AI (Proficient, 2.5y)
+- Delivery & Leadership: Stakeholder Management (Working, 1.1y)
+
+EXPERIENCE
+* Energy Trading Rolling Forecasting Model — a European energy company (2026-12 to present)
+  Owned a rolling forecasting model for a European energy company in energy trading using Responsible AI, GRC, Financial Analysis and Stakeholder Management, improving forecast accuracy by 30%.
+* Energy Trading Rolling Forecasting Model — an APAC energy company (2025-05 to 2026-11)
+  Built a rolling forecasting model for an APAC energy company in energy trading using Risk Management, GRC, Responsible AI and Financial Analysis, saving ~40K hours annually.
+* Telecom Billing Rolling Forecasting Model — a leading telecom operator (2024-12 to 2025-05)
+  Led a rolling forecasting model for a leading telecom operator in telecom billing using Financial Analysis, Stakeholder Management, Responsible AI and Risk Management, saving ~30K hours annually.
+* Energy Trading Regulatory Capital Reporting — a tier-1 energy company (2023-11 to 2024-09)
+  Redesigned a regulatory capital reporting for a tier-1 energy company in energy trading using Responsible AI, GRC, Financial Analysis and Regulatory Compliance, reducing processing time by 18%.
+
+CERTIFICATIONS
+- CRISC (2024)
+
+EDUCATION
+- MSc Economics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer

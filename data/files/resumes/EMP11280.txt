@@ -1,0 +1,32 @@
+ISHITA NAIDU
+Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP11280
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.6 years of experience, based in Chennai. Strong in Java, SQL, Kafka and Generative AI, with recent work in wealth management. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 1.7y), Kafka (Proficient, 3.0y), REST API Design (Working, 1.8y), Microservices (Working, 1.8y)
+- Data & AI: SQL (Proficient, 1.2y), Generative AI (Proficient, 2.1y), Agentic AI (Working, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.5y)
+- Cloud & DevOps: Docker (Working, 2.3y)
+
+EXPERIENCE
+* Payments Self-service Portal — a fast-growing payments provider (2025-08 to present)
+  Designed a self-service portal for a fast-growing payments provider in payments using Communication, Agentic AI, Docker and REST API Design, saving ~22K hours annually.
+* E-commerce Mobile Banking App — a fast-growing online retailer (2024-12 to 2025-07)
+  Scaled a mobile banking app for a fast-growing online retailer in e-commerce using Kafka and Java, improving conversion by 25%.
+* Wealth Management Order Management System — a leading wealth manager (2023-06 to 2024-09)
+  Scaled an order management system for a leading wealth manager in wealth management using Kafka, Generative AI and Microservices, onboarding 6 new enterprise clients.
+* Telecom Billing Customer Onboarding Platform — a US telecom operator (2022-05 to 2023-05)
+  Automated a customer onboarding platform for a US telecom operator in telecom billing using Communication, Kafka and SQL, reducing processing time by 12%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect

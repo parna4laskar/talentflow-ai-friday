@@ -1,0 +1,30 @@
+ANJALI BANERJEE
+Senior Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP12465
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.9 years of experience, based in Gurugram. Strong in SQL, Java, REST API Design and Microservices, with recent work in HR tech. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 10.9y)
+- Software Engineering: Java (Advanced, 5.2y), REST API Design (Advanced, 1.3y), Microservices (Proficient, 5.1y), C# (Proficient, 5.4y), Kafka (Working, 2.8y)
+- Cloud & DevOps: AWS (Proficient, 2.6y)
+- Delivery & Leadership: Communication (Proficient, 7.6y)
+
+EXPERIENCE
+* HR Tech Payments Microservices Platform — a global HR software company (2025-07 to present)
+  Built a payments microservices platform for a global HR software company in HR tech using Communication, C# and Kafka, reducing processing time by 22%.
+* HR Tech Payments Microservices Platform — a US HR software company (2024-11 to 2025-06)
+  Led the delivery of a payments microservices platform for a US HR software company in HR tech using Java and AWS, accelerating releases by 18%.
+* Media Streaming Self-service Portal — a global streaming platform (2023-05 to 2024-10)
+  Re-architected a self-service portal for a global streaming platform in media streaming using Kafka, Microservices, AWS and C#, saving ~35K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect

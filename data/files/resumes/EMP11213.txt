@@ -1,0 +1,34 @@
+AGNIESZKA SZYMAŃSKI
+CRM Consultant | Enterprise Applications | Kraków, Poland
+Employee ID: EMP11213
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 3.3 years of experience, based in Kraków. Strong in Salesforce, Requirements Gathering, Business Analysis and Process Improvement, with recent work in wealth management. Interested in moving towards CRM Consultant, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Proficient, 0.7y), Requirements Gathering (Proficient, 0.5y), Business Analysis (Working, 0.5y), Process Improvement (Working, 0.5y)
+- Software Engineering: JavaScript (Working, 1.3y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.0y)
+
+EXPERIENCE
+* Wealth Management Service Desk Automation — a European wealth manager (2026-06 to present)
+  Scaled a service desk automation for a European wealth manager in wealth management using Salesforce, Requirements Gathering and Process Improvement, reducing processing time by 35%.
+* Wealth Management Service Desk Automation — a European wealth manager (2025-11 to 2026-04)
+  Automated a service desk automation for a European wealth manager in wealth management using Business Analysis and Requirements Gathering, saving ~22K hours annually.
+* Wealth Management CRM Rollout — a fast-growing wealth manager (2024-02 to 2025-08)
+  Built a CRM rollout for a fast-growing wealth manager in wealth management using Salesforce, Process Improvement and Agile/Scrum, improving conversion by 22%.
+* Wealth Management Service Desk Automation — a global wealth manager (2023-09 to 2024-02)
+  Modernised a service desk automation for a global wealth manager in wealth management using Agile/Scrum, Requirements Gathering and Process Improvement, reducing processing time by 30%.
+
+CERTIFICATIONS
+- ServiceNow CSA (2024)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: CRM Consultant, Business Analyst

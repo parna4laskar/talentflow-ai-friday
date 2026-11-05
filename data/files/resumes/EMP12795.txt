@@ -1,0 +1,32 @@
+SEÁN MURPHY
+Lead Data Analyst | Data & Analytics | Dublin, Ireland
+Employee ID: EMP12795
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 10 years of experience, based in Dublin. Strong in Statistics, SQL, Power BI and A/B Testing, with recent work in public sector. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Expert, 4.9y), SQL (Advanced, 2.7y), Power BI (Advanced, 5.2y), Data Engineering (Advanced, 8.3y), Snowflake (Proficient, 4.4y), dbt (Proficient, 4.1y), Data Visualization (Beginner, 1.6y)
+- Product & Design: A/B Testing (Advanced, 9.2y)
+- Business & Finance: Business Analysis (Proficient, 1.3y)
+- Delivery & Leadership: Mentoring (Proficient, 7.5y), Stakeholder Management (Proficient, 0.6y)
+
+EXPERIENCE
+* Public Sector Executive KPI Dashboard Suite — a US government agency (2026-02 to present)
+  Modernised an executive KPI dashboard suite for a US government agency in public sector using SQL and Data Visualization, improving forecast accuracy by 30%.
+* Public Sector Executive KPI Dashboard Suite — a European government agency (2024-07 to 2025-12)
+  Re-architected an executive KPI dashboard suite for a European government agency in public sector using Business Analysis and A/B Testing, improving forecast accuracy by 35%.
+* Public Sector Executive KPI Dashboard Suite — a tier-1 government agency (2023-10 to 2024-06)
+  Modernised an executive KPI dashboard suite for a tier-1 government agency in public sector using Power BI, A/B Testing and dbt, improving forecast accuracy by 22%.
+* Public Sector Data Lakehouse — a US government agency (2022-12 to 2023-07)
+  Scaled a data lakehouse for a US government agency in public sector using A/B Testing, Data Visualization, Power BI and Mentoring, cutting cloud spend by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Analyst, Financial Analyst, Business Analyst, Product Manager

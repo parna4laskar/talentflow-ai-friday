@@ -1,0 +1,31 @@
+AARAV DAS
+Security Engineer | Cyber Security | Hyderabad, India
+Employee ID: EMP10886
+
+PROFESSIONAL SUMMARY
+Security Engineer with 4.1 years of experience, based in Hyderabad. Strong in Threat Modeling, Identity & Access Management, Application Security and Python, with recent work in public sector. Interested in moving towards Security Analyst roles.
+
+CORE SKILLS
+- Security: Threat Modeling (Advanced, 0.8y), Identity & Access Management (Advanced, 2.7y), Application Security (Proficient, 2.5y), Cloud Security (Beginner, 0.9y)
+- Software Engineering: Python (Proficient, 1.3y)
+- Cloud & DevOps: AWS (Proficient, 2.9y), GCP (Working, 0.5y)
+
+EXPERIENCE
+* Public Sector Identity and Access Platform — a global government agency (2026-04 to present)
+  Re-architected an identity and access platform for a global government agency in public sector using Python, Identity & Access Management, AWS and Application Security, closing 12% of open audit findings.
+* Public Sector Security Operations Centre Uplift — a fast-growing government agency (2025-08 to 2026-02)
+  Scaled a security operations centre uplift for a fast-growing government agency in public sector using Application Security, GCP, Identity & Access Management and AWS, reducing production incidents by 12%.
+* Public Sector Cloud Security Posture Programme — a global government agency (2024-11 to 2025-06)
+  Migrated a cloud security posture programme for a global government agency in public sector using Application Security and GCP, closing 25% of open audit findings.
+* Public Sector Security Operations Centre Uplift — an APAC government agency (2023-09 to 2024-10)
+  Led the delivery of a security operations centre uplift for an APAC government agency in public sector using Threat Modeling and Cloud Security, reducing production incidents by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Security Analyst

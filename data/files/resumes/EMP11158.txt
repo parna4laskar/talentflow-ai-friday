@@ -1,0 +1,32 @@
+TANVI O'SULLIVAN
+Principal Program Manager | Delivery Excellence | Chennai, India
+Employee ID: EMP11158
+
+PROFESSIONAL SUMMARY
+Principal Program Manager with 15.3 years of experience, based in Chennai. Strong in Risk Management, Agile/Scrum, Program Management and Stakeholder Management, with recent work in manufacturing IoT. Interested in moving towards Scrum Master roles and open to relocating to Hyderabad, Singapore.
+
+CORE SKILLS
+- Business & Finance: Risk Management (Expert, 4.9y)
+- Delivery & Leadership: Agile/Scrum (Expert, 15.3y), Program Management (Advanced, 0.7y), Stakeholder Management (Advanced, 9.7y), People Leadership (Advanced, 5.8y), Change Management (Advanced, 3.3y), Communication (Proficient, 5.9y)
+- Data & AI: Databricks (Advanced, 6.1y)
+
+EXPERIENCE
+* Manufacturing IoT Cloud Migration Programme — a European manufacturer (2026-03 to present)
+  Led a cloud migration programme for a European manufacturer in manufacturing IoT using Databricks and People Leadership, delivering on time across 6 workstreams.
+* Manufacturing IoT Agile Transformation — a tier-1 manufacturer (2024-09 to 2025-12)
+  Led an agile transformation for a tier-1 manufacturer in manufacturing IoT using Agile/Scrum and Risk Management, accelerating releases by 12%.
+* HR Tech Agile Transformation — a leading HR software company (2024-02 to 2024-07)
+  Led an agile transformation for a leading HR software company in HR tech using Communication, Databricks, Risk Management and Stakeholder Management, delivering on time across 4 workstreams.
+
+CERTIFICATIONS
+- PMP (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Scrum Master

@@ -1,0 +1,32 @@
+MRUNAL SUBRAMANIAN
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP12293
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.8 years of experience, based in Hyderabad. Strong in System Design, Microservices, C# and AWS, with recent work in airline operations. Interested in moving towards Engineering Manager, Cloud Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 11.9y), Microservices (Advanced, 7.1y), C# (Advanced, 4.9y), Kafka (Proficient, 8.9y)
+- Cloud & DevOps: AWS (Advanced, 9.9y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.0y), Mentoring (Proficient, 0.5y)
+
+EXPERIENCE
+* Payments Mobile Banking App — a global payments provider (2025-12 to present)
+  Migrated a mobile banking app for a global payments provider in payments using System Design and Stakeholder Management, improving conversion by 25%.
+* HR Tech Pricing Engine — a tier-1 HR software company (2024-08 to 2025-10)
+  Scaled a pricing engine for a tier-1 HR software company in HR tech using Stakeholder Management, System Design, Kafka and Mentoring, reducing processing time by 40%.
+* Airline Operations Self-service Portal — a tier-1 airline (2023-04 to 2024-05)
+  Migrated a self-service portal for a tier-1 airline in airline operations using Mentoring and Microservices, lifting NPS by 25 points.
+
+CERTIFICATIONS
+- TOGAF 10 (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Engineering Manager, Cloud Engineer

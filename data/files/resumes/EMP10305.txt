@@ -1,0 +1,27 @@
+DARRAGH WALSH
+Frontend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP10305
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.8 years of experience, based in Dublin. Strong in TypeScript, JavaScript, Angular and Figma, with recent work in e-commerce. Interested in moving towards Frontend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 1.5y), JavaScript (Proficient, 1.8y), Angular (Proficient, 1.8y), Node.js (Working, 0.8y), GraphQL (Working, 0.7y), Next.js (Beginner, 0.6y), React (Beginner, 0.6y)
+- Product & Design: Figma (Proficient, 0.8y), Design Systems (Working, 0.7y)
+- Quality Engineering: Playwright (Proficient, 1.1y)
+
+EXPERIENCE
+* Automotive Pricing Engine — a European car maker (2025-11 to present)
+  Scaled a pricing engine for a European car maker in automotive using TypeScript, JavaScript, Playwright and Figma, improving conversion by 35%.
+* Insurance Claims Mobile Banking App — a global insurer (2024-11 to 2025-08)
+  Modernised a mobile banking app for a global insurer in insurance claims using Next.js and Node.js, improving conversion by 30%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, Full Stack Engineer

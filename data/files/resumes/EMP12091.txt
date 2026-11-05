@@ -1,0 +1,34 @@
+VIVEK NAIDU
+Senior Site Reliability Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12091
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 5.7 years of experience, based in Bengaluru. Strong in Observability, Site Reliability Engineering, Kubernetes and Linux Administration, with recent work in e-commerce. Interested in moving towards Platform Engineer, Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Advanced, 1.0y), Site Reliability Engineering (Proficient, 4.0y), Kubernetes (Proficient, 1.4y), Linux Administration (Proficient, 2.9y), AWS (Proficient, 3.0y)
+- Security: Incident Response (Proficient, 1.7y)
+- Quality Engineering: Performance Testing (Proficient, 2.2y)
+- Software Engineering: Go (Proficient, 3.1y)
+- Delivery & Leadership: Communication (Proficient, 2.7y)
+- Data & AI: LLM Engineering (Working, 0.9y)
+
+EXPERIENCE
+* E-commerce Observability Stack — a tier-1 online retailer (2026-01 to present)
+  Scaled an observability stack for a tier-1 online retailer in e-commerce using Communication, Performance Testing, LLM Engineering and Linux Administration, reducing production incidents by 40%.
+* Media Streaming CI/CD Platform — a tier-1 streaming platform (2024-07 to 2025-11)
+  Migrated a CI/CD platform for a tier-1 streaming platform in media streaming using LLM Engineering and Linux Administration, accelerating releases by 25%.
+* Retail Banking Observability Stack — a tier-1 retail bank (2023-10 to 2024-05)
+  Modernised an observability stack for a tier-1 retail bank in retail banking using Linux Administration and Communication, accelerating releases by 18%.
+* Supply-chain Logistics Cloud Landing Zone — a European logistics company (2022-07 to 2023-07)
+  Built a cloud landing zone for a European logistics company in supply-chain logistics using Communication and AWS, cutting cloud spend by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Security Engineer

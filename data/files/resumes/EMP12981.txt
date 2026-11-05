@@ -1,0 +1,28 @@
+PRANAV KAUR
+Mobile Engineer | Engineering | Gurugram, India
+Employee ID: EMP12981
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 3.4 years of experience, based in Gurugram. Strong in Flutter, Mobile Development, CI/CD and TypeScript, with recent work in manufacturing IoT. Interested in moving towards Mobile Engineer, QA Engineer roles and open to relocating to Pune.
+
+CORE SKILLS
+- Software Engineering: Flutter (Advanced, 0.5y), Mobile Development (Proficient, 0.5y), TypeScript (Working, 1.2y)
+- Cloud & DevOps: CI/CD (Proficient, 1.1y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — an APAC manufacturer (2025-08 to present)
+  Modernised a claims processing engine for an APAC manufacturer in manufacturing IoT using TypeScript, Flutter, CI/CD and Mobile Development, reducing processing time by 30%.
+* Manufacturing IoT Self-service Portal — a European manufacturer (2024-10 to 2025-07)
+  Scaled a self-service portal for a European manufacturer in manufacturing IoT using Mobile Development, TypeScript, Flutter and CI/CD, saving ~40K hours annually.
+* Pharma R&D Order Management System — a US pharma company (2023-07 to 2024-09)
+  Designed an order management system for a US pharma company in pharma R&D using CI/CD and TypeScript, reducing processing time by 18%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer, QA Engineer, Full Stack Engineer, Frontend Engineer

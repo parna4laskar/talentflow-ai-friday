@@ -1,0 +1,35 @@
+YASH SEN
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10935
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.3 years of experience, based in Bengaluru. Strong in TypeScript, Angular, JavaScript and Node.js, with recent work in payments. Interested in moving towards Frontend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 4.1y), Angular (Advanced, 5.5y), JavaScript (Proficient, 1.9y), Node.js (Proficient, 4.0y)
+- Product & Design: Figma (Working, 2.1y)
+- Cloud & DevOps: CI/CD (Working, 0.5y), Terraform (Working, 3.0y)
+- Delivery & Leadership: Communication (Working, 2.0y)
+
+EXPERIENCE
+* Healthcare Customer Onboarding Platform — a European hospital network (2025-05 to present)
+  Modernised a customer onboarding platform for a European hospital network in healthcare using Angular, Node.js, CI/CD and TypeScript, lifting NPS by 35 points.
+* Payments Self-service Portal — an APAC payments provider (2024-07 to 2025-03)
+  Led the delivery of a self-service portal for an APAC payments provider in payments using TypeScript, Communication and Terraform, lifting NPS by 25 points.
+* Manufacturing IoT Pricing Engine — an APAC manufacturer (2023-11 to 2024-07)
+  Scaled a pricing engine for an APAC manufacturer in manufacturing IoT using Terraform and Communication, reducing processing time by 18%.
+* Pharma R&D Self-service Portal — a European pharma company (2022-05 to 2023-10)
+  Migrated a self-service portal for a European pharma company in pharma R&D using CI/CD, Angular and Figma, saving ~25K hours annually.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, Full Stack Engineer, QA Engineer, Mobile Engineer

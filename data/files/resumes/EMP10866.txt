@@ -1,0 +1,32 @@
+FATIMA DESHPANDE
+Senior Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP10866
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6.6 years of experience, based in Pune. Strong in TypeScript, Python, React and SQL, with recent work in insurance claims. Interested in moving towards Frontend Engineer, Software Architect roles and open to relocating to Singapore, Toronto, Kraków.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 4.6y), Python (Advanced, 6.1y), React (Proficient, 1.6y), GraphQL (Proficient, 3.8y), Next.js (Proficient, 3.6y), Microservices (Proficient, 4.8y), REST API Design (Proficient, 0.5y)
+- Data & AI: SQL (Proficient, 3.5y)
+- Cloud & DevOps: AWS (Working, 1.2y)
+
+EXPERIENCE
+* Insurance Claims Claims Processing Engine — an APAC insurer (2026-06 to present)
+  Built a claims processing engine for an APAC insurer in insurance claims using TypeScript, REST API Design, Microservices and AWS, saving ~40K hours annually.
+* Insurance Claims Payments Microservices Platform — a leading insurer (2025-08 to 2026-03)
+  Modernised a payments microservices platform for a leading insurer in insurance claims using GraphQL, Python and SQL, reducing production incidents by 22%.
+* Insurance Claims Self-service Portal — a fast-growing insurer (2024-05 to 2025-07)
+  Automated a self-service portal for a fast-growing insurer in insurance claims using Microservices and TypeScript, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, Software Architect, Mobile Engineer

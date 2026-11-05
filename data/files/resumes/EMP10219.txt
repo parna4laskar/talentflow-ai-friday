@@ -1,0 +1,32 @@
+ISHITA AGARWAL
+Lead Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP10219
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 8.2 years of experience, based in Gurugram. Strong in Python, React, SQL and AWS, with recent work in manufacturing IoT. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 1.0y), React (Advanced, 8.1y), Microservices (Advanced, 0.9y), TypeScript (Proficient, 4.4y), REST API Design (Proficient, 0.4y), GraphQL (Working, 0.5y)
+- Data & AI: SQL (Advanced, 1.9y)
+- Cloud & DevOps: AWS (Advanced, 1.7y), Docker (Proficient, 3.7y)
+- Delivery & Leadership: People Leadership (Advanced, 1.2y), Communication (Proficient, 3.1y)
+
+EXPERIENCE
+* Manufacturing IoT Payments Microservices Platform — a tier-1 manufacturer (2026-01 to present)
+  Designed a payments microservices platform for a tier-1 manufacturer in manufacturing IoT using Python, Microservices and SQL, accelerating releases by 22%.
+* Public Sector Order Management System — a European government agency (2024-09 to 2025-11)
+  Re-architected an order management system for a European government agency in public sector using AWS, TypeScript, React and Docker, onboarding 4 new enterprise clients.
+* Manufacturing IoT Pricing Engine — an APAC manufacturer (2023-01 to 2024-06)
+  Scaled a pricing engine for an APAC manufacturer in manufacturing IoT using Communication and TypeScript, improving conversion by 22%.
+* Manufacturing IoT Mobile Banking App — a global manufacturer (2021-11 to 2022-11)
+  Led the delivery of a mobile banking app for a global manufacturer in manufacturing IoT using Python and REST API Design, lifting NPS by 40 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer

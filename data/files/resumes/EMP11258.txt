@@ -1,0 +1,27 @@
+LAKSHMI GOKHALE
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP11258
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1.1 years of experience, based in Bengaluru. Strong in Python, SQL, Data Engineering and dbt, with recent work in manufacturing IoT. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.6y)
+- Data & AI: SQL (Working, 0.5y), Data Engineering (Working, 0.4y), dbt (Working, 0.3y), Airflow (Working, 0.3y), Data Governance (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Regulatory Reporting Suite — a US retail bank (2026-03 to present)
+  Scaled a regulatory reporting suite for a US retail bank in retail banking using Data Engineering, Airflow and AWS, reducing processing time by 22%.
+* Manufacturing IoT Executive KPI Dashboard Suite — a US manufacturer (2025-07 to 2026-01)
+  Scaled an executive KPI dashboard suite for a US manufacturer in manufacturing IoT using AWS, SQL and Data Governance, improving forecast accuracy by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Engineer, Data Analyst, Data Scientist, Backend Engineer

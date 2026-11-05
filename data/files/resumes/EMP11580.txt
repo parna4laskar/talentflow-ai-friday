@@ -1,0 +1,30 @@
+NAVEEN MEHTA
+Lead Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11580
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 10.9 years of experience, based in Hyderabad. Strong in Angular, Python, Docker and Microservices, with recent work in insurance claims. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 2.6y), Python (Advanced, 4.6y), Microservices (Advanced, 10.4y), Next.js (Advanced, 0.8y), TypeScript (Proficient, 3.7y), GraphQL (Proficient, 0.4y), REST API Design (Proficient, 5.0y), Kafka (Proficient, 5.1y)
+- Cloud & DevOps: Docker (Advanced, 1.0y)
+- Data & AI: SQL (Proficient, 2.2y)
+- Delivery & Leadership: Communication (Proficient, 0.7y), Mentoring (Working, 4.8y)
+
+EXPERIENCE
+* Insurance Claims Customer Onboarding Platform — a fast-growing insurer (2026-03 to present)
+  Modernised a customer onboarding platform for a fast-growing insurer in insurance claims using Communication and SQL, improving conversion by 22%.
+* Supply-chain Logistics Payments Microservices Platform — a US logistics company (2025-03 to 2026-01)
+  Modernised a payments microservices platform for a US logistics company in supply-chain logistics using SQL and TypeScript, reducing processing time by 40%.
+* Retail Banking Payments Microservices Platform — a global retail bank (2023-10 to 2025-01)
+  Re-architected a payments microservices platform for a global retail bank in retail banking using Python and TypeScript, reducing production incidents by 12%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Backend Engineer

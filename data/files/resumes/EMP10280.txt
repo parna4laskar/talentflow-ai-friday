@@ -1,0 +1,31 @@
+BHAVANA DAS
+Senior Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP10280
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 9.2 years of experience, based in Gurugram. Strong in Microservices, Java, SQL and REST API Design, with recent work in public sector. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 7.2y), Java (Advanced, 1.2y), REST API Design (Proficient, 4.5y), System Design (Proficient, 4.1y), Spring Boot (Proficient, 6.8y), GraphQL (Proficient, 1.2y), .NET Core (Working, 3.2y)
+- Data & AI: SQL (Advanced, 6.8y)
+- Quality Engineering: Playwright (Proficient, 2.1y)
+- Delivery & Leadership: Communication (Working, 3.3y)
+- Cloud & DevOps: Docker (Beginner, 1.9y)
+
+EXPERIENCE
+* HR Tech Payments Microservices Platform — a tier-1 HR software company (2025-09 to present)
+  Led the delivery of a payments microservices platform for a tier-1 HR software company in HR tech using System Design, Java, Spring Boot and SQL, accelerating releases by 35%.
+* Public Sector Mobile Banking App — a tier-1 government agency (2024-06 to 2025-07)
+  Modernised a mobile banking app for a tier-1 government agency in public sector using Java, System Design and SQL, lifting NPS by 18 points.
+* E-commerce Payments Microservices Platform — an APAC online retailer (2023-02 to 2024-05)
+  Automated a payments microservices platform for an APAC online retailer in e-commerce using Playwright, GraphQL, SQL and Java, accelerating releases by 12%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer

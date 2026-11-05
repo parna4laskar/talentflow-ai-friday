@@ -1,0 +1,30 @@
+IMRAN AGARWAL
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP11008
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 11.9 years of experience, based in Pune. Strong in People Leadership, Stakeholder Management, LLM Engineering and System Design, with recent work in airline operations. Interested in moving towards Scrum Master, Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 8.7y), Stakeholder Management (Advanced, 10.3y), Agile/Scrum (Proficient, 7.6y), Mentoring (Proficient, 3.6y)
+- Data & AI: LLM Engineering (Advanced, 6.4y)
+- Software Engineering: System Design (Proficient, 1.2y), Python (Proficient, 5.0y), Java (Proficient, 5.4y)
+- Cloud & DevOps: AWS (Proficient, 7.5y)
+
+EXPERIENCE
+* Airline Operations Payments Microservices Platform — a US airline (2026-01 to present)
+  Re-architected a payments microservices platform for a US airline in airline operations using AWS, People Leadership and Java, reducing production incidents by 25%.
+* Airline Operations Customer Onboarding Platform — an APAC airline (2024-10 to 2025-10)
+  Scaled a customer onboarding platform for an APAC airline in airline operations using Stakeholder Management and System Design, lifting NPS by 35 points.
+* Public Sector Claims Processing Engine — a US government agency (2023-05 to 2024-09)
+  Scaled a claims processing engine for a US government agency in public sector using Mentoring, Agile/Scrum and AWS, reducing processing time by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Scrum Master, Software Architect, Backend Engineer

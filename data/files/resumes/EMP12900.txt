@@ -1,0 +1,28 @@
+SURESH SEN
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP12900
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 10.4 years of experience, based in Pune. Strong in People Leadership, System Design, Microservices and Agile/Scrum, with recent work in retail banking. Interested in moving towards Engineering Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 9.4y), Agile/Scrum (Proficient, 6.3y), Stakeholder Management (Proficient, 5.9y), Mentoring (Proficient, 4.3y), Program Management (Proficient, 6.1y)
+- Software Engineering: System Design (Advanced, 1.7y), Microservices (Advanced, 7.1y)
+
+EXPERIENCE
+* Retail Banking Payments Microservices Platform — a tier-1 retail bank (2026-10 to present)
+  Built a payments microservices platform for a tier-1 retail bank in retail banking using Stakeholder Management and System Design, reducing processing time by 35%.
+* Retail Banking Self-service Portal — a leading retail bank (2025-09 to 2026-10)
+  Scaled a self-service portal for a leading retail bank in retail banking using Agile/Scrum, Program Management, People Leadership and System Design, lifting NPS by 22 points.
+* Retail Banking Order Management System — a global retail bank (2023-12 to 2025-06)
+  Scaled an order management system for a global retail bank in retail banking using People Leadership, Mentoring and Stakeholder Management, onboarding 2 new enterprise clients.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager, Backend Engineer

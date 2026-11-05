@@ -1,0 +1,32 @@
+ANJALI LEE
+Principal Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12249
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 16.2 years of experience, based in Bengaluru. Strong in Data Engineering, Mentoring, SQL and Python, with recent work in healthcare. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 3.7y), SQL (Advanced, 4.7y), Airflow (Advanced, 15.7y), Data Governance (Advanced, 3.3y), Databricks (Advanced, 15.2y), dbt (Proficient, 5.5y)
+- Delivery & Leadership: Mentoring (Expert, 0.7y), Communication (Proficient, 6.0y)
+- Software Engineering: Python (Advanced, 11.0y), Kafka (Advanced, 13.2y)
+- Cloud & DevOps: AWS (Advanced, 15.4y)
+- Quality Engineering: Playwright (Advanced, 9.5y)
+- People & Marketing: People Analytics (Working, 5.9y)
+
+EXPERIENCE
+* Healthcare Real-time Analytics Pipeline — a European hospital network (2026-07 to present)
+  Built a real-time analytics pipeline for a European hospital network in healthcare using Mentoring and Databricks, reducing processing time by 18%.
+* Media Streaming Executive KPI Dashboard Suite — a European streaming platform (2025-02 to 2026-05)
+  Scaled an executive KPI dashboard suite for a European streaming platform in media streaming using Communication, Databricks, Mentoring and Data Engineering, saving ~12K hours annually.
+* Healthcare Customer Churn Model — a European hospital network (2024-05 to 2024-12)
+  Migrated a customer churn model for a European hospital network in healthcare using Playwright, SQL, Databricks and AWS, improving conversion by 12%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, AI Engineer, ML Engineer

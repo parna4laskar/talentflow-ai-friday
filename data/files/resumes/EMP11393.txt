@@ -1,0 +1,29 @@
+AHMAD LIM
+Associate Data Analyst | Data & Analytics | Singapore, Singapore
+Employee ID: EMP11393
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 1.2 years of experience, based in Singapore. Strong in Data Visualization, Power BI, SQL and Statistics, with recent work in HR tech. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 1.1y), Power BI (Proficient, 0.7y), SQL (Working, 0.5y), Statistics (Working, 0.5y), Snowflake (Beginner, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.6y), Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* HR Tech Customer Churn Model — a fast-growing HR software company (2026-05 to present)
+  Built a customer churn model for a fast-growing HR software company in HR tech using Snowflake, SQL and Communication, improving conversion by 35%.
+* HR Tech Real-time Analytics Pipeline — a European HR software company (2025-02 to 2026-03)
+  Designed a real-time analytics pipeline for a European HR software company in HR tech using Power BI and Statistics, cutting cloud spend by 25%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Mandarin, Arabic
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst

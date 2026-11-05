@@ -1,0 +1,36 @@
+SANJANA BANERJEE
+Lead DevOps Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12124
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 14.1 years of experience, based in Chennai. Strong in Terraform, Go, Kubernetes and GCP, with recent work in healthcare. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 3.4y), Kubernetes (Advanced, 10.8y), GCP (Advanced, 6.2y), Observability (Advanced, 4.2y), CI/CD (Proficient, 5.5y), Docker (Proficient, 1.9y), Linux Administration (Proficient, 6.4y)
+- Software Engineering: Go (Expert, 12.6y), Python (Proficient, 4.6y)
+- Delivery & Leadership: Mentoring (Advanced, 13.0y), Stakeholder Management (Working, 3.3y)
+- Data & AI: Agentic AI (Working, 3.6y)
+
+EXPERIENCE
+* Pharma R&D Cloud Landing Zone — a tier-1 pharma company (2025-10 to present)
+  Automated a cloud landing zone for a tier-1 pharma company in pharma R&D using Mentoring, Terraform and GCP, cutting cloud spend by 30%.
+* Wealth Management Cloud Landing Zone — an APAC wealth manager (2024-06 to 2025-09)
+  Modernised a cloud landing zone for an APAC wealth manager in wealth management using Docker, Linux Administration, Python and Agentic AI, cutting cloud spend by 40%.
+* Manufacturing IoT Data-centre Exit To Cloud — a European manufacturer (2022-12 to 2024-04)
+  Re-architected a data-centre exit to cloud for a European manufacturer in manufacturing IoT using Python and Go, cutting cloud spend by 25%.
+* Healthcare Observability Stack — a global hospital network (2021-10 to 2022-09)
+  Built an observability stack for a global hospital network in healthcare using Kubernetes and Python, reducing production incidents by 40%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2024)
+- HashiCorp Terraform Associate (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Site Reliability Engineer, Cloud Engineer

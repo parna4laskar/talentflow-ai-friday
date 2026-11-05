@@ -1,0 +1,31 @@
+SIDDHARTH SHEIKH
+Associate ML Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP10004
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 0.2 years of experience, based in Chennai. Strong in MLOps, Deep Learning, Python and NLP, with recent work in airline operations. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: MLOps (Advanced, 0.3y), Deep Learning (Advanced, 0.3y), NLP (Proficient, 0.3y), Machine Learning (Working, 0.3y), Generative AI (Working, 0.3y)
+- Software Engineering: Python (Proficient, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.3y)
+- Cloud & DevOps: Docker (Working, 0.3y), Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* Media Streaming Fraud Detection Model — a global streaming platform (2025-10 to present)
+  Modernised a fraud detection model for a global streaming platform in media streaming using Deep Learning, Kubernetes and MLOps, improving model accuracy by 18%.
+* Automotive Document Intelligence Pipeline — a leading car maker (2024-12 to 2025-10)
+  Migrated a document intelligence pipeline for a leading car maker in automotive using Docker, MLOps, Deep Learning and Communication, reducing processing time by 18%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Scientist

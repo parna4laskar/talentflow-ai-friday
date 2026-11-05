@@ -1,0 +1,28 @@
+GEORGE SMITH
+Lead UX Designer | Design | London, United Kingdom
+Employee ID: EMP11852
+
+PROFESSIONAL SUMMARY
+Lead UX Designer with 12.3 years of experience, based in London. Strong in UX Research, UI Design, Figma and Communication, with recent work in payments. Interested in moving towards UX Designer, Talent Acquisition Specialist roles.
+
+CORE SKILLS
+- Product & Design: UX Research (Expert, 7.1y), UI Design (Advanced, 6.4y), Figma (Advanced, 3.2y), Product Management (Proficient, 4.3y), Design Systems (Proficient, 0.9y)
+- Delivery & Leadership: People Leadership (Expert, 3.0y), Communication (Advanced, 7.9y), Mentoring (Proficient, 9.0y), Stakeholder Management (Working, 5.9y)
+
+EXPERIENCE
+* Payments Enterprise Design System — a US payments provider (2025-11 to present)
+  Redesigned an enterprise design system for a US payments provider in payments using Product Management, Mentoring, Stakeholder Management and Design Systems, lifting NPS by 12 points.
+* Automotive Enterprise Design System — a fast-growing car maker (2024-06 to 2025-09)
+  Designed an enterprise design system for a fast-growing car maker in automotive using Product Management, Mentoring, Figma and Stakeholder Management, lifting NPS by 35 points.
+* Insurance Claims Customer Self-service Journey — a leading insurer (2023-01 to 2024-04)
+  Redesigned a customer self-service journey for a leading insurer in insurance claims using UX Research and Stakeholder Management, improving conversion by 18%.
+
+EDUCATION
+- BA Psychology
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: UX Designer, Talent Acquisition Specialist, Frontend Engineer

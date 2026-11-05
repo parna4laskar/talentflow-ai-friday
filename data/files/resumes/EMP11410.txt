@@ -1,0 +1,32 @@
+CARLOS DAVIS
+Lead Data Engineer | Data & Analytics | Austin, United States
+Employee ID: EMP11410
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 9.6 years of experience, based in Austin. Strong in Python, Data Engineering, dbt and Data Governance, with recent work in retail banking. Interested in moving towards ML Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 8.6y), Go (Working, 3.6y)
+- Data & AI: Data Engineering (Advanced, 4.5y), dbt (Advanced, 4.5y), Data Governance (Advanced, 2.8y), SQL (Proficient, 2.2y)
+- Cloud & DevOps: AWS (Proficient, 4.0y)
+
+EXPERIENCE
+* Airline Operations Real-time Analytics Pipeline — a US airline (2026-05 to present)
+  Led the delivery of a real-time analytics pipeline for a US airline in airline operations using AWS, Data Engineering, dbt and SQL, reducing processing time by 12%.
+* Retail Banking Regulatory Reporting Suite — a fast-growing retail bank (2025-06 to 2026-02)
+  Modernised a regulatory reporting suite for a fast-growing retail bank in retail banking using SQL, AWS, dbt and Python, reducing processing time by 25%.
+* Retail Banking Customer Churn Model — an APAC retail bank (2024-06 to 2025-05)
+  Modernised a customer churn model for an APAC retail bank in retail banking using Data Governance, Go and AWS, improving conversion by 35%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: ML Engineer, Data Analyst, Backend Engineer

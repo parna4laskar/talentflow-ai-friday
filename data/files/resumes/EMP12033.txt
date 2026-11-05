@@ -1,0 +1,32 @@
+VENKAT SEN
+Lead Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12033
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 11.1 years of experience, based in Pune. Strong in SQL, Python, Data Engineering and Communication, with recent work in healthcare. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.5y), Data Engineering (Advanced, 7.3y), Apache Spark (Proficient, 4.4y), Data Governance (Proficient, 4.2y), Agentic AI (Proficient, 7.8y), dbt (Working, 1.7y)
+- Software Engineering: Python (Advanced, 3.3y)
+- Delivery & Leadership: Communication (Advanced, 8.6y), Stakeholder Management (Working, 3.0y)
+
+EXPERIENCE
+* Healthcare Customer Churn Model — a US hospital network (2025-07 to present)
+  Led the delivery of a customer churn model for a US hospital network in healthcare using Communication, Data Governance and dbt, improving model accuracy by 35%.
+* Healthcare Executive KPI Dashboard Suite — a European hospital network (2024-06 to 2025-06)
+  Designed an executive KPI dashboard suite for a European hospital network in healthcare using Data Engineering and SQL, improving forecast accuracy by 35%.
+* Healthcare Real-time Analytics Pipeline — a fast-growing hospital network (2023-10 to 2024-04)
+  Built a real-time analytics pipeline for a fast-growing hospital network in healthcare using Data Engineering and Apache Spark, cutting cloud spend by 18%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Scientist

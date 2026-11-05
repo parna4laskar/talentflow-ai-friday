@@ -1,0 +1,32 @@
+ADITYA DESHPANDE
+Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP10230
+
+PROFESSIONAL SUMMARY
+Data Analyst with 3.2 years of experience, based in Bengaluru. Strong in Data Visualization, Tableau, Statistics and A/B Testing, with recent work in insurance claims. Interested in moving towards Data Analyst, Financial Analyst roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 2.3y), Tableau (Proficient, 0.6y), Statistics (Proficient, 1.6y), SQL (Working, 0.9y)
+- Product & Design: A/B Testing (Proficient, 1.9y)
+- Business & Finance: Business Analysis (Proficient, 1.6y)
+
+EXPERIENCE
+* Public Sector Real-time Analytics Pipeline — a leading government agency (2026-09 to present)
+  Migrated a real-time analytics pipeline for a leading government agency in public sector using Business Analysis, Data Visualization, Tableau and SQL, cutting cloud spend by 25%.
+* Airline Operations Data Lakehouse — a tier-1 airline (2025-04 to 2026-08)
+  Led the delivery of a data lakehouse for a tier-1 airline in airline operations using Tableau, Data Visualization, SQL and Business Analysis, reducing processing time by 22%.
+* Insurance Claims Executive KPI Dashboard Suite — a US insurer (2024-05 to 2025-03)
+  Migrated an executive KPI dashboard suite for a US insurer in insurance claims using SQL and Tableau, saving ~12K hours annually.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, Financial Analyst, Data Scientist

@@ -1,0 +1,29 @@
+ABHISHEK KAPOOR
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11988
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.7 years of experience, based in Pune. Strong in REST API Design, SQL, Microservices and Kafka, with recent work in automotive. Interested in moving towards Engineering Manager, AI Engineer roles and open to relocating to London.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 3.2y), Microservices (Proficient, 2.7y), Kafka (Proficient, 1.6y), GraphQL (Proficient, 2.8y), Java (Working, 0.9y), Spring Boot (Working, 1.2y), .NET Core (Working, 1.6y)
+- Data & AI: SQL (Proficient, 0.7y)
+- Cloud & DevOps: Kubernetes (Proficient, 2.6y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — an APAC hospital network (2026-03 to present)
+  Led the delivery of a mobile banking app for an APAC hospital network in healthcare using Java, REST API Design, .NET Core and Kubernetes, lifting NPS by 12 points.
+* Automotive Mobile Banking App — a leading car maker (2025-04 to 2026-02)
+  Scaled a mobile banking app for a leading car maker in automotive using SQL and REST API Design, improving conversion by 25%.
+* Telecom Billing Order Management System — a fast-growing telecom operator (2023-12 to 2025-01)
+  Automated an order management system for a fast-growing telecom operator in telecom billing using .NET Core and SQL, reducing processing time by 40%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager, AI Engineer, Software Architect

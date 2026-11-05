@@ -1,0 +1,30 @@
+HARSH GAGNON
+DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10857
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.2 years of experience, based in Hyderabad. Strong in AWS, Kubernetes, Python and CI/CD, with recent work in airline operations. Interested in moving towards Backend Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Expert, 2.5y), Kubernetes (Advanced, 1.9y), CI/CD (Proficient, 1.6y), Observability (Proficient, 0.7y), Docker (Working, 0.8y)
+- Software Engineering: Python (Advanced, 2.9y)
+
+EXPERIENCE
+* Airline Operations CI/CD Platform — a tier-1 airline (2026-03 to present)
+  Built a CI/CD platform for a tier-1 airline in airline operations using CI/CD and AWS, accelerating releases by 18%.
+* Airline Operations Data-centre Exit To Cloud — a US airline (2025-07 to 2026-03)
+  Led the delivery of a data-centre exit to cloud for a US airline in airline operations using Kubernetes, Docker, Python and Observability, delivering $2M in cost savings.
+* Airline Operations CI/CD Platform — a global airline (2023-12 to 2025-05)
+  Built a CI/CD platform for a global airline in airline operations using Observability, AWS, CI/CD and Kubernetes, accelerating releases by 18%.
+* Public Sector Observability Stack — a US government agency (2023-04 to 2023-10)
+  Built an observability stack for a US government agency in public sector using Kubernetes and AWS, reducing production incidents by 30%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Cloud Engineer

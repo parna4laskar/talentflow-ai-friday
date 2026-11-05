@@ -1,0 +1,30 @@
+PALLAVI KAPOOR
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP12144
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 10 years of experience, based in Bengaluru. Strong in System Design, Agile/Scrum, Python and Mentoring, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, Software Architect roles and open to relocating to Austin, Dublin, Kraków.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 6.1y), Python (Advanced, 1.7y), Microservices (Working, 4.2y), Kafka (Working, 1.7y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 5.6y), Mentoring (Advanced, 2.9y), Stakeholder Management (Proficient, 4.1y), Communication (Proficient, 6.5y), People Leadership (Working, 4.3y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — a leading manufacturer (2026-05 to present)
+  Built a claims processing engine for a leading manufacturer in manufacturing IoT using System Design and Microservices, reducing processing time by 30%.
+* Manufacturing IoT Payments Microservices Platform — a leading manufacturer (2025-03 to 2026-03)
+  Re-architected a payments microservices platform for a leading manufacturer in manufacturing IoT using Stakeholder Management, System Design, Python and People Leadership, accelerating releases by 35%.
+* Manufacturing IoT Customer Onboarding Platform — a tier-1 manufacturer (2023-09 to 2025-01)
+  Designed a customer onboarding platform for a tier-1 manufacturer in manufacturing IoT using Mentoring, Communication and Python, lifting NPS by 25 points.
+* Airline Operations Claims Processing Engine — a US airline (2023-04 to 2023-09)
+  Scaled a claims processing engine for a US airline in airline operations using Microservices and Agile/Scrum, reducing processing time by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Engineering Manager, Software Architect, Program Manager, Scrum Master

@@ -1,0 +1,35 @@
+GURPREET CHATTERJEE
+Principal Data Engineer | Data & Analytics | Gurugram, India
+Employee ID: EMP10987
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 17.2 years of experience, based in Gurugram. Strong in Data Engineering, dbt, Stakeholder Management and SQL, with recent work in wealth management. Interested in moving towards Data Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 5.7y), dbt (Expert, 17.2y), SQL (Advanced, 2.4y), Apache Spark (Advanced, 8.9y), Airflow (Proficient, 1.6y), LLM Engineering (Proficient, 8.6y)
+- Delivery & Leadership: Stakeholder Management (Expert, 4.7y), Mentoring (Advanced, 12.7y)
+- Software Engineering: Python (Advanced, 2.1y)
+- Cloud & DevOps: AWS (Advanced, 17.0y)
+
+EXPERIENCE
+* Wealth Management Data Lakehouse — a global wealth manager (2026-04 to present)
+  Automated a data lakehouse for a global wealth manager in wealth management using Airflow, Mentoring, Stakeholder Management and SQL, cutting cloud spend by 25%.
+* Healthcare Real-time Analytics Pipeline — an APAC hospital network (2024-11 to 2026-01)
+  Migrated a real-time analytics pipeline for an APAC hospital network in healthcare using Apache Spark and Stakeholder Management, cutting cloud spend by 12%.
+* Wealth Management Data Lakehouse — a US wealth manager (2023-08 to 2024-08)
+  Migrated a data lakehouse for a US wealth manager in wealth management using Airflow, AWS and Mentoring, reducing processing time by 40%.
+* Wealth Management Real-time Analytics Pipeline — an APAC wealth manager (2022-10 to 2023-08)
+  Led the delivery of a real-time analytics pipeline for an APAC wealth manager in wealth management using AWS, Apache Spark, Mentoring and dbt, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Engineer, Data Scientist

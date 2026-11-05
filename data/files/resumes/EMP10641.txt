@@ -1,0 +1,33 @@
+ALEKSANDRA NOWAK
+Senior Product Manager | Product | Kraków, Poland
+Employee ID: EMP10641
+
+PROFESSIONAL SUMMARY
+Senior Product Manager with 5.7 years of experience, based in Kraków. Strong in Stakeholder Management, A/B Testing, Product Management and SQL, with recent work in manufacturing IoT. Interested in moving towards Product Manager, Project Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.1y)
+- Product & Design: A/B Testing (Advanced, 5.6y), Product Management (Proficient, 1.5y), Roadmapping (Working, 1.6y), UX Research (Working, 1.8y)
+- Data & AI: SQL (Proficient, 1.0y)
+- Quality Engineering: Playwright (Working, 2.5y)
+
+EXPERIENCE
+* Manufacturing IoT AI-assisted Customer Journey — a US manufacturer (2025-12 to present)
+  Launched an AI-assisted customer journey for a US manufacturer in manufacturing IoT using Playwright, SQL and Roadmapping, improving conversion by 18%.
+* Wealth Management AI-assisted Customer Journey — a European wealth manager (2025-01 to 2025-10)
+  Owned an AI-assisted customer journey for a European wealth manager in wealth management using SQL, Product Management, Roadmapping and UX Research, saving ~30K hours annually.
+* Insurance Claims B2B Analytics Product — a European insurer (2023-06 to 2024-12)
+  Led discovery for a B2B analytics product for a European insurer in insurance claims using A/B Testing and SQL, growing account revenue by 30%.
+
+CERTIFICATIONS
+- Pragmatic Institute PMC (2022)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Product Manager, Project Manager, Scrum Master

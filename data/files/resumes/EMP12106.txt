@@ -1,0 +1,35 @@
+SANJANA KRISHNAN
+Lead ML Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP12106
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 10.3 years of experience, based in Bengaluru. Strong in Machine Learning, Python, MLOps and Deep Learning, with recent work in automotive. Interested in moving towards Data Scientist roles and open to relocating to Kraków, Austin, Singapore.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Expert, 8.9y), MLOps (Advanced, 9.5y), Deep Learning (Advanced, 9.6y), Computer Vision (Proficient, 5.4y), Databricks (Proficient, 1.8y), NLP (Working, 1.6y)
+- Software Engineering: Python (Advanced, 6.8y)
+- Cloud & DevOps: AWS (Proficient, 3.5y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.6y)
+
+EXPERIENCE
+* Automotive Fraud Detection Model — a European car maker (2025-07 to present)
+  Migrated a fraud detection model for a European car maker in automotive using Stakeholder Management, AWS and NLP, improving model accuracy by 25%.
+* Automotive Knowledge Assistant (RAG) — a tier-1 car maker (2024-12 to 2025-05)
+  Built a knowledge assistant (RAG) for a tier-1 car maker in automotive using NLP and Deep Learning, saving ~30K hours annually.
+* Pharma R&D Recommendation Engine — a US pharma company (2023-06 to 2024-11)
+  Built a recommendation engine for a US pharma company in pharma R&D using Databricks and Stakeholder Management, improving conversion by 40%.
+* Insurance Claims Fraud Detection Model — a US insurer (2022-04 to 2023-03)
+  Migrated a fraud detection model for a US insurer in insurance claims using MLOps and Databricks, improving model accuracy by 12%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2024)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist

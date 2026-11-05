@@ -1,0 +1,35 @@
+TANVI SUBRAMANIAN
+Product Manager | Product | Hyderabad, India
+Employee ID: EMP10226
+
+PROFESSIONAL SUMMARY
+Product Manager with 4.9 years of experience, based in Hyderabad. Strong in Roadmapping, Product Management, Product Strategy and A/B Testing, with recent work in energy trading. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Product & Design: Roadmapping (Advanced, 3.8y), Product Management (Proficient, 3.3y), Product Strategy (Proficient, 3.4y), A/B Testing (Proficient, 3.7y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.9y)
+- Data & AI: SQL (Working, 0.9y), Generative AI (Working, 0.8y), Agentic AI (Working, 1.9y)
+
+EXPERIENCE
+* Energy Trading Mobile App Relaunch — a European energy company (2026-03 to present)
+  Led discovery for a mobile app relaunch for a European energy company in energy trading using Agentic AI, Product Strategy, Roadmapping and Generative AI, improving conversion by 25%.
+* Supply-chain Logistics Checkout Experience — a global logistics company (2025-01 to 2025-12)
+  Led discovery for a checkout experience for a global logistics company in supply-chain logistics using Product Strategy and Stakeholder Management, lifting NPS by 25 points.
+* Automotive Checkout Experience — an APAC car maker (2024-01 to 2024-11)
+  Defined the roadmap for a checkout experience for an APAC car maker in automotive using Product Strategy and SQL, improving conversion by 22%.
+* Energy Trading B2B Analytics Product — a US energy company (2022-08 to 2023-10)
+  Led discovery for a B2B analytics product for a US energy company in energy trading using Generative AI, Roadmapping, A/B Testing and SQL, growing account revenue by 25%.
+
+CERTIFICATIONS
+- Pragmatic Institute PMC (2023)
+- SAFe POPM (2026)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst

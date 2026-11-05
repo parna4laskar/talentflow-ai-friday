@@ -1,0 +1,33 @@
+PALLAVI SUBRAMANIAN
+Senior QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10931
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 8.7 years of experience, based in Bengaluru. Strong in API Testing, Test Automation, Selenium and Java, with recent work in airline operations. Interested in moving towards QA Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 4.5y), Test Automation (Advanced, 5.4y), Selenium (Advanced, 3.9y)
+- Software Engineering: Java (Advanced, 1.7y), C# (Working, 3.1y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.7y)
+- Data & AI: SQL (Proficient, 5.3y)
+- Cloud & DevOps: CI/CD (Working, 2.0y), Platform Engineering (Working, 2.0y)
+
+EXPERIENCE
+* Energy Trading Performance Engineering Programme — a leading energy company (2026-11 to present)
+  Built a performance engineering programme for a leading energy company in energy trading using Selenium, Agile/Scrum and Platform Engineering, accelerating releases by 35%.
+* Airline Operations Performance Engineering Programme — a global airline (2025-05 to 2026-10)
+  Re-architected a performance engineering programme for a global airline in airline operations using Test Automation, Agile/Scrum and Selenium, accelerating releases by 18%.
+* Airline Operations Performance Engineering Programme — a European airline (2023-10 to 2025-04)
+  Migrated a performance engineering programme for a European airline in airline operations using Java, CI/CD and SQL, accelerating releases by 22%.
+* Public Sector API Contract-testing Suite — a global government agency (2022-01 to 2023-07)
+  Led the delivery of an API contract-testing suite for a global government agency in public sector using CI/CD and SQL, reducing production incidents by 40%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: QA Engineer, Engineering Manager, Mobile Engineer, Backend Engineer

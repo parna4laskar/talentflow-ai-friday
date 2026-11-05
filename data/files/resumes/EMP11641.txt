@@ -1,0 +1,29 @@
+ARJUN GOKHALE
+Senior Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP11641
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 9 years of experience, based in Pune. Strong in Python, dbt, SQL and Data Engineering, with recent work in retail banking. Interested in moving towards Data Engineer, Backend Engineer roles and open to relocating to Singapore, Toronto, Gurugram.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 8.4y), Kafka (Proficient, 1.1y)
+- Data & AI: dbt (Advanced, 3.0y), SQL (Proficient, 6.5y), Data Engineering (Proficient, 6.3y), Apache Spark (Proficient, 0.7y), Snowflake (Proficient, 2.3y), Databricks (Proficient, 3.1y), Generative AI (Working, 3.3y)
+- Cloud & DevOps: AWS (Working, 3.5y)
+
+EXPERIENCE
+* HR Tech Real-time Analytics Pipeline — an APAC HR software company (2026-01 to present)
+  Designed a real-time analytics pipeline for an APAC HR software company in HR tech using SQL and dbt, reducing processing time by 25%.
+* HR Tech Regulatory Reporting Suite — a European HR software company (2025-02 to 2025-12)
+  Re-architected a regulatory reporting suite for a European HR software company in HR tech using Databricks, dbt and Snowflake, saving ~40K hours annually.
+* Retail Banking Executive KPI Dashboard Suite — a tier-1 retail bank (2024-05 to 2024-11)
+  Modernised an executive KPI dashboard suite for a tier-1 retail bank in retail banking using Generative AI, dbt, Databricks and SQL, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Engineer, Backend Engineer, Data Scientist, AI Engineer

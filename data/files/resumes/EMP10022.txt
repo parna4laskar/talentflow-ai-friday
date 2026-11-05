@@ -1,0 +1,33 @@
+MICHAŁ WILSON
+Cloud Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP10022
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5 years of experience, based in Kraków. Strong in GCP, Terraform, Linux Administration and Platform Engineering, with recent work in insurance claims. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 3.0y), Terraform (Advanced, 3.8y), Linux Administration (Proficient, 2.2y), Platform Engineering (Proficient, 1.0y), Kubernetes (Beginner, 1.0y), CI/CD (Beginner, 0.3y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Insurance Claims CI/CD Platform — a tier-1 insurer (2026-06 to present)
+  Designed a CI/CD platform for a tier-1 insurer in insurance claims using Kubernetes, Linux Administration and Python, accelerating releases by 35%.
+* Insurance Claims Observability Stack — a European insurer (2025-07 to 2026-04)
+  Scaled an observability stack for a European insurer in insurance claims using Python, Platform Engineering and CI/CD, reducing production incidents by 35%.
+* Manufacturing IoT CI/CD Platform — a US manufacturer (2024-11 to 2025-06)
+  Scaled a CI/CD platform for a US manufacturer in manufacturing IoT using Linux Administration and CI/CD, accelerating releases by 40%.
+* Insurance Claims CI/CD Platform — a leading insurer (2023-04 to 2024-09)
+  Designed a CI/CD platform for a leading insurer in insurance claims using Python, Terraform, Linux Administration and Kubernetes, accelerating releases by 18%.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Cloud Engineer, DevOps Engineer

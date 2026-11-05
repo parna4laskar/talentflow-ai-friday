@@ -1,0 +1,29 @@
+CARLOS WASHINGTON
+Senior SAP Consultant | Enterprise Applications | New York, United States
+Employee ID: EMP12011
+
+PROFESSIONAL SUMMARY
+Senior SAP Consultant with 6.5 years of experience, based in New York. Strong in SAP FICO, Business Analysis, SAP S/4HANA and Requirements Gathering, with recent work in insurance claims. Interested in moving towards SAP Consultant, Financial Analyst roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Advanced, 2.0y), Business Analysis (Advanced, 2.0y), SAP S/4HANA (Advanced, 4.7y), Requirements Gathering (Working, 1.2y)
+
+EXPERIENCE
+* Insurance Claims Service Desk Automation — a global insurer (2025-08 to present)
+  Built a service desk automation for a global insurer in insurance claims using Business Analysis, SAP FICO, SAP S/4HANA and Requirements Gathering, saving ~12K hours annually.
+* Insurance Claims Service Desk Automation — a fast-growing insurer (2025-01 to 2025-07)
+  Automated a service desk automation for a fast-growing insurer in insurance claims using SAP FICO, SAP S/4HANA, Requirements Gathering and Business Analysis, saving ~12K hours annually.
+* Public Sector Service Desk Automation — a leading government agency (2024-03 to 2024-12)
+  Built a service desk automation for a leading government agency in public sector using SAP S/4HANA and Business Analysis, reducing processing time by 25%.
+* Insurance Claims Service Desk Automation — an APAC insurer (2023-07 to 2024-02)
+  Migrated a service desk automation for an APAC insurer in insurance claims using SAP FICO, Business Analysis and SAP S/4HANA, saving ~12K hours annually.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: SAP Consultant, Financial Analyst, Risk & Compliance Analyst

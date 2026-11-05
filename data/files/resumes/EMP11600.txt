@@ -1,0 +1,27 @@
+VIKRAM NG
+Associate DevOps Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP11600
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.8 years of experience, based in Gurugram. Strong in Docker, Kubernetes, Azure and Observability, with recent work in pharma R&D. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Proficient, 0.6y), Kubernetes (Working, 0.9y), Azure (Working, 1.1y), Observability (Working, 0.4y), CI/CD (Beginner, 0.5y), Terraform (Beginner, 0.5y)
+- Software Engineering: Python (Working, 1.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Cloud Landing Zone — a European pharma company (2025-11 to present)
+  Re-architected a cloud landing zone for a European pharma company in pharma R&D using Kubernetes and Docker, cutting cloud spend by 12%.
+* Telecom Billing Observability Stack — a leading telecom operator (2024-10 to 2025-08)
+  Led the delivery of an observability stack for a leading telecom operator in telecom billing using Docker and Terraform, accelerating releases by 30%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer

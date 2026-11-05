@@ -1,0 +1,33 @@
+HARINI BHAT
+Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11345
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.8 years of experience, based in Chennai. Strong in TypeScript, Playwright, Figma and Angular, with recent work in insurance claims. Interested in moving towards UX Designer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 3.7y), Angular (Proficient, 2.6y), Node.js (Proficient, 2.4y), GraphQL (Proficient, 1.0y), React (Proficient, 0.6y), JavaScript (Working, 1.0y)
+- Quality Engineering: Playwright (Advanced, 1.6y)
+- Product & Design: Figma (Advanced, 1.1y), UI Design (Working, 0.6y)
+- Cloud & DevOps: CI/CD (Proficient, 2.8y)
+- Delivery & Leadership: Communication (Proficient, 1.2y)
+
+EXPERIENCE
+* Insurance Claims Pricing Engine — an APAC insurer (2026-06 to present)
+  Migrated a pricing engine for an APAC insurer in insurance claims using UI Design, TypeScript and CI/CD, improving conversion by 25%.
+* HR Tech Payments Microservices Platform — a global HR software company (2024-11 to 2026-03)
+  Re-architected a payments microservices platform for a global HR software company in HR tech using Communication and JavaScript, reducing processing time by 18%.
+* Pharma R&D Mobile Banking App — an APAC pharma company (2024-03 to 2024-08)
+  Re-architected a mobile banking app for an APAC pharma company in pharma R&D using TypeScript, UI Design and Playwright, improving conversion by 12%.
+* Insurance Claims Customer Onboarding Platform — a leading insurer (2023-05 to 2024-01)
+  Designed a customer onboarding platform for a leading insurer in insurance claims using Angular and JavaScript, lifting NPS by 12 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: UX Designer, Full Stack Engineer, QA Engineer

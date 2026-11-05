@@ -1,0 +1,30 @@
+ANANYA NAIR
+Associate Data Analyst | Data & Analytics | Gurugram, India
+Employee ID: EMP10195
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 1.2 years of experience, based in Gurugram. Strong in SQL, Data Visualization, Business Analysis and LLM Engineering, with recent work in energy trading. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.6y), Data Visualization (Proficient, 0.6y), LLM Engineering (Proficient, 0.6y), Tableau (Working, 0.5y), Snowflake (Working, 0.3y), Statistics (Beginner, 0.3y), Data Engineering (Beginner, 0.3y)
+- Business & Finance: Business Analysis (Proficient, 0.9y)
+- Delivery & Leadership: Communication (Working, 0.6y), Stakeholder Management (Beginner, 0.3y)
+
+EXPERIENCE
+* E-commerce Regulatory Reporting Suite — a tier-1 online retailer (2025-12 to present)
+  Designed a regulatory reporting suite for a tier-1 online retailer in e-commerce using Communication, Snowflake and Statistics, saving ~30K hours annually.
+* Energy Trading Customer Churn Model — a US energy company (2024-09 to 2025-10)
+  Scaled a customer churn model for a US energy company in energy trading using Data Visualization, Tableau, Data Engineering and SQL, improving model accuracy by 12%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, Financial Analyst

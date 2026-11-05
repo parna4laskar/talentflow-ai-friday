@@ -1,0 +1,31 @@
+DAVID WASHINGTON
+QA Engineer | Quality Engineering | New York, United States
+Employee ID: EMP10966
+
+PROFESSIONAL SUMMARY
+QA Engineer with 5 years of experience, based in New York. Strong in CI/CD, Performance Testing, Test Automation and Selenium, with recent work in public sector. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 1.9y), Platform Engineering (Working, 0.3y)
+- Quality Engineering: Performance Testing (Proficient, 3.3y), Test Automation (Working, 0.7y), Selenium (Working, 1.0y), API Testing (Working, 2.2y)
+- Software Engineering: Java (Working, 1.0y)
+
+EXPERIENCE
+* Public Sector Test Automation Framework — a European government agency (2026-02 to present)
+  Automated a test automation framework for a European government agency in public sector using Java, CI/CD, Selenium and Test Automation, accelerating releases by 22%.
+* Public Sector API Contract-testing Suite — a leading government agency (2025-01 to 2025-12)
+  Automated an API contract-testing suite for a leading government agency in public sector using Selenium, Test Automation, CI/CD and API Testing, reducing production incidents by 22%.
+* Public Sector API Contract-testing Suite — a fast-growing government agency (2023-11 to 2024-12)
+  Scaled an API contract-testing suite for a fast-growing government agency in public sector using Selenium and API Testing, reducing production incidents by 35%.
+* Automotive API Contract-testing Suite — a European car maker (2022-10 to 2023-10)
+  Modernised an API contract-testing suite for a European car maker in automotive using API Testing and Java, raising automated test coverage to 85%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Engineering Manager

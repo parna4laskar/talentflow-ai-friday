@@ -1,0 +1,27 @@
+JACK SMITH
+SAP Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP11187
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 5.7 years of experience, based in London. Strong in SAP S/4HANA, Business Analysis, Process Improvement and Requirements Gathering, with recent work in e-commerce. Interested in moving towards Financial Analyst, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP S/4HANA (Proficient, 2.8y), Business Analysis (Proficient, 0.4y), Process Improvement (Proficient, 1.4y), Requirements Gathering (Working, 2.7y), Financial Analysis (Working, 2.3y)
+
+EXPERIENCE
+* E-commerce ERP Finance Rollout — a fast-growing online retailer (2026-09 to present)
+  Automated an ERP finance rollout for a fast-growing online retailer in e-commerce using Process Improvement, SAP S/4HANA and Financial Analysis, saving ~12K hours annually.
+* E-commerce CRM Rollout — an APAC online retailer (2025-04 to 2026-07)
+  Designed a CRM rollout for an APAC online retailer in e-commerce using Financial Analysis, Process Improvement, Business Analysis and Requirements Gathering, reducing processing time by 18%.
+* E-commerce CRM Rollout — a US online retailer (2023-08 to 2025-01)
+  Modernised a CRM rollout for a US online retailer in e-commerce using Financial Analysis, Business Analysis and SAP S/4HANA, improving conversion by 30%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Spanish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Financial Analyst, Risk & Compliance Analyst, Business Analyst

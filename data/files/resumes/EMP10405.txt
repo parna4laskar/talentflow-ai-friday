@@ -1,0 +1,28 @@
+PRASAD RAO
+Associate QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10405
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2.2 years of experience, based in Bengaluru. Strong in Test Automation, Selenium, CI/CD and API Testing, with recent work in insurance claims. Interested in moving towards Engineering Manager, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 0.8y), Selenium (Proficient, 0.9y), API Testing (Working, 0.3y), Performance Testing (Working, 0.8y)
+- Cloud & DevOps: CI/CD (Proficient, 0.9y)
+- Delivery & Leadership: Communication (Working, 0.9y), Agile/Scrum (Beginner, 0.3y), Project Management (Beginner, 0.3y)
+- Software Engineering: Java (Beginner, 0.5y)
+
+EXPERIENCE
+* Retail Banking Performance Engineering Programme — a tier-1 retail bank (2026-04 to present)
+  Modernised a performance engineering programme for a tier-1 retail bank in retail banking using API Testing, Project Management, Communication and CI/CD, accelerating releases by 40%.
+* Insurance Claims API Contract-testing Suite — a tier-1 insurer (2025-03 to 2026-02)
+  Migrated an API contract-testing suite for a tier-1 insurer in insurance claims using Project Management and Selenium, raising automated test coverage to 85%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager, DevOps Engineer, Full Stack Engineer

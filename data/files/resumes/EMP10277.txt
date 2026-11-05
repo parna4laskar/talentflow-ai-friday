@@ -1,0 +1,34 @@
+AOIFE WALSH
+Senior Business Analyst | Business Consulting | Dublin, Ireland
+Employee ID: EMP10277
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 8.4 years of experience, based in Dublin. Strong in Business Analysis, Requirements Gathering, Stakeholder Management and Communication, with recent work in telecom billing. Interested in moving towards Data Analyst, Account Manager roles and open to relocating to Austin, Bengaluru, New York.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 6.8y), Requirements Gathering (Advanced, 5.1y), Salesforce (Working, 2.0y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.4y), Communication (Advanced, 4.6y), Agile/Scrum (Working, 3.4y), Change Management (Working, 2.6y)
+- Data & AI: Power BI (Proficient, 2.2y)
+
+EXPERIENCE
+* Telecom Billing Requirements and UAT for a CRM Rollout — a US telecom operator (2026-03 to present)
+  Coordinated a requirements and UAT for a CRM rollout for a US telecom operator in telecom billing using Agile/Scrum and Stakeholder Management, delivering on time across 4 workstreams.
+* Wealth Management Requirements and UAT for a CRM Rollout — a European wealth manager (2024-08 to 2026-02)
+  Coordinated a requirements and UAT for a CRM rollout for a European wealth manager in wealth management using Business Analysis, Communication and Requirements Gathering, delivering on time across 3 workstreams.
+* E-commerce Process Re-engineering Initiative — a European online retailer (2023-11 to 2024-07)
+  Coordinated a process re-engineering initiative for a European online retailer in e-commerce using Stakeholder Management, Salesforce, Agile/Scrum and Business Analysis, delivering $5M in cost savings.
+* Pharma R&D Requirements and UAT for a CRM Rollout — a global pharma company (2023-01 to 2023-09)
+  Coordinated a requirements and UAT for a CRM rollout for a global pharma company in pharma R&D using Business Analysis, Power BI, Salesforce and Agile/Scrum, reducing processing time by 22%.
+
+CERTIFICATIONS
+- PMI-PBA (2022)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Analyst, Account Manager

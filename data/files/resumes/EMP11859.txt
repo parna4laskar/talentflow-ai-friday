@@ -1,0 +1,28 @@
+ANJALI KAUR
+Senior Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP11859
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 8 years of experience, based in Chennai. Strong in TypeScript, SQL, React and Java, with recent work in healthcare. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 8.0y), React (Proficient, 2.3y), Java (Proficient, 5.2y), Microservices (Proficient, 1.6y), Next.js (Working, 2.7y), GraphQL (Working, 0.9y)
+- Data & AI: SQL (Advanced, 1.6y), LLM Engineering (Proficient, 2.1y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — an APAC hospital network (2026-01 to present)
+  Scaled a payments microservices platform for an APAC hospital network in healthcare using SQL and Next.js, accelerating releases by 35%.
+* Healthcare Self-service Portal — a global hospital network (2025-04 to 2026-01)
+  Led the delivery of a self-service portal for a global hospital network in healthcare using LLM Engineering, SQL and React, lifting NPS by 40 points.
+* Healthcare Mobile Banking App — a global hospital network (2023-12 to 2025-02)
+  Built a mobile banking app for a global hospital network in healthcare using SQL and Next.js, lifting NPS by 25 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Mobile Engineer, AI Engineer, Frontend Engineer

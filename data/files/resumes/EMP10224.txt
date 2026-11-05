@@ -1,0 +1,31 @@
+SURESH SEN
+Associate Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10224
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1 years of experience, based in Bengaluru. Strong in C#, AWS, Kafka and Agentic AI, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: C# (Proficient, 0.6y), Kafka (Proficient, 0.7y), REST API Design (Working, 0.5y), Microservices (Working, 0.4y), Spring Boot (Working, 0.3y), GraphQL (Beginner, 0.3y), .NET Core (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Proficient, 0.6y)
+- Data & AI: Agentic AI (Proficient, 0.7y), SQL (Working, 0.5y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Customer Onboarding Platform — a tier-1 online retailer (2026-05 to present)
+  Modernised a customer onboarding platform for a tier-1 online retailer in e-commerce using .NET Core, AWS and Communication, reducing processing time by 18%.
+* Public Sector Mobile Banking App — a leading government agency (2025-08 to 2026-04)
+  Built a mobile banking app for a leading government agency in public sector using SQL and C#, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, Engineering Manager, AI Engineer

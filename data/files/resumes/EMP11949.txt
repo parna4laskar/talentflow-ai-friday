@@ -1,0 +1,38 @@
+SAMUEL EVANS
+Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP11949
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5.9 years of experience, based in London. Strong in SQL, Data Visualization, Power BI and Python, with recent work in e-commerce. Interested in moving towards Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 4.4y), Data Visualization (Proficient, 3.2y), Power BI (Proficient, 3.8y)
+- Software Engineering: Python (Proficient, 0.7y)
+- Product & Design: A/B Testing (Working, 1.3y)
+- Business & Finance: Business Analysis (Working, 1.8y)
+- Cloud & DevOps: Terraform (Working, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Beginner, 1.0y), Change Management (Beginner, 1.0y)
+
+EXPERIENCE
+* Insurance Claims Regulatory Reporting Suite — a tier-1 insurer (2026-03 to present)
+  Modernised a regulatory reporting suite for a tier-1 insurer in insurance claims using Power BI and SQL, saving ~12K hours annually.
+* E-commerce Executive KPI Dashboard Suite — a leading online retailer (2025-07 to 2026-01)
+  Designed an executive KPI dashboard suite for a leading online retailer in e-commerce using Terraform, A/B Testing and Data Visualization, improving forecast accuracy by 30%.
+* Automotive Customer Churn Model — a fast-growing car maker (2024-02 to 2025-06)
+  Migrated a customer churn model for a fast-growing car maker in automotive using Terraform, Stakeholder Management, Business Analysis and Power BI, improving conversion by 25%.
+* Pharma R&D Regulatory Reporting Suite — a leading pharma company (2023-03 to 2024-01)
+  Migrated a regulatory reporting suite for a leading pharma company in pharma R&D using Business Analysis, Stakeholder Management, Change Management and Terraform, saving ~18K hours annually.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager

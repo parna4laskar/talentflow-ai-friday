@@ -1,0 +1,28 @@
+ROHAN WALKER
+SAP Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP10720
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 2.1 years of experience, based in London. Strong in SAP FICO, Business Analysis, SAP S/4HANA and Requirements Gathering, with recent work in energy trading. Interested in moving towards SAP Consultant, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Proficient, 0.6y), Business Analysis (Proficient, 1.3y), SAP S/4HANA (Proficient, 1.0y), Requirements Gathering (Working, 0.4y), Financial Analysis (Working, 0.3y)
+
+EXPERIENCE
+* Payments Service Desk Automation — a global payments provider (2025-05 to present)
+  Re-architected a service desk automation for a global payments provider in payments using Business Analysis, Requirements Gathering and SAP FICO, saving ~30K hours annually.
+* Energy Trading Service Desk Automation — a global energy company (2024-05 to 2025-02)
+  Modernised a service desk automation for a global energy company in energy trading using SAP FICO, SAP S/4HANA and Financial Analysis, reducing processing time by 18%.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2026)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Spanish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: SAP Consultant, Business Analyst, Risk & Compliance Analyst, Financial Analyst

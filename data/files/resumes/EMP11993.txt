@@ -1,0 +1,33 @@
+AMELIA HUGHES
+Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11993
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.2 years of experience, based in London. Strong in Node.js, Next.js, TypeScript and SQL, with recent work in retail banking. Interested in moving towards Software Architect, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Advanced, 0.6y), Next.js (Advanced, 2.1y), TypeScript (Proficient, 1.6y), Angular (Working, 2.4y)
+- Data & AI: SQL (Proficient, 0.8y)
+- Cloud & DevOps: Docker (Proficient, 2.8y)
+- Delivery & Leadership: Communication (Proficient, 1.8y)
+
+EXPERIENCE
+* Retail Banking Self-service Portal — a fast-growing retail bank (2026-07 to present)
+  Modernised a self-service portal for a fast-growing retail bank in retail banking using TypeScript, Communication, SQL and Docker, saving ~25K hours annually.
+* Energy Trading Mobile Banking App — a US energy company (2025-04 to 2026-05)
+  Modernised a mobile banking app for a US energy company in energy trading using Angular, Next.js and Docker, improving conversion by 30%.
+* Telecom Billing Payments Microservices Platform — a European telecom operator (2024-05 to 2025-03)
+  Built a payments microservices platform for a European telecom operator in telecom billing using TypeScript and SQL, reducing production incidents by 22%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect, Backend Engineer

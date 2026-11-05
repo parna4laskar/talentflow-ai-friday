@@ -1,0 +1,27 @@
+RAHUL PATIL
+Associate QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP10329
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2 years of experience, based in Pune. Strong in Test Automation, Performance Testing, API Testing and Java, with recent work in public sector. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 1.6y), Performance Testing (Proficient, 1.4y), API Testing (Working, 0.7y), Selenium (Beginner, 0.4y)
+- Software Engineering: Java (Working, 0.9y), Python (Working, 0.7y)
+- Delivery & Leadership: Communication (Beginner, 0.4y)
+
+EXPERIENCE
+* Healthcare Test Automation Framework — a leading hospital network (2026-07 to present)
+  Led the delivery of a test automation framework for a leading hospital network in healthcare using Communication and Python, raising automated test coverage to 70%.
+* Telecom Billing Performance Engineering Programme — a global telecom operator (2025-04 to 2026-05)
+  Automated a performance engineering programme for a global telecom operator in telecom billing using Selenium and Python, reducing production incidents by 40%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, Full Stack Engineer, Mobile Engineer

@@ -1,0 +1,31 @@
+DEEPIKA CHATTERJEE
+Senior CRM Consultant | Enterprise Applications | Gurugram, India
+Employee ID: EMP10348
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 6.9 years of experience, based in Gurugram. Strong in ServiceNow, Requirements Gathering, Business Analysis and Agile/Scrum, with recent work in supply-chain logistics. Interested in moving towards Business Analyst, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Advanced, 2.0y), Requirements Gathering (Advanced, 1.4y), Business Analysis (Proficient, 0.4y), Process Improvement (Beginner, 0.9y)
+- Delivery & Leadership: Agile/Scrum (Working, 2.1y)
+- Software Engineering: JavaScript (Beginner, 1.0y)
+
+EXPERIENCE
+* Healthcare Service Desk Automation — a European hospital network (2025-10 to present)
+  Led the delivery of a service desk automation for a European hospital network in healthcare using Business Analysis and JavaScript, reducing processing time by 35%.
+* Retail Banking CRM Rollout — a leading retail bank (2025-03 to 2025-10)
+  Built a CRM rollout for a leading retail bank in retail banking using Process Improvement, Business Analysis, Requirements Gathering and ServiceNow, reducing processing time by 35%.
+* Manufacturing IoT ERP Finance Rollout — a fast-growing manufacturer (2023-12 to 2025-01)
+  Migrated an ERP finance rollout for a fast-growing manufacturer in manufacturing IoT using ServiceNow and Process Improvement, saving ~25K hours annually.
+* Energy Trading ERP Finance Rollout — a US energy company (2022-10 to 2023-11)
+  Migrated an ERP finance rollout for a US energy company in energy trading using ServiceNow, Agile/Scrum, Business Analysis and Requirements Gathering, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Business Analyst, Scrum Master, Account Manager

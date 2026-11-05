@@ -1,0 +1,32 @@
+ASHLEY KIM
+Senior DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11772
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 10.1 years of experience, based in New York. Strong in CI/CD, Docker, Kubernetes and Azure, with recent work in payments. Interested in moving towards Backend Engineer, Platform Engineer roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 2.0y), Docker (Advanced, 4.9y), Kubernetes (Proficient, 0.5y), Azure (Proficient, 6.0y), Linux Administration (Proficient, 7.2y), Terraform (Proficient, 2.3y), Observability (Working, 3.4y)
+- Software Engineering: Go (Proficient, 4.2y)
+- Data & AI: Responsible AI (Proficient, 7.0y)
+
+EXPERIENCE
+* Payments Kubernetes Platform — a fast-growing payments provider (2026-06 to present)
+  Modernised a Kubernetes platform for a fast-growing payments provider in payments using Kubernetes, Docker, Linux Administration and Azure, cutting cloud spend by 18%.
+* Payments Observability Stack — a leading payments provider (2025-05 to 2026-03)
+  Modernised an observability stack for a leading payments provider in payments using Kubernetes, CI/CD and Go, reducing production incidents by 40%.
+* Wealth Management CI/CD Platform — a US wealth manager (2024-11 to 2025-04)
+  Migrated a CI/CD platform for a US wealth manager in wealth management using Azure and Go, accelerating releases by 40%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, Platform Engineer, Cloud Engineer

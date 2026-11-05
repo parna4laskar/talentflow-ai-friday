@@ -1,0 +1,28 @@
+RITESH MALHOTRA
+Associate Data Scientist | Data & Analytics | Hyderabad, India
+Employee ID: EMP10921
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 0 years of experience, based in Hyderabad. Strong in Python, Statistics, SQL and NLP, with recent work in airline operations. Interested in moving towards Data Scientist, Product Manager roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.3y)
+- Data & AI: Statistics (Proficient, 0.3y), SQL (Proficient, 0.3y), NLP (Proficient, 0.3y), Machine Learning (Working, 0.3y), MLOps (Working, 0.3y), Generative AI (Working, 0.3y)
+- Product & Design: A/B Testing (Working, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Executive KPI Dashboard Suite — a European airline (2026-03 to present)
+  Scaled an executive KPI dashboard suite for a European airline in airline operations using A/B Testing and Communication, saving ~35K hours annually.
+* Airline Operations Regulatory Reporting Suite — a US airline (2025-02 to 2026-01)
+  Modernised a regulatory reporting suite for a US airline in airline operations using MLOps, Machine Learning, Generative AI and Communication, saving ~25K hours annually.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist, Product Manager

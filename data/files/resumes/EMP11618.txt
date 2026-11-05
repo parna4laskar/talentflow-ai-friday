@@ -1,0 +1,35 @@
+RAJESH KHAN
+Senior Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11618
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9 years of experience, based in Hyderabad. Strong in TypeScript, React, Next.js and Communication, with recent work in e-commerce. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 6.5y), React (Advanced, 6.2y), Next.js (Proficient, 5.8y), JavaScript (Working, 4.5y)
+- Delivery & Leadership: Communication (Proficient, 3.0y)
+- Product & Design: Design Systems (Working, 2.0y)
+- Quality Engineering: Playwright (Working, 3.0y)
+
+EXPERIENCE
+* Wealth Management Self-service Portal — a European wealth manager (2025-07 to present)
+  Led the delivery of a self-service portal for a European wealth manager in wealth management using Design Systems and Communication, saving ~25K hours annually.
+* Energy Trading Mobile Banking App — a US energy company (2024-09 to 2025-05)
+  Modernised a mobile banking app for a US energy company in energy trading using Next.js, Playwright, Design Systems and TypeScript, lifting NPS by 12 points.
+* Airline Operations Customer Onboarding Platform — a fast-growing airline (2023-06 to 2024-08)
+  Led the delivery of a customer onboarding platform for a fast-growing airline in airline operations using Playwright, Communication and JavaScript, lifting NPS by 18 points.
+* E-commerce Customer Onboarding Platform — a fast-growing online retailer (2022-02 to 2023-05)
+  Designed a customer onboarding platform for a fast-growing online retailer in e-commerce using JavaScript, Playwright and React, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2022)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, Mobile Engineer, QA Engineer

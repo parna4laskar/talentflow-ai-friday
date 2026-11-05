@@ -1,0 +1,28 @@
+ARJUN IYER
+Senior CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP12812
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 5.3 years of experience, based in Bengaluru. Strong in Salesforce, Business Analysis, Requirements Gathering and Agile/Scrum, with recent work in automotive. Interested in moving towards Account Manager, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 1.4y), Business Analysis (Advanced, 3.1y), Requirements Gathering (Advanced, 1.5y), ServiceNow (Working, 0.3y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.8y), Communication (Working, 2.1y)
+
+EXPERIENCE
+* Telecom Billing CRM Rollout — a tier-1 telecom operator (2025-09 to present)
+  Scaled a CRM rollout for a tier-1 telecom operator in telecom billing using Communication and Business Analysis, reducing processing time by 12%.
+* Automotive Service Desk Automation — a tier-1 car maker (2024-04 to 2025-07)
+  Built a service desk automation for a tier-1 car maker in automotive using ServiceNow, Salesforce, Requirements Gathering and Agile/Scrum, saving ~30K hours annually.
+* Supply-chain Logistics Service Desk Automation — an APAC logistics company (2023-10 to 2024-04)
+  Migrated a service desk automation for an APAC logistics company in supply-chain logistics using Business Analysis and Agile/Scrum, saving ~25K hours annually.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Account Manager, Scrum Master

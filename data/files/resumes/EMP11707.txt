@@ -1,0 +1,34 @@
+PARNA SHARMA
+Principal Software Architect | Engineering | Chennai, India
+Employee ID: EMP11707
+
+PROFESSIONAL SUMMARY
+Principal Software Architect with 12.4 years of experience, based in Chennai. Strong in Microservices, C#, AWS and System Design, with recent work in payments. Interested in moving towards Software Architect, Backend Engineer roles and open to relocating to Pune.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 11.6y), C# (Expert, 7.9y), System Design (Advanced, 7.5y), Kafka (Advanced, 5.4y), REST API Design (Advanced, 1.2y)
+- Cloud & DevOps: AWS (Expert, 12.0y)
+- Delivery & Leadership: Mentoring (Advanced, 9.2y), Stakeholder Management (Advanced, 3.7y), Communication (Advanced, 6.8y)
+- Security: Cloud Security (Proficient, 3.0y)
+- Data & AI: Generative AI (Working, 5.4y)
+
+EXPERIENCE
+* Airline Operations Self-service Portal — a European airline (2026-08 to present)
+  Built a self-service portal for a European airline in airline operations using Microservices, AWS and C#, lifting NPS by 40 points.
+* Payments Order Management System — a tier-1 payments provider (2025-09 to 2026-05)
+  Migrated an order management system for a tier-1 payments provider in payments using C# and Cloud Security, onboarding 6 new enterprise clients.
+* Insurance Claims Customer Onboarding Platform — a tier-1 insurer (2024-11 to 2025-07)
+  Migrated a customer onboarding platform for a tier-1 insurer in insurance claims using Microservices and Stakeholder Management, improving conversion by 12%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Backend Engineer, Cloud Engineer

@@ -1,0 +1,34 @@
+RAJESH SEN
+Principal Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP10393
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 23.2 years of experience, based in Hyderabad. Strong in Data Visualization, Stakeholder Management, SQL and Power BI, with recent work in telecom billing. Interested in moving towards Data Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Expert, 4.2y), SQL (Advanced, 17.6y), Power BI (Advanced, 3.1y), Snowflake (Advanced, 16.3y), dbt (Advanced, 15.0y), Statistics (Proficient, 13.0y)
+- Delivery & Leadership: Stakeholder Management (Expert, 8.5y), Mentoring (Advanced, 7.1y)
+- Business & Finance: Business Analysis (Advanced, 1.1y)
+- Software Engineering: Python (Advanced, 13.1y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a US telecom operator (2025-11 to present)
+  Automated an executive KPI dashboard suite for a US telecom operator in telecom billing using Python, SQL, Business Analysis and Mentoring, saving ~25K hours annually.
+* Telecom Billing Real-time Analytics Pipeline — a fast-growing telecom operator (2025-05 to 2025-09)
+  Designed a real-time analytics pipeline for a fast-growing telecom operator in telecom billing using Business Analysis, Snowflake and Power BI, cutting cloud spend by 35%.
+* Telecom Billing Data Lakehouse — a global telecom operator (2024-06 to 2025-02)
+  Designed a data lakehouse for a global telecom operator in telecom billing using Stakeholder Management and Power BI, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2026)
+- Tableau Desktop Specialist (2023)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst, Data Scientist

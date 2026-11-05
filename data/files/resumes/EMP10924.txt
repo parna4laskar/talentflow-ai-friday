@@ -1,0 +1,34 @@
+KARTHIK DESHPANDE
+CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP10924
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 3.3 years of experience, based in Bengaluru. Strong in Business Analysis, Communication, Agile/Scrum and Process Improvement, with recent work in wealth management. Interested in moving towards Scrum Master, SAP Consultant roles and open to relocating to London.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 2.2y), Process Improvement (Proficient, 1.5y), Requirements Gathering (Proficient, 0.8y), Salesforce (Working, 1.5y)
+- Delivery & Leadership: Communication (Advanced, 3.0y), Agile/Scrum (Proficient, 2.5y), Program Management (Working, 0.8y)
+- Software Engineering: JavaScript (Working, 1.5y)
+
+EXPERIENCE
+* Healthcare Service Desk Automation — a US hospital network (2025-12 to present)
+  Designed a service desk automation for a US hospital network in healthcare using Process Improvement, JavaScript, Agile/Scrum and Requirements Gathering, saving ~35K hours annually.
+* Wealth Management CRM Rollout — a US wealth manager (2025-05 to 2025-10)
+  Modernised a CRM rollout for a US wealth manager in wealth management using Process Improvement, Communication and Requirements Gathering, reducing processing time by 18%.
+* Wealth Management Service Desk Automation — a US wealth manager (2024-05 to 2025-03)
+  Modernised a service desk automation for a US wealth manager in wealth management using Program Management, Agile/Scrum, Requirements Gathering and Process Improvement, saving ~18K hours annually.
+* Payments Service Desk Automation — a global payments provider (2023-05 to 2024-03)
+  Led the delivery of a service desk automation for a global payments provider in payments using Program Management, Business Analysis, Requirements Gathering and Process Improvement, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2023)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Scrum Master, SAP Consultant, Business Analyst

@@ -1,0 +1,32 @@
+OMKAR MUKHERJEE
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10465
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.8 years of experience, based in Bengaluru. Strong in Angular, Next.js, TypeScript and JavaScript, with recent work in pharma R&D. Interested in moving towards UX Designer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 7.4y), Next.js (Advanced, 6.3y), TypeScript (Proficient, 7.2y), JavaScript (Proficient, 4.8y), Node.js (Working, 4.0y)
+- Cloud & DevOps: CI/CD (Proficient, 5.9y)
+- Product & Design: Figma (Proficient, 5.0y), Design Systems (Working, 0.9y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a European pharma company (2026-06 to present)
+  Modernised a pricing engine for a European pharma company in pharma R&D using TypeScript, Angular, Figma and Next.js, improving conversion by 18%.
+* Telecom Billing Pricing Engine — an APAC telecom operator (2025-12 to 2026-05)
+  Led the delivery of a pricing engine for an APAC telecom operator in telecom billing using Angular, Node.js, Design Systems and CI/CD, reducing processing time by 25%.
+* Pharma R&D Order Management System — a European pharma company (2025-04 to 2025-09)
+  Automated an order management system for a European pharma company in pharma R&D using Design Systems and CI/CD, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: UX Designer, Full Stack Engineer, Mobile Engineer

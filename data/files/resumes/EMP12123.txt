@@ -1,0 +1,33 @@
+SURESH KIM
+QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP12123
+
+PROFESSIONAL SUMMARY
+QA Engineer with 3.2 years of experience, based in Bengaluru. Strong in Selenium, API Testing, Test Automation and SQL, with recent work in retail banking. Interested in moving towards Full Stack Engineer, Mobile Engineer roles and open to relocating to Chennai, Dublin, Toronto.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 1.8y), API Testing (Advanced, 1.0y), Test Automation (Proficient, 0.5y)
+- Data & AI: SQL (Proficient, 0.8y)
+- Software Engineering: Python (Proficient, 1.0y), Java (Working, 0.3y)
+- Cloud & DevOps: CI/CD (Proficient, 0.9y), Kubernetes (Working, 0.7y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.4y)
+
+EXPERIENCE
+* Energy Trading Test Automation Framework — a global energy company (2026-06 to present)
+  Designed a test automation framework for a global energy company in energy trading using API Testing, Python, Selenium and Agile/Scrum, raising automated test coverage to 85%.
+* Insurance Claims Test Automation Framework — a leading insurer (2025-02 to 2026-03)
+  Designed a test automation framework for a leading insurer in insurance claims using Agile/Scrum, Test Automation, SQL and CI/CD, raising automated test coverage to 85%.
+* Retail Banking Performance Engineering Programme — a global retail bank (2023-07 to 2024-12)
+  Automated a performance engineering programme for a global retail bank in retail banking using Python, Test Automation and Kubernetes, accelerating releases by 30%.
+* HR Tech API Contract-testing Suite — a fast-growing HR software company (2021-11 to 2023-05)
+  Built an API contract-testing suite for a fast-growing HR software company in HR tech using Test Automation, Kubernetes, CI/CD and Selenium, raising automated test coverage to 90%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer, Mobile Engineer

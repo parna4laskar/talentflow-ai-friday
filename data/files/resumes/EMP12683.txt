@@ -1,0 +1,32 @@
+MEI CHEN
+Lead Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP12683
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 13.9 years of experience, based in New York. Strong in Angular, Node.js, AWS and SQL, with recent work in e-commerce. Interested in moving towards Full Stack Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 4.3y), Node.js (Expert, 13.9y), GraphQL (Advanced, 13.7y), REST API Design (Advanced, 7.9y), TypeScript (Proficient, 6.8y), Microservices (Working, 3.1y)
+- Cloud & DevOps: AWS (Expert, 13.1y), Docker (Advanced, 5.4y)
+- Delivery & Leadership: People Leadership (Expert, 2.8y), Mentoring (Proficient, 0.8y), Communication (Proficient, 8.6y), Stakeholder Management (Working, 4.3y)
+- Data & AI: SQL (Advanced, 13.8y)
+
+EXPERIENCE
+* Telecom Billing Payments Microservices Platform — an APAC telecom operator (2025-09 to present)
+  Modernised a payments microservices platform for an APAC telecom operator in telecom billing using Mentoring, Docker and REST API Design, reducing processing time by 40%.
+* E-commerce Customer Onboarding Platform — an APAC online retailer (2024-08 to 2025-08)
+  Designed a customer onboarding platform for an APAC online retailer in e-commerce using Mentoring and AWS, reducing processing time by 12%.
+* E-commerce Mobile Banking App — a US online retailer (2023-01 to 2024-06)
+  Migrated a mobile banking app for a US online retailer in e-commerce using TypeScript, Docker and GraphQL, lifting NPS by 35 points.
+* Payments Mobile Banking App — a global payments provider (2022-03 to 2022-12)
+  Designed a mobile banking app for a global payments provider in payments using Mentoring and REST API Design, improving conversion by 30%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Tamil
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Frontend Engineer, Mobile Engineer

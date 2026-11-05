@@ -1,0 +1,33 @@
+ETHAN ROY
+Lead Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP12096
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 9.1 years of experience, based in Toronto. Strong in REST API Design, SQL, Java and Microservices, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 3.3y), Java (Advanced, 7.2y), Microservices (Advanced, 3.0y), Spring Boot (Proficient, 0.4y), GraphQL (Proficient, 4.4y), C# (Proficient, 4.0y)
+- Data & AI: SQL (Expert, 9.1y), Generative AI (Working, 2.0y)
+- Cloud & DevOps: AWS (Advanced, 6.2y), Kubernetes (Working, 2.2y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a leading online retailer (2025-10 to present)
+  Built a mobile banking app for a leading online retailer in e-commerce using GraphQL, Kubernetes and Spring Boot, improving conversion by 18%.
+* Manufacturing IoT Payments Microservices Platform — a tier-1 manufacturer (2025-04 to 2025-09)
+  Migrated a payments microservices platform for a tier-1 manufacturer in manufacturing IoT using Kubernetes, REST API Design and C#, reducing processing time by 22%.
+* Manufacturing IoT Payments Microservices Platform — a US manufacturer (2023-09 to 2025-02)
+  Re-architected a payments microservices platform for a US manufacturer in manufacturing IoT using Microservices and AWS, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, French, German
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager, Software Architect, Full Stack Engineer

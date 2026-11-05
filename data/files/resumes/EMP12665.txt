@@ -1,0 +1,30 @@
+EMMA MILLER
+Senior Mobile Engineer | Engineering | Austin, United States
+Employee ID: EMP12665
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 10.8 years of experience, based in Austin. Strong in Mobile Development, Flutter, UI Design and Test Automation, with recent work in retail banking. Interested in moving towards Full Stack Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Expert, 4.6y), Flutter (Advanced, 8.9y), TypeScript (Proficient, 6.3y), REST API Design (Working, 2.2y)
+- Product & Design: UI Design (Advanced, 9.9y)
+- Quality Engineering: Test Automation (Proficient, 6.6y)
+- Cloud & DevOps: FinOps (Proficient, 7.6y)
+
+EXPERIENCE
+* Retail Banking Order Management System — a global retail bank (2025-12 to present)
+  Led the delivery of an order management system for a global retail bank in retail banking using REST API Design, Flutter, Mobile Development and FinOps, onboarding 8 new enterprise clients.
+* Wealth Management Pricing Engine — a European wealth manager (2025-01 to 2025-11)
+  Built a pricing engine for a European wealth manager in wealth management using UI Design, Flutter and FinOps, improving conversion by 30%.
+* E-commerce Pricing Engine — a fast-growing online retailer (2024-03 to 2024-10)
+  Scaled a pricing engine for a fast-growing online retailer in e-commerce using Test Automation, FinOps, Flutter and Mobile Development, reducing processing time by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, QA Engineer, Frontend Engineer

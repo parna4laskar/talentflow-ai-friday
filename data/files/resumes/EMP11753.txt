@@ -1,0 +1,29 @@
+ARVIND BHAT
+Senior AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP11753
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 7.7 years of experience, based in Pune. Strong in Generative AI, LLM Engineering, Python and Docker, with recent work in wealth management. Interested in moving towards AI Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Advanced, 3.2y), LLM Engineering (Advanced, 6.6y), Responsible AI (Proficient, 4.8y), Vector Databases (Working, 3.2y), Agentic AI (Working, 1.2y)
+- Software Engineering: Python (Proficient, 0.9y)
+- Cloud & DevOps: Docker (Proficient, 1.7y)
+
+EXPERIENCE
+* Wealth Management Agentic Customer-service Assistant — a tier-1 wealth manager (2025-11 to present)
+  Modernised an agentic customer-service assistant for a tier-1 wealth manager in wealth management using Agentic AI, Python and Docker, saving ~12K hours annually.
+* Wealth Management Fraud Detection Model — a fast-growing wealth manager (2024-07 to 2025-11)
+  Built a fraud detection model for a fast-growing wealth manager in wealth management using Agentic AI and Python, improving model accuracy by 25%.
+* Wealth Management Agentic Customer-service Assistant — a tier-1 wealth manager (2023-09 to 2024-05)
+  Led the delivery of an agentic customer-service assistant for a tier-1 wealth manager in wealth management using Vector Databases, Responsible AI and LLM Engineering, saving ~22K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Data Scientist

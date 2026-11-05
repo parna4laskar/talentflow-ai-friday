@@ -1,0 +1,31 @@
+VARUN MUKHERJEE
+Associate Financial Analyst | Finance | Bengaluru, India
+Employee ID: EMP12816
+
+PROFESSIONAL SUMMARY
+Associate Financial Analyst with 0.2 years of experience, based in Bengaluru. Strong in Financial Analysis, Financial Modeling, Risk Management and FP&A, with recent work in energy trading. Interested in moving towards SAP Consultant, Business Analyst roles and open to relocating to Hyderabad, Austin.
+
+CORE SKILLS
+- Business & Finance: Financial Analysis (Advanced, 0.3y), Financial Modeling (Proficient, 0.3y), Risk Management (Proficient, 0.3y), FP&A (Working, 0.3y), SAP FICO (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.3y), Power BI (Working, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.3y), Communication (Working, 0.3y)
+- Cloud & DevOps: Terraform (Beginner, 0.3y)
+
+EXPERIENCE
+* Payments Regulatory Capital Reporting — a leading payments provider (2025-12 to present)
+  Redesigned a regulatory capital reporting for a leading payments provider in payments using SAP FICO, Stakeholder Management and Risk Management, reducing processing time by 25%.
+* Supply-chain Logistics Cost Transformation Programme — a leading logistics company (2025-05 to 2025-11)
+  Built a cost transformation programme for a leading logistics company in supply-chain logistics using SAP FICO, Power BI, SQL and Financial Analysis, delivering $2M in cost savings.
+
+CERTIFICATIONS
+- CFA Level II (2026)
+
+EDUCATION
+- MSc Finance
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: SAP Consultant, Business Analyst, Risk & Compliance Analyst

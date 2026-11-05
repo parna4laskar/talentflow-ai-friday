@@ -1,0 +1,34 @@
+PAWEŁ WÓJCIK
+Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP10443
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.7 years of experience, based in Kraków. Strong in REST API Design, SQL, Python and Microservices, with recent work in HR tech. Interested in moving towards Full Stack Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 4.0y), Python (Proficient, 2.9y), Microservices (Proficient, 2.7y), Kafka (Working, 1.9y)
+- Data & AI: SQL (Advanced, 4.4y), MLOps (Proficient, 3.5y)
+- Cloud & DevOps: CI/CD (Proficient, 2.4y), Kubernetes (Proficient, 3.4y), Docker (Working, 2.0y), FinOps (Beginner, 0.8y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — a tier-1 HR software company (2025-10 to present)
+  Re-architected a self-service portal for a tier-1 HR software company in HR tech using REST API Design, Kafka, CI/CD and Microservices, saving ~12K hours annually.
+* Automotive Order Management System — a US car maker (2025-03 to 2025-09)
+  Built an order management system for a US car maker in automotive using FinOps and REST API Design, reducing processing time by 18%.
+* HR Tech Mobile Banking App — a European HR software company (2023-12 to 2025-01)
+  Modernised a mobile banking app for a European HR software company in HR tech using Docker and Kafka, lifting NPS by 25 points.
+* HR Tech Pricing Engine — an APAC HR software company (2022-11 to 2023-11)
+  Designed a pricing engine for an APAC HR software company in HR tech using Kubernetes and FinOps, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer, DevOps Engineer, AI Engineer

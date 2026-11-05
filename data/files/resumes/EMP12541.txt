@@ -1,0 +1,28 @@
+DARRAGH BYRNE
+Associate AI Engineer | AI Center of Excellence | Dublin, Ireland
+Employee ID: EMP12541
+
+PROFESSIONAL SUMMARY
+Associate AI Engineer with 0.1 years of experience, based in Dublin. Strong in Generative AI, LLM Engineering, REST API Design and Python, with recent work in manufacturing IoT. Interested in moving towards ML Engineer, Full Stack Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Data & AI: Generative AI (Proficient, 0.3y), LLM Engineering (Proficient, 0.3y), Agentic AI (Beginner, 0.3y)
+- Software Engineering: REST API Design (Proficient, 0.3y), Python (Working, 0.3y), Go (Working, 0.3y)
+- Cloud & DevOps: Azure (Working, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Recommendation Engine — a leading manufacturer (2025-09 to present)
+  Re-architected a recommendation engine for a leading manufacturer in manufacturing IoT using Azure, Python, LLM Engineering and Generative AI, improving conversion by 35%.
+* Pharma R&D Document Intelligence Pipeline — a leading pharma company (2024-10 to 2025-06)
+  Led the delivery of a document intelligence pipeline for a leading pharma company in pharma R&D using Python and Azure, reducing processing time by 22%.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, Full Stack Engineer

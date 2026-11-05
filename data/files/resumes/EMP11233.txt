@@ -1,0 +1,33 @@
+ARVIND DESHPANDE
+Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11233
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.5 years of experience, based in Gurugram. Strong in REST API Design, Microservices, Go and AWS, with recent work in public sector. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 3.4y), Microservices (Advanced, 1.2y), Go (Proficient, 0.7y), System Design (Working, 0.6y)
+- Cloud & DevOps: AWS (Proficient, 2.3y)
+- Delivery & Leadership: Communication (Proficient, 1.8y)
+- Data & AI: SQL (Working, 1.7y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — a global government agency (2026-07 to present)
+  Designed a self-service portal for a global government agency in public sector using Go, AWS and REST API Design, saving ~22K hours annually.
+* Pharma R&D Self-service Portal — a tier-1 pharma company (2025-05 to 2026-06)
+  Modernised a self-service portal for a tier-1 pharma company in pharma R&D using Microservices, System Design, REST API Design and AWS, saving ~18K hours annually.
+* Healthcare Pricing Engine — a global hospital network (2024-03 to 2025-04)
+  Migrated a pricing engine for a global hospital network in healthcare using AWS and Communication, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Full Stack Engineer, AI Engineer, Engineering Manager

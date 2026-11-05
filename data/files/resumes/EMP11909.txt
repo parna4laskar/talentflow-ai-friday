@@ -1,0 +1,34 @@
+AARAV KAUR
+Senior Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP11909
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 8.3 years of experience, based in Chennai. Strong in Microservices, Angular, Node.js and Docker, with recent work in energy trading. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 4.5y), Angular (Advanced, 3.7y), Node.js (Advanced, 2.6y), TypeScript (Proficient, 1.0y), REST API Design (Proficient, 6.1y), GraphQL (Proficient, 4.6y)
+- Cloud & DevOps: Docker (Advanced, 7.5y), AWS (Proficient, 1.0y)
+- Data & AI: SQL (Proficient, 1.7y)
+
+EXPERIENCE
+* Automotive Self-service Portal — a US car maker (2025-12 to present)
+  Led the delivery of a self-service portal for a US car maker in automotive using REST API Design, Node.js and Microservices, saving ~18K hours annually.
+* Energy Trading Claims Processing Engine — a leading energy company (2025-01 to 2025-10)
+  Built a claims processing engine for a leading energy company in energy trading using SQL and Docker, reducing processing time by 25%.
+* Energy Trading Order Management System — a fast-growing energy company (2024-06 to 2024-11)
+  Scaled an order management system for a fast-growing energy company in energy trading using Angular, TypeScript, SQL and REST API Design, onboarding 2 new enterprise clients.
+* Energy Trading Order Management System — a fast-growing energy company (2023-10 to 2024-03)
+  Automated an order management system for a fast-growing energy company in energy trading using SQL, GraphQL and Node.js, onboarding 8 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer

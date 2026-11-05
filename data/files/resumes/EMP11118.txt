@@ -1,0 +1,32 @@
+DANIEL SMITH
+CRM Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP11118
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 3.6 years of experience, based in London. Strong in Salesforce, JavaScript, Process Improvement and Communication, with recent work in e-commerce. Interested in moving towards Business Analyst, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Proficient, 2.1y), Process Improvement (Proficient, 2.3y), Business Analysis (Working, 0.9y), Requirements Gathering (Working, 1.6y)
+- Software Engineering: JavaScript (Proficient, 1.7y), TypeScript (Working, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 2.1y), Agile/Scrum (Working, 0.7y)
+
+EXPERIENCE
+* E-commerce ERP Finance Rollout — a global online retailer (2026-04 to present)
+  Automated an ERP finance rollout for a global online retailer in e-commerce using Agile/Scrum, Communication and Process Improvement, saving ~18K hours annually.
+* E-commerce Service Desk Automation — an APAC online retailer (2025-02 to 2026-01)
+  Designed a service desk automation for an APAC online retailer in e-commerce using TypeScript, JavaScript, Agile/Scrum and Requirements Gathering, reducing processing time by 25%.
+* E-commerce ERP Finance Rollout — a leading online retailer (2024-08 to 2025-01)
+  Designed an ERP finance rollout for a leading online retailer in e-commerce using Agile/Scrum and Salesforce, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2024)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Business Analyst, Scrum Master

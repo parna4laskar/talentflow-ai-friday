@@ -1,0 +1,27 @@
+NIKHIL MENON
+Associate ML Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12602
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 2.1 years of experience, based in Hyderabad. Strong in Python, Machine Learning, MLOps and Deep Learning, with recent work in healthcare. Interested in moving towards Data Scientist, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 1.3y)
+- Data & AI: Machine Learning (Proficient, 0.6y), MLOps (Working, 0.9y), Deep Learning (Working, 0.5y), Computer Vision (Beginner, 0.4y), Databricks (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.8y)
+
+EXPERIENCE
+* Healthcare Knowledge Assistant (RAG) — an APAC hospital network (2026-04 to present)
+  Modernised a knowledge assistant (RAG) for an APAC hospital network in healthcare using Communication, Deep Learning, Python and Databricks, saving ~22K hours annually.
+* Healthcare Document Intelligence Pipeline — a global hospital network (2024-12 to 2026-02)
+  Automated a document intelligence pipeline for a global hospital network in healthcare using Deep Learning, Computer Vision and Python, saving ~35K hours annually.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Scientist, DevOps Engineer, AI Engineer

@@ -1,0 +1,32 @@
+NEHA SINGH
+Senior ML Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP11281
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 9 years of experience, based in Hyderabad. Strong in Machine Learning, Python, MLOps and NLP, with recent work in energy trading. Interested in moving towards Platform Engineer, DevOps Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Expert, 1.9y), MLOps (Advanced, 0.6y), NLP (Advanced, 8.4y), Deep Learning (Working, 4.0y)
+- Software Engineering: Python (Advanced, 5.0y)
+- Cloud & DevOps: Docker (Proficient, 4.5y)
+- Delivery & Leadership: Communication (Proficient, 1.6y)
+
+EXPERIENCE
+* Energy Trading Agentic Customer-service Assistant — a global energy company (2025-05 to present)
+  Automated an agentic customer-service assistant for a global energy company in energy trading using NLP, MLOps and Communication, lifting NPS by 30 points.
+* Manufacturing IoT Agentic Customer-service Assistant — a global manufacturer (2024-04 to 2025-03)
+  Modernised an agentic customer-service assistant for a global manufacturer in manufacturing IoT using Docker and Communication, saving ~30K hours annually.
+* Energy Trading Fraud Detection Model — a US energy company (2023-02 to 2024-01)
+  Scaled a fraud detection model for a US energy company in energy trading using Deep Learning, MLOps, Machine Learning and NLP, improving model accuracy by 12%.
+* Manufacturing IoT Knowledge Assistant (RAG) — a leading manufacturer (2022-05 to 2022-11)
+  Built a knowledge assistant (RAG) for a leading manufacturer in manufacturing IoT using Python and NLP, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer, DevOps Engineer

@@ -1,0 +1,32 @@
+NOAH KIM
+Data Analyst | Data & Analytics | New York, United States
+Employee ID: EMP11204
+
+PROFESSIONAL SUMMARY
+Data Analyst with 3.8 years of experience, based in New York. Strong in Data Visualization, Stakeholder Management, Business Analysis and Snowflake, with recent work in HR tech. Interested in moving towards Business Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 0.5y), Snowflake (Proficient, 2.0y), SQL (Working, 1.2y), Tableau (Working, 0.9y), Statistics (Working, 0.3y), Data Engineering (Working, 0.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.4y), Communication (Working, 0.7y)
+- Business & Finance: Business Analysis (Proficient, 1.5y)
+- Software Engineering: Python (Beginner, 0.7y)
+
+EXPERIENCE
+* Insurance Claims Real-time Analytics Pipeline — a leading insurer (2026-04 to present)
+  Re-architected a real-time analytics pipeline for a leading insurer in insurance claims using SQL, Snowflake, Statistics and Communication, cutting cloud spend by 40%.
+* HR Tech Regulatory Reporting Suite — a leading HR software company (2025-01 to 2026-02)
+  Led the delivery of a regulatory reporting suite for a leading HR software company in HR tech using Data Visualization, Data Engineering and Communication, reducing processing time by 35%.
+* Wealth Management Real-time Analytics Pipeline — a tier-1 wealth manager (2024-07 to 2024-12)
+  Modernised a real-time analytics pipeline for a tier-1 wealth manager in wealth management using Python, Tableau and Communication, cutting cloud spend by 30%.
+* HR Tech Real-time Analytics Pipeline — a tier-1 HR software company (2024-01 to 2024-06)
+  Led the delivery of a real-time analytics pipeline for a tier-1 HR software company in HR tech using SQL, Data Engineering, Data Visualization and Business Analysis, reducing processing time by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst, Financial Analyst, Data Scientist

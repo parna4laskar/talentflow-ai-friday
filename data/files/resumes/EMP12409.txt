@@ -1,0 +1,32 @@
+VENKAT NAIR
+Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP12409
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5.8 years of experience, based in Pune. Strong in SQL, Data Visualization, Power BI and Business Analysis, with recent work in airline operations. Interested in moving towards Data Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.6y), Data Visualization (Proficient, 3.5y), Power BI (Proficient, 1.8y)
+- Business & Finance: Business Analysis (Working, 0.4y), Requirements Gathering (Working, 0.6y)
+- Software Engineering: Python (Working, 2.8y)
+- Delivery & Leadership: Communication (Working, 1.4y), Stakeholder Management (Beginner, 0.9y)
+
+EXPERIENCE
+* Healthcare Real-time Analytics Pipeline — a leading hospital network (2025-10 to present)
+  Automated a real-time analytics pipeline for a leading hospital network in healthcare using Communication, Business Analysis, SQL and Requirements Gathering, cutting cloud spend by 18%.
+* Airline Operations Real-time Analytics Pipeline — a global airline (2024-07 to 2025-09)
+  Automated a real-time analytics pipeline for a global airline in airline operations using SQL and Power BI, cutting cloud spend by 30%.
+* Supply-chain Logistics Executive KPI Dashboard Suite — an APAC logistics company (2023-02 to 2024-05)
+  Designed an executive KPI dashboard suite for an APAC logistics company in supply-chain logistics using Stakeholder Management and Communication, improving forecast accuracy by 25%.
+* Airline Operations Regulatory Reporting Suite — a tier-1 airline (2021-07 to 2022-11)
+  Led the delivery of a regulatory reporting suite for a tier-1 airline in airline operations using Business Analysis, Power BI, Communication and Requirements Gathering, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, Product Manager, Financial Analyst, Data Scientist

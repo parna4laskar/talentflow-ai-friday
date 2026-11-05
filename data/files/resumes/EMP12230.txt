@@ -1,0 +1,34 @@
+PALLAVI NAIDU
+Lead Platform Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12230
+
+PROFESSIONAL SUMMARY
+Lead Platform Engineer with 10.5 years of experience, based in Pune. Strong in Platform Engineering, Kubernetes, Terraform and CI/CD, with recent work in pharma R&D. Interested in moving towards Site Reliability Engineer roles and open to relocating to London.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Advanced, 5.8y), Kubernetes (Advanced, 1.1y), Terraform (Advanced, 1.8y), CI/CD (Advanced, 0.8y), Site Reliability Engineering (Proficient, 6.4y), Observability (Proficient, 6.3y), AWS (Proficient, 3.1y)
+- Delivery & Leadership: Mentoring (Advanced, 7.7y), Stakeholder Management (Advanced, 5.4y), People Leadership (Proficient, 1.8y)
+- Software Engineering: Go (Proficient, 7.6y), Python (Proficient, 3.7y)
+
+EXPERIENCE
+* Wealth Management Data-centre Exit To Cloud — a leading wealth manager (2026-12 to present)
+  Modernised a data-centre exit to cloud for a leading wealth manager in wealth management using CI/CD, AWS and Mentoring, delivering $4M in cost savings.
+* Energy Trading Data-centre Exit To Cloud — a US energy company (2025-07 to 2026-12)
+  Led the delivery of a data-centre exit to cloud for a US energy company in energy trading using Mentoring, Go, Site Reliability Engineering and CI/CD, cutting cloud spend by 12%.
+* Pharma R&D CI/CD Platform — a global pharma company (2024-09 to 2025-05)
+  Designed a CI/CD platform for a global pharma company in pharma R&D using Site Reliability Engineering and Terraform, accelerating releases by 40%.
+* Pharma R&D CI/CD Platform — a global pharma company (2023-07 to 2024-07)
+  Modernised a CI/CD platform for a global pharma company in pharma R&D using Stakeholder Management, Mentoring, Site Reliability Engineering and Observability, accelerating releases by 22%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Site Reliability Engineer

@@ -1,0 +1,33 @@
+CARLOS MILLER
+Senior Frontend Engineer | Engineering | Austin, United States
+Employee ID: EMP12488
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 10.2 years of experience, based in Austin. Strong in TypeScript, JavaScript, Angular and CI/CD, with recent work in payments. Interested in moving towards UX Designer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 6.9y), JavaScript (Proficient, 2.5y), Angular (Proficient, 1.2y), Next.js (Proficient, 3.8y), Node.js (Beginner, 2.1y)
+- Cloud & DevOps: CI/CD (Proficient, 2.8y)
+
+EXPERIENCE
+* Pharma R&D Claims Processing Engine — an APAC pharma company (2026-02 to present)
+  Led the delivery of a claims processing engine for an APAC pharma company in pharma R&D using Next.js, TypeScript and JavaScript, reducing processing time by 22%.
+* Manufacturing IoT Mobile Banking App — a fast-growing manufacturer (2024-11 to 2025-11)
+  Automated a mobile banking app for a fast-growing manufacturer in manufacturing IoT using JavaScript, Next.js, Node.js and TypeScript, lifting NPS by 18 points.
+* Payments Claims Processing Engine — a US payments provider (2023-05 to 2024-11)
+  Modernised a claims processing engine for a US payments provider in payments using Angular, JavaScript, CI/CD and TypeScript, reducing processing time by 40%.
+* Payments Pricing Engine — a leading payments provider (2022-02 to 2023-04)
+  Led the delivery of a pricing engine for a leading payments provider in payments using Next.js, Angular, TypeScript and JavaScript, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: UX Designer, Full Stack Engineer, QA Engineer

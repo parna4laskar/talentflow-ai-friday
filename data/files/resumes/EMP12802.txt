@@ -1,0 +1,30 @@
+HARSH JOSHI
+Associate CRM Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP12802
+
+PROFESSIONAL SUMMARY
+Associate CRM Consultant with 0.9 years of experience, based in Pune. Strong in Business Analysis, Agile/Scrum, ServiceNow and JavaScript, with recent work in public sector. Interested in moving towards Scrum Master, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 0.6y), ServiceNow (Working, 0.3y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.7y), Program Management (Working, 0.3y)
+- Software Engineering: JavaScript (Working, 0.4y)
+
+EXPERIENCE
+* Wealth Management ERP Finance Rollout — a leading wealth manager (2026-07 to present)
+  Led the delivery of an ERP finance rollout for a leading wealth manager in wealth management using Business Analysis, ServiceNow, Agile/Scrum and JavaScript, saving ~30K hours annually.
+* Public Sector ERP Finance Rollout — a leading government agency (2025-07 to 2026-04)
+  Designed an ERP finance rollout for a leading government agency in public sector using Business Analysis, ServiceNow and Agile/Scrum, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2026)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Scrum Master, Account Manager, Business Analyst

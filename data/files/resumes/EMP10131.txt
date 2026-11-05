@@ -1,0 +1,30 @@
+HARSH JOSHI
+Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP10131
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.5 years of experience, based in Gurugram. Strong in TypeScript, React, Design Systems and GraphQL, with recent work in energy trading. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 1.7y), React (Proficient, 1.6y), GraphQL (Proficient, 2.2y), JavaScript (Working, 0.9y), Next.js (Working, 2.2y)
+- Product & Design: Design Systems (Proficient, 1.0y)
+- Cloud & DevOps: CI/CD (Proficient, 0.7y)
+- Quality Engineering: Playwright (Working, 1.3y)
+
+EXPERIENCE
+* Pharma R&D Claims Processing Engine — a tier-1 pharma company (2026-03 to present)
+  Scaled a claims processing engine for a tier-1 pharma company in pharma R&D using Design Systems, TypeScript, Playwright and CI/CD, saving ~18K hours annually.
+* E-commerce Mobile Banking App — a leading online retailer (2025-01 to 2026-03)
+  Re-architected a mobile banking app for a leading online retailer in e-commerce using CI/CD, TypeScript and Playwright, improving conversion by 18%.
+* Manufacturing IoT Order Management System — a global manufacturer (2023-06 to 2024-12)
+  Scaled an order management system for a global manufacturer in manufacturing IoT using Next.js and CI/CD, reducing processing time by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer

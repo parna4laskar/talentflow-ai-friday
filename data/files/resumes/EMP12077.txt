@@ -1,0 +1,29 @@
+SIMRAN CAMPBELL
+QA Engineer | Quality Engineering | Toronto, Canada
+Employee ID: EMP12077
+
+PROFESSIONAL SUMMARY
+QA Engineer with 3.9 years of experience, based in Toronto. Strong in Communication, Test Automation, Selenium and API Testing, with recent work in media streaming. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Advanced, 1.7y), Agile/Scrum (Working, 0.9y)
+- Quality Engineering: Test Automation (Proficient, 1.3y), Selenium (Working, 0.9y), API Testing (Working, 1.2y)
+- Data & AI: SQL (Working, 1.6y)
+
+EXPERIENCE
+* Wealth Management Performance Engineering Programme — a fast-growing wealth manager (2026-11 to present)
+  Designed a performance engineering programme for a fast-growing wealth manager in wealth management using Agile/Scrum and API Testing, accelerating releases by 22%.
+* Telecom Billing Test Automation Framework — a European telecom operator (2025-08 to 2026-09)
+  Led the delivery of a test automation framework for a European telecom operator in telecom billing using Agile/Scrum, Selenium, Communication and API Testing, raising automated test coverage to 90%.
+* Supply-chain Logistics Test Automation Framework — a leading logistics company (2025-01 to 2025-07)
+  Designed a test automation framework for a leading logistics company in supply-chain logistics using SQL, Test Automation and Agile/Scrum, accelerating releases by 12%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, French, German
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer

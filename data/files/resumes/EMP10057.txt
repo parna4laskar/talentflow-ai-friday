@@ -1,0 +1,27 @@
+OMKAR IYER
+Associate Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP10057
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 0 years of experience, based in Chennai. Strong in SQL, Tableau, Snowflake and Business Analysis, with recent work in HR tech. Interested in moving towards Business Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.3y), Tableau (Proficient, 0.3y), Snowflake (Proficient, 0.3y), Data Visualization (Working, 0.3y), dbt (Working, 0.3y), Statistics (Beginner, 0.3y)
+- Business & Finance: Business Analysis (Proficient, 0.3y)
+- Product & Design: A/B Testing (Working, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a tier-1 telecom operator (2025-07 to present)
+  Designed an executive KPI dashboard suite for a tier-1 telecom operator in telecom billing using dbt, A/B Testing and Statistics, saving ~40K hours annually.
+* Payments Executive KPI Dashboard Suite — an APAC payments provider (2024-09 to 2025-04)
+  Designed an executive KPI dashboard suite for an APAC payments provider in payments using Data Visualization, Business Analysis and Snowflake, saving ~12K hours annually.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Business Analyst, Data Scientist

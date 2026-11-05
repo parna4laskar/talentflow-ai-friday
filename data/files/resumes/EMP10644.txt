@@ -1,0 +1,32 @@
+TANVI REDDY
+Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP10644
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4 years of experience, based in Pune. Strong in Data Engineering, SQL, Python and dbt, with recent work in media streaming. Interested in moving towards Data Engineer, Backend Engineer roles and open to relocating to Austin, New York.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 1.0y), SQL (Proficient, 1.0y), dbt (Proficient, 1.2y), Databricks (Proficient, 1.0y), Snowflake (Working, 0.4y)
+- Software Engineering: Python (Proficient, 0.6y), Kafka (Working, 1.0y)
+- Cloud & DevOps: AWS (Proficient, 1.1y)
+- Delivery & Leadership: Communication (Working, 1.9y)
+
+EXPERIENCE
+* Media Streaming Regulatory Reporting Suite — a fast-growing streaming platform (2026-12 to present)
+  Re-architected a regulatory reporting suite for a fast-growing streaming platform in media streaming using Snowflake, Databricks and Python, saving ~18K hours annually.
+* Media Streaming Real-time Analytics Pipeline — a US streaming platform (2025-10 to 2026-10)
+  Scaled a real-time analytics pipeline for a US streaming platform in media streaming using SQL and Python, cutting cloud spend by 12%.
+* Public Sector Real-time Analytics Pipeline — a leading government agency (2024-11 to 2025-09)
+  Modernised a real-time analytics pipeline for a leading government agency in public sector using SQL, Python and Communication, reducing processing time by 12%.
+* Media Streaming Executive KPI Dashboard Suite — a global streaming platform (2023-08 to 2024-09)
+  Automated an executive KPI dashboard suite for a global streaming platform in media streaming using Snowflake and Data Engineering, saving ~40K hours annually.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, Backend Engineer, AI Engineer, Data Analyst

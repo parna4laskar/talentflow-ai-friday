@@ -1,0 +1,34 @@
+PARNA PATIL
+Senior Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP11584
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.4 years of experience, based in Pune. Strong in GraphQL, TypeScript, JavaScript and React, with recent work in pharma R&D. Interested in moving towards QA Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Expert, 3.0y), TypeScript (Advanced, 5.3y), JavaScript (Advanced, 3.8y), React (Proficient, 4.8y), Node.js (Working, 2.4y), REST API Design (Working, 3.5y)
+- Delivery & Leadership: Communication (Proficient, 0.9y)
+- Product & Design: Design Systems (Working, 3.4y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a global pharma company (2026-05 to present)
+  Built a pricing engine for a global pharma company in pharma R&D using JavaScript and Communication, reducing processing time by 18%.
+* Manufacturing IoT Payments Microservices Platform — a European manufacturer (2025-06 to 2026-03)
+  Led the delivery of a payments microservices platform for a European manufacturer in manufacturing IoT using GraphQL and REST API Design, reducing production incidents by 40%.
+* Pharma R&D Payments Microservices Platform — a US pharma company (2024-02 to 2025-04)
+  Modernised a payments microservices platform for a US pharma company in pharma R&D using GraphQL, Design Systems, REST API Design and React, reducing processing time by 22%.
+* Pharma R&D Claims Processing Engine — a tier-1 pharma company (2022-10 to 2023-11)
+  Modernised a claims processing engine for a tier-1 pharma company in pharma R&D using GraphQL, TypeScript, Communication and React, saving ~18K hours annually.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: QA Engineer, UX Designer, Full Stack Engineer

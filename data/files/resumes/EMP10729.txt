@@ -1,0 +1,29 @@
+FARHAN PILLAI
+Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP10729
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5.8 years of experience, based in Bengaluru. Strong in SQL, Data Visualization, Power BI and Statistics, with recent work in e-commerce. Interested in moving towards Data Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.4y), Data Visualization (Proficient, 1.5y), Power BI (Proficient, 0.5y), Statistics (Proficient, 2.2y), LLM Engineering (Working, 0.3y)
+- Product & Design: A/B Testing (Working, 1.0y)
+- Delivery & Leadership: Communication (Working, 2.1y)
+
+EXPERIENCE
+* E-commerce Executive KPI Dashboard Suite — a European online retailer (2026-08 to present)
+  Automated an executive KPI dashboard suite for a European online retailer in e-commerce using Data Visualization and Statistics, saving ~35K hours annually.
+* E-commerce Customer Churn Model — an APAC online retailer (2025-06 to 2026-06)
+  Led the delivery of a customer churn model for an APAC online retailer in e-commerce using Data Visualization, Statistics and Power BI, improving conversion by 12%.
+* E-commerce Executive KPI Dashboard Suite — a global online retailer (2023-12 to 2025-03)
+  Led the delivery of an executive KPI dashboard suite for a global online retailer in e-commerce using Data Visualization, LLM Engineering, SQL and A/B Testing, improving forecast accuracy by 12%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, Data Scientist

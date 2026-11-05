@@ -1,0 +1,26 @@
+ARVIND KHAN
+SAP Consultant | Enterprise Applications | Hyderabad, India
+Employee ID: EMP11734
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 2.3 years of experience, based in Hyderabad. Strong in Requirements Gathering, SAP S/4HANA, Process Improvement and SAP FICO, with recent work in payments. Interested in moving towards CRM Consultant, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 2.1y), SAP S/4HANA (Proficient, 1.6y), Process Improvement (Proficient, 1.3y), SAP FICO (Working, 0.9y), Business Analysis (Working, 1.1y), Financial Analysis (Working, 0.9y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.4y)
+
+EXPERIENCE
+* Retail Banking Service Desk Automation — a European retail bank (2026-05 to present)
+  Built a service desk automation for a European retail bank in retail banking using Financial Analysis, SAP FICO and SAP S/4HANA, saving ~12K hours annually.
+* Healthcare CRM Rollout — a fast-growing hospital network (2025-07 to 2026-04)
+  Led the delivery of a CRM rollout for a fast-growing hospital network in healthcare using Financial Analysis and Process Improvement, reducing processing time by 22%.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: CRM Consultant, Business Analyst, Financial Analyst

@@ -1,0 +1,32 @@
+VIKRAM VERMA
+Principal Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12259
+
+PROFESSIONAL SUMMARY
+Principal Platform Engineer with 13.2 years of experience, based in Bengaluru. Strong in Platform Engineering, Terraform, CI/CD and Kubernetes, with recent work in manufacturing IoT. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Expert, 6.1y), Terraform (Expert, 9.8y), CI/CD (Expert, 8.6y), Kubernetes (Advanced, 6.6y), AWS (Advanced, 12.7y), Observability (Advanced, 0.9y), FinOps (Advanced, 11.3y), Site Reliability Engineering (Proficient, 1.0y)
+- Software Engineering: Python (Advanced, 10.3y), Go (Proficient, 1.0y)
+- Delivery & Leadership: Mentoring (Advanced, 5.3y), Stakeholder Management (Proficient, 4.6y)
+
+EXPERIENCE
+* Telecom Billing Kubernetes Platform — an APAC telecom operator (2026-07 to present)
+  Automated a Kubernetes platform for an APAC telecom operator in telecom billing using Observability, Mentoring, Stakeholder Management and Platform Engineering, cutting cloud spend by 30%.
+* Telecom Billing Kubernetes Platform — a leading telecom operator (2025-12 to 2026-05)
+  Migrated a Kubernetes platform for a leading telecom operator in telecom billing using Kubernetes and Go, cutting cloud spend by 22%.
+* Manufacturing IoT Cloud Landing Zone — an APAC manufacturer (2024-08 to 2025-11)
+  Re-architected a cloud landing zone for an APAC manufacturer in manufacturing IoT using Stakeholder Management, Go and Platform Engineering, accelerating releases by 12%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer, Site Reliability Engineer, DevOps Engineer

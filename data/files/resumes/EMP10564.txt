@@ -1,0 +1,31 @@
+FARHAN PAWAR
+DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10564
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 5 years of experience, based in Hyderabad. Strong in Docker, Kubernetes, Azure and Python, with recent work in media streaming. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Proficient, 1.7y), Kubernetes (Proficient, 3.5y), Azure (Proficient, 2.9y), CI/CD (Working, 1.3y), Platform Engineering (Working, 1.5y)
+- Software Engineering: Python (Proficient, 1.3y), Go (Working, 2.0y)
+- Delivery & Leadership: Communication (Working, 1.2y)
+
+EXPERIENCE
+* Supply-chain Logistics CI/CD Platform — a European logistics company (2025-11 to present)
+  Built a CI/CD platform for a European logistics company in supply-chain logistics using Python, Go, Azure and Communication, accelerating releases by 40%.
+* Supply-chain Logistics Observability Stack — a fast-growing logistics company (2024-09 to 2025-09)
+  Migrated an observability stack for a fast-growing logistics company in supply-chain logistics using Kubernetes and CI/CD, accelerating releases by 22%.
+* Healthcare Kubernetes Platform — a European hospital network (2023-02 to 2024-08)
+  Re-architected a Kubernetes platform for a European hospital network in healthcare using Docker, Go and CI/CD, cutting cloud spend by 40%.
+* Media Streaming CI/CD Platform — a European streaming platform (2021-10 to 2022-12)
+  Scaled a CI/CD platform for a European streaming platform in media streaming using Azure, Docker, CI/CD and Platform Engineering, accelerating releases by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer, Site Reliability Engineer, Platform Engineer

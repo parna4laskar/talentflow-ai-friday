@@ -1,0 +1,34 @@
+MANISH BANERJEE
+Lead Business Analyst | Business Consulting | Gurugram, India
+Employee ID: EMP10811
+
+PROFESSIONAL SUMMARY
+Lead Business Analyst with 13.3 years of experience, based in Gurugram. Strong in Business Analysis, Requirements Gathering, Stakeholder Management and Communication, with recent work in airline operations. Interested in moving towards Business Analyst, Account Manager roles and open to relocating to London.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 13.3y), Requirements Gathering (Advanced, 4.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 9.9y), Communication (Proficient, 3.1y), People Leadership (Proficient, 7.5y)
+- Data & AI: Power BI (Working, 3.0y)
+- Cloud & DevOps: Kubernetes (Working, 4.1y)
+
+EXPERIENCE
+* Healthcare Agile Transformation — a fast-growing hospital network (2025-09 to present)
+  Delivered an agile transformation for a fast-growing hospital network in healthcare using Kubernetes and Communication, delivering on time across 4 workstreams.
+* Airline Operations Requirements and UAT for a CRM Rollout — a US airline (2024-11 to 2025-07)
+  Ran a requirements and UAT for a CRM rollout for a US airline in airline operations using Requirements Gathering, Business Analysis, Power BI and Kubernetes, reducing processing time by 30%.
+* Telecom Billing Core Banking Transformation Programme — a European telecom operator (2023-07 to 2024-09)
+  Ran a core banking transformation programme for a European telecom operator in telecom billing using Stakeholder Management, Requirements Gathering, Communication and Power BI, delivering $5M in cost savings.
+
+CERTIFICATIONS
+- CBAP (2022)
+- PMI-PBA (2024)
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Business Analyst, Account Manager, Data Analyst, CRM Consultant

@@ -1,0 +1,34 @@
+SAURABH KAPOOR
+Lead Software Architect | Engineering | Gurugram, India
+Employee ID: EMP11496
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.6 years of experience, based in Gurugram. Strong in Microservices, Java, Cloud Security and REST API Design, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 9.5y), Java (Advanced, 7.7y), REST API Design (Advanced, 4.7y), System Design (Working, 5.1y)
+- Security: Cloud Security (Advanced, 3.6y)
+- Cloud & DevOps: Terraform (Advanced, 11.0y), Azure (Proficient, 2.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.8y)
+
+EXPERIENCE
+* Automotive Customer Onboarding Platform — a global car maker (2025-09 to present)
+  Designed a customer onboarding platform for a global car maker in automotive using Microservices, Azure, Stakeholder Management and System Design, reducing processing time by 25%.
+* Healthcare Customer Onboarding Platform — a global hospital network (2024-05 to 2025-06)
+  Automated a customer onboarding platform for a global hospital network in healthcare using REST API Design, Azure, Terraform and Java, reducing processing time by 25%.
+* Airline Operations Customer Onboarding Platform — a global airline (2023-09 to 2024-02)
+  Led the delivery of a customer onboarding platform for a global airline in airline operations using Microservices, Cloud Security and REST API Design, improving conversion by 25%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2025)
+- TOGAF 10 (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer

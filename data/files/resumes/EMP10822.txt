@@ -1,0 +1,31 @@
+PRANAV REDDY
+UX Designer | Design | Gurugram, India
+Employee ID: EMP10822
+
+PROFESSIONAL SUMMARY
+UX Designer with 5.5 years of experience, based in Gurugram. Strong in UI Design, Figma, Design Systems and UX Research, with recent work in airline operations. Interested in moving towards Frontend Engineer, Product Manager roles.
+
+CORE SKILLS
+- Product & Design: UI Design (Proficient, 2.6y), Figma (Proficient, 2.8y), Design Systems (Proficient, 1.7y), UX Research (Working, 1.8y), Product Management (Working, 0.7y), A/B Testing (Working, 1.4y)
+- Delivery & Leadership: Communication (Working, 2.5y)
+
+EXPERIENCE
+* Airline Operations Onboarding Flow — a tier-1 airline (2026-10 to present)
+  Ran research for an onboarding flow for a tier-1 airline in airline operations using Design Systems and Product Management, lifting NPS by 30 points.
+* Payments Onboarding Flow — a leading payments provider (2025-08 to 2026-08)
+  Designed an onboarding flow for a leading payments provider in payments using Figma, UX Research and Product Management, lifting NPS by 22 points.
+* Telecom Billing Enterprise Design System — a European telecom operator (2024-02 to 2025-07)
+  Redesigned an enterprise design system for a European telecom operator in telecom billing using Figma, Communication, UI Design and Design Systems, accelerating releases by 22%.
+
+CERTIFICATIONS
+- NN/g UX Certification (2025)
+
+EDUCATION
+- M.Des
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, Product Manager

@@ -1,0 +1,32 @@
+DARREN LIM
+Lead AI Engineer | AI Center of Excellence | Singapore, Singapore
+Employee ID: EMP11655
+
+PROFESSIONAL SUMMARY
+Lead AI Engineer with 10.7 years of experience, based in Singapore. Strong in LLM Engineering, Azure, Python and Generative AI, with recent work in supply-chain logistics. Interested in moving towards ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Expert, 1.4y), Generative AI (Proficient, 4.3y), NLP (Proficient, 2.9y), Agentic AI (Proficient, 0.6y), Responsible AI (Working, 0.6y)
+- Cloud & DevOps: Azure (Advanced, 2.5y)
+- Software Engineering: Python (Proficient, 0.7y), REST API Design (Proficient, 5.9y)
+- Delivery & Leadership: Mentoring (Working, 1.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Document Intelligence Pipeline — a tier-1 logistics company (2025-12 to present)
+  Migrated a document intelligence pipeline for a tier-1 logistics company in supply-chain logistics using LLM Engineering, Mentoring, Python and Generative AI, saving ~35K hours annually.
+* Manufacturing IoT Fraud Detection Model — a fast-growing manufacturer (2025-06 to 2025-11)
+  Migrated a fraud detection model for a fast-growing manufacturer in manufacturing IoT using REST API Design, LLM Engineering and Generative AI, reducing processing time by 30%.
+* Supply-chain Logistics Document Intelligence Pipeline — a fast-growing logistics company (2023-11 to 2025-03)
+  Migrated a document intelligence pipeline for a fast-growing logistics company in supply-chain logistics using Generative AI, NLP and Responsible AI, saving ~12K hours annually.
+* Pharma R&D Fraud Detection Model — a tier-1 pharma company (2022-12 to 2023-08)
+  Led the delivery of a fraud detection model for a tier-1 pharma company in pharma R&D using LLM Engineering and Agentic AI, improving model accuracy by 35%.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: ML Engineer

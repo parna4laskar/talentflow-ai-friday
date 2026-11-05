@@ -1,0 +1,33 @@
+SAMEER NAIDU
+Senior Security Analyst | Cyber Security | Bengaluru, India
+Employee ID: EMP10634
+
+PROFESSIONAL SUMMARY
+Senior Security Analyst with 9.1 years of experience, based in Bengaluru. Strong in Incident Response, SIEM, Linux Administration and Communication, with recent work in HR tech. Interested in moving towards Security Analyst, DevOps Engineer roles.
+
+CORE SKILLS
+- Security: Incident Response (Advanced, 3.7y), SIEM (Proficient, 2.0y), Cloud Security (Working, 2.1y), Identity & Access Management (Working, 4.4y)
+- Cloud & DevOps: Linux Administration (Proficient, 5.4y)
+- Delivery & Leadership: Communication (Proficient, 3.3y)
+- Quality Engineering: Playwright (Working, 1.2y)
+
+EXPERIENCE
+* Wealth Management Identity and Access Platform — a global wealth manager (2026-02 to present)
+  Re-architected an identity and access platform for a global wealth manager in wealth management using Linux Administration, Playwright and Cloud Security, reducing production incidents by 12%.
+* HR Tech Cloud Security Posture Programme — a US HR software company (2025-04 to 2026-01)
+  Migrated a cloud security posture programme for a US HR software company in HR tech using Incident Response and Communication, closing 35% of open audit findings.
+* HR Tech Cloud Security Posture Programme — a leading HR software company (2024-06 to 2025-03)
+  Automated a cloud security posture programme for a leading HR software company in HR tech using Cloud Security and SIEM, reducing production incidents by 12%.
+
+CERTIFICATIONS
+- CompTIA Security+ (2026)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Security Analyst, DevOps Engineer, Security Engineer

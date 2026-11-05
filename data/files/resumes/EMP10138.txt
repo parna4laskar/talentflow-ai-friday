@@ -1,0 +1,32 @@
+JACK WILSON
+Associate Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP10138
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2.8 years of experience, based in London. Strong in SQL, Data Visualization, Snowflake and Business Analysis, with recent work in telecom billing. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.4y), Data Visualization (Proficient, 1.2y), Snowflake (Proficient, 1.0y), Power BI (Beginner, 0.6y)
+- Business & Finance: Business Analysis (Proficient, 1.5y)
+- Software Engineering: Python (Working, 0.9y)
+- Delivery & Leadership: Stakeholder Management (Beginner, 0.3y)
+- Product & Design: A/B Testing (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a leading telecom operator (2025-11 to present)
+  Built an executive KPI dashboard suite for a leading telecom operator in telecom billing using Python, Business Analysis and Power BI, saving ~25K hours annually.
+* Retail Banking Real-time Analytics Pipeline — a fast-growing retail bank (2024-09 to 2025-08)
+  Migrated a real-time analytics pipeline for a fast-growing retail bank in retail banking using Snowflake, Python and SQL, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2024)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Business Analyst

@@ -1,0 +1,28 @@
+NAVEEN BOSE
+Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12318
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 3.6 years of experience, based in Bengaluru. Strong in Platform Engineering, Terraform, CI/CD and Kubernetes, with recent work in energy trading. Interested in moving towards Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Advanced, 1.3y), Terraform (Advanced, 3.1y), CI/CD (Advanced, 1.1y), Kubernetes (Proficient, 2.3y), Observability (Proficient, 1.2y), Site Reliability Engineering (Proficient, 1.4y), AWS (Working, 1.0y), Azure (Beginner, 0.6y)
+- Software Engineering: Go (Proficient, 1.3y), Python (Proficient, 2.1y)
+
+EXPERIENCE
+* Energy Trading Observability Stack — a European energy company (2025-12 to present)
+  Led the delivery of an observability stack for a European energy company in energy trading using Go, Python and Azure, reducing production incidents by 18%.
+* Energy Trading Kubernetes Platform — an APAC energy company (2024-09 to 2025-09)
+  Led the delivery of a Kubernetes platform for an APAC energy company in energy trading using Python, AWS and Go, reducing production incidents by 12%.
+* Energy Trading Cloud Landing Zone — a European energy company (2023-04 to 2024-07)
+  Re-architected a cloud landing zone for a European energy company in energy trading using Observability, Python and CI/CD, accelerating releases by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Site Reliability Engineer

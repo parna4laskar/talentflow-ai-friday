@@ -1,0 +1,35 @@
+RITESH KAUR
+Lead Software Architect | Engineering | Bengaluru, India
+Employee ID: EMP10300
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 9.8 years of experience, based in Bengaluru. Strong in System Design, Microservices, Java and GCP, with recent work in wealth management. Interested in moving towards DevOps Engineer roles and open to relocating to Pune.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 1.4y), Microservices (Advanced, 3.4y), Java (Advanced, 8.2y), Kafka (Advanced, 9.2y), REST API Design (Proficient, 4.4y)
+- Cloud & DevOps: GCP (Advanced, 4.3y), Azure (Proficient, 4.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 5.1y), Mentoring (Proficient, 4.2y)
+- Security: Cloud Security (Proficient, 0.8y)
+
+EXPERIENCE
+* Pharma R&D Claims Processing Engine — a tier-1 pharma company (2025-09 to present)
+  Designed a claims processing engine for a tier-1 pharma company in pharma R&D using System Design, Azure and Mentoring, reducing processing time by 40%.
+* Pharma R&D Order Management System — a fast-growing pharma company (2024-09 to 2025-08)
+  Led the delivery of an order management system for a fast-growing pharma company in pharma R&D using Java, Mentoring and REST API Design, reducing processing time by 40%.
+* Wealth Management Pricing Engine — a fast-growing wealth manager (2023-12 to 2024-07)
+  Migrated a pricing engine for a fast-growing wealth manager in wealth management using Azure, Cloud Security, Mentoring and Stakeholder Management, reducing processing time by 22%.
+* Wealth Management Self-service Portal — a global wealth manager (2022-10 to 2023-12)
+  Migrated a self-service portal for a global wealth manager in wealth management using GCP, REST API Design, Microservices and Cloud Security, saving ~35K hours annually.
+
+CERTIFICATIONS
+- TOGAF 10 (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer

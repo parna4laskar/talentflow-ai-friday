@@ -1,0 +1,33 @@
+AKASH HEGDE
+Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP11908
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 5.8 years of experience, based in Pune. Strong in Mobile Development, REST API Design, Java and UI Design, with recent work in e-commerce. Interested in moving towards Mobile Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 3.1y), REST API Design (Advanced, 1.8y), Java (Proficient, 2.7y), TypeScript (Working, 1.8y)
+- Product & Design: UI Design (Proficient, 2.7y)
+- Quality Engineering: Test Automation (Proficient, 3.3y)
+- Delivery & Leadership: Communication (Proficient, 4.3y)
+- Cloud & DevOps: CI/CD (Working, 1.3y)
+
+EXPERIENCE
+* E-commerce Payments Microservices Platform — a US online retailer (2026-02 to present)
+  Re-architected a payments microservices platform for a US online retailer in e-commerce using Mobile Development, TypeScript, Test Automation and REST API Design, accelerating releases by 40%.
+* Healthcare Pricing Engine — a US hospital network (2024-11 to 2026-01)
+  Led the delivery of a pricing engine for a US hospital network in healthcare using Java, UI Design, TypeScript and REST API Design, reducing processing time by 40%.
+* Supply-chain Logistics Self-service Portal — a global logistics company (2023-07 to 2024-10)
+  Automated a self-service portal for a global logistics company in supply-chain logistics using Communication, Java, TypeScript and Mobile Development, saving ~22K hours annually.
+* Supply-chain Logistics Self-service Portal — a US logistics company (2022-04 to 2023-06)
+  Automated a self-service portal for a US logistics company in supply-chain logistics using Java and Mobile Development, saving ~30K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Mobile Engineer, Frontend Engineer

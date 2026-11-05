@@ -1,0 +1,34 @@
+SANJANA SINGH
+Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP12171
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3 years of experience, based in Chennai. Strong in Python, SQL, Snowflake and Data Engineering, with recent work in energy trading. Interested in moving towards AI Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.6y)
+- Data & AI: SQL (Proficient, 0.5y), Snowflake (Proficient, 0.6y), Data Engineering (Working, 1.1y), Airflow (Working, 0.5y), Data Governance (Working, 1.4y)
+- Cloud & DevOps: AWS (Working, 1.2y), Kubernetes (Working, 1.4y)
+
+EXPERIENCE
+* Energy Trading Regulatory Reporting Suite — a fast-growing energy company (2025-09 to present)
+  Designed a regulatory reporting suite for a fast-growing energy company in energy trading using Python, AWS and Snowflake, saving ~35K hours annually.
+* Energy Trading Data Lakehouse — a leading energy company (2024-05 to 2025-07)
+  Built a data lakehouse for a leading energy company in energy trading using Snowflake, Data Governance and SQL, reducing processing time by 12%.
+* Telecom Billing Regulatory Reporting Suite — a fast-growing telecom operator (2023-05 to 2024-04)
+  Modernised a regulatory reporting suite for a fast-growing telecom operator in telecom billing using AWS, Airflow, Data Engineering and Data Governance, saving ~40K hours annually.
+* Energy Trading Real-time Analytics Pipeline — a tier-1 energy company (2021-12 to 2023-03)
+  Automated a real-time analytics pipeline for a tier-1 energy company in energy trading using Data Governance, SQL and Data Engineering, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, Data Scientist

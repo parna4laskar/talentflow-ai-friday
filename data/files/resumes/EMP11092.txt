@@ -1,0 +1,25 @@
+KAI WEN WONG
+Associate Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11092
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 0.4 years of experience, based in Singapore. Strong in Angular, JavaScript, TypeScript and GraphQL, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 0.4y), JavaScript (Proficient, 0.3y), TypeScript (Working, 0.3y), GraphQL (Working, 0.3y), Node.js (Beginner, 0.3y), REST API Design (Beginner, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Payments Microservices Platform — a global insurer (2025-09 to present)
+  Designed a payments microservices platform for a global insurer in insurance claims using TypeScript, JavaScript and REST API Design, reducing processing time by 40%.
+* Manufacturing IoT Order Management System — a US manufacturer (2024-10 to 2025-08)
+  Automated an order management system for a US manufacturer in manufacturing IoT using REST API Design and TypeScript, onboarding 2 new enterprise clients.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer, Mobile Engineer, Full Stack Engineer

@@ -1,0 +1,32 @@
+NIKHIL MEHTA
+CRM Consultant | Enterprise Applications | Hyderabad, India
+Employee ID: EMP11691
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 5 years of experience, based in Hyderabad. Strong in Business Analysis, Requirements Gathering, JavaScript and Process Improvement, with recent work in insurance claims. Interested in moving towards Business Analyst, Account Manager roles and open to relocating to Bengaluru, Dublin.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 3.3y), Requirements Gathering (Proficient, 3.2y), Process Improvement (Proficient, 2.0y), ServiceNow (Working, 1.6y)
+- Software Engineering: JavaScript (Proficient, 1.1y)
+- Delivery & Leadership: Communication (Proficient, 1.2y)
+
+EXPERIENCE
+* Insurance Claims CRM Rollout — a European insurer (2025-12 to present)
+  Designed a CRM rollout for a European insurer in insurance claims using Requirements Gathering and JavaScript, improving conversion by 35%.
+* Healthcare CRM Rollout — a global hospital network (2024-03 to 2025-09)
+  Modernised a CRM rollout for a global hospital network in healthcare using Business Analysis and Requirements Gathering, reducing processing time by 25%.
+* Insurance Claims CRM Rollout — a fast-growing insurer (2023-08 to 2024-02)
+  Re-architected a CRM rollout for a fast-growing insurer in insurance claims using Communication, Business Analysis, Requirements Gathering and JavaScript, reducing processing time by 18%.
+
+CERTIFICATIONS
+- ServiceNow CSA (2022)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Business Analyst, Account Manager, SAP Consultant

@@ -1,0 +1,29 @@
+ETHAN KULKARNI
+Senior Risk & Compliance Analyst | Risk & Compliance | New York, United States
+Employee ID: EMP11902
+
+PROFESSIONAL SUMMARY
+Senior Risk & Compliance Analyst with 7.4 years of experience, based in New York. Strong in Risk Management, Regulatory Compliance, GRC and SQL, with recent work in energy trading. Interested in moving towards Security Analyst, Data Engineer roles.
+
+CORE SKILLS
+- Business & Finance: Risk Management (Advanced, 6.4y), Regulatory Compliance (Advanced, 3.7y)
+- Security: GRC (Proficient, 0.4y)
+- Data & AI: SQL (Proficient, 1.8y), Responsible AI (Proficient, 4.7y), Data Governance (Working, 2.0y)
+
+EXPERIENCE
+* Energy Trading Rolling Forecasting Model — a European energy company (2026-04 to present)
+  Led a rolling forecasting model for a European energy company in energy trading using Regulatory Compliance, Risk Management and GRC, saving ~30K hours annually.
+* Energy Trading Risk Control Framework — a tier-1 energy company (2024-11 to 2026-01)
+  Built a risk control framework for a tier-1 energy company in energy trading using Data Governance, Regulatory Compliance, SQL and Responsible AI, closing 35% of open audit findings.
+* Wealth Management Cost Transformation Programme — a leading wealth manager (2024-04 to 2024-10)
+  Owned a cost transformation programme for a leading wealth manager in wealth management using Data Governance and GRC, delivering $2M in cost savings.
+
+EDUCATION
+- MSc Economics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Security Analyst, Data Engineer, SAP Consultant

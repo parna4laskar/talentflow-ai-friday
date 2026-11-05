@@ -1,0 +1,31 @@
+DIVYA REDDY
+Lead Project Manager | Delivery Excellence | Bengaluru, India
+Employee ID: EMP10872
+
+PROFESSIONAL SUMMARY
+Lead Project Manager with 10.8 years of experience, based in Bengaluru. Strong in Project Management, Stakeholder Management, Agile/Scrum and Vendor Management, with recent work in supply-chain logistics. Interested in moving towards Account Manager, Scrum Master roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Delivery & Leadership: Project Management (Advanced, 2.3y), Stakeholder Management (Advanced, 3.1y), Agile/Scrum (Advanced, 9.8y), Vendor Management (Advanced, 0.9y), Mentoring (Advanced, 10.6y), Communication (Proficient, 1.2y), Program Management (Proficient, 3.9y)
+- Business & Finance: Risk Management (Advanced, 1.4y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Cloud Migration Programme — a global logistics company (2026-11 to present)
+  Coordinated a cloud migration programme for a global logistics company in supply-chain logistics using Agile/Scrum and Communication, cutting cloud spend by 25%.
+* Insurance Claims Process Re-engineering Initiative — a European insurer (2025-11 to 2026-10)
+  Coordinated a process re-engineering initiative for a European insurer in insurance claims using Program Management, Risk Management and Project Management, reducing processing time by 22%.
+* Supply-chain Logistics Agile Transformation — a fast-growing logistics company (2025-05 to 2025-10)
+  Led an agile transformation for a fast-growing logistics company in supply-chain logistics using Mentoring and Vendor Management, delivering on time across 2 workstreams.
+* HR Tech Agile Transformation — a tier-1 HR software company (2023-11 to 2025-02)
+  Coordinated an agile transformation for a tier-1 HR software company in HR tech using Kubernetes, Risk Management and Communication, delivering on time across 4 workstreams.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Account Manager, Scrum Master

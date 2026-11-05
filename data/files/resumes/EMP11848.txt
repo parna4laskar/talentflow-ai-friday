@@ -1,0 +1,34 @@
+DARREN SMITH
+Lead DevOps Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP11848
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 14.6 years of experience, based in Singapore. Strong in Docker, CI/CD, AWS and Python, with recent work in wealth management. Interested in moving towards Platform Engineer, Cloud Engineer roles and open to relocating to Dublin, Hyderabad, Austin.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Expert, 2.9y), CI/CD (Advanced, 4.9y), AWS (Advanced, 8.1y), Kubernetes (Proficient, 7.0y), Linux Administration (Proficient, 1.6y)
+- Software Engineering: Python (Advanced, 7.3y)
+- Delivery & Leadership: Mentoring (Proficient, 9.7y)
+
+EXPERIENCE
+* Telecom Billing Kubernetes Platform — a US telecom operator (2025-10 to present)
+  Automated a Kubernetes platform for a US telecom operator in telecom billing using Python and CI/CD, cutting cloud spend by 35%.
+* Wealth Management Cloud Landing Zone — a fast-growing wealth manager (2024-10 to 2025-08)
+  Designed a cloud landing zone for a fast-growing wealth manager in wealth management using AWS, CI/CD and Linux Administration, accelerating releases by 18%.
+* Wealth Management Observability Stack — a global wealth manager (2023-09 to 2024-09)
+  Led the delivery of an observability stack for a global wealth manager in wealth management using Python, Docker, CI/CD and Kubernetes, reducing production incidents by 35%.
+* Wealth Management Data-centre Exit To Cloud — an APAC wealth manager (2023-02 to 2023-07)
+  Designed a data-centre exit to cloud for an APAC wealth manager in wealth management using Kubernetes and Linux Administration, delivering $8M in cost savings.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Cloud Engineer, Site Reliability Engineer

@@ -1,0 +1,29 @@
+HARRY JONES
+Senior Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12887
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.9 years of experience, based in London. Strong in CI/CD, Go, REST API Design and .NET Core, with recent work in telecom billing. Interested in moving towards AI Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 6.1y)
+- Software Engineering: Go (Proficient, 1.9y), REST API Design (Proficient, 1.5y), .NET Core (Proficient, 1.7y), Microservices (Working, 1.7y)
+- Data & AI: SQL (Working, 1.9y)
+
+EXPERIENCE
+* Telecom Billing Claims Processing Engine — a fast-growing telecom operator (2025-12 to present)
+  Led the delivery of a claims processing engine for a fast-growing telecom operator in telecom billing using .NET Core, Go and REST API Design, reducing processing time by 22%.
+* Telecom Billing Payments Microservices Platform — a US telecom operator (2025-05 to 2025-11)
+  Designed a payments microservices platform for a US telecom operator in telecom billing using .NET Core, REST API Design and CI/CD, reducing processing time by 12%.
+* Telecom Billing Pricing Engine — a fast-growing telecom operator (2023-09 to 2025-02)
+  Scaled a pricing engine for a fast-growing telecom operator in telecom billing using CI/CD and Microservices, reducing processing time by 12%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, Engineering Manager, Full Stack Engineer

@@ -1,0 +1,26 @@
+SHREYA RAO
+Associate Platform Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12729
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 2.7 years of experience, based in Pune. Strong in Platform Engineering, Kubernetes, Terraform and Go, with recent work in retail banking. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Proficient, 0.8y), Kubernetes (Proficient, 1.7y), Terraform (Proficient, 1.0y), CI/CD (Working, 0.8y), AWS (Working, 0.4y), Site Reliability Engineering (Working, 0.8y)
+- Software Engineering: Go (Proficient, 1.1y), Python (Beginner, 0.4y)
+
+EXPERIENCE
+* Retail Banking Observability Stack — a tier-1 retail bank (2025-11 to present)
+  Built an observability stack for a tier-1 retail bank in retail banking using Platform Engineering, Terraform and Python, reducing production incidents by 35%.
+* Retail Banking Data-centre Exit To Cloud — a US retail bank (2024-05 to 2025-11)
+  Scaled a data-centre exit to cloud for a US retail bank in retail banking using AWS and Terraform, cutting cloud spend by 30%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, DevOps Engineer, Site Reliability Engineer

@@ -1,0 +1,34 @@
+MICHAŁ LEWANDOWSKI
+Senior QA Engineer | Quality Engineering | Kraków, Poland
+Employee ID: EMP12231
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 8.3 years of experience, based in Kraków. Strong in Test Automation, Selenium, API Testing and Agile/Scrum, with recent work in public sector. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 7.1y), Selenium (Advanced, 1.5y), API Testing (Advanced, 7.6y), Performance Testing (Working, 3.7y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 2.3y)
+- Data & AI: LLM Engineering (Working, 0.7y)
+
+EXPERIENCE
+* Public Sector Performance Engineering Programme — a global government agency (2026-05 to present)
+  Modernised a performance engineering programme for a global government agency in public sector using Agile/Scrum and Selenium, accelerating releases by 18%.
+* Public Sector API Contract-testing Suite — a global government agency (2024-08 to 2026-02)
+  Designed an API contract-testing suite for a global government agency in public sector using Agile/Scrum, Test Automation, LLM Engineering and API Testing, reducing production incidents by 12%.
+* Telecom Billing Test Automation Framework — a global telecom operator (2023-12 to 2024-06)
+  Modernised a test automation framework for a global telecom operator in telecom billing using LLM Engineering and Selenium, raising automated test coverage to 85%.
+* Public Sector API Contract-testing Suite — a global government agency (2022-06 to 2023-09)
+  Re-architected an API contract-testing suite for a global government agency in public sector using LLM Engineering, API Testing and Performance Testing, raising automated test coverage to 85%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2021)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+Polish, English, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer

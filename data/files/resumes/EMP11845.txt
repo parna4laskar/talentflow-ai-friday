@@ -1,0 +1,35 @@
+ABHISHEK DESHPANDE
+Lead Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP11845
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 11.5 years of experience, based in Pune. Strong in REST API Design, React, Java and GraphQL, with recent work in e-commerce. Interested in moving towards Full Stack Engineer, AI Engineer roles and open to relocating to Toronto, Singapore.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 10.1y), React (Advanced, 1.9y), Java (Advanced, 4.8y), GraphQL (Advanced, 10.1y), TypeScript (Proficient, 5.8y), System Design (Proficient, 2.4y)
+- Data & AI: SQL (Proficient, 4.0y)
+- Cloud & DevOps: Docker (Proficient, 0.5y), AWS (Proficient, 7.4y)
+- Delivery & Leadership: Communication (Proficient, 4.2y)
+
+EXPERIENCE
+* Payments Customer Onboarding Platform — an APAC payments provider (2025-12 to present)
+  Designed a customer onboarding platform for an APAC payments provider in payments using Java and SQL, lifting NPS by 40 points.
+* E-commerce Payments Microservices Platform — a tier-1 online retailer (2025-03 to 2025-11)
+  Re-architected a payments microservices platform for a tier-1 online retailer in e-commerce using SQL, Java, React and GraphQL, reducing production incidents by 18%.
+* E-commerce Mobile Banking App — a fast-growing online retailer (2024-09 to 2025-03)
+  Scaled a mobile banking app for a fast-growing online retailer in e-commerce using REST API Design and TypeScript, improving conversion by 40%.
+* E-commerce Mobile Banking App — a fast-growing online retailer (2024-02 to 2024-08)
+  Re-architected a mobile banking app for a fast-growing online retailer in e-commerce using System Design, Docker and REST API Design, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, AI Engineer, Mobile Engineer

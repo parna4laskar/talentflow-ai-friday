@@ -1,0 +1,28 @@
+FARHAN WIŚNIEWSKI
+Associate ML Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP12245
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 1.9 years of experience, based in Chennai. Strong in Kubernetes, Machine Learning, MLOps and Deep Learning, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.1y), Docker (Proficient, 0.5y), AWS (Working, 0.6y), Platform Engineering (Working, 0.3y)
+- Data & AI: Machine Learning (Proficient, 0.7y), MLOps (Proficient, 1.2y), Deep Learning (Proficient, 1.3y), Vector Databases (Beginner, 0.3y), Databricks (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.6y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* E-commerce Document Intelligence Pipeline — an APAC online retailer (2026-07 to present)
+  Migrated a document intelligence pipeline for an APAC online retailer in e-commerce using Docker and Communication, reducing processing time by 18%.
+* E-commerce Recommendation Engine — a global online retailer (2025-08 to 2026-05)
+  Built a recommendation engine for a global online retailer in e-commerce using Machine Learning, Databricks, MLOps and Platform Engineering, improving model accuracy by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Platform Engineer, Data Scientist

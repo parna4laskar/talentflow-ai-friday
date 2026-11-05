@@ -1,0 +1,29 @@
+RADHIKA ONG
+DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11940
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.9 years of experience, based in Pune. Strong in CI/CD, Docker, Azure and Agentic AI, with recent work in manufacturing IoT. Interested in moving towards Platform Engineer, Backend Engineer roles and open to relocating to Dublin, Gurugram, Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 1.6y), Docker (Proficient, 2.5y), Azure (Proficient, 2.6y), Kubernetes (Working, 2.3y), Linux Administration (Working, 0.8y), Observability (Beginner, 1.0y)
+- Data & AI: Agentic AI (Proficient, 3.5y)
+- Software Engineering: Python (Working, 1.8y), Go (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Observability Stack — a global manufacturer (2026-05 to present)
+  Automated an observability stack for a global manufacturer in manufacturing IoT using Docker and CI/CD, reducing production incidents by 30%.
+* Automotive Kubernetes Platform — a leading car maker (2025-07 to 2026-03)
+  Re-architected a Kubernetes platform for a leading car maker in automotive using Linux Administration, Python, Kubernetes and Azure, cutting cloud spend by 40%.
+* Telecom Billing Kubernetes Platform — a leading telecom operator (2024-12 to 2025-06)
+  Re-architected a Kubernetes platform for a leading telecom operator in telecom billing using CI/CD and Observability, cutting cloud spend by 35%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer, Backend Engineer

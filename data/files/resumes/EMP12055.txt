@@ -1,0 +1,32 @@
+HARRY JONES
+Senior DevOps Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12055
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 5.4 years of experience, based in London. Strong in CI/CD, Kubernetes, GCP and Go, with recent work in healthcare. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 2.9y), Kubernetes (Proficient, 0.7y), GCP (Proficient, 2.7y), Observability (Proficient, 2.6y), Docker (Working, 1.5y), Linux Administration (Working, 0.5y)
+- Software Engineering: Go (Proficient, 3.0y), Python (Working, 0.6y)
+- Delivery & Leadership: Communication (Proficient, 3.1y)
+- Data & AI: Responsible AI (Working, 1.9y)
+
+EXPERIENCE
+* Media Streaming Observability Stack — an APAC streaming platform (2025-10 to present)
+  Designed an observability stack for an APAC streaming platform in media streaming using Python, Go, Communication and Responsible AI, accelerating releases by 40%.
+* Wealth Management CI/CD Platform — a leading wealth manager (2024-04 to 2025-10)
+  Built a CI/CD platform for a leading wealth manager in wealth management using Observability, Communication, Python and Linux Administration, accelerating releases by 22%.
+* Healthcare Data-centre Exit To Cloud — a US hospital network (2022-08 to 2024-02)
+  Scaled a data-centre exit to cloud for a US hospital network in healthcare using Linux Administration, Kubernetes and Go, delivering $5M in cost savings.
+* Payments Observability Stack — a US payments provider (2021-02 to 2022-07)
+  Automated an observability stack for a US payments provider in payments using GCP and Python, reducing production incidents by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Site Reliability Engineer, Platform Engineer

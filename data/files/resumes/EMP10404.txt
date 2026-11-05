@@ -1,0 +1,34 @@
+RIYA SUBRAMANIAN
+Lead DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10404
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 12.9 years of experience, based in Bengaluru. Strong in Kubernetes, CI/CD, Docker and AWS, with recent work in airline operations. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles and open to relocating to Pune.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 9.1y), CI/CD (Advanced, 4.3y), Docker (Advanced, 3.7y), AWS (Advanced, 2.6y), Linux Administration (Advanced, 3.9y), Observability (Proficient, 1.7y), Terraform (Proficient, 0.9y)
+- Software Engineering: Go (Advanced, 5.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 7.5y), People Leadership (Proficient, 4.5y)
+
+EXPERIENCE
+* Pharma R&D Cloud Landing Zone — a leading pharma company (2025-11 to present)
+  Led the delivery of a cloud landing zone for a leading pharma company in pharma R&D using Go, Observability and AWS, accelerating releases by 35%.
+* Airline Operations Observability Stack — a US airline (2025-05 to 2025-10)
+  Built an observability stack for a US airline in airline operations using CI/CD, Linux Administration, Terraform and Docker, accelerating releases by 35%.
+* Wealth Management CI/CD Platform — a fast-growing wealth manager (2023-11 to 2025-05)
+  Built a CI/CD platform for a fast-growing wealth manager in wealth management using Stakeholder Management, Observability, AWS and Docker, accelerating releases by 30%.
+* Airline Operations CI/CD Platform — a US airline (2022-11 to 2023-09)
+  Scaled a CI/CD platform for a US airline in airline operations using AWS, Terraform, Go and Stakeholder Management, accelerating releases by 25%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Site Reliability Engineer, Cloud Engineer

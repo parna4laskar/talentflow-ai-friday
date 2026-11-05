@@ -1,0 +1,29 @@
+SURESH KRISHNAN
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP11768
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14.1 years of experience, based in Pune. Strong in People Leadership, System Design, Agile/Scrum and Stakeholder Management, with recent work in healthcare. Interested in moving towards Engineering Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 2.8y), Agile/Scrum (Advanced, 7.2y), Stakeholder Management (Advanced, 13.5y)
+- Software Engineering: System Design (Advanced, 6.4y), Python (Proficient, 1.5y)
+- Cloud & DevOps: AWS (Proficient, 6.3y)
+
+EXPERIENCE
+* Healthcare Customer Onboarding Platform — a leading hospital network (2026-04 to present)
+  Modernised a customer onboarding platform for a leading hospital network in healthcare using People Leadership and AWS, reducing processing time by 18%.
+* Energy Trading Payments Microservices Platform — a fast-growing energy company (2024-08 to 2026-02)
+  Scaled a payments microservices platform for a fast-growing energy company in energy trading using AWS, People Leadership, System Design and Agile/Scrum, reducing processing time by 22%.
+* Healthcare Customer Onboarding Platform — a global hospital network (2024-02 to 2024-07)
+  Designed a customer onboarding platform for a global hospital network in healthcare using Agile/Scrum and AWS, lifting NPS by 35 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager, Backend Engineer, Software Architect, Scrum Master

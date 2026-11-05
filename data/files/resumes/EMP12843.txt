@@ -1,0 +1,34 @@
+TANVI BOSE
+Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP12843
+
+PROFESSIONAL SUMMARY
+Data Analyst with 3.6 years of experience, based in Pune. Strong in Power BI, Data Visualization, Stakeholder Management and SQL, with recent work in airline operations. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Power BI (Advanced, 1.3y), Data Visualization (Proficient, 1.6y), SQL (Working, 1.7y), Statistics (Working, 0.6y), Tableau (Working, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.3y)
+- Business & Finance: Business Analysis (Working, 1.3y)
+
+EXPERIENCE
+* Airline Operations Real-time Analytics Pipeline — a US airline (2025-10 to present)
+  Automated a real-time analytics pipeline for a US airline in airline operations using Data Visualization and Power BI, reducing processing time by 18%.
+* Automotive Executive KPI Dashboard Suite — an APAC car maker (2025-03 to 2025-08)
+  Designed an executive KPI dashboard suite for an APAC car maker in automotive using Data Visualization, SQL and Power BI, saving ~35K hours annually.
+* E-commerce Real-time Analytics Pipeline — a tier-1 online retailer (2024-04 to 2025-01)
+  Migrated a real-time analytics pipeline for a tier-1 online retailer in e-commerce using Statistics, Stakeholder Management, Power BI and SQL, reducing processing time by 25%.
+* Healthcare Data Lakehouse — a global hospital network (2023-08 to 2024-03)
+  Designed a data lakehouse for a global hospital network in healthcare using Tableau, Statistics, Business Analysis and SQL, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, Financial Analyst, Business Analyst

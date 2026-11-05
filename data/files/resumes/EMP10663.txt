@@ -1,0 +1,35 @@
+CARLOS MARTINEZ
+Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP10663
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.9 years of experience, based in New York. Strong in Python, Apache Spark, SQL and Databricks, with recent work in public sector. Interested in moving towards AI Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.2y), Kafka (Working, 1.7y)
+- Data & AI: Apache Spark (Advanced, 1.7y), SQL (Proficient, 2.9y), Databricks (Proficient, 0.6y), Snowflake (Proficient, 0.7y), Airflow (Proficient, 2.3y), Data Engineering (Working, 0.6y)
+- Cloud & DevOps: AWS (Working, 0.8y)
+- Delivery & Leadership: Communication (Working, 1.3y)
+
+EXPERIENCE
+* Public Sector Data Lakehouse — a US government agency (2025-09 to present)
+  Built a data lakehouse for a US government agency in public sector using SQL, Airflow and Python, reducing processing time by 35%.
+* Telecom Billing Customer Churn Model — a European telecom operator (2024-07 to 2025-08)
+  Modernised a customer churn model for a European telecom operator in telecom billing using Databricks and AWS, improving model accuracy by 18%.
+* Manufacturing IoT Regulatory Reporting Suite — a European manufacturer (2023-05 to 2024-04)
+  Migrated a regulatory reporting suite for a European manufacturer in manufacturing IoT using Communication, Apache Spark and Kafka, saving ~22K hours annually.
+* Public Sector Customer Churn Model — a leading government agency (2021-12 to 2023-04)
+  Designed a customer churn model for a leading government agency in public sector using Python, SQL and Databricks, improving conversion by 40%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2023)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, Data Analyst

@@ -1,0 +1,31 @@
+OMKAR BANERJEE
+Principal Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP12210
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 20.2 years of experience, based in Chennai. Strong in SQL, Statistics, Data Visualization and Business Analysis, with recent work in manufacturing IoT. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 15.8y), Statistics (Expert, 10.8y), Data Visualization (Advanced, 3.2y), Snowflake (Advanced, 8.4y), Power BI (Proficient, 5.2y)
+- Business & Finance: Business Analysis (Advanced, 17.7y)
+- Product & Design: A/B Testing (Advanced, 4.8y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 2.6y), Communication (Proficient, 5.7y), Mentoring (Working, 9.2y)
+- People & Marketing: Marketing Analytics (Working, 9.7y)
+
+EXPERIENCE
+* Healthcare Data Lakehouse — a tier-1 hospital network (2026-01 to present)
+  Built a data lakehouse for a tier-1 hospital network in healthcare using SQL, A/B Testing, Business Analysis and Data Visualization, reducing processing time by 30%.
+* Supply-chain Logistics Regulatory Reporting Suite — a global logistics company (2025-05 to 2025-11)
+  Modernised a regulatory reporting suite for a global logistics company in supply-chain logistics using Communication and A/B Testing, saving ~18K hours annually.
+* Manufacturing IoT Real-time Analytics Pipeline — a global manufacturer (2024-03 to 2025-02)
+  Scaled a real-time analytics pipeline for a global manufacturer in manufacturing IoT using Communication, Mentoring, Stakeholder Management and Statistics, cutting cloud spend by 35%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, Financial Analyst, Product Manager

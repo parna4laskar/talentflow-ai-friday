@@ -1,0 +1,27 @@
+RIYA BANERJEE
+Associate QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP11879
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2.5 years of experience, based in Bengaluru. Strong in Test Automation, Playwright, API Testing and CI/CD, with recent work in automotive. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 1.2y), Playwright (Proficient, 1.4y), API Testing (Proficient, 1.5y)
+- Cloud & DevOps: CI/CD (Working, 1.0y)
+- Data & AI: SQL (Beginner, 0.5y), Generative AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Automotive API Contract-testing Suite — a global car maker (2025-12 to present)
+  Scaled an API contract-testing suite for a global car maker in automotive using Playwright and CI/CD, reducing production incidents by 35%.
+* Automotive Test Automation Framework — a European car maker (2025-04 to 2025-10)
+  Modernised a test automation framework for a European car maker in automotive using CI/CD and Test Automation, accelerating releases by 18%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer

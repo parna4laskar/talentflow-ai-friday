@@ -1,0 +1,35 @@
+ZUZANNA WÓJCIK
+Senior Site Reliability Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP12906
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 8.8 years of experience, based in Kraków. Strong in Site Reliability Engineering, Observability, Linux Administration and AWS, with recent work in healthcare. Interested in moving towards Cloud Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Expert, 6.3y), Observability (Advanced, 1.1y), Linux Administration (Advanced, 5.5y), AWS (Advanced, 0.7y), Kubernetes (Proficient, 2.0y)
+- Security: Incident Response (Proficient, 1.9y)
+- Software Engineering: Python (Proficient, 0.5y), Go (Beginner, 1.2y)
+- Quality Engineering: Performance Testing (Working, 2.4y)
+
+EXPERIENCE
+* Airline Operations Data-centre Exit To Cloud — a leading airline (2026-05 to present)
+  Re-architected a data-centre exit to cloud for a leading airline in airline operations using Performance Testing, Kubernetes and Linux Administration, cutting cloud spend by 22%.
+* E-commerce Observability Stack — a global online retailer (2025-03 to 2026-03)
+  Scaled an observability stack for a global online retailer in e-commerce using AWS, Observability, Kubernetes and Go, accelerating releases by 12%.
+* Healthcare CI/CD Platform — an APAC hospital network (2023-09 to 2025-01)
+  Re-architected a CI/CD platform for an APAC hospital network in healthcare using Performance Testing, Observability, Site Reliability Engineering and Incident Response, accelerating releases by 30%.
+* HR Tech Observability Stack — a global HR software company (2023-04 to 2023-08)
+  Re-architected an observability stack for a global HR software company in HR tech using AWS and Site Reliability Engineering, reducing production incidents by 12%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer, Platform Engineer

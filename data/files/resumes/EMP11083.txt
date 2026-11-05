@@ -1,0 +1,27 @@
+SIMRAN CHATTERJEE
+Associate AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP11083
+
+PROFESSIONAL SUMMARY
+Associate AI Engineer with 1 years of experience, based in Hyderabad. Strong in Generative AI, LLM Engineering, Python and REST API Design, with recent work in supply-chain logistics. Interested in moving towards AI Engineer, Full Stack Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Data & AI: Generative AI (Proficient, 0.6y), LLM Engineering (Proficient, 0.6y), Vector Databases (Working, 0.4y), NLP (Beginner, 0.3y), Agentic AI (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.5y), REST API Design (Working, 0.4y)
+- Quality Engineering: Playwright (Working, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Fraud Detection Model — a tier-1 logistics company (2025-08 to present)
+  Automated a fraud detection model for a tier-1 logistics company in supply-chain logistics using Python and Generative AI, reducing processing time by 40%.
+* Insurance Claims Agentic Customer-service Assistant — a fast-growing insurer (2024-05 to 2025-07)
+  Designed an agentic customer-service assistant for a fast-growing insurer in insurance claims using Generative AI, NLP, LLM Engineering and REST API Design, lifting NPS by 22 points.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: AI Engineer, Full Stack Engineer

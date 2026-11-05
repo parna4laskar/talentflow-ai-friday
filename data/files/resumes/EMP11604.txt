@@ -1,0 +1,31 @@
+JAKUB WIŚNIEWSKI
+Lead Mobile Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11604
+
+PROFESSIONAL SUMMARY
+Lead Mobile Engineer with 10.3 years of experience, based in Kraków. Strong in FinOps, Mobile Development, Flutter and UI Design, with recent work in airline operations. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 1.4y), Mentoring (Proficient, 1.0y)
+- Cloud & DevOps: FinOps (Advanced, 4.5y), CI/CD (Working, 3.2y)
+- Software Engineering: Mobile Development (Proficient, 5.2y), Flutter (Proficient, 4.9y)
+- Product & Design: UI Design (Proficient, 5.9y)
+- Data & AI: LLM Engineering (Proficient, 2.6y)
+
+EXPERIENCE
+* Airline Operations Payments Microservices Platform — a leading airline (2025-09 to present)
+  Designed a payments microservices platform for a leading airline in airline operations using UI Design, Flutter and FinOps, reducing processing time by 30%.
+* Airline Operations Order Management System — a leading airline (2024-07 to 2025-07)
+  Modernised an order management system for a leading airline in airline operations using Flutter, Mobile Development and FinOps, onboarding 4 new enterprise clients.
+* Automotive Payments Microservices Platform — a tier-1 car maker (2023-07 to 2024-05)
+  Modernised a payments microservices platform for a tier-1 car maker in automotive using UI Design and Mobile Development, reducing processing time by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, QA Engineer, Full Stack Engineer

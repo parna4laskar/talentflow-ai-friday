@@ -1,0 +1,32 @@
+NOAH JOHNSON
+Principal Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP11140
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 22.8 years of experience, based in New York. Strong in TypeScript, Node.js, REST API Design and React, with recent work in insurance claims. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 12.3y), Node.js (Expert, 2.9y), REST API Design (Expert, 21.1y), React (Advanced, 4.6y), Next.js (Advanced, 22.1y), Microservices (Proficient, 4.0y), GraphQL (Proficient, 3.7y)
+- Delivery & Leadership: People Leadership (Expert, 5.2y), Stakeholder Management (Advanced, 7.3y)
+- Data & AI: SQL (Advanced, 9.5y)
+- Cloud & DevOps: AWS (Advanced, 10.4y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a leading hospital network (2026-07 to present)
+  Built a payments microservices platform for a leading hospital network in healthcare using React and Next.js, reducing production incidents by 22%.
+* Pharma R&D Mobile Banking App — an APAC pharma company (2025-06 to 2026-06)
+  Re-architected a mobile banking app for an APAC pharma company in pharma R&D using AWS, Microservices and TypeScript, lifting NPS by 30 points.
+* Manufacturing IoT Customer Onboarding Platform — a US manufacturer (2024-08 to 2025-03)
+  Automated a customer onboarding platform for a US manufacturer in manufacturing IoT using Node.js and TypeScript, lifting NPS by 18 points.
+* Insurance Claims Customer Onboarding Platform — a leading insurer (2023-07 to 2024-07)
+  Led the delivery of a customer onboarding platform for a leading insurer in insurance claims using SQL, TypeScript and Stakeholder Management, improving conversion by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer

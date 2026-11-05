@@ -1,0 +1,35 @@
+ARVIND KAPOOR
+Lead Product Manager | Product | Bengaluru, India
+Employee ID: EMP11870
+
+PROFESSIONAL SUMMARY
+Lead Product Manager with 8.5 years of experience, based in Bengaluru. Strong in Product Management, Stakeholder Management, Roadmapping and UX Research, with recent work in pharma R&D. Interested in moving towards Project Manager, UX Designer roles.
+
+CORE SKILLS
+- Product & Design: Product Management (Expert, 7.6y), Roadmapping (Proficient, 5.4y), UX Research (Proficient, 3.4y), Product Strategy (Proficient, 0.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.0y), People Leadership (Proficient, 6.1y), Communication (Working, 1.1y)
+- Data & AI: SQL (Proficient, 5.8y)
+- Cloud & DevOps: Terraform (Working, 0.5y)
+
+EXPERIENCE
+* Pharma R&D Mobile App Relaunch — a leading pharma company (2026-08 to present)
+  Launched a mobile app relaunch for a leading pharma company in pharma R&D using Terraform, Product Strategy, Communication and Stakeholder Management, lifting NPS by 18 points.
+* Pharma R&D AI-assisted Customer Journey — a European pharma company (2025-02 to 2026-06)
+  Owned an AI-assisted customer journey for a European pharma company in pharma R&D using Product Strategy, Communication, UX Research and SQL, improving conversion by 12%.
+* Manufacturing IoT Checkout Experience — a tier-1 manufacturer (2024-05 to 2025-02)
+  Launched a checkout experience for a tier-1 manufacturer in manufacturing IoT using Communication and Product Management, lifting NPS by 12 points.
+* Public Sector Checkout Experience — a US government agency (2022-12 to 2024-03)
+  Led discovery for a checkout experience for a US government agency in public sector using UX Research, Product Strategy and SQL, improving conversion by 25%.
+
+CERTIFICATIONS
+- SAFe POPM (2023)
+
+EDUCATION
+- B.Tech + MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Project Manager, UX Designer, Business Analyst

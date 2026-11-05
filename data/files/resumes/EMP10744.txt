@@ -1,0 +1,33 @@
+NIKHIL VERMA
+Lead Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP10744
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 15.8 years of experience, based in Gurugram. Strong in GraphQL, Angular, Node.js and SQL, with recent work in automotive. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Expert, 11.3y), Angular (Advanced, 2.2y), Node.js (Advanced, 3.2y), TypeScript (Proficient, 7.8y), REST API Design (Proficient, 11.2y), Microservices (Proficient, 5.7y)
+- Data & AI: SQL (Advanced, 4.6y), Responsible AI (Proficient, 11.1y)
+- Delivery & Leadership: Communication (Advanced, 7.3y)
+- Cloud & DevOps: Docker (Proficient, 9.4y)
+
+EXPERIENCE
+* Media Streaming Order Management System — a US streaming platform (2025-12 to present)
+  Modernised an order management system for a US streaming platform in media streaming using Node.js, TypeScript, Angular and SQL, onboarding 5 new enterprise clients.
+* Media Streaming Order Management System — a leading streaming platform (2025-05 to 2025-10)
+  Designed an order management system for a leading streaming platform in media streaming using Responsible AI, SQL and Docker, reducing processing time by 12%.
+* Automotive Pricing Engine — a leading car maker (2024-10 to 2025-03)
+  Modernised a pricing engine for a leading car maker in automotive using TypeScript, Angular and Responsible AI, reducing processing time by 40%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Mobile Engineer

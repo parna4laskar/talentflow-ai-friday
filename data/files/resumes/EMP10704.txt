@@ -1,0 +1,27 @@
+ANIRUDH REDDY
+Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10704
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.3 years of experience, based in Hyderabad. Strong in TypeScript, React, Java and SQL, with recent work in healthcare. Interested in moving towards AI Engineer, Frontend Engineer roles and open to relocating to Chennai, Dublin, Pune.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.7y), React (Proficient, 0.7y), Java (Proficient, 1.3y)
+- Data & AI: SQL (Proficient, 0.6y), Databricks (Proficient, 0.5y)
+- Cloud & DevOps: Docker (Proficient, 1.6y), AWS (Proficient, 0.4y)
+
+EXPERIENCE
+* Healthcare Claims Processing Engine — a tier-1 hospital network (2026-02 to present)
+  Automated a claims processing engine for a tier-1 hospital network in healthcare using Java, SQL and Databricks, saving ~30K hours annually.
+* Healthcare Order Management System — a US hospital network (2025-05 to 2025-11)
+  Automated an order management system for a US hospital network in healthcare using React, TypeScript and Docker, onboarding 6 new enterprise clients.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, Frontend Engineer

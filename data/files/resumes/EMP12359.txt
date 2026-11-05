@@ -1,0 +1,33 @@
+WILLIAM PATEL
+Senior Risk & Compliance Analyst | Risk & Compliance | London, United Kingdom
+Employee ID: EMP12359
+
+PROFESSIONAL SUMMARY
+Senior Risk & Compliance Analyst with 10.1 years of experience, based in London. Strong in Risk Management, GRC, Data Governance and Regulatory Compliance, with recent work in pharma R&D. Interested in moving towards Data Engineer roles.
+
+CORE SKILLS
+- Business & Finance: Risk Management (Advanced, 0.9y), Regulatory Compliance (Proficient, 4.2y), Financial Analysis (Working, 2.2y)
+- Security: GRC (Advanced, 3.2y)
+- Data & AI: Data Governance (Advanced, 7.8y), SQL (Proficient, 6.9y), Responsible AI (Proficient, 7.1y)
+- Delivery & Leadership: Communication (Working, 4.0y)
+
+EXPERIENCE
+* Pharma R&D Rolling Forecasting Model — a global pharma company (2026-02 to present)
+  Led a rolling forecasting model for a global pharma company in pharma R&D using Financial Analysis, GRC, Data Governance and Responsible AI, saving ~25K hours annually.
+* Pharma R&D Regulatory Capital Reporting — a leading pharma company (2025-03 to 2025-11)
+  Redesigned a regulatory capital reporting for a leading pharma company in pharma R&D using Regulatory Compliance, Communication, Data Governance and GRC, closing 22% of open audit findings.
+* Payments Risk Control Framework — a European payments provider (2024-09 to 2025-02)
+  Redesigned a risk control framework for a European payments provider in payments using Responsible AI and Risk Management, closing 40% of open audit findings.
+
+CERTIFICATIONS
+- CRISC (2022)
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Engineer

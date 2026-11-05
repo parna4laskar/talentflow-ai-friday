@@ -1,0 +1,31 @@
+JULIA KAMIŃSKI
+AI Engineer | AI Center of Excellence | Kraków, Poland
+Employee ID: EMP12897
+
+PROFESSIONAL SUMMARY
+AI Engineer with 5.1 years of experience, based in Kraków. Strong in Python, Generative AI, LLM Engineering and Vector Databases, with recent work in healthcare. Interested in moving towards DevOps Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 2.5y)
+- Data & AI: Generative AI (Advanced, 3.4y), LLM Engineering (Proficient, 1.3y), Vector Databases (Proficient, 1.4y), Agentic AI (Working, 1.9y)
+- Cloud & DevOps: Docker (Proficient, 2.9y)
+
+EXPERIENCE
+* Healthcare Fraud Detection Model — a global hospital network (2025-10 to present)
+  Re-architected a fraud detection model for a global hospital network in healthcare using Agentic AI, Vector Databases and Docker, reducing processing time by 25%.
+* Healthcare Document Intelligence Pipeline — a US hospital network (2024-05 to 2025-08)
+  Built a document intelligence pipeline for a US hospital network in healthcare using Docker, Generative AI and LLM Engineering, reducing processing time by 25%.
+* Healthcare Recommendation Engine — a US hospital network (2023-05 to 2024-04)
+  Modernised a recommendation engine for a US hospital network in healthcare using Generative AI and Python, improving model accuracy by 35%.
+* Healthcare Recommendation Engine — a tier-1 hospital network (2021-09 to 2023-03)
+  Migrated a recommendation engine for a tier-1 hospital network in healthcare using Docker, Agentic AI and Vector Databases, improving conversion by 12%.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+Polish, English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Full Stack Engineer

@@ -1,0 +1,33 @@
+AVA RODRIGUEZ
+DevOps Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP11544
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.1 years of experience, based in Austin. Strong in CI/CD, Azure, Terraform and Docker, with recent work in airline operations. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 1.4y), Azure (Proficient, 0.5y), Terraform (Proficient, 0.8y), Docker (Working, 0.8y), Kubernetes (Working, 0.5y), Observability (Working, 1.3y)
+- Software Engineering: Go (Working, 2.0y), Python (Beginner, 0.9y)
+
+EXPERIENCE
+* HR Tech Data-centre Exit To Cloud — a European HR software company (2025-11 to present)
+  Modernised a data-centre exit to cloud for a European HR software company in HR tech using Docker, Python, Observability and Terraform, cutting cloud spend by 12%.
+* Airline Operations CI/CD Platform — an APAC airline (2024-12 to 2025-10)
+  Designed a CI/CD platform for an APAC airline in airline operations using Observability, Python, Kubernetes and CI/CD, accelerating releases by 40%.
+* HR Tech Observability Stack — a US HR software company (2024-04 to 2024-11)
+  Designed an observability stack for a US HR software company in HR tech using Kubernetes and Terraform, accelerating releases by 35%.
+* HR Tech Kubernetes Platform — a fast-growing HR software company (2023-10 to 2024-03)
+  Modernised a Kubernetes platform for a fast-growing HR software company in HR tech using Observability, Python, Go and Azure, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2024)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer

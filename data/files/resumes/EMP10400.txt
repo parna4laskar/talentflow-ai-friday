@@ -1,0 +1,32 @@
+VARUN DAS
+Associate Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP10400
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 3 years of experience, based in Pune. Strong in SQL, TypeScript, Angular and Node.js, with recent work in pharma R&D. Interested in moving towards Frontend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.9y)
+- Software Engineering: TypeScript (Working, 0.7y), Angular (Working, 1.3y), Node.js (Working, 1.1y), Next.js (Working, 0.8y)
+- Cloud & DevOps: AWS (Working, 1.1y), Docker (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Beginner, 0.6y)
+
+EXPERIENCE
+* Telecom Billing Pricing Engine — an APAC telecom operator (2026-09 to present)
+  Re-architected a pricing engine for an APAC telecom operator in telecom billing using Next.js, TypeScript, Angular and AWS, improving conversion by 12%.
+* Telecom Billing Pricing Engine — a European telecom operator (2025-12 to 2026-07)
+  Led the delivery of a pricing engine for a European telecom operator in telecom billing using Communication and SQL, reducing processing time by 25%.
+* Manufacturing IoT Payments Microservices Platform — a tier-1 manufacturer (2024-11 to 2025-10)
+  Migrated a payments microservices platform for a tier-1 manufacturer in manufacturing IoT using Next.js and Angular, reducing processing time by 40%.
+* Pharma R&D Order Management System — a global pharma company (2023-12 to 2024-10)
+  Built an order management system for a global pharma company in pharma R&D using Node.js and Next.js, reducing processing time by 25%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, Software Architect, Backend Engineer

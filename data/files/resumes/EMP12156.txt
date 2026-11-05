@@ -1,0 +1,28 @@
+MADISON LEE
+Associate Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP12156
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.3 years of experience, based in New York. Strong in TypeScript, SQL, Docker and React, with recent work in telecom billing. Interested in moving towards Software Architect roles and open to relocating to Chennai, Hyderabad.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.5y), React (Working, 0.4y), Node.js (Working, 0.5y), Microservices (Working, 0.5y)
+- Data & AI: SQL (Proficient, 0.7y)
+- Cloud & DevOps: Docker (Proficient, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* Telecom Billing Customer Onboarding Platform — a European telecom operator (2025-10 to present)
+  Scaled a customer onboarding platform for a European telecom operator in telecom billing using Microservices, React and TypeScript, lifting NPS by 35 points.
+* Telecom Billing Customer Onboarding Platform — a global telecom operator (2024-06 to 2025-07)
+  Built a customer onboarding platform for a global telecom operator in telecom billing using Node.js, Microservices and Communication, reducing processing time by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect

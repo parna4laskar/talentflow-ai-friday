@@ -1,0 +1,29 @@
+NOAH JOHNSON
+Senior CRM Consultant | Enterprise Applications | Austin, United States
+Employee ID: EMP10848
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 9.5 years of experience, based in Austin. Strong in Requirements Gathering, Salesforce, Business Analysis and Agile/Scrum, with recent work in automotive. Interested in moving towards Account Manager roles and open to relocating to Dublin, Chennai, Bengaluru.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 6.6y), Salesforce (Proficient, 0.9y), Business Analysis (Proficient, 6.4y), Process Improvement (Working, 2.6y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 5.8y)
+- Software Engineering: JavaScript (Proficient, 4.1y)
+
+EXPERIENCE
+* Telecom Billing CRM Rollout — an APAC telecom operator (2026-02 to present)
+  Scaled a CRM rollout for an APAC telecom operator in telecom billing using Process Improvement, Salesforce and Requirements Gathering, improving conversion by 18%.
+* Automotive ERP Finance Rollout — a European car maker (2024-09 to 2025-11)
+  Scaled an ERP finance rollout for a European car maker in automotive using Agile/Scrum and Salesforce, saving ~12K hours annually.
+* Payments CRM Rollout — a tier-1 payments provider (2023-06 to 2024-07)
+  Automated a CRM rollout for a tier-1 payments provider in payments using Process Improvement, Agile/Scrum, JavaScript and Requirements Gathering, reducing processing time by 40%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, German
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Account Manager

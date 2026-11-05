@@ -1,0 +1,28 @@
+DANIEL SMITH
+Associate Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10140
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.1 years of experience, based in London. Strong in TypeScript, JavaScript, Angular and Node.js, with recent work in insurance claims. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.9y), JavaScript (Working, 0.4y), Angular (Working, 0.4y), Node.js (Working, 0.5y), GraphQL (Working, 0.3y)
+- Product & Design: Design Systems (Working, 0.5y), Figma (Beginner, 0.3y)
+- Cloud & DevOps: CI/CD (Beginner, 0.3y)
+- Data & AI: Generative AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Self-service Portal — a global energy company (2025-05 to present)
+  Modernised a self-service portal for a global energy company in energy trading using GraphQL and Angular, saving ~12K hours annually.
+* Automotive Self-service Portal — a global car maker (2024-10 to 2025-03)
+  Migrated a self-service portal for a global car maker in automotive using TypeScript, GraphQL and CI/CD, lifting NPS by 25 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer, QA Engineer, Full Stack Engineer

@@ -1,0 +1,31 @@
+FATIMA HEGDE
+Associate ML Engineer | AI Center of Excellence | Gurugram, India
+Employee ID: EMP12852
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 2.7 years of experience, based in Gurugram. Strong in Python, Machine Learning, MLOps and AWS, with recent work in retail banking. Interested in moving towards ML Engineer, AI Engineer roles and open to relocating to New York, Kraków, Toronto.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.9y)
+- Data & AI: Machine Learning (Proficient, 1.2y), MLOps (Proficient, 1.6y), Databricks (Proficient, 1.5y), NLP (Working, 0.4y), Deep Learning (Beginner, 0.3y), Vector Databases (Beginner, 0.6y)
+- Cloud & DevOps: AWS (Proficient, 1.6y), Docker (Working, 1.0y)
+- Delivery & Leadership: Communication (Proficient, 0.7y)
+
+EXPERIENCE
+* Automotive Document Intelligence Pipeline — a tier-1 car maker (2025-05 to present)
+  Built a document intelligence pipeline for a tier-1 car maker in automotive using NLP, Communication, Deep Learning and AWS, saving ~40K hours annually.
+* Retail Banking Recommendation Engine — a tier-1 retail bank (2024-11 to 2025-04)
+  Scaled a recommendation engine for a tier-1 retail bank in retail banking using MLOps, AWS and Docker, improving conversion by 25%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2026)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, AI Engineer

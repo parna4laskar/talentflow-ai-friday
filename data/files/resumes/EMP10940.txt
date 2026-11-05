@@ -1,0 +1,36 @@
+MICHAEL KIM
+Data Analyst | Data & Analytics | New York, United States
+Employee ID: EMP10940
+
+PROFESSIONAL SUMMARY
+Data Analyst with 3.7 years of experience, based in New York. Strong in SQL, Data Visualization, Power BI and Business Analysis, with recent work in public sector. Interested in moving towards Financial Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.6y), Data Visualization (Proficient, 0.5y), Power BI (Proficient, 0.8y), Snowflake (Proficient, 1.0y), Machine Learning (Working, 0.3y)
+- Business & Finance: Business Analysis (Proficient, 2.4y)
+- Software Engineering: Python (Proficient, 1.8y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.4y)
+- Product & Design: A/B Testing (Working, 1.6y)
+
+EXPERIENCE
+* Public Sector Regulatory Reporting Suite — an APAC government agency (2026-07 to present)
+  Automated a regulatory reporting suite for an APAC government agency in public sector using Business Analysis and Python, reducing processing time by 18%.
+* Wealth Management Customer Churn Model — an APAC wealth manager (2025-11 to 2026-06)
+  Built a customer churn model for an APAC wealth manager in wealth management using Machine Learning and Python, improving conversion by 30%.
+* Public Sector Customer Churn Model — a leading government agency (2024-10 to 2025-10)
+  Re-architected a customer churn model for a leading government agency in public sector using Power BI and Machine Learning, improving model accuracy by 40%.
+* Public Sector Data Lakehouse — a global government agency (2023-02 to 2024-08)
+  Automated a data lakehouse for a global government agency in public sector using A/B Testing, Machine Learning, Business Analysis and Python, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Financial Analyst, Product Manager

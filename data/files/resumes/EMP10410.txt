@@ -1,0 +1,29 @@
+VIKRAM SHAH
+Senior Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP10410
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 10.7 years of experience, based in Gurugram. Strong in Node.js, TypeScript, Angular and SQL, with recent work in retail banking. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Advanced, 5.9y), TypeScript (Proficient, 6.0y), Angular (Proficient, 4.5y), Next.js (Proficient, 4.5y), REST API Design (Working, 0.7y)
+- Data & AI: SQL (Proficient, 0.5y)
+- Cloud & DevOps: Docker (Proficient, 3.4y)
+
+EXPERIENCE
+* Retail Banking Customer Onboarding Platform — a fast-growing retail bank (2026-07 to present)
+  Migrated a customer onboarding platform for a fast-growing retail bank in retail banking using Node.js, TypeScript, REST API Design and Docker, lifting NPS by 25 points.
+* Retail Banking Pricing Engine — a tier-1 retail bank (2025-02 to 2026-06)
+  Re-architected a pricing engine for a tier-1 retail bank in retail banking using Docker and Node.js, reducing processing time by 22%.
+* Payments Order Management System — a European payments provider (2023-10 to 2024-11)
+  Migrated an order management system for a European payments provider in payments using SQL, Next.js and REST API Design, onboarding 4 new enterprise clients.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Backend Engineer, Mobile Engineer, AI Engineer

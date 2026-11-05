@@ -1,0 +1,32 @@
+EMILY DOYLE
+Lead Software Architect | Engineering | London, United Kingdom
+Employee ID: EMP10678
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 9.5 years of experience, based in London. Strong in System Design, Azure, Mentoring and C#, with recent work in payments. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 8.1y), C# (Advanced, 6.6y), REST API Design (Advanced, 2.0y), Kafka (Proficient, 6.6y), Microservices (Working, 3.7y)
+- Cloud & DevOps: Azure (Expert, 9.5y), Kubernetes (Advanced, 4.9y)
+- Delivery & Leadership: Mentoring (Expert, 9.2y), Stakeholder Management (Proficient, 5.2y), People Leadership (Proficient, 5.2y)
+
+EXPERIENCE
+* Payments Claims Processing Engine — a leading payments provider (2026-10 to present)
+  Migrated a claims processing engine for a leading payments provider in payments using System Design and Kubernetes, reducing processing time by 12%.
+* HR Tech Pricing Engine — a fast-growing HR software company (2025-05 to 2026-09)
+  Led the delivery of a pricing engine for a fast-growing HR software company in HR tech using Mentoring and Stakeholder Management, reducing processing time by 18%.
+* Payments Customer Onboarding Platform — a European payments provider (2023-10 to 2025-04)
+  Automated a customer onboarding platform for a European payments provider in payments using Kubernetes, Kafka, Mentoring and Microservices, improving conversion by 35%.
+
+CERTIFICATIONS
+- TOGAF 10 (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer

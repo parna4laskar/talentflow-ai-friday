@@ -1,0 +1,28 @@
+FATIMA MALHOTRA
+Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12453
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.8 years of experience, based in Pune. Strong in SQL, Python, Data Engineering and dbt, with recent work in supply-chain logistics. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.9y), Data Engineering (Proficient, 0.7y), dbt (Proficient, 1.5y)
+- Software Engineering: Python (Proficient, 1.1y), Kafka (Proficient, 1.1y)
+- Cloud & DevOps: AWS (Proficient, 1.8y), GCP (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 2.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Regulatory Reporting Suite — a fast-growing logistics company (2026-01 to present)
+  Built a regulatory reporting suite for a fast-growing logistics company in supply-chain logistics using GCP, Kafka and Data Engineering, reducing processing time by 35%.
+* Pharma R&D Customer Churn Model — a European pharma company (2024-09 to 2025-11)
+  Modernised a customer churn model for a European pharma company in pharma R&D using SQL, AWS, GCP and Communication, improving conversion by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Engineer, Data Analyst

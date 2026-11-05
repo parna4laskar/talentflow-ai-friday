@@ -1,0 +1,28 @@
+PRIYA NG
+Associate Site Reliability Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP10655
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 2.1 years of experience, based in Singapore. Strong in Observability, Linux Administration, AWS and Site Reliability Engineering, with recent work in HR tech. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Proficient, 0.6y), Linux Administration (Proficient, 0.7y), AWS (Proficient, 0.7y), Site Reliability Engineering (Working, 0.4y), Kubernetes (Beginner, 0.4y), Platform Engineering (Beginner, 0.3y), CI/CD (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.9y), Go (Working, 0.8y)
+- Security: Incident Response (Working, 0.6y)
+- Delivery & Leadership: Communication (Beginner, 0.5y)
+
+EXPERIENCE
+* Supply-chain Logistics Data-centre Exit To Cloud — a European logistics company (2026-05 to present)
+  Migrated a data-centre exit to cloud for a European logistics company in supply-chain logistics using Platform Engineering, Linux Administration and Python, delivering $8M in cost savings.
+* HR Tech Cloud Landing Zone — a global HR software company (2025-04 to 2026-02)
+  Built a cloud landing zone for a global HR software company in HR tech using Communication, Observability, Linux Administration and Kubernetes, cutting cloud spend by 30%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Site Reliability Engineer, Cloud Engineer

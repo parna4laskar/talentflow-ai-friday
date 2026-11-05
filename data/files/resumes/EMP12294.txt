@@ -1,0 +1,36 @@
+JULIA WIŚNIEWSKI
+Senior Data Analyst | Data & Analytics | Kraków, Poland
+Employee ID: EMP12294
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 9 years of experience, based in Kraków. Strong in SQL, Data Visualization, Power BI and Business Analysis, with recent work in wealth management. Interested in moving towards Data Scientist, Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 6.8y), Data Visualization (Advanced, 7.2y), Power BI (Advanced, 4.4y), Snowflake (Proficient, 0.5y), Statistics (Working, 1.0y)
+- Business & Finance: Business Analysis (Advanced, 7.2y)
+- Delivery & Leadership: Communication (Advanced, 7.9y)
+- Product & Design: A/B Testing (Proficient, 0.8y)
+- Software Engineering: Python (Proficient, 5.9y)
+- People & Marketing: People Analytics (Working, 2.3y)
+- Cloud & DevOps: Terraform (Working, 2.2y)
+
+EXPERIENCE
+* Wealth Management Customer Churn Model — a US wealth manager (2026-06 to present)
+  Led the delivery of a customer churn model for a US wealth manager in wealth management using Python, Data Visualization, Business Analysis and A/B Testing, improving conversion by 30%.
+* Media Streaming Data Lakehouse — an APAC streaming platform (2025-05 to 2026-04)
+  Designed a data lakehouse for an APAC streaming platform in media streaming using People Analytics, Snowflake and Data Visualization, cutting cloud spend by 35%.
+* Retail Banking Customer Churn Model — a tier-1 retail bank (2023-12 to 2025-03)
+  Built a customer churn model for a tier-1 retail bank in retail banking using People Analytics, Communication, Statistics and Business Analysis, improving conversion by 40%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist, Business Analyst, Product Manager

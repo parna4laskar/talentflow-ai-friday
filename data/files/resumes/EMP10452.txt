@@ -1,0 +1,33 @@
+DARREN TAN
+Principal Full Stack Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP10452
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 20.7 years of experience, based in Singapore. Strong in Angular, TypeScript, Java and Next.js, with recent work in airline operations. Interested in moving towards Software Architect, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 20.7y), TypeScript (Advanced, 8.7y), Java (Advanced, 17.3y), Next.js (Advanced, 17.9y), Microservices (Advanced, 16.2y)
+- Cloud & DevOps: Docker (Advanced, 16.8y)
+- Delivery & Leadership: Mentoring (Advanced, 10.7y), Stakeholder Management (Advanced, 4.3y)
+- Data & AI: SQL (Proficient, 9.0y), Snowflake (Proficient, 1.2y)
+
+EXPERIENCE
+* Energy Trading Mobile Banking App — a US energy company (2026-06 to present)
+  Automated a mobile banking app for a US energy company in energy trading using Java, TypeScript, Mentoring and Docker, lifting NPS by 22 points.
+* Airline Operations Order Management System — a US airline (2025-10 to 2026-05)
+  Scaled an order management system for a US airline in airline operations using Stakeholder Management, Docker, TypeScript and Microservices, onboarding 5 new enterprise clients.
+* Telecom Billing Self-service Portal — a global telecom operator (2024-12 to 2025-08)
+  Built a self-service portal for a global telecom operator in telecom billing using Angular, Snowflake, Next.js and Java, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Mandarin, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, Backend Engineer

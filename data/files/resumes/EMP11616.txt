@@ -1,0 +1,35 @@
+PALLAVI DESHPANDE
+Senior Business Analyst | Business Consulting | Pune, India
+Employee ID: EMP11616
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 6.3 years of experience, based in Pune. Strong in Business Analysis, Requirements Gathering, Stakeholder Management and Communication, with recent work in energy trading. Interested in moving towards CRM Consultant, Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 2.3y), Requirements Gathering (Advanced, 6.2y), Salesforce (Proficient, 4.6y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.3y), Communication (Advanced, 1.1y), Change Management (Working, 1.7y)
+- Data & AI: Power BI (Proficient, 2.0y), Tableau (Working, 3.0y)
+
+EXPERIENCE
+* Energy Trading Process Re-engineering Initiative — an APAC energy company (2025-12 to present)
+  Ran a process re-engineering initiative for an APAC energy company in energy trading using Salesforce, Business Analysis and Stakeholder Management, delivering $4M in cost savings.
+* Energy Trading Requirements and UAT for a CRM Rollout — a European energy company (2025-01 to 2025-11)
+  Led a requirements and UAT for a CRM rollout for a European energy company in energy trading using Communication, Requirements Gathering, Business Analysis and Power BI, reducing processing time by 30%.
+* Energy Trading Agile Transformation — a fast-growing energy company (2024-01 to 2024-12)
+  Led an agile transformation for a fast-growing energy company in energy trading using Change Management, Communication and Power BI, delivering on time across 3 workstreams.
+* Healthcare Cloud Migration Programme — a leading hospital network (2022-09 to 2023-10)
+  Coordinated a cloud migration programme for a leading hospital network in healthcare using Change Management and Requirements Gathering, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- CBAP (2025)
+- PMI-PBA (2022)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: CRM Consultant, Data Analyst

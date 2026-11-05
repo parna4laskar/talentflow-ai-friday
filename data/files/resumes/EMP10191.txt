@@ -1,0 +1,30 @@
+HARSH CAMPBELL
+Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10191
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.3 years of experience, based in Bengaluru. Strong in TypeScript, JavaScript, Angular and Next.js, with recent work in pharma R&D. Interested in moving towards Full Stack Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.1y), JavaScript (Proficient, 0.4y), Angular (Proficient, 1.6y), Next.js (Proficient, 1.4y), GraphQL (Proficient, 1.0y), Node.js (Proficient, 1.3y)
+- Product & Design: Design Systems (Proficient, 1.5y)
+- Cloud & DevOps: Terraform (Beginner, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Self-service Portal — an APAC insurer (2025-05 to present)
+  Built a self-service portal for an APAC insurer in insurance claims using TypeScript, Design Systems and Terraform, lifting NPS by 12 points.
+* Pharma R&D Customer Onboarding Platform — a US pharma company (2023-11 to 2025-04)
+  Built a customer onboarding platform for a US pharma company in pharma R&D using JavaScript, Terraform and Design Systems, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, UX Designer

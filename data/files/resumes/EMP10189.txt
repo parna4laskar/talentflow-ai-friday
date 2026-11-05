@@ -1,0 +1,28 @@
+ARVIND JADHAV
+Senior Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10189
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6 years of experience, based in Hyderabad. Strong in TypeScript, JavaScript, React and Next.js, with recent work in retail banking. Interested in moving towards QA Engineer, Full Stack Engineer roles and open to relocating to Gurugram, Pune.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 3.8y), JavaScript (Proficient, 4.2y), React (Proficient, 1.6y), Next.js (Proficient, 2.7y), Node.js (Working, 1.9y)
+- Cloud & DevOps: CI/CD (Proficient, 4.3y)
+
+EXPERIENCE
+* Retail Banking Order Management System — a global retail bank (2026-08 to present)
+  Automated an order management system for a global retail bank in retail banking using React, CI/CD and Next.js, reducing processing time by 25%.
+* Energy Trading Self-service Portal — a US energy company (2025-04 to 2026-07)
+  Migrated a self-service portal for a US energy company in energy trading using CI/CD and JavaScript, lifting NPS by 12 points.
+* Pharma R&D Mobile Banking App — a tier-1 pharma company (2024-05 to 2025-02)
+  Re-architected a mobile banking app for a tier-1 pharma company in pharma R&D using Node.js, CI/CD and TypeScript, improving conversion by 40%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer, Full Stack Engineer

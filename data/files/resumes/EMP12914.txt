@@ -1,0 +1,31 @@
+TANVI MUKHERJEE
+Cloud Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP12914
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.1 years of experience, based in Gurugram. Strong in Linux Administration, AWS, Terraform and Kubernetes, with recent work in HR tech. Interested in moving towards Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 2.0y), AWS (Proficient, 1.4y), Terraform (Proficient, 1.1y), Kubernetes (Proficient, 1.6y), FinOps (Working, 0.3y), CI/CD (Beginner, 0.4y)
+- Security: Cloud Security (Working, 0.7y)
+- Software Engineering: Python (Working, 1.0y)
+- Data & AI: Generative AI (Working, 0.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Kubernetes Platform — a leading logistics company (2025-12 to present)
+  Modernised a Kubernetes platform for a leading logistics company in supply-chain logistics using Generative AI and Python, cutting cloud spend by 18%.
+* Retail Banking Cloud Landing Zone — an APAC retail bank (2025-01 to 2025-11)
+  Led the delivery of a cloud landing zone for an APAC retail bank in retail banking using Linux Administration and Cloud Security, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2024)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer

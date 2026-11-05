@@ -1,0 +1,26 @@
+BHAVANA REDDY
+Associate DevOps Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12798
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.9 years of experience, based in Chennai. Strong in Kubernetes, GCP, CI/CD and Docker, with recent work in media streaming. Interested in moving towards Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 0.6y), GCP (Proficient, 0.6y), CI/CD (Working, 0.4y), Docker (Working, 0.7y), Observability (Working, 0.6y), Terraform (Working, 0.9y), Linux Administration (Beginner, 0.4y), Platform Engineering (Beginner, 0.3y)
+- Software Engineering: Go (Working, 1.0y), Python (Beginner, 0.6y)
+
+EXPERIENCE
+* Healthcare Cloud Landing Zone — a leading hospital network (2026-09 to present)
+  Migrated a cloud landing zone for a leading hospital network in healthcare using Observability, Go and Python, accelerating releases by 30%.
+* Healthcare Observability Stack — a leading hospital network (2026-03 to 2026-08)
+  Re-architected an observability stack for a leading hospital network in healthcare using Go, Python and CI/CD, reducing production incidents by 30%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Site Reliability Engineer

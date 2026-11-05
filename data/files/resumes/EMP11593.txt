@@ -1,0 +1,32 @@
+KUNAL KULKARNI
+QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP11593
+
+PROFESSIONAL SUMMARY
+QA Engineer with 6 years of experience, based in Hyderabad. Strong in Test Automation, Selenium, API Testing and Agile/Scrum, with recent work in payments. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 0.8y), Selenium (Proficient, 2.0y), API Testing (Proficient, 0.7y), Playwright (Working, 1.9y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.4y)
+- Software Engineering: Python (Working, 0.9y)
+
+EXPERIENCE
+* Energy Trading API Contract-testing Suite — an APAC energy company (2026-04 to present)
+  Automated an API contract-testing suite for an APAC energy company in energy trading using Playwright and Test Automation, raising automated test coverage to 80%.
+* Manufacturing IoT API Contract-testing Suite — a global manufacturer (2025-04 to 2026-03)
+  Modernised an API contract-testing suite for a global manufacturer in manufacturing IoT using Playwright, Selenium, API Testing and Python, reducing production incidents by 40%.
+* Payments API Contract-testing Suite — a US payments provider (2024-05 to 2025-01)
+  Re-architected an API contract-testing suite for a US payments provider in payments using Agile/Scrum, Selenium and Test Automation, reducing production incidents by 22%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2022)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, Backend Engineer, Full Stack Engineer, Mobile Engineer

@@ -1,0 +1,33 @@
+KUNAL SUBRAMANIAN
+Senior Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP11237
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 6.9 years of experience, based in Chennai. Strong in SQL, Microservices, Python and REST API Design, with recent work in telecom billing. Interested in moving towards Backend Engineer, Software Architect roles and open to relocating to London.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 6.0y)
+- Software Engineering: Microservices (Advanced, 6.7y), Python (Proficient, 1.3y), REST API Design (Proficient, 1.6y), System Design (Proficient, 1.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 3.6y), CI/CD (Working, 2.4y)
+- Delivery & Leadership: Communication (Proficient, 1.3y)
+
+EXPERIENCE
+* Telecom Billing Mobile Banking App — an APAC telecom operator (2025-11 to present)
+  Automated a mobile banking app for an APAC telecom operator in telecom billing using System Design and REST API Design, lifting NPS by 40 points.
+* Telecom Billing Self-service Portal — a fast-growing telecom operator (2024-12 to 2025-08)
+  Built a self-service portal for a fast-growing telecom operator in telecom billing using Communication, CI/CD and Kubernetes, lifting NPS by 35 points.
+* Telecom Billing Self-service Portal — an APAC telecom operator (2024-07 to 2024-12)
+  Migrated a self-service portal for an APAC telecom operator in telecom billing using SQL and Kubernetes, saving ~30K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Software Architect

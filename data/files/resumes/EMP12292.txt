@@ -1,0 +1,31 @@
+ROHAN BROWN
+Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP12292
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.4 years of experience, based in London. Strong in SQL, AWS, Python and Data Engineering, with recent work in payments. Interested in moving towards Backend Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.6y), Data Engineering (Proficient, 1.7y), dbt (Proficient, 1.8y), Apache Spark (Working, 0.3y), Snowflake (Beginner, 0.4y)
+- Cloud & DevOps: AWS (Advanced, 0.7y)
+- Software Engineering: Python (Proficient, 1.3y), Kafka (Working, 0.9y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Automotive Data Lakehouse — a European car maker (2026-08 to present)
+  Led the delivery of a data lakehouse for a European car maker in automotive using SQL, Communication and Data Engineering, cutting cloud spend by 12%.
+* Energy Trading Data Lakehouse — an APAC energy company (2025-06 to 2026-08)
+  Migrated a data lakehouse for an APAC energy company in energy trading using Data Engineering, dbt and Python, cutting cloud spend by 18%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, ML Engineer

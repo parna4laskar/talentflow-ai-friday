@@ -1,0 +1,33 @@
+YASH REDDY
+Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11239
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 4.3 years of experience, based in Bengaluru. Strong in Terraform, Linux Administration, GCP and CI/CD, with recent work in wealth management. Interested in moving towards Platform Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 0.6y), Linux Administration (Advanced, 2.3y), GCP (Proficient, 1.0y), CI/CD (Proficient, 1.1y), Kubernetes (Working, 0.7y), Platform Engineering (Beginner, 0.4y), Site Reliability Engineering (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Data-centre Exit To Cloud — a US wealth manager (2025-09 to present)
+  Scaled a data-centre exit to cloud for a US wealth manager in wealth management using Site Reliability Engineering, Linux Administration and GCP, delivering $4M in cost savings.
+* Wealth Management Cloud Landing Zone — an APAC wealth manager (2024-07 to 2025-08)
+  Scaled a cloud landing zone for an APAC wealth manager in wealth management using CI/CD and Terraform, cutting cloud spend by 30%.
+* Wealth Management Data-centre Exit To Cloud — a European wealth manager (2023-06 to 2024-04)
+  Built a data-centre exit to cloud for a European wealth manager in wealth management using Site Reliability Engineering and Terraform, cutting cloud spend by 35%.
+* Wealth Management Cloud Landing Zone — an APAC wealth manager (2022-10 to 2023-04)
+  Re-architected a cloud landing zone for an APAC wealth manager in wealth management using Kubernetes and Terraform, accelerating releases by 22%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+- Google Professional Cloud Architect (2025)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Platform Engineer, Software Architect

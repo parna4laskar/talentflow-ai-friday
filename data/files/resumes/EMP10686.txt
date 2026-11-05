@@ -1,0 +1,30 @@
+JESSICA CHEN
+Lead Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP10686
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 8.6 years of experience, based in New York. Strong in Apache Spark, SQL, Data Engineering and dbt, with recent work in payments. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Apache Spark (Expert, 1.6y), SQL (Advanced, 1.9y), Data Engineering (Advanced, 1.3y), dbt (Advanced, 8.5y), Snowflake (Proficient, 3.4y)
+- Delivery & Leadership: People Leadership (Advanced, 3.8y)
+- Software Engineering: Python (Proficient, 1.2y)
+- Cloud & DevOps: AWS (Proficient, 2.9y)
+
+EXPERIENCE
+* Payments Real-time Analytics Pipeline — a tier-1 payments provider (2026-06 to present)
+  Built a real-time analytics pipeline for a tier-1 payments provider in payments using Apache Spark and Snowflake, cutting cloud spend by 22%.
+* Payments Real-time Analytics Pipeline — a global payments provider (2024-11 to 2026-05)
+  Designed a real-time analytics pipeline for a global payments provider in payments using SQL, Python, Data Engineering and Snowflake, reducing processing time by 35%.
+* Payments Data Lakehouse — a European payments provider (2024-05 to 2024-09)
+  Designed a data lakehouse for a European payments provider in payments using Apache Spark and SQL, cutting cloud spend by 12%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Engineer, Data Analyst, Backend Engineer

@@ -1,0 +1,28 @@
+DIVYA HEGDE
+Associate AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12670
+
+PROFESSIONAL SUMMARY
+Associate AI Engineer with 1.2 years of experience, based in Hyderabad. Strong in Generative AI, Docker, Communication and Python, with recent work in telecom billing. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Proficient, 0.4y), LLM Engineering (Working, 0.3y), Vector Databases (Working, 0.5y), Agentic AI (Beginner, 0.3y)
+- Cloud & DevOps: Docker (Proficient, 0.6y), Azure (Working, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 0.5y)
+- Software Engineering: Python (Working, 0.4y), REST API Design (Working, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Knowledge Assistant (RAG) — an APAC telecom operator (2025-04 to present)
+  Built a knowledge assistant (RAG) for an APAC telecom operator in telecom billing using Agentic AI, REST API Design and Azure, lifting NPS by 40 points.
+* Insurance Claims Knowledge Assistant (RAG) — a leading insurer (2023-12 to 2025-04)
+  Led the delivery of a knowledge assistant (RAG) for a leading insurer in insurance claims using Agentic AI, Communication, REST API Design and Generative AI, lifting NPS by 35 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer

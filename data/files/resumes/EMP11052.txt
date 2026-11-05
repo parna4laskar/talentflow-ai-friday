@@ -1,0 +1,31 @@
+RITESH SHARMA
+Associate UX Designer | Design | Hyderabad, India
+Employee ID: EMP11052
+
+PROFESSIONAL SUMMARY
+Associate UX Designer with 1.7 years of experience, based in Hyderabad. Strong in UX Research, UI Design, A/B Testing and Figma, with recent work in e-commerce. Interested in moving towards Product Manager, Frontend Engineer roles.
+
+CORE SKILLS
+- Product & Design: UX Research (Advanced, 1.6y), UI Design (Proficient, 1.2y), A/B Testing (Proficient, 1.2y), Figma (Working, 0.4y)
+- Cloud & DevOps: Terraform (Working, 0.6y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+- People & Marketing: Digital Marketing (Beginner, 0.3y)
+
+EXPERIENCE
+* E-commerce Enterprise Design System — an APAC online retailer (2026-05 to present)
+  Designed an enterprise design system for an APAC online retailer in e-commerce using Figma, UI Design, UX Research and Communication, lifting NPS by 22 points.
+* E-commerce Customer Self-service Journey — a US online retailer (2025-05 to 2026-04)
+  Redesigned a customer self-service journey for a US online retailer in e-commerce using Digital Marketing, UX Research and Terraform, improving conversion by 18%.
+
+CERTIFICATIONS
+- NN/g UX Certification (2026)
+
+EDUCATION
+- BA Psychology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager, Frontend Engineer, Talent Acquisition Specialist

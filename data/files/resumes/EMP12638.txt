@@ -1,0 +1,32 @@
+RAJESH GOKHALE
+Senior Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12638
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.5 years of experience, based in Hyderabad. Strong in Java, REST API Design, SQL and System Design, with recent work in retail banking. Interested in moving towards Software Architect, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 9.8y), REST API Design (Advanced, 10.4y), System Design (Advanced, 1.3y), Kafka (Proficient, 6.2y), Microservices (Working, 1.6y), GraphQL (Working, 2.1y), Spring Boot (Working, 4.7y)
+- Data & AI: SQL (Advanced, 6.5y)
+- Cloud & DevOps: Docker (Proficient, 1.9y), CI/CD (Working, 1.9y)
+
+EXPERIENCE
+* Wealth Management Order Management System — a global wealth manager (2026-06 to present)
+  Designed an order management system for a global wealth manager in wealth management using CI/CD, Spring Boot and GraphQL, reducing processing time by 18%.
+* Retail Banking Order Management System — a US retail bank (2025-09 to 2026-06)
+  Modernised an order management system for a US retail bank in retail banking using SQL and CI/CD, reducing processing time by 40%.
+* Automotive Order Management System — a fast-growing car maker (2024-09 to 2025-07)
+  Designed an order management system for a fast-growing car maker in automotive using System Design, SQL and GraphQL, onboarding 3 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, AI Engineer

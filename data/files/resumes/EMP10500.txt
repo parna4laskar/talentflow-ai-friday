@@ -1,0 +1,30 @@
+KAI WEN KUMAR
+Lead Data Analyst | Data & Analytics | Singapore, Singapore
+Employee ID: EMP10500
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 9.3 years of experience, based in Singapore. Strong in SQL, Data Visualization, Tableau and Stakeholder Management, with recent work in wealth management. Interested in moving towards Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 6.7y), Data Visualization (Advanced, 4.6y), Tableau (Advanced, 7.5y), Statistics (Proficient, 6.1y), Snowflake (Working, 1.6y), LLM Engineering (Working, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 7.0y), Mentoring (Advanced, 6.3y), Communication (Proficient, 5.4y), People Leadership (Proficient, 3.7y)
+- Business & Finance: Business Analysis (Advanced, 1.7y)
+- Software Engineering: Python (Advanced, 6.3y)
+
+EXPERIENCE
+* E-commerce Executive KPI Dashboard Suite — a global online retailer (2026-02 to present)
+  Designed an executive KPI dashboard suite for a global online retailer in e-commerce using Data Visualization, Mentoring, Statistics and Python, improving forecast accuracy by 18%.
+* Insurance Claims Regulatory Reporting Suite — a fast-growing insurer (2025-03 to 2026-01)
+  Re-architected a regulatory reporting suite for a fast-growing insurer in insurance claims using Mentoring and LLM Engineering, reducing processing time by 18%.
+* Wealth Management Real-time Analytics Pipeline — a European wealth manager (2024-07 to 2025-02)
+  Built a real-time analytics pipeline for a European wealth manager in wealth management using Stakeholder Management, Statistics and LLM Engineering, cutting cloud spend by 30%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Product Manager

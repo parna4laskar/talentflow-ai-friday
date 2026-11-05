@@ -1,0 +1,26 @@
+HARINI TAN
+Security Engineer | Cyber Security | Pune, India
+Employee ID: EMP10829
+
+PROFESSIONAL SUMMARY
+Security Engineer with 2.3 years of experience, based in Pune. Strong in Identity & Access Management, SIEM, GRC and Incident Response, with recent work in public sector. Interested in moving towards Cloud Engineer, Security Analyst roles.
+
+CORE SKILLS
+- Security: Identity & Access Management (Proficient, 0.5y), SIEM (Proficient, 0.5y), GRC (Proficient, 1.5y), Incident Response (Proficient, 0.8y), Application Security (Working, 0.4y), Threat Modeling (Working, 0.9y), Cloud Security (Working, 0.3y)
+- Cloud & DevOps: AWS (Working, 1.1y)
+
+EXPERIENCE
+* Public Sector Identity and Access Platform — a European government agency (2025-12 to present)
+  Re-architected an identity and access platform for a European government agency in public sector using Cloud Security and Incident Response, reducing production incidents by 22%.
+* HR Tech Secure SDLC Rollout — a tier-1 HR software company (2024-12 to 2025-11)
+  Designed a secure SDLC rollout for a tier-1 HR software company in HR tech using Incident Response, Threat Modeling, Cloud Security and AWS, accelerating releases by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Cloud Engineer, Security Analyst, Software Architect

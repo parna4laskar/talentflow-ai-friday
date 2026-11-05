@@ -1,0 +1,28 @@
+KAI WEN KUMAR
+Scrum Master | Delivery Excellence | Singapore, Singapore
+Employee ID: EMP10474
+
+PROFESSIONAL SUMMARY
+Scrum Master with 3.7 years of experience, based in Singapore. Strong in Kubernetes, Agile/Scrum, Stakeholder Management and Communication, with recent work in healthcare. Interested in moving towards Project Manager, Engineering Manager roles and open to relocating to Chennai, Austin, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.6y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.6y), Stakeholder Management (Proficient, 1.3y), Communication (Proficient, 0.4y), Change Management (Proficient, 2.0y), Project Management (Working, 1.3y), Program Management (Beginner, 0.7y), Mentoring (Beginner, 0.7y)
+
+EXPERIENCE
+* Healthcare Agile Transformation — a European hospital network (2025-11 to present)
+  Delivered an agile transformation for a European hospital network in healthcare using Change Management, Mentoring, Stakeholder Management and Program Management, accelerating releases by 25%.
+* Payments Agile Transformation — a global payments provider (2024-11 to 2025-09)
+  Led an agile transformation for a global payments provider in payments using Communication and Project Management, accelerating releases by 40%.
+* Healthcare Core Banking Transformation Programme — a fast-growing hospital network (2023-10 to 2024-11)
+  Ran a core banking transformation programme for a fast-growing hospital network in healthcare using Kubernetes, Change Management and Stakeholder Management, delivering $5M in cost savings.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Project Manager, Engineering Manager, Program Manager

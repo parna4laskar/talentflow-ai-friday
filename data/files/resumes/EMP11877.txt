@@ -1,0 +1,30 @@
+LAKSHMI KAPOOR
+Senior Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11877
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 9.7 years of experience, based in Hyderabad. Strong in SQL, TypeScript, AWS and React, with recent work in telecom billing. Interested in moving towards AI Engineer, Software Architect roles and open to relocating to Kraków, London.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 6.8y)
+- Software Engineering: TypeScript (Advanced, 7.1y), React (Proficient, 5.1y), Java (Proficient, 5.7y), REST API Design (Proficient, 4.9y), Mobile Development (Beginner, 1.6y)
+- Cloud & DevOps: AWS (Advanced, 2.5y)
+- Delivery & Leadership: Communication (Proficient, 3.8y)
+
+EXPERIENCE
+* Telecom Billing Order Management System — a leading telecom operator (2026-06 to present)
+  Migrated an order management system for a leading telecom operator in telecom billing using React, Communication and Java, reducing processing time by 22%.
+* Telecom Billing Payments Microservices Platform — a US telecom operator (2024-12 to 2026-04)
+  Migrated a payments microservices platform for a US telecom operator in telecom billing using React, Java and Communication, reducing processing time by 12%.
+* Healthcare Mobile Banking App — a tier-1 hospital network (2023-07 to 2024-11)
+  Re-architected a mobile banking app for a tier-1 hospital network in healthcare using REST API Design, React, Mobile Development and AWS, lifting NPS by 35 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, Software Architect

@@ -1,0 +1,31 @@
+ZHI HAO EVANS
+Senior Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12323
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.8 years of experience, based in Singapore. Strong in JavaScript, Figma, React and Node.js, with recent work in HR tech. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 7.4y), React (Proficient, 5.3y), Node.js (Proficient, 6.9y), TypeScript (Working, 1.2y)
+- Product & Design: Figma (Advanced, 6.9y)
+
+EXPERIENCE
+* Payments Customer Onboarding Platform — a fast-growing payments provider (2026-02 to present)
+  Automated a customer onboarding platform for a fast-growing payments provider in payments using TypeScript, Figma, JavaScript and Node.js, improving conversion by 18%.
+* Telecom Billing Mobile Banking App — a US telecom operator (2025-03 to 2026-01)
+  Led the delivery of a mobile banking app for a US telecom operator in telecom billing using JavaScript, Node.js, TypeScript and React, lifting NPS by 30 points.
+* HR Tech Pricing Engine — a European HR software company (2023-12 to 2025-01)
+  Built a pricing engine for a European HR software company in HR tech using JavaScript, Node.js, React and TypeScript, improving conversion by 18%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, Mobile Engineer, QA Engineer, Full Stack Engineer

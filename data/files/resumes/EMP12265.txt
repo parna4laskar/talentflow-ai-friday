@@ -1,0 +1,32 @@
+ETHAN RODRIGUEZ
+Senior Backend Engineer | Engineering | New York, United States
+Employee ID: EMP12265
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8 years of experience, based in New York. Strong in Microservices, SQL, C# and REST API Design, with recent work in HR tech. Interested in moving towards DevOps Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 8.0y), C# (Proficient, 6.0y), REST API Design (Proficient, 1.2y), GraphQL (Working, 2.7y)
+- Data & AI: SQL (Advanced, 0.7y), Agentic AI (Working, 2.4y)
+- Cloud & DevOps: AWS (Working, 2.2y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Onboarding Platform — a fast-growing manufacturer (2026-08 to present)
+  Scaled a customer onboarding platform for a fast-growing manufacturer in manufacturing IoT using GraphQL and Microservices, lifting NPS by 30 points.
+* HR Tech Claims Processing Engine — a European HR software company (2025-11 to 2026-05)
+  Designed a claims processing engine for a European HR software company in HR tech using Agentic AI and SQL, reducing processing time by 40%.
+* HR Tech Self-service Portal — a leading HR software company (2024-09 to 2025-10)
+  Designed a self-service portal for a leading HR software company in HR tech using SQL, Microservices, GraphQL and Agentic AI, lifting NPS by 25 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Full Stack Engineer, AI Engineer

@@ -1,0 +1,32 @@
+VAISHNAVI JADHAV
+Senior Product Manager | Product | Hyderabad, India
+Employee ID: EMP10735
+
+PROFESSIONAL SUMMARY
+Senior Product Manager with 9.6 years of experience, based in Hyderabad. Strong in Product Management, UX Research, Stakeholder Management and A/B Testing, with recent work in insurance claims. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Product & Design: Product Management (Advanced, 6.7y), UX Research (Advanced, 5.5y), A/B Testing (Proficient, 6.4y), Roadmapping (Working, 4.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 5.9y), Communication (Proficient, 1.8y), Agile/Scrum (Proficient, 6.4y)
+- Data & AI: Databricks (Proficient, 4.1y)
+- Cloud & DevOps: Terraform (Proficient, 3.5y)
+
+EXPERIENCE
+* Insurance Claims B2B Analytics Product — an APAC insurer (2026-03 to present)
+  Defined the roadmap for a B2B analytics product for an APAC insurer in insurance claims using Databricks and Terraform, growing account revenue by 35%.
+* Insurance Claims Checkout Experience — a global insurer (2024-09 to 2026-01)
+  Launched a checkout experience for a global insurer in insurance claims using Databricks and A/B Testing, lifting NPS by 22 points.
+* HR Tech Checkout Experience — a fast-growing HR software company (2023-07 to 2024-06)
+  Owned a checkout experience for a fast-growing HR software company in HR tech using Terraform, Communication, Agile/Scrum and Product Management, improving conversion by 18%.
+* Insurance Claims B2B Analytics Product — a tier-1 insurer (2022-06 to 2023-06)
+  Owned a B2B analytics product for a tier-1 insurer in insurance claims using Databricks, Product Management, UX Research and Terraform, growing account revenue by 25%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst

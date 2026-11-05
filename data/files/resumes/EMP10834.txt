@@ -1,0 +1,28 @@
+SOPHIA CHEN
+Backend Engineer | Engineering | New York, United States
+Employee ID: EMP10834
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2 years of experience, based in New York. Strong in Microservices, Kafka, Java and REST API Design, with recent work in retail banking. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 1.3y), Kafka (Advanced, 1.4y), Java (Proficient, 0.6y), REST API Design (Proficient, 1.5y), GraphQL (Working, 0.3y), System Design (Working, 0.4y)
+- Data & AI: SQL (Proficient, 0.6y)
+- Cloud & DevOps: CI/CD (Proficient, 0.8y)
+- Quality Engineering: Playwright (Working, 0.7y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a US online retailer (2025-07 to present)
+  Built a mobile banking app for a US online retailer in e-commerce using Microservices, System Design, Java and SQL, lifting NPS by 30 points.
+* Retail Banking Payments Microservices Platform — a tier-1 retail bank (2024-08 to 2025-05)
+  Designed a payments microservices platform for a tier-1 retail bank in retail banking using SQL, Microservices, REST API Design and Java, accelerating releases by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Engineering Manager

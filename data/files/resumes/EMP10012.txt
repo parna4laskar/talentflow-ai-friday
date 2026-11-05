@@ -1,0 +1,31 @@
+AKASH NAIDU
+Business Analyst | Business Consulting | Pune, India
+Employee ID: EMP10012
+
+PROFESSIONAL SUMMARY
+Business Analyst with 3.5 years of experience, based in Pune. Strong in Business Analysis, Requirements Gathering, Stakeholder Management and SQL, with recent work in telecom billing. Interested in moving towards Business Analyst, Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 1.2y), Requirements Gathering (Proficient, 0.8y), Salesforce (Working, 1.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.5y), Communication (Working, 0.9y), Change Management (Beginner, 0.5y)
+- Data & AI: SQL (Proficient, 0.4y)
+
+EXPERIENCE
+* Supply-chain Logistics Agile Transformation — a European logistics company (2026-04 to present)
+  Led an agile transformation for a European logistics company in supply-chain logistics using Requirements Gathering and Stakeholder Management, delivering on time across 4 workstreams.
+* Wealth Management Core Banking Transformation Programme — an APAC wealth manager (2025-10 to 2026-03)
+  Delivered a core banking transformation programme for an APAC wealth manager in wealth management using Stakeholder Management and Salesforce, delivering $4M in cost savings.
+* Telecom Billing Core Banking Transformation Programme — a leading telecom operator (2025-02 to 2025-09)
+  Ran a core banking transformation programme for a leading telecom operator in telecom billing using Communication, Salesforce and SQL, delivering $6M in cost savings.
+* Manufacturing IoT Cloud Migration Programme — a US manufacturer (2024-07 to 2025-01)
+  Ran a cloud migration programme for a US manufacturer in manufacturing IoT using Requirements Gathering and SQL, delivering on time across 8 workstreams.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, Data Analyst

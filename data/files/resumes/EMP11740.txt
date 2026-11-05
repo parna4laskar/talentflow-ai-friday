@@ -1,0 +1,28 @@
+HARJIT TREMBLAY
+Data Scientist | Data & Analytics | Toronto, Canada
+Employee ID: EMP11740
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2.7 years of experience, based in Toronto. Strong in Apache Spark, Statistics, SQL and MLOps, with recent work in HR tech. Interested in moving towards Data Scientist, ML Engineer roles and open to relocating to Gurugram, Singapore, Pune.
+
+CORE SKILLS
+- Data & AI: Apache Spark (Advanced, 2.6y), Statistics (Proficient, 0.9y), SQL (Proficient, 1.4y), MLOps (Proficient, 0.7y), Machine Learning (Working, 1.1y), NLP (Working, 1.3y)
+- Software Engineering: Python (Working, 0.6y)
+- Product & Design: A/B Testing (Working, 0.4y)
+- Cloud & DevOps: CI/CD (Beginner, 0.3y)
+
+EXPERIENCE
+* HR Tech Executive KPI Dashboard Suite — a European HR software company (2026-09 to present)
+  Led the delivery of an executive KPI dashboard suite for a European HR software company in HR tech using SQL, Statistics and Apache Spark, improving forecast accuracy by 30%.
+* Energy Trading Real-time Analytics Pipeline — a European energy company (2025-09 to 2026-09)
+  Designed a real-time analytics pipeline for a European energy company in energy trading using Python, Apache Spark, Statistics and A/B Testing, cutting cloud spend by 22%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist, ML Engineer

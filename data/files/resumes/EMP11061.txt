@@ -1,0 +1,31 @@
+GEORGE SMITH
+Associate Business Analyst | Business Consulting | London, United Kingdom
+Employee ID: EMP11061
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 3 years of experience, based in London. Strong in Business Analysis, Stakeholder Management, Requirements Gathering and Salesforce, with recent work in manufacturing IoT. Interested in moving towards Business Analyst, Scrum Master roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 2.0y), Requirements Gathering (Working, 1.3y), Salesforce (Working, 1.2y), Process Improvement (Working, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.6y)
+- Data & AI: Databricks (Working, 1.3y)
+
+EXPERIENCE
+* Manufacturing IoT Agile Transformation — a global manufacturer (2025-09 to present)
+  Ran an agile transformation for a global manufacturer in manufacturing IoT using Stakeholder Management, Business Analysis, Process Improvement and Requirements Gathering, accelerating releases by 18%.
+* Manufacturing IoT Cloud Migration Programme — a leading manufacturer (2024-09 to 2025-06)
+  Ran a cloud migration programme for a leading manufacturer in manufacturing IoT using Requirements Gathering and Salesforce, cutting cloud spend by 22%.
+* Manufacturing IoT Cloud Migration Programme — a US manufacturer (2023-07 to 2024-08)
+  Ran a cloud migration programme for a US manufacturer in manufacturing IoT using Process Improvement, Business Analysis, Requirements Gathering and Stakeholder Management, delivering on time across 8 workstreams.
+* Manufacturing IoT Cloud Migration Programme — a tier-1 manufacturer (2021-12 to 2023-04)
+  Led a cloud migration programme for a tier-1 manufacturer in manufacturing IoT using Process Improvement, Salesforce and Requirements Gathering, cutting cloud spend by 30%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Tamil
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, Scrum Master, Account Manager, CRM Consultant

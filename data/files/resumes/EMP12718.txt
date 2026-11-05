@@ -1,0 +1,27 @@
+RAJESH SINGH
+Associate Security Analyst | Cyber Security | Hyderabad, India
+Employee ID: EMP12718
+
+PROFESSIONAL SUMMARY
+Associate Security Analyst with 0.3 years of experience, based in Hyderabad. Strong in SIEM, Python, Threat Modeling and Incident Response, with recent work in payments. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Security: SIEM (Proficient, 0.4y), Threat Modeling (Proficient, 0.3y), Incident Response (Working, 0.3y), Cloud Security (Working, 0.3y), GRC (Working, 0.3y)
+- Software Engineering: Python (Proficient, 0.3y)
+- Cloud & DevOps: Linux Administration (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Secure SDLC Rollout — a global online retailer (2026-02 to present)
+  Automated a secure SDLC rollout for a global online retailer in e-commerce using Python, GRC and Threat Modeling, reducing production incidents by 40%.
+* E-commerce Identity and Access Platform — a global online retailer (2024-09 to 2025-12)
+  Re-architected an identity and access platform for a global online retailer in e-commerce using Threat Modeling, Linux Administration, Incident Response and SIEM, closing 18% of open audit findings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Cloud Engineer

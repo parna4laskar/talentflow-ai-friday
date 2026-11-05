@@ -1,0 +1,31 @@
+FATIMA HEGDE
+Platform Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12208
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 3 years of experience, based in Pune. Strong in Terraform, Platform Engineering, Kubernetes and CI/CD, with recent work in energy trading. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 0.6y), Platform Engineering (Proficient, 0.5y), Kubernetes (Proficient, 2.0y), CI/CD (Proficient, 1.5y), Site Reliability Engineering (Working, 0.3y), AWS (Working, 1.3y)
+- Software Engineering: Go (Proficient, 1.2y), Python (Working, 1.5y)
+- Delivery & Leadership: Communication (Working, 0.9y)
+
+EXPERIENCE
+* Energy Trading Observability Stack — a global energy company (2026-10 to present)
+  Built an observability stack for a global energy company in energy trading using Site Reliability Engineering, Kubernetes and Go, accelerating releases by 25%.
+* Manufacturing IoT Cloud Landing Zone — a leading manufacturer (2025-09 to 2026-08)
+  Designed a cloud landing zone for a leading manufacturer in manufacturing IoT using Python and Site Reliability Engineering, cutting cloud spend by 25%.
+* Airline Operations Observability Stack — a fast-growing airline (2024-12 to 2025-08)
+  Led the delivery of an observability stack for a fast-growing airline in airline operations using AWS, Kubernetes and Terraform, reducing production incidents by 22%.
+* Energy Trading Cloud Landing Zone — a leading energy company (2023-09 to 2024-10)
+  Re-architected a cloud landing zone for a leading energy company in energy trading using Python, Communication, AWS and Kubernetes, cutting cloud spend by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Site Reliability Engineer, Backend Engineer

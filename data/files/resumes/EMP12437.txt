@@ -1,0 +1,30 @@
+NANDINI SEN
+Associate Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12437
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 1.7 years of experience, based in Bengaluru. Strong in CI/CD, Platform Engineering, Kubernetes and Terraform, with recent work in public sector. Interested in moving towards Platform Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 1.1y), Platform Engineering (Working, 0.7y), Kubernetes (Working, 0.4y), Terraform (Working, 0.8y), Observability (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.4y), Go (Working, 0.6y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+
+EXPERIENCE
+* Public Sector Cloud Landing Zone — a tier-1 government agency (2025-12 to present)
+  Scaled a cloud landing zone for a tier-1 government agency in public sector using Python and Terraform, accelerating releases by 35%.
+* E-commerce CI/CD Platform — a fast-growing online retailer (2025-05 to 2025-10)
+  Modernised a CI/CD platform for a fast-growing online retailer in e-commerce using Kubernetes and Platform Engineering, accelerating releases by 30%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Backend Engineer, Cloud Engineer

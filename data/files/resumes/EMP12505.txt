@@ -1,0 +1,26 @@
+GURPREET DAS
+Associate Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12505
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0.9 years of experience, based in Pune. Strong in Linux Administration, Cloud Security, Azure and Terraform, with recent work in healthcare. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Proficient, 0.6y), Azure (Working, 0.4y), Terraform (Working, 0.4y), Kubernetes (Working, 0.4y), Platform Engineering (Beginner, 0.3y)
+- Security: Cloud Security (Proficient, 0.6y)
+
+EXPERIENCE
+* Healthcare Kubernetes Platform — a global hospital network (2026-07 to present)
+  Automated a Kubernetes platform for a global hospital network in healthcare using Terraform, Azure and Cloud Security, accelerating releases by 25%.
+* E-commerce CI/CD Platform — a tier-1 online retailer (2025-04 to 2026-06)
+  Re-architected a CI/CD platform for a tier-1 online retailer in e-commerce using Kubernetes and Terraform, accelerating releases by 30%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Site Reliability Engineer, Software Architect

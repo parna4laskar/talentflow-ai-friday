@@ -1,0 +1,29 @@
+SIDDHARTH THOMAS
+Associate SAP Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP10578
+
+PROFESSIONAL SUMMARY
+Associate SAP Consultant with 2 years of experience, based in Bengaluru. Strong in Requirements Gathering, Business Analysis, Process Improvement and SAP S/4HANA, with recent work in manufacturing IoT. Interested in moving towards Business Analyst, Risk & Compliance Analyst roles and open to relocating to Pune.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 0.5y), Business Analysis (Proficient, 0.5y), Process Improvement (Proficient, 0.8y), SAP S/4HANA (Working, 0.7y), Financial Analysis (Working, 0.7y), SAP FICO (Beginner, 0.3y)
+- Quality Engineering: Playwright (Beginner, 0.5y)
+
+EXPERIENCE
+* Energy Trading Service Desk Automation — an APAC energy company (2026-04 to present)
+  Designed a service desk automation for an APAC energy company in energy trading using Playwright, SAP S/4HANA and Requirements Gathering, reducing processing time by 18%.
+* Manufacturing IoT Service Desk Automation — a leading manufacturer (2025-02 to 2026-04)
+  Designed a service desk automation for a leading manufacturer in manufacturing IoT using Playwright, Requirements Gathering and Financial Analysis, reducing processing time by 25%.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2024)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Business Analyst, Risk & Compliance Analyst

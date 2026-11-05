@@ -1,0 +1,31 @@
+AKASH JADHAV
+Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP12895
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.3 years of experience, based in Chennai. Strong in CI/CD, Figma, GraphQL and Playwright, with recent work in airline operations. Interested in moving towards Mobile Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 3.2y)
+- Product & Design: Figma (Proficient, 1.0y), Design Systems (Working, 0.6y)
+- Software Engineering: GraphQL (Proficient, 0.5y), REST API Design (Proficient, 1.0y), TypeScript (Working, 0.8y), JavaScript (Working, 0.8y), Angular (Working, 0.8y)
+- Quality Engineering: Playwright (Proficient, 0.8y)
+- Data & AI: Machine Learning (Working, 1.0y)
+
+EXPERIENCE
+* Retail Banking Claims Processing Engine — an APAC retail bank (2025-10 to present)
+  Automated a claims processing engine for an APAC retail bank in retail banking using JavaScript, Figma, Playwright and Design Systems, reducing processing time by 35%.
+* E-commerce Self-service Portal — a fast-growing online retailer (2025-01 to 2025-08)
+  Re-architected a self-service portal for a fast-growing online retailer in e-commerce using TypeScript and GraphQL, saving ~22K hours annually.
+* Energy Trading Self-service Portal — a global energy company (2023-06 to 2024-11)
+  Modernised a self-service portal for a global energy company in energy trading using REST API Design and CI/CD, lifting NPS by 12 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Mobile Engineer

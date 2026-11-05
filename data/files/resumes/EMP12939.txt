@@ -1,0 +1,34 @@
+PALLAVI SHARMA
+Senior Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP12939
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 6.5 years of experience, based in Bengaluru. Strong in Data Visualization, Power BI, SQL and Python, with recent work in wealth management. Interested in moving towards Product Manager, Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 0.8y), Power BI (Advanced, 2.5y), SQL (Proficient, 1.7y), Statistics (Proficient, 1.9y)
+- Software Engineering: Python (Proficient, 1.8y)
+- Product & Design: A/B Testing (Proficient, 0.4y)
+- Business & Finance: Business Analysis (Proficient, 2.3y)
+
+EXPERIENCE
+* Wealth Management Real-time Analytics Pipeline — a fast-growing wealth manager (2025-10 to present)
+  Scaled a real-time analytics pipeline for a fast-growing wealth manager in wealth management using Python and Power BI, reducing processing time by 22%.
+* Pharma R&D Executive KPI Dashboard Suite — an APAC pharma company (2025-05 to 2025-09)
+  Built an executive KPI dashboard suite for an APAC pharma company in pharma R&D using Python, Power BI, Statistics and Business Analysis, improving forecast accuracy by 35%.
+* Automotive Regulatory Reporting Suite — a global car maker (2024-09 to 2025-02)
+  Modernised a regulatory reporting suite for a global car maker in automotive using Business Analysis and Power BI, reducing processing time by 35%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2024)
+- Tableau Desktop Specialist (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager, Business Analyst

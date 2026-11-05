@@ -1,0 +1,31 @@
+HARINI MUKHERJEE
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP10091
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14.5 years of experience, based in Bengaluru. Strong in Stakeholder Management, People Leadership, System Design and Agile/Scrum, with recent work in automotive. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 4.9y), People Leadership (Advanced, 12.6y), Agile/Scrum (Advanced, 6.4y), Communication (Advanced, 6.1y)
+- Software Engineering: System Design (Advanced, 10.9y), Python (Advanced, 8.5y), Microservices (Proficient, 3.5y)
+- Cloud & DevOps: AWS (Advanced, 5.2y), Azure (Proficient, 1.7y), Terraform (Working, 0.8y)
+
+EXPERIENCE
+* Automotive Pricing Engine — a global car maker (2025-10 to present)
+  Automated a pricing engine for a global car maker in automotive using Python and System Design, improving conversion by 30%.
+* Automotive Claims Processing Engine — a European car maker (2024-06 to 2025-10)
+  Migrated a claims processing engine for a European car maker in automotive using AWS and People Leadership, reducing processing time by 18%.
+* Automotive Claims Processing Engine — a leading car maker (2023-05 to 2024-03)
+  Designed a claims processing engine for a leading car maker in automotive using Agile/Scrum, Communication and Stakeholder Management, reducing processing time by 18%.
+* Automotive Self-service Portal — a fast-growing car maker (2022-02 to 2023-03)
+  Led the delivery of a self-service portal for a fast-growing car maker in automotive using AWS, People Leadership and Terraform, lifting NPS by 30 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Engineering Manager, Software Architect

@@ -1,0 +1,31 @@
+VARUN LIM
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP11594
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 12.1 years of experience, based in Pune. Strong in System Design, Agile/Scrum, AWS and People Leadership, with recent work in insurance claims. Interested in moving towards Program Manager, Scrum Master roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 0.9y), Microservices (Proficient, 7.8y), Java (Working, 1.8y), REST API Design (Working, 2.4y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 5.6y), People Leadership (Proficient, 9.0y), Stakeholder Management (Proficient, 5.4y), Mentoring (Proficient, 2.0y)
+- Cloud & DevOps: AWS (Advanced, 9.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Customer Onboarding Platform — a fast-growing logistics company (2026-04 to present)
+  Designed a customer onboarding platform for a fast-growing logistics company in supply-chain logistics using Microservices and REST API Design, lifting NPS by 30 points.
+* Retail Banking Mobile Banking App — a European retail bank (2025-07 to 2026-04)
+  Automated a mobile banking app for a European retail bank in retail banking using Mentoring, People Leadership, System Design and Agile/Scrum, lifting NPS by 35 points.
+* Insurance Claims Payments Microservices Platform — a US insurer (2024-04 to 2025-06)
+  Scaled a payments microservices platform for a US insurer in insurance claims using Stakeholder Management, Java, System Design and People Leadership, accelerating releases by 18%.
+* HR Tech Mobile Banking App — a US HR software company (2023-02 to 2024-02)
+  Designed a mobile banking app for a US HR software company in HR tech using People Leadership, Java, REST API Design and AWS, lifting NPS by 40 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Program Manager, Scrum Master, Software Architect

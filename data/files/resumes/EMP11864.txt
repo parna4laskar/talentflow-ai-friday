@@ -1,0 +1,35 @@
+FARHAN WALKER
+Senior CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP11864
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 8.6 years of experience, based in Bengaluru. Strong in Agile/Scrum, Business Analysis, JavaScript and Process Improvement, with recent work in payments. Interested in moving towards CRM Consultant, Business Analyst roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Advanced, 6.2y)
+- Business & Finance: Business Analysis (Proficient, 2.7y), Process Improvement (Proficient, 6.1y), Requirements Gathering (Proficient, 0.5y), ServiceNow (Working, 2.4y)
+- Software Engineering: JavaScript (Proficient, 0.5y)
+- Cloud & DevOps: FinOps (Working, 1.0y)
+
+EXPERIENCE
+* Payments CRM Rollout — an APAC payments provider (2026-06 to present)
+  Built a CRM rollout for an APAC payments provider in payments using ServiceNow and Business Analysis, improving conversion by 18%.
+* Payments ERP Finance Rollout — an APAC payments provider (2025-07 to 2026-03)
+  Scaled an ERP finance rollout for an APAC payments provider in payments using FinOps, Business Analysis and Requirements Gathering, saving ~40K hours annually.
+* Airline Operations Service Desk Automation — a tier-1 airline (2024-07 to 2025-06)
+  Led the delivery of a service desk automation for a tier-1 airline in airline operations using Agile/Scrum, FinOps, Business Analysis and ServiceNow, reducing processing time by 12%.
+* Payments CRM Rollout — an APAC payments provider (2023-09 to 2024-05)
+  Scaled a CRM rollout for an APAC payments provider in payments using Agile/Scrum and ServiceNow, improving conversion by 35%.
+
+CERTIFICATIONS
+- ServiceNow CSA (2026)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: CRM Consultant, Business Analyst

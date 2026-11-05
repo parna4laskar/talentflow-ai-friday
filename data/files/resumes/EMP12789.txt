@@ -1,0 +1,34 @@
+PRIYA KAMIŃSKI
+Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12789
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.8 years of experience, based in Singapore. Strong in TypeScript, JavaScript, React and GraphQL, with recent work in media streaming. Interested in moving towards Frontend Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.8y), JavaScript (Proficient, 3.4y), React (Proficient, 2.9y), GraphQL (Proficient, 3.3y), Flutter (Working, 2.4y)
+- Product & Design: Design Systems (Working, 1.7y), Figma (Beginner, 0.3y)
+- Quality Engineering: Playwright (Beginner, 0.5y)
+
+EXPERIENCE
+* Media Streaming Self-service Portal — a global streaming platform (2026-06 to present)
+  Designed a self-service portal for a global streaming platform in media streaming using Playwright, TypeScript, JavaScript and Flutter, saving ~12K hours annually.
+* Media Streaming Order Management System — an APAC streaming platform (2025-02 to 2026-05)
+  Migrated an order management system for an APAC streaming platform in media streaming using Playwright, TypeScript, Design Systems and JavaScript, onboarding 4 new enterprise clients.
+* Wealth Management Payments Microservices Platform — a tier-1 wealth manager (2024-03 to 2025-01)
+  Led the delivery of a payments microservices platform for a tier-1 wealth manager in wealth management using Figma, Design Systems, React and TypeScript, reducing production incidents by 12%.
+* Media Streaming Claims Processing Engine — an APAC streaming platform (2023-04 to 2023-12)
+  Modernised a claims processing engine for an APAC streaming platform in media streaming using JavaScript and Flutter, saving ~35K hours annually.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, UX Designer

@@ -1,0 +1,29 @@
+GURPREET PATEL
+Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP10760
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5.4 years of experience, based in Bengaluru. Strong in Python, Statistics, dbt and Machine Learning, with recent work in e-commerce. Interested in moving towards Data Scientist, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.4y)
+- Data & AI: Statistics (Advanced, 0.6y), dbt (Advanced, 4.8y), Machine Learning (Proficient, 0.6y), NLP (Proficient, 1.5y), Data Visualization (Working, 2.6y), SQL (Beginner, 1.0y), MLOps (Beginner, 0.5y)
+- Product & Design: A/B Testing (Working, 0.8y)
+
+EXPERIENCE
+* Energy Trading Regulatory Reporting Suite — an APAC energy company (2026-09 to present)
+  Scaled a regulatory reporting suite for an APAC energy company in energy trading using SQL, Machine Learning and Data Visualization, reducing processing time by 22%.
+* E-commerce Data Lakehouse — a fast-growing online retailer (2026-02 to 2026-08)
+  Led the delivery of a data lakehouse for a fast-growing online retailer in e-commerce using SQL and Machine Learning, cutting cloud spend by 40%.
+* Payments Data Lakehouse — a tier-1 payments provider (2024-07 to 2025-11)
+  Designed a data lakehouse for a tier-1 payments provider in payments using Data Visualization and Machine Learning, reducing processing time by 30%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Scientist, ML Engineer, AI Engineer

@@ -1,0 +1,31 @@
+KATARZYNA SZYMAŃSKI
+Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP10685
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.3 years of experience, based in Kraków. Strong in C#, Microservices, Data Visualization and SQL, with recent work in airline operations. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 1.4y), Microservices (Advanced, 1.1y), System Design (Proficient, 2.3y), REST API Design (Working, 1.5y), GraphQL (Beginner, 0.3y)
+- Data & AI: Data Visualization (Advanced, 1.1y), SQL (Proficient, 0.8y)
+- Cloud & DevOps: CI/CD (Proficient, 1.3y)
+
+EXPERIENCE
+* Airline Operations Customer Onboarding Platform — a global airline (2025-09 to present)
+  Led the delivery of a customer onboarding platform for a global airline in airline operations using Data Visualization, SQL, Microservices and REST API Design, improving conversion by 40%.
+* Airline Operations Pricing Engine — a leading airline (2024-08 to 2025-08)
+  Designed a pricing engine for a leading airline in airline operations using Microservices, System Design, REST API Design and Data Visualization, improving conversion by 22%.
+* Airline Operations Self-service Portal — a fast-growing airline (2023-07 to 2024-05)
+  Scaled a self-service portal for a fast-growing airline in airline operations using REST API Design, CI/CD and System Design, lifting NPS by 35 points.
+* Airline Operations Claims Processing Engine — a fast-growing airline (2021-12 to 2023-05)
+  Modernised a claims processing engine for a fast-growing airline in airline operations using System Design and Microservices, saving ~35K hours annually.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Software Architect

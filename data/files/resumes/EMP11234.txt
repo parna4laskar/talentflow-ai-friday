@@ -1,0 +1,26 @@
+PARNA CHATTERJEE
+CRM Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP11234
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 2.6 years of experience, based in Pune. Strong in Salesforce, Business Analysis, Agile/Scrum and Process Improvement, with recent work in wealth management. Interested in moving towards CRM Consultant, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Proficient, 1.4y), Business Analysis (Proficient, 1.8y), Process Improvement (Working, 1.3y), Requirements Gathering (Beginner, 0.5y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.9y)
+
+EXPERIENCE
+* Wealth Management ERP Finance Rollout — a European wealth manager (2026-05 to present)
+  Re-architected an ERP finance rollout for a European wealth manager in wealth management using Agile/Scrum, Requirements Gathering and Salesforce, reducing processing time by 12%.
+* Healthcare Service Desk Automation — a fast-growing hospital network (2025-05 to 2026-02)
+  Built a service desk automation for a fast-growing hospital network in healthcare using Salesforce and Business Analysis, saving ~22K hours annually.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: CRM Consultant, Account Manager, Scrum Master, Business Analyst

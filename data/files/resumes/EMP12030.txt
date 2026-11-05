@@ -1,0 +1,27 @@
+RIYA MALHOTRA
+Associate Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP12030
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.9 years of experience, based in Pune. Strong in GraphQL, TypeScript, Angular and Java, with recent work in HR tech. Interested in moving towards Mobile Engineer, AI Engineer roles and open to relocating to Kraków, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Proficient, 0.9y), TypeScript (Working, 0.4y), Angular (Working, 0.7y), Java (Working, 0.6y), REST API Design (Working, 0.7y), Next.js (Working, 0.3y), Kafka (Working, 0.3y)
+- Cloud & DevOps: AWS (Working, 0.3y)
+- Data & AI: SQL (Beginner, 0.3y)
+
+EXPERIENCE
+* HR Tech Claims Processing Engine — a tier-1 HR software company (2025-10 to present)
+  Designed a claims processing engine for a tier-1 HR software company in HR tech using TypeScript and SQL, saving ~12K hours annually.
+* HR Tech Order Management System — a fast-growing HR software company (2024-10 to 2025-08)
+  Led the delivery of an order management system for a fast-growing HR software company in HR tech using Angular and Next.js, onboarding 4 new enterprise clients.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer, AI Engineer, Frontend Engineer

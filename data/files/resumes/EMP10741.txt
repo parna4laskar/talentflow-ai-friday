@@ -1,0 +1,31 @@
+RIYA KAPOOR
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10741
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.9 years of experience, based in Hyderabad. Strong in REST API Design, Microservices, SQL and CI/CD, with recent work in pharma R&D. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 2.8y), Microservices (Advanced, 2.3y), Python (Working, 1.1y)
+- Data & AI: SQL (Proficient, 1.6y), Machine Learning (Beginner, 0.4y)
+- Cloud & DevOps: CI/CD (Proficient, 2.2y), AWS (Working, 1.0y)
+
+EXPERIENCE
+* Pharma R&D Customer Onboarding Platform — a leading pharma company (2026-06 to present)
+  Re-architected a customer onboarding platform for a leading pharma company in pharma R&D using SQL, REST API Design and Python, improving conversion by 40%.
+* Pharma R&D Payments Microservices Platform — an APAC pharma company (2025-06 to 2026-05)
+  Designed a payments microservices platform for an APAC pharma company in pharma R&D using Microservices, REST API Design and Python, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: AI Engineer, DevOps Engineer

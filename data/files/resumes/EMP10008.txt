@@ -1,0 +1,35 @@
+LAKSHMI CHATTERJEE
+Senior DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10008
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 5 years of experience, based in Bengaluru. Strong in Docker, CI/CD, Kubernetes and AWS, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, Platform Engineer roles and open to relocating to Chennai, Kraków, Singapore.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Expert, 2.9y), CI/CD (Advanced, 1.8y), Kubernetes (Advanced, 1.6y), AWS (Advanced, 4.1y), Linux Administration (Proficient, 3.6y), Site Reliability Engineering (Proficient, 3.5y), Observability (Working, 0.4y)
+- Software Engineering: Go (Advanced, 4.2y), Python (Working, 1.1y)
+- Data & AI: MLOps (Advanced, 4.3y)
+- Delivery & Leadership: Communication (Proficient, 2.9y)
+
+EXPERIENCE
+* Healthcare Observability Stack — a global hospital network (2025-09 to present)
+  Re-architected an observability stack for a global hospital network in healthcare using CI/CD, MLOps and Go, reducing production incidents by 18%.
+* E-commerce Data-centre Exit To Cloud — a tier-1 online retailer (2025-01 to 2025-08)
+  Built a data-centre exit to cloud for a tier-1 online retailer in e-commerce using Linux Administration and Site Reliability Engineering, cutting cloud spend by 25%.
+* Media Streaming Kubernetes Platform — a fast-growing streaming platform (2024-02 to 2024-12)
+  Led the delivery of a Kubernetes platform for a fast-growing streaming platform in media streaming using Linux Administration and Docker, cutting cloud spend by 25%.
+* Pharma R&D Cloud Landing Zone — a leading pharma company (2023-04 to 2024-01)
+  Built a cloud landing zone for a leading pharma company in pharma R&D using Go and Python, accelerating releases by 18%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2024)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, Platform Engineer

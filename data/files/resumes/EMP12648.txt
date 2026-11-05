@@ -1,0 +1,33 @@
+SIDDHARTH SHAH
+Lead ML Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP12648
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 15.9 years of experience, based in Chennai. Strong in Machine Learning, MLOps, Deep Learning and NLP, with recent work in media streaming. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 0.9y), MLOps (Advanced, 1.3y), Deep Learning (Advanced, 7.7y), NLP (Advanced, 10.8y), Computer Vision (Proficient, 2.4y), Databricks (Proficient, 10.0y)
+- Software Engineering: Python (Proficient, 11.6y)
+- Cloud & DevOps: Docker (Proficient, 6.5y)
+- Delivery & Leadership: Mentoring (Proficient, 4.1y), Stakeholder Management (Proficient, 9.5y)
+
+EXPERIENCE
+* Public Sector Agentic Customer-service Assistant — an APAC government agency (2025-10 to present)
+  Designed an agentic customer-service assistant for an APAC government agency in public sector using Docker and Deep Learning, saving ~12K hours annually.
+* HR Tech Fraud Detection Model — a European HR software company (2024-12 to 2025-08)
+  Automated a fraud detection model for a European HR software company in HR tech using Python, Deep Learning, NLP and Computer Vision, reducing processing time by 18%.
+* Supply-chain Logistics Agentic Customer-service Assistant — an APAC logistics company (2024-05 to 2024-11)
+  Scaled an agentic customer-service assistant for an APAC logistics company in supply-chain logistics using Deep Learning, MLOps and Docker, saving ~25K hours annually.
+
+CERTIFICATIONS
+- AWS ML Specialty (2021)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: AI Engineer, DevOps Engineer

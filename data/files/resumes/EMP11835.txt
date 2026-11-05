@@ -1,0 +1,30 @@
+SNEHA SHEIKH
+Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP11835
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5.4 years of experience, based in Pune. Strong in Data Visualization, Tableau, SQL and Stakeholder Management, with recent work in wealth management. Interested in moving towards Product Manager, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 1.2y), Tableau (Advanced, 3.9y), SQL (Proficient, 3.5y), Statistics (Working, 2.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.9y), Communication (Beginner, 0.4y)
+- Business & Finance: Business Analysis (Proficient, 3.6y)
+- Cloud & DevOps: Terraform (Beginner, 1.3y)
+
+EXPERIENCE
+* Wealth Management Data Lakehouse — a tier-1 wealth manager (2026-06 to present)
+  Migrated a data lakehouse for a tier-1 wealth manager in wealth management using Statistics, Tableau, Data Visualization and Communication, cutting cloud spend by 18%.
+* Wealth Management Regulatory Reporting Suite — a leading wealth manager (2025-07 to 2026-03)
+  Modernised a regulatory reporting suite for a leading wealth manager in wealth management using Stakeholder Management, Communication, Tableau and Statistics, reducing processing time by 40%.
+* Wealth Management Real-time Analytics Pipeline — a leading wealth manager (2024-12 to 2025-07)
+  Led the delivery of a real-time analytics pipeline for a leading wealth manager in wealth management using SQL and Terraform, cutting cloud spend by 18%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager, Data Scientist, Financial Analyst

@@ -1,0 +1,28 @@
+VAISHNAVI MUKHERJEE
+Associate Cloud Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP11308
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 1.9 years of experience, based in Chennai. Strong in Linux Administration, AWS, Terraform and FinOps, with recent work in public sector. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to Gurugram, Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 1.3y), AWS (Proficient, 1.2y), Terraform (Proficient, 1.1y), FinOps (Proficient, 0.8y), Platform Engineering (Working, 0.8y)
+
+EXPERIENCE
+* Insurance Claims Observability Stack — a European insurer (2025-10 to present)
+  Modernised an observability stack for a European insurer in insurance claims using Terraform and AWS, accelerating releases by 30%.
+* Media Streaming Data-centre Exit To Cloud — a tier-1 streaming platform (2024-08 to 2025-07)
+  Designed a data-centre exit to cloud for a tier-1 streaming platform in media streaming using Platform Engineering, Linux Administration and Terraform, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, DevOps Engineer

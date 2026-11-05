@@ -1,0 +1,36 @@
+CARLOS MILLER
+Marketing Specialist | Marketing | Austin, United States
+Employee ID: EMP11517
+
+PROFESSIONAL SUMMARY
+Marketing Specialist with 3.2 years of experience, based in Austin. Strong in Marketing Analytics, Digital Marketing, Content Strategy and SEO, with recent work in retail banking. Interested in moving towards Data Scientist roles and open to relocating to Singapore, Toronto, Dublin.
+
+CORE SKILLS
+- People & Marketing: Marketing Analytics (Advanced, 0.9y), Digital Marketing (Proficient, 1.3y), Content Strategy (Proficient, 0.8y), SEO (Proficient, 1.1y)
+- Data & AI: Data Visualization (Working, 1.0y)
+- Delivery & Leadership: Communication (Working, 1.3y)
+- Product & Design: A/B Testing (Working, 1.1y)
+- Cloud & DevOps: Terraform (Working, 0.7y)
+
+EXPERIENCE
+* Telecom Billing Product Launch Campaign — an APAC telecom operator (2026-07 to present)
+  Led a product launch campaign for an APAC telecom operator in telecom billing using Communication, Terraform and Data Visualization, growing qualified leads by 22%.
+* Supply-chain Logistics Strategic Account Growth Plan — a European logistics company (2024-11 to 2026-05)
+  Grew a strategic account growth plan for a European logistics company in supply-chain logistics using Data Visualization, Terraform, Digital Marketing and Content Strategy, growing account revenue by 22%.
+* Retail Banking Partner Channel Strategy — a fast-growing retail bank (2023-09 to 2024-10)
+  Led a partner channel strategy for a fast-growing retail bank in retail banking using Marketing Analytics, A/B Testing and Terraform, growing account revenue by 40%.
+* Retail Banking Strategic Account Growth Plan — a fast-growing retail bank (2023-02 to 2023-09)
+  Planned a strategic account growth plan for a fast-growing retail bank in retail banking using Marketing Analytics, A/B Testing, Communication and SEO, growing account revenue by 18%.
+
+CERTIFICATIONS
+- Google Ads Certification (2024)
+
+EDUCATION
+- BA Communications
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist

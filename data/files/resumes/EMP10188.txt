@@ -1,0 +1,37 @@
+JAMAL WASHINGTON
+Principal Data Analyst | Data & Analytics | New York, United States
+Employee ID: EMP10188
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 19.3 years of experience, based in New York. Strong in Business Analysis, Python, SQL and Data Visualization, with recent work in supply-chain logistics. Interested in moving towards Product Manager, Data Scientist roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 7.7y)
+- Software Engineering: Python (Expert, 11.0y), Go (Proficient, 10.7y)
+- Delivery & Leadership: People Leadership (Expert, 1.8y), Mentoring (Advanced, 4.2y), Stakeholder Management (Proficient, 12.1y)
+- Data & AI: SQL (Advanced, 17.6y), Data Visualization (Advanced, 15.3y), Tableau (Advanced, 9.1y), Snowflake (Advanced, 13.2y)
+- Product & Design: UX Research (Advanced, 11.7y), A/B Testing (Proficient, 6.2y)
+
+EXPERIENCE
+* Supply-chain Logistics Real-time Analytics Pipeline — an APAC logistics company (2025-06 to present)
+  Automated a real-time analytics pipeline for an APAC logistics company in supply-chain logistics using Python and Data Visualization, cutting cloud spend by 12%.
+* Automotive Data Lakehouse — a fast-growing car maker (2024-02 to 2025-04)
+  Modernised a data lakehouse for a fast-growing car maker in automotive using Business Analysis, Python and Tableau, reducing processing time by 35%.
+* Supply-chain Logistics Executive KPI Dashboard Suite — a tier-1 logistics company (2022-06 to 2023-12)
+  Migrated an executive KPI dashboard suite for a tier-1 logistics company in supply-chain logistics using Tableau, Mentoring, UX Research and Go, saving ~18K hours annually.
+* Supply-chain Logistics Real-time Analytics Pipeline — a US logistics company (2021-05 to 2022-05)
+  Led the delivery of a real-time analytics pipeline for a US logistics company in supply-chain logistics using Data Visualization, Tableau, Go and Snowflake, cutting cloud spend by 18%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+- Tableau Desktop Specialist (2022)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Product Manager, Data Scientist, Business Analyst

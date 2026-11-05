@@ -1,0 +1,29 @@
+MRUNAL KAUR
+Senior Platform Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11716
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 9.5 years of experience, based in Hyderabad. Strong in Observability, Go, Platform Engineering and Kubernetes, with recent work in manufacturing IoT. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Advanced, 2.5y), Platform Engineering (Proficient, 2.7y), Kubernetes (Proficient, 1.0y), Terraform (Proficient, 2.5y), CI/CD (Proficient, 0.9y), AWS (Proficient, 4.2y), Azure (Proficient, 3.1y)
+- Software Engineering: Go (Advanced, 7.4y), Python (Proficient, 3.1y)
+- Delivery & Leadership: Communication (Proficient, 6.8y)
+
+EXPERIENCE
+* Manufacturing IoT Observability Stack — a leading manufacturer (2025-10 to present)
+  Automated an observability stack for a leading manufacturer in manufacturing IoT using CI/CD, Communication, Python and Platform Engineering, accelerating releases by 22%.
+* Insurance Claims Kubernetes Platform — a tier-1 insurer (2024-12 to 2025-08)
+  Built a Kubernetes platform for a tier-1 insurer in insurance claims using Go, Azure, AWS and Python, reducing production incidents by 22%.
+* Manufacturing IoT Observability Stack — a European manufacturer (2023-12 to 2024-11)
+  Migrated an observability stack for a European manufacturer in manufacturing IoT using Terraform, Go, Platform Engineering and AWS, accelerating releases by 22%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Site Reliability Engineer, Cloud Engineer

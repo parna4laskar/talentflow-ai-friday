@@ -1,0 +1,34 @@
+CHLOE JONES
+Lead Software Architect | Engineering | London, United Kingdom
+Employee ID: EMP10506
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 8.3 years of experience, based in London. Strong in GCP, REST API Design, System Design and Microservices, with recent work in e-commerce. Interested in moving towards Cloud Engineer, Engineering Manager roles and open to relocating to New York, Dublin, Gurugram.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Expert, 4.5y), Kubernetes (Advanced, 3.4y), Terraform (Proficient, 4.3y)
+- Software Engineering: REST API Design (Expert, 7.5y), System Design (Advanced, 1.3y), Microservices (Advanced, 1.5y), C# (Proficient, 0.8y), Kafka (Working, 1.3y)
+- Security: Cloud Security (Advanced, 8.2y)
+- Delivery & Leadership: Mentoring (Proficient, 2.6y), Communication (Proficient, 5.6y)
+
+EXPERIENCE
+* Wealth Management Order Management System — a fast-growing wealth manager (2026-09 to present)
+  Automated an order management system for a fast-growing wealth manager in wealth management using Kubernetes, Mentoring, Terraform and Microservices, reducing processing time by 18%.
+* Pharma R&D Mobile Banking App — an APAC pharma company (2025-12 to 2026-07)
+  Migrated a mobile banking app for an APAC pharma company in pharma R&D using System Design and REST API Design, lifting NPS by 18 points.
+* E-commerce Self-service Portal — a tier-1 online retailer (2024-10 to 2025-11)
+  Scaled a self-service portal for a tier-1 online retailer in e-commerce using Communication, GCP and Mentoring, saving ~25K hours annually.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2024)
+- TOGAF 10 (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, Engineering Manager

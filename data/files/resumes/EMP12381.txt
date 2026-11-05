@@ -1,0 +1,27 @@
+NURUL WASHINGTON
+Associate Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12381
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.2 years of experience, based in Singapore. Strong in REST API Design, SQL, Spring Boot and Go, with recent work in automotive. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 0.8y), Spring Boot (Proficient, 0.9y), Go (Working, 0.4y), Microservices (Working, 0.6y), System Design (Working, 0.4y), GraphQL (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.6y), Responsible AI (Beginner, 0.3y)
+- Cloud & DevOps: Docker (Working, 0.3y), Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* Public Sector Mobile Banking App — a tier-1 government agency (2026-05 to present)
+  Automated a mobile banking app for a tier-1 government agency in public sector using System Design, Spring Boot and Kubernetes, improving conversion by 35%.
+* HR Tech Customer Onboarding Platform — a US HR software company (2025-03 to 2026-04)
+  Scaled a customer onboarding platform for a US HR software company in HR tech using SQL, Go and GraphQL, reducing processing time by 35%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Engineering Manager

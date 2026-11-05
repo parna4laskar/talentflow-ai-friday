@@ -1,0 +1,32 @@
+DEEPIKA DESHPANDE
+Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11042
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.4 years of experience, based in Gurugram. Strong in TypeScript, JavaScript, React and Design Systems, with recent work in insurance claims. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 2.7y), JavaScript (Proficient, 2.5y), React (Proficient, 1.1y), Next.js (Proficient, 0.8y), GraphQL (Beginner, 0.8y)
+- Product & Design: Design Systems (Proficient, 2.7y), Figma (Working, 1.4y)
+- Delivery & Leadership: Communication (Proficient, 1.8y)
+- Quality Engineering: Playwright (Working, 1.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Claims Processing Engine — a European logistics company (2025-09 to present)
+  Designed a claims processing engine for a European logistics company in supply-chain logistics using React, Design Systems and JavaScript, reducing processing time by 30%.
+* Insurance Claims Payments Microservices Platform — an APAC insurer (2025-01 to 2025-07)
+  Designed a payments microservices platform for an APAC insurer in insurance claims using Next.js, React, Communication and Playwright, accelerating releases by 40%.
+* Supply-chain Logistics Payments Microservices Platform — a US logistics company (2023-10 to 2024-11)
+  Designed a payments microservices platform for a US logistics company in supply-chain logistics using React, JavaScript, GraphQL and Playwright, reducing processing time by 35%.
+* Automotive Payments Microservices Platform — a leading car maker (2023-04 to 2023-09)
+  Automated a payments microservices platform for a leading car maker in automotive using React and Playwright, reducing processing time by 22%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer

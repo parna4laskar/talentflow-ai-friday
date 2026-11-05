@@ -1,0 +1,31 @@
+MAGDALENA ZIELIŃSKI
+Senior Cloud Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP12161
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 9.5 years of experience, based in Kraków. Strong in Azure, Terraform, Linux Administration and CI/CD, with recent work in telecom billing. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Advanced, 3.7y), Terraform (Proficient, 0.5y), Linux Administration (Proficient, 1.1y), CI/CD (Proficient, 3.3y), Platform Engineering (Proficient, 6.7y), Kubernetes (Proficient, 2.3y)
+- Security: Cloud Security (Proficient, 5.3y)
+- Software Engineering: Python (Working, 2.0y)
+
+EXPERIENCE
+* Telecom Billing Cloud Landing Zone — a fast-growing telecom operator (2026-01 to present)
+  Built a cloud landing zone for a fast-growing telecom operator in telecom billing using Terraform, Platform Engineering, CI/CD and Python, cutting cloud spend by 40%.
+* Supply-chain Logistics CI/CD Platform — a fast-growing logistics company (2025-03 to 2025-11)
+  Migrated a CI/CD platform for a fast-growing logistics company in supply-chain logistics using Linux Administration, Kubernetes, Python and Cloud Security, accelerating releases by 30%.
+* Telecom Billing Observability Stack — an APAC telecom operator (2024-02 to 2025-02)
+  Designed an observability stack for an APAC telecom operator in telecom billing using CI/CD and Cloud Security, reducing production incidents by 35%.
+* Telecom Billing Data-centre Exit To Cloud — a leading telecom operator (2023-03 to 2023-12)
+  Built a data-centre exit to cloud for a leading telecom operator in telecom billing using Cloud Security, Azure and Platform Engineering, cutting cloud spend by 35%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Cloud Engineer, Site Reliability Engineer

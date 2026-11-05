@@ -1,0 +1,27 @@
+MANISH CHATTERJEE
+Associate Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP11433
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 0.3 years of experience, based in Pune. Strong in Java, REST API Design, UI Design and Mobile Development, with recent work in automotive. Interested in moving towards Backend Engineer, QA Engineer roles and open to relocating to Hyderabad, London.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 0.3y), REST API Design (Proficient, 0.3y), Mobile Development (Working, 0.3y)
+- Product & Design: UI Design (Proficient, 0.4y)
+- Data & AI: Agentic AI (Working, 0.3y)
+
+EXPERIENCE
+* Automotive Order Management System — a European car maker (2026-05 to present)
+  Led the delivery of an order management system for a European car maker in automotive using REST API Design and Agentic AI, onboarding 2 new enterprise clients.
+* Airline Operations Customer Onboarding Platform — a tier-1 airline (2024-12 to 2026-04)
+  Built a customer onboarding platform for a tier-1 airline in airline operations using Agentic AI and Java, reducing processing time by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, QA Engineer, Full Stack Engineer

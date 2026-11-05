@@ -1,0 +1,32 @@
+TANVI BANERJEE
+Lead Business Analyst | Business Consulting | Pune, India
+Employee ID: EMP11658
+
+PROFESSIONAL SUMMARY
+Lead Business Analyst with 13.6 years of experience, based in Pune. Strong in Requirements Gathering, Communication, Business Analysis and Stakeholder Management, with recent work in insurance claims. Interested in moving towards Business Analyst, Product Manager roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 10.8y), Business Analysis (Proficient, 1.8y)
+- Delivery & Leadership: Communication (Advanced, 12.9y), Stakeholder Management (Proficient, 4.5y), Mentoring (Working, 1.4y)
+- Data & AI: SQL (Proficient, 2.6y), Snowflake (Proficient, 1.3y)
+- Cloud & DevOps: Terraform (Working, 2.9y)
+
+EXPERIENCE
+* Retail Banking Process Re-engineering Initiative — a tier-1 retail bank (2026-08 to present)
+  Delivered a process re-engineering initiative for a tier-1 retail bank in retail banking using Requirements Gathering, Stakeholder Management and Terraform, reducing processing time by 18%.
+* Insurance Claims Core Banking Transformation Programme — a European insurer (2025-12 to 2026-06)
+  Ran a core banking transformation programme for a European insurer in insurance claims using SQL, Communication, Mentoring and Terraform, delivering $3M in cost savings.
+* Telecom Billing Requirements and UAT for a CRM Rollout — a European telecom operator (2025-04 to 2025-12)
+  Coordinated a requirements and UAT for a CRM rollout for a European telecom operator in telecom billing using Mentoring and Communication, delivering on time across 2 workstreams.
+* Insurance Claims Process Re-engineering Initiative — an APAC insurer (2023-11 to 2025-02)
+  Coordinated a process re-engineering initiative for an APAC insurer in insurance claims using Snowflake and Stakeholder Management, reducing processing time by 25%.
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, Product Manager, CRM Consultant

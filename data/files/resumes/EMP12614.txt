@@ -1,0 +1,33 @@
+ABHISHEK MENON
+Senior Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP12614
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 7.1 years of experience, based in Gurugram. Strong in CI/CD, TypeScript, JavaScript and React, with recent work in energy trading. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 4.8y)
+- Software Engineering: TypeScript (Proficient, 4.3y), JavaScript (Proficient, 3.1y), React (Proficient, 4.5y)
+- Product & Design: Figma (Proficient, 2.4y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Energy Trading Pricing Engine — a European energy company (2025-08 to present)
+  Led the delivery of a pricing engine for a European energy company in energy trading using Communication, JavaScript, React and CI/CD, improving conversion by 22%.
+* Wealth Management Payments Microservices Platform — a fast-growing wealth manager (2024-04 to 2025-07)
+  Scaled a payments microservices platform for a fast-growing wealth manager in wealth management using CI/CD, React, Communication and TypeScript, reducing production incidents by 40%.
+* Energy Trading Order Management System — a tier-1 energy company (2023-10 to 2024-03)
+  Re-architected an order management system for a tier-1 energy company in energy trading using React, CI/CD, Figma and Communication, onboarding 4 new enterprise clients.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer

@@ -1,0 +1,30 @@
+AARAV NAIR
+Principal Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10646
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 20.5 years of experience, based in Bengaluru. Strong in REST API Design, SQL, Microservices and CI/CD, with recent work in airline operations. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 11.7y), Microservices (Expert, 18.5y), Java (Advanced, 12.2y), Spring Boot (Advanced, 2.4y), GraphQL (Advanced, 19.1y)
+- Data & AI: SQL (Expert, 13.4y), Agentic AI (Proficient, 13.6y)
+- Cloud & DevOps: CI/CD (Expert, 14.6y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 8.7y), People Leadership (Advanced, 1.4y), Mentoring (Proficient, 4.4y)
+
+EXPERIENCE
+* Airline Operations Order Management System — a fast-growing airline (2026-04 to present)
+  Designed an order management system for a fast-growing airline in airline operations using Java and CI/CD, reducing processing time by 18%.
+* Airline Operations Mobile Banking App — a European airline (2025-02 to 2026-03)
+  Migrated a mobile banking app for a European airline in airline operations using Microservices, Java, REST API Design and Spring Boot, improving conversion by 30%.
+* Payments Claims Processing Engine — a tier-1 payments provider (2024-03 to 2024-11)
+  Migrated a claims processing engine for a tier-1 payments provider in payments using Mentoring, Spring Boot, Java and Agentic AI, reducing processing time by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, AI Engineer, DevOps Engineer

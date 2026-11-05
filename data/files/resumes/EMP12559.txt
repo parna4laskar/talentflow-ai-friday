@@ -1,0 +1,31 @@
+FARHAN KAPOOR
+Senior AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP12559
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 7.5 years of experience, based in Pune. Strong in Generative AI, Python, Responsible AI and Docker, with recent work in airline operations. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Expert, 5.6y), Responsible AI (Proficient, 3.2y), NLP (Proficient, 3.3y), LLM Engineering (Working, 0.6y)
+- Software Engineering: Python (Proficient, 4.9y), REST API Design (Working, 2.1y)
+- Cloud & DevOps: Docker (Proficient, 0.9y), FinOps (Working, 3.1y), Terraform (Beginner, 1.0y)
+
+EXPERIENCE
+* Retail Banking Agentic Customer-service Assistant — an APAC retail bank (2025-12 to present)
+  Migrated an agentic customer-service assistant for an APAC retail bank in retail banking using REST API Design and Generative AI, lifting NPS by 40 points.
+* Supply-chain Logistics Knowledge Assistant (RAG) — a tier-1 logistics company (2025-04 to 2025-12)
+  Scaled a knowledge assistant (RAG) for a tier-1 logistics company in supply-chain logistics using Terraform and REST API Design, lifting NPS by 35 points.
+* Airline Operations Document Intelligence Pipeline — a fast-growing airline (2023-10 to 2025-03)
+  Led the delivery of a document intelligence pipeline for a fast-growing airline in airline operations using Generative AI and FinOps, saving ~30K hours annually.
+* Energy Trading Recommendation Engine — a US energy company (2022-06 to 2023-07)
+  Built a recommendation engine for a US energy company in energy trading using NLP and Terraform, improving model accuracy by 35%.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer

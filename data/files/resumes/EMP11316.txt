@@ -1,0 +1,32 @@
+ABHISHEK PATIL
+Lead Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11316
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 11.2 years of experience, based in Bengaluru. Strong in Java, TypeScript, React and Stakeholder Management, with recent work in healthcare. Interested in moving towards AI Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 1.8y), TypeScript (Advanced, 2.9y), React (Advanced, 3.0y), Microservices (Proficient, 2.3y), Next.js (Proficient, 3.8y)
+- Delivery & Leadership: People Leadership (Expert, 7.6y), Stakeholder Management (Advanced, 5.2y)
+- Data & AI: SQL (Proficient, 6.9y), Data Visualization (Proficient, 5.6y)
+- Cloud & DevOps: Docker (Proficient, 3.0y)
+
+EXPERIENCE
+* Healthcare Claims Processing Engine — a global hospital network (2026-04 to present)
+  Led the delivery of a claims processing engine for a global hospital network in healthcare using Data Visualization, TypeScript, SQL and React, saving ~30K hours annually.
+* Pharma R&D Self-service Portal — a US pharma company (2025-03 to 2026-03)
+  Designed a self-service portal for a US pharma company in pharma R&D using Next.js and React, lifting NPS by 35 points.
+* Public Sector Payments Microservices Platform — a European government agency (2024-05 to 2024-12)
+  Led the delivery of a payments microservices platform for a European government agency in public sector using TypeScript, Docker, Java and Stakeholder Management, accelerating releases by 40%.
+* Healthcare Payments Microservices Platform — a US hospital network (2023-01 to 2024-02)
+  Led the delivery of a payments microservices platform for a US hospital network in healthcare using SQL, React, Docker and Next.js, reducing processing time by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, Mobile Engineer, Frontend Engineer

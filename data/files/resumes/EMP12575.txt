@@ -1,0 +1,32 @@
+HARSH DESHPANDE
+Senior QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP12575
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.3 years of experience, based in Bengaluru. Strong in API Testing, Test Automation, Java and Agile/Scrum, with recent work in pharma R&D. Interested in moving towards Mobile Engineer roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 7.1y), Test Automation (Advanced, 8.3y), Playwright (Proficient, 7.6y), Selenium (Working, 2.7y)
+- Software Engineering: Java (Advanced, 9.6y), Python (Proficient, 7.1y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 3.2y), Communication (Proficient, 4.2y)
+- Data & AI: LLM Engineering (Advanced, 7.5y)
+
+EXPERIENCE
+* Automotive API Contract-testing Suite — a tier-1 car maker (2026-04 to present)
+  Re-architected an API contract-testing suite for a tier-1 car maker in automotive using Test Automation, Communication, Java and API Testing, reducing production incidents by 40%.
+* Pharma R&D Test Automation Framework — a US pharma company (2024-11 to 2026-02)
+  Scaled a test automation framework for a US pharma company in pharma R&D using Communication, Playwright, Agile/Scrum and Selenium, raising automated test coverage to 70%.
+* Pharma R&D API Contract-testing Suite — an APAC pharma company (2023-08 to 2024-11)
+  Built an API contract-testing suite for an APAC pharma company in pharma R&D using Java, Test Automation and Playwright, reducing production incidents by 12%.
+* Manufacturing IoT Test Automation Framework — a leading manufacturer (2022-01 to 2023-05)
+  Migrated a test automation framework for a leading manufacturer in manufacturing IoT using Communication, Test Automation, Playwright and API Testing, accelerating releases by 35%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer

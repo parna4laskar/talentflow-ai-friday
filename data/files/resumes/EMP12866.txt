@@ -1,0 +1,26 @@
+MICHAŁ SZYMAŃSKI
+Associate Mobile Engineer | Engineering | Kraków, Poland
+Employee ID: EMP12866
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 2.5 years of experience, based in Kraków. Strong in Flutter, REST API Design, Mobile Development and TypeScript, with recent work in healthcare. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Flutter (Proficient, 1.6y), REST API Design (Proficient, 1.2y), Mobile Development (Working, 1.1y), TypeScript (Working, 0.3y)
+- Quality Engineering: Test Automation (Beginner, 0.4y)
+
+EXPERIENCE
+* Healthcare Pricing Engine — a European hospital network (2026-09 to present)
+  Built a pricing engine for a European hospital network in healthcare using REST API Design, TypeScript, Test Automation and Mobile Development, reducing processing time by 12%.
+* Telecom Billing Self-service Portal — an APAC telecom operator (2025-06 to 2026-06)
+  Modernised a self-service portal for an APAC telecom operator in telecom billing using Mobile Development, Flutter and Test Automation, lifting NPS by 18 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Backend Engineer

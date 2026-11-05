@@ -1,0 +1,26 @@
+MRUNAL DESHPANDE
+DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12481
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 2.5 years of experience, based in Hyderabad. Strong in GCP, CI/CD, Docker and Terraform, with recent work in manufacturing IoT. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 1.0y), CI/CD (Proficient, 1.5y), Docker (Proficient, 1.1y), Terraform (Proficient, 1.0y), Observability (Proficient, 0.6y), Site Reliability Engineering (Proficient, 1.2y), Kubernetes (Working, 0.6y)
+- Software Engineering: Python (Beginner, 0.5y)
+
+EXPERIENCE
+* Manufacturing IoT Cloud Landing Zone — a fast-growing manufacturer (2025-10 to present)
+  Designed a cloud landing zone for a fast-growing manufacturer in manufacturing IoT using Python and CI/CD, accelerating releases by 25%.
+* Manufacturing IoT Cloud Landing Zone — a US manufacturer (2025-02 to 2025-08)
+  Scaled a cloud landing zone for a US manufacturer in manufacturing IoT using Site Reliability Engineering and Observability, accelerating releases by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer

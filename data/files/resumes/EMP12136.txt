@@ -1,0 +1,33 @@
+GEORGE EVANS
+Senior Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP12136
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 9.5 years of experience, based in London. Strong in Airflow, SQL, Python and Data Engineering, with recent work in insurance claims. Interested in moving towards AI Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: Airflow (Expert, 9.5y), SQL (Advanced, 8.9y), Data Engineering (Advanced, 1.0y), Databricks (Proficient, 4.6y), Data Governance (Proficient, 6.9y), Apache Spark (Working, 3.9y), Snowflake (Working, 4.6y)
+- Software Engineering: Python (Advanced, 0.6y)
+
+EXPERIENCE
+* Energy Trading Regulatory Reporting Suite — a US energy company (2026-08 to present)
+  Built a regulatory reporting suite for a US energy company in energy trading using Snowflake and Python, saving ~30K hours annually.
+* Insurance Claims Data Lakehouse — a global insurer (2025-08 to 2026-06)
+  Designed a data lakehouse for a global insurer in insurance claims using SQL, Apache Spark, Data Engineering and Databricks, reducing processing time by 25%.
+* Manufacturing IoT Regulatory Reporting Suite — a European manufacturer (2025-01 to 2025-08)
+  Automated a regulatory reporting suite for a European manufacturer in manufacturing IoT using Databricks and Data Engineering, reducing processing time by 12%.
+* Energy Trading Real-time Analytics Pipeline — a global energy company (2023-06 to 2024-11)
+  Modernised a real-time analytics pipeline for a global energy company in energy trading using Data Engineering, Python and Snowflake, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, Backend Engineer, Data Analyst

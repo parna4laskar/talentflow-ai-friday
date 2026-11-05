@@ -1,0 +1,33 @@
+DARREN LIM
+Senior Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11025
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 6.7 years of experience, based in Singapore. Strong in C#, .NET Core, CI/CD and REST API Design, with recent work in retail banking. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 3.9y), .NET Core (Advanced, 4.2y), REST API Design (Proficient, 1.7y), Microservices (Proficient, 4.2y), Spring Boot (Working, 1.7y)
+- Cloud & DevOps: CI/CD (Advanced, 1.3y), Kubernetes (Proficient, 4.5y), AWS (Proficient, 2.1y)
+- Data & AI: SQL (Proficient, 3.7y), Data Engineering (Proficient, 1.0y)
+- Delivery & Leadership: Communication (Proficient, 1.1y)
+
+EXPERIENCE
+* Retail Banking Mobile Banking App — a leading retail bank (2026-09 to present)
+  Migrated a mobile banking app for a leading retail bank in retail banking using CI/CD, Data Engineering and Kubernetes, lifting NPS by 22 points.
+* Wealth Management Customer Onboarding Platform — a leading wealth manager (2025-04 to 2026-07)
+  Designed a customer onboarding platform for a leading wealth manager in wealth management using .NET Core, Microservices and Communication, reducing processing time by 18%.
+* Retail Banking Customer Onboarding Platform — a tier-1 retail bank (2024-07 to 2025-01)
+  Designed a customer onboarding platform for a tier-1 retail bank in retail banking using REST API Design and CI/CD, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Engineering Manager

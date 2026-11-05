@@ -1,0 +1,33 @@
+VARUN MURPHY
+Principal Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP10700
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 19.2 years of experience, based in Pune. Strong in Python, Communication, SQL and Data Engineering, with recent work in media streaming. Interested in moving towards Data Scientist, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 19.0y), Kafka (Advanced, 11.9y)
+- Delivery & Leadership: Communication (Expert, 4.5y), Stakeholder Management (Advanced, 12.9y), Mentoring (Proficient, 4.7y)
+- Data & AI: SQL (Advanced, 11.3y), Data Engineering (Advanced, 14.3y), Airflow (Advanced, 7.0y), Snowflake (Advanced, 9.9y), Databricks (Proficient, 13.1y)
+- Cloud & DevOps: AWS (Proficient, 12.6y)
+
+EXPERIENCE
+* Media Streaming Customer Churn Model — a US streaming platform (2026-06 to present)
+  Re-architected a customer churn model for a US streaming platform in media streaming using Mentoring, Kafka and Python, improving model accuracy by 25%.
+* Media Streaming Executive KPI Dashboard Suite — a leading streaming platform (2025-02 to 2026-05)
+  Migrated an executive KPI dashboard suite for a leading streaming platform in media streaming using Airflow, Communication, Databricks and Snowflake, improving forecast accuracy by 25%.
+* Media Streaming Data Lakehouse — a European streaming platform (2023-11 to 2024-12)
+  Migrated a data lakehouse for a European streaming platform in media streaming using Mentoring, Snowflake, Data Engineering and Kafka, cutting cloud spend by 18%.
+
+CERTIFICATIONS
+- SnowPro Core (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, Data Analyst, Backend Engineer

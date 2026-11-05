@@ -1,0 +1,33 @@
+AMELIA WILSON
+Senior Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP11850
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 8.5 years of experience, based in London. Strong in Machine Learning, Python, Statistics and SQL, with recent work in retail banking. Interested in moving towards ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Expert, 8.5y), Statistics (Proficient, 5.0y), SQL (Proficient, 5.1y), MLOps (Proficient, 6.0y), Generative AI (Proficient, 2.9y), Deep Learning (Proficient, 1.2y), Data Visualization (Working, 3.5y)
+- Software Engineering: Python (Advanced, 6.1y)
+- Product & Design: A/B Testing (Proficient, 5.1y)
+- Delivery & Leadership: Communication (Working, 3.6y)
+
+EXPERIENCE
+* Retail Banking Real-time Analytics Pipeline — a global retail bank (2025-12 to present)
+  Automated a real-time analytics pipeline for a global retail bank in retail banking using Communication and A/B Testing, cutting cloud spend by 40%.
+* Telecom Billing Data Lakehouse — a European telecom operator (2024-11 to 2025-11)
+  Led the delivery of a data lakehouse for a European telecom operator in telecom billing using Machine Learning, Generative AI and MLOps, reducing processing time by 30%.
+* Airline Operations Regulatory Reporting Suite — a leading airline (2024-02 to 2024-09)
+  Re-architected a regulatory reporting suite for a leading airline in airline operations using A/B Testing and SQL, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2023)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer

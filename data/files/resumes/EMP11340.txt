@@ -1,0 +1,29 @@
+WILLIAM HUGHES
+Associate Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP11340
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 0 years of experience, based in London. Strong in Data Visualization, Power BI, Statistics and SQL, with recent work in pharma R&D. Interested in moving towards Data Analyst, Product Manager roles and open to relocating to Pune, Toronto, Bengaluru.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 0.5y), Power BI (Proficient, 0.3y), Statistics (Proficient, 0.3y), SQL (Working, 0.3y), Snowflake (Working, 0.3y)
+- Product & Design: A/B Testing (Working, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.3y)
+- Business & Finance: Business Analysis (Beginner, 0.3y)
+- People & Marketing: People Analytics (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Executive KPI Dashboard Suite — a global pharma company (2026-05 to present)
+  Built an executive KPI dashboard suite for a global pharma company in pharma R&D using Stakeholder Management, Snowflake, SQL and Power BI, saving ~40K hours annually.
+* Pharma R&D Data Lakehouse — a US pharma company (2025-10 to 2026-03)
+  Modernised a data lakehouse for a US pharma company in pharma R&D using Stakeholder Management, Data Visualization, Power BI and People Analytics, reducing processing time by 40%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, Product Manager

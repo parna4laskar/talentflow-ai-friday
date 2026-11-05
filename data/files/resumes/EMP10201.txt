@@ -1,0 +1,32 @@
+EOIN KUMAR
+Lead CRM Consultant | Enterprise Applications | Dublin, Ireland
+Employee ID: EMP10201
+
+PROFESSIONAL SUMMARY
+Lead CRM Consultant with 11.9 years of experience, based in Dublin. Strong in Business Analysis, Agile/Scrum, Salesforce and JavaScript, with recent work in airline operations. Interested in moving towards Scrum Master, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 7.8y), Salesforce (Proficient, 5.7y), Requirements Gathering (Proficient, 5.2y), Process Improvement (Working, 4.5y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 1.0y), Program Management (Proficient, 6.9y), Stakeholder Management (Proficient, 0.5y), People Leadership (Proficient, 1.9y)
+- Software Engineering: JavaScript (Proficient, 6.6y)
+- Cloud & DevOps: FinOps (Proficient, 8.2y)
+
+EXPERIENCE
+* Airline Operations ERP Finance Rollout — a fast-growing airline (2025-10 to present)
+  Led the delivery of an ERP finance rollout for a fast-growing airline in airline operations using Agile/Scrum, Salesforce, Business Analysis and Process Improvement, reducing processing time by 25%.
+* Airline Operations ERP Finance Rollout — a leading airline (2024-07 to 2025-10)
+  Modernised an ERP finance rollout for a leading airline in airline operations using Agile/Scrum and Salesforce, reducing processing time by 18%.
+* Airline Operations ERP Finance Rollout — a European airline (2023-03 to 2024-06)
+  Designed an ERP finance rollout for a European airline in airline operations using Stakeholder Management and Requirements Gathering, reducing processing time by 40%.
+* Airline Operations CRM Rollout — a US airline (2022-08 to 2023-01)
+  Modernised a CRM rollout for a US airline in airline operations using Agile/Scrum, Requirements Gathering and Salesforce, improving conversion by 30%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Scrum Master, Business Analyst, Account Manager

@@ -1,0 +1,27 @@
+HARRY THOMAS
+Associate Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11503
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.4 years of experience, based in London. Strong in SQL, Next.js, TypeScript and Node.js, with recent work in pharma R&D. Interested in moving towards Frontend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.9y), Data Engineering (Working, 0.5y)
+- Software Engineering: Next.js (Proficient, 0.9y), TypeScript (Working, 0.5y), Node.js (Working, 0.7y), Angular (Beginner, 0.3y), Microservices (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Working, 0.6y)
+
+EXPERIENCE
+* Pharma R&D Customer Onboarding Platform — an APAC pharma company (2026-02 to present)
+  Built a customer onboarding platform for an APAC pharma company in pharma R&D using Next.js, AWS and Microservices, lifting NPS by 18 points.
+* Pharma R&D Claims Processing Engine — a European pharma company (2025-04 to 2026-02)
+  Migrated a claims processing engine for a European pharma company in pharma R&D using SQL and Microservices, reducing processing time by 22%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Tamil
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, Software Architect, Backend Engineer

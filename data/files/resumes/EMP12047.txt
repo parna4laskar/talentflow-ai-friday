@@ -1,0 +1,27 @@
+DAVID ANDERSON
+Site Reliability Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP12047
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 2.6 years of experience, based in New York. Strong in Site Reliability Engineering, Kubernetes, Linux Administration and AWS, with recent work in public sector. Interested in moving towards Security Engineer, Platform Engineer roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 1.0y), Kubernetes (Advanced, 0.6y), Linux Administration (Proficient, 1.4y), AWS (Proficient, 1.9y), Observability (Working, 0.4y)
+- Software Engineering: Python (Working, 1.0y), Go (Working, 0.9y)
+- Data & AI: Generative AI (Beginner, 0.3y)
+
+EXPERIENCE
+* E-commerce Kubernetes Platform — a global online retailer (2026-04 to present)
+  Automated a Kubernetes platform for a global online retailer in e-commerce using AWS and Kubernetes, reducing production incidents by 40%.
+* Public Sector CI/CD Platform — a US government agency (2024-11 to 2026-02)
+  Built a CI/CD platform for a US government agency in public sector using AWS and Python, accelerating releases by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Security Engineer, Platform Engineer

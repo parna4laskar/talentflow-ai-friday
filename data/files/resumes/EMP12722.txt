@@ -1,0 +1,30 @@
+GRACE BROWN
+Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12722
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.3 years of experience, based in London. Strong in TypeScript, JavaScript, Angular and GraphQL, with recent work in airline operations. Interested in moving towards QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.6y), JavaScript (Proficient, 1.1y), Angular (Proficient, 0.7y), GraphQL (Proficient, 0.8y), Next.js (Working, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 1.3y)
+- Product & Design: Design Systems (Working, 0.8y)
+
+EXPERIENCE
+* Manufacturing IoT Pricing Engine — a global manufacturer (2025-10 to present)
+  Migrated a pricing engine for a global manufacturer in manufacturing IoT using Angular and JavaScript, improving conversion by 18%.
+* Energy Trading Order Management System — a global energy company (2024-06 to 2025-09)
+  Migrated an order management system for a global energy company in energy trading using Design Systems, GraphQL and Next.js, onboarding 2 new enterprise clients.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer

@@ -1,0 +1,29 @@
+JANHAVI KULKARNI
+Senior Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP10018
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 9 years of experience, based in Chennai. Strong in Tableau, SQL, Data Visualization and Business Analysis, with recent work in HR tech. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: Tableau (Advanced, 8.1y), SQL (Proficient, 2.5y), Data Visualization (Proficient, 4.2y), Machine Learning (Working, 1.3y)
+- Business & Finance: Business Analysis (Proficient, 6.3y)
+- Software Engineering: Python (Proficient, 5.5y)
+
+EXPERIENCE
+* HR Tech Real-time Analytics Pipeline — an APAC HR software company (2026-04 to present)
+  Automated a real-time analytics pipeline for an APAC HR software company in HR tech using Machine Learning, SQL, Python and Business Analysis, cutting cloud spend by 18%.
+* Pharma R&D Regulatory Reporting Suite — a global pharma company (2025-06 to 2026-02)
+  Modernised a regulatory reporting suite for a global pharma company in pharma R&D using Data Visualization and Tableau, reducing processing time by 25%.
+* Media Streaming Executive KPI Dashboard Suite — an APAC streaming platform (2024-03 to 2025-05)
+  Led the delivery of an executive KPI dashboard suite for an APAC streaming platform in media streaming using Machine Learning, Tableau, Data Visualization and Python, saving ~25K hours annually.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Business Analyst

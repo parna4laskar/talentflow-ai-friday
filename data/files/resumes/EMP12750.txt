@@ -1,0 +1,35 @@
+LUCAS GAGNON
+Lead Software Architect | Engineering | Toronto, Canada
+Employee ID: EMP12750
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 12 years of experience, based in Toronto. Strong in Azure, System Design, Microservices and Python, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Expert, 9.9y), GCP (Advanced, 8.8y)
+- Software Engineering: System Design (Advanced, 11.3y), Microservices (Advanced, 7.9y), Python (Advanced, 10.5y)
+- Security: Cloud Security (Advanced, 10.0y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 9.4y), Communication (Advanced, 1.3y)
+
+EXPERIENCE
+* Energy Trading Payments Microservices Platform — a tier-1 energy company (2026-06 to present)
+  Built a payments microservices platform for a tier-1 energy company in energy trading using Communication, Cloud Security, Microservices and GCP, accelerating releases by 40%.
+* Supply-chain Logistics Mobile Banking App — a tier-1 logistics company (2025-02 to 2026-05)
+  Re-architected a mobile banking app for a tier-1 logistics company in supply-chain logistics using Microservices and System Design, lifting NPS by 35 points.
+* Supply-chain Logistics Pricing Engine — a fast-growing logistics company (2023-12 to 2024-11)
+  Scaled a pricing engine for a fast-growing logistics company in supply-chain logistics using Microservices, System Design and Communication, improving conversion by 25%.
+* Supply-chain Logistics Mobile Banking App — a leading logistics company (2022-09 to 2023-11)
+  Built a mobile banking app for a leading logistics company in supply-chain logistics using Stakeholder Management and System Design, improving conversion by 22%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2024)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer

@@ -1,0 +1,32 @@
+PAWEŁ KOWALSKI
+Associate Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11385
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 0.1 years of experience, based in Kraków. Strong in SQL, Python, Kubernetes and REST API Design, with recent work in public sector. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.5y)
+- Software Engineering: Python (Proficient, 0.3y), REST API Design (Working, 0.3y), Microservices (Working, 0.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.3y), CI/CD (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Public Sector Pricing Engine — a leading government agency (2026-09 to present)
+  Designed a pricing engine for a leading government agency in public sector using REST API Design and Microservices, improving conversion by 12%.
+* Public Sector Order Management System — an APAC government agency (2025-08 to 2026-07)
+  Led the delivery of an order management system for an APAC government agency in public sector using Kubernetes, CI/CD, SQL and REST API Design, onboarding 8 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Engineering Manager, AI Engineer, DevOps Engineer

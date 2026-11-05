@@ -1,0 +1,32 @@
+ANIRUDH MENON
+Senior Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP12158
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5.4 years of experience, based in Hyderabad. Strong in SQL, Python, Databricks and dbt, with recent work in public sector. Interested in moving towards Data Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 5.1y), Databricks (Advanced, 1.5y), dbt (Advanced, 4.2y), Data Engineering (Proficient, 1.7y), Apache Spark (Proficient, 1.9y), Data Governance (Proficient, 2.3y), Airflow (Proficient, 2.9y)
+- Software Engineering: Python (Advanced, 2.9y)
+- Cloud & DevOps: AWS (Working, 0.9y), Kubernetes (Working, 2.6y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* E-commerce Real-time Analytics Pipeline — a tier-1 online retailer (2026-03 to present)
+  Scaled a real-time analytics pipeline for a tier-1 online retailer in e-commerce using AWS and Databricks, reducing processing time by 18%.
+* Telecom Billing Customer Churn Model — a tier-1 telecom operator (2024-10 to 2026-02)
+  Designed a customer churn model for a tier-1 telecom operator in telecom billing using Communication and SQL, improving conversion by 30%.
+* Public Sector Real-time Analytics Pipeline — a US government agency (2023-05 to 2024-08)
+  Scaled a real-time analytics pipeline for a US government agency in public sector using Airflow, SQL, Data Engineering and Kubernetes, cutting cloud spend by 30%.
+* Public Sector Executive KPI Dashboard Suite — an APAC government agency (2022-06 to 2023-04)
+  Modernised an executive KPI dashboard suite for an APAC government agency in public sector using Airflow, Databricks, Communication and Apache Spark, improving forecast accuracy by 30%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, Data Scientist

@@ -1,0 +1,28 @@
+ASHLEY KIM
+Senior Scrum Master | Delivery Excellence | New York, United States
+Employee ID: EMP12636
+
+PROFESSIONAL SUMMARY
+Senior Scrum Master with 6.6 years of experience, based in New York. Strong in Agile/Scrum, Stakeholder Management, Change Management and Program Management, with recent work in supply-chain logistics. Interested in moving towards Program Manager, Engineering Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Advanced, 5.0y), Stakeholder Management (Advanced, 0.7y), Change Management (Advanced, 2.9y), Program Management (Advanced, 0.8y), Communication (Proficient, 1.1y), Project Management (Proficient, 1.9y), Mentoring (Proficient, 1.3y)
+- Data & AI: Databricks (Working, 2.9y)
+
+EXPERIENCE
+* Supply-chain Logistics Requirements and UAT for a CRM Rollout — a European logistics company (2026-05 to present)
+  Delivered a requirements and UAT for a CRM rollout for a European logistics company in supply-chain logistics using Change Management, Mentoring and Databricks, reducing processing time by 40%.
+* Automotive Process Re-engineering Initiative — a US car maker (2024-11 to 2026-04)
+  Coordinated a process re-engineering initiative for a US car maker in automotive using Program Management, Stakeholder Management and Mentoring, delivering $5M in cost savings.
+* E-commerce Cloud Migration Programme — a US online retailer (2023-10 to 2024-09)
+  Led a cloud migration programme for a US online retailer in e-commerce using Mentoring, Communication and Databricks, delivering on time across 5 workstreams.
+
+EDUCATION
+- B.E. Mechanical
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Program Manager, Engineering Manager

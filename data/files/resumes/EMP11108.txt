@@ -1,0 +1,27 @@
+AVA KIM
+Associate Backend Engineer | Engineering | New York, United States
+Employee ID: EMP11108
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.1 years of experience, based in New York. Strong in SQL, REST API Design, Microservices and Java, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.8y)
+- Software Engineering: REST API Design (Proficient, 0.6y), Microservices (Proficient, 0.7y), Java (Working, 0.3y), .NET Core (Working, 0.4y), GraphQL (Beginner, 0.3y), System Design (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Working, 0.3y), Docker (Working, 0.3y), Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — an APAC logistics company (2026-10 to present)
+  Migrated a pricing engine for an APAC logistics company in supply-chain logistics using SQL and GraphQL, improving conversion by 35%.
+* Supply-chain Logistics Customer Onboarding Platform — a US logistics company (2025-03 to 2026-08)
+  Designed a customer onboarding platform for a US logistics company in supply-chain logistics using Microservices and System Design, improving conversion by 30%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Full Stack Engineer, Engineering Manager, DevOps Engineer

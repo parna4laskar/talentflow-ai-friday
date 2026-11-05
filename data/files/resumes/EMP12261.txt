@@ -1,0 +1,30 @@
+PRASAD KAPOOR
+Associate ML Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP12261
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 0.2 years of experience, based in Pune. Strong in Python, MLOps, Deep Learning and Machine Learning, with recent work in airline operations. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.3y)
+- Data & AI: MLOps (Proficient, 0.3y), Deep Learning (Proficient, 0.3y), Machine Learning (Working, 0.3y), Vector Databases (Working, 0.3y), Databricks (Working, 0.3y), Responsible AI (Working, 0.3y)
+
+EXPERIENCE
+* Airline Operations Agentic Customer-service Assistant — a global airline (2025-08 to present)
+  Migrated an agentic customer-service assistant for a global airline in airline operations using MLOps, Deep Learning and Databricks, saving ~30K hours annually.
+* Airline Operations Knowledge Assistant (RAG) — an APAC airline (2024-03 to 2025-07)
+  Scaled a knowledge assistant (RAG) for an APAC airline in airline operations using Vector Databases, MLOps, Responsible AI and Databricks, saving ~22K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+- AWS ML Specialty (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: ML Engineer, AI Engineer, Platform Engineer

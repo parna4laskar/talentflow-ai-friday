@@ -1,0 +1,32 @@
+KEVIN LEE
+ML Engineer | AI Center of Excellence | Austin, United States
+Employee ID: EMP12757
+
+PROFESSIONAL SUMMARY
+ML Engineer with 3.8 years of experience, based in Austin. Strong in MLOps, Vector Databases, Machine Learning and NLP, with recent work in supply-chain logistics. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Data & AI: MLOps (Advanced, 1.7y), Vector Databases (Advanced, 3.1y), Machine Learning (Proficient, 0.7y), NLP (Proficient, 0.6y), Computer Vision (Proficient, 0.7y), Deep Learning (Working, 0.4y)
+- Software Engineering: Python (Working, 0.6y)
+- Cloud & DevOps: AWS (Working, 0.5y), Docker (Beginner, 0.7y)
+- Delivery & Leadership: Communication (Working, 1.5y)
+
+EXPERIENCE
+* Retail Banking Agentic Customer-service Assistant — a leading retail bank (2026-06 to present)
+  Built an agentic customer-service assistant for a leading retail bank in retail banking using Vector Databases, AWS, Computer Vision and Communication, lifting NPS by 25 points.
+* Supply-chain Logistics Recommendation Engine — a leading logistics company (2025-05 to 2026-06)
+  Designed a recommendation engine for a leading logistics company in supply-chain logistics using Vector Databases, Docker, Computer Vision and Machine Learning, improving conversion by 22%.
+* Airline Operations Knowledge Assistant (RAG) — a US airline (2024-08 to 2025-02)
+  Scaled a knowledge assistant (RAG) for a US airline in airline operations using Computer Vision and Python, saving ~25K hours annually.
+* Supply-chain Logistics Recommendation Engine — an APAC logistics company (2024-01 to 2024-08)
+  Scaled a recommendation engine for an APAC logistics company in supply-chain logistics using Machine Learning, NLP and Docker, improving model accuracy by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Platform Engineer

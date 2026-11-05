@@ -1,0 +1,35 @@
+PIOTR KAMIŃSKI
+Principal Data Analyst | Data & Analytics | Kraków, Poland
+Employee ID: EMP10281
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 19.2 years of experience, based in Kraków. Strong in SQL, Power BI, Data Visualization and Statistics, with recent work in public sector. Interested in moving towards Business Analyst, Financial Analyst roles and open to relocating to Bengaluru, London.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 19.1y), Power BI (Expert, 19.2y), Data Visualization (Advanced, 11.8y), Statistics (Advanced, 1.5y), Snowflake (Proficient, 11.5y), Tableau (Proficient, 4.9y)
+- Business & Finance: Business Analysis (Advanced, 6.7y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 10.4y), People Leadership (Advanced, 3.1y), Mentoring (Proficient, 7.8y)
+- Software Engineering: Python (Proficient, 2.9y)
+
+EXPERIENCE
+* Public Sector Customer Churn Model — a US government agency (2026-05 to present)
+  Designed a customer churn model for a US government agency in public sector using Stakeholder Management, Python, Statistics and Business Analysis, improving model accuracy by 40%.
+* Retail Banking Customer Churn Model — a global retail bank (2025-04 to 2026-04)
+  Scaled a customer churn model for a global retail bank in retail banking using Business Analysis, SQL and Tableau, improving conversion by 22%.
+* Public Sector Customer Churn Model — a fast-growing government agency (2023-11 to 2025-02)
+  Designed a customer churn model for a fast-growing government agency in public sector using Business Analysis, Data Visualization, Python and SQL, improving conversion by 30%.
+* Public Sector Customer Churn Model — a European government agency (2022-11 to 2023-10)
+  Migrated a customer churn model for a European government agency in public sector using Stakeholder Management, Mentoring, Statistics and Python, improving model accuracy by 22%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Business Analyst, Financial Analyst

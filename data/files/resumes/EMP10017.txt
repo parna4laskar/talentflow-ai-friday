@@ -1,0 +1,26 @@
+EMILY WILLIAMS
+Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10017
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.7 years of experience, based in London. Strong in React, Java, SQL and GraphQL, with recent work in public sector. Interested in moving towards Mobile Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: React (Proficient, 0.9y), Java (Proficient, 1.3y), GraphQL (Proficient, 0.4y), TypeScript (Working, 0.9y), REST API Design (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 2.0y), LLM Engineering (Proficient, 1.6y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a European hospital network (2026-11 to present)
+  Modernised a payments microservices platform for a European hospital network in healthcare using SQL, React and GraphQL, accelerating releases by 30%.
+* Public Sector Pricing Engine — an APAC government agency (2026-02 to 2026-10)
+  Re-architected a pricing engine for an APAC government agency in public sector using TypeScript, REST API Design and React, improving conversion by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Mobile Engineer, Software Architect, AI Engineer

@@ -1,0 +1,32 @@
+MARIA LEE
+Associate Backend Engineer | Engineering | New York, United States
+Employee ID: EMP10826
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 3 years of experience, based in New York. Strong in SQL, Java, Microservices and REST API Design, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.6y)
+- Software Engineering: Java (Proficient, 1.6y), Microservices (Proficient, 0.5y), REST API Design (Working, 1.0y), Kafka (Working, 1.4y)
+- Cloud & DevOps: CI/CD (Working, 1.1y), Docker (Beginner, 0.3y), AWS (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Order Management System — a leading manufacturer (2025-10 to present)
+  Led the delivery of an order management system for a leading manufacturer in manufacturing IoT using Java and Kafka, reducing processing time by 22%.
+* HR Tech Order Management System — a leading HR software company (2024-04 to 2025-08)
+  Led the delivery of an order management system for a leading HR software company in HR tech using AWS, Kafka and REST API Design, onboarding 6 new enterprise clients.
+* Manufacturing IoT Order Management System — a US manufacturer (2022-11 to 2024-02)
+  Scaled an order management system for a US manufacturer in manufacturing IoT using REST API Design, Docker, Microservices and Java, onboarding 2 new enterprise clients.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Tamil
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager, Full Stack Engineer

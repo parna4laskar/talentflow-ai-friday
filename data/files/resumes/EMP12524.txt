@@ -1,0 +1,31 @@
+ANDREW NGUYEN
+Principal QA Engineer | Quality Engineering | New York, United States
+Employee ID: EMP12524
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 14.4 years of experience, based in New York. Strong in API Testing, Test Automation, Performance Testing and CI/CD, with recent work in public sector. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 8.7y), Test Automation (Advanced, 2.0y), Performance Testing (Advanced, 13.5y), Playwright (Proficient, 2.4y)
+- Cloud & DevOps: CI/CD (Advanced, 9.0y)
+- Software Engineering: Java (Advanced, 12.4y)
+- Data & AI: MLOps (Advanced, 8.0y), Databricks (Beginner, 3.4y)
+- Delivery & Leadership: Mentoring (Advanced, 12.8y), People Leadership (Advanced, 2.3y), Agile/Scrum (Proficient, 1.9y), Stakeholder Management (Proficient, 1.3y)
+
+EXPERIENCE
+* Manufacturing IoT Performance Engineering Programme — a global manufacturer (2025-11 to present)
+  Scaled a performance engineering programme for a global manufacturer in manufacturing IoT using Databricks and MLOps, accelerating releases by 25%.
+* Public Sector Performance Engineering Programme — a fast-growing government agency (2025-01 to 2025-08)
+  Re-architected a performance engineering programme for a fast-growing government agency in public sector using Performance Testing, Agile/Scrum, CI/CD and Stakeholder Management, reducing production incidents by 12%.
+* Pharma R&D Test Automation Framework — a US pharma company (2023-12 to 2024-12)
+  Re-architected a test automation framework for a US pharma company in pharma R&D using MLOps and Databricks, raising automated test coverage to 90%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer

@@ -1,0 +1,31 @@
+ARVIND MEHTA
+Principal Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10893
+
+PROFESSIONAL SUMMARY
+Principal Frontend Engineer with 22.8 years of experience, based in Bengaluru. Strong in Communication, TypeScript, JavaScript and Angular, with recent work in supply-chain logistics. Interested in moving towards QA Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Expert, 15.8y), Stakeholder Management (Advanced, 1.4y), Mentoring (Proficient, 3.2y)
+- Software Engineering: TypeScript (Advanced, 5.1y), JavaScript (Advanced, 10.5y), Angular (Advanced, 18.1y), GraphQL (Proficient, 7.4y)
+- Product & Design: Figma (Proficient, 6.5y), Design Systems (Working, 4.8y)
+
+EXPERIENCE
+* Automotive Self-service Portal — a leading car maker (2026-05 to present)
+  Re-architected a self-service portal for a leading car maker in automotive using Stakeholder Management and TypeScript, lifting NPS by 30 points.
+* Pharma R&D Order Management System — a global pharma company (2025-06 to 2026-03)
+  Designed an order management system for a global pharma company in pharma R&D using Design Systems and Figma, reducing processing time by 22%.
+* Supply-chain Logistics Order Management System — a tier-1 logistics company (2024-09 to 2025-03)
+  Led the delivery of an order management system for a tier-1 logistics company in supply-chain logistics using Design Systems, Angular, Figma and Mentoring, onboarding 5 new enterprise clients.
+* Pharma R&D Claims Processing Engine — a leading pharma company (2023-01 to 2024-06)
+  Re-architected a claims processing engine for a leading pharma company in pharma R&D using Communication, Figma, Stakeholder Management and Angular, reducing processing time by 40%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, Mobile Engineer, UX Designer

@@ -1,0 +1,33 @@
+PAWEŁ LEWANDOWSKI
+Senior AI Engineer | AI Center of Excellence | Kraków, Poland
+Employee ID: EMP12089
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 9 years of experience, based in Kraków. Strong in Responsible AI, Python, Generative AI and LLM Engineering, with recent work in HR tech. Interested in moving towards ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Responsible AI (Advanced, 1.8y), Generative AI (Proficient, 3.2y), LLM Engineering (Proficient, 4.8y)
+- Software Engineering: Python (Proficient, 3.8y), REST API Design (Proficient, 5.4y)
+
+EXPERIENCE
+* Wealth Management Knowledge Assistant (RAG) — a fast-growing wealth manager (2026-01 to present)
+  Built a knowledge assistant (RAG) for a fast-growing wealth manager in wealth management using REST API Design, Python, LLM Engineering and Responsible AI, saving ~18K hours annually.
+* HR Tech Agentic Customer-service Assistant — a leading HR software company (2024-07 to 2025-10)
+  Built an agentic customer-service assistant for a leading HR software company in HR tech using REST API Design, Generative AI and LLM Engineering, saving ~35K hours annually.
+* HR Tech Knowledge Assistant (RAG) — a leading HR software company (2023-08 to 2024-05)
+  Led the delivery of a knowledge assistant (RAG) for a leading HR software company in HR tech using LLM Engineering, REST API Design, Responsible AI and Python, saving ~25K hours annually.
+* HR Tech Recommendation Engine — a tier-1 HR software company (2022-08 to 2023-06)
+  Led the delivery of a recommendation engine for a tier-1 HR software company in HR tech using Responsible AI and LLM Engineering, improving conversion by 35%.
+
+CERTIFICATIONS
+- Google Generative AI Leader (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: ML Engineer

@@ -1,0 +1,26 @@
+THOMAS KHAN
+Associate Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP11377
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2.2 years of experience, based in London. Strong in Data Visualization, Snowflake, SQL and Power BI, with recent work in insurance claims. Interested in moving towards Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Proficient, 1.5y), Snowflake (Proficient, 0.9y), SQL (Working, 0.4y), Power BI (Working, 0.3y), Statistics (Working, 0.7y), Tableau (Working, 1.1y)
+- Business & Finance: Business Analysis (Working, 1.0y)
+
+EXPERIENCE
+* Insurance Claims Customer Churn Model — an APAC insurer (2026-09 to present)
+  Designed a customer churn model for an APAC insurer in insurance claims using Tableau and Statistics, improving conversion by 18%.
+* Insurance Claims Data Lakehouse — a US insurer (2025-01 to 2026-07)
+  Built a data lakehouse for a US insurer in insurance claims using Business Analysis and Statistics, reducing processing time by 18%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Financial Analyst

@@ -1,0 +1,29 @@
+SURESH HUGHES
+Senior DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11054
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 6.5 years of experience, based in Pune. Strong in Azure, CI/CD, Kubernetes and Terraform, with recent work in supply-chain logistics. Interested in moving towards Site Reliability Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Expert, 1.7y), CI/CD (Advanced, 2.7y), Kubernetes (Advanced, 3.1y), Terraform (Advanced, 4.9y), Observability (Advanced, 5.8y), Docker (Proficient, 1.4y), Linux Administration (Proficient, 1.8y)
+
+EXPERIENCE
+* Supply-chain Logistics Kubernetes Platform — a leading logistics company (2025-07 to present)
+  Designed a Kubernetes platform for a leading logistics company in supply-chain logistics using Linux Administration and Kubernetes, accelerating releases by 30%.
+* Supply-chain Logistics Data-centre Exit To Cloud — a tier-1 logistics company (2024-09 to 2025-06)
+  Automated a data-centre exit to cloud for a tier-1 logistics company in supply-chain logistics using Linux Administration, Kubernetes and Azure, delivering $8M in cost savings.
+* Supply-chain Logistics CI/CD Platform — an APAC logistics company (2023-08 to 2024-07)
+  Automated a CI/CD platform for an APAC logistics company in supply-chain logistics using Observability and Docker, accelerating releases by 18%.
+* Public Sector Observability Stack — an APAC government agency (2021-12 to 2023-05)
+  Re-architected an observability stack for an APAC government agency in public sector using Terraform, Observability, CI/CD and Kubernetes, accelerating releases by 35%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer, Backend Engineer

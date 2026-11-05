@@ -1,0 +1,29 @@
+JANHAVI MALHOTRA
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP10810
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 9.2 years of experience, based in Hyderabad. Strong in C#, GCP, Mentoring and Stakeholder Management, with recent work in supply-chain logistics. Interested in moving towards Cloud Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 3.1y), System Design (Proficient, 1.6y), Microservices (Proficient, 1.0y)
+- Cloud & DevOps: GCP (Advanced, 9.0y)
+- Delivery & Leadership: Mentoring (Advanced, 2.1y), Stakeholder Management (Advanced, 6.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — a leading logistics company (2026-05 to present)
+  Modernised a pricing engine for a leading logistics company in supply-chain logistics using Microservices, GCP and System Design, reducing processing time by 22%.
+* Healthcare Pricing Engine — a US hospital network (2025-04 to 2026-03)
+  Built a pricing engine for a US hospital network in healthcare using C# and Microservices, reducing processing time by 12%.
+* Supply-chain Logistics Customer Onboarding Platform — a fast-growing logistics company (2023-12 to 2025-01)
+  Designed a customer onboarding platform for a fast-growing logistics company in supply-chain logistics using System Design and Stakeholder Management, improving conversion by 12%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Cloud Engineer, Engineering Manager, DevOps Engineer

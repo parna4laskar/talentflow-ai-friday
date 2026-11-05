@@ -1,0 +1,33 @@
+SIMRAN MALHOTRA
+Principal CRM Consultant | Enterprise Applications | Hyderabad, India
+Employee ID: EMP12037
+
+PROFESSIONAL SUMMARY
+Principal CRM Consultant with 20.5 years of experience, based in Hyderabad. Strong in Salesforce, Business Analysis, Requirements Gathering and JavaScript, with recent work in wealth management. Interested in moving towards SAP Consultant roles and open to relocating to Dublin, Gurugram, Toronto.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Expert, 0.7y), Business Analysis (Expert, 10.1y), Requirements Gathering (Advanced, 17.5y), Process Improvement (Proficient, 3.5y)
+- Software Engineering: JavaScript (Proficient, 1.2y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 9.0y), Communication (Proficient, 0.8y)
+
+EXPERIENCE
+* Wealth Management CRM Rollout — a US wealth manager (2025-05 to present)
+  Modernised a CRM rollout for a US wealth manager in wealth management using Communication, JavaScript and Requirements Gathering, reducing processing time by 25%.
+* Wealth Management ERP Finance Rollout — a global wealth manager (2023-11 to 2025-03)
+  Designed an ERP finance rollout for a global wealth manager in wealth management using Communication and Process Improvement, saving ~18K hours annually.
+* Pharma R&D CRM Rollout — a global pharma company (2022-10 to 2023-08)
+  Migrated a CRM rollout for a global pharma company in pharma R&D using Requirements Gathering, Communication and Process Improvement, improving conversion by 18%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2026)
+- ServiceNow CSA (2022)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: SAP Consultant

@@ -1,0 +1,34 @@
+MATTHEW KIM
+Principal Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP10246
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 16.7 years of experience, based in Austin. Strong in Microservices, CI/CD, REST API Design and Spring Boot, with recent work in public sector. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 16.6y), REST API Design (Advanced, 16.6y), Spring Boot (Advanced, 10.6y), System Design (Proficient, 3.4y), Go (Working, 3.5y)
+- Cloud & DevOps: CI/CD (Expert, 1.1y), Kubernetes (Advanced, 16.5y), Docker (Advanced, 4.5y), Terraform (Advanced, 5.8y)
+- Delivery & Leadership: Mentoring (Advanced, 15.5y), Communication (Advanced, 16.0y), Stakeholder Management (Proficient, 10.4y)
+- Data & AI: SQL (Proficient, 3.4y)
+
+EXPERIENCE
+* E-commerce Customer Onboarding Platform — a tier-1 online retailer (2025-11 to present)
+  Led the delivery of a customer onboarding platform for a tier-1 online retailer in e-commerce using Mentoring, Stakeholder Management and Kubernetes, reducing processing time by 22%.
+* Public Sector Self-service Portal — an APAC government agency (2024-06 to 2025-09)
+  Led the delivery of a self-service portal for an APAC government agency in public sector using Communication and SQL, lifting NPS by 35 points.
+* Public Sector Order Management System — a fast-growing government agency (2023-04 to 2024-04)
+  Modernised an order management system for a fast-growing government agency in public sector using Mentoring, CI/CD, SQL and Go, onboarding 3 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, AI Engineer, DevOps Engineer

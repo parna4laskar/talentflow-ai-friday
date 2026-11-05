@@ -1,0 +1,30 @@
+LAKSHMI KRISHNAN
+Senior Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12486
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.1 years of experience, based in Hyderabad. Strong in Figma, TypeScript, JavaScript and Angular, with recent work in healthcare. Interested in moving towards Full Stack Engineer, QA Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Product & Design: Figma (Advanced, 3.2y), Design Systems (Proficient, 1.8y)
+- Software Engineering: TypeScript (Proficient, 5.2y), JavaScript (Proficient, 2.0y), Angular (Proficient, 3.2y)
+- Quality Engineering: Playwright (Proficient, 3.7y)
+- Data & AI: Responsible AI (Working, 1.7y)
+
+EXPERIENCE
+* Healthcare Customer Onboarding Platform — a European hospital network (2025-09 to present)
+  Re-architected a customer onboarding platform for a European hospital network in healthcare using Responsible AI, Design Systems, Playwright and Figma, improving conversion by 35%.
+* Media Streaming Pricing Engine — a fast-growing streaming platform (2024-12 to 2025-07)
+  Automated a pricing engine for a fast-growing streaming platform in media streaming using Design Systems, Angular and Figma, reducing processing time by 18%.
+* Retail Banking Mobile Banking App — a fast-growing retail bank (2023-10 to 2024-11)
+  Modernised a mobile banking app for a fast-growing retail bank in retail banking using Design Systems and TypeScript, lifting NPS by 25 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, QA Engineer

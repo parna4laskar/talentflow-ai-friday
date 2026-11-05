@@ -1,0 +1,33 @@
+KEISHA ANDERSON
+Senior Frontend Engineer | Engineering | Austin, United States
+Employee ID: EMP10790
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.2 years of experience, based in Austin. Strong in TypeScript, JavaScript, React and Playwright, with recent work in telecom billing. Interested in moving towards QA Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 6.1y), JavaScript (Advanced, 1.6y), React (Advanced, 6.4y), Node.js (Proficient, 3.0y), GraphQL (Working, 1.2y), Next.js (Working, 3.9y)
+- Quality Engineering: Playwright (Advanced, 1.6y)
+- Product & Design: Design Systems (Proficient, 4.0y), Figma (Proficient, 4.9y)
+- Delivery & Leadership: Communication (Working, 2.5y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a European logistics company (2026-04 to present)
+  Led the delivery of a payments microservices platform for a European logistics company in supply-chain logistics using TypeScript, Node.js, Figma and React, reducing production incidents by 30%.
+* Retail Banking Self-service Portal — a tier-1 retail bank (2024-11 to 2026-02)
+  Automated a self-service portal for a tier-1 retail bank in retail banking using GraphQL and Design Systems, lifting NPS by 35 points.
+* HR Tech Customer Onboarding Platform — an APAC HR software company (2023-10 to 2024-10)
+  Modernised a customer onboarding platform for an APAC HR software company in HR tech using Node.js and Next.js, lifting NPS by 30 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer, Full Stack Engineer

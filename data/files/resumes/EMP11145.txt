@@ -1,0 +1,35 @@
+PAWEŁ LIM
+Lead Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11145
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 8.4 years of experience, based in Kraków. Strong in Python, REST API Design, Microservices and Stakeholder Management, with recent work in e-commerce. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 3.7y), REST API Design (Expert, 2.3y), Microservices (Expert, 4.1y), Kafka (Advanced, 2.1y), System Design (Advanced, 8.3y), Spring Boot (Proficient, 4.0y)
+- Delivery & Leadership: Stakeholder Management (Expert, 4.2y), Mentoring (Advanced, 2.8y), Communication (Proficient, 4.0y)
+- Cloud & DevOps: Docker (Advanced, 4.0y), Kubernetes (Proficient, 5.6y)
+- Data & AI: SQL (Proficient, 1.4y), Databricks (Proficient, 6.0y)
+
+EXPERIENCE
+* E-commerce Customer Onboarding Platform — a fast-growing online retailer (2026-08 to present)
+  Scaled a customer onboarding platform for a fast-growing online retailer in e-commerce using Kubernetes, Microservices, Stakeholder Management and Mentoring, improving conversion by 12%.
+* E-commerce Mobile Banking App — a US online retailer (2025-08 to 2026-05)
+  Designed a mobile banking app for a US online retailer in e-commerce using Microservices and Mentoring, lifting NPS by 22 points.
+* Energy Trading Customer Onboarding Platform — an APAC energy company (2025-01 to 2025-07)
+  Scaled a customer onboarding platform for an APAC energy company in energy trading using Stakeholder Management, Mentoring and Kafka, improving conversion by 30%.
+* E-commerce Mobile Banking App — a European online retailer (2023-07 to 2024-11)
+  Automated a mobile banking app for a European online retailer in e-commerce using Spring Boot and Databricks, improving conversion by 25%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer

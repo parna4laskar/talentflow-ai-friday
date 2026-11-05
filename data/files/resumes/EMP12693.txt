@@ -1,0 +1,30 @@
+RITESH RAO
+Lead Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP12693
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 15.4 years of experience, based in Bengaluru. Strong in Python, Machine Learning, SQL and NLP, with recent work in telecom billing. Interested in moving towards Data Scientist, Data Analyst roles and open to relocating to Dublin, Austin, Toronto.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 10.7y)
+- Data & AI: Machine Learning (Advanced, 10.1y), SQL (Advanced, 12.3y), NLP (Advanced, 2.6y), Statistics (Proficient, 0.5y), Apache Spark (Proficient, 5.5y), Generative AI (Proficient, 2.4y), Deep Learning (Working, 3.0y)
+- Product & Design: A/B Testing (Advanced, 10.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 11.5y), People Leadership (Advanced, 4.9y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a global telecom operator (2026-04 to present)
+  Modernised an executive KPI dashboard suite for a global telecom operator in telecom billing using Python and Stakeholder Management, improving forecast accuracy by 12%.
+* Payments Data Lakehouse — a fast-growing payments provider (2025-01 to 2026-03)
+  Scaled a data lakehouse for a fast-growing payments provider in payments using SQL, Statistics and Apache Spark, cutting cloud spend by 18%.
+* Media Streaming Regulatory Reporting Suite — a fast-growing streaming platform (2024-02 to 2024-11)
+  Automated a regulatory reporting suite for a fast-growing streaming platform in media streaming using Generative AI, Statistics, Stakeholder Management and SQL, reducing processing time by 30%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Scientist, Data Analyst, ML Engineer, AI Engineer

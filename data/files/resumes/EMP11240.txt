@@ -1,0 +1,31 @@
+TANVI DESHPANDE
+Security Engineer | Cyber Security | Bengaluru, India
+Employee ID: EMP11240
+
+PROFESSIONAL SUMMARY
+Security Engineer with 4.9 years of experience, based in Bengaluru. Strong in Kubernetes, Application Security, Threat Modeling and Identity & Access Management, with recent work in energy trading. Interested in moving towards Security Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 2.3y), AWS (Working, 1.9y)
+- Security: Application Security (Proficient, 3.2y), Threat Modeling (Proficient, 1.3y), Identity & Access Management (Proficient, 0.8y)
+- Data & AI: Agentic AI (Working, 1.6y)
+
+EXPERIENCE
+* Energy Trading Identity and Access Platform — a global energy company (2026-04 to present)
+  Automated an identity and access platform for a global energy company in energy trading using AWS, Identity & Access Management and Agentic AI, closing 22% of open audit findings.
+* Wealth Management Security Operations Centre Uplift — a European wealth manager (2024-10 to 2026-03)
+  Scaled a security operations centre uplift for a European wealth manager in wealth management using Kubernetes, Agentic AI, Identity & Access Management and Application Security, closing 12% of open audit findings.
+* Payments Security Operations Centre Uplift — an APAC payments provider (2023-07 to 2024-09)
+  Modernised a security operations centre uplift for an APAC payments provider in payments using Kubernetes and Application Security, reducing production incidents by 25%.
+* Pharma R&D Secure SDLC Rollout — a tier-1 pharma company (2022-11 to 2023-06)
+  Migrated a secure SDLC rollout for a tier-1 pharma company in pharma R&D using Threat Modeling, Kubernetes, Identity & Access Management and AWS, reducing production incidents by 18%.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Security Engineer, Site Reliability Engineer, Software Architect

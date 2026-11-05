@@ -1,0 +1,32 @@
+GAURAV JADHAV
+Senior AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP11357
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 6.4 years of experience, based in Chennai. Strong in Python, Generative AI, LLM Engineering and Docker, with recent work in insurance claims. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 2.7y), REST API Design (Proficient, 1.4y)
+- Data & AI: Generative AI (Proficient, 1.5y), LLM Engineering (Proficient, 3.6y), Vector Databases (Working, 1.8y)
+- Cloud & DevOps: Docker (Proficient, 0.9y)
+
+EXPERIENCE
+* Telecom Billing Fraud Detection Model — a leading telecom operator (2026-09 to present)
+  Re-architected a fraud detection model for a leading telecom operator in telecom billing using LLM Engineering, Generative AI and Python, reducing processing time by 25%.
+* Insurance Claims Recommendation Engine — a leading insurer (2025-06 to 2026-07)
+  Built a recommendation engine for a leading insurer in insurance claims using Python and Docker, improving conversion by 12%.
+* Insurance Claims Agentic Customer-service Assistant — a US insurer (2024-09 to 2025-05)
+  Scaled an agentic customer-service assistant for a US insurer in insurance claims using Docker, LLM Engineering, Vector Databases and REST API Design, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Google Generative AI Leader (2026)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer

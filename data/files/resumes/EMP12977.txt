@@ -1,0 +1,35 @@
+JUN HAO CHUA
+Senior Financial Analyst | Finance | Singapore, Singapore
+Employee ID: EMP12977
+
+PROFESSIONAL SUMMARY
+Senior Financial Analyst with 8.6 years of experience, based in Singapore. Strong in FP&A, Power BI, Financial Analysis and Financial Modeling, with recent work in wealth management. Interested in moving towards Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: FP&A (Expert, 6.5y), Financial Analysis (Proficient, 5.4y), Financial Modeling (Proficient, 1.9y), SAP FICO (Proficient, 2.6y), Risk Management (Proficient, 6.2y)
+- Data & AI: Power BI (Advanced, 2.6y), SQL (Beginner, 1.4y)
+- Delivery & Leadership: Stakeholder Management (Working, 2.3y)
+- Cloud & DevOps: Terraform (Working, 0.3y)
+
+EXPERIENCE
+* Automotive Rolling Forecasting Model — a global car maker (2026-03 to present)
+  Led a rolling forecasting model for a global car maker in automotive using Power BI, FP&A, Risk Management and Financial Analysis, saving ~25K hours annually.
+* Energy Trading Regulatory Capital Reporting — a fast-growing energy company (2024-10 to 2025-12)
+  Redesigned a regulatory capital reporting for a fast-growing energy company in energy trading using Power BI, SQL, SAP FICO and Financial Modeling, reducing processing time by 22%.
+* Supply-chain Logistics Regulatory Capital Reporting — a tier-1 logistics company (2023-09 to 2024-09)
+  Owned a regulatory capital reporting for a tier-1 logistics company in supply-chain logistics using Risk Management and SAP FICO, closing 22% of open audit findings.
+* Wealth Management Regulatory Capital Reporting — an APAC wealth manager (2022-03 to 2023-09)
+  Redesigned a regulatory capital reporting for an APAC wealth manager in wealth management using Financial Analysis, SQL and Financial Modeling, reducing processing time by 12%.
+
+CERTIFICATIONS
+- CFA Level II (2025)
+
+EDUCATION
+- Chartered Accountant
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst

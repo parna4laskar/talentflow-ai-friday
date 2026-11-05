@@ -1,0 +1,32 @@
+HARINI VERMA
+Principal Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP11046
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 15.2 years of experience, based in Pune. Strong in Angular, Node.js, SQL and Next.js, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 1.6y), Node.js (Expert, 4.5y), Next.js (Expert, 3.0y), TypeScript (Advanced, 14.9y), GraphQL (Advanced, 3.4y), Microservices (Proficient, 8.3y), System Design (Proficient, 9.1y)
+- Data & AI: SQL (Expert, 2.7y)
+- Cloud & DevOps: Docker (Advanced, 3.2y), AWS (Advanced, 12.5y), FinOps (Working, 2.6y)
+- Delivery & Leadership: Communication (Advanced, 4.4y), People Leadership (Advanced, 3.4y), Stakeholder Management (Proficient, 1.5y), Mentoring (Working, 7.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Claims Processing Engine — a fast-growing logistics company (2026-05 to present)
+  Led the delivery of a claims processing engine for a fast-growing logistics company in supply-chain logistics using System Design and Stakeholder Management, saving ~35K hours annually.
+* Supply-chain Logistics Pricing Engine — a US logistics company (2025-03 to 2026-02)
+  Migrated a pricing engine for a US logistics company in supply-chain logistics using Angular, TypeScript and Docker, reducing processing time by 25%.
+* Supply-chain Logistics Payments Microservices Platform — a US logistics company (2024-02 to 2024-12)
+  Migrated a payments microservices platform for a US logistics company in supply-chain logistics using Mentoring, Angular, FinOps and SQL, accelerating releases by 25%.
+* Airline Operations Self-service Portal — a tier-1 airline (2023-04 to 2024-01)
+  Automated a self-service portal for a tier-1 airline in airline operations using Angular, Communication and GraphQL, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer

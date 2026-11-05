@@ -1,0 +1,36 @@
+RITESH RAO
+Lead QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10395
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 13.1 years of experience, based in Bengaluru. Strong in Communication, Test Automation, Selenium and API Testing, with recent work in airline operations. Interested in moving towards DevOps Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Expert, 3.9y), Agile/Scrum (Advanced, 3.5y), Stakeholder Management (Proficient, 6.0y)
+- Quality Engineering: Test Automation (Advanced, 3.6y), Selenium (Advanced, 0.6y), API Testing (Advanced, 9.0y)
+- Data & AI: SQL (Proficient, 1.6y)
+- Cloud & DevOps: CI/CD (Proficient, 1.6y)
+- Software Engineering: Java (Working, 5.5y)
+
+EXPERIENCE
+* Airline Operations Performance Engineering Programme — a US airline (2026-12 to present)
+  Re-architected a performance engineering programme for a US airline in airline operations using Selenium, Agile/Scrum, API Testing and Stakeholder Management, reducing production incidents by 22%.
+* Supply-chain Logistics API Contract-testing Suite — a global logistics company (2026-03 to 2026-09)
+  Re-architected an API contract-testing suite for a global logistics company in supply-chain logistics using Agile/Scrum, Java and Test Automation, raising automated test coverage to 70%.
+* Airline Operations Performance Engineering Programme — a global airline (2024-09 to 2026-01)
+  Led the delivery of a performance engineering programme for a global airline in airline operations using SQL, Agile/Scrum, Communication and Selenium, accelerating releases by 35%.
+* E-commerce Test Automation Framework — a fast-growing online retailer (2023-05 to 2024-07)
+  Re-architected a test automation framework for a fast-growing online retailer in e-commerce using Java, CI/CD and API Testing, accelerating releases by 18%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2022)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, Full Stack Engineer

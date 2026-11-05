@@ -1,0 +1,28 @@
+GRACE BROWN
+Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP10953
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.2 years of experience, based in London. Strong in Data Engineering, SQL, Python and Airflow, with recent work in healthcare. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 3.0y), SQL (Proficient, 1.1y), Airflow (Proficient, 1.1y)
+- Software Engineering: Python (Proficient, 2.2y), Kafka (Working, 0.5y)
+
+EXPERIENCE
+* Healthcare Customer Churn Model — a leading hospital network (2025-07 to present)
+  Modernised a customer churn model for a leading hospital network in healthcare using Data Engineering and Kafka, improving conversion by 25%.
+* Public Sector Real-time Analytics Pipeline — a leading government agency (2024-01 to 2025-05)
+  Re-architected a real-time analytics pipeline for a leading government agency in public sector using Data Engineering, Python, Kafka and Airflow, reducing processing time by 30%.
+* Healthcare Executive KPI Dashboard Suite — a fast-growing hospital network (2023-03 to 2023-12)
+  Re-architected an executive KPI dashboard suite for a fast-growing hospital network in healthcare using Kafka, Airflow, SQL and Data Engineering, saving ~35K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Engineer, Data Analyst, Data Scientist, ML Engineer

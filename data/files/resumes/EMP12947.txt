@@ -1,0 +1,33 @@
+ABHISHEK SINGH
+Lead Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP12947
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 10 years of experience, based in Pune. Strong in TypeScript, JavaScript, Angular and Next.js, with recent work in media streaming. Interested in moving towards Frontend Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 3.4y), JavaScript (Expert, 9.8y), Angular (Expert, 1.7y), Next.js (Advanced, 1.7y), Node.js (Proficient, 6.1y), GraphQL (Proficient, 1.1y)
+- Quality Engineering: Playwright (Proficient, 0.8y)
+- Product & Design: Design Systems (Proficient, 7.0y), Figma (Proficient, 1.1y)
+- Delivery & Leadership: Communication (Proficient, 7.1y)
+
+EXPERIENCE
+* Retail Banking Mobile Banking App — a European retail bank (2025-09 to present)
+  Re-architected a mobile banking app for a European retail bank in retail banking using GraphQL, Figma, Next.js and JavaScript, lifting NPS by 18 points.
+* Insurance Claims Order Management System — a fast-growing insurer (2024-11 to 2025-07)
+  Built an order management system for a fast-growing insurer in insurance claims using Playwright and Figma, reducing processing time by 40%.
+* Pharma R&D Customer Onboarding Platform — a global pharma company (2024-04 to 2024-09)
+  Automated a customer onboarding platform for a global pharma company in pharma R&D using Communication and Next.js, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2021)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, UX Designer

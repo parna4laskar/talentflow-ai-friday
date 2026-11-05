@@ -1,0 +1,27 @@
+ANDREW NGUYEN
+Data Engineer | Data & Analytics | Austin, United States
+Employee ID: EMP12657
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.7 years of experience, based in Austin. Strong in Apache Spark, SQL, Python and Data Engineering, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Apache Spark (Advanced, 2.3y), SQL (Proficient, 1.6y), Data Engineering (Proficient, 0.5y), Snowflake (Working, 1.0y)
+- Software Engineering: Python (Proficient, 1.1y), Kafka (Working, 1.0y)
+- Cloud & DevOps: AWS (Proficient, 0.5y)
+
+EXPERIENCE
+* Insurance Claims Regulatory Reporting Suite — a leading insurer (2025-09 to present)
+  Re-architected a regulatory reporting suite for a leading insurer in insurance claims using Python, Apache Spark, Kafka and Snowflake, saving ~12K hours annually.
+* Retail Banking Regulatory Reporting Suite — a US retail bank (2025-03 to 2025-08)
+  Designed a regulatory reporting suite for a US retail bank in retail banking using Kafka, SQL and Snowflake, saving ~25K hours annually.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Data Analyst, AI Engineer

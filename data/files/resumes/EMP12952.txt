@@ -1,0 +1,31 @@
+PARNA JADHAV
+Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP12952
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.1 years of experience, based in Gurugram. Strong in SQL, REST API Design, TypeScript and React, with recent work in e-commerce. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 3.3y), LLM Engineering (Working, 1.9y)
+- Software Engineering: REST API Design (Proficient, 0.6y), TypeScript (Working, 1.6y), React (Working, 0.8y), Java (Working, 1.7y), Microservices (Working, 2.1y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* Public Sector Claims Processing Engine — a global government agency (2026-03 to present)
+  Built a claims processing engine for a global government agency in public sector using React, LLM Engineering and REST API Design, reducing processing time by 40%.
+* E-commerce Self-service Portal — a European online retailer (2025-02 to 2025-12)
+  Re-architected a self-service portal for a European online retailer in e-commerce using LLM Engineering and Communication, lifting NPS by 35 points.
+* Manufacturing IoT Self-service Portal — a global manufacturer (2023-10 to 2025-02)
+  Scaled a self-service portal for a global manufacturer in manufacturing IoT using Java, REST API Design, Communication and LLM Engineering, saving ~18K hours annually.
+* Pharma R&D Customer Onboarding Platform — an APAC pharma company (2023-01 to 2023-08)
+  Migrated a customer onboarding platform for an APAC pharma company in pharma R&D using React and TypeScript, improving conversion by 40%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Software Architect, Backend Engineer, Mobile Engineer

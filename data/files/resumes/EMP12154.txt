@@ -1,0 +1,28 @@
+KUNAL GOKHALE
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12154
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.4 years of experience, based in Bengaluru. Strong in SQL, Microservices, REST API Design and Kubernetes, with recent work in payments. Interested in moving towards Full Stack Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.8y)
+- Software Engineering: Microservices (Advanced, 0.6y), REST API Design (Proficient, 1.0y), Java (Working, 0.9y), Kafka (Working, 1.1y), GraphQL (Beginner, 0.5y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.0y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — a fast-growing manufacturer (2026-08 to present)
+  Built a claims processing engine for a fast-growing manufacturer in manufacturing IoT using Kafka, Kubernetes and REST API Design, saving ~35K hours annually.
+* Payments Pricing Engine — a tier-1 payments provider (2025-01 to 2026-07)
+  Migrated a pricing engine for a tier-1 payments provider in payments using Kafka, Java and Microservices, improving conversion by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer, Engineering Manager

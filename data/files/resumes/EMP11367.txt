@@ -1,0 +1,31 @@
+SARAH KULKARNI
+AI Engineer | AI Center of Excellence | Toronto, Canada
+Employee ID: EMP11367
+
+PROFESSIONAL SUMMARY
+AI Engineer with 5.1 years of experience, based in Toronto. Strong in Generative AI, Agentic AI, Python and LLM Engineering, with recent work in retail banking. Interested in moving towards Data Scientist, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Advanced, 2.3y), Agentic AI (Advanced, 2.6y), LLM Engineering (Proficient, 2.2y), NLP (Working, 1.4y)
+- Software Engineering: Python (Proficient, 1.2y)
+- Cloud & DevOps: Azure (Proficient, 0.8y), Docker (Working, 1.3y), AWS (Working, 0.9y)
+
+EXPERIENCE
+* Retail Banking Document Intelligence Pipeline — a European retail bank (2026-05 to present)
+  Scaled a document intelligence pipeline for a European retail bank in retail banking using AWS, Generative AI, Docker and NLP, reducing processing time by 30%.
+* Healthcare Knowledge Assistant (RAG) — an APAC hospital network (2025-07 to 2026-03)
+  Built a knowledge assistant (RAG) for an APAC hospital network in healthcare using Azure, NLP and Docker, lifting NPS by 30 points.
+* Retail Banking Fraud Detection Model — a fast-growing retail bank (2024-08 to 2025-05)
+  Built a fraud detection model for a fast-growing retail bank in retail banking using Agentic AI, LLM Engineering, Docker and Generative AI, improving model accuracy by 18%.
+* Retail Banking Knowledge Assistant (RAG) — a tier-1 retail bank (2023-06 to 2024-06)
+  Re-architected a knowledge assistant (RAG) for a tier-1 retail bank in retail banking using Azure, Agentic AI, AWS and Generative AI, saving ~12K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist, DevOps Engineer, Full Stack Engineer

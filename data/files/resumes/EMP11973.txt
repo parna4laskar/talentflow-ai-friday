@@ -1,0 +1,27 @@
+DARREN NG
+Associate Business Analyst | Business Consulting | Singapore, Singapore
+Employee ID: EMP11973
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 1.6 years of experience, based in Singapore. Strong in Business Analysis, Salesforce, Requirements Gathering and Stakeholder Management, with recent work in payments. Interested in moving towards Product Manager, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 1.0y), Salesforce (Proficient, 1.1y), Requirements Gathering (Working, 0.6y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.3y), Communication (Working, 0.3y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* Media Streaming Core Banking Transformation Programme — a European streaming platform (2026-08 to present)
+  Delivered a core banking transformation programme for a European streaming platform in media streaming using Kubernetes and Requirements Gathering, delivering $2M in cost savings.
+* Payments Agile Transformation — an APAC payments provider (2025-09 to 2026-07)
+  Delivered an agile transformation for an APAC payments provider in payments using Stakeholder Management and Requirements Gathering, delivering on time across 3 workstreams.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager, Scrum Master, CRM Consultant

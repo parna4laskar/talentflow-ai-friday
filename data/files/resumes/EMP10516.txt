@@ -1,0 +1,33 @@
+CHLOE BROWN
+Lead Mobile Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10516
+
+PROFESSIONAL SUMMARY
+Lead Mobile Engineer with 12.9 years of experience, based in London. Strong in TypeScript, Mentoring, Mobile Development and Flutter, with recent work in HR tech. Interested in moving towards Mobile Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 9.5y), Mobile Development (Proficient, 2.0y), Flutter (Proficient, 3.3y)
+- Delivery & Leadership: Mentoring (Advanced, 10.3y), People Leadership (Advanced, 1.5y), Stakeholder Management (Proficient, 7.3y), Communication (Proficient, 8.4y)
+- Cloud & DevOps: CI/CD (Proficient, 4.9y)
+- Quality Engineering: Test Automation (Working, 4.0y)
+- Data & AI: Machine Learning (Working, 1.7y)
+
+EXPERIENCE
+* HR Tech Order Management System — a US HR software company (2026-03 to present)
+  Automated an order management system for a US HR software company in HR tech using Mentoring, Mobile Development and Stakeholder Management, reducing processing time by 18%.
+* Payments Claims Processing Engine — a global payments provider (2024-08 to 2026-01)
+  Designed a claims processing engine for a global payments provider in payments using Mobile Development and Mentoring, saving ~12K hours annually.
+* Telecom Billing Customer Onboarding Platform — a global telecom operator (2024-02 to 2024-07)
+  Modernised a customer onboarding platform for a global telecom operator in telecom billing using Machine Learning, CI/CD, Flutter and Stakeholder Management, reducing processing time by 30%.
+* HR Tech Customer Onboarding Platform — a fast-growing HR software company (2022-06 to 2023-12)
+  Migrated a customer onboarding platform for a fast-growing HR software company in HR tech using TypeScript, Test Automation, Stakeholder Management and Mentoring, improving conversion by 12%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer, Frontend Engineer

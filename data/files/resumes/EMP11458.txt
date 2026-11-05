@@ -1,0 +1,28 @@
+XIN YI KUMAR
+Lead CRM Consultant | Enterprise Applications | Singapore, Singapore
+Employee ID: EMP11458
+
+PROFESSIONAL SUMMARY
+Lead CRM Consultant with 13.2 years of experience, based in Singapore. Strong in Salesforce, Mentoring, Stakeholder Management and Business Analysis, with recent work in media streaming. Interested in moving towards Business Analyst, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 8.6y), Business Analysis (Proficient, 1.6y), Requirements Gathering (Proficient, 8.9y), ServiceNow (Working, 4.3y)
+- Delivery & Leadership: Mentoring (Advanced, 12.1y), Stakeholder Management (Advanced, 9.2y), People Leadership (Advanced, 4.6y), Agile/Scrum (Proficient, 4.9y)
+
+EXPERIENCE
+* Media Streaming CRM Rollout — a European streaming platform (2026-03 to present)
+  Designed a CRM rollout for a European streaming platform in media streaming using ServiceNow, Mentoring, Business Analysis and Stakeholder Management, improving conversion by 40%.
+* Supply-chain Logistics ERP Finance Rollout — a European logistics company (2025-03 to 2026-01)
+  Built an ERP finance rollout for a European logistics company in supply-chain logistics using ServiceNow, Requirements Gathering, Agile/Scrum and Stakeholder Management, saving ~12K hours annually.
+* Airline Operations CRM Rollout — a European airline (2023-06 to 2024-12)
+  Migrated a CRM rollout for a European airline in airline operations using Stakeholder Management, Agile/Scrum and ServiceNow, reducing processing time by 35%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, Account Manager, Scrum Master

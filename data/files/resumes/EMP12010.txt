@@ -1,0 +1,33 @@
+GEORGE PATEL
+Senior Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12010
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 8.9 years of experience, based in London. Strong in SQL, React, Node.js and Microservices, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to Kraków, Chennai.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 8.8y), Snowflake (Beginner, 1.3y)
+- Software Engineering: React (Advanced, 5.0y), Node.js (Advanced, 0.9y), Microservices (Advanced, 2.4y), TypeScript (Working, 1.8y), Next.js (Working, 3.4y)
+- Cloud & DevOps: FinOps (Proficient, 1.2y)
+- Delivery & Leadership: Communication (Working, 3.8y)
+
+EXPERIENCE
+* Public Sector Pricing Engine — an APAC government agency (2026-08 to present)
+  Automated a pricing engine for an APAC government agency in public sector using TypeScript and SQL, improving conversion by 35%.
+* Energy Trading Claims Processing Engine — a tier-1 energy company (2025-08 to 2026-07)
+  Migrated a claims processing engine for a tier-1 energy company in energy trading using Snowflake and FinOps, reducing processing time by 30%.
+* Manufacturing IoT Claims Processing Engine — an APAC manufacturer (2024-12 to 2025-07)
+  Modernised a claims processing engine for an APAC manufacturer in manufacturing IoT using Communication, React, Next.js and TypeScript, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Software Architect, AI Engineer, Frontend Engineer

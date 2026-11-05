@@ -1,0 +1,34 @@
+SIDDHARTH REDDY
+Principal CRM Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP12176
+
+PROFESSIONAL SUMMARY
+Principal CRM Consultant with 13.9 years of experience, based in Pune. Strong in Salesforce, Business Analysis, JavaScript and Requirements Gathering, with recent work in airline operations. Interested in moving towards CRM Consultant, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Expert, 13.9y), Business Analysis (Advanced, 1.5y), Requirements Gathering (Advanced, 4.8y)
+- Software Engineering: JavaScript (Advanced, 9.9y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 9.6y), Agile/Scrum (Proficient, 4.5y), Communication (Proficient, 5.5y)
+
+EXPERIENCE
+* Payments ERP Finance Rollout — a European payments provider (2025-10 to present)
+  Led the delivery of an ERP finance rollout for a European payments provider in payments using Stakeholder Management, Business Analysis, Communication and Agile/Scrum, saving ~12K hours annually.
+* Healthcare ERP Finance Rollout — a global hospital network (2024-08 to 2025-09)
+  Scaled an ERP finance rollout for a global hospital network in healthcare using Business Analysis, Requirements Gathering, Stakeholder Management and Communication, reducing processing time by 22%.
+* Airline Operations CRM Rollout — a US airline (2023-07 to 2024-06)
+  Led the delivery of a CRM rollout for a US airline in airline operations using JavaScript, Requirements Gathering, Business Analysis and Salesforce, reducing processing time by 35%.
+* Airline Operations ERP Finance Rollout — a fast-growing airline (2022-10 to 2023-06)
+  Built an ERP finance rollout for a fast-growing airline in airline operations using Communication, Business Analysis and JavaScript, saving ~35K hours annually.
+
+CERTIFICATIONS
+- ServiceNow CSA (2026)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: CRM Consultant, Account Manager

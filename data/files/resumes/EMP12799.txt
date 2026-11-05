@@ -1,0 +1,36 @@
+MIA CHEN
+Lead Backend Engineer | Engineering | New York, United States
+Employee ID: EMP12799
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 11 years of experience, based in New York. Strong in REST API Design, SQL, C# and Microservices, with recent work in energy trading. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to Austin.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 1.4y), C# (Advanced, 6.0y), Microservices (Advanced, 7.7y), System Design (Advanced, 1.9y), Spring Boot (Working, 1.8y)
+- Data & AI: SQL (Expert, 6.4y)
+- Cloud & DevOps: CI/CD (Advanced, 1.4y)
+- Delivery & Leadership: Mentoring (Proficient, 5.0y), Communication (Proficient, 8.1y)
+
+EXPERIENCE
+* Airline Operations Self-service Portal — a US airline (2026-04 to present)
+  Migrated a self-service portal for a US airline in airline operations using Communication, REST API Design and System Design, saving ~35K hours annually.
+* Energy Trading Pricing Engine — a tier-1 energy company (2025-05 to 2026-02)
+  Migrated a pricing engine for a tier-1 energy company in energy trading using System Design, Microservices and C#, reducing processing time by 25%.
+* Energy Trading Order Management System — a leading energy company (2024-03 to 2025-03)
+  Scaled an order management system for a leading energy company in energy trading using Spring Boot, Communication and Microservices, onboarding 5 new enterprise clients.
+* Energy Trading Claims Processing Engine — a leading energy company (2022-07 to 2024-01)
+  Automated a claims processing engine for a leading energy company in energy trading using Spring Boot, SQL and CI/CD, saving ~18K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Software Architect

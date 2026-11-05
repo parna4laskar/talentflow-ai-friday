@@ -1,0 +1,33 @@
+MRUNAL AGARWAL
+Senior DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10543
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 10.6 years of experience, based in Bengaluru. Strong in Docker, CI/CD, Kubernetes and Azure, with recent work in supply-chain logistics. Interested in moving towards Platform Engineer, Backend Engineer roles and open to relocating to Pune, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 4.6y), CI/CD (Proficient, 4.2y), Kubernetes (Proficient, 7.5y), Azure (Proficient, 7.4y), Linux Administration (Proficient, 1.2y), Terraform (Working, 3.6y)
+- Software Engineering: Python (Working, 3.9y)
+
+EXPERIENCE
+* E-commerce Observability Stack — a tier-1 online retailer (2026-07 to present)
+  Modernised an observability stack for a tier-1 online retailer in e-commerce using Docker, CI/CD, Kubernetes and Azure, reducing production incidents by 22%.
+* Supply-chain Logistics CI/CD Platform — a European logistics company (2025-01 to 2026-04)
+  Led the delivery of a CI/CD platform for a European logistics company in supply-chain logistics using CI/CD, Kubernetes, Azure and Terraform, accelerating releases by 12%.
+* Supply-chain Logistics Data-centre Exit To Cloud — an APAC logistics company (2024-03 to 2024-12)
+  Scaled a data-centre exit to cloud for an APAC logistics company in supply-chain logistics using Kubernetes and Azure, delivering $5M in cost savings.
+* Supply-chain Logistics Observability Stack — a leading logistics company (2023-04 to 2024-01)
+  Scaled an observability stack for a leading logistics company in supply-chain logistics using Python, Linux Administration and Terraform, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer, Backend Engineer

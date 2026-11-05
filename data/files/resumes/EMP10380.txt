@@ -1,0 +1,30 @@
+NATALIA KOWALSKI
+Lead Security Analyst | Cyber Security | Kraków, Poland
+Employee ID: EMP10380
+
+PROFESSIONAL SUMMARY
+Lead Security Analyst with 15.4 years of experience, based in Kraków. Strong in Incident Response, SIEM, Cloud Security and Threat Modeling, with recent work in e-commerce. Interested in moving towards Security Engineer, Cloud Engineer roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Security: Incident Response (Expert, 15.4y), SIEM (Advanced, 5.7y), Cloud Security (Advanced, 8.0y), Threat Modeling (Proficient, 3.0y), Application Security (Proficient, 5.9y)
+- Cloud & DevOps: FinOps (Proficient, 1.2y)
+
+EXPERIENCE
+* Payments Secure SDLC Rollout — a US payments provider (2025-10 to present)
+  Scaled a secure SDLC rollout for a US payments provider in payments using Threat Modeling, SIEM and Application Security, accelerating releases by 30%.
+* Payments Identity and Access Platform — a fast-growing payments provider (2025-02 to 2025-09)
+  Designed an identity and access platform for a fast-growing payments provider in payments using SIEM, Application Security, Threat Modeling and Incident Response, reducing production incidents by 30%.
+* E-commerce Secure SDLC Rollout — a leading online retailer (2023-12 to 2024-12)
+  Scaled a secure SDLC rollout for a leading online retailer in e-commerce using Cloud Security and FinOps, accelerating releases by 12%.
+* E-commerce Security Operations Centre Uplift — an APAC online retailer (2022-11 to 2023-11)
+  Automated a security operations centre uplift for an APAC online retailer in e-commerce using Incident Response, FinOps and Threat Modeling, closing 25% of open audit findings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Security Engineer, Cloud Engineer

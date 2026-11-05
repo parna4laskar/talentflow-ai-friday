@@ -1,0 +1,29 @@
+PRIYA TAN
+Associate QA Engineer | Quality Engineering | Chennai, India
+Employee ID: EMP11103
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 0.5 years of experience, based in Chennai. Strong in Playwright, API Testing, Java and Test Automation, with recent work in supply-chain logistics. Interested in moving towards Engineering Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Proficient, 0.4y), API Testing (Proficient, 0.4y), Test Automation (Working, 0.3y), Performance Testing (Working, 0.3y)
+- Software Engineering: Java (Proficient, 0.4y)
+- Cloud & DevOps: CI/CD (Working, 0.3y)
+- Data & AI: SQL (Working, 0.3y)
+- Delivery & Leadership: Agile/Scrum (Working, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics API Contract-testing Suite — an APAC logistics company (2026-04 to present)
+  Automated an API contract-testing suite for an APAC logistics company in supply-chain logistics using Agile/Scrum, Test Automation, SQL and Java, raising automated test coverage to 80%.
+* Supply-chain Logistics Test Automation Framework — a leading logistics company (2025-02 to 2026-01)
+  Built a test automation framework for a leading logistics company in supply-chain logistics using SQL, Playwright, Java and Test Automation, accelerating releases by 35%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Backend Engineer, Mobile Engineer

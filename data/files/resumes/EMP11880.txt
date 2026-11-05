@@ -1,0 +1,29 @@
+SAURABH NAIR
+Senior Business Analyst | Business Consulting | Gurugram, India
+Employee ID: EMP11880
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 5 years of experience, based in Gurugram. Strong in Requirements Gathering, Communication, Tableau and Business Analysis, with recent work in e-commerce. Interested in moving towards Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 3.0y), Business Analysis (Proficient, 0.5y), Salesforce (Proficient, 2.9y)
+- Delivery & Leadership: Communication (Advanced, 3.6y), Stakeholder Management (Proficient, 3.7y), Agile/Scrum (Proficient, 1.3y)
+- Data & AI: Tableau (Advanced, 1.4y), Power BI (Proficient, 2.2y), SQL (Proficient, 0.8y)
+
+EXPERIENCE
+* E-commerce Requirements and UAT for a CRM Rollout — a US online retailer (2025-09 to present)
+  Led a requirements and UAT for a CRM rollout for a US online retailer in e-commerce using Stakeholder Management, Tableau, Agile/Scrum and Communication, delivering on time across 4 workstreams.
+* E-commerce Cloud Migration Programme — a European online retailer (2024-07 to 2025-06)
+  Coordinated a cloud migration programme for a European online retailer in e-commerce using Requirements Gathering, SQL and Stakeholder Management, delivering on time across 5 workstreams.
+* Public Sector Cloud Migration Programme — a global government agency (2023-12 to 2024-06)
+  Led a cloud migration programme for a global government agency in public sector using Power BI and SQL, cutting cloud spend by 40%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Account Manager

@@ -1,0 +1,29 @@
+JAMES WALKER
+Senior AI Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP10256
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 10.8 years of experience, based in London. Strong in Generative AI, LLM Engineering, Vector Databases and Azure, with recent work in public sector. Interested in moving towards DevOps Engineer, ML Engineer roles and open to relocating to New York, Toronto, Singapore.
+
+CORE SKILLS
+- Data & AI: Generative AI (Proficient, 5.6y), LLM Engineering (Proficient, 6.1y), Vector Databases (Proficient, 1.0y)
+- Cloud & DevOps: Azure (Proficient, 7.5y), Docker (Proficient, 4.4y)
+- Software Engineering: REST API Design (Proficient, 3.5y), Python (Working, 2.0y)
+
+EXPERIENCE
+* Public Sector Recommendation Engine — a global government agency (2026-04 to present)
+  Designed a recommendation engine for a global government agency in public sector using Python, LLM Engineering, Generative AI and Docker, improving conversion by 18%.
+* Public Sector Fraud Detection Model — a tier-1 government agency (2024-09 to 2026-01)
+  Migrated a fraud detection model for a tier-1 government agency in public sector using Azure, REST API Design, Python and Docker, reducing processing time by 22%.
+* Public Sector Knowledge Assistant (RAG) — a leading government agency (2023-03 to 2024-08)
+  Re-architected a knowledge assistant (RAG) for a leading government agency in public sector using Docker and Azure, saving ~12K hours annually.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, ML Engineer, Full Stack Engineer

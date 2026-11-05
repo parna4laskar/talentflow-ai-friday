@@ -1,0 +1,32 @@
+SIDDHARTH HEGDE
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12267
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 9.8 years of experience, based in Pune. Strong in Go, REST API Design, SQL and .NET Core, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer, Software Architect roles and open to relocating to Gurugram, Austin, Kraków.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 1.5y), REST API Design (Advanced, 4.0y), .NET Core (Advanced, 9.2y), GraphQL (Advanced, 6.9y), Microservices (Proficient, 4.4y), Kafka (Proficient, 5.3y)
+- Data & AI: SQL (Advanced, 6.0y)
+- Cloud & DevOps: CI/CD (Advanced, 9.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Self-service Portal — a European logistics company (2025-11 to present)
+  Built a self-service portal for a European logistics company in supply-chain logistics using .NET Core and GraphQL, saving ~35K hours annually.
+* Supply-chain Logistics Claims Processing Engine — a European logistics company (2025-04 to 2025-09)
+  Re-architected a claims processing engine for a European logistics company in supply-chain logistics using REST API Design and CI/CD, reducing processing time by 12%.
+* Supply-chain Logistics Payments Microservices Platform — a US logistics company (2024-03 to 2025-03)
+  Re-architected a payments microservices platform for a US logistics company in supply-chain logistics using GraphQL and Microservices, reducing processing time by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Software Architect, Engineering Manager

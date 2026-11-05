@@ -1,0 +1,35 @@
+OWEN TREMBLAY
+Senior Data Analyst | Data & Analytics | Toronto, Canada
+Employee ID: EMP12793
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 7.2 years of experience, based in Toronto. Strong in Data Visualization, Tableau, Statistics and Stakeholder Management, with recent work in public sector. Interested in moving towards Data Analyst, Data Scientist roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 1.6y), Tableau (Advanced, 5.0y), Statistics (Advanced, 5.6y), Snowflake (Proficient, 1.6y), SQL (Working, 0.6y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.3y)
+- Software Engineering: Python (Proficient, 2.0y)
+
+EXPERIENCE
+* Public Sector Customer Churn Model — a fast-growing government agency (2026-01 to present)
+  Automated a customer churn model for a fast-growing government agency in public sector using Stakeholder Management, Statistics, Tableau and Python, improving conversion by 35%.
+* Telecom Billing Data Lakehouse — a leading telecom operator (2024-12 to 2025-10)
+  Migrated a data lakehouse for a leading telecom operator in telecom billing using Snowflake, Statistics, Data Visualization and Tableau, cutting cloud spend by 22%.
+* Public Sector Executive KPI Dashboard Suite — a fast-growing government agency (2024-02 to 2024-10)
+  Modernised an executive KPI dashboard suite for a fast-growing government agency in public sector using SQL, Data Visualization, Python and Stakeholder Management, improving forecast accuracy by 40%.
+* Public Sector Executive KPI Dashboard Suite — a fast-growing government agency (2023-01 to 2023-12)
+  Modernised an executive KPI dashboard suite for a fast-growing government agency in public sector using Data Visualization and SQL, improving forecast accuracy by 35%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2025)
+- Tableau Desktop Specialist (2024)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, French, Telugu
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Analyst, Data Scientist, Business Analyst

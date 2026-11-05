@@ -1,0 +1,26 @@
+PRIYA ANDERSON
+Associate Cloud Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP10060
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2.9 years of experience, based in London. Strong in AWS, Terraform, Linux Administration and FinOps, with recent work in public sector. Interested in moving towards Site Reliability Engineer, Platform Engineer roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Proficient, 1.3y), Terraform (Proficient, 0.9y), Linux Administration (Proficient, 0.9y), FinOps (Proficient, 1.2y), Platform Engineering (Proficient, 0.9y), CI/CD (Working, 1.1y), Kubernetes (Beginner, 0.6y)
+- Security: Cloud Security (Working, 0.7y)
+
+EXPERIENCE
+* Payments CI/CD Platform — a global payments provider (2026-01 to present)
+  Led the delivery of a CI/CD platform for a global payments provider in payments using Terraform and Linux Administration, accelerating releases by 25%.
+* Public Sector Kubernetes Platform — a US government agency (2024-12 to 2025-11)
+  Automated a Kubernetes platform for a US government agency in public sector using Cloud Security and Linux Administration, accelerating releases by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, Platform Engineer, DevOps Engineer

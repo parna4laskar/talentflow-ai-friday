@@ -1,0 +1,27 @@
+VIVEK MENON
+Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP11608
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.5 years of experience, based in Pune. Strong in Node.js, Microservices, TypeScript and Angular, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Advanced, 2.3y), Microservices (Advanced, 0.6y), TypeScript (Proficient, 1.6y), Angular (Proficient, 1.0y), GraphQL (Proficient, 1.0y), REST API Design (Working, 0.8y)
+- Data & AI: SQL (Proficient, 1.4y), Agentic AI (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Proficient, 1.0y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Onboarding Platform — a US manufacturer (2026-12 to present)
+  Designed a customer onboarding platform for a US manufacturer in manufacturing IoT using AWS and TypeScript, improving conversion by 35%.
+* Manufacturing IoT Claims Processing Engine — a global manufacturer (2025-10 to 2026-12)
+  Led the delivery of a claims processing engine for a global manufacturer in manufacturing IoT using SQL, Microservices, Node.js and GraphQL, saving ~35K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, Software Architect, Mobile Engineer

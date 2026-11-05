@@ -1,0 +1,32 @@
+KUNAL MUKHERJEE
+Senior Site Reliability Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11165
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 7 years of experience, based in Bengaluru. Strong in Observability, Kubernetes, Linux Administration and Terraform, with recent work in supply-chain logistics. Interested in moving towards Cloud Engineer, Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Expert, 4.3y), Kubernetes (Advanced, 6.6y), Linux Administration (Advanced, 1.4y), Terraform (Advanced, 1.0y), Site Reliability Engineering (Working, 1.0y), AWS (Working, 1.5y), Platform Engineering (Working, 1.0y)
+- Delivery & Leadership: Communication (Advanced, 1.0y)
+- Software Engineering: Go (Proficient, 4.2y), Python (Working, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Cloud Landing Zone — a global logistics company (2025-09 to present)
+  Designed a cloud landing zone for a global logistics company in supply-chain logistics using AWS, Go and Observability, accelerating releases by 18%.
+* Supply-chain Logistics CI/CD Platform — a tier-1 logistics company (2024-12 to 2025-08)
+  Re-architected a CI/CD platform for a tier-1 logistics company in supply-chain logistics using Terraform, Linux Administration and Platform Engineering, accelerating releases by 12%.
+* Supply-chain Logistics Data-centre Exit To Cloud — an APAC logistics company (2024-01 to 2024-09)
+  Built a data-centre exit to cloud for an APAC logistics company in supply-chain logistics using Observability, Kubernetes, Python and Communication, delivering $6M in cost savings.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, Security Engineer, Platform Engineer

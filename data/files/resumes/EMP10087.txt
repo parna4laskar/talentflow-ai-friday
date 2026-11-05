@@ -1,0 +1,31 @@
+KATARZYNA WÓJCIK
+Lead SAP Consultant | Enterprise Applications | Kraków, Poland
+Employee ID: EMP10087
+
+PROFESSIONAL SUMMARY
+Lead SAP Consultant with 8.7 years of experience, based in Kraków. Strong in SAP S/4HANA, Business Analysis, Process Improvement and Requirements Gathering, with recent work in wealth management. Interested in moving towards SAP Consultant, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP S/4HANA (Expert, 4.7y), Business Analysis (Proficient, 3.8y), Process Improvement (Proficient, 6.0y), Requirements Gathering (Proficient, 2.1y), Financial Analysis (Proficient, 5.8y)
+- Data & AI: Databricks (Proficient, 3.1y)
+- Delivery & Leadership: Mentoring (Proficient, 2.5y)
+
+EXPERIENCE
+* Wealth Management CRM Rollout — a fast-growing wealth manager (2025-07 to present)
+  Scaled a CRM rollout for a fast-growing wealth manager in wealth management using Mentoring and Business Analysis, reducing processing time by 25%.
+* Wealth Management CRM Rollout — an APAC wealth manager (2024-08 to 2025-04)
+  Re-architected a CRM rollout for an APAC wealth manager in wealth management using Mentoring, Databricks, Business Analysis and Requirements Gathering, improving conversion by 30%.
+* Pharma R&D CRM Rollout — a leading pharma company (2023-10 to 2024-05)
+  Scaled a CRM rollout for a leading pharma company in pharma R&D using Databricks, SAP S/4HANA and Requirements Gathering, improving conversion by 40%.
+* Wealth Management CRM Rollout — a European wealth manager (2022-08 to 2023-08)
+  Scaled a CRM rollout for a European wealth manager in wealth management using Databricks, Financial Analysis, Requirements Gathering and Process Improvement, improving conversion by 35%.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: SAP Consultant, Risk & Compliance Analyst, Business Analyst, Financial Analyst

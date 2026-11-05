@@ -1,0 +1,33 @@
+WILLIAM THOMAS
+Lead Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11577
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 8.9 years of experience, based in London. Strong in C#, REST API Design, SQL and Microservices, with recent work in public sector. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 8.2y), REST API Design (Expert, 4.4y), Microservices (Advanced, 4.6y), Spring Boot (Advanced, 2.2y)
+- Data & AI: SQL (Advanced, 3.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 8.2y), People Leadership (Advanced, 1.9y), Mentoring (Proficient, 1.1y)
+- Cloud & DevOps: Kubernetes (Proficient, 6.0y), AWS (Proficient, 3.0y), Platform Engineering (Proficient, 4.0y)
+
+EXPERIENCE
+* Public Sector Payments Microservices Platform — a tier-1 government agency (2026-01 to present)
+  Migrated a payments microservices platform for a tier-1 government agency in public sector using AWS and SQL, reducing processing time by 35%.
+* Automotive Pricing Engine — a US car maker (2025-03 to 2025-12)
+  Scaled a pricing engine for a US car maker in automotive using C#, SQL and AWS, reducing processing time by 22%.
+* Public Sector Mobile Banking App — a fast-growing government agency (2024-04 to 2025-01)
+  Modernised a mobile banking app for a fast-growing government agency in public sector using Spring Boot and REST API Design, lifting NPS by 18 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer

@@ -1,0 +1,34 @@
+HARRY KHAN
+Principal Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP12594
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 21.9 years of experience, based in London. Strong in Tableau, SQL, Data Visualization and Statistics, with recent work in automotive. Interested in moving towards Financial Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Tableau (Expert, 14.4y), SQL (Advanced, 12.7y), Data Visualization (Advanced, 10.8y), Statistics (Advanced, 9.5y), Deep Learning (Proficient, 14.2y)
+- Delivery & Leadership: Mentoring (Advanced, 13.9y), People Leadership (Advanced, 1.6y), Stakeholder Management (Proficient, 1.2y)
+- Business & Finance: Business Analysis (Proficient, 9.2y)
+
+EXPERIENCE
+* Retail Banking Customer Churn Model — a European retail bank (2025-09 to present)
+  Designed a customer churn model for a European retail bank in retail banking using SQL and Statistics, improving conversion by 40%.
+* Automotive Customer Churn Model — a fast-growing car maker (2025-01 to 2025-09)
+  Automated a customer churn model for a fast-growing car maker in automotive using Deep Learning, Business Analysis and Data Visualization, improving conversion by 30%.
+* Automotive Customer Churn Model — a US car maker (2024-04 to 2024-12)
+  Built a customer churn model for a US car maker in automotive using Statistics, SQL and Data Visualization, improving conversion by 18%.
+* Automotive Real-time Analytics Pipeline — a US car maker (2023-08 to 2024-02)
+  Migrated a real-time analytics pipeline for a US car maker in automotive using SQL and Statistics, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Financial Analyst, Data Scientist, Product Manager

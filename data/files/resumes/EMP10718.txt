@@ -1,0 +1,32 @@
+ISHITA KAUR
+Lead Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10718
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 11.9 years of experience, based in Bengaluru. Strong in Python, REST API Design, Microservices and Kafka, with recent work in telecom billing. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 7.9y), REST API Design (Expert, 11.0y), Microservices (Advanced, 11.0y), Kafka (Advanced, 7.3y)
+- Cloud & DevOps: CI/CD (Advanced, 1.6y), Docker (Proficient, 3.0y)
+- Data & AI: Data Engineering (Advanced, 5.0y), SQL (Proficient, 7.6y), MLOps (Working, 2.1y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 7.8y), People Leadership (Proficient, 1.4y)
+
+EXPERIENCE
+* Payments Self-service Portal — a fast-growing payments provider (2026-05 to present)
+  Built a self-service portal for a fast-growing payments provider in payments using Docker, CI/CD, Data Engineering and REST API Design, lifting NPS by 18 points.
+* Manufacturing IoT Self-service Portal — a European manufacturer (2025-08 to 2026-02)
+  Scaled a self-service portal for a European manufacturer in manufacturing IoT using Docker and Kafka, saving ~30K hours annually.
+* Wealth Management Claims Processing Engine — a leading wealth manager (2024-01 to 2025-06)
+  Built a claims processing engine for a leading wealth manager in wealth management using Microservices, Python, REST API Design and Kafka, saving ~22K hours annually.
+* Telecom Billing Payments Microservices Platform — a fast-growing telecom operator (2023-07 to 2023-12)
+  Scaled a payments microservices platform for a fast-growing telecom operator in telecom billing using SQL, CI/CD, Microservices and REST API Design, reducing production incidents by 25%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, AI Engineer

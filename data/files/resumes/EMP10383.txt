@@ -1,0 +1,33 @@
+SAURABH KAPOOR
+Senior Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10383
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10 years of experience, based in Bengaluru. Strong in REST API Design, Microservices, Python and GraphQL, with recent work in HR tech. Interested in moving towards Software Architect, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 1.1y), Microservices (Expert, 5.3y), Python (Advanced, 8.9y), GraphQL (Advanced, 9.2y), Kafka (Proficient, 3.2y)
+- Data & AI: SQL (Proficient, 1.0y), Data Engineering (Working, 3.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — a fast-growing logistics company (2026-03 to present)
+  Led the delivery of a pricing engine for a fast-growing logistics company in supply-chain logistics using Kafka, GraphQL, Data Engineering and REST API Design, reducing processing time by 25%.
+* Manufacturing IoT Mobile Banking App — a US manufacturer (2024-09 to 2026-02)
+  Led the delivery of a mobile banking app for a US manufacturer in manufacturing IoT using Data Engineering and SQL, improving conversion by 35%.
+* HR Tech Customer Onboarding Platform — an APAC HR software company (2024-02 to 2024-08)
+  Designed a customer onboarding platform for an APAC HR software company in HR tech using SQL and Data Engineering, lifting NPS by 30 points.
+* HR Tech Customer Onboarding Platform — an APAC HR software company (2022-08 to 2023-11)
+  Modernised a customer onboarding platform for an APAC HR software company in HR tech using REST API Design and GraphQL, reducing processing time by 22%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect, Engineering Manager

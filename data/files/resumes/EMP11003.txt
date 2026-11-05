@@ -1,0 +1,29 @@
+KEVIN RODRIGUEZ
+Lead Engineering Manager | Engineering | New York, United States
+Employee ID: EMP11003
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 15.7 years of experience, based in New York. Strong in People Leadership, Agile/Scrum, AWS and System Design, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 2.5y), Agile/Scrum (Expert, 15.7y), Stakeholder Management (Advanced, 3.4y), Communication (Proficient, 9.4y), Mentoring (Proficient, 10.5y)
+- Cloud & DevOps: AWS (Expert, 6.4y)
+- Software Engineering: System Design (Advanced, 7.2y), Microservices (Advanced, 6.5y), Java (Proficient, 7.9y)
+
+EXPERIENCE
+* Insurance Claims Order Management System — a US insurer (2025-10 to present)
+  Built an order management system for a US insurer in insurance claims using People Leadership, Java, Stakeholder Management and Agile/Scrum, reducing processing time by 25%.
+* Pharma R&D Mobile Banking App — a tier-1 pharma company (2025-03 to 2025-09)
+  Automated a mobile banking app for a tier-1 pharma company in pharma R&D using Microservices, Java, System Design and Stakeholder Management, lifting NPS by 18 points.
+* Automotive Customer Onboarding Platform — a global car maker (2023-12 to 2025-03)
+  Built a customer onboarding platform for a global car maker in automotive using Microservices and People Leadership, reducing processing time by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Engineering Manager, Software Architect, Backend Engineer

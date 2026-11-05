@@ -1,0 +1,30 @@
+AHMAD CHUA
+Site Reliability Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP10593
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 3.1 years of experience, based in Singapore. Strong in Site Reliability Engineering, Kubernetes, Linux Administration and Observability, with recent work in healthcare. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles and open to relocating to New York, Hyderabad, Kraków.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Expert, 3.1y), Kubernetes (Proficient, 1.9y), Linux Administration (Proficient, 1.2y), Observability (Working, 1.2y), Terraform (Working, 0.3y)
+- Quality Engineering: Performance Testing (Working, 1.0y)
+- Software Engineering: Go (Working, 0.4y)
+- Security: Incident Response (Working, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Kubernetes Platform — a global telecom operator (2026-05 to present)
+  Led the delivery of a Kubernetes platform for a global telecom operator in telecom billing using Go, Linux Administration and Kubernetes, accelerating releases by 18%.
+* Healthcare CI/CD Platform — a tier-1 hospital network (2025-01 to 2026-04)
+  Migrated a CI/CD platform for a tier-1 hospital network in healthcare using Kubernetes, Linux Administration and Performance Testing, accelerating releases by 35%.
+* Airline Operations Observability Stack — a fast-growing airline (2023-05 to 2024-10)
+  Re-architected an observability stack for a fast-growing airline in airline operations using Linux Administration, Terraform, Performance Testing and Observability, reducing production incidents by 25%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Mandarin, Marathi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer, Cloud Engineer, Security Engineer

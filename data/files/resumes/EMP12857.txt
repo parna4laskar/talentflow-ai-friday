@@ -1,0 +1,32 @@
+WILLIAM SMITH
+Lead Site Reliability Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12857
+
+PROFESSIONAL SUMMARY
+Lead Site Reliability Engineer with 14.7 years of experience, based in London. Strong in Site Reliability Engineering, Observability, Communication and Kubernetes, with recent work in energy trading. Interested in moving towards DevOps Engineer, Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Expert, 14.7y), Observability (Expert, 7.0y), Kubernetes (Advanced, 8.8y), Terraform (Advanced, 2.4y), Linux Administration (Proficient, 10.0y), AWS (Proficient, 8.3y), FinOps (Proficient, 4.2y)
+- Delivery & Leadership: Communication (Expert, 13.3y), Mentoring (Advanced, 3.1y), Stakeholder Management (Advanced, 2.1y)
+- Software Engineering: Go (Advanced, 5.7y)
+- Data & AI: LLM Engineering (Proficient, 10.3y)
+
+EXPERIENCE
+* Energy Trading Observability Stack — a European energy company (2025-12 to present)
+  Migrated an observability stack for a European energy company in energy trading using Go and Site Reliability Engineering, accelerating releases by 35%.
+* Energy Trading Cloud Landing Zone — a tier-1 energy company (2025-03 to 2025-11)
+  Led the delivery of a cloud landing zone for a tier-1 energy company in energy trading using Terraform and Communication, accelerating releases by 22%.
+* Public Sector Kubernetes Platform — a global government agency (2024-03 to 2025-01)
+  Designed a Kubernetes platform for a global government agency in public sector using FinOps and Terraform, cutting cloud spend by 40%.
+* Energy Trading Kubernetes Platform — a fast-growing energy company (2023-05 to 2024-01)
+  Led the delivery of a Kubernetes platform for a fast-growing energy company in energy trading using Linux Administration, LLM Engineering and Stakeholder Management, accelerating releases by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer, Security Engineer

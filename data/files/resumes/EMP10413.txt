@@ -1,0 +1,29 @@
+VAISHNAVI HEGDE
+Lead Engineering Manager | Engineering | Hyderabad, India
+Employee ID: EMP10413
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.5 years of experience, based in Hyderabad. Strong in System Design, Agile/Scrum, Stakeholder Management and AWS, with recent work in airline operations. Interested in moving towards Engineering Manager, Scrum Master roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 8.2y), Microservices (Proficient, 1.9y), Java (Proficient, 1.1y), REST API Design (Working, 0.9y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 1.1y), Stakeholder Management (Advanced, 1.5y), Communication (Advanced, 7.0y), People Leadership (Proficient, 3.1y)
+- Cloud & DevOps: AWS (Advanced, 6.4y)
+
+EXPERIENCE
+* Airline Operations Order Management System — a global airline (2025-08 to present)
+  Re-architected an order management system for a global airline in airline operations using REST API Design and Agile/Scrum, onboarding 8 new enterprise clients.
+* Airline Operations Payments Microservices Platform — a fast-growing airline (2024-10 to 2025-06)
+  Scaled a payments microservices platform for a fast-growing airline in airline operations using Agile/Scrum, AWS and REST API Design, reducing processing time by 25%.
+* Airline Operations Payments Microservices Platform — a tier-1 airline (2023-06 to 2024-09)
+  Built a payments microservices platform for a tier-1 airline in airline operations using Stakeholder Management and System Design, reducing processing time by 30%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager, Scrum Master, Program Manager

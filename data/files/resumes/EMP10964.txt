@@ -1,0 +1,31 @@
+ANANYA RAO
+Associate Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP10964
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 2.4 years of experience, based in Chennai. Strong in SQL, Airflow, Python and Snowflake, with recent work in pharma R&D. Interested in moving towards Data Analyst, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.0y), Airflow (Advanced, 1.7y), Snowflake (Proficient, 1.3y), Data Engineering (Working, 0.9y), dbt (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.9y), Kafka (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.8y)
+- Cloud & DevOps: AWS (Beginner, 0.4y), Azure (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Regulatory Reporting Suite — a fast-growing pharma company (2026-05 to present)
+  Led the delivery of a regulatory reporting suite for a fast-growing pharma company in pharma R&D using Python, AWS and Airflow, saving ~40K hours annually.
+* Pharma R&D Customer Churn Model — an APAC pharma company (2025-04 to 2026-05)
+  Automated a customer churn model for an APAC pharma company in pharma R&D using Kafka and Azure, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- SnowPro Core (2024)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Analyst, Backend Engineer

@@ -1,0 +1,30 @@
+RITESH WALKER
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12840
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4 years of experience, based in Pune. Strong in SQL, REST API Design, Microservices and GraphQL, with recent work in airline operations. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.6y)
+- Software Engineering: REST API Design (Proficient, 0.8y), Microservices (Proficient, 2.8y), GraphQL (Proficient, 2.2y), Python (Working, 1.0y), Spring Boot (Working, 1.4y)
+
+EXPERIENCE
+* Airline Operations Mobile Banking App — an APAC airline (2026-03 to present)
+  Automated a mobile banking app for an APAC airline in airline operations using Spring Boot and REST API Design, lifting NPS by 30 points.
+* Airline Operations Payments Microservices Platform — a leading airline (2025-07 to 2026-02)
+  Designed a payments microservices platform for a leading airline in airline operations using Microservices, Spring Boot and REST API Design, reducing processing time by 30%.
+* Airline Operations Claims Processing Engine — a fast-growing airline (2023-12 to 2025-06)
+  Modernised a claims processing engine for a fast-growing airline in airline operations using Microservices, GraphQL, Spring Boot and Python, saving ~12K hours annually.
+* Energy Trading Pricing Engine — a US energy company (2022-12 to 2023-10)
+  Migrated a pricing engine for a US energy company in energy trading using REST API Design, Spring Boot and Python, improving conversion by 22%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, DevOps Engineer, Software Architect

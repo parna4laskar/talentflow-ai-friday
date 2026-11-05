@@ -1,0 +1,29 @@
+JAKUB ZIELIŃSKI
+Associate Mobile Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11514
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 0 years of experience, based in Kraków. Strong in Mobile Development, Test Automation, Flutter and CI/CD, with recent work in payments. Interested in moving towards Frontend Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 0.3y), Flutter (Working, 0.3y)
+- Quality Engineering: Test Automation (Proficient, 0.4y)
+- Cloud & DevOps: CI/CD (Working, 0.3y)
+- Data & AI: Machine Learning (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Healthcare Self-service Portal — a global hospital network (2026-12 to present)
+  Automated a self-service portal for a global hospital network in healthcare using Mobile Development, Machine Learning and CI/CD, lifting NPS by 22 points.
+* Payments Order Management System — a global payments provider (2026-04 to 2026-09)
+  Led the delivery of an order management system for a global payments provider in payments using Flutter, CI/CD, Machine Learning and Test Automation, reducing processing time by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Frontend Engineer, Backend Engineer

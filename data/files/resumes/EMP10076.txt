@@ -1,0 +1,35 @@
+VENKAT VERMA
+Senior Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10076
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 7.8 years of experience, based in Pune. Strong in Azure, Terraform, Linux Administration and Kubernetes, with recent work in telecom billing. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Proficient, 0.4y), Terraform (Proficient, 1.7y), Linux Administration (Proficient, 5.5y), Kubernetes (Proficient, 1.4y), CI/CD (Proficient, 5.6y), Platform Engineering (Proficient, 0.8y), FinOps (Working, 3.7y)
+- Delivery & Leadership: Communication (Proficient, 4.7y)
+
+EXPERIENCE
+* Telecom Billing Data-centre Exit To Cloud — a global telecom operator (2026-06 to present)
+  Re-architected a data-centre exit to cloud for a global telecom operator in telecom billing using CI/CD, Terraform and Azure, cutting cloud spend by 40%.
+* Airline Operations CI/CD Platform — a European airline (2025-03 to 2026-03)
+  Migrated a CI/CD platform for a European airline in airline operations using FinOps, Terraform and Kubernetes, accelerating releases by 22%.
+* Telecom Billing Cloud Landing Zone — a global telecom operator (2024-02 to 2025-03)
+  Re-architected a cloud landing zone for a global telecom operator in telecom billing using Terraform, Kubernetes and Linux Administration, accelerating releases by 35%.
+* Telecom Billing Kubernetes Platform — a fast-growing telecom operator (2023-02 to 2023-12)
+  Led the delivery of a Kubernetes platform for a fast-growing telecom operator in telecom billing using Terraform, Azure, Platform Engineering and FinOps, cutting cloud spend by 25%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+- Azure Administrator Associate (2025)
+- Google Professional Cloud Architect (2023)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer

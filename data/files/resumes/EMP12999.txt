@@ -1,0 +1,32 @@
+JACK THOMAS
+AI Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP12999
+
+PROFESSIONAL SUMMARY
+AI Engineer with 4.8 years of experience, based in London. Strong in LLM Engineering, Generative AI, Docker and Python, with recent work in insurance claims. Interested in moving towards AI Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Advanced, 0.7y), Generative AI (Proficient, 1.1y), Agentic AI (Working, 0.7y)
+- Cloud & DevOps: Docker (Proficient, 2.9y)
+- Software Engineering: Python (Working, 0.8y)
+
+EXPERIENCE
+* Insurance Claims Document Intelligence Pipeline — a leading insurer (2026-06 to present)
+  Automated a document intelligence pipeline for a leading insurer in insurance claims using Agentic AI, Docker and LLM Engineering, reducing processing time by 18%.
+* Insurance Claims Agentic Customer-service Assistant — a fast-growing insurer (2025-12 to 2026-05)
+  Re-architected an agentic customer-service assistant for a fast-growing insurer in insurance claims using Docker, Generative AI, Agentic AI and Python, lifting NPS by 18 points.
+* HR Tech Document Intelligence Pipeline — a US HR software company (2024-12 to 2025-10)
+  Modernised a document intelligence pipeline for a US HR software company in HR tech using LLM Engineering, Agentic AI and Generative AI, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, ML Engineer, Full Stack Engineer

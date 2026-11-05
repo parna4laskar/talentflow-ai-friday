@@ -1,0 +1,28 @@
+KUNAL GUPTA
+Associate Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11285
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.6 years of experience, based in Bengaluru. Strong in JavaScript, Design Systems, TypeScript and Angular, with recent work in airline operations. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 0.9y), TypeScript (Working, 0.8y), Angular (Working, 0.7y), GraphQL (Working, 0.6y), Next.js (Beginner, 0.3y)
+- Product & Design: Design Systems (Proficient, 1.1y), Figma (Working, 0.5y)
+- Cloud & DevOps: CI/CD (Working, 0.7y)
+- Data & AI: MLOps (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Order Management System — a leading airline (2026-04 to present)
+  Built an order management system for a leading airline in airline operations using Angular and Next.js, reducing processing time by 12%.
+* Airline Operations Self-service Portal — a tier-1 airline (2024-09 to 2026-03)
+  Migrated a self-service portal for a tier-1 airline in airline operations using Design Systems, CI/CD, GraphQL and Angular, lifting NPS by 25 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer

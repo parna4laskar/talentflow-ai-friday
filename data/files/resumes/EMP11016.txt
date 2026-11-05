@@ -1,0 +1,31 @@
+ROHAN SMITH
+Associate Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP11016
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 2.2 years of experience, based in London. Strong in Machine Learning, SQL, A/B Testing and Statistics, with recent work in payments. Interested in moving towards ML Engineer, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Proficient, 1.5y), SQL (Proficient, 0.6y), Statistics (Working, 0.6y), Data Visualization (Working, 0.3y), Power BI (Beginner, 0.3y)
+- Product & Design: A/B Testing (Proficient, 0.7y)
+- Software Engineering: Python (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Payments Customer Churn Model — a fast-growing payments provider (2026-05 to present)
+  Designed a customer churn model for a fast-growing payments provider in payments using Power BI, Machine Learning, Python and A/B Testing, improving model accuracy by 30%.
+* Insurance Claims Executive KPI Dashboard Suite — a US insurer (2024-09 to 2026-02)
+  Designed an executive KPI dashboard suite for a US insurer in insurance claims using Machine Learning and Communication, saving ~25K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: ML Engineer, Product Manager, Data Analyst

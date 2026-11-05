@@ -1,0 +1,30 @@
+DAVID GARCIA
+QA Engineer | Quality Engineering | Austin, United States
+Employee ID: EMP12316
+
+PROFESSIONAL SUMMARY
+QA Engineer with 5.2 years of experience, based in Austin. Strong in Test Automation, Communication, Playwright and API Testing, with recent work in payments. Interested in moving towards DevOps Engineer, Mobile Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 4.1y), Playwright (Proficient, 2.8y), API Testing (Proficient, 1.6y), Performance Testing (Working, 0.6y)
+- Delivery & Leadership: Communication (Advanced, 2.4y)
+- Software Engineering: Python (Working, 1.8y)
+- Data & AI: LLM Engineering (Working, 0.8y), Responsible AI (Working, 0.6y)
+
+EXPERIENCE
+* Payments API Contract-testing Suite — a global payments provider (2025-07 to present)
+  Modernised an API contract-testing suite for a global payments provider in payments using Playwright and Performance Testing, reducing production incidents by 25%.
+* E-commerce Test Automation Framework — a tier-1 online retailer (2024-09 to 2025-05)
+  Migrated a test automation framework for a tier-1 online retailer in e-commerce using Test Automation and Responsible AI, accelerating releases by 12%.
+* Payments Test Automation Framework — an APAC payments provider (2023-11 to 2024-07)
+  Automated a test automation framework for an APAC payments provider in payments using Python and Playwright, raising automated test coverage to 70%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Mobile Engineer

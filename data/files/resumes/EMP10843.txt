@@ -1,0 +1,30 @@
+ADITYA GOKHALE
+Associate Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP10843
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 0.5 years of experience, based in Gurugram. Strong in TypeScript, Angular, Python and SQL, with recent work in pharma R&D. Interested in moving towards Mobile Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.5y), Angular (Proficient, 0.4y), Python (Proficient, 0.4y), REST API Design (Working, 0.3y), Microservices (Working, 0.3y)
+- Data & AI: SQL (Working, 0.3y)
+- Cloud & DevOps: FinOps (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Customer Onboarding Platform — a tier-1 retail bank (2025-09 to present)
+  Built a customer onboarding platform for a tier-1 retail bank in retail banking using Microservices and TypeScript, lifting NPS by 35 points.
+* Pharma R&D Order Management System — a US pharma company (2024-11 to 2025-06)
+  Migrated an order management system for a US pharma company in pharma R&D using Angular and Microservices, reducing processing time by 22%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer, Backend Engineer, Frontend Engineer

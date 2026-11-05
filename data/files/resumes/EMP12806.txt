@@ -1,0 +1,31 @@
+AGNIESZKA KAMIŃSKI
+QA Engineer | Quality Engineering | Kraków, Poland
+Employee ID: EMP12806
+
+PROFESSIONAL SUMMARY
+QA Engineer with 5.6 years of experience, based in Kraków. Strong in Test Automation, Playwright, SQL and CI/CD, with recent work in manufacturing IoT. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 3.4y), Playwright (Proficient, 1.5y), API Testing (Working, 2.8y), Performance Testing (Working, 0.8y)
+- Data & AI: SQL (Proficient, 0.8y), Snowflake (Working, 1.4y)
+- Cloud & DevOps: CI/CD (Proficient, 2.2y)
+- Software Engineering: Java (Working, 2.6y)
+- Delivery & Leadership: Agile/Scrum (Working, 2.4y)
+
+EXPERIENCE
+* Manufacturing IoT API Contract-testing Suite — a fast-growing manufacturer (2025-07 to present)
+  Modernised an API contract-testing suite for a fast-growing manufacturer in manufacturing IoT using SQL, Playwright and API Testing, raising automated test coverage to 90%.
+* Media Streaming Test Automation Framework — an APAC streaming platform (2024-01 to 2025-04)
+  Re-architected a test automation framework for an APAC streaming platform in media streaming using Playwright and CI/CD, accelerating releases by 18%.
+* Manufacturing IoT Test Automation Framework — a global manufacturer (2023-03 to 2023-12)
+  Re-architected a test automation framework for a global manufacturer in manufacturing IoT using Agile/Scrum, Java, API Testing and Test Automation, accelerating releases by 25%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+Polish, English, Spanish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Engineering Manager, Full Stack Engineer

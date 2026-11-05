@@ -1,0 +1,31 @@
+KRZYSZTOF SZYMAŃSKI
+Associate Full Stack Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11671
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.5 years of experience, based in Kraków. Strong in GraphQL, TypeScript, Angular and Communication, with recent work in media streaming. Interested in moving towards AI Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Advanced, 1.1y), TypeScript (Proficient, 1.1y), Angular (Proficient, 1.0y), Python (Working, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.7y)
+- Data & AI: SQL (Working, 0.7y)
+- Cloud & DevOps: Docker (Working, 0.6y), AWS (Beginner, 0.3y)
+
+EXPERIENCE
+* Media Streaming Order Management System — a tier-1 streaming platform (2026-07 to present)
+  Designed an order management system for a tier-1 streaming platform in media streaming using GraphQL, Angular, Communication and SQL, onboarding 2 new enterprise clients.
+* Media Streaming Self-service Portal — a tier-1 streaming platform (2025-07 to 2026-06)
+  Designed a self-service portal for a tier-1 streaming platform in media streaming using Docker, Python, SQL and AWS, saving ~30K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Software Architect

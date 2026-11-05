@@ -1,0 +1,36 @@
+SAURABH KAPOOR
+Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12288
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.7 years of experience, based in Pune. Strong in GCP, FinOps, Kubernetes and Terraform, with recent work in HR tech. Interested in moving towards Platform Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Proficient, 4.1y), FinOps (Proficient, 4.2y), Kubernetes (Proficient, 1.1y), Terraform (Working, 1.5y), Linux Administration (Working, 1.0y), Platform Engineering (Beginner, 0.7y), Site Reliability Engineering (Beginner, 0.5y)
+- Software Engineering: Python (Working, 0.5y)
+- Security: Cloud Security (Working, 0.8y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+
+EXPERIENCE
+* Healthcare Data-centre Exit To Cloud — a fast-growing hospital network (2026-06 to present)
+  Built a data-centre exit to cloud for a fast-growing hospital network in healthcare using FinOps, Kubernetes and GCP, cutting cloud spend by 18%.
+* HR Tech Observability Stack — a US HR software company (2025-03 to 2026-05)
+  Designed an observability stack for a US HR software company in HR tech using Site Reliability Engineering, Communication and Cloud Security, reducing production incidents by 22%.
+* HR Tech CI/CD Platform — a global HR software company (2023-12 to 2025-03)
+  Migrated a CI/CD platform for a global HR software company in HR tech using Communication and Linux Administration, accelerating releases by 40%.
+* HR Tech CI/CD Platform — an APAC HR software company (2022-08 to 2023-11)
+  Designed a CI/CD platform for an APAC HR software company in HR tech using Terraform, Kubernetes and Communication, accelerating releases by 22%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2025)
+- Google Professional Cloud Architect (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Software Architect, DevOps Engineer

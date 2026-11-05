@@ -1,0 +1,29 @@
+ROHAN MUKHERJEE
+Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP10315
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3.6 years of experience, based in Pune. Strong in Python, SQL, Statistics and Apache Spark, with recent work in telecom billing. Interested in moving towards ML Engineer, AI Engineer roles and open to relocating to London, Gurugram.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 2.5y)
+- Data & AI: SQL (Advanced, 0.7y), Statistics (Proficient, 1.5y), Apache Spark (Proficient, 0.6y), Deep Learning (Proficient, 1.4y), MLOps (Working, 0.3y), Data Visualization (Working, 1.1y), NLP (Working, 0.6y), Machine Learning (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Working, 0.8y)
+
+EXPERIENCE
+* Public Sector Customer Churn Model — a leading government agency (2025-12 to present)
+  Scaled a customer churn model for a leading government agency in public sector using Deep Learning, Communication, NLP and Statistics, improving model accuracy by 12%.
+* Telecom Billing Customer Churn Model — a US telecom operator (2024-07 to 2025-11)
+  Scaled a customer churn model for a US telecom operator in telecom billing using Statistics, Python, SQL and Machine Learning, improving model accuracy by 35%.
+* Telecom Billing Executive KPI Dashboard Suite — a European telecom operator (2023-02 to 2024-05)
+  Modernised an executive KPI dashboard suite for a European telecom operator in telecom billing using SQL and Communication, saving ~22K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, AI Engineer

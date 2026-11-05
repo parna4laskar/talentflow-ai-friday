@@ -1,0 +1,29 @@
+MIA CHEN
+Senior Data Engineer | Data & Analytics | Austin, United States
+Employee ID: EMP10364
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 8.1 years of experience, based in Austin. Strong in SQL, Data Engineering, Airflow and Kafka, with recent work in wealth management. Interested in moving towards Backend Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.9y), Data Engineering (Advanced, 3.2y), Airflow (Advanced, 6.0y), Data Governance (Proficient, 5.5y), Snowflake (Proficient, 4.1y), dbt (Proficient, 3.0y)
+- Software Engineering: Kafka (Advanced, 5.8y), Python (Proficient, 0.9y)
+- Quality Engineering: Playwright (Beginner, 0.7y)
+
+EXPERIENCE
+* Healthcare Real-time Analytics Pipeline — a European hospital network (2026-07 to present)
+  Designed a real-time analytics pipeline for a European hospital network in healthcare using Data Engineering and Data Governance, reducing processing time by 22%.
+* Payments Real-time Analytics Pipeline — a European payments provider (2025-11 to 2026-06)
+  Designed a real-time analytics pipeline for a European payments provider in payments using Playwright and dbt, cutting cloud spend by 35%.
+* Wealth Management Regulatory Reporting Suite — a tier-1 wealth manager (2025-03 to 2025-10)
+  Re-architected a regulatory reporting suite for a tier-1 wealth manager in wealth management using SQL, Data Engineering, Snowflake and Airflow, reducing processing time by 30%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Data Scientist, ML Engineer

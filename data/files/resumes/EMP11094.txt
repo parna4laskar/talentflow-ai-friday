@@ -1,0 +1,32 @@
+SHREYA JADHAV
+Senior Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11094
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.6 years of experience, based in Chennai. Strong in Angular, TypeScript, JavaScript and Playwright, with recent work in telecom billing. Interested in moving towards Frontend Engineer, UX Designer roles and open to relocating to Dublin, Kraków, Toronto.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 9.6y), TypeScript (Proficient, 6.4y), JavaScript (Proficient, 6.0y), Next.js (Proficient, 0.4y)
+- Quality Engineering: Playwright (Proficient, 6.3y)
+- Product & Design: Figma (Proficient, 5.4y)
+- Delivery & Leadership: Communication (Working, 4.3y)
+
+EXPERIENCE
+* Telecom Billing Self-service Portal — a fast-growing telecom operator (2026-07 to present)
+  Scaled a self-service portal for a fast-growing telecom operator in telecom billing using Next.js and JavaScript, lifting NPS by 25 points.
+* Manufacturing IoT Self-service Portal — a tier-1 manufacturer (2025-06 to 2026-07)
+  Led the delivery of a self-service portal for a tier-1 manufacturer in manufacturing IoT using Next.js, JavaScript, Playwright and TypeScript, lifting NPS by 18 points.
+* Telecom Billing Mobile Banking App — a leading telecom operator (2024-09 to 2025-03)
+  Scaled a mobile banking app for a leading telecom operator in telecom billing using TypeScript, Communication and Playwright, improving conversion by 25%.
+* Media Streaming Pricing Engine — a European streaming platform (2023-09 to 2024-07)
+  Led the delivery of a pricing engine for a European streaming platform in media streaming using TypeScript and Next.js, improving conversion by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, UX Designer, Full Stack Engineer, Mobile Engineer

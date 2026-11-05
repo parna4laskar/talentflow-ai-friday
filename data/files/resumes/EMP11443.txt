@@ -1,0 +1,34 @@
+JANHAVI KAPOOR
+Senior Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP11443
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 6.3 years of experience, based in Bengaluru. Strong in Data Visualization, Power BI, SQL and A/B Testing, with recent work in automotive. Interested in moving towards Product Manager roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 2.0y), Power BI (Advanced, 5.8y), SQL (Proficient, 2.3y), Statistics (Proficient, 1.1y), Snowflake (Proficient, 3.8y), Responsible AI (Working, 1.6y)
+- Product & Design: A/B Testing (Proficient, 4.1y)
+- People & Marketing: Marketing Analytics (Working, 2.4y)
+- Software Engineering: Python (Beginner, 0.4y)
+- Business & Finance: Business Analysis (Beginner, 1.0y)
+
+EXPERIENCE
+* Automotive Data Lakehouse — a leading car maker (2026-01 to present)
+  Designed a data lakehouse for a leading car maker in automotive using Power BI, SQL and Business Analysis, reducing processing time by 25%.
+* Payments Data Lakehouse — a tier-1 payments provider (2024-12 to 2025-11)
+  Led the delivery of a data lakehouse for a tier-1 payments provider in payments using Business Analysis, Python and Responsible AI, cutting cloud spend by 40%.
+* Automotive Executive KPI Dashboard Suite — a fast-growing car maker (2023-08 to 2024-10)
+  Built an executive KPI dashboard suite for a fast-growing car maker in automotive using Python, Data Visualization, SQL and Business Analysis, saving ~22K hours annually.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2023)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager

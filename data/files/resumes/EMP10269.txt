@@ -1,0 +1,31 @@
+ROHAN SINGH
+Senior Site Reliability Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP10269
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 8 years of experience, based in Gurugram. Strong in Site Reliability Engineering, Observability, Kubernetes and Linux Administration, with recent work in payments. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 2.2y), Observability (Proficient, 1.7y), Kubernetes (Proficient, 4.6y), Linux Administration (Proficient, 5.0y), Terraform (Proficient, 4.9y)
+- Software Engineering: Python (Proficient, 4.8y), Go (Proficient, 4.7y)
+- Delivery & Leadership: Communication (Working, 2.4y)
+
+EXPERIENCE
+* Payments Observability Stack — a leading payments provider (2026-09 to present)
+  Led the delivery of an observability stack for a leading payments provider in payments using Go, Python, Site Reliability Engineering and Linux Administration, accelerating releases by 12%.
+* Payments Cloud Landing Zone — a global payments provider (2026-01 to 2026-08)
+  Designed a cloud landing zone for a global payments provider in payments using Communication and Kubernetes, accelerating releases by 40%.
+* Payments Observability Stack — a fast-growing payments provider (2024-12 to 2025-11)
+  Built an observability stack for a fast-growing payments provider in payments using Terraform, Communication and Kubernetes, reducing production incidents by 25%.
+* Airline Operations Cloud Landing Zone — a US airline (2024-02 to 2024-10)
+  Built a cloud landing zone for a US airline in airline operations using Go and Kubernetes, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer

@@ -1,0 +1,32 @@
+CIARA DOYLE
+Data Engineer | Data & Analytics | Dublin, Ireland
+Employee ID: EMP12169
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.6 years of experience, based in Dublin. Strong in SQL, Python, Data Engineering and Apache Spark, with recent work in airline operations. Interested in moving towards Data Engineer, Backend Engineer roles and open to relocating to Austin.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.4y), Data Engineering (Advanced, 2.2y), Apache Spark (Proficient, 0.5y), Snowflake (Proficient, 2.4y), dbt (Beginner, 0.4y)
+- Software Engineering: Python (Advanced, 1.3y), Kafka (Working, 1.3y)
+- Cloud & DevOps: AWS (Working, 0.7y)
+- Quality Engineering: Playwright (Working, 0.6y)
+
+EXPERIENCE
+* Automotive Data Lakehouse — a leading car maker (2026-04 to present)
+  Migrated a data lakehouse for a leading car maker in automotive using dbt, Kafka and Apache Spark, cutting cloud spend by 25%.
+* Insurance Claims Data Lakehouse — a leading insurer (2024-09 to 2026-03)
+  Designed a data lakehouse for a leading insurer in insurance claims using Python and SQL, reducing processing time by 35%.
+* Telecom Billing Real-time Analytics Pipeline — a fast-growing telecom operator (2023-09 to 2024-08)
+  Led the delivery of a real-time analytics pipeline for a fast-growing telecom operator in telecom billing using Kafka, AWS, dbt and Apache Spark, reducing processing time by 22%.
+* Airline Operations Executive KPI Dashboard Suite — a global airline (2022-03 to 2023-07)
+  Designed an executive KPI dashboard suite for a global airline in airline operations using Snowflake, Playwright and AWS, saving ~12K hours annually.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Irish, Marathi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, Backend Engineer, Data Scientist

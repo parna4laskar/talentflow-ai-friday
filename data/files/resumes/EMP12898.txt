@@ -1,0 +1,26 @@
+MEI GARCIA
+Associate DevOps Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP12898
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 0.8 years of experience, based in Austin. Strong in Kubernetes, Linux Administration, Python and Go, with recent work in payments. Interested in moving towards Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Proficient, 0.4y), Linux Administration (Proficient, 0.5y), CI/CD (Working, 0.4y), Terraform (Working, 0.3y), Observability (Working, 0.3y), Docker (Beginner, 0.3y), Azure (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.4y), Go (Proficient, 0.5y)
+
+EXPERIENCE
+* Payments Cloud Landing Zone — a tier-1 payments provider (2026-01 to present)
+  Led the delivery of a cloud landing zone for a tier-1 payments provider in payments using Observability and Kubernetes, cutting cloud spend by 18%.
+* Automotive Kubernetes Platform — a European car maker (2025-04 to 2025-12)
+  Led the delivery of a Kubernetes platform for a European car maker in automotive using Observability, Python and Linux Administration, cutting cloud spend by 40%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Site Reliability Engineer

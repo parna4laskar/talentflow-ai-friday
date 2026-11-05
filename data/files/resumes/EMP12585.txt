@@ -1,0 +1,29 @@
+AKASH SHARMA
+Associate Site Reliability Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12585
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 1.1 years of experience, based in Hyderabad. Strong in Site Reliability Engineering, Observability, Incident Response and Go, with recent work in automotive. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 0.8y), Observability (Proficient, 0.7y), Kubernetes (Working, 0.3y), Linux Administration (Working, 0.4y), AWS (Working, 0.3y), Terraform (Beginner, 0.3y)
+- Security: Incident Response (Proficient, 0.5y)
+- Software Engineering: Go (Proficient, 0.4y)
+- Quality Engineering: Performance Testing (Working, 0.5y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Observability Stack — a European telecom operator (2025-11 to present)
+  Scaled an observability stack for a European telecom operator in telecom billing using Site Reliability Engineering, Linux Administration, Observability and Performance Testing, accelerating releases by 35%.
+* Supply-chain Logistics CI/CD Platform — an APAC logistics company (2024-09 to 2025-10)
+  Scaled a CI/CD platform for an APAC logistics company in supply-chain logistics using Incident Response and Observability, accelerating releases by 35%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Site Reliability Engineer, Platform Engineer, Security Engineer, DevOps Engineer

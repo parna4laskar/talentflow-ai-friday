@@ -1,0 +1,30 @@
+SAURABH RAO
+Senior Cloud Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12626
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 9.1 years of experience, based in Chennai. Strong in AWS, CI/CD, Terraform and Linux Administration, with recent work in automotive. Interested in moving towards Site Reliability Engineer, Software Architect roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 4.9y), CI/CD (Advanced, 7.8y), Terraform (Proficient, 3.7y), Linux Administration (Proficient, 1.7y), Platform Engineering (Proficient, 4.8y), Observability (Proficient, 1.0y)
+- Software Engineering: Python (Proficient, 0.6y)
+
+EXPERIENCE
+* Automotive Data-centre Exit To Cloud — a US car maker (2026-11 to present)
+  Re-architected a data-centre exit to cloud for a US car maker in automotive using AWS, CI/CD, Observability and Python, delivering $8M in cost savings.
+* Manufacturing IoT CI/CD Platform — a tier-1 manufacturer (2025-10 to 2026-09)
+  Scaled a CI/CD platform for a tier-1 manufacturer in manufacturing IoT using Platform Engineering and Linux Administration, accelerating releases by 25%.
+* Automotive CI/CD Platform — an APAC car maker (2025-02 to 2025-08)
+  Automated a CI/CD platform for an APAC car maker in automotive using Observability, Python, Terraform and AWS, accelerating releases by 22%.
+* Automotive Kubernetes Platform — a leading car maker (2023-11 to 2024-12)
+  Re-architected a Kubernetes platform for a leading car maker in automotive using Python, Platform Engineering and Linux Administration, reducing production incidents by 40%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Site Reliability Engineer, Software Architect

@@ -1,0 +1,28 @@
+ALEKSANDRA SZYMAŃSKI
+CRM Consultant | Enterprise Applications | Kraków, Poland
+Employee ID: EMP11766
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 2.2 years of experience, based in Kraków. Strong in Salesforce, JavaScript, Business Analysis and Agile/Scrum, with recent work in automotive. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 2.2y), Business Analysis (Working, 0.9y), Requirements Gathering (Working, 0.3y), Process Improvement (Beginner, 0.3y)
+- Software Engineering: JavaScript (Proficient, 1.6y)
+- Delivery & Leadership: Agile/Scrum (Working, 0.8y)
+- Cloud & DevOps: FinOps (Beginner, 0.5y)
+
+EXPERIENCE
+* Energy Trading Service Desk Automation — a European energy company (2026-03 to present)
+  Migrated a service desk automation for a European energy company in energy trading using Salesforce and FinOps, reducing processing time by 40%.
+* Airline Operations CRM Rollout — a global airline (2024-08 to 2026-02)
+  Re-architected a CRM rollout for a global airline in airline operations using Requirements Gathering, FinOps, JavaScript and Agile/Scrum, improving conversion by 25%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Business Analyst

@@ -1,0 +1,35 @@
+SAYALI MENON
+Lead Cloud Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP10233
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 9.2 years of experience, based in Chennai. Strong in AWS, Terraform, Cloud Security and Kubernetes, with recent work in media streaming. Interested in moving towards Platform Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 1.7y), Terraform (Advanced, 4.5y), Kubernetes (Advanced, 2.8y), Platform Engineering (Advanced, 1.8y), Linux Administration (Proficient, 2.9y), FinOps (Proficient, 3.1y), Site Reliability Engineering (Working, 2.9y)
+- Security: Cloud Security (Advanced, 6.5y)
+- Delivery & Leadership: People Leadership (Advanced, 3.2y), Mentoring (Proficient, 1.1y)
+
+EXPERIENCE
+* Media Streaming Cloud Landing Zone — a global streaming platform (2026-03 to present)
+  Modernised a cloud landing zone for a global streaming platform in media streaming using Linux Administration, Mentoring and Platform Engineering, accelerating releases by 25%.
+* Media Streaming Data-centre Exit To Cloud — a fast-growing streaming platform (2024-10 to 2026-02)
+  Led the delivery of a data-centre exit to cloud for a fast-growing streaming platform in media streaming using FinOps, Mentoring and Kubernetes, cutting cloud spend by 25%.
+* Media Streaming Kubernetes Platform — a fast-growing streaming platform (2023-04 to 2024-10)
+  Designed a Kubernetes platform for a fast-growing streaming platform in media streaming using FinOps and AWS, accelerating releases by 25%.
+* Airline Operations Kubernetes Platform — a global airline (2022-07 to 2023-03)
+  Designed a Kubernetes platform for a global airline in airline operations using Platform Engineering and Cloud Security, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+- Azure Administrator Associate (2023)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Site Reliability Engineer

@@ -1,0 +1,29 @@
+VIKRAM VERMA
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP11749
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 11.2 years of experience, based in Hyderabad. Strong in Azure, Mentoring, System Design and Microservices, with recent work in supply-chain logistics. Interested in moving towards Engineering Manager, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Expert, 11.2y), Kubernetes (Proficient, 2.6y)
+- Delivery & Leadership: Mentoring (Expert, 1.4y), People Leadership (Advanced, 7.6y), Stakeholder Management (Proficient, 1.8y), Communication (Proficient, 1.0y)
+- Software Engineering: System Design (Advanced, 0.7y), Microservices (Advanced, 4.4y), Java (Advanced, 7.6y), REST API Design (Advanced, 4.9y), Kafka (Proficient, 1.2y)
+
+EXPERIENCE
+* Insurance Claims Self-service Portal — a European insurer (2026-09 to present)
+  Modernised a self-service portal for a European insurer in insurance claims using Java, Mentoring, Stakeholder Management and Kafka, lifting NPS by 25 points.
+* Payments Pricing Engine — an APAC payments provider (2025-11 to 2026-08)
+  Built a pricing engine for an APAC payments provider in payments using Communication and Microservices, improving conversion by 18%.
+* Healthcare Self-service Portal — an APAC hospital network (2024-04 to 2025-08)
+  Automated a self-service portal for an APAC hospital network in healthcare using Kafka, System Design, Kubernetes and Azure, lifting NPS by 35 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Engineering Manager, Cloud Engineer

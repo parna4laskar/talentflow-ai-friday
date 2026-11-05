@@ -1,0 +1,34 @@
+NATALIA WIŚNIEWSKI
+Lead Software Architect | Engineering | Kraków, Poland
+Employee ID: EMP12341
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 13.4 years of experience, based in Kraków. Strong in AWS, System Design, Microservices and Java, with recent work in pharma R&D. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Expert, 4.7y)
+- Software Engineering: System Design (Advanced, 4.9y), Microservices (Advanced, 9.5y), Java (Advanced, 2.3y), REST API Design (Advanced, 8.4y), Kafka (Advanced, 4.4y)
+- Delivery & Leadership: Mentoring (Advanced, 4.9y), Stakeholder Management (Advanced, 4.9y), Communication (Working, 4.3y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Onboarding Platform — a fast-growing manufacturer (2026-04 to present)
+  Built a customer onboarding platform for a fast-growing manufacturer in manufacturing IoT using System Design, Kafka, Stakeholder Management and Java, reducing processing time by 25%.
+* Media Streaming Mobile Banking App — a fast-growing streaming platform (2025-06 to 2026-02)
+  Scaled a mobile banking app for a fast-growing streaming platform in media streaming using AWS, Mentoring, REST API Design and Stakeholder Management, lifting NPS by 22 points.
+* Pharma R&D Pricing Engine — a leading pharma company (2024-06 to 2025-05)
+  Modernised a pricing engine for a leading pharma company in pharma R&D using Communication, System Design, Kafka and Microservices, reducing processing time by 22%.
+* Energy Trading Mobile Banking App — a US energy company (2022-12 to 2024-04)
+  Scaled a mobile banking app for a US energy company in energy trading using Communication, REST API Design and Mentoring, improving conversion by 30%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2021)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer

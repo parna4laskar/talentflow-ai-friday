@@ -1,0 +1,26 @@
+MIA DAVIS
+Associate Security Engineer | Cyber Security | Austin, United States
+Employee ID: EMP12788
+
+PROFESSIONAL SUMMARY
+Associate Security Engineer with 1.6 years of experience, based in Austin. Strong in Application Security, Threat Modeling, Cloud Security and Kubernetes, with recent work in energy trading. Interested in moving towards Security Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: Application Security (Proficient, 1.1y), Threat Modeling (Proficient, 0.8y), Cloud Security (Working, 0.8y)
+- Cloud & DevOps: Kubernetes (Working, 0.7y), AWS (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Identity and Access Platform — a European wealth manager (2026-07 to present)
+  Led the delivery of an identity and access platform for a European wealth manager in wealth management using Threat Modeling, Application Security and AWS, closing 40% of open audit findings.
+* Energy Trading Cloud Security Posture Programme — a global energy company (2025-07 to 2026-04)
+  Scaled a cloud security posture programme for a global energy company in energy trading using Application Security, Kubernetes and AWS, closing 12% of open audit findings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Security Engineer, Site Reliability Engineer, Cloud Engineer

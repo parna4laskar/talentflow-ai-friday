@@ -1,0 +1,34 @@
+SAURABH KRISHNAN
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10243
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.8 years of experience, based in Bengaluru. Strong in REST API Design, SQL, Docker and C#, with recent work in healthcare. Interested in moving towards Engineering Manager roles and open to relocating to Hyderabad, New York.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 1.7y), C# (Working, 1.7y), Microservices (Working, 0.7y), .NET Core (Working, 1.9y), Spring Boot (Working, 0.8y)
+- Data & AI: SQL (Proficient, 1.9y)
+- Cloud & DevOps: Docker (Proficient, 1.2y), CI/CD (Working, 1.7y), AWS (Working, 1.8y)
+
+EXPERIENCE
+* Healthcare Order Management System — a fast-growing hospital network (2026-10 to present)
+  Automated an order management system for a fast-growing hospital network in healthcare using Spring Boot and CI/CD, onboarding 5 new enterprise clients.
+* Healthcare Customer Onboarding Platform — a fast-growing hospital network (2026-01 to 2026-08)
+  Led the delivery of a customer onboarding platform for a fast-growing hospital network in healthcare using C# and REST API Design, lifting NPS by 25 points.
+* Healthcare Pricing Engine — a fast-growing hospital network (2024-10 to 2025-11)
+  Scaled a pricing engine for a fast-growing hospital network in healthcare using Spring Boot and .NET Core, improving conversion by 18%.
+* Automotive Claims Processing Engine — a fast-growing car maker (2023-10 to 2024-08)
+  Designed a claims processing engine for a fast-growing car maker in automotive using Spring Boot and AWS, saving ~40K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager

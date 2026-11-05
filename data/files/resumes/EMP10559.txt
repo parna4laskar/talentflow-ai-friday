@@ -1,0 +1,34 @@
+ADITI MENON
+Lead UX Designer | Design | Pune, India
+Employee ID: EMP10559
+
+PROFESSIONAL SUMMARY
+Lead UX Designer with 9.1 years of experience, based in Pune. Strong in UX Research, UI Design, Figma and Design Systems, with recent work in payments. Interested in moving towards Marketing Specialist roles and open to relocating to London.
+
+CORE SKILLS
+- Product & Design: UX Research (Expert, 2.2y), UI Design (Advanced, 6.3y), Figma (Advanced, 1.9y), Design Systems (Advanced, 3.8y), A/B Testing (Advanced, 6.4y)
+- Delivery & Leadership: Mentoring (Advanced, 4.7y), Communication (Proficient, 4.0y), Stakeholder Management (Proficient, 0.7y), People Leadership (Proficient, 5.9y)
+- Cloud & DevOps: Kubernetes (Working, 3.1y)
+
+EXPERIENCE
+* Manufacturing IoT Enterprise Design System — a leading manufacturer (2025-08 to present)
+  Designed an enterprise design system for a leading manufacturer in manufacturing IoT using UI Design, A/B Testing and Design Systems, accelerating releases by 22%.
+* Payments Enterprise Design System — a US payments provider (2024-03 to 2025-07)
+  Ran research for an enterprise design system for a US payments provider in payments using Mentoring, Kubernetes and UX Research, accelerating releases by 35%.
+* Pharma R&D Enterprise Design System — a global pharma company (2023-04 to 2024-01)
+  Designed an enterprise design system for a global pharma company in pharma R&D using Kubernetes and Mentoring, accelerating releases by 22%.
+* Payments Enterprise Design System — a US payments provider (2022-06 to 2023-02)
+  Designed an enterprise design system for a US payments provider in payments using Kubernetes and Communication, lifting NPS by 25 points.
+
+CERTIFICATIONS
+- NN/g UX Certification (2022)
+
+EDUCATION
+- M.Des
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Marketing Specialist

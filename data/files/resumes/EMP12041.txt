@@ -1,0 +1,29 @@
+BHAVANA DAS
+Senior Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12041
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5.6 years of experience, based in Pune. Strong in dbt, SQL, Python and Data Engineering, with recent work in e-commerce. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: dbt (Expert, 0.9y), SQL (Advanced, 5.2y), Data Engineering (Proficient, 1.7y), Snowflake (Proficient, 2.2y), Data Governance (Beginner, 1.0y)
+- Software Engineering: Python (Advanced, 1.1y), Kafka (Working, 1.6y)
+- Cloud & DevOps: AWS (Working, 1.3y)
+
+EXPERIENCE
+* E-commerce Real-time Analytics Pipeline — a fast-growing online retailer (2025-10 to present)
+  Re-architected a real-time analytics pipeline for a fast-growing online retailer in e-commerce using AWS, SQL, dbt and Snowflake, cutting cloud spend by 22%.
+* E-commerce Data Lakehouse — a European online retailer (2024-08 to 2025-07)
+  Modernised a data lakehouse for a European online retailer in e-commerce using Python, Kafka, Data Governance and SQL, reducing processing time by 18%.
+* Wealth Management Data Lakehouse — a US wealth manager (2023-07 to 2024-06)
+  Led the delivery of a data lakehouse for a US wealth manager in wealth management using dbt, SQL, Data Governance and AWS, cutting cloud spend by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer

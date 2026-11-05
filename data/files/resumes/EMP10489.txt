@@ -1,0 +1,33 @@
+AKASH RAO
+Financial Analyst | Finance | Pune, India
+Employee ID: EMP10489
+
+PROFESSIONAL SUMMARY
+Financial Analyst with 5.7 years of experience, based in Pune. Strong in Financial Analysis, FP&A, Financial Modeling and Terraform, with recent work in wealth management. Interested in moving towards Data Analyst, SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Financial Analysis (Proficient, 0.9y), FP&A (Proficient, 2.7y), Financial Modeling (Proficient, 3.2y)
+- Cloud & DevOps: Terraform (Proficient, 1.1y)
+- Data & AI: SQL (Working, 0.7y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.4y)
+
+EXPERIENCE
+* Wealth Management Cost Transformation Programme — a US wealth manager (2026-04 to present)
+  Built a cost transformation programme for a US wealth manager in wealth management using Financial Modeling and Financial Analysis, delivering $3M in cost savings.
+* Public Sector Cost Transformation Programme — a US government agency (2025-08 to 2026-02)
+  Redesigned a cost transformation programme for a US government agency in public sector using Financial Modeling, SQL, FP&A and Stakeholder Management, delivering $5M in cost savings.
+* Healthcare Cost Transformation Programme — a fast-growing hospital network (2024-05 to 2025-06)
+  Owned a cost transformation programme for a fast-growing hospital network in healthcare using SQL and FP&A, delivering $3M in cost savings.
+
+CERTIFICATIONS
+- CFA Level II (2026)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, SAP Consultant, Risk & Compliance Analyst

@@ -1,0 +1,30 @@
+KUNAL WALKER
+Senior Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP12894
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 8.4 years of experience, based in Chennai. Strong in SQL, Communication, Machine Learning and Python, with recent work in telecom billing. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 5.0y), Machine Learning (Advanced, 3.1y), Statistics (Proficient, 4.6y), Generative AI (Working, 3.1y)
+- Delivery & Leadership: Communication (Expert, 7.0y)
+- Software Engineering: Python (Proficient, 4.4y)
+- Product & Design: A/B Testing (Proficient, 2.9y)
+
+EXPERIENCE
+* Telecom Billing Data Lakehouse — a tier-1 telecom operator (2025-10 to present)
+  Built a data lakehouse for a tier-1 telecom operator in telecom billing using Python, Statistics and Machine Learning, reducing processing time by 12%.
+* Telecom Billing Data Lakehouse — an APAC telecom operator (2024-11 to 2025-09)
+  Re-architected a data lakehouse for an APAC telecom operator in telecom billing using A/B Testing, Statistics and Machine Learning, cutting cloud spend by 40%.
+* Healthcare Real-time Analytics Pipeline — a European hospital network (2024-01 to 2024-09)
+  Automated a real-time analytics pipeline for a European hospital network in healthcare using Statistics, Machine Learning, SQL and A/B Testing, cutting cloud spend by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, AI Engineer, Product Manager, ML Engineer

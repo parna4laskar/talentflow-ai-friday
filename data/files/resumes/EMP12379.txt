@@ -1,0 +1,35 @@
+GAURAV KELLY
+Lead Software Architect | Engineering | Bengaluru, India
+Employee ID: EMP12379
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 13.2 years of experience, based in Bengaluru. Strong in System Design, Microservices, Azure and Cloud Security, with recent work in insurance claims. Interested in moving towards Engineering Manager roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 2.2y), Microservices (Advanced, 7.8y), C# (Proficient, 7.5y), REST API Design (Proficient, 7.7y)
+- Cloud & DevOps: Azure (Advanced, 0.9y), AWS (Proficient, 1.0y)
+- Security: Cloud Security (Advanced, 1.5y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.9y)
+
+EXPERIENCE
+* Insurance Claims Pricing Engine — a global insurer (2026-04 to present)
+  Automated a pricing engine for a global insurer in insurance claims using C#, REST API Design, Cloud Security and Azure, improving conversion by 12%.
+* Insurance Claims Payments Microservices Platform — a fast-growing insurer (2024-12 to 2026-01)
+  Migrated a payments microservices platform for a fast-growing insurer in insurance claims using System Design, Cloud Security and Microservices, reducing processing time by 35%.
+* Telecom Billing Customer Onboarding Platform — a European telecom operator (2023-07 to 2024-12)
+  Modernised a customer onboarding platform for a European telecom operator in telecom billing using Azure, Microservices, REST API Design and Cloud Security, lifting NPS by 30 points.
+* Insurance Claims Pricing Engine — a global insurer (2022-04 to 2023-05)
+  Led the delivery of a pricing engine for a global insurer in insurance claims using System Design, Microservices and Stakeholder Management, improving conversion by 22%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2024)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager

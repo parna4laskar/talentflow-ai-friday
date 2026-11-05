@@ -1,0 +1,29 @@
+AKASH SINGH
+ML Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP10906
+
+PROFESSIONAL SUMMARY
+ML Engineer with 4.6 years of experience, based in Bengaluru. Strong in MLOps, Python, Machine Learning and Deep Learning, with recent work in insurance claims. Interested in moving towards ML Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: MLOps (Advanced, 0.8y), Machine Learning (Proficient, 0.7y), Deep Learning (Proficient, 2.0y), Databricks (Proficient, 1.9y), Vector Databases (Working, 0.4y)
+- Software Engineering: Python (Proficient, 0.9y)
+- Cloud & DevOps: Kubernetes (Working, 1.1y)
+
+EXPERIENCE
+* E-commerce Recommendation Engine — a fast-growing online retailer (2026-12 to present)
+  Migrated a recommendation engine for a fast-growing online retailer in e-commerce using Deep Learning and Kubernetes, improving conversion by 12%.
+* Payments Knowledge Assistant (RAG) — a tier-1 payments provider (2025-05 to 2026-11)
+  Modernised a knowledge assistant (RAG) for a tier-1 payments provider in payments using Kubernetes and Deep Learning, lifting NPS by 25 points.
+* Insurance Claims Agentic Customer-service Assistant — an APAC insurer (2024-03 to 2025-02)
+  Modernised an agentic customer-service assistant for an APAC insurer in insurance claims using Machine Learning, Databricks and Python, lifting NPS by 12 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: ML Engineer, Data Scientist, AI Engineer

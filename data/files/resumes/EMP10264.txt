@@ -1,0 +1,32 @@
+ADITI VERMA
+Lead QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP10264
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 10.9 years of experience, based in Pune. Strong in API Testing, Python, Performance Testing and Test Automation, with recent work in healthcare. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Advanced, 2.7y), Performance Testing (Advanced, 2.6y), Test Automation (Proficient, 7.6y), Playwright (Working, 5.4y)
+- Software Engineering: Python (Advanced, 5.7y)
+- Data & AI: SQL (Working, 3.7y), Databricks (Working, 3.4y)
+
+EXPERIENCE
+* Healthcare Test Automation Framework — a tier-1 hospital network (2026-01 to present)
+  Automated a test automation framework for a tier-1 hospital network in healthcare using Playwright and API Testing, raising automated test coverage to 90%.
+* Insurance Claims Performance Engineering Programme — a leading insurer (2025-01 to 2025-11)
+  Automated a performance engineering programme for a leading insurer in insurance claims using API Testing and Databricks, accelerating releases by 12%.
+* Pharma R&D API Contract-testing Suite — a leading pharma company (2024-02 to 2025-01)
+  Designed an API contract-testing suite for a leading pharma company in pharma R&D using SQL, Databricks, API Testing and Python, raising automated test coverage to 80%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2022)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Backend Engineer

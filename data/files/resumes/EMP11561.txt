@@ -1,0 +1,32 @@
+HARPREET GUPTA
+Principal Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP11561
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 17.6 years of experience, based in Pune. Strong in TypeScript, Angular, Python and SQL, with recent work in insurance claims. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 8.4y), Angular (Expert, 13.5y), Python (Expert, 17.6y), GraphQL (Advanced, 6.8y), Microservices (Advanced, 10.1y), Next.js (Proficient, 1.8y), REST API Design (Working, 7.4y)
+- Data & AI: SQL (Expert, 11.3y)
+- Delivery & Leadership: People Leadership (Expert, 4.1y), Mentoring (Advanced, 8.1y)
+- Cloud & DevOps: Docker (Advanced, 11.6y)
+
+EXPERIENCE
+* Insurance Claims Claims Processing Engine — an APAC insurer (2025-08 to present)
+  Designed a claims processing engine for an APAC insurer in insurance claims using Angular, Docker, Next.js and SQL, reducing processing time by 35%.
+* E-commerce Pricing Engine — a European online retailer (2024-03 to 2025-06)
+  Built a pricing engine for a European online retailer in e-commerce using Angular, Python, Microservices and SQL, improving conversion by 35%.
+* Healthcare Customer Onboarding Platform — an APAC hospital network (2022-08 to 2024-01)
+  Scaled a customer onboarding platform for an APAC hospital network in healthcare using GraphQL, Python, REST API Design and TypeScript, reducing processing time by 22%.
+* Manufacturing IoT Payments Microservices Platform — a global manufacturer (2021-02 to 2022-05)
+  Led the delivery of a payments microservices platform for a global manufacturer in manufacturing IoT using Docker and TypeScript, reducing production incidents by 25%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, Backend Engineer

@@ -1,0 +1,28 @@
+DAVID JOHNSON
+Senior Frontend Engineer | Engineering | New York, United States
+Employee ID: EMP12099
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.9 years of experience, based in New York. Strong in TypeScript, JavaScript, Design Systems and Angular, with recent work in airline operations. Interested in moving towards UX Designer, Mobile Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.6y), JavaScript (Advanced, 2.6y), Angular (Proficient, 4.4y), GraphQL (Proficient, 1.5y), Node.js (Proficient, 1.0y)
+- Product & Design: Design Systems (Advanced, 4.0y)
+
+EXPERIENCE
+* Airline Operations Mobile Banking App — a US airline (2026-03 to present)
+  Built a mobile banking app for a US airline in airline operations using JavaScript, TypeScript, Design Systems and GraphQL, improving conversion by 12%.
+* Airline Operations Order Management System — a leading airline (2025-07 to 2026-03)
+  Modernised an order management system for a leading airline in airline operations using Node.js and JavaScript, onboarding 3 new enterprise clients.
+* Airline Operations Claims Processing Engine — a fast-growing airline (2024-03 to 2025-05)
+  Designed a claims processing engine for a fast-growing airline in airline operations using Angular, GraphQL, JavaScript and Design Systems, saving ~35K hours annually.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: UX Designer, Mobile Engineer

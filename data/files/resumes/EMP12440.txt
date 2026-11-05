@@ -1,0 +1,27 @@
+YASH SINGH
+SAP Consultant | Enterprise Applications | Hyderabad, India
+Employee ID: EMP12440
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 2.7 years of experience, based in Hyderabad. Strong in Business Analysis, Financial Analysis, Communication and SAP S/4HANA, with recent work in telecom billing. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 1.4y), Financial Analysis (Advanced, 2.5y), SAP S/4HANA (Proficient, 0.5y), Requirements Gathering (Working, 0.7y)
+- Delivery & Leadership: Communication (Advanced, 1.2y)
+- Data & AI: Agentic AI (Proficient, 0.8y)
+
+EXPERIENCE
+* Telecom Billing Service Desk Automation — a global telecom operator (2026-02 to present)
+  Designed a service desk automation for a global telecom operator in telecom billing using SAP S/4HANA, Communication and Financial Analysis, saving ~30K hours annually.
+* Telecom Billing CRM Rollout — a fast-growing telecom operator (2024-10 to 2025-11)
+  Automated a CRM rollout for a fast-growing telecom operator in telecom billing using Business Analysis, Agentic AI, SAP S/4HANA and Communication, reducing processing time by 22%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Business Analyst

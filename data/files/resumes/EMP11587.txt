@@ -1,0 +1,27 @@
+VIKRAM O'BRIEN
+QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP11587
+
+PROFESSIONAL SUMMARY
+QA Engineer with 2 years of experience, based in Bengaluru. Strong in Test Automation, API Testing, Playwright and CI/CD, with recent work in public sector. Interested in moving towards Engineering Manager, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 1.9y), API Testing (Advanced, 0.8y), Playwright (Proficient, 1.4y), Performance Testing (Working, 0.5y)
+- Cloud & DevOps: CI/CD (Proficient, 1.1y), Terraform (Working, 0.7y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.2y)
+
+EXPERIENCE
+* Public Sector Test Automation Framework — a tier-1 government agency (2026-01 to present)
+  Re-architected a test automation framework for a tier-1 government agency in public sector using Agile/Scrum, Terraform and CI/CD, raising automated test coverage to 90%.
+* Payments Test Automation Framework — a leading payments provider (2024-12 to 2025-11)
+  Designed a test automation framework for a leading payments provider in payments using Agile/Scrum, API Testing and Test Automation, accelerating releases by 25%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager, DevOps Engineer, Mobile Engineer

@@ -1,0 +1,31 @@
+DEEPIKA NAIR
+Senior AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP10030
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 6.6 years of experience, based in Chennai. Strong in Python, LLM Engineering, Vector Databases and Generative AI, with recent work in energy trading. Interested in moving towards AI Engineer, Data Scientist roles and open to relocating to Gurugram, Singapore, London.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.1y), REST API Design (Proficient, 2.3y)
+- Data & AI: LLM Engineering (Advanced, 6.1y), Vector Databases (Advanced, 2.1y), Generative AI (Proficient, 2.2y), Responsible AI (Proficient, 1.6y), NLP (Proficient, 3.8y)
+- Cloud & DevOps: Azure (Proficient, 4.7y), Terraform (Working, 1.1y)
+
+EXPERIENCE
+* Energy Trading Agentic Customer-service Assistant — a global energy company (2025-11 to present)
+  Re-architected an agentic customer-service assistant for a global energy company in energy trading using NLP and Vector Databases, saving ~12K hours annually.
+* Pharma R&D Agentic Customer-service Assistant — a US pharma company (2024-12 to 2025-09)
+  Re-architected an agentic customer-service assistant for a US pharma company in pharma R&D using Azure, REST API Design, Responsible AI and Terraform, lifting NPS by 22 points.
+* Energy Trading Agentic Customer-service Assistant — a tier-1 energy company (2023-08 to 2024-10)
+  Migrated an agentic customer-service assistant for a tier-1 energy company in energy trading using Vector Databases, LLM Engineering and Terraform, saving ~35K hours annually.
+* Payments Knowledge Assistant (RAG) — a global payments provider (2022-08 to 2023-07)
+  Led the delivery of a knowledge assistant (RAG) for a global payments provider in payments using Generative AI, LLM Engineering, REST API Design and Terraform, lifting NPS by 18 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Data Scientist, ML Engineer

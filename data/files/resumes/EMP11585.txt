@@ -1,0 +1,30 @@
+HARJIT SINGH
+Associate Product Manager | Product | Toronto, Canada
+Employee ID: EMP11585
+
+PROFESSIONAL SUMMARY
+Associate Product Manager with 0.9 years of experience, based in Toronto. Strong in Product Management, Roadmapping, Stakeholder Management and SQL, with recent work in energy trading. Interested in moving towards UX Designer, Business Analyst roles and open to relocating to Gurugram, Austin.
+
+CORE SKILLS
+- Product & Design: Product Management (Proficient, 0.4y), Roadmapping (Proficient, 0.4y), A/B Testing (Working, 0.3y), Product Strategy (Beginner, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.5y), Agile/Scrum (Working, 0.3y)
+- Data & AI: SQL (Working, 0.3y), Databricks (Working, 0.4y)
+
+EXPERIENCE
+* Payments Checkout Experience — a European payments provider (2026-07 to present)
+  Defined the roadmap for a checkout experience for a European payments provider in payments using Product Strategy, Product Management and SQL, improving conversion by 35%.
+* Energy Trading AI-assisted Customer Journey — a US energy company (2024-12 to 2026-06)
+  Owned an AI-assisted customer journey for a US energy company in energy trading using Roadmapping, Product Management and Agile/Scrum, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Pragmatic Institute PMC (2026)
+
+EDUCATION
+- BSc Economics
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: UX Designer, Business Analyst

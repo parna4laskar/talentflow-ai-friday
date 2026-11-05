@@ -1,0 +1,30 @@
+FARHAN SUBRAMANIAN
+Lead Software Architect | Engineering | Bengaluru, India
+Employee ID: EMP10905
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 12.1 years of experience, based in Bengaluru. Strong in Mentoring, System Design, Python and Azure, with recent work in HR tech. Interested in moving towards Software Architect, DevOps Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Mentoring (Expert, 1.9y), Stakeholder Management (Proficient, 5.1y)
+- Software Engineering: System Design (Advanced, 10.2y), Python (Advanced, 5.1y), Microservices (Proficient, 0.6y), Kafka (Proficient, 2.2y)
+- Cloud & DevOps: Azure (Advanced, 2.9y), Kubernetes (Proficient, 0.7y), FinOps (Proficient, 8.0y)
+- Security: Cloud Security (Working, 2.4y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — an APAC manufacturer (2026-06 to present)
+  Migrated a mobile banking app for an APAC manufacturer in manufacturing IoT using Microservices, Python, Azure and System Design, improving conversion by 12%.
+* HR Tech Self-service Portal — a global HR software company (2025-11 to 2026-06)
+  Led the delivery of a self-service portal for a global HR software company in HR tech using Cloud Security, Azure, Kubernetes and Kafka, lifting NPS by 22 points.
+* Airline Operations Self-service Portal — an APAC airline (2024-06 to 2025-10)
+  Built a self-service portal for an APAC airline in airline operations using Kubernetes and FinOps, lifting NPS by 30 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect, DevOps Engineer, Cloud Engineer, Engineering Manager

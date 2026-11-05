@@ -1,0 +1,33 @@
+MRUNAL GUPTA
+Principal QA Engineer | Quality Engineering | Chennai, India
+Employee ID: EMP12622
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 16.6 years of experience, based in Chennai. Strong in Test Automation, SQL, Selenium and API Testing, with recent work in payments. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 16.6y), Selenium (Advanced, 12.9y), API Testing (Advanced, 15.3y)
+- Data & AI: SQL (Expert, 16.2y), Generative AI (Proficient, 10.5y)
+- Software Engineering: Python (Advanced, 12.8y)
+- Delivery & Leadership: Communication (Advanced, 4.8y), People Leadership (Proficient, 4.2y)
+
+EXPERIENCE
+* Retail Banking Performance Engineering Programme — a European retail bank (2025-11 to present)
+  Automated a performance engineering programme for a European retail bank in retail banking using Test Automation, Generative AI, Selenium and API Testing, accelerating releases by 40%.
+* Payments API Contract-testing Suite — a US payments provider (2024-05 to 2025-10)
+  Re-architected an API contract-testing suite for a US payments provider in payments using Communication and API Testing, raising automated test coverage to 80%.
+* Wealth Management Test Automation Framework — a leading wealth manager (2023-08 to 2024-04)
+  Re-architected a test automation framework for a leading wealth manager in wealth management using SQL, Selenium, Generative AI and API Testing, accelerating releases by 30%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer, Backend Engineer

@@ -1,0 +1,33 @@
+PRIYA JONES
+Lead Cloud Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12355
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 8.9 years of experience, based in London. Strong in GCP, Terraform, Linux Administration and Python, with recent work in airline operations. Interested in moving towards Platform Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 1.5y), Terraform (Advanced, 7.8y), Linux Administration (Advanced, 0.6y), Platform Engineering (Advanced, 3.0y), Kubernetes (Proficient, 0.9y), FinOps (Proficient, 2.5y)
+- Software Engineering: Python (Advanced, 6.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 5.6y), Mentoring (Proficient, 1.0y), Communication (Proficient, 2.2y)
+- Security: Cloud Security (Proficient, 2.7y)
+
+EXPERIENCE
+* Payments Data-centre Exit To Cloud — a US payments provider (2025-08 to present)
+  Led the delivery of a data-centre exit to cloud for a US payments provider in payments using FinOps, Kubernetes and GCP, cutting cloud spend by 25%.
+* Airline Operations Cloud Landing Zone — a fast-growing airline (2024-04 to 2025-07)
+  Re-architected a cloud landing zone for a fast-growing airline in airline operations using Kubernetes and Platform Engineering, cutting cloud spend by 22%.
+* Airline Operations Observability Stack — a US airline (2022-12 to 2024-02)
+  Re-architected an observability stack for a US airline in airline operations using GCP, Python and Cloud Security, accelerating releases by 40%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Platform Engineer, Site Reliability Engineer

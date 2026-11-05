@@ -1,0 +1,32 @@
+KARTHIK O'SULLIVAN
+Lead Software Architect | Engineering | Pune, India
+Employee ID: EMP11656
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 9.5 years of experience, based in Pune. Strong in Microservices, System Design, C# and AWS, with recent work in insurance claims. Interested in moving towards Software Architect, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 2.5y), System Design (Advanced, 8.2y), C# (Advanced, 4.1y), Kafka (Advanced, 7.8y), REST API Design (Advanced, 7.5y)
+- Cloud & DevOps: AWS (Advanced, 1.2y), Kubernetes (Advanced, 3.5y)
+- Delivery & Leadership: Mentoring (Advanced, 2.5y), Stakeholder Management (Proficient, 4.0y)
+
+EXPERIENCE
+* Insurance Claims Self-service Portal — an APAC insurer (2025-07 to present)
+  Scaled a self-service portal for an APAC insurer in insurance claims using Kubernetes, Stakeholder Management and System Design, saving ~40K hours annually.
+* Telecom Billing Self-service Portal — a leading telecom operator (2024-08 to 2025-05)
+  Scaled a self-service portal for a leading telecom operator in telecom billing using Kafka, REST API Design, AWS and Microservices, saving ~30K hours annually.
+* Insurance Claims Customer Onboarding Platform — a global insurer (2023-08 to 2024-05)
+  Modernised a customer onboarding platform for a global insurer in insurance claims using Mentoring, Kafka, C# and Stakeholder Management, improving conversion by 40%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2021)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, Backend Engineer, DevOps Engineer

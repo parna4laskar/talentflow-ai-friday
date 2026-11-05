@@ -1,0 +1,35 @@
+HARSH SHEIKH
+Senior AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP11262
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 5.8 years of experience, based in Pune. Strong in LLM Engineering, Docker, Python and Generative AI, with recent work in payments. Interested in moving towards ML Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Advanced, 1.0y), Generative AI (Proficient, 0.5y), Vector Databases (Working, 0.5y), NLP (Working, 0.8y), Deep Learning (Working, 2.7y)
+- Cloud & DevOps: Docker (Advanced, 1.6y), Azure (Proficient, 0.8y)
+- Software Engineering: Python (Proficient, 2.8y), REST API Design (Proficient, 1.0y)
+
+EXPERIENCE
+* Pharma R&D Recommendation Engine — a leading pharma company (2026-06 to present)
+  Modernised a recommendation engine for a leading pharma company in pharma R&D using LLM Engineering, Deep Learning, Azure and Generative AI, improving model accuracy by 12%.
+* Payments Knowledge Assistant (RAG) — a leading payments provider (2025-06 to 2026-05)
+  Re-architected a knowledge assistant (RAG) for a leading payments provider in payments using Docker, REST API Design and NLP, saving ~25K hours annually.
+* Payments Fraud Detection Model — an APAC payments provider (2024-02 to 2025-04)
+  Scaled a fraud detection model for an APAC payments provider in payments using REST API Design and Deep Learning, improving model accuracy by 30%.
+* Airline Operations Agentic Customer-service Assistant — a fast-growing airline (2023-05 to 2024-02)
+  Modernised an agentic customer-service assistant for a fast-growing airline in airline operations using Generative AI, LLM Engineering and Python, lifting NPS by 25 points.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2025)
+- Google Generative AI Leader (2025)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: ML Engineer, Data Scientist

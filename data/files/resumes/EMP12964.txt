@@ -1,0 +1,27 @@
+AHMAD KUMAR
+Associate QA Engineer | Quality Engineering | Singapore, Singapore
+Employee ID: EMP12964
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2.8 years of experience, based in Singapore. Strong in Test Automation, Playwright, API Testing and SQL, with recent work in media streaming. Interested in moving towards Full Stack Engineer roles and open to relocating to London, Hyderabad, Bengaluru.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 0.9y), Playwright (Proficient, 2.0y), API Testing (Proficient, 1.0y)
+- Data & AI: SQL (Working, 1.3y), LLM Engineering (Working, 0.9y)
+- Software Engineering: Python (Working, 0.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Performance Engineering Programme — a US logistics company (2026-04 to present)
+  Designed a performance engineering programme for a US logistics company in supply-chain logistics using Test Automation, Python, Playwright and LLM Engineering, reducing production incidents by 30%.
+* Media Streaming Test Automation Framework — a European streaming platform (2024-09 to 2026-02)
+  Automated a test automation framework for a European streaming platform in media streaming using Python and LLM Engineering, raising automated test coverage to 80%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer

@@ -1,0 +1,33 @@
+KEVIN RODRIGUEZ
+Senior QA Engineer | Quality Engineering | Austin, United States
+Employee ID: EMP11661
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 5.1 years of experience, based in Austin. Strong in Test Automation, Selenium, API Testing and Python, with recent work in manufacturing IoT. Interested in moving towards QA Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 2.6y), Selenium (Advanced, 2.1y), API Testing (Proficient, 1.1y)
+- Software Engineering: Python (Proficient, 1.2y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 2.6y), Communication (Proficient, 2.3y)
+- Data & AI: SQL (Proficient, 0.8y), Data Visualization (Working, 2.0y)
+- Cloud & DevOps: FinOps (Working, 1.8y)
+
+EXPERIENCE
+* Manufacturing IoT Test Automation Framework — a US manufacturer (2026-01 to present)
+  Modernised a test automation framework for a US manufacturer in manufacturing IoT using SQL, Python and Communication, raising automated test coverage to 90%.
+* Manufacturing IoT API Contract-testing Suite — a leading manufacturer (2024-08 to 2025-10)
+  Automated an API contract-testing suite for a leading manufacturer in manufacturing IoT using FinOps, Agile/Scrum and SQL, reducing production incidents by 18%.
+* Manufacturing IoT API Contract-testing Suite — a US manufacturer (2023-07 to 2024-07)
+  Led the delivery of an API contract-testing suite for a US manufacturer in manufacturing IoT using Data Visualization and API Testing, reducing production incidents by 30%.
+* Manufacturing IoT Performance Engineering Programme — a European manufacturer (2022-01 to 2023-05)
+  Designed a performance engineering programme for a European manufacturer in manufacturing IoT using Python and Data Visualization, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: QA Engineer, DevOps Engineer, Full Stack Engineer, Backend Engineer

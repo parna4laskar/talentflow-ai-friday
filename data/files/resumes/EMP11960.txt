@@ -1,0 +1,33 @@
+GURPREET GUPTA
+Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11960
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 5.8 years of experience, based in Hyderabad. Strong in React, Playwright, Next.js and TypeScript, with recent work in e-commerce. Interested in moving towards Frontend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Proficient, 1.6y), Next.js (Proficient, 1.8y), TypeScript (Working, 1.8y), JavaScript (Working, 0.4y)
+- Quality Engineering: Playwright (Proficient, 3.6y)
+- Product & Design: Design Systems (Working, 2.5y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+
+EXPERIENCE
+* Automotive Pricing Engine — a European car maker (2026-05 to present)
+  Migrated a pricing engine for a European car maker in automotive using Communication, JavaScript and TypeScript, improving conversion by 35%.
+* E-commerce Self-service Portal — a fast-growing online retailer (2025-03 to 2026-05)
+  Built a self-service portal for a fast-growing online retailer in e-commerce using Playwright and Next.js, saving ~40K hours annually.
+* Supply-chain Logistics Pricing Engine — a global logistics company (2023-08 to 2025-02)
+  Designed a pricing engine for a global logistics company in supply-chain logistics using TypeScript, Next.js, Communication and JavaScript, improving conversion by 30%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, Full Stack Engineer

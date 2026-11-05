@@ -1,0 +1,36 @@
+CONOR BYRNE
+Senior Data Analyst | Data & Analytics | Dublin, Ireland
+Employee ID: EMP10251
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 6.3 years of experience, based in Dublin. Strong in Data Visualization, Power BI, A/B Testing and Business Analysis, with recent work in payments. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 3.1y), Power BI (Advanced, 5.2y), SQL (Working, 0.3y), Statistics (Beginner, 1.4y)
+- Product & Design: A/B Testing (Advanced, 1.2y)
+- Business & Finance: Business Analysis (Proficient, 1.5y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.6y)
+- Software Engineering: Python (Working, 1.3y)
+
+EXPERIENCE
+* Airline Operations Data Lakehouse — a tier-1 airline (2025-08 to present)
+  Automated a data lakehouse for a tier-1 airline in airline operations using SQL and Python, reducing processing time by 25%.
+* Healthcare Customer Churn Model — a US hospital network (2024-07 to 2025-07)
+  Designed a customer churn model for a US hospital network in healthcare using Stakeholder Management and A/B Testing, improving conversion by 12%.
+* Telecom Billing Customer Churn Model — a European telecom operator (2023-07 to 2024-05)
+  Built a customer churn model for a European telecom operator in telecom billing using Power BI, Business Analysis and Data Visualization, improving conversion by 40%.
+* Healthcare Data Lakehouse — an APAC hospital network (2021-12 to 2023-05)
+  Scaled a data lakehouse for an APAC hospital network in healthcare using Data Visualization, A/B Testing and Business Analysis, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Irish, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Analyst, Financial Analyst, Data Scientist

@@ -1,0 +1,34 @@
+TANVI REDDY
+ML Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP10769
+
+PROFESSIONAL SUMMARY
+ML Engineer with 5.4 years of experience, based in Chennai. Strong in Python, Machine Learning, Deep Learning and Kubernetes, with recent work in public sector. Interested in moving towards ML Engineer, DevOps Engineer roles and open to relocating to New York, Kraków, London.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 5.2y)
+- Data & AI: Machine Learning (Advanced, 1.7y), Deep Learning (Advanced, 2.6y), Computer Vision (Advanced, 2.2y), Agentic AI (Working, 1.1y), MLOps (Beginner, 0.6y)
+- Cloud & DevOps: Kubernetes (Advanced, 4.1y), CI/CD (Working, 1.4y)
+
+EXPERIENCE
+* Public Sector Recommendation Engine — a fast-growing government agency (2026-08 to present)
+  Re-architected a recommendation engine for a fast-growing government agency in public sector using MLOps, CI/CD and Computer Vision, improving conversion by 30%.
+* Public Sector Agentic Customer-service Assistant — a leading government agency (2025-05 to 2026-06)
+  Designed an agentic customer-service assistant for a leading government agency in public sector using Machine Learning and Kubernetes, saving ~30K hours annually.
+* Public Sector Fraud Detection Model — a fast-growing government agency (2023-09 to 2025-02)
+  Built a fraud detection model for a fast-growing government agency in public sector using CI/CD, Agentic AI, Deep Learning and Computer Vision, reducing processing time by 35%.
+* Public Sector Recommendation Engine — a US government agency (2022-10 to 2023-08)
+  Automated a recommendation engine for a US government agency in public sector using Machine Learning, Agentic AI and MLOps, improving conversion by 30%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, DevOps Engineer

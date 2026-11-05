@@ -1,0 +1,28 @@
+ABHISHEK SUBRAMANIAN
+Lead Engineering Manager | Engineering | Hyderabad, India
+Employee ID: EMP10247
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14.6 years of experience, based in Hyderabad. Strong in People Leadership, System Design, Stakeholder Management and Python, with recent work in supply-chain logistics. Interested in moving towards Scrum Master roles and open to relocating to Chennai, Bengaluru.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 11.9y), Stakeholder Management (Advanced, 14.6y), Communication (Advanced, 11.8y), Mentoring (Advanced, 2.9y), Agile/Scrum (Proficient, 6.8y)
+- Software Engineering: System Design (Advanced, 5.1y), Python (Advanced, 13.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a leading logistics company (2025-12 to present)
+  Led the delivery of a payments microservices platform for a leading logistics company in supply-chain logistics using Python and Mentoring, reducing processing time by 25%.
+* HR Tech Pricing Engine — an APAC HR software company (2025-03 to 2025-10)
+  Scaled a pricing engine for an APAC HR software company in HR tech using Agile/Scrum, People Leadership, Mentoring and System Design, improving conversion by 30%.
+* Wealth Management Order Management System — a global wealth manager (2023-12 to 2024-12)
+  Modernised an order management system for a global wealth manager in wealth management using Communication, People Leadership, Stakeholder Management and Python, reducing processing time by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Scrum Master

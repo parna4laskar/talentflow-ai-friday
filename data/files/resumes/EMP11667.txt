@@ -1,0 +1,33 @@
+GAURI PAWAR
+Lead Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11667
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 13.3 years of experience, based in Pune. Strong in Go, REST API Design, SQL and Microservices, with recent work in supply-chain logistics. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 2.9y), REST API Design (Advanced, 12.1y), Microservices (Advanced, 11.6y), System Design (Advanced, 6.7y)
+- Data & AI: SQL (Advanced, 10.9y)
+- Cloud & DevOps: Kubernetes (Advanced, 9.9y), Docker (Proficient, 8.5y)
+- Delivery & Leadership: Mentoring (Working, 5.9y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Onboarding Platform — a fast-growing manufacturer (2026-01 to present)
+  Automated a customer onboarding platform for a fast-growing manufacturer in manufacturing IoT using Docker and Microservices, reducing processing time by 30%.
+* Retail Banking Customer Onboarding Platform — a fast-growing retail bank (2025-01 to 2025-11)
+  Automated a customer onboarding platform for a fast-growing retail bank in retail banking using Microservices, REST API Design and Go, improving conversion by 22%.
+* Airline Operations Customer Onboarding Platform — an APAC airline (2023-06 to 2024-10)
+  Built a customer onboarding platform for an APAC airline in airline operations using Microservices and Go, reducing processing time by 40%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect

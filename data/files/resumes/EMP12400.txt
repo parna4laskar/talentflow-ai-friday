@@ -1,0 +1,33 @@
+MICHAEL JOHNSON
+Lead Frontend Engineer | Engineering | Austin, United States
+Employee ID: EMP12400
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 13.6 years of experience, based in Austin. Strong in JavaScript, React, TypeScript and Playwright, with recent work in media streaming. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 5.6y), React (Advanced, 9.4y), TypeScript (Proficient, 10.1y), GraphQL (Proficient, 9.7y), Next.js (Proficient, 4.7y), Node.js (Working, 5.9y)
+- Quality Engineering: Playwright (Proficient, 4.5y)
+- Delivery & Leadership: Mentoring (Proficient, 8.8y), Stakeholder Management (Proficient, 8.3y)
+- Product & Design: Figma (Working, 0.3y)
+
+EXPERIENCE
+* Media Streaming Mobile Banking App — a tier-1 streaming platform (2026-03 to present)
+  Modernised a mobile banking app for a tier-1 streaming platform in media streaming using Node.js, Playwright, TypeScript and Mentoring, improving conversion by 18%.
+* Media Streaming Customer Onboarding Platform — a US streaming platform (2024-07 to 2025-12)
+  Automated a customer onboarding platform for a US streaming platform in media streaming using React, Mentoring and Playwright, lifting NPS by 18 points.
+* Pharma R&D Pricing Engine — an APAC pharma company (2023-08 to 2024-05)
+  Led the delivery of a pricing engine for an APAC pharma company in pharma R&D using Playwright, Mentoring, React and Figma, improving conversion by 18%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, QA Engineer, Full Stack Engineer, Mobile Engineer

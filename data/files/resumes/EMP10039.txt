@@ -1,0 +1,28 @@
+CHARLOTTE KHAN
+Associate Site Reliability Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP10039
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 0.8 years of experience, based in London. Strong in Site Reliability Engineering, Observability, Kubernetes and AWS, with recent work in telecom billing. Interested in moving towards DevOps Engineer, Cloud Engineer roles and open to relocating to Gurugram, Kraków.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 0.6y), Observability (Proficient, 0.5y), Kubernetes (Proficient, 0.4y), AWS (Proficient, 0.4y), Linux Administration (Working, 0.3y), Terraform (Working, 0.3y)
+- Quality Engineering: Performance Testing (Working, 0.3y)
+- Security: Incident Response (Working, 0.4y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Insurance Claims CI/CD Platform — a tier-1 insurer (2025-10 to present)
+  Migrated a CI/CD platform for a tier-1 insurer in insurance claims using Linux Administration and AWS, accelerating releases by 25%.
+* Payments Observability Stack — an APAC payments provider (2024-09 to 2025-09)
+  Built an observability stack for an APAC payments provider in payments using AWS, Python and Observability, reducing production incidents by 35%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Cloud Engineer, Security Engineer

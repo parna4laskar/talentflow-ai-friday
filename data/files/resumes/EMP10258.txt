@@ -1,0 +1,33 @@
+VIVEK PATIL
+Lead Software Architect | Engineering | Bengaluru, India
+Employee ID: EMP10258
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 10.8 years of experience, based in Bengaluru. Strong in Python, System Design, Microservices and AWS, with recent work in energy trading. Interested in moving towards DevOps Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 5.1y), System Design (Advanced, 2.7y), Microservices (Advanced, 6.4y), Kafka (Advanced, 7.3y), REST API Design (Proficient, 5.3y)
+- Cloud & DevOps: AWS (Advanced, 10.4y), Kubernetes (Working, 1.1y)
+- Security: Cloud Security (Advanced, 5.8y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.9y), Communication (Proficient, 4.8y), People Leadership (Proficient, 3.0y), Mentoring (Beginner, 1.7y)
+- Data & AI: LLM Engineering (Proficient, 0.4y), Machine Learning (Working, 4.6y)
+
+EXPERIENCE
+* Healthcare Customer Onboarding Platform — a fast-growing hospital network (2026-10 to present)
+  Led the delivery of a customer onboarding platform for a fast-growing hospital network in healthcare using AWS, Mentoring, Kafka and LLM Engineering, lifting NPS by 25 points.
+* Payments Pricing Engine — a tier-1 payments provider (2025-05 to 2026-08)
+  Built a pricing engine for a tier-1 payments provider in payments using Mentoring and Stakeholder Management, reducing processing time by 18%.
+* Insurance Claims Payments Microservices Platform — a leading insurer (2024-09 to 2025-03)
+  Built a payments microservices platform for a leading insurer in insurance claims using Python and Kafka, reducing production incidents by 40%.
+* Airline Operations Payments Microservices Platform — a European airline (2022-12 to 2024-06)
+  Designed a payments microservices platform for a European airline in airline operations using Python, AWS, Communication and Kubernetes, reducing processing time by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Engineering Manager

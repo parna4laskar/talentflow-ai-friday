@@ -1,0 +1,32 @@
+HARINI SINGH
+Security Engineer | Cyber Security | Gurugram, India
+Employee ID: EMP12535
+
+PROFESSIONAL SUMMARY
+Security Engineer with 4.7 years of experience, based in Gurugram. Strong in Kubernetes, Incident Response, Application Security and Cloud Security, with recent work in insurance claims. Interested in moving towards Security Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Proficient, 3.4y), Platform Engineering (Working, 2.0y)
+- Security: Incident Response (Proficient, 2.1y), Application Security (Working, 0.9y), Cloud Security (Working, 1.7y), GRC (Working, 0.3y), Threat Modeling (Beginner, 0.3y)
+- Software Engineering: Python (Beginner, 0.3y)
+- Data & AI: Databricks (Beginner, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Cloud Security Posture Programme — a European insurer (2026-10 to present)
+  Modernised a cloud security posture programme for a European insurer in insurance claims using Application Security, Platform Engineering and Cloud Security, closing 40% of open audit findings.
+* Insurance Claims Secure SDLC Rollout — a leading insurer (2025-07 to 2026-09)
+  Scaled a secure SDLC rollout for a leading insurer in insurance claims using Kubernetes, Cloud Security and Threat Modeling, reducing production incidents by 25%.
+* Insurance Claims Secure SDLC Rollout — a global insurer (2024-05 to 2025-06)
+  Automated a secure SDLC rollout for a global insurer in insurance claims using Databricks, Threat Modeling and GRC, accelerating releases by 40%.
+* Public Sector Cloud Security Posture Programme — a tier-1 government agency (2023-09 to 2024-04)
+  Scaled a cloud security posture programme for a tier-1 government agency in public sector using Application Security, Databricks, Python and Threat Modeling, closing 40% of open audit findings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Security Engineer, Software Architect

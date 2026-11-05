@@ -1,0 +1,32 @@
+ALEKSANDRA KOWALSKI
+Lead Data Engineer | Data & Analytics | Kraków, Poland
+Employee ID: EMP12856
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 12.7 years of experience, based in Kraków. Strong in dbt, SQL, Python and Data Engineering, with recent work in e-commerce. Interested in moving towards Data Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: dbt (Expert, 12.7y), SQL (Advanced, 4.4y), Data Engineering (Advanced, 2.4y), Airflow (Proficient, 6.0y)
+- Software Engineering: Python (Advanced, 7.1y), Kafka (Working, 3.5y)
+- Delivery & Leadership: People Leadership (Advanced, 7.6y), Mentoring (Proficient, 1.1y)
+- Cloud & DevOps: AWS (Working, 2.4y)
+
+EXPERIENCE
+* E-commerce Real-time Analytics Pipeline — a tier-1 online retailer (2026-08 to present)
+  Designed a real-time analytics pipeline for a tier-1 online retailer in e-commerce using AWS and Data Engineering, cutting cloud spend by 30%.
+* Energy Trading Data Lakehouse — an APAC energy company (2025-09 to 2026-07)
+  Led the delivery of a data lakehouse for an APAC energy company in energy trading using AWS and Airflow, cutting cloud spend by 40%.
+* E-commerce Data Lakehouse — a US online retailer (2024-11 to 2025-08)
+  Led the delivery of a data lakehouse for a US online retailer in e-commerce using SQL, Kafka, AWS and Data Engineering, cutting cloud spend by 35%.
+* Telecom Billing Data Lakehouse — a US telecom operator (2023-06 to 2024-10)
+  Modernised a data lakehouse for a US telecom operator in telecom billing using Python, Kafka and Airflow, reducing processing time by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Analyst, Data Scientist, Backend Engineer

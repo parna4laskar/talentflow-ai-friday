@@ -1,0 +1,30 @@
+PRANAV KUMAR
+Lead Software Architect | Engineering | Pune, India
+Employee ID: EMP12542
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 10.6 years of experience, based in Pune. Strong in Microservices, System Design, Azure and Kubernetes, with recent work in automotive. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 6.3y), System Design (Advanced, 1.2y), C# (Working, 1.3y)
+- Cloud & DevOps: Azure (Advanced, 1.5y), Kubernetes (Advanced, 3.2y)
+- Delivery & Leadership: People Leadership (Advanced, 4.7y), Mentoring (Proficient, 0.7y), Stakeholder Management (Proficient, 2.5y)
+- Security: Cloud Security (Proficient, 3.8y)
+
+EXPERIENCE
+* Insurance Claims Pricing Engine — a US insurer (2026-03 to present)
+  Migrated a pricing engine for a US insurer in insurance claims using Stakeholder Management, Mentoring and System Design, improving conversion by 40%.
+* Retail Banking Payments Microservices Platform — a European retail bank (2025-07 to 2026-01)
+  Led the delivery of a payments microservices platform for a European retail bank in retail banking using Microservices, Cloud Security, Stakeholder Management and C#, reducing production incidents by 25%.
+* Manufacturing IoT Customer Onboarding Platform — a European manufacturer (2024-09 to 2025-05)
+  Modernised a customer onboarding platform for a European manufacturer in manufacturing IoT using Stakeholder Management, Azure, Cloud Security and C#, reducing processing time by 40%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager

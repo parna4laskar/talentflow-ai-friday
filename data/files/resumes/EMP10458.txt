@@ -1,0 +1,31 @@
+ABHISHEK MEHTA
+Lead Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10458
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 8.8 years of experience, based in Hyderabad. Strong in Communication, TypeScript, JavaScript and Angular, with recent work in retail banking. Interested in moving towards Mobile Engineer, UX Designer roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Expert, 8.8y), Mentoring (Advanced, 7.8y), Stakeholder Management (Advanced, 7.9y), People Leadership (Proficient, 3.6y)
+- Software Engineering: TypeScript (Advanced, 4.0y), JavaScript (Advanced, 6.1y), Angular (Advanced, 2.4y), Node.js (Advanced, 8.5y), Next.js (Proficient, 2.5y), React (Working, 1.0y)
+- Product & Design: Figma (Advanced, 5.2y)
+- Data & AI: Machine Learning (Advanced, 6.4y)
+- Cloud & DevOps: CI/CD (Working, 3.0y)
+
+EXPERIENCE
+* Wealth Management Pricing Engine — a US wealth manager (2026-05 to present)
+  Scaled a pricing engine for a US wealth manager in wealth management using Communication and Angular, reducing processing time by 12%.
+* Healthcare Order Management System — a global hospital network (2025-05 to 2026-02)
+  Built an order management system for a global hospital network in healthcare using Stakeholder Management, Figma, Communication and React, onboarding 2 new enterprise clients.
+* Retail Banking Mobile Banking App — an APAC retail bank (2024-01 to 2025-03)
+  Re-architected a mobile banking app for an APAC retail bank in retail banking using Mentoring, React, JavaScript and Communication, lifting NPS by 12 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer, UX Designer

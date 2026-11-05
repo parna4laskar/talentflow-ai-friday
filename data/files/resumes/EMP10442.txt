@@ -1,0 +1,30 @@
+HARRY PATEL
+Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10442
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.4 years of experience, based in London. Strong in C#, REST API Design, SQL and .NET Core, with recent work in manufacturing IoT. Interested in moving towards AI Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: C# (Proficient, 1.3y), REST API Design (Proficient, 1.0y), .NET Core (Proficient, 1.7y), Microservices (Working, 0.9y), Spring Boot (Working, 0.3y)
+- Data & AI: SQL (Proficient, 0.8y), Snowflake (Working, 0.6y)
+- Cloud & DevOps: Docker (Proficient, 1.0y)
+
+EXPERIENCE
+* Manufacturing IoT Pricing Engine — a tier-1 manufacturer (2025-11 to present)
+  Scaled a pricing engine for a tier-1 manufacturer in manufacturing IoT using SQL and .NET Core, reducing processing time by 35%.
+* Manufacturing IoT Claims Processing Engine — a European manufacturer (2024-11 to 2025-10)
+  Re-architected a claims processing engine for a European manufacturer in manufacturing IoT using Microservices, REST API Design and Spring Boot, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, Engineering Manager, DevOps Engineer

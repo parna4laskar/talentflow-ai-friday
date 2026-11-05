@@ -1,0 +1,27 @@
+TANVI SHAH
+Associate Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP10085
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 2.6 years of experience, based in Chennai. Strong in SQL, Python, Machine Learning and Statistics, with recent work in manufacturing IoT. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.9y), Machine Learning (Working, 0.5y), Statistics (Working, 0.6y), Generative AI (Working, 1.1y), Deep Learning (Working, 0.9y), MLOps (Beginner, 0.3y), NLP (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.6y)
+- Product & Design: A/B Testing (Working, 0.7y)
+
+EXPERIENCE
+* Manufacturing IoT Real-time Analytics Pipeline — a leading manufacturer (2026-01 to present)
+  Re-architected a real-time analytics pipeline for a leading manufacturer in manufacturing IoT using Statistics, Python and SQL, reducing processing time by 40%.
+* Manufacturing IoT Executive KPI Dashboard Suite — a leading manufacturer (2024-10 to 2025-10)
+  Modernised an executive KPI dashboard suite for a leading manufacturer in manufacturing IoT using A/B Testing, SQL, Deep Learning and Machine Learning, saving ~22K hours annually.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, AI Engineer, Data Analyst, Product Manager

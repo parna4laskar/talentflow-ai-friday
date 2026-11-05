@@ -1,0 +1,30 @@
+KRZYSZTOF WÓJCIK
+Senior Data Analyst | Data & Analytics | Kraków, Poland
+Employee ID: EMP12490
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10.2 years of experience, based in Kraków. Strong in SQL, Data Visualization, Tableau and Python, with recent work in telecom billing. Interested in moving towards Data Analyst, Business Analyst roles and open to relocating to Pune, Hyderabad, Singapore.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 5.2y), Data Visualization (Advanced, 4.6y), Tableau (Proficient, 3.0y), dbt (Proficient, 3.2y), Snowflake (Working, 1.5y)
+- Software Engineering: Python (Proficient, 7.4y)
+
+EXPERIENCE
+* Telecom Billing Regulatory Reporting Suite — a leading telecom operator (2025-12 to present)
+  Migrated a regulatory reporting suite for a leading telecom operator in telecom billing using Snowflake, dbt, Tableau and Python, reducing processing time by 12%.
+* Telecom Billing Real-time Analytics Pipeline — a US telecom operator (2024-12 to 2025-09)
+  Led the delivery of a real-time analytics pipeline for a US telecom operator in telecom billing using dbt and SQL, reducing processing time by 12%.
+* Telecom Billing Data Lakehouse — an APAC telecom operator (2024-04 to 2024-11)
+  Automated a data lakehouse for an APAC telecom operator in telecom billing using Python, Data Visualization and SQL, reducing processing time by 30%.
+* Telecom Billing Executive KPI Dashboard Suite — a leading telecom operator (2023-10 to 2024-02)
+  Scaled an executive KPI dashboard suite for a leading telecom operator in telecom billing using Snowflake, Data Visualization, SQL and Tableau, saving ~18K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Analyst, Business Analyst, Product Manager, Financial Analyst

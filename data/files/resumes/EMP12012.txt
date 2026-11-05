@@ -1,0 +1,32 @@
+NATALIA SZYMAŃSKI
+Senior Financial Analyst | Finance | Kraków, Poland
+Employee ID: EMP12012
+
+PROFESSIONAL SUMMARY
+Senior Financial Analyst with 6.5 years of experience, based in Kraków. Strong in FP&A, Financial Analysis, Financial Modeling and Stakeholder Management, with recent work in healthcare. Interested in moving towards Risk & Compliance Analyst, Business Analyst roles and open to relocating to London.
+
+CORE SKILLS
+- Business & Finance: FP&A (Advanced, 1.5y), Financial Analysis (Proficient, 2.3y), Financial Modeling (Proficient, 3.9y), Risk Management (Proficient, 2.8y), SAP FICO (Working, 1.1y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.5y)
+- Data & AI: SQL (Proficient, 2.4y), Power BI (Working, 2.2y)
+
+EXPERIENCE
+* Wealth Management Risk Control Framework — a tier-1 wealth manager (2026-05 to present)
+  Built a risk control framework for a tier-1 wealth manager in wealth management using Stakeholder Management and Financial Analysis, closing 25% of open audit findings.
+* E-commerce Regulatory Capital Reporting — a tier-1 online retailer (2025-04 to 2026-04)
+  Redesigned a regulatory capital reporting for a tier-1 online retailer in e-commerce using SQL, Stakeholder Management and Risk Management, closing 35% of open audit findings.
+* Healthcare Risk Control Framework — a leading hospital network (2024-09 to 2025-02)
+  Led a risk control framework for a leading hospital network in healthcare using SQL, Stakeholder Management and SAP FICO, closing 35% of open audit findings.
+
+CERTIFICATIONS
+- ACCA (2024)
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Risk & Compliance Analyst, Business Analyst, Data Analyst

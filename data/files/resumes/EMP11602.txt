@@ -1,0 +1,34 @@
+HANNAH PATEL
+ML Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP11602
+
+PROFESSIONAL SUMMARY
+ML Engineer with 3 years of experience, based in London. Strong in MLOps, Python, Deep Learning and Machine Learning, with recent work in public sector. Interested in moving towards Platform Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: MLOps (Advanced, 0.8y), Deep Learning (Proficient, 1.9y), Machine Learning (Working, 0.9y), Databricks (Working, 0.9y), Computer Vision (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.7y)
+- Cloud & DevOps: Docker (Working, 0.4y)
+
+EXPERIENCE
+* Media Streaming Fraud Detection Model — a fast-growing streaming platform (2025-12 to present)
+  Migrated a fraud detection model for a fast-growing streaming platform in media streaming using Computer Vision, Deep Learning and Python, reducing processing time by 18%.
+* Manufacturing IoT Knowledge Assistant (RAG) — a European manufacturer (2025-02 to 2025-09)
+  Modernised a knowledge assistant (RAG) for a European manufacturer in manufacturing IoT using Deep Learning, Computer Vision, Machine Learning and Python, saving ~40K hours annually.
+* Public Sector Knowledge Assistant (RAG) — a US government agency (2023-12 to 2025-02)
+  Built a knowledge assistant (RAG) for a US government agency in public sector using Python, Deep Learning, Databricks and Docker, lifting NPS by 12 points.
+* Telecom Billing Fraud Detection Model — an APAC telecom operator (2022-08 to 2023-11)
+  Migrated a fraud detection model for an APAC telecom operator in telecom billing using Computer Vision, Docker and MLOps, improving model accuracy by 25%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Platform Engineer, Data Scientist

@@ -1,0 +1,29 @@
+AVA MARTINEZ
+Lead Engineering Manager | Engineering | New York, United States
+Employee ID: EMP12232
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 13.1 years of experience, based in New York. Strong in System Design, Mentoring, People Leadership and Stakeholder Management, with recent work in telecom billing. Interested in moving towards Engineering Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 5.0y), Microservices (Advanced, 5.6y)
+- Delivery & Leadership: Mentoring (Expert, 12.0y), People Leadership (Advanced, 8.5y), Stakeholder Management (Advanced, 4.3y), Program Management (Advanced, 8.2y), Communication (Advanced, 7.0y), Agile/Scrum (Proficient, 0.6y)
+- Data & AI: Generative AI (Proficient, 1.9y)
+
+EXPERIENCE
+* Retail Banking Payments Microservices Platform — a fast-growing retail bank (2026-10 to present)
+  Modernised a payments microservices platform for a fast-growing retail bank in retail banking using Generative AI and System Design, reducing processing time by 40%.
+* Energy Trading Claims Processing Engine — a fast-growing energy company (2025-06 to 2026-09)
+  Scaled a claims processing engine for a fast-growing energy company in energy trading using System Design, Communication, Agile/Scrum and Stakeholder Management, saving ~35K hours annually.
+* Pharma R&D Self-service Portal — a fast-growing pharma company (2024-10 to 2025-03)
+  Migrated a self-service portal for a fast-growing pharma company in pharma R&D using Agile/Scrum and People Leadership, saving ~12K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager, Backend Engineer, Software Architect, Scrum Master

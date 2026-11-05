@@ -1,0 +1,29 @@
+MICHAEL GAGNON
+Associate Frontend Engineer | Engineering | Austin, United States
+Employee ID: EMP12034
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.4 years of experience, based in Austin. Strong in JavaScript, React, Figma and Playwright, with recent work in retail banking. Interested in moving towards Mobile Engineer, QA Engineer roles and open to relocating to Hyderabad, London.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Proficient, 0.5y), React (Proficient, 0.4y), Node.js (Proficient, 0.8y), TypeScript (Working, 0.6y), Next.js (Beginner, 0.3y)
+- Product & Design: Figma (Proficient, 0.4y)
+- Quality Engineering: Playwright (Proficient, 0.7y)
+- Cloud & DevOps: CI/CD (Proficient, 0.9y)
+- Delivery & Leadership: Communication (Proficient, 0.8y)
+
+EXPERIENCE
+* Retail Banking Self-service Portal — a fast-growing retail bank (2026-05 to present)
+  Modernised a self-service portal for a fast-growing retail bank in retail banking using Playwright, CI/CD and TypeScript, saving ~22K hours annually.
+* Retail Banking Claims Processing Engine — a US retail bank (2025-05 to 2026-05)
+  Modernised a claims processing engine for a US retail bank in retail banking using Next.js and Communication, saving ~35K hours annually.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Mobile Engineer, QA Engineer

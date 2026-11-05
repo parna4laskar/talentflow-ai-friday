@@ -1,0 +1,32 @@
+VAISHNAVI PAWAR
+Senior DevOps Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12369
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 10.1 years of experience, based in Chennai. Strong in CI/CD, Docker, Terraform and Kubernetes, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 2.9y), Docker (Advanced, 3.0y), Terraform (Advanced, 1.2y), Kubernetes (Proficient, 4.3y), Azure (Proficient, 5.3y), Linux Administration (Proficient, 4.4y), Observability (Proficient, 6.4y)
+- Software Engineering: Go (Proficient, 2.6y), Python (Working, 3.4y)
+
+EXPERIENCE
+* Supply-chain Logistics Observability Stack — a leading logistics company (2025-06 to present)
+  Modernised an observability stack for a leading logistics company in supply-chain logistics using Python, CI/CD, Azure and Linux Administration, reducing production incidents by 12%.
+* Healthcare Observability Stack — an APAC hospital network (2023-12 to 2025-05)
+  Migrated an observability stack for an APAC hospital network in healthcare using Python, Azure, CI/CD and Kubernetes, reducing production incidents by 12%.
+* Retail Banking Data-centre Exit To Cloud — a global retail bank (2022-11 to 2023-11)
+  Re-architected a data-centre exit to cloud for a global retail bank in retail banking using CI/CD and Kubernetes, delivering $2M in cost savings.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2023)
+- HashiCorp Terraform Associate (2021)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Backend Engineer, Site Reliability Engineer, Cloud Engineer

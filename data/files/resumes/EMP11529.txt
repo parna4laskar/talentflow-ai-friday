@@ -1,0 +1,32 @@
+ARJUN SEN
+Senior Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP11529
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 10.9 years of experience, based in Bengaluru. Strong in Statistics, Deep Learning, Apache Spark and Python, with recent work in telecom billing. Interested in moving towards AI Engineer, ML Engineer roles and open to relocating to Hyderabad, Dublin.
+
+CORE SKILLS
+- Data & AI: Statistics (Expert, 10.7y), Deep Learning (Advanced, 3.4y), Apache Spark (Advanced, 0.7y), Machine Learning (Proficient, 1.0y), SQL (Proficient, 4.8y), MLOps (Proficient, 4.3y)
+- Software Engineering: Python (Proficient, 5.1y)
+- Cloud & DevOps: FinOps (Working, 2.5y)
+
+EXPERIENCE
+* Telecom Billing Regulatory Reporting Suite — a global telecom operator (2026-06 to present)
+  Led the delivery of a regulatory reporting suite for a global telecom operator in telecom billing using FinOps, MLOps and Machine Learning, reducing processing time by 30%.
+* Telecom Billing Data Lakehouse — a European telecom operator (2024-12 to 2026-04)
+  Re-architected a data lakehouse for a European telecom operator in telecom billing using Machine Learning, SQL, Python and Deep Learning, cutting cloud spend by 25%.
+* Telecom Billing Regulatory Reporting Suite — a fast-growing telecom operator (2024-06 to 2024-12)
+  Migrated a regulatory reporting suite for a fast-growing telecom operator in telecom billing using Deep Learning and Machine Learning, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, ML Engineer

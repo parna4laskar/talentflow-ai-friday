@@ -1,0 +1,29 @@
+VIKRAM MUKHERJEE
+Senior Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP11246
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5.9 years of experience, based in Pune. Strong in Python, Snowflake, Data Governance and SQL, with recent work in supply-chain logistics. Interested in moving towards AI Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.2y), Kafka (Working, 0.8y)
+- Data & AI: Snowflake (Advanced, 2.8y), Data Governance (Advanced, 5.6y), SQL (Proficient, 3.7y), Apache Spark (Proficient, 1.9y), dbt (Proficient, 0.9y), Data Engineering (Working, 0.9y), Airflow (Working, 2.6y)
+- Cloud & DevOps: Kubernetes (Working, 2.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Data Lakehouse — a fast-growing logistics company (2026-05 to present)
+  Led the delivery of a data lakehouse for a fast-growing logistics company in supply-chain logistics using Kubernetes and dbt, reducing processing time by 12%.
+* Supply-chain Logistics Data Lakehouse — a leading logistics company (2025-06 to 2026-03)
+  Scaled a data lakehouse for a leading logistics company in supply-chain logistics using Apache Spark, Python and Kubernetes, reducing processing time by 25%.
+* Telecom Billing Real-time Analytics Pipeline — an APAC telecom operator (2024-10 to 2025-04)
+  Re-architected a real-time analytics pipeline for an APAC telecom operator in telecom billing using Data Engineering, SQL and Kubernetes, cutting cloud spend by 30%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: AI Engineer, ML Engineer

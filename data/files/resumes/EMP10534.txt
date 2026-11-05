@@ -1,0 +1,28 @@
+MAJA KRISHNAN
+Associate Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP10534
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2 years of experience, based in Kraków. Strong in Go, REST API Design, Microservices and .NET Core, with recent work in energy trading. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 1.9y), REST API Design (Proficient, 0.4y), Microservices (Proficient, 0.7y), .NET Core (Proficient, 1.2y), Spring Boot (Proficient, 0.8y)
+- Cloud & DevOps: CI/CD (Proficient, 1.4y), Kubernetes (Proficient, 0.7y)
+- Data & AI: SQL (Working, 0.5y), Agentic AI (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Beginner, 0.5y)
+
+EXPERIENCE
+* Pharma R&D Self-service Portal — a leading pharma company (2026-04 to present)
+  Designed a self-service portal for a leading pharma company in pharma R&D using Go, Communication, Agentic AI and CI/CD, saving ~30K hours annually.
+* Pharma R&D Mobile Banking App — a leading pharma company (2025-10 to 2026-03)
+  Built a mobile banking app for a leading pharma company in pharma R&D using Spring Boot, Microservices, SQL and Go, improving conversion by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+Polish, English, Telugu
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer

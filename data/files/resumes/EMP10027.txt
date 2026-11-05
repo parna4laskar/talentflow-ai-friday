@@ -1,0 +1,35 @@
+ADITI GUPTA
+Lead Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP10027
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 13.1 years of experience, based in Chennai. Strong in Stakeholder Management, Machine Learning, Statistics and NLP, with recent work in pharma R&D. Interested in moving towards Data Scientist, Data Analyst roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 8.3y), People Leadership (Expert, 6.6y), Communication (Advanced, 10.7y), Mentoring (Proficient, 8.1y)
+- Data & AI: Machine Learning (Advanced, 11.8y), Statistics (Advanced, 3.5y), NLP (Advanced, 9.7y), Data Visualization (Advanced, 11.9y), SQL (Proficient, 0.5y), Apache Spark (Proficient, 4.1y), Deep Learning (Working, 5.3y)
+- Software Engineering: Python (Proficient, 4.2y)
+- Product & Design: A/B Testing (Proficient, 7.2y)
+
+EXPERIENCE
+* Pharma R&D Real-time Analytics Pipeline — a fast-growing pharma company (2026-02 to present)
+  Designed a real-time analytics pipeline for a fast-growing pharma company in pharma R&D using A/B Testing, Machine Learning and Data Visualization, reducing processing time by 35%.
+* Supply-chain Logistics Real-time Analytics Pipeline — a global logistics company (2024-08 to 2025-11)
+  Modernised a real-time analytics pipeline for a global logistics company in supply-chain logistics using Stakeholder Management, Deep Learning, SQL and Mentoring, reducing processing time by 12%.
+* Automotive Real-time Analytics Pipeline — a leading car maker (2023-09 to 2024-07)
+  Designed a real-time analytics pipeline for a leading car maker in automotive using Data Visualization, SQL, Statistics and Apache Spark, cutting cloud spend by 18%.
+* Public Sector Executive KPI Dashboard Suite — a US government agency (2022-02 to 2023-07)
+  Led the delivery of an executive KPI dashboard suite for a US government agency in public sector using Stakeholder Management, Machine Learning and A/B Testing, improving forecast accuracy by 30%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Scientist, Data Analyst

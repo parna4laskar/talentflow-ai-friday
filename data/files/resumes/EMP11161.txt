@@ -1,0 +1,31 @@
+MANISH KOWALSKI
+Senior Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP11161
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5.5 years of experience, based in Chennai. Strong in SQL, Python, Data Engineering and Apache Spark, with recent work in airline operations. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 1.1y), Data Engineering (Proficient, 3.2y), Apache Spark (Proficient, 4.0y), Databricks (Proficient, 3.0y), Airflow (Working, 1.5y), Snowflake (Working, 1.9y), dbt (Working, 1.3y)
+- Software Engineering: Python (Proficient, 3.0y), Kafka (Working, 1.7y)
+- Quality Engineering: Playwright (Working, 2.3y)
+
+EXPERIENCE
+* Telecom Billing Regulatory Reporting Suite — a tier-1 telecom operator (2026-01 to present)
+  Automated a regulatory reporting suite for a tier-1 telecom operator in telecom billing using Kafka, Apache Spark, Databricks and Playwright, reducing processing time by 22%.
+* Airline Operations Real-time Analytics Pipeline — a US airline (2024-12 to 2026-01)
+  Re-architected a real-time analytics pipeline for a US airline in airline operations using Airflow, dbt, Data Engineering and SQL, reducing processing time by 18%.
+* Airline Operations Customer Churn Model — a fast-growing airline (2023-08 to 2024-10)
+  Led the delivery of a customer churn model for a fast-growing airline in airline operations using Kafka, dbt, Apache Spark and Airflow, improving conversion by 35%.
+* HR Tech Customer Churn Model — a European HR software company (2022-09 to 2023-06)
+  Built a customer churn model for a European HR software company in HR tech using dbt, SQL, Apache Spark and Playwright, improving model accuracy by 30%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer

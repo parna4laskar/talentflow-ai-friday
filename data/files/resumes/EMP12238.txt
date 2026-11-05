@@ -1,0 +1,30 @@
+SAURABH O'SULLIVAN
+DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12238
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.7 years of experience, based in Bengaluru. Strong in Kubernetes, Azure, Python and Responsible AI, with recent work in supply-chain logistics. Interested in moving towards Platform Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Proficient, 0.5y), Azure (Proficient, 0.5y), CI/CD (Working, 1.5y), Docker (Working, 1.8y), Observability (Working, 0.3y), Terraform (Working, 0.3y), Linux Administration (Beginner, 1.1y)
+- Software Engineering: Python (Proficient, 1.2y), Go (Working, 0.6y)
+- Data & AI: Responsible AI (Proficient, 3.5y)
+- Delivery & Leadership: Communication (Proficient, 1.5y)
+
+EXPERIENCE
+* Supply-chain Logistics Cloud Landing Zone — a tier-1 logistics company (2025-11 to present)
+  Built a cloud landing zone for a tier-1 logistics company in supply-chain logistics using Observability and Responsible AI, cutting cloud spend by 25%.
+* Energy Trading CI/CD Platform — a US energy company (2024-12 to 2025-11)
+  Designed a CI/CD platform for a US energy company in energy trading using Docker and Communication, accelerating releases by 18%.
+* Energy Trading Kubernetes Platform — a fast-growing energy company (2023-11 to 2024-10)
+  Led the delivery of a Kubernetes platform for a fast-growing energy company in energy trading using Docker, Communication and Python, accelerating releases by 30%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Backend Engineer

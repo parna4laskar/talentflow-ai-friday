@@ -1,0 +1,32 @@
+VIKRAM MALHOTRA
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12539
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.3 years of experience, based in Pune. Strong in Microservices, SQL, System Design and Go, with recent work in e-commerce. Interested in moving towards Backend Engineer, Full Stack Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 2.3y), System Design (Advanced, 5.5y), Go (Proficient, 2.6y), REST API Design (Proficient, 4.5y), Spring Boot (Proficient, 3.7y), GraphQL (Proficient, 1.2y)
+- Data & AI: SQL (Advanced, 4.2y)
+- Cloud & DevOps: AWS (Proficient, 0.5y)
+
+EXPERIENCE
+* E-commerce Order Management System — a European online retailer (2025-07 to present)
+  Modernised an order management system for a European online retailer in e-commerce using REST API Design, GraphQL, AWS and Spring Boot, onboarding 8 new enterprise clients.
+* Retail Banking Mobile Banking App — a leading retail bank (2024-11 to 2025-07)
+  Automated a mobile banking app for a leading retail bank in retail banking using System Design and REST API Design, improving conversion by 25%.
+* Telecom Billing Self-service Portal — an APAC telecom operator (2023-12 to 2024-10)
+  Re-architected a self-service portal for an APAC telecom operator in telecom billing using Go and Spring Boot, saving ~25K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Full Stack Engineer, AI Engineer, Software Architect

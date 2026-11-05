@@ -1,0 +1,30 @@
+JIA HUI NG
+Principal AI Engineer | AI Center of Excellence | Singapore, Singapore
+Employee ID: EMP11765
+
+PROFESSIONAL SUMMARY
+Principal AI Engineer with 19.2 years of experience, based in Singapore. Strong in Generative AI, LLM Engineering, Python and Docker, with recent work in payments. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Expert, 7.7y), LLM Engineering (Expert, 11.1y), NLP (Advanced, 7.4y), Vector Databases (Proficient, 7.8y)
+- Software Engineering: Python (Advanced, 12.1y), REST API Design (Advanced, 17.0y)
+- Cloud & DevOps: Docker (Advanced, 3.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 6.2y), People Leadership (Proficient, 7.2y)
+
+EXPERIENCE
+* Payments Knowledge Assistant (RAG) — a tier-1 payments provider (2025-11 to present)
+  Designed a knowledge assistant (RAG) for a tier-1 payments provider in payments using NLP and Docker, lifting NPS by 22 points.
+* Retail Banking Fraud Detection Model — an APAC retail bank (2025-02 to 2025-10)
+  Scaled a fraud detection model for an APAC retail bank in retail banking using Stakeholder Management, NLP, Docker and REST API Design, reducing processing time by 18%.
+* Manufacturing IoT Knowledge Assistant (RAG) — a global manufacturer (2023-10 to 2024-11)
+  Re-architected a knowledge assistant (RAG) for a global manufacturer in manufacturing IoT using LLM Engineering, Docker and Stakeholder Management, saving ~12K hours annually.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, DevOps Engineer, Data Scientist

@@ -1,0 +1,30 @@
+RADHIKA PILLAI
+Associate Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12738
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 1 years of experience, based in Bengaluru. Strong in Mobile Development, Flutter, UI Design and TypeScript, with recent work in manufacturing IoT. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 0.9y), Flutter (Proficient, 0.6y), TypeScript (Working, 0.3y), REST API Design (Working, 0.4y)
+- Product & Design: UI Design (Proficient, 0.5y)
+- Data & AI: Databricks (Working, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+- Cloud & DevOps: CI/CD (Beginner, 0.3y)
+- Quality Engineering: Test Automation (Beginner, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Customer Onboarding Platform — a global insurer (2026-03 to present)
+  Built a customer onboarding platform for a global insurer in insurance claims using CI/CD and Test Automation, reducing processing time by 25%.
+* Healthcare Claims Processing Engine — a US hospital network (2025-04 to 2025-12)
+  Led the delivery of a claims processing engine for a US hospital network in healthcare using Flutter, CI/CD and Test Automation, reducing processing time by 25%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer, Full Stack Engineer, Frontend Engineer, QA Engineer

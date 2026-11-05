@@ -1,0 +1,30 @@
+AAROHI PILLAI
+Associate Data Engineer | Data & Analytics | Gurugram, India
+Employee ID: EMP10901
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 2.6 years of experience, based in Gurugram. Strong in SQL, Python, Data Engineering and Airflow, with recent work in HR tech. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Working, 0.8y), Data Engineering (Working, 0.4y), Airflow (Working, 0.4y), dbt (Working, 1.1y), Databricks (Beginner, 0.3y)
+- Software Engineering: Python (Working, 1.2y)
+- Quality Engineering: Playwright (Working, 0.9y)
+
+EXPERIENCE
+* Pharma R&D Real-time Analytics Pipeline — a leading pharma company (2026-09 to present)
+  Led the delivery of a real-time analytics pipeline for a leading pharma company in pharma R&D using Databricks, Airflow, Python and SQL, cutting cloud spend by 25%.
+* HR Tech Customer Churn Model — a global HR software company (2025-10 to 2026-07)
+  Modernised a customer churn model for a global HR software company in HR tech using SQL, Data Engineering and Python, improving model accuracy by 35%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Engineer, Data Analyst, Backend Engineer, Data Scientist

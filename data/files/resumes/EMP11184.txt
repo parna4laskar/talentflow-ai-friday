@@ -1,0 +1,30 @@
+ISHITA BANERJEE
+Associate Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP11184
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 2.9 years of experience, based in Pune. Strong in Next.js, TypeScript, JavaScript and Angular, with recent work in pharma R&D. Interested in moving towards QA Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Next.js (Advanced, 0.6y), TypeScript (Working, 1.1y), JavaScript (Working, 1.4y), Angular (Working, 1.1y), GraphQL (Working, 0.8y), Node.js (Working, 0.8y)
+- Cloud & DevOps: CI/CD (Working, 0.9y), Platform Engineering (Working, 0.5y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a tier-1 hospital network (2025-09 to present)
+  Built a payments microservices platform for a tier-1 hospital network in healthcare using Platform Engineering, Next.js and TypeScript, reducing processing time by 35%.
+* Insurance Claims Claims Processing Engine — an APAC insurer (2024-08 to 2025-08)
+  Modernised a claims processing engine for an APAC insurer in insurance claims using Platform Engineering, Communication and CI/CD, saving ~35K hours annually.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: QA Engineer, Mobile Engineer, UX Designer

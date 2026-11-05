@@ -1,0 +1,33 @@
+NEHA KRISHNAN
+Senior Financial Analyst | Finance | Pune, India
+Employee ID: EMP10151
+
+PROFESSIONAL SUMMARY
+Senior Financial Analyst with 8.1 years of experience, based in Pune. Strong in Financial Modeling, Financial Analysis, Power BI and Risk Management, with recent work in pharma R&D. Interested in moving towards Financial Analyst, SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Financial Modeling (Advanced, 7.5y), Financial Analysis (Proficient, 2.0y), Risk Management (Proficient, 0.8y), SAP FICO (Proficient, 5.7y), Regulatory Compliance (Working, 4.0y), FP&A (Beginner, 0.9y)
+- Data & AI: Power BI (Proficient, 5.3y), SQL (Beginner, 1.1y)
+- Quality Engineering: Playwright (Working, 3.9y)
+
+EXPERIENCE
+* Public Sector Risk Control Framework — a US government agency (2025-10 to present)
+  Led a risk control framework for a US government agency in public sector using FP&A, SQL and Playwright, closing 25% of open audit findings.
+* Pharma R&D Cost Transformation Programme — an APAC pharma company (2024-04 to 2025-08)
+  Built a cost transformation programme for an APAC pharma company in pharma R&D using Regulatory Compliance and Financial Analysis, delivering $2M in cost savings.
+* Supply-chain Logistics Regulatory Capital Reporting — a global logistics company (2023-10 to 2024-03)
+  Led a regulatory capital reporting for a global logistics company in supply-chain logistics using Power BI, Playwright and SQL, closing 18% of open audit findings.
+
+CERTIFICATIONS
+- CFA Level II (2024)
+- ACCA (2022)
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Financial Analyst, SAP Consultant

@@ -1,0 +1,28 @@
+SIDDHARTH AGARWAL
+Associate Mobile Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12186
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 1.9 years of experience, based in Hyderabad. Strong in Mobile Development, React, CI/CD and Test Automation, with recent work in pharma R&D. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 0.8y), React (Proficient, 1.3y), REST API Design (Working, 0.8y), TypeScript (Working, 0.6y)
+- Cloud & DevOps: CI/CD (Proficient, 0.5y), Kubernetes (Working, 0.7y)
+- Quality Engineering: Test Automation (Working, 0.4y)
+- Data & AI: MLOps (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Pricing Engine — an APAC retail bank (2025-12 to present)
+  Scaled a pricing engine for an APAC retail bank in retail banking using React, CI/CD and Test Automation, improving conversion by 35%.
+* Pharma R&D Customer Onboarding Platform — a US pharma company (2024-11 to 2025-11)
+  Modernised a customer onboarding platform for a US pharma company in pharma R&D using Mobile Development and CI/CD, lifting NPS by 18 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, Full Stack Engineer

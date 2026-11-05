@@ -1,0 +1,27 @@
+NAVEEN NAIDU
+Associate Security Engineer | Cyber Security | Bengaluru, India
+Employee ID: EMP10058
+
+PROFESSIONAL SUMMARY
+Associate Security Engineer with 2 years of experience, based in Bengaluru. Strong in AWS, Application Security, Cloud Security and Threat Modeling, with recent work in manufacturing IoT. Interested in moving towards Security Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 1.7y), Kubernetes (Beginner, 0.3y)
+- Security: Application Security (Proficient, 0.5y), Cloud Security (Proficient, 0.7y), Threat Modeling (Working, 0.5y), SIEM (Working, 0.7y)
+- Software Engineering: Python (Working, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Security Operations Centre Uplift — a global manufacturer (2025-09 to present)
+  Scaled a security operations centre uplift for a global manufacturer in manufacturing IoT using Threat Modeling, AWS, Application Security and Cloud Security, closing 25% of open audit findings.
+* Manufacturing IoT Secure SDLC Rollout — a fast-growing manufacturer (2024-05 to 2025-08)
+  Designed a secure SDLC rollout for a fast-growing manufacturer in manufacturing IoT using SIEM, Kubernetes, AWS and Threat Modeling, accelerating releases by 22%.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Security Engineer, Software Architect, Cloud Engineer

@@ -1,0 +1,35 @@
+MRUNAL MENON
+Senior Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11790
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.2 years of experience, based in Hyderabad. Strong in Angular, TypeScript, JavaScript and Playwright, with recent work in energy trading. Interested in moving towards Mobile Engineer, QA Engineer roles and open to relocating to Gurugram, Singapore, Austin.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 8.2y), TypeScript (Advanced, 7.4y), JavaScript (Proficient, 5.2y), Next.js (Working, 3.1y), Node.js (Beginner, 0.9y)
+- Quality Engineering: Playwright (Proficient, 3.7y)
+- Product & Design: Figma (Proficient, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 5.9y)
+
+EXPERIENCE
+* Energy Trading Payments Microservices Platform — a global energy company (2025-06 to present)
+  Re-architected a payments microservices platform for a global energy company in energy trading using Communication, Angular and TypeScript, reducing processing time by 12%.
+* Supply-chain Logistics Pricing Engine — a fast-growing logistics company (2024-04 to 2025-05)
+  Modernised a pricing engine for a fast-growing logistics company in supply-chain logistics using TypeScript and Next.js, reducing processing time by 22%.
+* Manufacturing IoT Payments Microservices Platform — a leading manufacturer (2023-04 to 2024-02)
+  Automated a payments microservices platform for a leading manufacturer in manufacturing IoT using Next.js, Communication, Playwright and TypeScript, reducing processing time by 30%.
+* Supply-chain Logistics Pricing Engine — a fast-growing logistics company (2022-09 to 2023-03)
+  Built a pricing engine for a fast-growing logistics company in supply-chain logistics using Node.js, Playwright, TypeScript and JavaScript, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer, QA Engineer

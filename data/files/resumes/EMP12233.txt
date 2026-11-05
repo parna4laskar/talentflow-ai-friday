@@ -1,0 +1,35 @@
+EMILY CAMPBELL
+Senior Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP12233
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 6 years of experience, based in Toronto. Strong in C#, REST API Design, SQL and Microservices, with recent work in public sector. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 6.0y), REST API Design (Proficient, 4.0y), Microservices (Proficient, 2.3y), Spring Boot (Proficient, 0.8y), .NET Core (Working, 1.4y), Java (Beginner, 0.8y)
+- Data & AI: SQL (Proficient, 1.9y)
+- Cloud & DevOps: Docker (Proficient, 2.5y), CI/CD (Proficient, 1.6y), AWS (Proficient, 3.6y)
+
+EXPERIENCE
+* Insurance Claims Pricing Engine — a fast-growing insurer (2026-08 to present)
+  Automated a pricing engine for a fast-growing insurer in insurance claims using SQL and .NET Core, reducing processing time by 30%.
+* Public Sector Mobile Banking App — a fast-growing government agency (2025-08 to 2026-06)
+  Re-architected a mobile banking app for a fast-growing government agency in public sector using Spring Boot and Docker, improving conversion by 22%.
+* Public Sector Mobile Banking App — a European government agency (2024-01 to 2025-07)
+  Migrated a mobile banking app for a European government agency in public sector using CI/CD and REST API Design, lifting NPS by 22 points.
+* Airline Operations Self-service Portal — a global airline (2022-06 to 2023-11)
+  Modernised a self-service portal for a global airline in airline operations using Docker, SQL, C# and REST API Design, saving ~40K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Full Stack Engineer

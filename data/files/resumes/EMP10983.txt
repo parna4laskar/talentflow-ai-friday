@@ -1,0 +1,35 @@
+TEJAS BHAT
+Senior ML Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP10983
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 10.8 years of experience, based in Pune. Strong in Python, Kubernetes, Communication and Machine Learning, with recent work in energy trading. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 9.1y)
+- Cloud & DevOps: Kubernetes (Advanced, 6.4y), Docker (Proficient, 2.3y), AWS (Proficient, 0.9y)
+- Delivery & Leadership: Communication (Advanced, 6.0y)
+- Data & AI: Machine Learning (Proficient, 1.2y), MLOps (Proficient, 4.5y), Deep Learning (Proficient, 4.4y), Agentic AI (Beginner, 1.2y)
+
+EXPERIENCE
+* Supply-chain Logistics Agentic Customer-service Assistant — a tier-1 logistics company (2025-11 to present)
+  Led the delivery of an agentic customer-service assistant for a tier-1 logistics company in supply-chain logistics using AWS, Docker and Communication, lifting NPS by 30 points.
+* Payments Document Intelligence Pipeline — a US payments provider (2024-07 to 2025-08)
+  Re-architected a document intelligence pipeline for a US payments provider in payments using Docker, Communication and MLOps, reducing processing time by 30%.
+* Energy Trading Agentic Customer-service Assistant — an APAC energy company (2022-12 to 2024-06)
+  Built an agentic customer-service assistant for an APAC energy company in energy trading using Communication, Machine Learning and Python, saving ~12K hours annually.
+* Pharma R&D Fraud Detection Model — a leading pharma company (2021-06 to 2022-11)
+  Designed a fraud detection model for a leading pharma company in pharma R&D using Python and Kubernetes, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2024)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, AI Engineer, DevOps Engineer

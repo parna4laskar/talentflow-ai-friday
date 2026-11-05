@@ -1,0 +1,32 @@
+ARJUN MEHTA
+Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP10820
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4.6 years of experience, based in Bengaluru. Strong in Data Visualization, SQL, Power BI and Snowflake, with recent work in manufacturing IoT. Interested in moving towards Product Manager roles and open to relocating to London, Dublin, Toronto.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 2.3y), SQL (Proficient, 0.7y), Power BI (Proficient, 1.5y), Snowflake (Proficient, 1.9y)
+- Delivery & Leadership: Stakeholder Management (Working, 1.0y)
+- Business & Finance: Business Analysis (Working, 1.6y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Churn Model — a leading manufacturer (2025-11 to present)
+  Modernised a customer churn model for a leading manufacturer in manufacturing IoT using Snowflake, Power BI, Data Visualization and SQL, improving model accuracy by 30%.
+* Payments Regulatory Reporting Suite — a fast-growing payments provider (2025-04 to 2025-09)
+  Migrated a regulatory reporting suite for a fast-growing payments provider in payments using Business Analysis and Power BI, reducing processing time by 40%.
+* Manufacturing IoT Regulatory Reporting Suite — a fast-growing manufacturer (2023-11 to 2025-03)
+  Led the delivery of a regulatory reporting suite for a fast-growing manufacturer in manufacturing IoT using Snowflake, Stakeholder Management, SQL and Data Visualization, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Product Manager

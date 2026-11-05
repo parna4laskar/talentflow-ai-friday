@@ -1,0 +1,29 @@
+DIVYA SINGH
+QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP11676
+
+PROFESSIONAL SUMMARY
+QA Engineer with 2.7 years of experience, based in Hyderabad. Strong in Test Automation, Playwright, API Testing and Java, with recent work in airline operations. Interested in moving towards Full Stack Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 1.2y), Playwright (Proficient, 1.0y), API Testing (Proficient, 1.2y), Selenium (Working, 0.5y)
+- Software Engineering: Java (Proficient, 1.7y), Python (Working, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 1.0y)
+- Cloud & DevOps: CI/CD (Working, 0.9y)
+- Data & AI: SQL (Working, 0.9y)
+
+EXPERIENCE
+* Airline Operations Test Automation Framework — a US airline (2026-06 to present)
+  Led the delivery of a test automation framework for a US airline in airline operations using Selenium, Playwright, Test Automation and API Testing, accelerating releases by 18%.
+* Airline Operations Test Automation Framework — a fast-growing airline (2024-11 to 2026-04)
+  Re-architected a test automation framework for a fast-growing airline in airline operations using Selenium and SQL, raising automated test coverage to 70%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer, Engineering Manager, Backend Engineer

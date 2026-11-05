@@ -1,0 +1,37 @@
+KAI WEN ONG
+Principal Data Analyst | Data & Analytics | Singapore, Singapore
+Employee ID: EMP11120
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 21.8 years of experience, based in Singapore. Strong in SQL, Snowflake, Data Visualization and Stakeholder Management, with recent work in manufacturing IoT. Interested in moving towards Data Analyst, Product Manager roles and open to relocating to Pune, Hyderabad.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 8.2y), Snowflake (Expert, 21.8y), Data Visualization (Advanced, 11.6y), Power BI (Proficient, 8.3y), Statistics (Proficient, 8.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 9.6y), People Leadership (Advanced, 5.2y), Mentoring (Proficient, 15.0y)
+- Business & Finance: Business Analysis (Advanced, 12.4y)
+- Quality Engineering: Playwright (Proficient, 15.7y)
+- Cloud & DevOps: Terraform (Working, 6.8y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Churn Model — a European manufacturer (2026-04 to present)
+  Built a customer churn model for a European manufacturer in manufacturing IoT using Snowflake, Business Analysis and Playwright, improving conversion by 22%.
+* Manufacturing IoT Regulatory Reporting Suite — a fast-growing manufacturer (2025-03 to 2026-02)
+  Migrated a regulatory reporting suite for a fast-growing manufacturer in manufacturing IoT using Data Visualization, Statistics and Mentoring, reducing processing time by 35%.
+* Healthcare Regulatory Reporting Suite — a tier-1 hospital network (2023-12 to 2025-01)
+  Scaled a regulatory reporting suite for a tier-1 hospital network in healthcare using Power BI, Mentoring, Statistics and SQL, saving ~18K hours annually.
+* Airline Operations Customer Churn Model — a European airline (2022-05 to 2023-10)
+  Built a customer churn model for a European airline in airline operations using SQL, Playwright, Business Analysis and Power BI, improving model accuracy by 22%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2026)
+- Tableau Desktop Specialist (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin, Spanish
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, Product Manager, Business Analyst

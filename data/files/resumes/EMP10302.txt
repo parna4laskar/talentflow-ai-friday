@@ -1,0 +1,30 @@
+GEORGE WILSON
+Associate DevOps Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP10302
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 0.1 years of experience, based in London. Strong in Linux Administration, Communication, CI/CD and Kubernetes, with recent work in retail banking. Interested in moving towards Platform Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Proficient, 0.3y), CI/CD (Working, 0.3y), Kubernetes (Working, 0.3y), GCP (Working, 0.3y), Observability (Working, 0.3y), Docker (Beginner, 0.3y), Terraform (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.3y)
+- Software Engineering: Python (Working, 0.3y), Go (Working, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Data-centre Exit To Cloud — a leading insurer (2025-11 to present)
+  Scaled a data-centre exit to cloud for a leading insurer in insurance claims using Observability and Terraform, delivering $4M in cost savings.
+* Retail Banking CI/CD Platform — a US retail bank (2024-06 to 2025-10)
+  Re-architected a CI/CD platform for a US retail bank in retail banking using CI/CD and Python, accelerating releases by 18%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Backend Engineer

@@ -1,0 +1,35 @@
+HARINI KAPOOR
+Principal Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11944
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 12.9 years of experience, based in Bengaluru. Strong in TypeScript, Java, SQL and AWS, with recent work in manufacturing IoT. Interested in moving towards Software Architect, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 10.4y), Java (Expert, 1.9y), REST API Design (Advanced, 6.3y), Next.js (Advanced, 5.2y), Angular (Proficient, 3.8y)
+- Data & AI: SQL (Expert, 9.1y), Data Engineering (Advanced, 5.1y)
+- Cloud & DevOps: AWS (Advanced, 4.0y), Docker (Proficient, 2.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 12.6y), Communication (Advanced, 11.5y)
+
+EXPERIENCE
+* Manufacturing IoT Payments Microservices Platform — a US manufacturer (2026-06 to present)
+  Migrated a payments microservices platform for a US manufacturer in manufacturing IoT using Communication, Java and Docker, reducing production incidents by 35%.
+* Public Sector Pricing Engine — a European government agency (2025-11 to 2026-04)
+  Built a pricing engine for a European government agency in public sector using REST API Design, SQL and Data Engineering, improving conversion by 25%.
+* Manufacturing IoT Self-service Portal — an APAC manufacturer (2025-03 to 2025-10)
+  Migrated a self-service portal for an APAC manufacturer in manufacturing IoT using Java, Communication, AWS and REST API Design, lifting NPS by 40 points.
+* Public Sector Claims Processing Engine — a leading government agency (2023-11 to 2024-12)
+  Scaled a claims processing engine for a leading government agency in public sector using SQL and TypeScript, reducing processing time by 18%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect, Frontend Engineer

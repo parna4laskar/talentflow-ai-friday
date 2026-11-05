@@ -1,0 +1,30 @@
+ROHAN TAYLOR
+Lead Cloud Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12742
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 8.7 years of experience, based in London. Strong in Mentoring, Azure, Linux Administration and Cloud Security, with recent work in insurance claims. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles and open to relocating to Pune.
+
+CORE SKILLS
+- Delivery & Leadership: Mentoring (Expert, 7.1y), People Leadership (Expert, 1.5y), Stakeholder Management (Proficient, 2.0y)
+- Cloud & DevOps: Azure (Advanced, 5.1y), Linux Administration (Advanced, 5.8y), Terraform (Proficient, 1.0y), Platform Engineering (Proficient, 0.8y)
+- Security: Cloud Security (Advanced, 6.8y)
+- Data & AI: Databricks (Working, 3.8y)
+
+EXPERIENCE
+* Insurance Claims CI/CD Platform — an APAC insurer (2025-11 to present)
+  Modernised a CI/CD platform for an APAC insurer in insurance claims using Databricks and Mentoring, accelerating releases by 22%.
+* Insurance Claims Data-centre Exit To Cloud — a US insurer (2024-09 to 2025-09)
+  Designed a data-centre exit to cloud for a US insurer in insurance claims using Terraform, Stakeholder Management and Platform Engineering, cutting cloud spend by 22%.
+* Automotive Data-centre Exit To Cloud — a fast-growing car maker (2023-09 to 2024-07)
+  Built a data-centre exit to cloud for a fast-growing car maker in automotive using Platform Engineering, Mentoring, Linux Administration and Terraform, delivering $2M in cost savings.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Site Reliability Engineer, Software Architect

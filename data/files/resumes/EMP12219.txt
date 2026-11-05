@@ -1,0 +1,31 @@
+ANIRUDH KHAN
+Senior Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP12219
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.2 years of experience, based in Pune. Strong in JavaScript, Angular, Next.js and Design Systems, with recent work in public sector. Interested in moving towards UX Designer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 4.3y), Angular (Advanced, 5.2y), Next.js (Proficient, 6.6y), TypeScript (Working, 4.4y), GraphQL (Working, 0.9y)
+- Product & Design: Design Systems (Proficient, 6.1y)
+- Data & AI: Generative AI (Working, 2.1y)
+
+EXPERIENCE
+* Public Sector Order Management System — a tier-1 government agency (2025-05 to present)
+  Automated an order management system for a tier-1 government agency in public sector using Angular, Next.js and Design Systems, reducing processing time by 25%.
+* Insurance Claims Mobile Banking App — an APAC insurer (2023-09 to 2025-03)
+  Scaled a mobile banking app for an APAC insurer in insurance claims using GraphQL, Generative AI, JavaScript and Angular, improving conversion by 40%.
+* Retail Banking Payments Microservices Platform — a global retail bank (2022-02 to 2023-08)
+  Migrated a payments microservices platform for a global retail bank in retail banking using Angular and Design Systems, reducing processing time by 22%.
+* Healthcare Self-service Portal — a fast-growing hospital network (2021-02 to 2021-12)
+  Led the delivery of a self-service portal for a fast-growing hospital network in healthcare using TypeScript, JavaScript and Generative AI, saving ~35K hours annually.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: UX Designer, QA Engineer, Full Stack Engineer

@@ -1,0 +1,32 @@
+OWEN SINGH
+Senior Full Stack Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11079
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6.1 years of experience, based in Toronto. Strong in SQL, Docker, TypeScript and Python, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, Backend Engineer roles and open to relocating to Austin, New York, Kraków.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.4y), Snowflake (Proficient, 3.7y)
+- Cloud & DevOps: Docker (Advanced, 2.1y)
+- Software Engineering: TypeScript (Proficient, 2.2y), Python (Proficient, 4.5y), GraphQL (Proficient, 2.7y), Angular (Working, 0.4y)
+
+EXPERIENCE
+* Telecom Billing Order Management System — a global telecom operator (2026-04 to present)
+  Migrated an order management system for a global telecom operator in telecom billing using SQL, Docker, Python and Snowflake, reducing processing time by 12%.
+* Manufacturing IoT Customer Onboarding Platform — a tier-1 manufacturer (2025-09 to 2026-02)
+  Led the delivery of a customer onboarding platform for a tier-1 manufacturer in manufacturing IoT using Snowflake, Docker and Python, lifting NPS by 22 points.
+* Manufacturing IoT Payments Microservices Platform — a US manufacturer (2024-12 to 2025-08)
+  Migrated a payments microservices platform for a US manufacturer in manufacturing IoT using Python, GraphQL and TypeScript, reducing processing time by 18%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, Backend Engineer

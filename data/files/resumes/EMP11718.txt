@@ -1,0 +1,34 @@
+FARHAN SMITH
+Principal Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP11718
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 22.5 years of experience, based in Hyderabad. Strong in SQL, Data Engineering, Stakeholder Management and Python, with recent work in pharma R&D. Interested in moving towards ML Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 19.6y), Data Engineering (Expert, 21.8y), dbt (Advanced, 16.4y), Snowflake (Advanced, 8.8y), Airflow (Proficient, 1.0y)
+- Delivery & Leadership: Stakeholder Management (Expert, 15.8y), Mentoring (Advanced, 3.2y)
+- Software Engineering: Python (Advanced, 10.3y), Kafka (Advanced, 2.7y)
+- Cloud & DevOps: AWS (Proficient, 3.0y)
+
+EXPERIENCE
+* Pharma R&D Data Lakehouse — a US pharma company (2025-08 to present)
+  Modernised a data lakehouse for a US pharma company in pharma R&D using Snowflake, Kafka, AWS and Stakeholder Management, cutting cloud spend by 18%.
+* Energy Trading Regulatory Reporting Suite — a European energy company (2024-04 to 2025-05)
+  Migrated a regulatory reporting suite for a European energy company in energy trading using AWS and Stakeholder Management, reducing processing time by 12%.
+* Telecom Billing Customer Churn Model — an APAC telecom operator (2022-11 to 2024-02)
+  Migrated a customer churn model for an APAC telecom operator in telecom billing using AWS, Data Engineering and Snowflake, improving model accuracy by 25%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+- SnowPro Core (2021)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: ML Engineer, Data Analyst, Backend Engineer

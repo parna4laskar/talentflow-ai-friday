@@ -1,0 +1,30 @@
+PALLAVI RAO
+Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10113
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.4 years of experience, based in Bengaluru. Strong in Azure, Terraform, Python and Linux Administration, with recent work in insurance claims. Interested in moving towards Cloud Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Advanced, 0.7y), Terraform (Proficient, 1.5y), Linux Administration (Working, 0.6y), CI/CD (Working, 0.8y), FinOps (Working, 1.0y)
+- Software Engineering: Python (Proficient, 0.6y)
+
+EXPERIENCE
+* Insurance Claims Observability Stack — a US insurer (2026-05 to present)
+  Led the delivery of an observability stack for a US insurer in insurance claims using CI/CD, Linux Administration and Python, accelerating releases by 35%.
+* Supply-chain Logistics Cloud Landing Zone — an APAC logistics company (2024-10 to 2026-03)
+  Re-architected a cloud landing zone for an APAC logistics company in supply-chain logistics using FinOps, CI/CD and Azure, accelerating releases by 40%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2026)
+- Google Professional Cloud Architect (2025)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, Platform Engineer, Site Reliability Engineer

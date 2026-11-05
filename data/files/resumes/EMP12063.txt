@@ -1,0 +1,31 @@
+AHMAD LEE
+ML Engineer | AI Center of Excellence | Singapore, Singapore
+Employee ID: EMP12063
+
+PROFESSIONAL SUMMARY
+ML Engineer with 3.9 years of experience, based in Singapore. Strong in Machine Learning, Python, Deep Learning and Docker, with recent work in airline operations. Interested in moving towards ML Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 3.3y), Deep Learning (Proficient, 2.3y), MLOps (Working, 1.0y), Vector Databases (Working, 0.3y), NLP (Working, 1.6y)
+- Software Engineering: Python (Proficient, 1.4y)
+- Cloud & DevOps: Docker (Proficient, 1.6y)
+- Delivery & Leadership: Communication (Proficient, 1.9y)
+- Quality Engineering: Playwright (Beginner, 0.7y)
+
+EXPERIENCE
+* Airline Operations Document Intelligence Pipeline — a tier-1 airline (2026-02 to present)
+  Built a document intelligence pipeline for a tier-1 airline in airline operations using NLP, Communication and Playwright, reducing processing time by 30%.
+* Automotive Document Intelligence Pipeline — an APAC car maker (2025-03 to 2026-01)
+  Scaled a document intelligence pipeline for an APAC car maker in automotive using Playwright, Communication, Docker and NLP, reducing processing time by 12%.
+* Airline Operations Agentic Customer-service Assistant — a global airline (2024-05 to 2025-02)
+  Modernised an agentic customer-service assistant for a global airline in airline operations using Vector Databases, Machine Learning and Playwright, lifting NPS by 25 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, Data Scientist

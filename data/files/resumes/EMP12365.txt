@@ -1,0 +1,33 @@
+KUNAL JADHAV
+Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12365
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 4.7 years of experience, based in Hyderabad. Strong in Terraform, Linux Administration, GCP and Kubernetes, with recent work in HR tech. Interested in moving towards DevOps Engineer roles and open to relocating to Toronto, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 0.7y), Linux Administration (Advanced, 3.4y), GCP (Proficient, 1.3y), Kubernetes (Proficient, 0.7y), CI/CD (Proficient, 2.8y)
+- Security: Cloud Security (Beginner, 0.5y)
+
+EXPERIENCE
+* HR Tech Observability Stack — a US HR software company (2026-01 to present)
+  Modernised an observability stack for a US HR software company in HR tech using Cloud Security, GCP and CI/CD, reducing production incidents by 30%.
+* E-commerce Cloud Landing Zone — a leading online retailer (2024-09 to 2025-11)
+  Modernised a cloud landing zone for a leading online retailer in e-commerce using Terraform, Linux Administration and CI/CD, accelerating releases by 35%.
+* HR Tech CI/CD Platform — a European HR software company (2023-08 to 2024-07)
+  Designed a CI/CD platform for a European HR software company in HR tech using Linux Administration and Kubernetes, accelerating releases by 18%.
+* HR Tech Data-centre Exit To Cloud — a global HR software company (2022-07 to 2023-06)
+  Led the delivery of a data-centre exit to cloud for a global HR software company in HR tech using Kubernetes, Terraform, Linux Administration and CI/CD, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2022)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer

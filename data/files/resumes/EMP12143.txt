@@ -1,0 +1,33 @@
+SIMRAN KAPOOR
+Business Analyst | Business Consulting | Bengaluru, India
+Employee ID: EMP12143
+
+PROFESSIONAL SUMMARY
+Business Analyst with 5.8 years of experience, based in Bengaluru. Strong in Business Analysis, Requirements Gathering, Communication and Stakeholder Management, with recent work in payments. Interested in moving towards Account Manager roles and open to relocating to Austin.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 5.5y), Requirements Gathering (Proficient, 1.8y), Salesforce (Working, 2.8y), Process Improvement (Working, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 1.8y), Stakeholder Management (Working, 0.5y), Agile/Scrum (Working, 1.2y)
+- Data & AI: SQL (Working, 0.3y)
+- Cloud & DevOps: Kubernetes (Working, 2.4y)
+
+EXPERIENCE
+* Payments Process Re-engineering Initiative — a leading payments provider (2026-10 to present)
+  Delivered a process re-engineering initiative for a leading payments provider in payments using Salesforce, SQL, Business Analysis and Process Improvement, reducing processing time by 40%.
+* Retail Banking Agile Transformation — an APAC retail bank (2025-06 to 2026-07)
+  Led an agile transformation for an APAC retail bank in retail banking using Requirements Gathering, Stakeholder Management and Process Improvement, delivering on time across 6 workstreams.
+* Payments Process Re-engineering Initiative — a US payments provider (2024-11 to 2025-05)
+  Ran a process re-engineering initiative for a US payments provider in payments using Communication, SQL, Business Analysis and Process Improvement, reducing processing time by 18%.
+
+CERTIFICATIONS
+- CBAP (2024)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Account Manager

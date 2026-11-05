@@ -1,0 +1,31 @@
+RAHUL NAIR
+Lead Site Reliability Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP12337
+
+PROFESSIONAL SUMMARY
+Lead Site Reliability Engineer with 15 years of experience, based in Gurugram. Strong in Site Reliability Engineering, Observability, Kubernetes and Stakeholder Management, with recent work in healthcare. Interested in moving towards Security Engineer, DevOps Engineer roles and open to relocating to Austin, Pune, London.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 4.7y), Observability (Advanced, 5.6y), Kubernetes (Advanced, 7.9y), Linux Administration (Proficient, 10.1y), Terraform (Proficient, 8.8y), Platform Engineering (Working, 3.2y), Docker (Working, 2.8y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.7y), People Leadership (Advanced, 5.2y)
+- Security: Incident Response (Proficient, 10.4y)
+
+EXPERIENCE
+* Pharma R&D Data-centre Exit To Cloud — a European pharma company (2025-06 to present)
+  Led the delivery of a data-centre exit to cloud for a European pharma company in pharma R&D using Stakeholder Management and Terraform, cutting cloud spend by 25%.
+* Healthcare CI/CD Platform — a fast-growing hospital network (2024-11 to 2025-05)
+  Built a CI/CD platform for a fast-growing hospital network in healthcare using Incident Response, Platform Engineering, Stakeholder Management and Docker, accelerating releases by 30%.
+* Healthcare CI/CD Platform — a leading hospital network (2023-06 to 2024-09)
+  Re-architected a CI/CD platform for a leading hospital network in healthcare using Incident Response, Kubernetes, Platform Engineering and Site Reliability Engineering, accelerating releases by 12%.
+* Retail Banking CI/CD Platform — a US retail bank (2022-05 to 2023-04)
+  Modernised a CI/CD platform for a US retail bank in retail banking using Docker and Site Reliability Engineering, accelerating releases by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Security Engineer, DevOps Engineer, Cloud Engineer

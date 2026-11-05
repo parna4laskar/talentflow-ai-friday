@@ -1,0 +1,29 @@
+KAI WEN RAHMAN
+Senior Full Stack Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11347
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 10.2 years of experience, based in Singapore. Strong in TypeScript, React, SQL and Docker, with recent work in media streaming. Interested in moving towards Full Stack Engineer, Mobile Engineer roles and open to relocating to Dublin, London, Gurugram.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 9.6y), React (Advanced, 1.5y), Kafka (Advanced, 5.3y), Microservices (Proficient, 3.8y), GraphQL (Proficient, 1.2y), Python (Working, 1.4y)
+- Data & AI: SQL (Advanced, 9.3y), Snowflake (Working, 4.3y)
+- Cloud & DevOps: Docker (Advanced, 2.2y), AWS (Proficient, 0.8y)
+
+EXPERIENCE
+* Media Streaming Customer Onboarding Platform — a tier-1 streaming platform (2026-10 to present)
+  Re-architected a customer onboarding platform for a tier-1 streaming platform in media streaming using SQL, Python, GraphQL and React, improving conversion by 35%.
+* Payments Customer Onboarding Platform — a leading payments provider (2025-06 to 2026-07)
+  Led the delivery of a customer onboarding platform for a leading payments provider in payments using AWS, Snowflake, GraphQL and Microservices, reducing processing time by 18%.
+* Media Streaming Payments Microservices Platform — a leading streaming platform (2024-08 to 2025-05)
+  Automated a payments microservices platform for a leading streaming platform in media streaming using Snowflake and Kafka, accelerating releases by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin, German
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, Mobile Engineer, AI Engineer

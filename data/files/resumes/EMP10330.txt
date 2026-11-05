@@ -1,0 +1,28 @@
+SIDDHARTH PAWAR
+Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP10330
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5.2 years of experience, based in Pune. Strong in Python, Data Engineering, SQL and Airflow, with recent work in HR tech. Interested in moving towards AI Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.7y)
+- Data & AI: Data Engineering (Proficient, 2.0y), SQL (Working, 2.1y), Airflow (Working, 1.5y), dbt (Working, 0.7y)
+
+EXPERIENCE
+* HR Tech Executive KPI Dashboard Suite — a leading HR software company (2025-12 to present)
+  Scaled an executive KPI dashboard suite for a leading HR software company in HR tech using Airflow, SQL, Python and dbt, saving ~22K hours annually.
+* HR Tech Regulatory Reporting Suite — a fast-growing HR software company (2025-05 to 2025-10)
+  Built a regulatory reporting suite for a fast-growing HR software company in HR tech using SQL, Data Engineering, Python and Airflow, reducing processing time by 30%.
+* HR Tech Regulatory Reporting Suite — a US HR software company (2024-09 to 2025-02)
+  Led the delivery of a regulatory reporting suite for a US HR software company in HR tech using Python, dbt and Airflow, reducing processing time by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, ML Engineer

@@ -1,0 +1,32 @@
+SITI MALHOTRA
+Associate Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11241
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.3 years of experience, based in Singapore. Strong in REST API Design, Microservices, .NET Core and System Design, with recent work in retail banking. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 1.0y), Microservices (Proficient, 1.3y), .NET Core (Proficient, 1.2y), System Design (Proficient, 1.1y), Go (Working, 1.0y), Kafka (Working, 0.7y), Spring Boot (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.9y)
+- Delivery & Leadership: Communication (Working, 0.8y)
+- Cloud & DevOps: AWS (Beginner, 0.4y)
+
+EXPERIENCE
+* Pharma R&D Mobile Banking App — a tier-1 pharma company (2026-02 to present)
+  Scaled a mobile banking app for a tier-1 pharma company in pharma R&D using Kafka, SQL and Go, lifting NPS by 22 points.
+* Retail Banking Order Management System — a US retail bank (2024-06 to 2025-12)
+  Led the delivery of an order management system for a US retail bank in retail banking using Communication, Spring Boot and SQL, reducing processing time by 22%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2024)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, DevOps Engineer, Full Stack Engineer

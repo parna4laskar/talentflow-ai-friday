@@ -1,0 +1,29 @@
+MOHAMMED WILLIAMS
+Senior CRM Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP12960
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 9.6 years of experience, based in London. Strong in Business Analysis, Requirements Gathering, ServiceNow and Agile/Scrum, with recent work in public sector. Interested in moving towards Account Manager, SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 6.1y), Requirements Gathering (Advanced, 7.0y), ServiceNow (Proficient, 5.5y), Process Improvement (Working, 2.5y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.2y), Communication (Proficient, 5.2y)
+- Software Engineering: JavaScript (Working, 3.0y)
+
+EXPERIENCE
+* Public Sector CRM Rollout — an APAC government agency (2026-06 to present)
+  Modernised a CRM rollout for an APAC government agency in public sector using JavaScript, Communication, Process Improvement and Agile/Scrum, improving conversion by 18%.
+* Healthcare CRM Rollout — a global hospital network (2025-03 to 2026-04)
+  Built a CRM rollout for a global hospital network in healthcare using Communication and JavaScript, reducing processing time by 22%.
+* Media Streaming ERP Finance Rollout — a tier-1 streaming platform (2024-05 to 2025-01)
+  Automated an ERP finance rollout for a tier-1 streaming platform in media streaming using ServiceNow, Business Analysis, Agile/Scrum and Requirements Gathering, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Account Manager, SAP Consultant, Business Analyst

@@ -1,0 +1,30 @@
+PAWEŁ KOWALSKI
+Senior Data Engineer | Data & Analytics | Kraków, Poland
+Employee ID: EMP10837
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5.6 years of experience, based in Kraków. Strong in SQL, Data Engineering, Airflow and Data Governance, with recent work in manufacturing IoT. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.9y), Data Engineering (Advanced, 1.5y), Airflow (Advanced, 3.5y), Data Governance (Advanced, 0.7y), Responsible AI (Beginner, 0.9y)
+- Software Engineering: Python (Proficient, 4.1y), Kafka (Proficient, 4.2y)
+
+EXPERIENCE
+* Healthcare Executive KPI Dashboard Suite — a tier-1 hospital network (2026-07 to present)
+  Designed an executive KPI dashboard suite for a tier-1 hospital network in healthcare using Kafka and Airflow, saving ~12K hours annually.
+* Manufacturing IoT Executive KPI Dashboard Suite — a global manufacturer (2025-07 to 2026-06)
+  Re-architected an executive KPI dashboard suite for a global manufacturer in manufacturing IoT using Kafka, SQL and Python, improving forecast accuracy by 12%.
+* Manufacturing IoT Customer Churn Model — an APAC manufacturer (2024-02 to 2025-07)
+  Led the delivery of a customer churn model for an APAC manufacturer in manufacturing IoT using Data Governance and Airflow, improving model accuracy by 40%.
+* Healthcare Data Lakehouse — a tier-1 hospital network (2023-04 to 2024-01)
+  Automated a data lakehouse for a tier-1 hospital network in healthcare using Responsible AI, Data Engineering and Data Governance, cutting cloud spend by 35%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist

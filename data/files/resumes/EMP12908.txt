@@ -1,0 +1,35 @@
+ALEKSANDRA MACDONALD
+Senior ML Engineer | AI Center of Excellence | Kraków, Poland
+Employee ID: EMP12908
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 8.4 years of experience, based in Kraków. Strong in Databricks, Computer Vision, Python and MLOps, with recent work in retail banking. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Databricks (Advanced, 2.9y), Computer Vision (Advanced, 6.5y), MLOps (Proficient, 4.9y), Deep Learning (Proficient, 4.9y), NLP (Proficient, 3.7y), Vector Databases (Proficient, 3.9y), Machine Learning (Working, 1.2y)
+- Software Engineering: Python (Proficient, 5.6y)
+- Cloud & DevOps: Docker (Working, 2.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Retail Banking Agentic Customer-service Assistant — a tier-1 retail bank (2026-08 to present)
+  Designed an agentic customer-service assistant for a tier-1 retail bank in retail banking using NLP, Vector Databases and Docker, saving ~22K hours annually.
+* Retail Banking Agentic Customer-service Assistant — a European retail bank (2025-11 to 2026-06)
+  Scaled an agentic customer-service assistant for a European retail bank in retail banking using Computer Vision and Communication, lifting NPS by 40 points.
+* Retail Banking Document Intelligence Pipeline — a US retail bank (2024-07 to 2025-10)
+  Re-architected a document intelligence pipeline for a US retail bank in retail banking using Docker and Deep Learning, saving ~25K hours annually.
+* HR Tech Knowledge Assistant (RAG) — a tier-1 HR software company (2022-12 to 2024-05)
+  Scaled a knowledge assistant (RAG) for a tier-1 HR software company in HR tech using MLOps, NLP, Databricks and Python, saving ~12K hours annually.
+
+CERTIFICATIONS
+- AWS ML Specialty (2021)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+Polish, English, Tamil
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, AI Engineer, Platform Engineer

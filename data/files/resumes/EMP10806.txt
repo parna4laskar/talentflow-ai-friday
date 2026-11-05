@@ -1,0 +1,29 @@
+TEJAS MENON
+Associate Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10806
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2.9 years of experience, based in Pune. Strong in Terraform, Linux Administration, FinOps and Python, with recent work in wealth management. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Working, 1.1y), Linux Administration (Working, 0.5y), FinOps (Working, 0.5y), AWS (Beginner, 0.5y), CI/CD (Beginner, 0.3y), Azure (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.3y)
+
+EXPERIENCE
+* Wealth Management Data-centre Exit To Cloud — a US wealth manager (2026-03 to present)
+  Designed a data-centre exit to cloud for a US wealth manager in wealth management using FinOps and Linux Administration, cutting cloud spend by 35%.
+* Wealth Management Kubernetes Platform — a global wealth manager (2024-08 to 2026-02)
+  Scaled a Kubernetes platform for a global wealth manager in wealth management using Azure, Linux Administration, Terraform and AWS, reducing production incidents by 22%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, DevOps Engineer

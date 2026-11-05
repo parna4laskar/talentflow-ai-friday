@@ -1,0 +1,34 @@
+WEI JIE ONG
+Lead Data Engineer | Data & Analytics | Singapore, Singapore
+Employee ID: EMP12357
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 14 years of experience, based in Singapore. Strong in Data Engineering, Data Governance, Python and AWS, with recent work in retail banking. Interested in moving towards AI Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 7.3y), Data Governance (Expert, 3.4y), SQL (Proficient, 9.8y), Airflow (Proficient, 4.3y), Snowflake (Proficient, 6.3y)
+- Software Engineering: Python (Advanced, 8.7y), Kafka (Proficient, 4.8y)
+- Cloud & DevOps: AWS (Advanced, 3.7y), FinOps (Advanced, 9.2y)
+
+EXPERIENCE
+* Retail Banking Executive KPI Dashboard Suite — a tier-1 retail bank (2026-01 to present)
+  Automated an executive KPI dashboard suite for a tier-1 retail bank in retail banking using Kafka, Data Governance and Python, saving ~18K hours annually.
+* Retail Banking Data Lakehouse — a global retail bank (2024-10 to 2025-11)
+  Designed a data lakehouse for a global retail bank in retail banking using Data Engineering, Snowflake and Data Governance, reducing processing time by 30%.
+* Retail Banking Executive KPI Dashboard Suite — a leading retail bank (2023-09 to 2024-08)
+  Designed an executive KPI dashboard suite for a leading retail bank in retail banking using SQL and Airflow, saving ~12K hours annually.
+* Retail Banking Data Lakehouse — a fast-growing retail bank (2022-06 to 2023-07)
+  Built a data lakehouse for a fast-growing retail bank in retail banking using Airflow and Data Engineering, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Data Analyst, Backend Engineer

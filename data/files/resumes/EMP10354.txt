@@ -1,0 +1,27 @@
+JAMES WILSON
+Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP10354
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2.3 years of experience, based in London. Strong in Python, NLP, Deep Learning and Machine Learning, with recent work in retail banking. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.6y)
+- Data & AI: NLP (Advanced, 2.1y), Deep Learning (Advanced, 1.0y), Machine Learning (Proficient, 1.0y), Statistics (Proficient, 1.5y), SQL (Proficient, 1.3y), Generative AI (Proficient, 0.5y), MLOps (Working, 1.0y), Data Visualization (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Working, 0.8y)
+
+EXPERIENCE
+* Retail Banking Real-time Analytics Pipeline — a European retail bank (2025-10 to present)
+  Designed a real-time analytics pipeline for a European retail bank in retail banking using Machine Learning, MLOps and Data Visualization, cutting cloud spend by 30%.
+* Retail Banking Regulatory Reporting Suite — a US retail bank (2025-03 to 2025-09)
+  Re-architected a regulatory reporting suite for a US retail bank in retail banking using Generative AI, Statistics and SQL, saving ~18K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Spanish
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: ML Engineer, AI Engineer

@@ -1,0 +1,30 @@
+BHAVANA SHEIKH
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP11166
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14.4 years of experience, based in Bengaluru. Strong in Agile/Scrum, Stakeholder Management, Communication and Python, with recent work in e-commerce. Interested in moving towards Program Manager, Backend Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Advanced, 12.8y), Stakeholder Management (Advanced, 14.2y), Communication (Advanced, 14.1y), People Leadership (Proficient, 7.7y), Mentoring (Working, 1.0y)
+- Software Engineering: Python (Advanced, 9.3y), System Design (Proficient, 8.4y)
+
+EXPERIENCE
+* E-commerce Pricing Engine — a European online retailer (2026-03 to present)
+  Led the delivery of a pricing engine for a European online retailer in e-commerce using Python, System Design and Agile/Scrum, reducing processing time by 22%.
+* Public Sector Mobile Banking App — a US government agency (2025-01 to 2026-02)
+  Automated a mobile banking app for a US government agency in public sector using Communication and Mentoring, lifting NPS by 30 points.
+* Payments Claims Processing Engine — a European payments provider (2023-06 to 2024-10)
+  Migrated a claims processing engine for a European payments provider in payments using People Leadership and Mentoring, reducing processing time by 22%.
+* Retail Banking Self-service Portal — a tier-1 retail bank (2022-02 to 2023-05)
+  Built a self-service portal for a tier-1 retail bank in retail banking using Agile/Scrum and System Design, lifting NPS by 25 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Program Manager, Backend Engineer, Software Architect

@@ -1,0 +1,31 @@
+SIMRAN MACDONALD
+Lead SAP Consultant | Enterprise Applications | Toronto, Canada
+Employee ID: EMP10922
+
+PROFESSIONAL SUMMARY
+Lead SAP Consultant with 9.3 years of experience, based in Toronto. Strong in Business Analysis, SAP S/4HANA, Requirements Gathering and Mentoring, with recent work in airline operations. Interested in moving towards SAP Consultant, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 8.9y), SAP S/4HANA (Advanced, 0.9y), Requirements Gathering (Advanced, 3.7y), Financial Analysis (Proficient, 6.5y), Process Improvement (Proficient, 0.4y)
+- Delivery & Leadership: Mentoring (Advanced, 0.6y)
+
+EXPERIENCE
+* Supply-chain Logistics Service Desk Automation — a European logistics company (2025-11 to present)
+  Designed a service desk automation for a European logistics company in supply-chain logistics using Process Improvement and Mentoring, saving ~18K hours annually.
+* Airline Operations CRM Rollout — a global airline (2024-12 to 2025-08)
+  Scaled a CRM rollout for a global airline in airline operations using SAP S/4HANA, Financial Analysis and Process Improvement, reducing processing time by 25%.
+* Airline Operations ERP Finance Rollout — a global airline (2024-04 to 2024-10)
+  Designed an ERP finance rollout for a global airline in airline operations using Requirements Gathering and Business Analysis, saving ~12K hours annually.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2023)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: SAP Consultant, CRM Consultant, Risk & Compliance Analyst

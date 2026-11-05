@@ -1,0 +1,32 @@
+ISLA HUGHES
+Associate Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12057
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 0.7 years of experience, based in London. Strong in TypeScript, Angular, Figma and GraphQL, with recent work in media streaming. Interested in moving towards UX Designer, Full Stack Engineer roles and open to relocating to Dublin, Kraków, Pune.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.5y), Angular (Proficient, 0.5y), GraphQL (Proficient, 0.4y), JavaScript (Beginner, 0.3y), Next.js (Beginner, 0.3y)
+- Product & Design: Figma (Proficient, 0.5y)
+- Cloud & DevOps: CI/CD (Proficient, 0.5y)
+- Quality Engineering: Playwright (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Energy Trading Pricing Engine — a fast-growing energy company (2026-02 to present)
+  Designed a pricing engine for a fast-growing energy company in energy trading using TypeScript and Angular, reducing processing time by 25%.
+* Media Streaming Customer Onboarding Platform — an APAC streaming platform (2025-03 to 2025-12)
+  Re-architected a customer onboarding platform for an APAC streaming platform in media streaming using Figma and Angular, lifting NPS by 25 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: UX Designer, Full Stack Engineer, Mobile Engineer

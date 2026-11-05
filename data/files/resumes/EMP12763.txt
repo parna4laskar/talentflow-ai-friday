@@ -1,0 +1,34 @@
+ANANYA NAIDU
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12763
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.7 years of experience, based in Hyderabad. Strong in Go, REST API Design, Microservices and System Design, with recent work in HR tech. Interested in moving towards Backend Engineer, DevOps Engineer roles and open to relocating to Gurugram, Toronto, New York.
+
+CORE SKILLS
+- Software Engineering: Go (Proficient, 1.5y), REST API Design (Proficient, 2.1y), Microservices (Proficient, 1.7y), System Design (Proficient, 0.5y), Spring Boot (Working, 1.5y), .NET Core (Working, 1.4y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.5y), CI/CD (Beginner, 0.4y)
+- Data & AI: SQL (Working, 0.5y), Snowflake (Working, 1.2y)
+
+EXPERIENCE
+* HR Tech Claims Processing Engine — a European HR software company (2026-10 to present)
+  Re-architected a claims processing engine for a European HR software company in HR tech using REST API Design, CI/CD and Go, saving ~30K hours annually.
+* Supply-chain Logistics Payments Microservices Platform — a US logistics company (2025-06 to 2026-08)
+  Migrated a payments microservices platform for a US logistics company in supply-chain logistics using Microservices and .NET Core, reducing processing time by 30%.
+* Energy Trading Payments Microservices Platform — a global energy company (2024-07 to 2025-04)
+  Designed a payments microservices platform for a global energy company in energy trading using CI/CD, Go, Spring Boot and System Design, reducing production incidents by 40%.
+* Telecom Billing Mobile Banking App — a leading telecom operator (2023-12 to 2024-04)
+  Migrated a mobile banking app for a leading telecom operator in telecom billing using Microservices, System Design, CI/CD and .NET Core, improving conversion by 40%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, DevOps Engineer, Full Stack Engineer

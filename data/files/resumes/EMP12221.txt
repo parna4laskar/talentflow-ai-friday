@@ -1,0 +1,33 @@
+PRASAD SEN
+Senior Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP12221
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10.3 years of experience, based in Pune. Strong in SQL, Data Visualization, Snowflake and Tableau, with recent work in automotive. Interested in moving towards Data Analyst, Data Scientist roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.7y), Data Visualization (Advanced, 7.7y), Snowflake (Advanced, 3.3y), Tableau (Proficient, 4.5y), Statistics (Working, 0.9y)
+- Software Engineering: Python (Proficient, 6.0y)
+
+EXPERIENCE
+* Manufacturing IoT Executive KPI Dashboard Suite — a leading manufacturer (2025-10 to present)
+  Automated an executive KPI dashboard suite for a leading manufacturer in manufacturing IoT using Data Visualization, Python, Statistics and Snowflake, improving forecast accuracy by 35%.
+* Automotive Real-time Analytics Pipeline — a US car maker (2024-03 to 2025-08)
+  Automated a real-time analytics pipeline for a US car maker in automotive using SQL, Snowflake and Python, reducing processing time by 12%.
+* Automotive Data Lakehouse — a leading car maker (2023-05 to 2024-01)
+  Migrated a data lakehouse for a leading car maker in automotive using Tableau, Statistics, Data Visualization and Python, cutting cloud spend by 40%.
+* Payments Data Lakehouse — a global payments provider (2022-03 to 2023-04)
+  Migrated a data lakehouse for a global payments provider in payments using SQL, Python, Snowflake and Tableau, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2021)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Analyst, Data Scientist, Business Analyst, Product Manager

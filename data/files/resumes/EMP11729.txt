@@ -1,0 +1,34 @@
+RYAN ZIELIŃSKI
+Lead Software Architect | Engineering | Toronto, Canada
+Employee ID: EMP11729
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 15.8 years of experience, based in Toronto. Strong in System Design, Microservices, Java and GCP, with recent work in healthcare. Interested in moving towards Cloud Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 6.8y), Microservices (Advanced, 5.6y), Java (Advanced, 4.4y), Kafka (Advanced, 5.7y), REST API Design (Working, 1.9y)
+- Cloud & DevOps: GCP (Advanced, 6.1y), AWS (Working, 7.6y)
+- Security: Cloud Security (Advanced, 6.7y), Application Security (Proficient, 1.2y)
+- Delivery & Leadership: Mentoring (Advanced, 7.7y), Stakeholder Management (Proficient, 1.0y)
+
+EXPERIENCE
+* Wealth Management Claims Processing Engine — a global wealth manager (2026-03 to present)
+  Automated a claims processing engine for a global wealth manager in wealth management using Application Security, Microservices, Stakeholder Management and Cloud Security, reducing processing time by 22%.
+* Healthcare Mobile Banking App — a leading hospital network (2025-08 to 2026-02)
+  Built a mobile banking app for a leading hospital network in healthcare using Java and Cloud Security, lifting NPS by 35 points.
+* Healthcare Customer Onboarding Platform — a tier-1 hospital network (2024-10 to 2025-07)
+  Automated a customer onboarding platform for a tier-1 hospital network in healthcare using Java, Cloud Security and Mentoring, reducing processing time by 18%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2024)
+- TOGAF 10 (2021)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer, Engineering Manager, Backend Engineer

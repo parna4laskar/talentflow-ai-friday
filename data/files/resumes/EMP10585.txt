@@ -1,0 +1,29 @@
+NIKHIL SEN
+Senior QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10585
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 5.1 years of experience, based in Bengaluru. Strong in Playwright, Performance Testing, Test Automation and API Testing, with recent work in wealth management. Interested in moving towards QA Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Advanced, 4.3y), Performance Testing (Advanced, 1.5y), Test Automation (Proficient, 2.3y), API Testing (Proficient, 2.6y), Selenium (Working, 1.8y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 3.5y)
+- Software Engineering: Python (Proficient, 0.5y), Java (Working, 1.4y)
+
+EXPERIENCE
+* Wealth Management Performance Engineering Programme — a European wealth manager (2026-06 to present)
+  Re-architected a performance engineering programme for a European wealth manager in wealth management using Python, Playwright and API Testing, accelerating releases by 12%.
+* Retail Banking API Contract-testing Suite — a global retail bank (2025-07 to 2026-05)
+  Built an API contract-testing suite for a global retail bank in retail banking using Selenium, Python, Playwright and API Testing, reducing production incidents by 35%.
+* Wealth Management API Contract-testing Suite — an APAC wealth manager (2024-06 to 2025-05)
+  Scaled an API contract-testing suite for an APAC wealth manager in wealth management using Java, Playwright and API Testing, reducing production incidents by 30%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: QA Engineer, Mobile Engineer, Engineering Manager, DevOps Engineer

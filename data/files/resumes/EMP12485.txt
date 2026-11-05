@@ -1,0 +1,33 @@
+RAJESH SHEIKH
+Lead QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP12485
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 14.8 years of experience, based in Bengaluru. Strong in Performance Testing, SQL, Python and Mentoring, with recent work in telecom billing. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Performance Testing (Advanced, 9.5y), Test Automation (Proficient, 0.8y), Playwright (Proficient, 2.3y), API Testing (Proficient, 7.1y)
+- Data & AI: SQL (Advanced, 3.4y), Snowflake (Proficient, 5.8y)
+- Software Engineering: Python (Advanced, 10.4y), Java (Proficient, 2.9y)
+- Delivery & Leadership: Mentoring (Advanced, 12.6y), Agile/Scrum (Proficient, 3.6y), Stakeholder Management (Working, 2.7y), Communication (Working, 2.7y)
+- Cloud & DevOps: FinOps (Proficient, 10.6y)
+
+EXPERIENCE
+* Supply-chain Logistics Test Automation Framework — a European logistics company (2026-04 to present)
+  Automated a test automation framework for a European logistics company in supply-chain logistics using Communication, Test Automation and Stakeholder Management, raising automated test coverage to 80%.
+* Automotive Test Automation Framework — a fast-growing car maker (2025-03 to 2026-03)
+  Modernised a test automation framework for a fast-growing car maker in automotive using Test Automation, FinOps, API Testing and Communication, accelerating releases by 30%.
+* E-commerce API Contract-testing Suite — a global online retailer (2023-09 to 2025-02)
+  Designed an API contract-testing suite for a global online retailer in e-commerce using Stakeholder Management, API Testing, Performance Testing and Snowflake, raising automated test coverage to 90%.
+* Telecom Billing Test Automation Framework — a European telecom operator (2023-03 to 2023-08)
+  Migrated a test automation framework for a European telecom operator in telecom billing using Java, Snowflake, Stakeholder Management and FinOps, raising automated test coverage to 70%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Mobile Engineer

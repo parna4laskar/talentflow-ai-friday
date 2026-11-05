@@ -1,0 +1,32 @@
+PALLAVI DAVIS
+Principal Site Reliability Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP10840
+
+PROFESSIONAL SUMMARY
+Principal Site Reliability Engineer with 21 years of experience, based in Gurugram. Strong in Site Reliability Engineering, Kubernetes, Linux Administration and Observability, with recent work in healthcare. Interested in moving towards Cloud Engineer, Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Expert, 21.0y), Kubernetes (Expert, 18.9y), Linux Administration (Expert, 21.0y), Observability (Advanced, 9.1y), Terraform (Advanced, 19.4y), AWS (Advanced, 8.0y), Azure (Proficient, 10.9y)
+- Security: Incident Response (Advanced, 14.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.4y), Mentoring (Proficient, 2.8y)
+
+EXPERIENCE
+* Healthcare Observability Stack — a European hospital network (2026-03 to present)
+  Led the delivery of an observability stack for a European hospital network in healthcare using Site Reliability Engineering and AWS, reducing production incidents by 18%.
+* Healthcare Cloud Landing Zone — a European hospital network (2025-01 to 2026-02)
+  Led the delivery of a cloud landing zone for a European hospital network in healthcare using Stakeholder Management, Observability, AWS and Terraform, accelerating releases by 18%.
+* Healthcare Data-centre Exit To Cloud — a global hospital network (2024-04 to 2024-10)
+  Scaled a data-centre exit to cloud for a global hospital network in healthcare using Site Reliability Engineering, Mentoring, Linux Administration and Stakeholder Management, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer, Security Engineer

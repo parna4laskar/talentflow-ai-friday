@@ -1,0 +1,32 @@
+HARINI KHAN
+Senior QA Engineer | Quality Engineering | Chennai, India
+Employee ID: EMP10197
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 11 years of experience, based in Chennai. Strong in SQL, Playwright, API Testing and Test Automation, with recent work in HR tech. Interested in moving towards Backend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 2.5y)
+- Quality Engineering: Playwright (Advanced, 7.1y), API Testing (Advanced, 3.3y), Test Automation (Proficient, 7.7y), Performance Testing (Proficient, 6.6y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 3.1y), Program Management (Beginner, 0.8y)
+- Software Engineering: Python (Working, 4.2y)
+
+EXPERIENCE
+* Retail Banking Test Automation Framework — an APAC retail bank (2026-07 to present)
+  Migrated a test automation framework for an APAC retail bank in retail banking using Playwright and Test Automation, accelerating releases by 30%.
+* Media Streaming API Contract-testing Suite — a tier-1 streaming platform (2025-01 to 2026-05)
+  Scaled an API contract-testing suite for a tier-1 streaming platform in media streaming using Test Automation and Performance Testing, reducing production incidents by 18%.
+* HR Tech Performance Engineering Programme — a fast-growing HR software company (2024-05 to 2024-12)
+  Automated a performance engineering programme for a fast-growing HR software company in HR tech using Playwright and Performance Testing, accelerating releases by 35%.
+* HR Tech API Contract-testing Suite — a US HR software company (2022-11 to 2024-02)
+  Automated an API contract-testing suite for a US HR software company in HR tech using API Testing and Test Automation, raising automated test coverage to 70%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Mobile Engineer, Engineering Manager

@@ -1,0 +1,30 @@
+SAMEER DESHPANDE
+Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10440
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 5.4 years of experience, based in Bengaluru. Strong in Mobile Development, TypeScript, UI Design and Java, with recent work in energy trading. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 3.3y), TypeScript (Proficient, 3.6y), Java (Working, 0.3y), REST API Design (Working, 0.4y)
+- Product & Design: UI Design (Proficient, 3.6y)
+- Quality Engineering: Test Automation (Working, 1.9y)
+- Cloud & DevOps: CI/CD (Working, 2.0y), FinOps (Working, 2.1y), Kubernetes (Working, 0.9y)
+
+EXPERIENCE
+* Healthcare Order Management System — a US hospital network (2025-11 to present)
+  Re-architected an order management system for a US hospital network in healthcare using CI/CD, UI Design and Test Automation, reducing processing time by 18%.
+* Energy Trading Order Management System — a US energy company (2025-03 to 2025-09)
+  Designed an order management system for a US energy company in energy trading using REST API Design and UI Design, reducing processing time by 40%.
+* Energy Trading Customer Onboarding Platform — a global energy company (2024-05 to 2025-01)
+  Designed a customer onboarding platform for a global energy company in energy trading using TypeScript, REST API Design and FinOps, reducing processing time by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer

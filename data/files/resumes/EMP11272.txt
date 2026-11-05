@@ -1,0 +1,29 @@
+VENKAT KRISHNAN
+DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11272
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.2 years of experience, based in Bengaluru. Strong in Kubernetes, CI/CD, Observability and Terraform, with recent work in HR tech. Interested in moving towards Backend Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 3.7y), CI/CD (Proficient, 2.5y), Observability (Proficient, 1.6y), Terraform (Proficient, 1.3y), Linux Administration (Proficient, 1.5y), Docker (Working, 2.0y), AWS (Working, 2.1y)
+- Software Engineering: Python (Working, 0.5y), Go (Working, 0.5y)
+- Security: Cloud Security (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Kubernetes Platform — a tier-1 airline (2025-05 to present)
+  Modernised a Kubernetes platform for a tier-1 airline in airline operations using Kubernetes, Linux Administration, Terraform and CI/CD, accelerating releases by 40%.
+* Airline Operations Cloud Landing Zone — a leading airline (2024-08 to 2025-03)
+  Scaled a cloud landing zone for a leading airline in airline operations using Docker, Cloud Security and Python, accelerating releases by 35%.
+* HR Tech Data-centre Exit To Cloud — a European HR software company (2023-12 to 2024-08)
+  Re-architected a data-centre exit to cloud for a European HR software company in HR tech using Linux Administration and Go, delivering $5M in cost savings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Cloud Engineer, Site Reliability Engineer

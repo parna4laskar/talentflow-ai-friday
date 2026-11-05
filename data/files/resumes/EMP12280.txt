@@ -1,0 +1,30 @@
+KEISHA DOYLE
+Senior DevOps Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP12280
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 5.9 years of experience, based in Austin. Strong in Azure, CI/CD, Kubernetes and Go, with recent work in automotive. Interested in moving towards Backend Engineer roles and open to relocating to Gurugram, Bengaluru, Kraków.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Expert, 3.5y), CI/CD (Advanced, 2.0y), Kubernetes (Proficient, 1.8y), Observability (Proficient, 0.5y), Docker (Working, 2.0y)
+- Software Engineering: Go (Proficient, 1.2y)
+- Data & AI: MLOps (Proficient, 3.7y)
+- Delivery & Leadership: Communication (Working, 1.3y)
+
+EXPERIENCE
+* Airline Operations CI/CD Platform — a tier-1 airline (2026-01 to present)
+  Migrated a CI/CD platform for a tier-1 airline in airline operations using Azure, Observability, Go and Kubernetes, accelerating releases by 35%.
+* Automotive Observability Stack — a global car maker (2025-07 to 2025-12)
+  Scaled an observability stack for a global car maker in automotive using Kubernetes, Azure and Observability, reducing production incidents by 12%.
+* Automotive Data-centre Exit To Cloud — a tier-1 car maker (2024-10 to 2025-07)
+  Designed a data-centre exit to cloud for a tier-1 car maker in automotive using Azure, Observability, CI/CD and Communication, cutting cloud spend by 30%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer

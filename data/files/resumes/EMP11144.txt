@@ -1,0 +1,29 @@
+AMELIA JONES
+Senior Business Analyst | Business Consulting | London, United Kingdom
+Employee ID: EMP11144
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 9.9 years of experience, based in London. Strong in Stakeholder Management, Business Analysis, Communication and Requirements Gathering, with recent work in manufacturing IoT. Interested in moving towards CRM Consultant roles and open to relocating to New York, Bengaluru.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 9.9y), Communication (Advanced, 0.8y), Agile/Scrum (Proficient, 5.4y), Change Management (Working, 2.6y)
+- Business & Finance: Business Analysis (Advanced, 7.4y), Requirements Gathering (Proficient, 7.4y), Salesforce (Proficient, 2.4y), Process Improvement (Working, 3.3y)
+- Data & AI: SQL (Proficient, 5.8y)
+
+EXPERIENCE
+* Healthcare Core Banking Transformation Programme — a global hospital network (2026-03 to present)
+  Led a core banking transformation programme for a global hospital network in healthcare using Agile/Scrum, Communication, Salesforce and Requirements Gathering, delivering on time across 3 workstreams.
+* Manufacturing IoT Cloud Migration Programme — a tier-1 manufacturer (2024-08 to 2026-02)
+  Coordinated a cloud migration programme for a tier-1 manufacturer in manufacturing IoT using Stakeholder Management, Communication, Business Analysis and SQL, delivering on time across 8 workstreams.
+* Manufacturing IoT Core Banking Transformation Programme — a US manufacturer (2024-01 to 2024-06)
+  Coordinated a core banking transformation programme for a US manufacturer in manufacturing IoT using Process Improvement and Change Management, delivering $6M in cost savings.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: CRM Consultant

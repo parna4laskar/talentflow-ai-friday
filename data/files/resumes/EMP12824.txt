@@ -1,0 +1,31 @@
+SOPHIE TAYLOR
+Senior Site Reliability Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12824
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 7 years of experience, based in London. Strong in Site Reliability Engineering, Observability, Kubernetes and Linux Administration, with recent work in HR tech. Interested in moving towards Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 1.6y), Observability (Advanced, 2.3y), Kubernetes (Proficient, 1.1y), Linux Administration (Proficient, 4.7y)
+- Quality Engineering: Performance Testing (Proficient, 4.9y)
+- Security: Incident Response (Proficient, 3.3y)
+- Software Engineering: Go (Working, 2.9y)
+- Data & AI: Databricks (Working, 2.9y)
+
+EXPERIENCE
+* HR Tech Observability Stack — an APAC HR software company (2026-01 to present)
+  Designed an observability stack for an APAC HR software company in HR tech using Observability, Databricks, Incident Response and Kubernetes, accelerating releases by 35%.
+* HR Tech CI/CD Platform — an APAC HR software company (2024-12 to 2026-01)
+  Scaled a CI/CD platform for an APAC HR software company in HR tech using Go, Site Reliability Engineering and Kubernetes, accelerating releases by 35%.
+* HR Tech Kubernetes Platform — a fast-growing HR software company (2023-07 to 2024-09)
+  Scaled a Kubernetes platform for a fast-growing HR software company in HR tech using Observability and Linux Administration, reducing production incidents by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Security Engineer

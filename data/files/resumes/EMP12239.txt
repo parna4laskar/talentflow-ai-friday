@@ -1,0 +1,29 @@
+KEVIN MARTINEZ
+Associate Security Analyst | Cyber Security | New York, United States
+Employee ID: EMP12239
+
+PROFESSIONAL SUMMARY
+Associate Security Analyst with 0.7 years of experience, based in New York. Strong in Incident Response, Threat Modeling, Python and SIEM, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles and open to relocating to Kraków, Pune.
+
+CORE SKILLS
+- Security: Incident Response (Proficient, 0.4y), Threat Modeling (Proficient, 0.5y), SIEM (Working, 0.3y), GRC (Working, 0.3y)
+- Software Engineering: Python (Proficient, 0.4y)
+
+EXPERIENCE
+* Healthcare Secure SDLC Rollout — a tier-1 hospital network (2026-04 to present)
+  Scaled a secure SDLC rollout for a tier-1 hospital network in healthcare using Python, Incident Response, GRC and Threat Modeling, reducing production incidents by 18%.
+* Supply-chain Logistics Security Operations Centre Uplift — a European logistics company (2024-10 to 2026-02)
+  Automated a security operations centre uplift for a European logistics company in supply-chain logistics using GRC, Threat Modeling and Python, reducing production incidents by 40%.
+
+CERTIFICATIONS
+- CySA+ (2026)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Site Reliability Engineer, Security Engineer

@@ -1,0 +1,34 @@
+SIMRAN MARTIN
+Lead Frontend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP10971
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 13.8 years of experience, based in Toronto. Strong in TypeScript, JavaScript, CI/CD and Playwright, with recent work in e-commerce. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 1.1y), JavaScript (Advanced, 9.2y), Next.js (Proficient, 9.4y), React (Working, 2.4y)
+- Cloud & DevOps: CI/CD (Advanced, 1.3y)
+- Quality Engineering: Playwright (Advanced, 6.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 9.8y), Communication (Proficient, 8.9y), Mentoring (Working, 0.8y)
+- Product & Design: Figma (Working, 1.3y), Design Systems (Working, 5.9y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a global online retailer (2025-12 to present)
+  Designed a mobile banking app for a global online retailer in e-commerce using TypeScript, Next.js and Stakeholder Management, improving conversion by 12%.
+* Public Sector Claims Processing Engine — a US government agency (2024-12 to 2025-11)
+  Scaled a claims processing engine for a US government agency in public sector using Stakeholder Management and Playwright, reducing processing time by 12%.
+* E-commerce Mobile Banking App — a global online retailer (2023-04 to 2024-10)
+  Led the delivery of a mobile banking app for a global online retailer in e-commerce using JavaScript, Playwright and Communication, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, Mobile Engineer

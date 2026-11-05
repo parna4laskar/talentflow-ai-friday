@@ -1,0 +1,32 @@
+SAMEER SINGH
+Principal AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP11164
+
+PROFESSIONAL SUMMARY
+Principal AI Engineer with 21 years of experience, based in Chennai. Strong in Python, Generative AI, LLM Engineering and Azure, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, ML Engineer roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 21.0y)
+- Data & AI: Generative AI (Expert, 5.6y), LLM Engineering (Expert, 6.7y), NLP (Proficient, 3.0y), Responsible AI (Working, 8.9y)
+- Cloud & DevOps: Azure (Advanced, 2.3y)
+- Delivery & Leadership: Mentoring (Proficient, 1.7y), Communication (Proficient, 13.6y), People Leadership (Proficient, 6.2y), Stakeholder Management (Working, 3.8y)
+
+EXPERIENCE
+* E-commerce Fraud Detection Model — an APAC online retailer (2025-10 to present)
+  Scaled a fraud detection model for an APAC online retailer in e-commerce using Mentoring, Stakeholder Management and Python, reducing processing time by 40%.
+* Manufacturing IoT Agentic Customer-service Assistant — a leading manufacturer (2025-02 to 2025-09)
+  Re-architected an agentic customer-service assistant for a leading manufacturer in manufacturing IoT using Azure, LLM Engineering, NLP and Communication, lifting NPS by 30 points.
+* Manufacturing IoT Fraud Detection Model — an APAC manufacturer (2023-10 to 2024-12)
+  Designed a fraud detection model for an APAC manufacturer in manufacturing IoT using Communication, Responsible AI and Mentoring, improving model accuracy by 35%.
+* Healthcare Recommendation Engine — a European hospital network (2023-02 to 2023-09)
+  Modernised a recommendation engine for a European hospital network in healthcare using NLP, Responsible AI, Mentoring and Communication, improving model accuracy by 12%.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, ML Engineer, Data Scientist

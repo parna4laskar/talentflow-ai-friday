@@ -1,0 +1,28 @@
+MICHAŁ ZIELIŃSKI
+Frontend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP12501
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.7 years of experience, based in Kraków. Strong in TypeScript, React, Figma and Communication, with recent work in wealth management. Interested in moving towards QA Engineer roles and open to relocating to Singapore, Austin.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.1y), React (Advanced, 2.1y), JavaScript (Working, 0.5y)
+- Product & Design: Figma (Proficient, 2.0y)
+- Delivery & Leadership: Communication (Proficient, 0.8y)
+- Quality Engineering: Playwright (Working, 1.0y)
+
+EXPERIENCE
+* Wealth Management Pricing Engine — a European wealth manager (2026-05 to present)
+  Modernised a pricing engine for a European wealth manager in wealth management using TypeScript, JavaScript, Communication and Figma, improving conversion by 12%.
+* Supply-chain Logistics Pricing Engine — a leading logistics company (2025-01 to 2026-02)
+  Designed a pricing engine for a leading logistics company in supply-chain logistics using Figma, React, Communication and Playwright, improving conversion by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+Polish, English, Marathi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer

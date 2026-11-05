@@ -1,0 +1,29 @@
+MAJA NOWAK
+Lead Data Engineer | Data & Analytics | Kraków, Poland
+Employee ID: EMP12133
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 13.5 years of experience, based in Kraków. Strong in SQL, Data Engineering, Apache Spark and Kafka, with recent work in wealth management. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 12.3y), Data Engineering (Advanced, 12.5y), Apache Spark (Advanced, 6.1y), dbt (Advanced, 4.1y), Databricks (Proficient, 9.0y)
+- Software Engineering: Kafka (Advanced, 11.5y), Python (Proficient, 3.3y)
+- Delivery & Leadership: Mentoring (Proficient, 7.5y), People Leadership (Proficient, 8.0y)
+
+EXPERIENCE
+* Wealth Management Executive KPI Dashboard Suite — a global wealth manager (2026-06 to present)
+  Modernised an executive KPI dashboard suite for a global wealth manager in wealth management using Databricks and Mentoring, saving ~12K hours annually.
+* Retail Banking Executive KPI Dashboard Suite — a fast-growing retail bank (2025-11 to 2026-05)
+  Modernised an executive KPI dashboard suite for a fast-growing retail bank in retail banking using SQL and dbt, improving forecast accuracy by 12%.
+* Supply-chain Logistics Customer Churn Model — a European logistics company (2024-11 to 2025-10)
+  Automated a customer churn model for a European logistics company in supply-chain logistics using dbt and Kafka, improving conversion by 12%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+Polish, English, Marathi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: ML Engineer, AI Engineer, Backend Engineer

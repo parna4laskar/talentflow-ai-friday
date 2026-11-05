@@ -1,0 +1,32 @@
+ARVIND MENON
+Lead Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12346
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 9 years of experience, based in Bengaluru. Strong in Azure, Terraform, Linux Administration and FinOps, with recent work in retail banking. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to Dublin, London, Singapore.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Advanced, 4.2y), Terraform (Advanced, 3.6y), Linux Administration (Advanced, 1.9y), FinOps (Advanced, 1.0y), CI/CD (Advanced, 2.2y), AWS (Proficient, 1.0y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.9y), Mentoring (Proficient, 5.0y), People Leadership (Proficient, 1.0y)
+- Software Engineering: Python (Proficient, 6.3y)
+
+EXPERIENCE
+* Retail Banking CI/CD Platform — an APAC retail bank (2026-11 to present)
+  Scaled a CI/CD platform for an APAC retail bank in retail banking using CI/CD and Terraform, accelerating releases by 22%.
+* Payments CI/CD Platform — a European payments provider (2025-12 to 2026-09)
+  Automated a CI/CD platform for a European payments provider in payments using Stakeholder Management, Azure, CI/CD and Terraform, accelerating releases by 22%.
+* Manufacturing IoT CI/CD Platform — a European manufacturer (2024-09 to 2025-10)
+  Modernised a CI/CD platform for a European manufacturer in manufacturing IoT using CI/CD and Mentoring, accelerating releases by 25%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2023)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, DevOps Engineer, Software Architect, Platform Engineer

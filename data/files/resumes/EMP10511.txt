@@ -1,0 +1,29 @@
+HANNAH WILSON
+Associate Business Analyst | Business Consulting | London, United Kingdom
+Employee ID: EMP10511
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 1.7 years of experience, based in London. Strong in Requirements Gathering, Salesforce, Stakeholder Management and Communication, with recent work in automotive. Interested in moving towards Data Analyst, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 0.8y), Salesforce (Advanced, 1.3y), Business Analysis (Working, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.5y), Communication (Proficient, 1.0y), Agile/Scrum (Beginner, 0.4y)
+
+EXPERIENCE
+* Automotive Requirements and UAT for a CRM Rollout — a tier-1 car maker (2025-12 to present)
+  Led a requirements and UAT for a CRM rollout for a tier-1 car maker in automotive using Stakeholder Management and Salesforce, reducing processing time by 30%.
+* Automotive Process Re-engineering Initiative — a European car maker (2025-03 to 2025-09)
+  Ran a process re-engineering initiative for a European car maker in automotive using Requirements Gathering and Agile/Scrum, reducing processing time by 22%.
+
+CERTIFICATIONS
+- PMI-PBA (2025)
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, Account Manager, Scrum Master

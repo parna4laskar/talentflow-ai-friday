@@ -1,0 +1,31 @@
+GAURAV GOKHALE
+QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP10856
+
+PROFESSIONAL SUMMARY
+QA Engineer with 4.8 years of experience, based in Hyderabad. Strong in Test Automation, API Testing, Communication and Playwright, with recent work in energy trading. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 2.7y), API Testing (Proficient, 2.6y), Playwright (Working, 0.9y), Performance Testing (Working, 1.8y)
+- Delivery & Leadership: Communication (Proficient, 3.4y), Agile/Scrum (Working, 0.7y)
+- Software Engineering: Java (Working, 0.9y)
+
+EXPERIENCE
+* Energy Trading API Contract-testing Suite — a fast-growing energy company (2026-03 to present)
+  Automated an API contract-testing suite for a fast-growing energy company in energy trading using API Testing, Java, Communication and Playwright, raising automated test coverage to 70%.
+* Energy Trading API Contract-testing Suite — a US energy company (2024-09 to 2026-02)
+  Built an API contract-testing suite for a US energy company in energy trading using Test Automation, Java, Playwright and Communication, raising automated test coverage to 90%.
+* Energy Trading Test Automation Framework — an APAC energy company (2023-02 to 2024-08)
+  Scaled a test automation framework for an APAC energy company in energy trading using Test Automation and Java, raising automated test coverage to 90%.
+* Airline Operations Performance Engineering Programme — an APAC airline (2022-05 to 2023-01)
+  Automated a performance engineering programme for an APAC airline in airline operations using Performance Testing and API Testing, reducing production incidents by 12%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Backend Engineer

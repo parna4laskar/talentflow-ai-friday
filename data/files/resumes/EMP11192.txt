@@ -1,0 +1,35 @@
+RYAN GAGNON
+Security Engineer | Cyber Security | Toronto, Canada
+Employee ID: EMP11192
+
+PROFESSIONAL SUMMARY
+Security Engineer with 5.8 years of experience, based in Toronto. Strong in Threat Modeling, Cloud Security, Incident Response and Python, with recent work in media streaming. Interested in moving towards Security Analyst, Cloud Engineer roles and open to relocating to Gurugram, Hyderabad.
+
+CORE SKILLS
+- Security: Threat Modeling (Advanced, 4.7y), Cloud Security (Proficient, 1.7y), Incident Response (Proficient, 4.3y), SIEM (Proficient, 3.0y), Application Security (Working, 1.2y)
+- Software Engineering: Python (Proficient, 1.7y)
+- Cloud & DevOps: AWS (Working, 1.0y)
+
+EXPERIENCE
+* Public Sector Identity and Access Platform — a global government agency (2026-06 to present)
+  Re-architected an identity and access platform for a global government agency in public sector using Cloud Security, AWS and Incident Response, reducing production incidents by 25%.
+* Media Streaming Cloud Security Posture Programme — a tier-1 streaming platform (2025-11 to 2026-04)
+  Led the delivery of a cloud security posture programme for a tier-1 streaming platform in media streaming using SIEM, AWS and Threat Modeling, reducing production incidents by 18%.
+* Telecom Billing Identity and Access Platform — a tier-1 telecom operator (2024-09 to 2025-09)
+  Designed an identity and access platform for a tier-1 telecom operator in telecom billing using Threat Modeling, Incident Response, AWS and Application Security, reducing production incidents by 35%.
+* Media Streaming Secure SDLC Rollout — a tier-1 streaming platform (2023-06 to 2024-07)
+  Built a secure SDLC rollout for a tier-1 streaming platform in media streaming using Cloud Security, Python, SIEM and Incident Response, accelerating releases by 40%.
+
+CERTIFICATIONS
+- CISSP (2023)
+- CCSP (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Security Analyst, Cloud Engineer

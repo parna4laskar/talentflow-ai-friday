@@ -1,0 +1,30 @@
+ANJALI JADHAV
+Lead Software Architect | Engineering | Gurugram, India
+Employee ID: EMP11480
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 9.5 years of experience, based in Gurugram. Strong in GCP, System Design, Microservices and Python, with recent work in manufacturing IoT. Interested in moving towards Software Architect, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Expert, 7.3y)
+- Software Engineering: System Design (Advanced, 5.4y), Microservices (Advanced, 1.1y), Python (Proficient, 2.5y), REST API Design (Proficient, 1.5y)
+- Security: Cloud Security (Proficient, 3.1y)
+- Delivery & Leadership: People Leadership (Proficient, 1.1y), Stakeholder Management (Working, 1.0y), Communication (Working, 3.3y)
+
+EXPERIENCE
+* Energy Trading Mobile Banking App — a global energy company (2026-05 to present)
+  Automated a mobile banking app for a global energy company in energy trading using Stakeholder Management, Communication and GCP, lifting NPS by 40 points.
+* Manufacturing IoT Customer Onboarding Platform — a tier-1 manufacturer (2025-09 to 2026-04)
+  Scaled a customer onboarding platform for a tier-1 manufacturer in manufacturing IoT using Cloud Security, REST API Design and Stakeholder Management, lifting NPS by 12 points.
+* Manufacturing IoT Pricing Engine — a US manufacturer (2024-02 to 2025-07)
+  Modernised a pricing engine for a US manufacturer in manufacturing IoT using Cloud Security, GCP, System Design and Python, improving conversion by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Cloud Engineer, Backend Engineer, DevOps Engineer

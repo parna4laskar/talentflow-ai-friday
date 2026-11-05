@@ -1,0 +1,30 @@
+RADHIKA CHATTERJEE
+Lead Mobile Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12820
+
+PROFESSIONAL SUMMARY
+Lead Mobile Engineer with 13.6 years of experience, based in Hyderabad. Strong in Mentoring, Mobile Development, Java and UI Design, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Mentoring (Expert, 13.1y), Stakeholder Management (Proficient, 4.2y), Communication (Proficient, 7.9y)
+- Software Engineering: Mobile Development (Advanced, 3.6y), Java (Proficient, 3.2y), REST API Design (Proficient, 1.0y)
+- Product & Design: UI Design (Proficient, 9.5y)
+- Quality Engineering: Playwright (Proficient, 9.0y), Test Automation (Working, 2.3y)
+
+EXPERIENCE
+* Energy Trading Mobile Banking App — a global energy company (2025-11 to present)
+  Migrated a mobile banking app for a global energy company in energy trading using Mobile Development and Stakeholder Management, lifting NPS by 30 points.
+* Supply-chain Logistics Order Management System — a leading logistics company (2024-10 to 2025-10)
+  Designed an order management system for a leading logistics company in supply-chain logistics using Test Automation and Stakeholder Management, onboarding 3 new enterprise clients.
+* Public Sector Claims Processing Engine — a US government agency (2023-12 to 2024-09)
+  Migrated a claims processing engine for a US government agency in public sector using Stakeholder Management and Test Automation, saving ~22K hours annually.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer

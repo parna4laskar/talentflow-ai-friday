@@ -1,0 +1,32 @@
+SAMEER RAO
+Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP12982
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.5 years of experience, based in Chennai. Strong in Angular, Next.js, TypeScript and Java, with recent work in e-commerce. Interested in moving towards Mobile Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 1.0y), Next.js (Advanced, 1.7y), TypeScript (Proficient, 1.4y), Java (Proficient, 1.7y), Spring Boot (Proficient, 1.7y)
+- Cloud & DevOps: Docker (Proficient, 3.0y)
+- Data & AI: SQL (Working, 1.4y), Agentic AI (Working, 1.8y)
+
+EXPERIENCE
+* Healthcare Customer Onboarding Platform — a US hospital network (2025-08 to present)
+  Led the delivery of a customer onboarding platform for a US hospital network in healthcare using Angular, Java, Spring Boot and Docker, reducing processing time by 18%.
+* E-commerce Mobile Banking App — a US online retailer (2024-09 to 2025-06)
+  Re-architected a mobile banking app for a US online retailer in e-commerce using Next.js and Spring Boot, improving conversion by 25%.
+* Supply-chain Logistics Mobile Banking App — a fast-growing logistics company (2023-06 to 2024-07)
+  Re-architected a mobile banking app for a fast-growing logistics company in supply-chain logistics using TypeScript, Java and Agentic AI, lifting NPS by 30 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer, Backend Engineer, Software Architect

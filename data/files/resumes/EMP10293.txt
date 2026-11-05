@@ -1,0 +1,32 @@
+GURPREET SUBRAMANIAN
+Senior Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP10293
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10.9 years of experience, based in Bengaluru. Strong in SQL, Tableau, Data Visualization and Python, with recent work in supply-chain logistics. Interested in moving towards Data Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 8.8y), Tableau (Advanced, 5.0y), Data Visualization (Proficient, 8.1y), Snowflake (Proficient, 6.4y), Machine Learning (Proficient, 0.7y)
+- Software Engineering: Python (Proficient, 5.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Executive KPI Dashboard Suite — a leading logistics company (2026-06 to present)
+  Automated an executive KPI dashboard suite for a leading logistics company in supply-chain logistics using Tableau, Snowflake, Machine Learning and Data Visualization, saving ~35K hours annually.
+* Supply-chain Logistics Regulatory Reporting Suite — a leading logistics company (2025-02 to 2026-06)
+  Led the delivery of a regulatory reporting suite for a leading logistics company in supply-chain logistics using Data Visualization, Snowflake, Tableau and Machine Learning, reducing processing time by 22%.
+* Pharma R&D Customer Churn Model — an APAC pharma company (2023-10 to 2025-01)
+  Migrated a customer churn model for an APAC pharma company in pharma R&D using Tableau and SQL, improving conversion by 35%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2025)
+- Tableau Desktop Specialist (2022)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, Product Manager, Business Analyst

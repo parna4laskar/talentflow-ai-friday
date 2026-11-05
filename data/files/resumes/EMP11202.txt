@@ -1,0 +1,27 @@
+KARTHIK BHAT
+Associate Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11202
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2 years of experience, based in Hyderabad. Strong in CI/CD, GCP, Terraform and Linux Administration, with recent work in healthcare. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 0.6y), GCP (Working, 0.5y), Terraform (Working, 0.5y), Linux Administration (Working, 0.3y), Platform Engineering (Working, 0.4y), FinOps (Working, 0.4y), Site Reliability Engineering (Beginner, 0.3y)
+- Software Engineering: Python (Beginner, 0.3y)
+- Security: Cloud Security (Beginner, 0.3y)
+
+EXPERIENCE
+* Payments Data-centre Exit To Cloud — a US payments provider (2025-08 to present)
+  Migrated a data-centre exit to cloud for a US payments provider in payments using Python and Cloud Security, delivering $3M in cost savings.
+* Healthcare Data-centre Exit To Cloud — a US hospital network (2024-06 to 2025-07)
+  Scaled a data-centre exit to cloud for a US hospital network in healthcare using CI/CD and Python, delivering $5M in cost savings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, Site Reliability Engineer, DevOps Engineer

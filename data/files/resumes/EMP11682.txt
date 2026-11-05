@@ -1,0 +1,35 @@
+CHLOÉ GAGNON
+Senior QA Engineer | Quality Engineering | Toronto, Canada
+Employee ID: EMP11682
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 9.9 years of experience, based in Toronto. Strong in API Testing, CI/CD, Test Automation and Playwright, with recent work in telecom billing. Interested in moving towards Engineering Manager, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Advanced, 5.0y), Test Automation (Proficient, 4.9y), Playwright (Proficient, 2.7y), Performance Testing (Proficient, 6.6y)
+- Cloud & DevOps: CI/CD (Advanced, 7.3y)
+- Software Engineering: Java (Proficient, 2.9y), Python (Working, 2.3y)
+- Data & AI: SQL (Proficient, 0.6y)
+
+EXPERIENCE
+* Telecom Billing Performance Engineering Programme — a global telecom operator (2026-07 to present)
+  Scaled a performance engineering programme for a global telecom operator in telecom billing using API Testing, Playwright, SQL and Python, reducing production incidents by 30%.
+* Telecom Billing Test Automation Framework — a global telecom operator (2025-02 to 2026-06)
+  Automated a test automation framework for a global telecom operator in telecom billing using CI/CD, Python and Test Automation, accelerating releases by 18%.
+* Telecom Billing Performance Engineering Programme — an APAC telecom operator (2023-10 to 2024-12)
+  Re-architected a performance engineering programme for an APAC telecom operator in telecom billing using CI/CD, API Testing and Performance Testing, accelerating releases by 12%.
+* Telecom Billing API Contract-testing Suite — a leading telecom operator (2022-12 to 2023-07)
+  Migrated an API contract-testing suite for a leading telecom operator in telecom billing using Playwright, API Testing and Performance Testing, raising automated test coverage to 80%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Engineering Manager, DevOps Engineer, Mobile Engineer

@@ -1,0 +1,31 @@
+HANNAH KHAN
+Lead Engineering Manager | Engineering | London, United Kingdom
+Employee ID: EMP10457
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 13.7 years of experience, based in London. Strong in People Leadership, System Design, Stakeholder Management and Microservices, with recent work in healthcare. Interested in moving towards Software Architect, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 5.2y), Stakeholder Management (Advanced, 2.9y), Communication (Advanced, 10.8y), Agile/Scrum (Proficient, 3.9y), Mentoring (Proficient, 5.7y)
+- Software Engineering: System Design (Advanced, 13.6y), Microservices (Advanced, 11.6y), Java (Proficient, 1.7y)
+- Cloud & DevOps: AWS (Working, 6.0y), Terraform (Working, 2.1y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — an APAC government agency (2026-03 to present)
+  Modernised a self-service portal for an APAC government agency in public sector using People Leadership and Java, lifting NPS by 25 points.
+* Healthcare Mobile Banking App — a global hospital network (2024-11 to 2026-01)
+  Designed a mobile banking app for a global hospital network in healthcare using Java and Terraform, improving conversion by 40%.
+* Media Streaming Mobile Banking App — a tier-1 streaming platform (2024-03 to 2024-08)
+  Designed a mobile banking app for a tier-1 streaming platform in media streaming using People Leadership, Terraform, Stakeholder Management and Communication, lifting NPS by 18 points.
+* Healthcare Pricing Engine — an APAC hospital network (2023-08 to 2023-12)
+  Built a pricing engine for an APAC hospital network in healthcare using System Design, Agile/Scrum, Communication and AWS, reducing processing time by 22%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, Scrum Master

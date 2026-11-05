@@ -1,0 +1,27 @@
+ZOYA PATEL
+Associate Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11075
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 2 years of experience, based in Hyderabad. Strong in JavaScript, Angular, Figma and Next.js, with recent work in telecom billing. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Proficient, 0.8y), Angular (Proficient, 1.2y), Next.js (Proficient, 1.0y), TypeScript (Working, 0.7y), React (Working, 1.0y)
+- Product & Design: Figma (Proficient, 0.6y)
+- Data & AI: Responsible AI (Working, 1.0y)
+
+EXPERIENCE
+* Telecom Billing Self-service Portal — a US telecom operator (2026-01 to present)
+  Built a self-service portal for a US telecom operator in telecom billing using JavaScript and Angular, saving ~12K hours annually.
+* Pharma R&D Order Management System — a global pharma company (2024-06 to 2025-10)
+  Built an order management system for a global pharma company in pharma R&D using Figma, Next.js, TypeScript and React, reducing processing time by 40%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer, Mobile Engineer

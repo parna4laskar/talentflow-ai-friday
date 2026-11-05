@@ -1,0 +1,35 @@
+POOJA KULKARNI
+Principal Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP12372
+
+PROFESSIONAL SUMMARY
+Principal Software Architect with 22.8 years of experience, based in Hyderabad. Strong in Microservices, Mentoring, Communication and System Design, with recent work in wealth management. Interested in moving towards Software Architect, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 9.5y), System Design (Advanced, 7.9y), Java (Advanced, 14.0y), Kafka (Advanced, 9.3y), REST API Design (Advanced, 2.4y)
+- Delivery & Leadership: Mentoring (Expert, 20.6y), Communication (Expert, 2.8y)
+- Cloud & DevOps: Azure (Proficient, 6.3y), Kubernetes (Proficient, 1.7y)
+
+EXPERIENCE
+* Wealth Management Pricing Engine — a European wealth manager (2026-09 to present)
+  Designed a pricing engine for a European wealth manager in wealth management using Communication, Microservices and Mentoring, reducing processing time by 25%.
+* Telecom Billing Order Management System — a leading telecom operator (2025-03 to 2026-08)
+  Built an order management system for a leading telecom operator in telecom billing using System Design, Mentoring, Communication and Microservices, reducing processing time by 25%.
+* Manufacturing IoT Payments Microservices Platform — a global manufacturer (2024-06 to 2025-03)
+  Led the delivery of a payments microservices platform for a global manufacturer in manufacturing IoT using Communication and REST API Design, accelerating releases by 40%.
+* Wealth Management Customer Onboarding Platform — a European wealth manager (2023-08 to 2024-05)
+  Designed a customer onboarding platform for a European wealth manager in wealth management using Kafka, Java, Communication and Azure, lifting NPS by 35 points.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2021)
+- TOGAF 10 (2025)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect, Engineering Manager, Cloud Engineer, Backend Engineer

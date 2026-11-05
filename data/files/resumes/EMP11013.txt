@@ -1,0 +1,35 @@
+ALEKSANDRA WIŚNIEWSKI
+Lead Data Engineer | Data & Analytics | Kraków, Poland
+Employee ID: EMP11013
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 15.2 years of experience, based in Kraków. Strong in SQL, Data Engineering, Python and dbt, with recent work in retail banking. Interested in moving towards Data Engineer, Data Analyst roles and open to relocating to Bengaluru, New York, Singapore.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 11.2y), Data Engineering (Expert, 15.2y), dbt (Advanced, 5.7y), Snowflake (Advanced, 14.6y), Databricks (Proficient, 10.1y), Airflow (Proficient, 3.0y)
+- Software Engineering: Python (Advanced, 7.8y)
+- Delivery & Leadership: Mentoring (Proficient, 10.0y), Stakeholder Management (Proficient, 6.9y)
+
+EXPERIENCE
+* Retail Banking Customer Churn Model — a tier-1 retail bank (2025-12 to present)
+  Built a customer churn model for a tier-1 retail bank in retail banking using SQL, Mentoring and Data Engineering, improving model accuracy by 25%.
+* Retail Banking Regulatory Reporting Suite — a tier-1 retail bank (2024-08 to 2025-11)
+  Led the delivery of a regulatory reporting suite for a tier-1 retail bank in retail banking using Python, Data Engineering, Databricks and Mentoring, reducing processing time by 25%.
+* Retail Banking Customer Churn Model — a global retail bank (2023-12 to 2024-05)
+  Automated a customer churn model for a global retail bank in retail banking using Data Engineering, Mentoring, Stakeholder Management and Databricks, improving model accuracy by 35%.
+* Retail Banking Real-time Analytics Pipeline — a US retail bank (2023-01 to 2023-11)
+  Modernised a real-time analytics pipeline for a US retail bank in retail banking using dbt, Mentoring, Data Engineering and Snowflake, cutting cloud spend by 40%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2023)
+- SnowPro Core (2023)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer, Data Analyst, AI Engineer, ML Engineer

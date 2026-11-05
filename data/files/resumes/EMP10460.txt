@@ -1,0 +1,31 @@
+EMMA KIM
+AI Engineer | AI Center of Excellence | New York, United States
+Employee ID: EMP10460
+
+PROFESSIONAL SUMMARY
+AI Engineer with 3.5 years of experience, based in New York. Strong in LLM Engineering, Python, Generative AI and Vector Databases, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Advanced, 0.6y), Generative AI (Proficient, 1.0y), Vector Databases (Proficient, 1.4y), NLP (Proficient, 0.4y)
+- Software Engineering: Python (Proficient, 0.5y), REST API Design (Working, 0.6y)
+- Cloud & DevOps: Azure (Working, 1.3y)
+
+EXPERIENCE
+* Insurance Claims Fraud Detection Model — a US insurer (2025-11 to present)
+  Led the delivery of a fraud detection model for a US insurer in insurance claims using LLM Engineering and Python, improving model accuracy by 25%.
+* Manufacturing IoT Recommendation Engine — a US manufacturer (2024-09 to 2025-08)
+  Led the delivery of a recommendation engine for a US manufacturer in manufacturing IoT using LLM Engineering and NLP, improving conversion by 12%.
+* Healthcare Recommendation Engine — a fast-growing hospital network (2023-07 to 2024-07)
+  Led the delivery of a recommendation engine for a fast-growing hospital network in healthcare using Vector Databases, NLP, LLM Engineering and Azure, improving conversion by 18%.
+* Retail Banking Fraud Detection Model — a US retail bank (2022-04 to 2023-06)
+  Led the delivery of a fraud detection model for a US retail bank in retail banking using LLM Engineering, Generative AI, Vector Databases and Azure, improving model accuracy by 25%.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, DevOps Engineer, ML Engineer

@@ -1,0 +1,35 @@
+OMKAR RODRIGUEZ
+Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12067
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.8 years of experience, based in Bengaluru. Strong in Terraform, AWS, Linux Administration and Platform Engineering, with recent work in automotive. Interested in moving towards Software Architect, DevOps Engineer roles and open to relocating to Gurugram, Singapore, Kraków.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 3.6y), AWS (Proficient, 2.2y), Linux Administration (Proficient, 0.6y), Platform Engineering (Working, 1.4y)
+- Security: Cloud Security (Working, 2.8y)
+- Data & AI: Responsible AI (Working, 2.4y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Automotive Kubernetes Platform — a European car maker (2025-08 to present)
+  Migrated a Kubernetes platform for a European car maker in automotive using Platform Engineering, AWS, Communication and Terraform, reducing production incidents by 22%.
+* Automotive Data-centre Exit To Cloud — a leading car maker (2024-10 to 2025-06)
+  Led the delivery of a data-centre exit to cloud for a leading car maker in automotive using AWS and Terraform, delivering $5M in cost savings.
+* Automotive CI/CD Platform — a US car maker (2024-03 to 2024-08)
+  Scaled a CI/CD platform for a US car maker in automotive using Terraform, Responsible AI, Communication and Linux Administration, accelerating releases by 18%.
+* Energy Trading Kubernetes Platform — a tier-1 energy company (2022-09 to 2024-03)
+  Modernised a Kubernetes platform for a tier-1 energy company in energy trading using Linux Administration, Communication and AWS, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Software Architect, DevOps Engineer

@@ -1,0 +1,31 @@
+KEVIN ANDERSON
+Associate Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP11812
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.8 years of experience, based in Austin. Strong in REST API Design, Microservices, AWS and Python, with recent work in retail banking. Interested in moving towards DevOps Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 0.9y), Microservices (Proficient, 0.4y), Python (Working, 0.6y), GraphQL (Working, 0.6y), Spring Boot (Beginner, 0.4y)
+- Cloud & DevOps: AWS (Proficient, 1.1y), Kubernetes (Working, 0.5y), Docker (Working, 0.8y), FinOps (Beginner, 0.4y)
+- Data & AI: SQL (Working, 0.5y)
+
+EXPERIENCE
+* Retail Banking Customer Onboarding Platform — a tier-1 retail bank (2025-10 to present)
+  Re-architected a customer onboarding platform for a tier-1 retail bank in retail banking using FinOps, Kubernetes and GraphQL, improving conversion by 18%.
+* Manufacturing IoT Mobile Banking App — a leading manufacturer (2024-05 to 2025-09)
+  Led the delivery of a mobile banking app for a leading manufacturer in manufacturing IoT using REST API Design and SQL, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, AI Engineer, Engineering Manager

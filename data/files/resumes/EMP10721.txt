@@ -1,0 +1,33 @@
+OWEN SINGH
+Principal Frontend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP10721
+
+PROFESSIONAL SUMMARY
+Principal Frontend Engineer with 20 years of experience, based in Toronto. Strong in JavaScript, Angular, TypeScript and Next.js, with recent work in energy trading. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Expert, 15.8y), Angular (Expert, 20.0y), TypeScript (Advanced, 7.3y), Next.js (Advanced, 4.6y), GraphQL (Proficient, 12.7y)
+- Delivery & Leadership: Mentoring (Advanced, 12.8y), Communication (Advanced, 19.1y)
+
+EXPERIENCE
+* Energy Trading Self-service Portal — a fast-growing energy company (2025-06 to present)
+  Led the delivery of a self-service portal for a fast-growing energy company in energy trading using GraphQL, TypeScript and Communication, lifting NPS by 18 points.
+* Wealth Management Self-service Portal — a tier-1 wealth manager (2024-06 to 2025-04)
+  Automated a self-service portal for a tier-1 wealth manager in wealth management using TypeScript, JavaScript and Next.js, saving ~40K hours annually.
+* Energy Trading Order Management System — a fast-growing energy company (2023-05 to 2024-05)
+  Automated an order management system for a fast-growing energy company in energy trading using Next.js, Angular, Mentoring and GraphQL, reducing processing time by 40%.
+* Energy Trading Order Management System — a fast-growing energy company (2022-03 to 2023-04)
+  Built an order management system for a fast-growing energy company in energy trading using Communication, GraphQL, Angular and Mentoring, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer, Full Stack Engineer

@@ -1,0 +1,29 @@
+PRIYA SHAH
+Senior Site Reliability Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP11179
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 5.8 years of experience, based in London. Strong in Observability, AWS, Site Reliability Engineering and Linux Administration, with recent work in airline operations. Interested in moving towards Site Reliability Engineer, Security Engineer roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Advanced, 2.6y), AWS (Advanced, 3.7y), Site Reliability Engineering (Proficient, 0.8y), Linux Administration (Proficient, 3.2y), Kubernetes (Working, 2.3y)
+- Software Engineering: Go (Proficient, 0.5y)
+- Quality Engineering: Performance Testing (Proficient, 0.9y), Playwright (Working, 2.2y)
+
+EXPERIENCE
+* Airline Operations Kubernetes Platform — a leading airline (2025-06 to present)
+  Scaled a Kubernetes platform for a leading airline in airline operations using Linux Administration and AWS, reducing production incidents by 40%.
+* Airline Operations Kubernetes Platform — a tier-1 airline (2024-05 to 2025-04)
+  Scaled a Kubernetes platform for a tier-1 airline in airline operations using AWS, Playwright, Go and Observability, accelerating releases by 35%.
+* Airline Operations CI/CD Platform — an APAC airline (2023-05 to 2024-05)
+  Designed a CI/CD platform for an APAC airline in airline operations using Linux Administration and Go, accelerating releases by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Site Reliability Engineer, Security Engineer, DevOps Engineer

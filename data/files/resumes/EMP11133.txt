@@ -1,0 +1,31 @@
+LUCAS WILLIAMS
+Senior Data Engineer | Data & Analytics | Toronto, Canada
+Employee ID: EMP11133
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 10 years of experience, based in Toronto. Strong in Data Engineering, Airflow, Snowflake and SQL, with recent work in energy trading. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 5.3y), Airflow (Advanced, 2.9y), Snowflake (Advanced, 3.4y), SQL (Proficient, 4.4y), dbt (Proficient, 6.7y), Databricks (Working, 2.2y), Machine Learning (Working, 4.7y)
+- Software Engineering: Python (Proficient, 1.5y)
+
+EXPERIENCE
+* Energy Trading Data Lakehouse — an APAC energy company (2026-07 to present)
+  Automated a data lakehouse for an APAC energy company in energy trading using SQL, Data Engineering and Machine Learning, cutting cloud spend by 22%.
+* Payments Customer Churn Model — an APAC payments provider (2025-02 to 2026-05)
+  Modernised a customer churn model for an APAC payments provider in payments using Snowflake and Python, improving conversion by 30%.
+* Energy Trading Real-time Analytics Pipeline — a leading energy company (2023-06 to 2024-12)
+  Built a real-time analytics pipeline for a leading energy company in energy trading using Snowflake and Data Engineering, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2024)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: AI Engineer

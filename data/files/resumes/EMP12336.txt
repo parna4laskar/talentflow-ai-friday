@@ -1,0 +1,31 @@
+MEI KIM
+Business Analyst | Business Consulting | New York, United States
+Employee ID: EMP12336
+
+PROFESSIONAL SUMMARY
+Business Analyst with 5.1 years of experience, based in New York. Strong in Salesforce, Requirements Gathering, Stakeholder Management and Power BI, with recent work in public sector. Interested in moving towards Business Analyst, Product Manager roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 3.0y), Requirements Gathering (Proficient, 1.0y), Business Analysis (Working, 0.4y), Process Improvement (Working, 1.6y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.9y), Communication (Beginner, 0.3y)
+- Data & AI: Power BI (Proficient, 2.1y), SQL (Proficient, 0.6y), Data Visualization (Proficient, 3.2y)
+
+EXPERIENCE
+* Public Sector Process Re-engineering Initiative — a European government agency (2025-12 to present)
+  Ran a process re-engineering initiative for a European government agency in public sector using Data Visualization, Power BI and Process Improvement, reducing processing time by 25%.
+* E-commerce Process Re-engineering Initiative — a fast-growing online retailer (2024-08 to 2025-10)
+  Delivered a process re-engineering initiative for a fast-growing online retailer in e-commerce using Communication, Power BI, Stakeholder Management and Requirements Gathering, reducing processing time by 30%.
+* Public Sector Requirements and UAT for a CRM Rollout — a leading government agency (2023-07 to 2024-06)
+  Delivered a requirements and UAT for a CRM rollout for a leading government agency in public sector using Communication and Power BI, reducing processing time by 22%.
+* Public Sector Core Banking Transformation Programme — a tier-1 government agency (2022-02 to 2023-05)
+  Led a core banking transformation programme for a tier-1 government agency in public sector using Requirements Gathering and Stakeholder Management, delivering $2M in cost savings.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst, Product Manager, Account Manager

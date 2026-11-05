@@ -1,0 +1,35 @@
+WILLIAM JONES
+Senior AI Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP10446
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 7.7 years of experience, based in London. Strong in Python, LLM Engineering, Azure and Agentic AI, with recent work in public sector. Interested in moving towards ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 5.3y), REST API Design (Proficient, 3.0y)
+- Data & AI: LLM Engineering (Proficient, 5.8y), Agentic AI (Proficient, 5.3y), NLP (Proficient, 3.2y), Vector Databases (Proficient, 5.6y), Generative AI (Working, 2.7y)
+- Cloud & DevOps: Azure (Proficient, 1.6y)
+- Delivery & Leadership: Communication (Working, 1.9y)
+
+EXPERIENCE
+* Public Sector Knowledge Assistant (RAG) — a tier-1 government agency (2026-06 to present)
+  Re-architected a knowledge assistant (RAG) for a tier-1 government agency in public sector using Azure, Python, Generative AI and NLP, lifting NPS by 22 points.
+* Public Sector Agentic Customer-service Assistant — an APAC government agency (2024-11 to 2026-04)
+  Built an agentic customer-service assistant for an APAC government agency in public sector using Python and Vector Databases, lifting NPS by 40 points.
+* Airline Operations Fraud Detection Model — an APAC airline (2023-03 to 2024-09)
+  Built a fraud detection model for an APAC airline in airline operations using Agentic AI, Vector Databases, Communication and Azure, reducing processing time by 22%.
+* Manufacturing IoT Agentic Customer-service Assistant — a European manufacturer (2022-03 to 2023-01)
+  Automated an agentic customer-service assistant for a European manufacturer in manufacturing IoT using Generative AI, Communication, Azure and LLM Engineering, saving ~22K hours annually.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2022)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Spanish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: ML Engineer

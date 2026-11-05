@@ -1,0 +1,27 @@
+FARHAN SEN
+QA Engineer | Quality Engineering | Gurugram, India
+Employee ID: EMP10740
+
+PROFESSIONAL SUMMARY
+QA Engineer with 2.4 years of experience, based in Gurugram. Strong in Selenium, Test Automation, API Testing and CI/CD, with recent work in e-commerce. Interested in moving towards QA Engineer, Full Stack Engineer roles and open to relocating to Kraków, Bengaluru, New York.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 1.6y), Test Automation (Proficient, 1.0y), API Testing (Proficient, 1.7y)
+- Cloud & DevOps: CI/CD (Proficient, 1.2y)
+- Delivery & Leadership: Agile/Scrum (Working, 0.5y), Communication (Working, 1.1y)
+
+EXPERIENCE
+* E-commerce Performance Engineering Programme — a fast-growing online retailer (2026-01 to present)
+  Led the delivery of a performance engineering programme for a fast-growing online retailer in e-commerce using Test Automation, Agile/Scrum, Selenium and Communication, accelerating releases by 35%.
+* E-commerce Test Automation Framework — a US online retailer (2024-10 to 2025-12)
+  Built a test automation framework for a US online retailer in e-commerce using Selenium and API Testing, raising automated test coverage to 90%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: QA Engineer, Full Stack Engineer

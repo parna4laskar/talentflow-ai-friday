@@ -1,0 +1,35 @@
+GRACE JONES
+Senior Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11243
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.2 years of experience, based in London. Strong in SQL, REST API Design, Microservices and System Design, with recent work in e-commerce. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 10.2y), Generative AI (Proficient, 7.5y)
+- Software Engineering: REST API Design (Advanced, 4.7y), Microservices (Advanced, 3.0y), System Design (Advanced, 7.0y), Python (Working, 0.3y)
+- Cloud & DevOps: AWS (Proficient, 3.0y)
+- Delivery & Leadership: Communication (Working, 2.9y)
+
+EXPERIENCE
+* E-commerce Customer Onboarding Platform — a tier-1 online retailer (2025-11 to present)
+  Designed a customer onboarding platform for a tier-1 online retailer in e-commerce using Python and Microservices, lifting NPS by 12 points.
+* HR Tech Customer Onboarding Platform — a European HR software company (2024-04 to 2025-10)
+  Scaled a customer onboarding platform for a European HR software company in HR tech using Microservices, SQL and System Design, improving conversion by 22%.
+* Retail Banking Self-service Portal — a fast-growing retail bank (2023-03 to 2024-03)
+  Automated a self-service portal for a fast-growing retail bank in retail banking using Communication and System Design, lifting NPS by 40 points.
+* Pharma R&D Customer Onboarding Platform — a fast-growing pharma company (2021-12 to 2022-12)
+  Scaled a customer onboarding platform for a fast-growing pharma company in pharma R&D using Python, AWS and SQL, improving conversion by 18%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect

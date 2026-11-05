@@ -1,0 +1,33 @@
+KUNAL GOKHALE
+DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11827
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 5.9 years of experience, based in Pune. Strong in Kubernetes, AWS, CI/CD and Docker, with recent work in telecom billing. Interested in moving towards Backend Engineer, Platform Engineer roles and open to relocating to Dublin, Kraków.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.0y), AWS (Advanced, 3.2y), CI/CD (Proficient, 3.7y), Docker (Proficient, 2.2y), Observability (Proficient, 4.2y), Linux Administration (Working, 1.0y), Terraform (Working, 0.5y), FinOps (Beginner, 1.0y)
+- Software Engineering: Python (Working, 1.8y), Go (Beginner, 0.8y)
+
+EXPERIENCE
+* E-commerce CI/CD Platform — an APAC online retailer (2025-11 to present)
+  Designed a CI/CD platform for an APAC online retailer in e-commerce using FinOps, Kubernetes, Docker and Python, accelerating releases by 40%.
+* Energy Trading Cloud Landing Zone — a leading energy company (2025-02 to 2025-09)
+  Scaled a cloud landing zone for a leading energy company in energy trading using Kubernetes, AWS and Observability, accelerating releases by 18%.
+* Healthcare CI/CD Platform — a fast-growing hospital network (2024-05 to 2024-12)
+  Scaled a CI/CD platform for a fast-growing hospital network in healthcare using FinOps and Docker, accelerating releases by 12%.
+* Telecom Billing Observability Stack — a fast-growing telecom operator (2022-12 to 2024-03)
+  Re-architected an observability stack for a fast-growing telecom operator in telecom billing using AWS, Terraform, Kubernetes and FinOps, accelerating releases by 30%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2022)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, Platform Engineer, Site Reliability Engineer

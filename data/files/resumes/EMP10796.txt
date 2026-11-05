@@ -1,0 +1,30 @@
+POOJA NAIDU
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10796
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.4 years of experience, based in Hyderabad. Strong in Microservices, SQL, Python and GraphQL, with recent work in airline operations. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 2.0y), Python (Proficient, 1.5y), GraphQL (Proficient, 0.4y), REST API Design (Working, 0.6y), System Design (Working, 0.8y), Spring Boot (Working, 0.6y)
+- Data & AI: SQL (Advanced, 2.5y), Databricks (Proficient, 1.4y)
+- Delivery & Leadership: Communication (Proficient, 0.6y)
+- Cloud & DevOps: CI/CD (Working, 0.4y), Platform Engineering (Working, 1.4y)
+
+EXPERIENCE
+* E-commerce Pricing Engine — a fast-growing online retailer (2026-02 to present)
+  Designed a pricing engine for a fast-growing online retailer in e-commerce using Communication, Microservices, Databricks and SQL, improving conversion by 22%.
+* Airline Operations Self-service Portal — an APAC airline (2024-08 to 2025-11)
+  Designed a self-service portal for an APAC airline in airline operations using CI/CD and SQL, saving ~40K hours annually.
+* Retail Banking Pricing Engine — a tier-1 retail bank (2023-12 to 2024-06)
+  Designed a pricing engine for a tier-1 retail bank in retail banking using Platform Engineering, System Design and CI/CD, reducing processing time by 12%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Full Stack Engineer

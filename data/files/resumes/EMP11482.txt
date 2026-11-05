@@ -1,0 +1,27 @@
+AISHA PATEL
+Associate AI Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP11482
+
+PROFESSIONAL SUMMARY
+Associate AI Engineer with 1.6 years of experience, based in London. Strong in Python, Generative AI, LLM Engineering and Azure, with recent work in public sector. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.5y), REST API Design (Beginner, 0.3y)
+- Data & AI: Generative AI (Working, 0.3y), LLM Engineering (Working, 0.5y), Vector Databases (Working, 0.7y), Responsible AI (Working, 0.3y)
+- Cloud & DevOps: Azure (Working, 0.3y)
+
+EXPERIENCE
+* Public Sector Agentic Customer-service Assistant — a leading government agency (2025-10 to present)
+  Automated an agentic customer-service assistant for a leading government agency in public sector using Azure, Generative AI, Vector Databases and LLM Engineering, lifting NPS by 18 points.
+* Pharma R&D Fraud Detection Model — an APAC pharma company (2025-03 to 2025-09)
+  Automated a fraud detection model for an APAC pharma company in pharma R&D using REST API Design and Azure, improving model accuracy by 35%.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist

@@ -1,0 +1,30 @@
+PALLAVI JADHAV
+Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP10782
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.2 years of experience, based in Bengaluru. Strong in SQL, Python, Data Engineering and Airflow, with recent work in e-commerce. Interested in moving towards Data Analyst, ML Engineer roles and open to relocating to Toronto, Kraków.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.1y), Data Engineering (Proficient, 1.6y), Airflow (Proficient, 0.8y), Snowflake (Proficient, 1.0y), Databricks (Proficient, 0.4y), dbt (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.8y), Kafka (Proficient, 1.4y)
+- Delivery & Leadership: Communication (Proficient, 1.1y)
+
+EXPERIENCE
+* E-commerce Regulatory Reporting Suite — a tier-1 online retailer (2025-11 to present)
+  Designed a regulatory reporting suite for a tier-1 online retailer in e-commerce using Kafka, Databricks and Snowflake, reducing processing time by 25%.
+* Retail Banking Data Lakehouse — a fast-growing retail bank (2025-03 to 2025-08)
+  Modernised a data lakehouse for a fast-growing retail bank in retail banking using Communication and dbt, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Analyst, ML Engineer

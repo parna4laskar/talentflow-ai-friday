@@ -1,0 +1,27 @@
+ANIRUDH CHATTERJEE
+Associate Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11795
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 1.2 years of experience, based in Pune. Strong in Linux Administration, Site Reliability Engineering, Observability and Kubernetes, with recent work in retail banking. Interested in moving towards DevOps Engineer roles and open to relocating to Chennai, Toronto.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 0.7y), Site Reliability Engineering (Proficient, 0.8y), Observability (Proficient, 0.9y), Kubernetes (Working, 0.5y), AWS (Working, 0.4y), Terraform (Working, 0.5y)
+- Quality Engineering: Performance Testing (Working, 0.6y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking CI/CD Platform — an APAC retail bank (2026-02 to present)
+  Automated a CI/CD platform for an APAC retail bank in retail banking using Linux Administration, AWS and Kubernetes, accelerating releases by 22%.
+* Retail Banking Kubernetes Platform — a leading retail bank (2025-07 to 2025-12)
+  Built a Kubernetes platform for a leading retail bank in retail banking using Performance Testing, Site Reliability Engineering and AWS, reducing production incidents by 40%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer

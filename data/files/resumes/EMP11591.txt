@@ -1,0 +1,36 @@
+AKASH GUPTA
+Principal Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11591
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 22 years of experience, based in Bengaluru. Strong in Java, SQL, Microservices and TypeScript, with recent work in public sector. Interested in moving towards Software Architect, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 19.0y), Microservices (Expert, 22.0y), TypeScript (Advanced, 6.2y), Next.js (Advanced, 13.8y), GraphQL (Proficient, 6.9y), Angular (Working, 8.6y)
+- Data & AI: SQL (Expert, 7.8y), Responsible AI (Proficient, 4.5y)
+- Cloud & DevOps: AWS (Advanced, 10.6y)
+- Security: Identity & Access Management (Advanced, 1.4y)
+- Delivery & Leadership: Mentoring (Advanced, 10.3y), Stakeholder Management (Proficient, 8.7y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — a US government agency (2025-12 to present)
+  Re-architected a self-service portal for a US government agency in public sector using Identity & Access Management and Java, lifting NPS by 22 points.
+* Public Sector Payments Microservices Platform — a US government agency (2024-08 to 2025-11)
+  Designed a payments microservices platform for a US government agency in public sector using Responsible AI, SQL and TypeScript, accelerating releases by 35%.
+* Public Sector Order Management System — an APAC government agency (2023-07 to 2024-06)
+  Migrated an order management system for an APAC government agency in public sector using GraphQL, Angular, Java and Responsible AI, reducing processing time by 18%.
+* Public Sector Payments Microservices Platform — a leading government agency (2022-07 to 2023-06)
+  Designed a payments microservices platform for a leading government agency in public sector using GraphQL, Responsible AI and Mentoring, accelerating releases by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, Backend Engineer, Mobile Engineer

@@ -1,0 +1,31 @@
+GAURI THOMAS
+UX Designer | Design | Bengaluru, India
+Employee ID: EMP11511
+
+PROFESSIONAL SUMMARY
+UX Designer with 3.9 years of experience, based in Bengaluru. Strong in Figma, UX Research, UI Design and A/B Testing, with recent work in airline operations. Interested in moving towards UX Designer, Talent Acquisition Specialist roles and open to relocating to Austin.
+
+CORE SKILLS
+- Product & Design: Figma (Advanced, 1.2y), UX Research (Proficient, 1.4y), UI Design (Proficient, 1.7y), A/B Testing (Proficient, 0.7y), Design Systems (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 2.8y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.9y)
+
+EXPERIENCE
+* Insurance Claims Enterprise Design System — a fast-growing insurer (2025-09 to present)
+  Designed an enterprise design system for a fast-growing insurer in insurance claims using UX Research, Design Systems, Figma and Kubernetes, accelerating releases by 25%.
+* Airline Operations Customer Self-service Journey — a European airline (2024-08 to 2025-07)
+  Redesigned a customer self-service journey for a European airline in airline operations using UI Design and UX Research, improving conversion by 30%.
+* Airline Operations Customer Self-service Journey — a fast-growing airline (2023-05 to 2024-07)
+  Designed a customer self-service journey for a fast-growing airline in airline operations using A/B Testing and Design Systems, lifting NPS by 30 points.
+* Payments Customer Self-service Journey — a US payments provider (2021-12 to 2023-02)
+  Designed a customer self-service journey for a US payments provider in payments using UI Design and Design Systems, lifting NPS by 18 points.
+
+EDUCATION
+- M.Des
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: UX Designer, Talent Acquisition Specialist, Product Manager

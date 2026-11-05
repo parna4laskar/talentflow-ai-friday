@@ -1,0 +1,32 @@
+AKASH KHAN
+Senior Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP10518
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 5 years of experience, based in Pune. Strong in Angular, SQL, TypeScript and Python, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 2.8y), TypeScript (Proficient, 3.4y), Python (Proficient, 2.1y), Microservices (Proficient, 2.7y)
+- Data & AI: SQL (Advanced, 0.7y)
+- Cloud & DevOps: AWS (Proficient, 2.8y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — an APAC manufacturer (2026-05 to present)
+  Scaled a claims processing engine for an APAC manufacturer in manufacturing IoT using AWS, TypeScript and SQL, reducing processing time by 40%.
+* Manufacturing IoT Payments Microservices Platform — a fast-growing manufacturer (2025-10 to 2026-04)
+  Designed a payments microservices platform for a fast-growing manufacturer in manufacturing IoT using AWS, Angular and Microservices, accelerating releases by 22%.
+* Manufacturing IoT Customer Onboarding Platform — an APAC manufacturer (2024-04 to 2025-08)
+  Designed a customer onboarding platform for an APAC manufacturer in manufacturing IoT using AWS, SQL and TypeScript, reducing processing time by 22%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Mobile Engineer

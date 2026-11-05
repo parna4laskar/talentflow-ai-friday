@@ -1,0 +1,32 @@
+MATTHEW JOHNSON
+Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP12988
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3.6 years of experience, based in New York. Strong in SQL, Angular, Python and Docker, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, AI Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 2.0y)
+- Software Engineering: Angular (Proficient, 0.9y), Python (Proficient, 2.5y), REST API Design (Proficient, 2.6y), Next.js (Proficient, 1.5y), GraphQL (Proficient, 1.6y), TypeScript (Working, 0.7y)
+- Cloud & DevOps: Docker (Proficient, 1.3y), AWS (Beginner, 0.7y)
+- Quality Engineering: Playwright (Beginner, 0.8y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — a global logistics company (2026-02 to present)
+  Modernised a pricing engine for a global logistics company in supply-chain logistics using Angular and SQL, improving conversion by 25%.
+* Energy Trading Customer Onboarding Platform — a fast-growing energy company (2024-06 to 2025-12)
+  Modernised a customer onboarding platform for a fast-growing energy company in energy trading using AWS, GraphQL and Python, lifting NPS by 22 points.
+* Payments Pricing Engine — a leading payments provider (2023-11 to 2024-05)
+  Scaled a pricing engine for a leading payments provider in payments using GraphQL, REST API Design and TypeScript, reducing processing time by 12%.
+* Retail Banking Self-service Portal — a tier-1 retail bank (2022-07 to 2023-09)
+  Automated a self-service portal for a tier-1 retail bank in retail banking using Angular, Next.js and Python, saving ~22K hours annually.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, AI Engineer

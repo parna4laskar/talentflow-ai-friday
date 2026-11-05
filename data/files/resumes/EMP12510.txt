@@ -1,0 +1,32 @@
+DAVID NGUYEN
+Senior Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP12510
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 8.9 years of experience, based in New York. Strong in TypeScript, React, Java and SQL, with recent work in retail banking. Interested in moving towards AI Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.3y), React (Advanced, 2.6y), Java (Proficient, 1.2y), REST API Design (Working, 4.1y)
+- Data & AI: SQL (Proficient, 3.4y), Generative AI (Proficient, 1.5y)
+- Cloud & DevOps: Docker (Proficient, 5.0y)
+
+EXPERIENCE
+* Retail Banking Customer Onboarding Platform — a tier-1 retail bank (2026-01 to present)
+  Designed a customer onboarding platform for a tier-1 retail bank in retail banking using React and REST API Design, lifting NPS by 30 points.
+* Retail Banking Pricing Engine — a European retail bank (2024-06 to 2025-11)
+  Built a pricing engine for a European retail bank in retail banking using REST API Design, Docker and React, improving conversion by 12%.
+* Payments Mobile Banking App — a European payments provider (2022-11 to 2024-04)
+  Migrated a mobile banking app for a European payments provider in payments using TypeScript, Docker, React and SQL, improving conversion by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: AI Engineer, Backend Engineer

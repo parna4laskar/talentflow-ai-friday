@@ -1,0 +1,27 @@
+CONOR REDDY
+Associate Data Analyst | Data & Analytics | Dublin, Ireland
+Employee ID: EMP12334
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2.2 years of experience, based in Dublin. Strong in SQL, Data Visualization, Stakeholder Management and A/B Testing, with recent work in HR tech. Interested in moving towards Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.8y), Data Visualization (Proficient, 0.4y), Tableau (Working, 0.9y), Statistics (Working, 0.8y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.9y)
+- Product & Design: A/B Testing (Proficient, 0.5y)
+
+EXPERIENCE
+* HR Tech Real-time Analytics Pipeline — a global HR software company (2026-05 to present)
+  Built a real-time analytics pipeline for a global HR software company in HR tech using Stakeholder Management, Tableau, SQL and A/B Testing, cutting cloud spend by 22%.
+* Public Sector Data Lakehouse — an APAC government agency (2025-05 to 2026-04)
+  Led the delivery of a data lakehouse for an APAC government agency in public sector using Statistics, A/B Testing, Tableau and Stakeholder Management, reducing processing time by 12%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Product Manager

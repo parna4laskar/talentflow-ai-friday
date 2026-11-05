@@ -1,0 +1,28 @@
+ZHI HAO ONG
+Platform Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP11352
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 5 years of experience, based in Singapore. Strong in Kubernetes, Terraform, Platform Engineering and CI/CD, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.7y), Terraform (Advanced, 4.6y), Platform Engineering (Proficient, 2.1y), CI/CD (Proficient, 0.7y), AWS (Proficient, 3.2y)
+- Software Engineering: Python (Proficient, 0.5y), Go (Beginner, 0.4y)
+
+EXPERIENCE
+* HR Tech CI/CD Platform — a leading HR software company (2025-09 to present)
+  Led the delivery of a CI/CD platform for a leading HR software company in HR tech using Kubernetes, Python, Platform Engineering and CI/CD, accelerating releases by 12%.
+* E-commerce CI/CD Platform — an APAC online retailer (2024-09 to 2025-09)
+  Re-architected a CI/CD platform for an APAC online retailer in e-commerce using Platform Engineering, AWS, Python and Terraform, accelerating releases by 18%.
+* E-commerce Observability Stack — a tier-1 online retailer (2023-02 to 2024-07)
+  Built an observability stack for a tier-1 online retailer in e-commerce using Go, CI/CD and Python, accelerating releases by 35%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Cloud Engineer, Backend Engineer

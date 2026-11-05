@@ -1,0 +1,34 @@
+MADISON MACDONALD
+Senior Platform Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10297
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 5.3 years of experience, based in New York. Strong in Terraform, Platform Engineering, CI/CD and Site Reliability Engineering, with recent work in telecom billing. Interested in moving towards Platform Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 2.1y), Platform Engineering (Proficient, 1.4y), CI/CD (Proficient, 2.3y), Site Reliability Engineering (Proficient, 1.7y), AWS (Proficient, 3.6y), Kubernetes (Working, 2.3y), Observability (Working, 2.6y), Linux Administration (Beginner, 1.1y)
+- Data & AI: Databricks (Proficient, 1.0y)
+- Software Engineering: Go (Working, 0.4y)
+
+EXPERIENCE
+* Pharma R&D Observability Stack — a global pharma company (2026-03 to present)
+  Scaled an observability stack for a global pharma company in pharma R&D using AWS and Go, accelerating releases by 22%.
+* Retail Banking Cloud Landing Zone — a leading retail bank (2025-06 to 2026-01)
+  Built a cloud landing zone for a leading retail bank in retail banking using Site Reliability Engineering and Databricks, accelerating releases by 22%.
+* Telecom Billing CI/CD Platform — a tier-1 telecom operator (2023-12 to 2025-04)
+  Migrated a CI/CD platform for a tier-1 telecom operator in telecom billing using Kubernetes, Platform Engineering, Linux Administration and Terraform, accelerating releases by 35%.
+* Telecom Billing Data-centre Exit To Cloud — an APAC telecom operator (2023-02 to 2023-10)
+  Scaled a data-centre exit to cloud for an APAC telecom operator in telecom billing using Terraform and Linux Administration, delivering $2M in cost savings.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2022)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Platform Engineer, Site Reliability Engineer, Backend Engineer

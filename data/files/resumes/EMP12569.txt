@@ -1,0 +1,32 @@
+JACK JONES
+Senior Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12569
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6.2 years of experience, based in London. Strong in TypeScript, Java, React and SQL, with recent work in public sector. Interested in moving towards Backend Engineer, Software Architect roles and open to relocating to Hyderabad, Gurugram.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 4.6y), Java (Advanced, 0.5y), React (Proficient, 1.2y), Next.js (Proficient, 2.1y), Mobile Development (Proficient, 1.4y), REST API Design (Working, 1.7y)
+- Data & AI: SQL (Proficient, 2.0y)
+- Cloud & DevOps: Docker (Proficient, 2.9y)
+- Delivery & Leadership: Communication (Proficient, 4.0y)
+
+EXPERIENCE
+* Wealth Management Payments Microservices Platform — a tier-1 wealth manager (2025-07 to present)
+  Designed a payments microservices platform for a tier-1 wealth manager in wealth management using Communication, Docker, Java and REST API Design, reducing production incidents by 30%.
+* Airline Operations Pricing Engine — a leading airline (2024-10 to 2025-04)
+  Migrated a pricing engine for a leading airline in airline operations using Java, Mobile Development, REST API Design and Communication, reducing processing time by 22%.
+* Retail Banking Claims Processing Engine — a European retail bank (2023-11 to 2024-07)
+  Led the delivery of a claims processing engine for a European retail bank in retail banking using SQL and Docker, saving ~12K hours annually.
+* Wealth Management Pricing Engine — a leading wealth manager (2022-08 to 2023-09)
+  Scaled a pricing engine for a leading wealth manager in wealth management using Java and SQL, improving conversion by 25%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Software Architect

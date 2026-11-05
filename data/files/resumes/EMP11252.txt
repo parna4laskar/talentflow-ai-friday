@@ -1,0 +1,29 @@
+SIMRAN BANERJEE
+Associate Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP11252
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.3 years of experience, based in Pune. Strong in SQL, Python, Data Engineering and Databricks, with recent work in public sector. Interested in moving towards Backend Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.3y), Data Engineering (Proficient, 0.3y), Databricks (Proficient, 0.3y), Apache Spark (Working, 0.3y), dbt (Working, 0.3y), Data Governance (Working, 0.3y), Airflow (Working, 0.3y)
+- Software Engineering: Python (Proficient, 0.4y), Kafka (Working, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Regulatory Reporting Suite — a leading logistics company (2026-04 to present)
+  Re-architected a regulatory reporting suite for a leading logistics company in supply-chain logistics using dbt and Kafka, saving ~25K hours annually.
+* Public Sector Regulatory Reporting Suite — an APAC government agency (2024-11 to 2026-02)
+  Migrated a regulatory reporting suite for an APAC government agency in public sector using Databricks, Python, Kafka and Data Engineering, reducing processing time by 18%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, ML Engineer, Data Scientist

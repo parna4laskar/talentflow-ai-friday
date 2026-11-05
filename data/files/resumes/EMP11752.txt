@@ -1,0 +1,34 @@
+OLIVIA WILSON
+Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP11752
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5.3 years of experience, based in London. Strong in Power BI, Communication, SQL and Data Visualization, with recent work in public sector. Interested in moving towards Data Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Power BI (Advanced, 2.4y), SQL (Proficient, 3.8y), Data Visualization (Proficient, 0.7y), LLM Engineering (Beginner, 0.8y)
+- Delivery & Leadership: Communication (Advanced, 1.6y), Stakeholder Management (Working, 0.8y)
+- Business & Finance: Business Analysis (Proficient, 2.0y)
+- Product & Design: A/B Testing (Proficient, 2.3y)
+- Cloud & DevOps: FinOps (Working, 0.4y)
+- Software Engineering: Python (Beginner, 0.5y)
+
+EXPERIENCE
+* Pharma R&D Regulatory Reporting Suite — a European pharma company (2025-08 to present)
+  Led the delivery of a regulatory reporting suite for a European pharma company in pharma R&D using A/B Testing and Business Analysis, saving ~25K hours annually.
+* E-commerce Real-time Analytics Pipeline — a US online retailer (2024-04 to 2025-07)
+  Scaled a real-time analytics pipeline for a US online retailer in e-commerce using A/B Testing, LLM Engineering, Data Visualization and FinOps, cutting cloud spend by 40%.
+* Airline Operations Customer Churn Model — a fast-growing airline (2023-07 to 2024-04)
+  Led the delivery of a customer churn model for a fast-growing airline in airline operations using Stakeholder Management, SQL and FinOps, improving conversion by 18%.
+* Public Sector Real-time Analytics Pipeline — a tier-1 government agency (2022-02 to 2023-05)
+  Led the delivery of a real-time analytics pipeline for a tier-1 government agency in public sector using LLM Engineering and Business Analysis, cutting cloud spend by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst, Product Manager, Business Analyst, Data Scientist

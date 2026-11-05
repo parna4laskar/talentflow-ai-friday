@@ -1,0 +1,33 @@
+WILLIAM KHAN
+QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP11100
+
+PROFESSIONAL SUMMARY
+QA Engineer with 5.5 years of experience, based in London. Strong in Selenium, Test Automation, MLOps and API Testing, with recent work in automotive. Interested in moving towards QA Engineer, Backend Engineer roles and open to relocating to Bengaluru, Hyderabad.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 3.6y), Test Automation (Proficient, 2.1y), API Testing (Working, 0.4y)
+- Data & AI: MLOps (Proficient, 2.9y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.6y)
+- Cloud & DevOps: CI/CD (Working, 1.8y)
+
+EXPERIENCE
+* Airline Operations Performance Engineering Programme — an APAC airline (2025-08 to present)
+  Led the delivery of a performance engineering programme for an APAC airline in airline operations using Test Automation, Selenium, MLOps and Agile/Scrum, accelerating releases by 12%.
+* Automotive Performance Engineering Programme — a tier-1 car maker (2024-07 to 2025-06)
+  Built a performance engineering programme for a tier-1 car maker in automotive using Selenium and API Testing, accelerating releases by 30%.
+* Automotive API Contract-testing Suite — a fast-growing car maker (2023-07 to 2024-06)
+  Modernised an API contract-testing suite for a fast-growing car maker in automotive using Agile/Scrum, CI/CD and MLOps, raising automated test coverage to 80%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2022)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: QA Engineer, Backend Engineer, Full Stack Engineer

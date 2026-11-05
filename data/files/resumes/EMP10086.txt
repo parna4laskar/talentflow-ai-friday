@@ -1,0 +1,30 @@
+MEI PATEL
+Senior DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10086
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 8 years of experience, based in New York. Strong in CI/CD, GCP, Communication and Docker, with recent work in automotive. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 6.1y), GCP (Advanced, 6.5y), Docker (Proficient, 1.5y), Terraform (Proficient, 5.1y), Kubernetes (Working, 0.7y)
+- Delivery & Leadership: Communication (Advanced, 1.3y)
+- Software Engineering: Python (Proficient, 3.6y)
+- Data & AI: Machine Learning (Working, 2.2y)
+
+EXPERIENCE
+* Automotive CI/CD Platform — a tier-1 car maker (2025-09 to present)
+  Modernised a CI/CD platform for a tier-1 car maker in automotive using Machine Learning, Kubernetes and GCP, accelerating releases by 12%.
+* Automotive Cloud Landing Zone — a tier-1 car maker (2024-08 to 2025-07)
+  Built a cloud landing zone for a tier-1 car maker in automotive using Machine Learning, Python, Communication and Docker, cutting cloud spend by 25%.
+* Airline Operations Cloud Landing Zone — a European airline (2023-03 to 2024-08)
+  Automated a cloud landing zone for a European airline in airline operations using Machine Learning, CI/CD, GCP and Docker, accelerating releases by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Site Reliability Engineer, Backend Engineer, Cloud Engineer

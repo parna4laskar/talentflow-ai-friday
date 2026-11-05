@@ -1,0 +1,36 @@
+AKASH O'BRIEN
+Principal Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP11114
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 24.3 years of experience, based in Chennai. Strong in Power BI, SQL, A/B Testing and Data Visualization, with recent work in HR tech. Interested in moving towards Business Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Power BI (Expert, 24.3y), SQL (Advanced, 9.7y), Data Visualization (Proficient, 14.2y)
+- Product & Design: A/B Testing (Advanced, 15.8y)
+- Delivery & Leadership: People Leadership (Advanced, 4.8y), Mentoring (Proficient, 10.7y), Stakeholder Management (Proficient, 5.3y)
+- Software Engineering: Python (Proficient, 6.9y)
+
+EXPERIENCE
+* HR Tech Customer Churn Model — an APAC HR software company (2026-09 to present)
+  Built a customer churn model for an APAC HR software company in HR tech using SQL, Mentoring and Power BI, improving model accuracy by 12%.
+* HR Tech Customer Churn Model — a US HR software company (2026-03 to 2026-09)
+  Designed a customer churn model for a US HR software company in HR tech using Python, SQL, Mentoring and Power BI, improving conversion by 12%.
+* Media Streaming Customer Churn Model — a global streaming platform (2025-02 to 2026-01)
+  Designed a customer churn model for a global streaming platform in media streaming using Mentoring and Stakeholder Management, improving model accuracy by 12%.
+* Telecom Billing Regulatory Reporting Suite — a tier-1 telecom operator (2023-12 to 2025-01)
+  Designed a regulatory reporting suite for a tier-1 telecom operator in telecom billing using Data Visualization, Power BI and SQL, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2025)
+- Tableau Desktop Specialist (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Business Analyst, Financial Analyst

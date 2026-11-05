@@ -1,0 +1,32 @@
+GEORGE MACDONALD
+AI Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP11620
+
+PROFESSIONAL SUMMARY
+AI Engineer with 5 years of experience, based in London. Strong in Generative AI, Python, LLM Engineering and Agentic AI, with recent work in healthcare. Interested in moving towards ML Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Advanced, 2.2y), LLM Engineering (Proficient, 1.5y), Agentic AI (Proficient, 3.5y), NLP (Working, 0.5y)
+- Software Engineering: Python (Proficient, 0.6y)
+
+EXPERIENCE
+* Public Sector Agentic Customer-service Assistant — a global government agency (2025-12 to present)
+  Led the delivery of an agentic customer-service assistant for a global government agency in public sector using Python, Agentic AI and Generative AI, saving ~12K hours annually.
+* Healthcare Document Intelligence Pipeline — a tier-1 hospital network (2025-04 to 2025-10)
+  Modernised a document intelligence pipeline for a tier-1 hospital network in healthcare using Agentic AI and LLM Engineering, saving ~35K hours annually.
+* Wealth Management Document Intelligence Pipeline — an APAC wealth manager (2024-05 to 2025-01)
+  Automated a document intelligence pipeline for an APAC wealth manager in wealth management using NLP, Agentic AI and Python, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2023)
+- Google Generative AI Leader (2021)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, Data Scientist, Full Stack Engineer

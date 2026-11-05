@@ -1,0 +1,32 @@
+HARRY BROWN
+Senior Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP10279
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10 years of experience, based in London. Strong in SQL, Tableau, Stakeholder Management and Communication, with recent work in media streaming. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 7.9y), Tableau (Proficient, 0.5y), Data Visualization (Working, 1.7y), Generative AI (Working, 1.9y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.4y), Communication (Proficient, 1.0y)
+- Business & Finance: Business Analysis (Working, 1.9y)
+
+EXPERIENCE
+* Media Streaming Real-time Analytics Pipeline — a US streaming platform (2026-05 to present)
+  Modernised a real-time analytics pipeline for a US streaming platform in media streaming using Communication, Stakeholder Management, Business Analysis and SQL, reducing processing time by 40%.
+* Payments Real-time Analytics Pipeline — a European payments provider (2024-10 to 2026-02)
+  Designed a real-time analytics pipeline for a European payments provider in payments using Data Visualization, SQL, Tableau and Generative AI, cutting cloud spend by 18%.
+* Media Streaming Executive KPI Dashboard Suite — an APAC streaming platform (2023-07 to 2024-10)
+  Designed an executive KPI dashboard suite for an APAC streaming platform in media streaming using Stakeholder Management, Tableau and Data Visualization, saving ~35K hours annually.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, Financial Analyst, Product Manager, Data Scientist

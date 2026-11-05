@@ -1,0 +1,36 @@
+PRASAD DAS
+Principal Risk & Compliance Analyst | Risk & Compliance | Bengaluru, India
+Employee ID: EMP10965
+
+PROFESSIONAL SUMMARY
+Principal Risk & Compliance Analyst with 17 years of experience, based in Bengaluru. Strong in Risk Management, Regulatory Compliance, Mentoring and SQL, with recent work in telecom billing. Interested in moving towards Risk & Compliance Analyst, SAP Consultant roles and open to relocating to Singapore, Toronto.
+
+CORE SKILLS
+- Business & Finance: Risk Management (Expert, 16.4y), Regulatory Compliance (Expert, 9.9y), Financial Analysis (Advanced, 5.9y)
+- Delivery & Leadership: Mentoring (Expert, 2.7y), Stakeholder Management (Advanced, 0.8y), People Leadership (Advanced, 4.2y), Communication (Proficient, 4.7y)
+- Data & AI: SQL (Advanced, 12.0y), Responsible AI (Advanced, 12.2y), Data Governance (Advanced, 16.2y)
+- Security: GRC (Proficient, 2.3y)
+- People & Marketing: People Analytics (Proficient, 7.8y)
+
+EXPERIENCE
+* Pharma R&D Rolling Forecasting Model — a global pharma company (2025-07 to present)
+  Owned a rolling forecasting model for a global pharma company in pharma R&D using Regulatory Compliance and Data Governance, improving forecast accuracy by 12%.
+* Telecom Billing Rolling Forecasting Model — a fast-growing telecom operator (2023-12 to 2025-06)
+  Built a rolling forecasting model for a fast-growing telecom operator in telecom billing using Responsible AI and Regulatory Compliance, improving forecast accuracy by 18%.
+* Automotive Rolling Forecasting Model — a tier-1 car maker (2022-04 to 2023-10)
+  Built a rolling forecasting model for a tier-1 car maker in automotive using Regulatory Compliance and GRC, saving ~12K hours annually.
+* Telecom Billing Cost Transformation Programme — a US telecom operator (2020-10 to 2022-02)
+  Owned a cost transformation programme for a US telecom operator in telecom billing using SQL, Data Governance and Mentoring, delivering $5M in cost savings.
+
+CERTIFICATIONS
+- CRISC (2026)
+
+EDUCATION
+- MSc Economics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Risk & Compliance Analyst, SAP Consultant, Data Engineer

@@ -1,0 +1,31 @@
+RIYA PILLAI
+Senior Security Engineer | Cyber Security | Pune, India
+Employee ID: EMP11030
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 8.6 years of experience, based in Pune. Strong in Application Security, Cloud Security, Threat Modeling and Incident Response, with recent work in public sector. Interested in moving towards Security Engineer, Cloud Engineer roles and open to relocating to Bengaluru, Austin, Singapore.
+
+CORE SKILLS
+- Security: Application Security (Expert, 8.3y), Cloud Security (Advanced, 0.9y), Threat Modeling (Proficient, 5.5y), Incident Response (Proficient, 6.0y)
+- Cloud & DevOps: Linux Administration (Proficient, 3.3y), Kubernetes (Working, 1.4y)
+
+EXPERIENCE
+* Public Sector Security Operations Centre Uplift — a US government agency (2026-03 to present)
+  Led the delivery of a security operations centre uplift for a US government agency in public sector using Incident Response and Threat Modeling, reducing production incidents by 35%.
+* Energy Trading Identity and Access Platform — a tier-1 energy company (2024-08 to 2026-01)
+  Built an identity and access platform for a tier-1 energy company in energy trading using Linux Administration, Cloud Security and Threat Modeling, reducing production incidents by 30%.
+* E-commerce Identity and Access Platform — a leading online retailer (2023-08 to 2024-05)
+  Automated an identity and access platform for a leading online retailer in e-commerce using Linux Administration and Incident Response, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- CISSP (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Security Engineer, Cloud Engineer

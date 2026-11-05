@@ -1,0 +1,28 @@
+VIVEK VERMA
+Associate AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP11477
+
+PROFESSIONAL SUMMARY
+Associate AI Engineer with 2.3 years of experience, based in Pune. Strong in LLM Engineering, Agentic AI, Communication and Python, with recent work in payments. Interested in moving towards DevOps Engineer roles and open to relocating to Dublin, Kraków, Bengaluru.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Proficient, 1.5y), Agentic AI (Proficient, 0.8y), Generative AI (Working, 1.1y), NLP (Beginner, 0.3y), Responsible AI (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 1.6y)
+- Software Engineering: Python (Working, 0.9y), REST API Design (Beginner, 0.3y)
+- Cloud & DevOps: Docker (Beginner, 0.6y)
+
+EXPERIENCE
+* Healthcare Fraud Detection Model — a leading hospital network (2026-03 to present)
+  Re-architected a fraud detection model for a leading hospital network in healthcare using Docker, NLP and Communication, improving model accuracy by 12%.
+* Payments Fraud Detection Model — a European payments provider (2025-01 to 2025-12)
+  Re-architected a fraud detection model for a European payments provider in payments using Responsible AI, Agentic AI, Python and NLP, reducing processing time by 30%.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer

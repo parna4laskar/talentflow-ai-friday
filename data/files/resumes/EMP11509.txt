@@ -1,0 +1,36 @@
+GURPREET SEN
+Principal Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP11509
+
+PROFESSIONAL SUMMARY
+Principal Data Analyst with 17.2 years of experience, based in Hyderabad. Strong in SQL, Data Visualization, Tableau and Statistics, with recent work in automotive. Interested in moving towards Data Scientist, Financial Analyst roles and open to relocating to New York.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 6.1y), Data Visualization (Expert, 14.3y), Tableau (Expert, 14.5y), Statistics (Advanced, 9.4y), Snowflake (Proficient, 2.4y)
+- Delivery & Leadership: Mentoring (Advanced, 12.8y), Communication (Advanced, 15.4y), Stakeholder Management (Proficient, 3.3y), People Leadership (Proficient, 7.5y)
+- Business & Finance: Business Analysis (Proficient, 3.1y)
+- Product & Design: A/B Testing (Proficient, 4.7y)
+
+EXPERIENCE
+* Automotive Customer Churn Model — a leading car maker (2026-05 to present)
+  Built a customer churn model for a leading car maker in automotive using Communication, Mentoring, Stakeholder Management and A/B Testing, improving conversion by 30%.
+* HR Tech Executive KPI Dashboard Suite — a European HR software company (2024-09 to 2026-03)
+  Re-architected an executive KPI dashboard suite for a European HR software company in HR tech using Stakeholder Management, Communication and Tableau, improving forecast accuracy by 30%.
+* Wealth Management Data Lakehouse — an APAC wealth manager (2023-11 to 2024-06)
+  Automated a data lakehouse for an APAC wealth manager in wealth management using Stakeholder Management, Statistics and Business Analysis, cutting cloud spend by 30%.
+* Automotive Customer Churn Model — a European car maker (2022-11 to 2023-09)
+  Re-architected a customer churn model for a European car maker in automotive using SQL, Communication, Data Visualization and Statistics, improving conversion by 18%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2023)
+- Tableau Desktop Specialist (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Scientist, Financial Analyst, Product Manager

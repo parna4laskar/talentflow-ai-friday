@@ -1,0 +1,28 @@
+ZHI HAO KAUR
+Associate Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11010
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 0.3 years of experience, based in Singapore. Strong in SQL, C#, Kubernetes and Spring Boot, with recent work in insurance claims. Interested in moving towards DevOps Engineer roles and open to relocating to Hyderabad, London.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.4y)
+- Software Engineering: C# (Proficient, 0.3y), Spring Boot (Proficient, 0.3y), REST API Design (Working, 0.3y), GraphQL (Working, 0.3y), System Design (Working, 0.3y), Microservices (Beginner, 0.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.3y), Docker (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Order Management System — a US insurer (2026-01 to present)
+  Re-architected an order management system for a US insurer in insurance claims using Docker, Microservices, System Design and Spring Boot, onboarding 3 new enterprise clients.
+* Insurance Claims Pricing Engine — a global insurer (2025-04 to 2025-11)
+  Led the delivery of a pricing engine for a global insurer in insurance claims using GraphQL and SQL, improving conversion by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer

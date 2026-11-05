@@ -1,0 +1,31 @@
+MADISON LEE
+Full Stack Engineer | Engineering | Austin, United States
+Employee ID: EMP11469
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.1 years of experience, based in Austin. Strong in Python, SQL, Next.js and TypeScript, with recent work in HR tech. Interested in moving towards Frontend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 3.0y), Next.js (Proficient, 1.5y), TypeScript (Working, 0.4y), Angular (Working, 0.5y), Microservices (Working, 0.8y), JavaScript (Working, 2.0y), REST API Design (Beginner, 0.4y)
+- Data & AI: SQL (Proficient, 2.2y)
+- Cloud & DevOps: Docker (Working, 1.0y)
+
+EXPERIENCE
+* Airline Operations Pricing Engine — a European airline (2025-12 to present)
+  Modernised a pricing engine for a European airline in airline operations using Microservices, Docker and SQL, reducing processing time by 35%.
+* HR Tech Pricing Engine — a global HR software company (2025-04 to 2025-10)
+  Modernised a pricing engine for a global HR software company in HR tech using Python, REST API Design and Microservices, reducing processing time by 30%.
+* Airline Operations Customer Onboarding Platform — an APAC airline (2024-05 to 2025-01)
+  Scaled a customer onboarding platform for an APAC airline in airline operations using Python and REST API Design, lifting NPS by 25 points.
+* E-commerce Pricing Engine — a leading online retailer (2022-12 to 2024-02)
+  Modernised a pricing engine for a leading online retailer in e-commerce using Microservices and Next.js, reducing processing time by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Frontend Engineer, AI Engineer, Backend Engineer

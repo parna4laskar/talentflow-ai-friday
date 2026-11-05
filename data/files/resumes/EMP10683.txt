@@ -1,0 +1,27 @@
+ADITI PAWAR
+Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10683
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.7 years of experience, based in Bengaluru. Strong in JavaScript, React, TypeScript and GraphQL, with recent work in payments. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 1.4y), React (Advanced, 2.1y), TypeScript (Proficient, 1.5y), GraphQL (Proficient, 1.5y), Node.js (Working, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 1.9y)
+- Quality Engineering: Playwright (Working, 1.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Mobile Banking App — an APAC logistics company (2026-11 to present)
+  Built a mobile banking app for an APAC logistics company in supply-chain logistics using Playwright and GraphQL, lifting NPS by 18 points.
+* Payments Customer Onboarding Platform — a global payments provider (2025-11 to 2026-09)
+  Scaled a customer onboarding platform for a global payments provider in payments using Playwright and GraphQL, improving conversion by 40%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer

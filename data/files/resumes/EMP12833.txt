@@ -1,0 +1,33 @@
+ROHAN DESHPANDE
+Lead Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP12833
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 9.9 years of experience, based in Gurugram. Strong in Java, REST API Design, SQL and Microservices, with recent work in insurance claims. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 6.6y), REST API Design (Advanced, 2.8y), Microservices (Advanced, 0.6y), System Design (Proficient, 6.9y), Spring Boot (Working, 1.2y)
+- Data & AI: SQL (Advanced, 8.0y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 8.7y), Mentoring (Proficient, 6.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 5.0y)
+
+EXPERIENCE
+* Payments Self-service Portal — a tier-1 payments provider (2026-09 to present)
+  Built a self-service portal for a tier-1 payments provider in payments using SQL, Spring Boot, Kubernetes and REST API Design, lifting NPS by 30 points.
+* Insurance Claims Customer Onboarding Platform — a leading insurer (2025-03 to 2026-08)
+  Scaled a customer onboarding platform for a leading insurer in insurance claims using Stakeholder Management, System Design, Mentoring and REST API Design, reducing processing time by 35%.
+* Wealth Management Pricing Engine — a leading wealth manager (2024-05 to 2024-12)
+  Migrated a pricing engine for a leading wealth manager in wealth management using SQL, REST API Design and System Design, improving conversion by 25%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, DevOps Engineer

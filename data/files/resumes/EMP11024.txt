@@ -1,0 +1,29 @@
+CARLOS MILLER
+Senior QA Engineer | Quality Engineering | Austin, United States
+Employee ID: EMP11024
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.1 years of experience, based in Austin. Strong in API Testing, Test Automation, Selenium and CI/CD, with recent work in manufacturing IoT. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 8.3y), Test Automation (Proficient, 1.8y), Selenium (Proficient, 2.1y)
+- Cloud & DevOps: CI/CD (Proficient, 6.3y), FinOps (Working, 0.7y)
+- Data & AI: SQL (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT API Contract-testing Suite — a tier-1 manufacturer (2025-11 to present)
+  Migrated an API contract-testing suite for a tier-1 manufacturer in manufacturing IoT using API Testing and Selenium, raising automated test coverage to 80%.
+* Manufacturing IoT Performance Engineering Programme — a European manufacturer (2024-11 to 2025-10)
+  Built a performance engineering programme for a European manufacturer in manufacturing IoT using SQL and FinOps, accelerating releases by 30%.
+* Manufacturing IoT Performance Engineering Programme — a US manufacturer (2023-06 to 2024-09)
+  Automated a performance engineering programme for a US manufacturer in manufacturing IoT using CI/CD, Selenium and SQL, reducing production incidents by 30%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, Backend Engineer, Engineering Manager

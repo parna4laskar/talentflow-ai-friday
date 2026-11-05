@@ -1,0 +1,32 @@
+HARSH RAO
+Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP12935
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.1 years of experience, based in Chennai. Strong in TypeScript, Angular, Java and GraphQL, with recent work in payments. Interested in moving towards AI Engineer roles and open to relocating to Singapore, Toronto, London.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.1y), Angular (Proficient, 1.0y), Java (Proficient, 1.0y), GraphQL (Proficient, 0.7y), Microservices (Working, 1.0y), Kafka (Working, 0.9y)
+- Cloud & DevOps: Docker (Proficient, 1.4y), AWS (Working, 1.0y)
+- Data & AI: SQL (Working, 1.0y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+- Security: Cloud Security (Beginner, 0.3y)
+
+EXPERIENCE
+* Payments Customer Onboarding Platform — a leading payments provider (2025-09 to present)
+  Scaled a customer onboarding platform for a leading payments provider in payments using Docker, TypeScript, Cloud Security and Communication, lifting NPS by 25 points.
+* Payments Mobile Banking App — a European payments provider (2025-03 to 2025-08)
+  Automated a mobile banking app for a European payments provider in payments using GraphQL, Kafka, Cloud Security and SQL, improving conversion by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer

@@ -1,0 +1,34 @@
+SANJANA PAWAR
+Senior Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP11470
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 9.5 years of experience, based in Bengaluru. Strong in SQL, Data Visualization, Tableau and Snowflake, with recent work in healthcare. Interested in moving towards Financial Analyst, Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.8y), Data Visualization (Advanced, 6.7y), Tableau (Advanced, 0.9y), Snowflake (Advanced, 9.0y), dbt (Working, 2.6y), Statistics (Beginner, 0.7y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 5.8y)
+- Product & Design: A/B Testing (Working, 0.4y)
+- Software Engineering: Python (Working, 3.3y)
+
+EXPERIENCE
+* Airline Operations Real-time Analytics Pipeline — a US airline (2026-08 to present)
+  Led the delivery of a real-time analytics pipeline for a US airline in airline operations using Python and Tableau, cutting cloud spend by 18%.
+* Public Sector Executive KPI Dashboard Suite — a fast-growing government agency (2024-11 to 2026-05)
+  Scaled an executive KPI dashboard suite for a fast-growing government agency in public sector using A/B Testing, Stakeholder Management, Python and Data Visualization, saving ~30K hours annually.
+* Healthcare Data Lakehouse — an APAC hospital network (2023-04 to 2024-09)
+  Built a data lakehouse for an APAC hospital network in healthcare using Statistics and Python, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+- Tableau Desktop Specialist (2023)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Financial Analyst, Business Analyst

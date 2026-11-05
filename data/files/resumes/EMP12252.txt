@@ -1,0 +1,32 @@
+IMRAN DESHPANDE
+Senior Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12252
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 9 years of experience, based in Pune. Strong in Terraform, Linux Administration, Python and FinOps, with recent work in manufacturing IoT. Interested in moving towards Cloud Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 3.8y), Linux Administration (Advanced, 8.4y), FinOps (Proficient, 6.2y), CI/CD (Proficient, 3.2y), Azure (Beginner, 0.5y)
+- Software Engineering: Python (Proficient, 2.4y)
+- Delivery & Leadership: Communication (Proficient, 1.9y)
+- Security: Cloud Security (Working, 3.4y)
+
+EXPERIENCE
+* Pharma R&D Data-centre Exit To Cloud — a European pharma company (2025-10 to present)
+  Built a data-centre exit to cloud for a European pharma company in pharma R&D using CI/CD, Linux Administration and FinOps, cutting cloud spend by 40%.
+* E-commerce Observability Stack — a European online retailer (2024-04 to 2025-09)
+  Led the delivery of an observability stack for a European online retailer in e-commerce using CI/CD and Linux Administration, accelerating releases by 25%.
+* Manufacturing IoT Observability Stack — an APAC manufacturer (2022-11 to 2024-02)
+  Re-architected an observability stack for an APAC manufacturer in manufacturing IoT using CI/CD, Azure and FinOps, reducing production incidents by 12%.
+* Manufacturing IoT Data-centre Exit To Cloud — a tier-1 manufacturer (2021-11 to 2022-10)
+  Re-architected a data-centre exit to cloud for a tier-1 manufacturer in manufacturing IoT using Azure, Communication, FinOps and Cloud Security, delivering $8M in cost savings.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Cloud Engineer, Software Architect, Platform Engineer, DevOps Engineer

@@ -1,0 +1,30 @@
+JAMAL GARCIA
+Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP11916
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.9 years of experience, based in New York. Strong in Angular, TypeScript, Node.js and SQL, with recent work in insurance claims. Interested in moving towards Mobile Engineer roles and open to relocating to Pune, Chennai, Austin.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 4.9y), TypeScript (Advanced, 2.7y), Node.js (Advanced, 3.8y), GraphQL (Proficient, 0.7y)
+- Data & AI: SQL (Proficient, 2.3y), dbt (Working, 2.2y)
+- Cloud & DevOps: Docker (Proficient, 1.6y), AWS (Proficient, 2.3y)
+- Security: Identity & Access Management (Working, 0.9y)
+
+EXPERIENCE
+* Payments Pricing Engine — an APAC payments provider (2026-07 to present)
+  Built a pricing engine for an APAC payments provider in payments using dbt, TypeScript, Identity & Access Management and Node.js, reducing processing time by 30%.
+* Insurance Claims Customer Onboarding Platform — a fast-growing insurer (2024-11 to 2026-05)
+  Migrated a customer onboarding platform for a fast-growing insurer in insurance claims using Node.js, SQL, Docker and Angular, reducing processing time by 22%.
+* Airline Operations Mobile Banking App — a fast-growing airline (2023-09 to 2024-10)
+  Built a mobile banking app for a fast-growing airline in airline operations using Node.js and Angular, improving conversion by 25%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer

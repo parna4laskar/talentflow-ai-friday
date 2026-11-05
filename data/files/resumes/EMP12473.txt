@@ -1,0 +1,32 @@
+SURESH SEN
+QA Engineer | Quality Engineering | Gurugram, India
+Employee ID: EMP12473
+
+PROFESSIONAL SUMMARY
+QA Engineer with 3.7 years of experience, based in Gurugram. Strong in Test Automation, Playwright, API Testing and Python, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 1.0y), Playwright (Proficient, 0.6y), API Testing (Proficient, 2.7y), Performance Testing (Proficient, 2.3y)
+- Software Engineering: Python (Proficient, 1.2y), Java (Proficient, 1.8y)
+- Cloud & DevOps: CI/CD (Proficient, 0.7y), Terraform (Working, 1.7y)
+- Data & AI: SQL (Working, 1.2y)
+
+EXPERIENCE
+* Wealth Management Test Automation Framework — a leading wealth manager (2026-02 to present)
+  Built a test automation framework for a leading wealth manager in wealth management using Performance Testing, Terraform, Python and Java, accelerating releases by 18%.
+* Public Sector Test Automation Framework — a tier-1 government agency (2025-02 to 2025-12)
+  Designed a test automation framework for a tier-1 government agency in public sector using Java and SQL, raising automated test coverage to 70%.
+* Supply-chain Logistics API Contract-testing Suite — a leading logistics company (2023-09 to 2024-11)
+  Modernised an API contract-testing suite for a leading logistics company in supply-chain logistics using SQL and CI/CD, raising automated test coverage to 85%.
+* Manufacturing IoT API Contract-testing Suite — a global manufacturer (2022-07 to 2023-08)
+  Migrated an API contract-testing suite for a global manufacturer in manufacturing IoT using Test Automation and Playwright, reducing production incidents by 30%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, DevOps Engineer

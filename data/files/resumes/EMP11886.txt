@@ -1,0 +1,36 @@
+HARJIT TREMBLAY
+Senior QA Engineer | Quality Engineering | Toronto, Canada
+Employee ID: EMP11886
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 8.6 years of experience, based in Toronto. Strong in Test Automation, API Testing, SQL and CI/CD, with recent work in healthcare. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 4.1y), API Testing (Advanced, 5.3y), Selenium (Working, 1.7y), Performance Testing (Working, 0.7y)
+- Data & AI: SQL (Advanced, 3.9y)
+- Cloud & DevOps: CI/CD (Advanced, 8.4y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 4.2y), Communication (Working, 1.7y)
+- People & Marketing: People Analytics (Working, 2.1y)
+
+EXPERIENCE
+* Healthcare Test Automation Framework — a leading hospital network (2026-05 to present)
+  Re-architected a test automation framework for a leading hospital network in healthcare using Communication, Selenium and Test Automation, accelerating releases by 30%.
+* Healthcare Performance Engineering Programme — a tier-1 hospital network (2024-12 to 2026-02)
+  Built a performance engineering programme for a tier-1 hospital network in healthcare using Selenium and SQL, reducing production incidents by 18%.
+* Energy Trading Test Automation Framework — a tier-1 energy company (2024-04 to 2024-12)
+  Re-architected a test automation framework for a tier-1 energy company in energy trading using Performance Testing and Test Automation, raising automated test coverage to 90%.
+* Healthcare Test Automation Framework — a global hospital network (2023-06 to 2024-03)
+  Automated a test automation framework for a global hospital network in healthcare using Communication, API Testing, Test Automation and Agile/Scrum, raising automated test coverage to 85%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2021)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Mobile Engineer

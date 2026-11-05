@@ -1,0 +1,34 @@
+ARVIND BANERJEE
+Security Engineer | Cyber Security | Bengaluru, India
+Employee ID: EMP12167
+
+PROFESSIONAL SUMMARY
+Security Engineer with 4.4 years of experience, based in Bengaluru. Strong in Threat Modeling, Application Security, Cloud Security and Python, with recent work in payments. Interested in moving towards Site Reliability Engineer, Software Architect roles and open to relocating to Singapore, London.
+
+CORE SKILLS
+- Security: Threat Modeling (Advanced, 2.5y), Application Security (Proficient, 1.8y), Cloud Security (Proficient, 3.0y)
+- Software Engineering: Python (Proficient, 1.7y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.7y)
+
+EXPERIENCE
+* Energy Trading Cloud Security Posture Programme — a US energy company (2025-09 to present)
+  Built a cloud security posture programme for a US energy company in energy trading using Application Security, Cloud Security, Kubernetes and Threat Modeling, reducing production incidents by 40%.
+* Pharma R&D Identity and Access Platform — a fast-growing pharma company (2024-02 to 2025-07)
+  Re-architected an identity and access platform for a fast-growing pharma company in pharma R&D using Cloud Security and Application Security, reducing production incidents by 40%.
+* Payments Secure SDLC Rollout — a US payments provider (2023-03 to 2024-01)
+  Automated a secure SDLC rollout for a US payments provider in payments using Application Security, Kubernetes, Python and Threat Modeling, reducing production incidents by 40%.
+* Pharma R&D Secure SDLC Rollout — an APAC pharma company (2021-10 to 2023-02)
+  Scaled a secure SDLC rollout for an APAC pharma company in pharma R&D using Python, Threat Modeling and Application Security, accelerating releases by 30%.
+
+CERTIFICATIONS
+- CEH (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer, Software Architect, Cloud Engineer

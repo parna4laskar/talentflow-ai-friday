@@ -1,0 +1,32 @@
+WEI LING LIM
+Full Stack Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12970
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.8 years of experience, based in Singapore. Strong in SQL, Java, Docker and Communication, with recent work in wealth management. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.6y), Responsible AI (Working, 2.2y), Data Engineering (Working, 2.2y)
+- Software Engineering: Java (Proficient, 0.9y), TypeScript (Working, 1.6y), Angular (Working, 1.6y), REST API Design (Working, 0.6y), Microservices (Beginner, 0.3y)
+- Cloud & DevOps: Docker (Proficient, 1.8y)
+- Delivery & Leadership: Communication (Proficient, 1.9y)
+
+EXPERIENCE
+* Wealth Management Payments Microservices Platform — a tier-1 wealth manager (2025-07 to present)
+  Migrated a payments microservices platform for a tier-1 wealth manager in wealth management using REST API Design and Responsible AI, reducing processing time by 18%.
+* Airline Operations Self-service Portal — a global airline (2025-01 to 2025-06)
+  Scaled a self-service portal for a global airline in airline operations using Microservices, Data Engineering, Responsible AI and SQL, saving ~30K hours annually.
+* Media Streaming Pricing Engine — a leading streaming platform (2024-02 to 2024-11)
+  Re-architected a pricing engine for a leading streaming platform in media streaming using Responsible AI and Microservices, reducing processing time by 30%.
+* Wealth Management Mobile Banking App — a fast-growing wealth manager (2023-02 to 2023-12)
+  Scaled a mobile banking app for a fast-growing wealth manager in wealth management using TypeScript, REST API Design and Responsible AI, improving conversion by 25%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer

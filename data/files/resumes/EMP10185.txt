@@ -1,0 +1,31 @@
+MADISON RAHMAN
+Senior Frontend Engineer | Engineering | New York, United States
+Employee ID: EMP10185
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 7.8 years of experience, based in New York. Strong in JavaScript, TypeScript, Angular and Design Systems, with recent work in energy trading. Interested in moving towards UX Designer roles and open to relocating to Toronto, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Expert, 1.9y), TypeScript (Advanced, 6.1y), Angular (Proficient, 5.7y), Next.js (Working, 3.8y)
+- Product & Design: Design Systems (Proficient, 1.9y), Figma (Working, 2.6y)
+- Data & AI: Databricks (Beginner, 1.1y)
+
+EXPERIENCE
+* HR Tech Claims Processing Engine — a global HR software company (2025-11 to present)
+  Modernised a claims processing engine for a global HR software company in HR tech using TypeScript, Figma, Design Systems and Databricks, saving ~12K hours annually.
+* Airline Operations Payments Microservices Platform — a European airline (2024-06 to 2025-09)
+  Migrated a payments microservices platform for a European airline in airline operations using Angular, TypeScript, Databricks and Design Systems, reducing processing time by 30%.
+* Energy Trading Payments Microservices Platform — a tier-1 energy company (2023-02 to 2024-03)
+  Automated a payments microservices platform for a tier-1 energy company in energy trading using Design Systems, JavaScript, Next.js and Figma, reducing production incidents by 25%.
+* Energy Trading Payments Microservices Platform — an APAC energy company (2022-04 to 2023-01)
+  Led the delivery of a payments microservices platform for an APAC energy company in energy trading using Next.js, Angular, Figma and JavaScript, reducing production incidents by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: UX Designer

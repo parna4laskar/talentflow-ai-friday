@@ -1,0 +1,30 @@
+KAVYA KULKARNI
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP12591
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 9.6 years of experience, based in Bengaluru. Strong in People Leadership, System Design, Agile/Scrum and Stakeholder Management, with recent work in energy trading. Interested in moving towards Program Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 3.0y), Agile/Scrum (Advanced, 3.4y), Stakeholder Management (Advanced, 5.8y), Communication (Proficient, 1.3y), Change Management (Working, 1.6y)
+- Software Engineering: System Design (Advanced, 7.4y), Python (Advanced, 8.8y)
+
+EXPERIENCE
+* Energy Trading Pricing Engine — a European energy company (2026-02 to present)
+  Led the delivery of a pricing engine for a European energy company in energy trading using Stakeholder Management, People Leadership and Python, reducing processing time by 30%.
+* Wealth Management Customer Onboarding Platform — a leading wealth manager (2025-07 to 2025-12)
+  Modernised a customer onboarding platform for a leading wealth manager in wealth management using Communication, People Leadership and Stakeholder Management, lifting NPS by 18 points.
+* Energy Trading Claims Processing Engine — a tier-1 energy company (2024-10 to 2025-06)
+  Migrated a claims processing engine for a tier-1 energy company in energy trading using Python, Communication and Agile/Scrum, reducing processing time by 18%.
+* Energy Trading Order Management System — a leading energy company (2023-02 to 2024-08)
+  Scaled an order management system for a leading energy company in energy trading using Stakeholder Management and People Leadership, reducing processing time by 40%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Program Manager

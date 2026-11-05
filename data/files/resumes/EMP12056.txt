@@ -1,0 +1,32 @@
+TOMASZ NOWAK
+Lead Data Engineer | Data & Analytics | Kraków, Poland
+Employee ID: EMP12056
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 9.8 years of experience, based in Kraków. Strong in SQL, Python, Apache Spark and Airflow, with recent work in telecom billing. Interested in moving towards Data Engineer, ML Engineer roles and open to relocating to Chennai, Toronto.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 8.6y), Apache Spark (Advanced, 5.5y), Airflow (Advanced, 7.5y), Data Engineering (Proficient, 5.4y), Databricks (Working, 3.1y), Snowflake (Working, 2.4y)
+- Software Engineering: Python (Advanced, 9.4y), Kafka (Working, 2.3y)
+- Delivery & Leadership: Mentoring (Proficient, 5.9y), Stakeholder Management (Beginner, 0.8y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a European telecom operator (2026-02 to present)
+  Led the delivery of an executive KPI dashboard suite for a European telecom operator in telecom billing using SQL and Airflow, improving forecast accuracy by 30%.
+* Telecom Billing Executive KPI Dashboard Suite — a global telecom operator (2025-08 to 2026-01)
+  Re-architected an executive KPI dashboard suite for a global telecom operator in telecom billing using Snowflake and Mentoring, saving ~25K hours annually.
+* Automotive Customer Churn Model — a fast-growing car maker (2025-01 to 2025-07)
+  Designed a customer churn model for a fast-growing car maker in automotive using Airflow, Kafka and SQL, improving conversion by 18%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Engineer, ML Engineer, Data Analyst, Backend Engineer

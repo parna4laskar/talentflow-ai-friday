@@ -1,0 +1,32 @@
+SOPHIA DOYLE
+Lead Engineering Manager | Engineering | Austin, United States
+Employee ID: EMP11333
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 13.4 years of experience, based in Austin. Strong in People Leadership, Mentoring, Agile/Scrum and Stakeholder Management, with recent work in insurance claims. Interested in moving towards Engineering Manager, Scrum Master roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 13.4y), Mentoring (Expert, 1.8y), Agile/Scrum (Advanced, 5.4y), Stakeholder Management (Advanced, 1.7y), Communication (Proficient, 8.9y)
+- Cloud & DevOps: AWS (Proficient, 7.3y)
+- Software Engineering: Python (Proficient, 0.7y), System Design (Working, 6.6y)
+- Data & AI: LLM Engineering (Proficient, 1.7y)
+
+EXPERIENCE
+* Insurance Claims Self-service Portal — an APAC insurer (2025-05 to present)
+  Designed a self-service portal for an APAC insurer in insurance claims using Agile/Scrum, LLM Engineering and Stakeholder Management, saving ~18K hours annually.
+* Insurance Claims Claims Processing Engine — a global insurer (2024-04 to 2025-05)
+  Scaled a claims processing engine for a global insurer in insurance claims using System Design, Mentoring and LLM Engineering, reducing processing time by 12%.
+* Wealth Management Payments Microservices Platform — a US wealth manager (2022-11 to 2024-02)
+  Modernised a payments microservices platform for a US wealth manager in wealth management using Stakeholder Management, System Design and LLM Engineering, reducing processing time by 30%.
+* Insurance Claims Self-service Portal — a leading insurer (2022-04 to 2022-08)
+  Scaled a self-service portal for a leading insurer in insurance claims using System Design and LLM Engineering, saving ~35K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Scrum Master, Program Manager, Backend Engineer

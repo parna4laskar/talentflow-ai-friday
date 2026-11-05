@@ -1,0 +1,28 @@
+PARNA JOSHI
+Associate Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP10794
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.3 years of experience, based in Pune. Strong in Angular, Microservices, TypeScript and Python, with recent work in retail banking. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Proficient, 0.9y), Microservices (Proficient, 0.7y), TypeScript (Working, 0.5y), Python (Working, 0.4y), Next.js (Working, 0.5y), Node.js (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.5y)
+- Cloud & DevOps: Docker (Working, 0.6y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Pricing Engine — an APAC retail bank (2025-11 to present)
+  Re-architected a pricing engine for an APAC retail bank in retail banking using Next.js, Docker and Angular, reducing processing time by 30%.
+* Retail Banking Claims Processing Engine — a US retail bank (2024-04 to 2025-09)
+  Built a claims processing engine for a US retail bank in retail banking using Angular, Docker and Communication, reducing processing time by 40%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect

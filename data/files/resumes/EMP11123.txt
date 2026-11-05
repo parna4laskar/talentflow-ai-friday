@@ -1,0 +1,31 @@
+ANANYA BHAT
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11123
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3 years of experience, based in Bengaluru. Strong in C#, Microservices, Kubernetes and REST API Design, with recent work in payments. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 1.9y), Microservices (Advanced, 2.9y), REST API Design (Working, 0.6y), GraphQL (Working, 1.1y), .NET Core (Beginner, 0.4y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.9y), Docker (Working, 1.4y), CI/CD (Working, 0.7y)
+- Data & AI: SQL (Working, 0.7y), Generative AI (Working, 1.3y)
+
+EXPERIENCE
+* Payments Claims Processing Engine — a European payments provider (2026-02 to present)
+  Migrated a claims processing engine for a European payments provider in payments using Kubernetes and .NET Core, saving ~35K hours annually.
+* Pharma R&D Claims Processing Engine — a tier-1 pharma company (2024-12 to 2026-01)
+  Scaled a claims processing engine for a tier-1 pharma company in pharma R&D using GraphQL, REST API Design, C# and .NET Core, saving ~30K hours annually.
+* Payments Customer Onboarding Platform — a leading payments provider (2023-10 to 2024-09)
+  Modernised a customer onboarding platform for a leading payments provider in payments using Generative AI, .NET Core and C#, reducing processing time by 30%.
+* Payments Claims Processing Engine — a US payments provider (2022-04 to 2023-08)
+  Modernised a claims processing engine for a US payments provider in payments using C# and REST API Design, reducing processing time by 40%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer

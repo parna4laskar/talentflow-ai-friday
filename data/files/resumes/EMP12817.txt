@@ -1,0 +1,33 @@
+SAURABH KAUR
+Senior Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12817
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 10.8 years of experience, based in Pune. Strong in Kubernetes, Site Reliability Engineering, Linux Administration and Python, with recent work in insurance claims. Interested in moving towards Platform Engineer roles and open to relocating to Toronto, Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 10.8y), Site Reliability Engineering (Advanced, 9.7y), Linux Administration (Advanced, 10.2y), Observability (Proficient, 4.7y)
+- Software Engineering: Python (Advanced, 6.4y)
+- Delivery & Leadership: Communication (Advanced, 9.7y)
+- Security: Incident Response (Proficient, 6.5y)
+
+EXPERIENCE
+* Healthcare Data-centre Exit To Cloud — an APAC hospital network (2025-08 to present)
+  Modernised a data-centre exit to cloud for an APAC hospital network in healthcare using Incident Response, Communication and Linux Administration, delivering $2M in cost savings.
+* Insurance Claims Kubernetes Platform — a European insurer (2024-04 to 2025-06)
+  Modernised a Kubernetes platform for a European insurer in insurance claims using Communication, Kubernetes, Site Reliability Engineering and Python, accelerating releases by 12%.
+* Insurance Claims Observability Stack — a leading insurer (2023-03 to 2024-02)
+  Migrated an observability stack for a leading insurer in insurance claims using Linux Administration, Site Reliability Engineering, Python and Kubernetes, accelerating releases by 12%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2023)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Platform Engineer

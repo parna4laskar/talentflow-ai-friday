@@ -1,0 +1,27 @@
+ZHI HAO KHAN
+Associate Platform Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP12415
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 2 years of experience, based in Singapore. Strong in Kubernetes, Terraform, CI/CD and Platform Engineering, with recent work in media streaming. Interested in moving towards Site Reliability Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.9y), Terraform (Proficient, 1.5y), CI/CD (Proficient, 1.2y), Platform Engineering (Working, 0.5y), AWS (Working, 0.9y), Observability (Working, 0.3y)
+- Software Engineering: Go (Working, 0.5y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Healthcare CI/CD Platform — a tier-1 hospital network (2026-09 to present)
+  Scaled a CI/CD platform for a tier-1 hospital network in healthcare using Terraform, Platform Engineering and CI/CD, accelerating releases by 22%.
+* Wealth Management Data-centre Exit To Cloud — a global wealth manager (2025-03 to 2026-08)
+  Automated a data-centre exit to cloud for a global wealth manager in wealth management using CI/CD, Communication and Platform Engineering, cutting cloud spend by 18%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Mandarin, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer, Backend Engineer

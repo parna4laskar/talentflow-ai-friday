@@ -1,0 +1,32 @@
+SANJANA AGARWAL
+Security Analyst | Cyber Security | Chennai, India
+Employee ID: EMP11002
+
+PROFESSIONAL SUMMARY
+Security Analyst with 5 years of experience, based in Chennai. Strong in Incident Response, Linux Administration, Threat Modeling and Cloud Security, with recent work in media streaming. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Security: Incident Response (Proficient, 2.7y), Threat Modeling (Proficient, 3.3y), Cloud Security (Proficient, 3.2y), SIEM (Working, 0.9y)
+- Cloud & DevOps: Linux Administration (Proficient, 1.1y), Kubernetes (Proficient, 3.2y)
+- Data & AI: Responsible AI (Working, 2.4y)
+
+EXPERIENCE
+* Insurance Claims Cloud Security Posture Programme — a leading insurer (2025-07 to present)
+  Led the delivery of a cloud security posture programme for a leading insurer in insurance claims using Linux Administration and Threat Modeling, reducing production incidents by 22%.
+* Media Streaming Cloud Security Posture Programme — a tier-1 streaming platform (2024-01 to 2025-04)
+  Automated a cloud security posture programme for a tier-1 streaming platform in media streaming using Kubernetes, Cloud Security and Responsible AI, closing 25% of open audit findings.
+* Media Streaming Cloud Security Posture Programme — a fast-growing streaming platform (2022-06 to 2023-11)
+  Modernised a cloud security posture programme for a fast-growing streaming platform in media streaming using Cloud Security, Responsible AI, SIEM and Incident Response, closing 30% of open audit findings.
+
+CERTIFICATIONS
+- CySA+ (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Site Reliability Engineer, Cloud Engineer, Security Engineer

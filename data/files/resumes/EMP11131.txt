@@ -1,0 +1,27 @@
+SURESH KOWALSKI
+Associate Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP11131
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 1.5 years of experience, based in Chennai. Strong in Statistics, SQL, Data Visualization and Deep Learning, with recent work in insurance claims. Interested in moving towards Data Scientist, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Proficient, 0.7y), SQL (Proficient, 0.5y), Data Visualization (Proficient, 0.9y), Deep Learning (Proficient, 0.4y), Tableau (Proficient, 0.5y), Machine Learning (Working, 0.4y)
+- Delivery & Leadership: Communication (Proficient, 0.8y)
+- Software Engineering: Python (Working, 0.7y)
+
+EXPERIENCE
+* E-commerce Data Lakehouse — a global online retailer (2026-07 to present)
+  Designed a data lakehouse for a global online retailer in e-commerce using Statistics, Deep Learning, Communication and Machine Learning, cutting cloud spend by 35%.
+* Insurance Claims Data Lakehouse — a tier-1 insurer (2025-01 to 2026-06)
+  Designed a data lakehouse for a tier-1 insurer in insurance claims using Deep Learning and Machine Learning, reducing processing time by 22%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist, ML Engineer

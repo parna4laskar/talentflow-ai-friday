@@ -1,0 +1,28 @@
+DEEPIKA CAMPBELL
+Senior Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11197
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 10.5 years of experience, based in Hyderabad. Strong in TypeScript, JavaScript, Node.js and Playwright, with recent work in HR tech. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 3.7y), JavaScript (Proficient, 3.6y), Node.js (Proficient, 2.5y), Angular (Working, 2.6y)
+- Quality Engineering: Playwright (Proficient, 7.2y)
+
+EXPERIENCE
+* HR Tech Pricing Engine — a global HR software company (2026-03 to present)
+  Led the delivery of a pricing engine for a global HR software company in HR tech using Playwright and JavaScript, improving conversion by 25%.
+* HR Tech Mobile Banking App — a global HR software company (2025-02 to 2025-12)
+  Modernised a mobile banking app for a global HR software company in HR tech using JavaScript and TypeScript, improving conversion by 25%.
+* HR Tech Claims Processing Engine — a tier-1 HR software company (2023-10 to 2024-11)
+  Scaled a claims processing engine for a tier-1 HR software company in HR tech using Node.js, Playwright, Angular and TypeScript, saving ~12K hours annually.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Mobile Engineer, UX Designer

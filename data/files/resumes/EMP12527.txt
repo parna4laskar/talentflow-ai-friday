@@ -1,0 +1,34 @@
+ALEKSANDRA LEE
+Lead Cloud Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP12527
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 9.5 years of experience, based in Kraków. Strong in AWS, Terraform, Linux Administration and Kubernetes, with recent work in pharma R&D. Interested in moving towards Software Architect, Platform Engineer roles and open to relocating to London.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 7.2y), Terraform (Advanced, 4.8y), Linux Administration (Advanced, 7.3y), Kubernetes (Advanced, 1.5y)
+- Software Engineering: Python (Advanced, 8.0y)
+- Delivery & Leadership: Communication (Advanced, 0.6y), People Leadership (Advanced, 3.5y)
+
+EXPERIENCE
+* Airline Operations Observability Stack — a European airline (2025-11 to present)
+  Modernised an observability stack for a European airline in airline operations using Linux Administration, Kubernetes, Python and Terraform, reducing production incidents by 25%.
+* Telecom Billing CI/CD Platform — a leading telecom operator (2024-08 to 2025-09)
+  Scaled a CI/CD platform for a leading telecom operator in telecom billing using Linux Administration and Communication, accelerating releases by 18%.
+* Pharma R&D Cloud Landing Zone — a tier-1 pharma company (2024-02 to 2024-08)
+  Designed a cloud landing zone for a tier-1 pharma company in pharma R&D using Terraform, Communication and Python, accelerating releases by 22%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+- Azure Administrator Associate (2023)
+- Google Professional Cloud Architect (2022)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, Platform Engineer, DevOps Engineer

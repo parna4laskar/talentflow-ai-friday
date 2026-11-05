@@ -1,0 +1,32 @@
+ROHAN SUBRAMANIAN
+Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP10793
+
+PROFESSIONAL SUMMARY
+Data Analyst with 3.4 years of experience, based in Hyderabad. Strong in Data Visualization, Business Analysis, SQL and Tableau, with recent work in energy trading. Interested in moving towards Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 1.2y), SQL (Proficient, 0.5y), Tableau (Proficient, 0.9y), Responsible AI (Proficient, 1.8y), dbt (Proficient, 1.7y), Statistics (Working, 1.2y)
+- Business & Finance: Business Analysis (Advanced, 3.3y)
+
+EXPERIENCE
+* Airline Operations Executive KPI Dashboard Suite — a tier-1 airline (2026-09 to present)
+  Led the delivery of an executive KPI dashboard suite for a tier-1 airline in airline operations using Statistics and Data Visualization, saving ~40K hours annually.
+* Wealth Management Data Lakehouse — a leading wealth manager (2025-12 to 2026-07)
+  Designed a data lakehouse for a leading wealth manager in wealth management using SQL and Data Visualization, cutting cloud spend by 25%.
+* Wealth Management Data Lakehouse — a US wealth manager (2025-03 to 2025-09)
+  Scaled a data lakehouse for a US wealth manager in wealth management using Tableau and SQL, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2024)
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Financial Analyst

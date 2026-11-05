@@ -1,0 +1,34 @@
+PARNA SEN
+ML Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP10648
+
+PROFESSIONAL SUMMARY
+ML Engineer with 3.1 years of experience, based in Bengaluru. Strong in Machine Learning, Kubernetes, Python and MLOps, with recent work in supply-chain logistics. Interested in moving towards ML Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 3.1y), MLOps (Proficient, 1.5y), Deep Learning (Proficient, 1.4y), Computer Vision (Proficient, 1.5y), NLP (Working, 1.4y), Databricks (Working, 0.6y)
+- Cloud & DevOps: Kubernetes (Advanced, 1.4y)
+- Software Engineering: Python (Proficient, 2.1y)
+
+EXPERIENCE
+* Insurance Claims Knowledge Assistant (RAG) — a tier-1 insurer (2026-06 to present)
+  Modernised a knowledge assistant (RAG) for a tier-1 insurer in insurance claims using MLOps, Databricks and Deep Learning, lifting NPS by 22 points.
+* Supply-chain Logistics Recommendation Engine — a fast-growing logistics company (2024-12 to 2026-05)
+  Re-architected a recommendation engine for a fast-growing logistics company in supply-chain logistics using NLP and Python, improving conversion by 18%.
+* Supply-chain Logistics Fraud Detection Model — a leading logistics company (2024-03 to 2024-10)
+  Led the delivery of a fraud detection model for a leading logistics company in supply-chain logistics using Machine Learning, Computer Vision and Databricks, reducing processing time by 35%.
+* Healthcare Fraud Detection Model — a fast-growing hospital network (2022-10 to 2023-12)
+  Designed a fraud detection model for a fast-growing hospital network in healthcare using Python, Kubernetes, NLP and Databricks, improving model accuracy by 12%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: ML Engineer, Data Scientist, Platform Engineer

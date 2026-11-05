@@ -1,0 +1,35 @@
+AVA JOHNSON
+Senior Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11606
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 8.5 years of experience, based in New York. Strong in Terraform, Azure, Linux Administration and Python, with recent work in energy trading. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 8.5y), Azure (Advanced, 2.3y), Linux Administration (Proficient, 3.0y)
+- Software Engineering: Python (Proficient, 3.0y)
+- Delivery & Leadership: Communication (Proficient, 4.7y)
+- Security: Cloud Security (Working, 1.7y)
+
+EXPERIENCE
+* Energy Trading Kubernetes Platform — an APAC energy company (2026-05 to present)
+  Led the delivery of a Kubernetes platform for an APAC energy company in energy trading using Azure and Linux Administration, reducing production incidents by 25%.
+* Energy Trading Observability Stack — a US energy company (2025-03 to 2026-04)
+  Modernised an observability stack for a US energy company in energy trading using Linux Administration, Terraform, Communication and Cloud Security, accelerating releases by 22%.
+* Energy Trading Kubernetes Platform — a European energy company (2024-07 to 2025-01)
+  Re-architected a Kubernetes platform for a European energy company in energy trading using Linux Administration, Cloud Security, Azure and Python, reducing production incidents by 25%.
+* Energy Trading Kubernetes Platform — a European energy company (2023-10 to 2024-07)
+  Scaled a Kubernetes platform for a European energy company in energy trading using Cloud Security, Azure and Communication, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2023)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Cloud Engineer, Site Reliability Engineer, Platform Engineer

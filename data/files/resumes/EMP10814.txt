@@ -1,0 +1,31 @@
+GAURI PAWAR
+Mobile Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10814
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 4.4 years of experience, based in Hyderabad. Strong in Flutter, REST API Design, Mobile Development and Test Automation, with recent work in supply-chain logistics. Interested in moving towards Full Stack Engineer, Frontend Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Software Engineering: Flutter (Advanced, 1.6y), REST API Design (Advanced, 2.2y), Mobile Development (Proficient, 1.5y)
+- Quality Engineering: Test Automation (Proficient, 3.3y), Selenium (Proficient, 2.2y)
+- Product & Design: UI Design (Working, 0.4y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — a global hospital network (2025-12 to present)
+  Modernised a mobile banking app for a global hospital network in healthcare using REST API Design, Selenium, Flutter and Mobile Development, improving conversion by 18%.
+* Supply-chain Logistics Claims Processing Engine — a fast-growing logistics company (2024-07 to 2025-10)
+  Modernised a claims processing engine for a fast-growing logistics company in supply-chain logistics using Selenium, Mobile Development, UI Design and Test Automation, saving ~25K hours annually.
+* Supply-chain Logistics Self-service Portal — a leading logistics company (2023-12 to 2024-05)
+  Modernised a self-service portal for a leading logistics company in supply-chain logistics using Test Automation, UI Design, REST API Design and Selenium, saving ~30K hours annually.
+* Payments Order Management System — a European payments provider (2023-01 to 2023-11)
+  Modernised an order management system for a European payments provider in payments using REST API Design and Flutter, onboarding 2 new enterprise clients.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Frontend Engineer

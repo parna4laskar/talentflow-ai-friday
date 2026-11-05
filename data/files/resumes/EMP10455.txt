@@ -1,0 +1,33 @@
+RIYA PAWAR
+Senior DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10455
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 5.3 years of experience, based in Pune. Strong in Azure, Docker, Kubernetes and Go, with recent work in automotive. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Expert, 5.3y), Docker (Advanced, 5.2y), Kubernetes (Proficient, 1.7y), Observability (Proficient, 2.3y), CI/CD (Working, 1.1y), Terraform (Working, 1.7y)
+- Software Engineering: Go (Proficient, 0.8y)
+
+EXPERIENCE
+* Payments Data-centre Exit To Cloud — a global payments provider (2026-05 to present)
+  Automated a data-centre exit to cloud for a global payments provider in payments using Go, CI/CD, Docker and Azure, delivering $8M in cost savings.
+* Automotive Data-centre Exit To Cloud — a leading car maker (2025-06 to 2026-04)
+  Automated a data-centre exit to cloud for a leading car maker in automotive using CI/CD, Terraform and Go, delivering $4M in cost savings.
+* Retail Banking Cloud Landing Zone — a tier-1 retail bank (2024-10 to 2025-05)
+  Built a cloud landing zone for a tier-1 retail bank in retail banking using Kubernetes, Go and CI/CD, accelerating releases by 35%.
+* Energy Trading Kubernetes Platform — an APAC energy company (2023-04 to 2024-07)
+  Automated a Kubernetes platform for an APAC energy company in energy trading using Observability, Terraform and Docker, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2023)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Site Reliability Engineer, Cloud Engineer

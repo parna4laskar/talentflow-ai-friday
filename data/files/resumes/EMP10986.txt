@@ -1,0 +1,31 @@
+IMRAN JADHAV
+Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP10986
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4.8 years of experience, based in Chennai. Strong in SQL, Python, Data Engineering and Apache Spark, with recent work in healthcare. Interested in moving towards Data Analyst, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.9y), Data Engineering (Proficient, 3.5y), Apache Spark (Proficient, 2.6y), Airflow (Beginner, 0.9y), Databricks (Beginner, 1.0y)
+- Software Engineering: Python (Proficient, 3.6y)
+
+EXPERIENCE
+* Healthcare Executive KPI Dashboard Suite — a European hospital network (2025-12 to present)
+  Modernised an executive KPI dashboard suite for a European hospital network in healthcare using Databricks, SQL, Airflow and Apache Spark, improving forecast accuracy by 30%.
+* Healthcare Regulatory Reporting Suite — a tier-1 hospital network (2024-05 to 2025-09)
+  Modernised a regulatory reporting suite for a tier-1 hospital network in healthcare using Data Engineering, Databricks and Apache Spark, reducing processing time by 18%.
+* Airline Operations Data Lakehouse — a European airline (2023-03 to 2024-04)
+  Modernised a data lakehouse for a European airline in airline operations using Databricks, SQL and Data Engineering, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Analyst, ML Engineer, Backend Engineer

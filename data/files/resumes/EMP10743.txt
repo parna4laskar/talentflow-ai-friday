@@ -1,0 +1,29 @@
+DEEPIKA MALHOTRA
+Cloud Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP10743
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 3.3 years of experience, based in Gurugram. Strong in AWS, Terraform, Linux Administration and Kubernetes, with recent work in healthcare. Interested in moving towards Cloud Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Proficient, 1.2y), Terraform (Proficient, 0.8y), Linux Administration (Proficient, 2.4y), Kubernetes (Working, 0.9y), GCP (Beginner, 0.4y)
+- Software Engineering: Python (Working, 1.6y)
+- Data & AI: Machine Learning (Working, 0.3y)
+
+EXPERIENCE
+* Healthcare CI/CD Platform — a fast-growing hospital network (2026-02 to present)
+  Designed a CI/CD platform for a fast-growing hospital network in healthcare using Python, GCP and Kubernetes, accelerating releases by 12%.
+* Healthcare Cloud Landing Zone — a tier-1 hospital network (2024-08 to 2025-11)
+  Scaled a cloud landing zone for a tier-1 hospital network in healthcare using Machine Learning and AWS, accelerating releases by 40%.
+* Payments CI/CD Platform — a US payments provider (2023-04 to 2024-06)
+  Re-architected a CI/CD platform for a US payments provider in payments using Python, Machine Learning and Linux Administration, accelerating releases by 25%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, Software Architect

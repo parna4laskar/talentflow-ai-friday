@@ -1,0 +1,30 @@
+VAISHNAVI RAO
+Associate Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP10355
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 1 years of experience, based in Hyderabad. Strong in Tableau, SQL, Data Visualization and Snowflake, with recent work in automotive. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: Tableau (Advanced, 0.6y), SQL (Proficient, 0.4y), Data Visualization (Proficient, 0.5y), Snowflake (Working, 0.4y)
+- Product & Design: A/B Testing (Working, 0.4y), UX Research (Beginner, 0.3y)
+- Business & Finance: Business Analysis (Beginner, 0.3y)
+
+EXPERIENCE
+* Automotive Customer Churn Model — a global car maker (2025-12 to present)
+  Designed a customer churn model for a global car maker in automotive using Data Visualization and SQL, improving model accuracy by 18%.
+* Automotive Real-time Analytics Pipeline — a fast-growing car maker (2025-04 to 2025-12)
+  Built a real-time analytics pipeline for a fast-growing car maker in automotive using SQL, UX Research and Snowflake, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Business Analyst

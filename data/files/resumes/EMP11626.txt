@@ -1,0 +1,29 @@
+FARHAN GUPTA
+Associate QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP11626
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2.8 years of experience, based in Bengaluru. Strong in API Testing, Java, Communication and Test Automation, with recent work in automotive. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Proficient, 1.6y), Test Automation (Working, 0.6y), Selenium (Working, 0.7y)
+- Software Engineering: Java (Proficient, 1.1y)
+- Delivery & Leadership: Communication (Proficient, 1.0y)
+- Data & AI: SQL (Working, 1.2y), dbt (Beginner, 0.7y)
+- Cloud & DevOps: FinOps (Beginner, 0.5y)
+
+EXPERIENCE
+* Energy Trading Test Automation Framework — an APAC energy company (2026-02 to present)
+  Scaled a test automation framework for an APAC energy company in energy trading using FinOps, Test Automation and Selenium, raising automated test coverage to 80%.
+* Pharma R&D API Contract-testing Suite — a US pharma company (2024-06 to 2025-11)
+  Led the delivery of an API contract-testing suite for a US pharma company in pharma R&D using FinOps, SQL and API Testing, reducing production incidents by 40%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager

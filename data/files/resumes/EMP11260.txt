@@ -1,0 +1,27 @@
+RADHIKA GOKHALE
+Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP11260
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.3 years of experience, based in Hyderabad. Strong in Airflow, Databricks, Data Governance and Communication, with recent work in energy trading. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: Airflow (Proficient, 1.0y), Databricks (Proficient, 0.4y), Data Governance (Proficient, 0.5y), SQL (Working, 0.6y), Data Engineering (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 0.5y)
+- Software Engineering: Python (Working, 0.9y)
+
+EXPERIENCE
+* Payments Customer Churn Model — a fast-growing payments provider (2026-09 to present)
+  Led the delivery of a customer churn model for a fast-growing payments provider in payments using Data Governance and Databricks, improving model accuracy by 18%.
+* Energy Trading Regulatory Reporting Suite — a global energy company (2025-11 to 2026-07)
+  Scaled a regulatory reporting suite for a global energy company in energy trading using Data Governance and Airflow, saving ~25K hours annually.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer

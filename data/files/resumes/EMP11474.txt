@@ -1,0 +1,31 @@
+OLIVIA KHAN
+Senior Site Reliability Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP11474
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 9.9 years of experience, based in London. Strong in Site Reliability Engineering, Kubernetes, AWS and Observability, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 3.9y), Kubernetes (Advanced, 8.7y), AWS (Advanced, 0.9y), Observability (Proficient, 2.9y), Linux Administration (Proficient, 5.0y)
+- Software Engineering: Python (Proficient, 0.9y)
+
+EXPERIENCE
+* Energy Trading Data-centre Exit To Cloud — a European energy company (2025-06 to present)
+  Designed a data-centre exit to cloud for a European energy company in energy trading using Site Reliability Engineering, Kubernetes and AWS, cutting cloud spend by 25%.
+* Supply-chain Logistics Data-centre Exit To Cloud — a global logistics company (2024-04 to 2025-05)
+  Scaled a data-centre exit to cloud for a global logistics company in supply-chain logistics using Observability, AWS, Python and Linux Administration, cutting cloud spend by 12%.
+* Supply-chain Logistics Cloud Landing Zone — a US logistics company (2023-01 to 2024-02)
+  Built a cloud landing zone for a US logistics company in supply-chain logistics using Site Reliability Engineering, Observability, AWS and Kubernetes, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Platform Engineer, Cloud Engineer

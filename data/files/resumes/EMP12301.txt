@@ -1,0 +1,31 @@
+JAMES WALKER
+Lead SAP Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP12301
+
+PROFESSIONAL SUMMARY
+Lead SAP Consultant with 14 years of experience, based in London. Strong in SAP FICO, Business Analysis, Requirements Gathering and SAP S/4HANA, with recent work in payments. Interested in moving towards Business Analyst, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Expert, 2.7y), Business Analysis (Advanced, 9.4y), Requirements Gathering (Advanced, 10.2y), SAP S/4HANA (Advanced, 4.6y), Process Improvement (Proficient, 9.8y)
+- Delivery & Leadership: Mentoring (Advanced, 13.7y), Communication (Working, 5.4y)
+
+EXPERIENCE
+* Manufacturing IoT CRM Rollout — a US manufacturer (2025-10 to present)
+  Automated a CRM rollout for a US manufacturer in manufacturing IoT using Process Improvement, Requirements Gathering, SAP FICO and Business Analysis, improving conversion by 12%.
+* Healthcare Service Desk Automation — a US hospital network (2025-02 to 2025-10)
+  Scaled a service desk automation for a US hospital network in healthcare using Communication, Process Improvement, Business Analysis and Mentoring, reducing processing time by 35%.
+* E-commerce CRM Rollout — an APAC online retailer (2024-03 to 2024-12)
+  Automated a CRM rollout for an APAC online retailer in e-commerce using Business Analysis and SAP S/4HANA, improving conversion by 12%.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2021)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, CRM Consultant, Financial Analyst

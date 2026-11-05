@@ -1,0 +1,33 @@
+RITESH MALHOTRA
+Principal Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11582
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 18.6 years of experience, based in Hyderabad. Strong in TypeScript, React, Java and SQL, with recent work in telecom billing. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 1.2y), React (Expert, 15.1y), Java (Expert, 4.5y)
+- Data & AI: SQL (Advanced, 17.4y)
+- Cloud & DevOps: AWS (Advanced, 1.6y), Docker (Advanced, 4.8y)
+- Delivery & Leadership: Mentoring (Proficient, 7.9y)
+
+EXPERIENCE
+* Telecom Billing Self-service Portal — a European telecom operator (2025-11 to present)
+  Modernised a self-service portal for a European telecom operator in telecom billing using Docker, TypeScript, Java and Mentoring, lifting NPS by 35 points.
+* Telecom Billing Claims Processing Engine — a fast-growing telecom operator (2024-08 to 2025-09)
+  Modernised a claims processing engine for a fast-growing telecom operator in telecom billing using Mentoring, SQL and React, saving ~12K hours annually.
+* Media Streaming Payments Microservices Platform — a tier-1 streaming platform (2023-03 to 2024-06)
+  Automated a payments microservices platform for a tier-1 streaming platform in media streaming using TypeScript and Java, reducing production incidents by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, Software Architect

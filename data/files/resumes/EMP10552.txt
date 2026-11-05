@@ -1,0 +1,31 @@
+CHARLOTTE WILSON
+Senior Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP10552
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 8.3 years of experience, based in London. Strong in Python, Machine Learning, Statistics and SQL, with recent work in e-commerce. Interested in moving towards Data Analyst, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.2y)
+- Data & AI: Machine Learning (Advanced, 5.5y), Statistics (Advanced, 4.2y), SQL (Advanced, 7.7y), Generative AI (Proficient, 2.1y), Data Engineering (Beginner, 1.7y)
+- Product & Design: A/B Testing (Proficient, 6.0y)
+
+EXPERIENCE
+* Payments Regulatory Reporting Suite — a tier-1 payments provider (2026-03 to present)
+  Built a regulatory reporting suite for a tier-1 payments provider in payments using Statistics and Generative AI, saving ~22K hours annually.
+* Energy Trading Executive KPI Dashboard Suite — a European energy company (2024-10 to 2026-03)
+  Built an executive KPI dashboard suite for a European energy company in energy trading using Data Engineering, A/B Testing, Generative AI and Python, saving ~22K hours annually.
+* Automotive Regulatory Reporting Suite — a European car maker (2023-07 to 2024-08)
+  Migrated a regulatory reporting suite for a European car maker in automotive using A/B Testing and Statistics, reducing processing time by 40%.
+* Manufacturing IoT Executive KPI Dashboard Suite — an APAC manufacturer (2023-01 to 2023-06)
+  Led the delivery of an executive KPI dashboard suite for an APAC manufacturer in manufacturing IoT using Generative AI and Python, improving forecast accuracy by 40%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, AI Engineer

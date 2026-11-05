@@ -1,0 +1,32 @@
+SIMRAN TREMBLAY
+Data Analyst | Data & Analytics | Toronto, Canada
+Employee ID: EMP11719
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2.1 years of experience, based in Toronto. Strong in SQL, Data Visualization, Power BI and Stakeholder Management, with recent work in payments. Interested in moving towards Data Scientist, Financial Analyst roles and open to relocating to Hyderabad, Austin.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.8y), Data Visualization (Proficient, 0.8y), Power BI (Working, 0.7y), Tableau (Working, 0.8y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.8y), Communication (Working, 0.5y)
+- Business & Finance: Business Analysis (Working, 1.0y)
+- Product & Design: A/B Testing (Working, 0.9y)
+
+EXPERIENCE
+* Payments Data Lakehouse — a European payments provider (2025-09 to present)
+  Modernised a data lakehouse for a European payments provider in payments using Communication, SQL and Stakeholder Management, reducing processing time by 12%.
+* Payments Real-time Analytics Pipeline — a tier-1 payments provider (2025-03 to 2025-08)
+  Scaled a real-time analytics pipeline for a tier-1 payments provider in payments using Power BI, Tableau, Communication and A/B Testing, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2024)
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French, Spanish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Scientist, Financial Analyst

@@ -1,0 +1,33 @@
+JULIA KOWALSKI
+Lead DevOps Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11647
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 8.7 years of experience, based in Kraków. Strong in Docker, Kubernetes, Azure and Python, with recent work in payments. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Expert, 5.5y), Kubernetes (Advanced, 5.4y), Azure (Advanced, 1.5y), Observability (Advanced, 6.3y), Linux Administration (Advanced, 5.1y), CI/CD (Proficient, 1.2y), Terraform (Proficient, 2.4y)
+- Software Engineering: Python (Advanced, 3.1y), Go (Working, 0.7y)
+- Delivery & Leadership: Communication (Advanced, 6.6y), Mentoring (Proficient, 2.0y), Stakeholder Management (Working, 2.9y)
+- Data & AI: Databricks (Working, 0.6y)
+
+EXPERIENCE
+* E-commerce Cloud Landing Zone — a fast-growing online retailer (2025-08 to present)
+  Led the delivery of a cloud landing zone for a fast-growing online retailer in e-commerce using Observability, Stakeholder Management, Kubernetes and Communication, accelerating releases by 40%.
+* Energy Trading CI/CD Platform — a US energy company (2023-11 to 2025-05)
+  Scaled a CI/CD platform for a US energy company in energy trading using Mentoring, Go, CI/CD and Communication, accelerating releases by 18%.
+* Payments Data-centre Exit To Cloud — a US payments provider (2022-08 to 2023-10)
+  Scaled a data-centre exit to cloud for a US payments provider in payments using Communication, Kubernetes, Linux Administration and Observability, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2021)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Backend Engineer, Platform Engineer

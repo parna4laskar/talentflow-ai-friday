@@ -1,0 +1,27 @@
+GEORGE THOMAS
+Senior Security Analyst | Cyber Security | London, United Kingdom
+Employee ID: EMP12162
+
+PROFESSIONAL SUMMARY
+Senior Security Analyst with 9 years of experience, based in London. Strong in Incident Response, SIEM, Cloud Security and GRC, with recent work in HR tech. Interested in moving towards Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: Incident Response (Advanced, 8.4y), SIEM (Proficient, 1.7y), Cloud Security (Proficient, 4.2y), GRC (Working, 2.0y)
+
+EXPERIENCE
+* HR Tech Security Operations Centre Uplift — an APAC HR software company (2026-04 to present)
+  Automated a security operations centre uplift for an APAC HR software company in HR tech using Cloud Security, Incident Response and SIEM, reducing production incidents by 40%.
+* HR Tech Security Operations Centre Uplift — a tier-1 HR software company (2025-07 to 2026-03)
+  Re-architected a security operations centre uplift for a tier-1 HR software company in HR tech using GRC, Incident Response, SIEM and Cloud Security, closing 25% of open audit findings.
+* HR Tech Identity and Access Platform — an APAC HR software company (2024-08 to 2025-04)
+  Re-architected an identity and access platform for an APAC HR software company in HR tech using Cloud Security, Incident Response, SIEM and GRC, closing 18% of open audit findings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer

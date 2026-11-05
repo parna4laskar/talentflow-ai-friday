@@ -1,0 +1,34 @@
+KAVYA KAUR
+Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10647
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.6 years of experience, based in Bengaluru. Strong in Terraform, AWS, Kubernetes and CI/CD, with recent work in retail banking. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 0.5y), AWS (Proficient, 3.6y), Kubernetes (Proficient, 2.5y), CI/CD (Proficient, 1.7y), Linux Administration (Working, 2.0y)
+- Software Engineering: Python (Working, 1.9y)
+- Data & AI: Machine Learning (Beginner, 0.7y)
+
+EXPERIENCE
+* Retail Banking Observability Stack — a fast-growing retail bank (2026-05 to present)
+  Modernised an observability stack for a fast-growing retail bank in retail banking using CI/CD, Terraform and Linux Administration, accelerating releases by 18%.
+* Retail Banking Data-centre Exit To Cloud — a fast-growing retail bank (2025-12 to 2026-05)
+  Automated a data-centre exit to cloud for a fast-growing retail bank in retail banking using AWS, Python, Linux Administration and Terraform, delivering $6M in cost savings.
+* Retail Banking Data-centre Exit To Cloud — a European retail bank (2024-08 to 2025-09)
+  Led the delivery of a data-centre exit to cloud for a European retail bank in retail banking using AWS, Python, CI/CD and Terraform, cutting cloud spend by 22%.
+* Healthcare Cloud Landing Zone — a fast-growing hospital network (2023-07 to 2024-05)
+  Automated a cloud landing zone for a fast-growing hospital network in healthcare using AWS, Linux Administration, Python and Kubernetes, cutting cloud spend by 25%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer

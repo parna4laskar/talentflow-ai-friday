@@ -1,0 +1,36 @@
+GURPREET SHARMA
+Senior Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP12193
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.4 years of experience, based in Chennai. Strong in TypeScript, Responsible AI, JavaScript and Angular, with recent work in energy trading. Interested in moving towards QA Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.1y), JavaScript (Proficient, 1.4y), Angular (Proficient, 2.4y)
+- Data & AI: Responsible AI (Advanced, 3.8y)
+- Cloud & DevOps: CI/CD (Proficient, 0.9y)
+- Quality Engineering: Playwright (Proficient, 3.6y), API Testing (Proficient, 3.6y)
+- Delivery & Leadership: Communication (Proficient, 4.7y)
+
+EXPERIENCE
+* HR Tech Customer Onboarding Platform — a global HR software company (2026-03 to present)
+  Built a customer onboarding platform for a global HR software company in HR tech using CI/CD, JavaScript and Playwright, lifting NPS by 18 points.
+* Energy Trading Order Management System — a global energy company (2024-11 to 2026-02)
+  Designed an order management system for a global energy company in energy trading using API Testing, CI/CD, Playwright and TypeScript, reducing processing time by 18%.
+* Energy Trading Customer Onboarding Platform — a tier-1 energy company (2024-01 to 2024-09)
+  Migrated a customer onboarding platform for a tier-1 energy company in energy trading using JavaScript, Communication, Playwright and CI/CD, improving conversion by 40%.
+* Energy Trading Payments Microservices Platform — a global energy company (2023-05 to 2023-10)
+  Scaled a payments microservices platform for a global energy company in energy trading using API Testing, CI/CD, Communication and JavaScript, accelerating releases by 30%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2021)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: QA Engineer, Mobile Engineer, Full Stack Engineer

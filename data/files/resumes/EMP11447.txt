@@ -1,0 +1,30 @@
+KUNAL JADHAV
+Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11447
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.1 years of experience, based in Gurugram. Strong in Go, SQL, Microservices and REST API Design, with recent work in retail banking. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 2.1y), Microservices (Proficient, 3.5y), REST API Design (Working, 2.5y), GraphQL (Working, 2.4y), Kafka (Working, 1.9y)
+- Data & AI: SQL (Proficient, 0.8y)
+
+EXPERIENCE
+* Retail Banking Self-service Portal — a leading retail bank (2025-11 to present)
+  Designed a self-service portal for a leading retail bank in retail banking using Microservices, GraphQL and Go, saving ~40K hours annually.
+* Automotive Pricing Engine — a fast-growing car maker (2024-09 to 2025-10)
+  Automated a pricing engine for a fast-growing car maker in automotive using GraphQL and Go, reducing processing time by 12%.
+* Retail Banking Self-service Portal — a leading retail bank (2023-11 to 2024-07)
+  Modernised a self-service portal for a leading retail bank in retail banking using REST API Design, Go, Kafka and SQL, lifting NPS by 40 points.
+* Retail Banking Claims Processing Engine — a leading retail bank (2022-04 to 2023-09)
+  Modernised a claims processing engine for a leading retail bank in retail banking using Microservices, REST API Design and SQL, reducing processing time by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Full Stack Engineer, Software Architect

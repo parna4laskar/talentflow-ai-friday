@@ -1,0 +1,35 @@
+NANDINI GOKHALE
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP10973
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 13.1 years of experience, based in Hyderabad. Strong in System Design, Microservices, C# and Stakeholder Management, with recent work in healthcare. Interested in moving towards Software Architect, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 5.9y), Microservices (Advanced, 5.3y), C# (Advanced, 2.1y), REST API Design (Proficient, 4.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.4y), Communication (Advanced, 6.9y), Mentoring (Proficient, 0.8y)
+- Cloud & DevOps: AWS (Proficient, 3.1y), Azure (Proficient, 6.1y)
+- Security: Cloud Security (Proficient, 9.8y)
+
+EXPERIENCE
+* Healthcare Customer Onboarding Platform — a tier-1 hospital network (2025-12 to present)
+  Migrated a customer onboarding platform for a tier-1 hospital network in healthcare using Cloud Security, Communication and Stakeholder Management, improving conversion by 18%.
+* Healthcare Claims Processing Engine — a fast-growing hospital network (2024-09 to 2025-10)
+  Scaled a claims processing engine for a fast-growing hospital network in healthcare using REST API Design and AWS, reducing processing time by 12%.
+* Healthcare Order Management System — a European hospital network (2023-10 to 2024-06)
+  Led the delivery of an order management system for a European hospital network in healthcare using Azure, Stakeholder Management, Communication and System Design, reducing processing time by 25%.
+* Media Streaming Payments Microservices Platform — a fast-growing streaming platform (2022-07 to 2023-08)
+  Built a payments microservices platform for a fast-growing streaming platform in media streaming using Cloud Security, Stakeholder Management, REST API Design and Communication, accelerating releases by 30%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2021)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Software Architect, Engineering Manager, Cloud Engineer, DevOps Engineer

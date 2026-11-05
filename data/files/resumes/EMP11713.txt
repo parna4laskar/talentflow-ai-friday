@@ -1,0 +1,33 @@
+TANVI KULKARNI
+Senior CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP11713
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 9 years of experience, based in Bengaluru. Strong in Business Analysis, Salesforce, JavaScript and Requirements Gathering, with recent work in insurance claims. Interested in moving towards CRM Consultant, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 2.3y), Salesforce (Proficient, 4.3y), Requirements Gathering (Proficient, 3.4y), Process Improvement (Working, 0.7y)
+- Software Engineering: JavaScript (Proficient, 2.5y)
+
+EXPERIENCE
+* Insurance Claims CRM Rollout — a US insurer (2026-06 to present)
+  Migrated a CRM rollout for a US insurer in insurance claims using JavaScript, Requirements Gathering and Salesforce, improving conversion by 25%.
+* Energy Trading Service Desk Automation — an APAC energy company (2025-01 to 2026-05)
+  Led the delivery of a service desk automation for an APAC energy company in energy trading using Business Analysis, Salesforce, Requirements Gathering and Process Improvement, saving ~40K hours annually.
+* Public Sector ERP Finance Rollout — a tier-1 government agency (2024-01 to 2024-10)
+  Designed an ERP finance rollout for a tier-1 government agency in public sector using Business Analysis, JavaScript and Requirements Gathering, reducing processing time by 18%.
+* Insurance Claims ERP Finance Rollout — a US insurer (2023-02 to 2023-12)
+  Automated an ERP finance rollout for a US insurer in insurance claims using Business Analysis, JavaScript, Requirements Gathering and Salesforce, saving ~35K hours annually.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2023)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: CRM Consultant, Scrum Master, SAP Consultant, Business Analyst

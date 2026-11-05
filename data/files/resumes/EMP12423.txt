@@ -1,0 +1,32 @@
+PRIYA MARTINEZ
+Business Analyst | Business Consulting | New York, United States
+Employee ID: EMP12423
+
+PROFESSIONAL SUMMARY
+Business Analyst with 3.3 years of experience, based in New York. Strong in Power BI, Business Analysis, Requirements Gathering and Process Improvement, with recent work in insurance claims. Interested in moving towards Account Manager, Scrum Master roles.
+
+CORE SKILLS
+- Data & AI: Power BI (Advanced, 2.7y)
+- Business & Finance: Business Analysis (Proficient, 0.4y), Requirements Gathering (Proficient, 0.6y), Process Improvement (Proficient, 2.4y), Salesforce (Working, 0.6y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.4y), Communication (Working, 0.3y)
+
+EXPERIENCE
+* Airline Operations Requirements and UAT for a CRM Rollout — a global airline (2026-08 to present)
+  Delivered a requirements and UAT for a CRM rollout for a global airline in airline operations using Salesforce, Stakeholder Management and Process Improvement, reducing processing time by 35%.
+* Insurance Claims Core Banking Transformation Programme — a US insurer (2025-04 to 2026-05)
+  Ran a core banking transformation programme for a US insurer in insurance claims using Process Improvement and Salesforce, delivering on time across 6 workstreams.
+* Insurance Claims Cloud Migration Programme — a fast-growing insurer (2023-09 to 2025-02)
+  Delivered a cloud migration programme for a fast-growing insurer in insurance claims using Process Improvement, Power BI and Communication, delivering on time across 4 workstreams.
+
+CERTIFICATIONS
+- PMI-PBA (2026)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Account Manager, Scrum Master, Product Manager

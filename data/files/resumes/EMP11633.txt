@@ -1,0 +1,32 @@
+ZOYA SEN
+Lead Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11633
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 13.7 years of experience, based in Hyderabad. Strong in Microservices, Angular, Python and GraphQL, with recent work in supply-chain logistics. Interested in moving towards Full Stack Engineer, Backend Engineer roles and open to relocating to Kraków, Austin.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 13.7y), Angular (Advanced, 5.4y), Python (Advanced, 5.9y), GraphQL (Advanced, 11.9y), TypeScript (Proficient, 6.0y), Next.js (Proficient, 5.8y)
+- Cloud & DevOps: Docker (Advanced, 8.7y), AWS (Proficient, 4.1y)
+- Data & AI: Databricks (Advanced, 8.4y), SQL (Proficient, 4.7y), LLM Engineering (Working, 3.6y)
+- Delivery & Leadership: Mentoring (Advanced, 5.1y)
+
+EXPERIENCE
+* Payments Customer Onboarding Platform — a fast-growing payments provider (2025-10 to present)
+  Modernised a customer onboarding platform for a fast-growing payments provider in payments using Python, TypeScript and LLM Engineering, reducing processing time by 12%.
+* Media Streaming Order Management System — a leading streaming platform (2025-03 to 2025-08)
+  Led the delivery of an order management system for a leading streaming platform in media streaming using Docker and SQL, onboarding 3 new enterprise clients.
+* HR Tech Self-service Portal — a US HR software company (2024-03 to 2024-12)
+  Led the delivery of a self-service portal for a US HR software company in HR tech using Databricks, Next.js and Mentoring, saving ~12K hours annually.
+* Energy Trading Pricing Engine — a leading energy company (2023-09 to 2024-02)
+  Re-architected a pricing engine for a leading energy company in energy trading using GraphQL, SQL, TypeScript and Docker, reducing processing time by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, Backend Engineer, Frontend Engineer

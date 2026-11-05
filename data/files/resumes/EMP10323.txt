@@ -1,0 +1,26 @@
+KAVYA MALHOTRA
+Associate Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP10323
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 2.3 years of experience, based in Hyderabad. Strong in SQL, Python, Snowflake and Data Engineering, with recent work in media streaming. Interested in moving towards Data Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.3y), Snowflake (Proficient, 0.4y), Data Engineering (Working, 1.1y), dbt (Working, 0.6y), Airflow (Beginner, 0.5y)
+- Software Engineering: Python (Proficient, 0.8y)
+
+EXPERIENCE
+* Media Streaming Regulatory Reporting Suite — a leading streaming platform (2026-06 to present)
+  Modernised a regulatory reporting suite for a leading streaming platform in media streaming using Airflow, Python, Data Engineering and Snowflake, reducing processing time by 18%.
+* Retail Banking Executive KPI Dashboard Suite — a European retail bank (2025-01 to 2026-04)
+  Built an executive KPI dashboard suite for a European retail bank in retail banking using Airflow, Python, SQL and Data Engineering, improving forecast accuracy by 22%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, Data Scientist, Backend Engineer

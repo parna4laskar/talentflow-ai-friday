@@ -1,0 +1,30 @@
+NATHAN WONG
+Senior UX Designer | Design | Toronto, Canada
+Employee ID: EMP10307
+
+PROFESSIONAL SUMMARY
+Senior UX Designer with 8 years of experience, based in Toronto. Strong in UX Research, UI Design, Figma and Design Systems, with recent work in wealth management. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Product & Design: UX Research (Advanced, 7.7y), UI Design (Advanced, 4.2y), Figma (Advanced, 5.6y), Design Systems (Advanced, 8.0y), A/B Testing (Advanced, 5.5y), Product Management (Working, 2.1y)
+- Delivery & Leadership: Communication (Advanced, 5.3y)
+
+EXPERIENCE
+* Wealth Management Onboarding Flow — a US wealth manager (2026-05 to present)
+  Ran research for an onboarding flow for a US wealth manager in wealth management using UX Research, UI Design and Figma, improving conversion by 35%.
+* Payments Onboarding Flow — a tier-1 payments provider (2024-12 to 2026-02)
+  Redesigned an onboarding flow for a tier-1 payments provider in payments using UX Research and Product Management, improving conversion by 18%.
+* Wealth Management Customer Self-service Journey — a US wealth manager (2023-09 to 2024-10)
+  Designed a customer self-service journey for a US wealth manager in wealth management using A/B Testing, Communication, Figma and UX Research, lifting NPS by 22 points.
+* Wealth Management Onboarding Flow — a fast-growing wealth manager (2022-09 to 2023-07)
+  Led UX for an onboarding flow for a fast-growing wealth manager in wealth management using Communication, Figma and A/B Testing, improving conversion by 25%.
+
+EDUCATION
+- M.Des
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer

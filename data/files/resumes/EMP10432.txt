@@ -1,0 +1,30 @@
+ROHAN DAS
+Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP10432
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.4 years of experience, based in Pune. Strong in GraphQL, Design Systems, Platform Engineering and TypeScript, with recent work in HR tech. Interested in moving towards UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Proficient, 1.4y), TypeScript (Working, 1.3y), JavaScript (Working, 0.9y), Angular (Working, 0.8y), Next.js (Working, 1.4y)
+- Product & Design: Design Systems (Proficient, 0.7y)
+- Cloud & DevOps: Platform Engineering (Proficient, 1.8y), CI/CD (Beginner, 0.3y)
+- Data & AI: Agentic AI (Beginner, 0.8y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — a European HR software company (2026-05 to present)
+  Modernised a self-service portal for a European HR software company in HR tech using Next.js, GraphQL and JavaScript, saving ~22K hours annually.
+* HR Tech Self-service Portal — a tier-1 HR software company (2024-11 to 2026-03)
+  Re-architected a self-service portal for a tier-1 HR software company in HR tech using Agentic AI, Next.js, GraphQL and Design Systems, lifting NPS by 25 points.
+* Airline Operations Payments Microservices Platform — a global airline (2023-11 to 2024-10)
+  Migrated a payments microservices platform for a global airline in airline operations using Platform Engineering and TypeScript, reducing production incidents by 25%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: UX Designer

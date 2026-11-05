@@ -1,0 +1,29 @@
+SHREYA DESHPANDE
+Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP11411
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 4 years of experience, based in Pune. Strong in Mobile Development, Java, UI Design and C#, with recent work in healthcare. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 1.8y), Java (Proficient, 1.9y), C# (Proficient, 0.7y), TypeScript (Working, 0.7y), REST API Design (Working, 1.6y)
+- Product & Design: UI Design (Proficient, 2.1y)
+- Cloud & DevOps: CI/CD (Working, 0.4y)
+
+EXPERIENCE
+* Healthcare Claims Processing Engine — a global hospital network (2026-01 to present)
+  Designed a claims processing engine for a global hospital network in healthcare using C# and CI/CD, reducing processing time by 40%.
+* Healthcare Self-service Portal — a global hospital network (2024-12 to 2025-12)
+  Built a self-service portal for a global hospital network in healthcare using CI/CD, C# and Mobile Development, saving ~40K hours annually.
+* Wealth Management Customer Onboarding Platform — a tier-1 wealth manager (2024-05 to 2024-09)
+  Led the delivery of a customer onboarding platform for a tier-1 wealth manager in wealth management using C#, TypeScript, Java and REST API Design, lifting NPS by 22 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer

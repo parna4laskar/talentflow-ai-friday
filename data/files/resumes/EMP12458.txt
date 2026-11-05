@@ -1,0 +1,31 @@
+CARLOS LEE
+Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP12458
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.3 years of experience, based in New York. Strong in Azure, Terraform, Linux Administration and FinOps, with recent work in telecom billing. Interested in moving towards Software Architect, DevOps Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Proficient, 2.6y), Terraform (Proficient, 1.0y), Linux Administration (Proficient, 3.9y), FinOps (Proficient, 3.8y), Kubernetes (Proficient, 2.5y), Platform Engineering (Working, 0.7y), CI/CD (Working, 1.7y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Cloud Landing Zone — a leading telecom operator (2026-01 to present)
+  Built a cloud landing zone for a leading telecom operator in telecom billing using Kubernetes, Platform Engineering and FinOps, cutting cloud spend by 22%.
+* Healthcare Cloud Landing Zone — a global hospital network (2025-06 to 2025-12)
+  Modernised a cloud landing zone for a global hospital network in healthcare using FinOps, Kubernetes, Terraform and CI/CD, accelerating releases by 12%.
+* Public Sector Kubernetes Platform — a global government agency (2024-04 to 2025-04)
+  Scaled a Kubernetes platform for a global government agency in public sector using Azure, Terraform and CI/CD, cutting cloud spend by 40%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2021)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, German
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Software Architect, DevOps Engineer, Site Reliability Engineer

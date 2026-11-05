@@ -1,0 +1,31 @@
+KATARZYNA SZYMAŃSKI
+Senior Business Analyst | Business Consulting | Kraków, Poland
+Employee ID: EMP10616
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 5.4 years of experience, based in Kraków. Strong in Salesforce, Stakeholder Management, Agile/Scrum and Power BI, with recent work in insurance claims. Interested in moving towards Product Manager, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Expert, 4.2y), Business Analysis (Proficient, 2.3y), Requirements Gathering (Proficient, 0.9y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.8y), Agile/Scrum (Advanced, 2.7y), Communication (Working, 0.4y)
+- Data & AI: Power BI (Advanced, 4.7y), Data Visualization (Proficient, 1.4y), SQL (Working, 1.7y)
+
+EXPERIENCE
+* Insurance Claims Cloud Migration Programme — a global insurer (2025-12 to present)
+  Ran a cloud migration programme for a global insurer in insurance claims using Communication, Data Visualization, Agile/Scrum and Power BI, delivering on time across 2 workstreams.
+* Insurance Claims Core Banking Transformation Programme — a US insurer (2024-06 to 2025-11)
+  Led a core banking transformation programme for a US insurer in insurance claims using Stakeholder Management and Communication, delivering on time across 4 workstreams.
+* Insurance Claims Core Banking Transformation Programme — a global insurer (2023-10 to 2024-04)
+  Led a core banking transformation programme for a global insurer in insurance claims using SQL, Communication and Power BI, delivering $3M in cost savings.
+* Retail Banking Agile Transformation — a global retail bank (2022-09 to 2023-09)
+  Delivered an agile transformation for a global retail bank in retail banking using Business Analysis, Agile/Scrum, Requirements Gathering and Stakeholder Management, delivering on time across 2 workstreams.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Product Manager, Scrum Master, Account Manager

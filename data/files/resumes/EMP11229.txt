@@ -1,0 +1,32 @@
+OWEN BROWN
+Senior Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11229
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.7 years of experience, based in Toronto. Strong in REST API Design, SQL, Microservices and Python, with recent work in insurance claims. Interested in moving towards Engineering Manager roles and open to relocating to Singapore, Bengaluru, Dublin.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 2.9y), Microservices (Advanced, 9.9y), Python (Proficient, 5.8y), GraphQL (Proficient, 0.5y)
+- Data & AI: SQL (Advanced, 3.3y)
+- Cloud & DevOps: Docker (Proficient, 4.1y), Kubernetes (Working, 2.1y)
+- Delivery & Leadership: Communication (Proficient, 1.8y)
+
+EXPERIENCE
+* Insurance Claims Self-service Portal — an APAC insurer (2026-01 to present)
+  Built a self-service portal for an APAC insurer in insurance claims using GraphQL and Microservices, lifting NPS by 40 points.
+* Insurance Claims Payments Microservices Platform — a leading insurer (2025-02 to 2025-12)
+  Built a payments microservices platform for a leading insurer in insurance claims using Python, Docker and Microservices, reducing processing time by 18%.
+* Automotive Payments Microservices Platform — a fast-growing car maker (2024-06 to 2024-11)
+  Led the delivery of a payments microservices platform for a fast-growing car maker in automotive using Microservices, SQL, REST API Design and Kubernetes, reducing production incidents by 12%.
+* Insurance Claims Claims Processing Engine — a tier-1 insurer (2023-05 to 2024-04)
+  Re-architected a claims processing engine for a tier-1 insurer in insurance claims using GraphQL and Microservices, reducing processing time by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager

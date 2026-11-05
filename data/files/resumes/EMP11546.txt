@@ -1,0 +1,33 @@
+SOPHIE THOMAS
+Lead Site Reliability Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP11546
+
+PROFESSIONAL SUMMARY
+Lead Site Reliability Engineer with 8.2 years of experience, based in London. Strong in Linux Administration, Site Reliability Engineering, Kubernetes and Performance Testing, with recent work in public sector. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Expert, 8.1y), Site Reliability Engineering (Advanced, 3.0y), Kubernetes (Advanced, 6.8y), Observability (Proficient, 2.1y)
+- Quality Engineering: Performance Testing (Advanced, 8.1y)
+- Security: Incident Response (Advanced, 7.5y)
+- Delivery & Leadership: Mentoring (Advanced, 6.4y), Stakeholder Management (Proficient, 5.9y), Communication (Proficient, 1.1y)
+- Software Engineering: Python (Proficient, 0.9y)
+
+EXPERIENCE
+* Wealth Management Data-centre Exit To Cloud — an APAC wealth manager (2026-06 to present)
+  Led the delivery of a data-centre exit to cloud for an APAC wealth manager in wealth management using Observability, Incident Response, Site Reliability Engineering and Python, cutting cloud spend by 18%.
+* Public Sector CI/CD Platform — an APAC government agency (2025-01 to 2026-04)
+  Modernised a CI/CD platform for an APAC government agency in public sector using Site Reliability Engineering, Observability, Stakeholder Management and Incident Response, accelerating releases by 35%.
+* Public Sector Kubernetes Platform — a tier-1 government agency (2023-07 to 2024-12)
+  Scaled a Kubernetes platform for a tier-1 government agency in public sector using Mentoring and Communication, cutting cloud spend by 22%.
+* Telecom Billing Cloud Landing Zone — a fast-growing telecom operator (2022-03 to 2023-05)
+  Migrated a cloud landing zone for a fast-growing telecom operator in telecom billing using Stakeholder Management and Communication, cutting cloud spend by 25%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer

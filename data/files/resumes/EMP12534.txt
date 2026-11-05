@@ -1,0 +1,30 @@
+DEEPIKA DESHPANDE
+Site Reliability Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12534
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 2.5 years of experience, based in Hyderabad. Strong in Observability, Site Reliability Engineering, Linux Administration and AWS, with recent work in retail banking. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Advanced, 0.9y), Site Reliability Engineering (Proficient, 1.4y), Linux Administration (Proficient, 1.8y), AWS (Proficient, 1.5y), Kubernetes (Working, 0.4y), Terraform (Working, 0.6y)
+- Security: Incident Response (Working, 1.1y)
+- Quality Engineering: Performance Testing (Working, 1.0y)
+
+EXPERIENCE
+* Insurance Claims Data-centre Exit To Cloud — a global insurer (2026-07 to present)
+  Built a data-centre exit to cloud for a global insurer in insurance claims using Linux Administration and Observability, cutting cloud spend by 25%.
+* Retail Banking Cloud Landing Zone — a global retail bank (2025-04 to 2026-07)
+  Automated a cloud landing zone for a global retail bank in retail banking using Linux Administration and Performance Testing, cutting cloud spend by 25%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Site Reliability Engineer, Cloud Engineer, Security Engineer, DevOps Engineer

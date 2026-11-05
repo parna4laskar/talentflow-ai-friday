@@ -1,0 +1,28 @@
+KAVYA VERMA
+CRM Consultant | Enterprise Applications | Gurugram, India
+Employee ID: EMP12223
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 2.2 years of experience, based in Gurugram. Strong in JavaScript, ServiceNow, Business Analysis and Process Improvement, with recent work in payments. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Expert, 1.1y)
+- Business & Finance: ServiceNow (Advanced, 1.8y), Business Analysis (Proficient, 0.9y), Process Improvement (Proficient, 1.3y), Requirements Gathering (Beginner, 0.5y)
+- Data & AI: Generative AI (Proficient, 1.0y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Payments ERP Finance Rollout — a tier-1 payments provider (2026-05 to present)
+  Modernised an ERP finance rollout for a tier-1 payments provider in payments using Business Analysis, Communication, Process Improvement and ServiceNow, reducing processing time by 25%.
+* Insurance Claims CRM Rollout — a global insurer (2025-07 to 2026-04)
+  Built a CRM rollout for a global insurer in insurance claims using Generative AI, Requirements Gathering, Process Improvement and JavaScript, improving conversion by 18%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Business Analyst

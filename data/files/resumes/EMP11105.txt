@@ -1,0 +1,32 @@
+CHRISTOPHER LEE
+Senior AI Engineer | AI Center of Excellence | New York, United States
+Employee ID: EMP11105
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 6.8 years of experience, based in New York. Strong in Python, Generative AI, LLM Engineering and Responsible AI, with recent work in HR tech. Interested in moving towards DevOps Engineer, ML Engineer roles and open to relocating to Singapore, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 2.7y)
+- Data & AI: Generative AI (Advanced, 3.1y), LLM Engineering (Advanced, 5.4y), Responsible AI (Proficient, 3.3y), NLP (Proficient, 4.0y), Agentic AI (Working, 1.1y)
+- Cloud & DevOps: Kubernetes (Working, 3.3y)
+- Delivery & Leadership: Communication (Beginner, 0.8y)
+
+EXPERIENCE
+* HR Tech Knowledge Assistant (RAG) — a global HR software company (2026-10 to present)
+  Automated a knowledge assistant (RAG) for a global HR software company in HR tech using Communication, Python and NLP, saving ~35K hours annually.
+* Retail Banking Fraud Detection Model — a leading retail bank (2025-05 to 2026-07)
+  Designed a fraud detection model for a leading retail bank in retail banking using Communication and Agentic AI, reducing processing time by 30%.
+* Payments Agentic Customer-service Assistant — a tier-1 payments provider (2024-05 to 2025-02)
+  Automated an agentic customer-service assistant for a tier-1 payments provider in payments using Python, Kubernetes, Generative AI and NLP, saving ~12K hours annually.
+* HR Tech Knowledge Assistant (RAG) — a fast-growing HR software company (2022-09 to 2024-02)
+  Led the delivery of a knowledge assistant (RAG) for a fast-growing HR software company in HR tech using Communication, Responsible AI, Python and Kubernetes, saving ~30K hours annually.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, ML Engineer

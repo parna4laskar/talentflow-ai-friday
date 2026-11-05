@@ -1,0 +1,30 @@
+POOJA NAIDU
+Senior Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP10048
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6.9 years of experience, based in Gurugram. Strong in SQL, REST API Design, Angular and Java, with recent work in e-commerce. Interested in moving towards AI Engineer, Mobile Engineer roles and open to relocating to New York, Singapore.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.6y)
+- Software Engineering: REST API Design (Advanced, 4.6y), Angular (Proficient, 2.3y), Java (Proficient, 3.2y), TypeScript (Working, 0.5y), Microservices (Beginner, 0.4y)
+
+EXPERIENCE
+* Payments Payments Microservices Platform — a fast-growing payments provider (2026-01 to present)
+  Built a payments microservices platform for a fast-growing payments provider in payments using SQL, REST API Design and Java, accelerating releases by 18%.
+* E-commerce Order Management System — a tier-1 online retailer (2025-03 to 2025-12)
+  Modernised an order management system for a tier-1 online retailer in e-commerce using Microservices, TypeScript, SQL and Java, reducing processing time by 35%.
+* E-commerce Customer Onboarding Platform — a tier-1 online retailer (2024-03 to 2025-01)
+  Scaled a customer onboarding platform for a tier-1 online retailer in e-commerce using REST API Design and SQL, reducing processing time by 22%.
+* E-commerce Self-service Portal — a fast-growing online retailer (2023-05 to 2024-01)
+  Automated a self-service portal for a fast-growing online retailer in e-commerce using Angular, Microservices, SQL and REST API Design, lifting NPS by 25 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, Mobile Engineer, Software Architect

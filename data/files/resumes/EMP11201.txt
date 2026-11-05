@@ -1,0 +1,27 @@
+DIVYA PAWAR
+Associate Business Analyst | Business Consulting | Chennai, India
+Employee ID: EMP11201
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 0.5 years of experience, based in Chennai. Strong in Requirements Gathering, Stakeholder Management, Communication and Process Improvement, with recent work in e-commerce. Interested in moving towards Business Analyst, Product Manager roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Proficient, 0.4y), Process Improvement (Proficient, 0.4y), Business Analysis (Working, 0.3y), Salesforce (Working, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.4y), Communication (Proficient, 0.4y)
+- Data & AI: LLM Engineering (Beginner, 0.3y), Agentic AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Cloud Migration Programme — a fast-growing telecom operator (2026-03 to present)
+  Led a cloud migration programme for a fast-growing telecom operator in telecom billing using Stakeholder Management, LLM Engineering and Process Improvement, delivering on time across 8 workstreams.
+* E-commerce Cloud Migration Programme — a European online retailer (2024-11 to 2026-02)
+  Coordinated a cloud migration programme for a European online retailer in e-commerce using Agentic AI, Communication and Salesforce, delivering on time across 4 workstreams.
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Business Analyst, Product Manager, Scrum Master

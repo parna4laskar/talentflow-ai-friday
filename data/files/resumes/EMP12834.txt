@@ -1,0 +1,35 @@
+AMELIA KHAN
+Senior Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12834
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6.5 years of experience, based in London. Strong in SQL, TypeScript, React and Python, with recent work in media streaming. Interested in moving towards Frontend Engineer roles and open to relocating to Kraków, Hyderabad, Austin.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 4.1y)
+- Software Engineering: TypeScript (Proficient, 1.4y), React (Proficient, 1.9y), Python (Proficient, 3.8y), Microservices (Proficient, 2.5y), JavaScript (Proficient, 3.5y)
+- Cloud & DevOps: Docker (Proficient, 2.0y)
+- Delivery & Leadership: Communication (Proficient, 4.0y)
+
+EXPERIENCE
+* Energy Trading Claims Processing Engine — a US energy company (2026-07 to present)
+  Scaled a claims processing engine for a US energy company in energy trading using React, Communication and JavaScript, reducing processing time by 40%.
+* Airline Operations Self-service Portal — an APAC airline (2024-12 to 2026-06)
+  Migrated a self-service portal for an APAC airline in airline operations using JavaScript, SQL and TypeScript, saving ~30K hours annually.
+* Media Streaming Claims Processing Engine — a European streaming platform (2023-11 to 2024-11)
+  Modernised a claims processing engine for a European streaming platform in media streaming using JavaScript, React, SQL and Microservices, saving ~30K hours annually.
+* Media Streaming Payments Microservices Platform — a US streaming platform (2023-04 to 2023-09)
+  Designed a payments microservices platform for a US streaming platform in media streaming using Communication, TypeScript and Microservices, reducing processing time by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer

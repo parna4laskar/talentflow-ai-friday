@@ -1,0 +1,29 @@
+JAMAL MILLER
+Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP11831
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.5 years of experience, based in Austin. Strong in REST API Design, Python, Spring Boot and SQL, with recent work in energy trading. Interested in moving towards DevOps Engineer, Engineering Manager roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 3.5y), Python (Advanced, 1.0y), Spring Boot (Proficient, 1.8y), Microservices (Working, 0.9y)
+- Data & AI: SQL (Working, 1.3y)
+- Cloud & DevOps: AWS (Working, 0.5y), Docker (Working, 1.8y), Kubernetes (Beginner, 0.4y)
+
+EXPERIENCE
+* Energy Trading Payments Microservices Platform — a leading energy company (2025-11 to present)
+  Built a payments microservices platform for a leading energy company in energy trading using Spring Boot, Kubernetes and AWS, accelerating releases by 40%.
+* Energy Trading Pricing Engine — a US energy company (2024-06 to 2025-10)
+  Modernised a pricing engine for a US energy company in energy trading using Python, Microservices and AWS, reducing processing time by 12%.
+* Energy Trading Claims Processing Engine — a European energy company (2023-11 to 2024-05)
+  Led the delivery of a claims processing engine for a European energy company in energy trading using Microservices, Spring Boot and Python, reducing processing time by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Engineering Manager, Software Architect

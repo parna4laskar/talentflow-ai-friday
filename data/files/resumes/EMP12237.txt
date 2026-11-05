@@ -1,0 +1,30 @@
+ZOYA VERMA
+Product Manager | Product | Hyderabad, India
+Employee ID: EMP12237
+
+PROFESSIONAL SUMMARY
+Product Manager with 4.1 years of experience, based in Hyderabad. Strong in Product Management, Stakeholder Management, Roadmapping and SQL, with recent work in media streaming. Interested in moving towards Project Manager, Scrum Master roles.
+
+CORE SKILLS
+- Product & Design: Product Management (Advanced, 3.6y), Roadmapping (Proficient, 2.0y), Product Strategy (Working, 1.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 0.9y), Communication (Working, 0.4y)
+- Data & AI: SQL (Proficient, 2.3y), Generative AI (Proficient, 2.7y)
+- Cloud & DevOps: Kubernetes (Working, 0.7y)
+
+EXPERIENCE
+* Insurance Claims Checkout Experience — a US insurer (2026-05 to present)
+  Defined the roadmap for a checkout experience for a US insurer in insurance claims using Communication, Generative AI and Roadmapping, improving conversion by 40%.
+* Media Streaming AI-assisted Customer Journey — a US streaming platform (2025-07 to 2026-02)
+  Defined the roadmap for an AI-assisted customer journey for a US streaming platform in media streaming using Roadmapping, Communication and Stakeholder Management, saving ~40K hours annually.
+* Wealth Management Checkout Experience — an APAC wealth manager (2024-10 to 2025-06)
+  Led discovery for a checkout experience for an APAC wealth manager in wealth management using Kubernetes, Communication and Stakeholder Management, improving conversion by 12%.
+
+EDUCATION
+- B.Tech + MBA
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Project Manager, Scrum Master

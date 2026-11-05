@@ -1,0 +1,35 @@
+JAKUB KOWALSKI
+Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP10320
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.9 years of experience, based in Kraków. Strong in .NET Core, Java, REST API Design and SQL, with recent work in e-commerce. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: .NET Core (Advanced, 2.6y), Java (Proficient, 1.6y), REST API Design (Proficient, 3.2y), Microservices (Proficient, 1.9y), GraphQL (Working, 0.5y)
+- Data & AI: SQL (Proficient, 3.1y)
+- Cloud & DevOps: Kubernetes (Working, 0.5y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — a tier-1 hospital network (2025-12 to present)
+  Modernised a mobile banking app for a tier-1 hospital network in healthcare using REST API Design, .NET Core, Microservices and Java, improving conversion by 40%.
+* E-commerce Order Management System — a fast-growing online retailer (2024-08 to 2025-12)
+  Scaled an order management system for a fast-growing online retailer in e-commerce using SQL, .NET Core, Kubernetes and Microservices, reducing processing time by 25%.
+* Pharma R&D Order Management System — a European pharma company (2023-05 to 2024-08)
+  Re-architected an order management system for a European pharma company in pharma R&D using REST API Design and Java, onboarding 8 new enterprise clients.
+* Telecom Billing Customer Onboarding Platform — a global telecom operator (2021-12 to 2023-04)
+  Modernised a customer onboarding platform for a global telecom operator in telecom billing using SQL, .NET Core, Kubernetes and Microservices, lifting NPS by 25 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, AI Engineer, DevOps Engineer, Full Stack Engineer

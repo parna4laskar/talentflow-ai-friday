@@ -1,0 +1,35 @@
+FARHAN SHARMA
+Data Engineer | Data & Analytics | Gurugram, India
+Employee ID: EMP10556
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.6 years of experience, based in Gurugram. Strong in Data Engineering, SQL, Python and Airflow, with recent work in media streaming. Interested in moving towards Data Scientist, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 2.5y), SQL (Proficient, 1.4y), Airflow (Proficient, 1.8y), dbt (Proficient, 1.6y), Data Governance (Proficient, 2.0y), Databricks (Working, 0.8y), Machine Learning (Beginner, 0.7y)
+- Software Engineering: Python (Proficient, 0.4y), Kafka (Proficient, 2.1y), Go (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Customer Churn Model — a leading insurer (2025-10 to present)
+  Designed a customer churn model for a leading insurer in insurance claims using Databricks, SQL and dbt, improving model accuracy by 35%.
+* Media Streaming Regulatory Reporting Suite — a fast-growing streaming platform (2024-08 to 2025-08)
+  Scaled a regulatory reporting suite for a fast-growing streaming platform in media streaming using Communication, dbt, Airflow and Kafka, saving ~30K hours annually.
+* Media Streaming Regulatory Reporting Suite — a European streaming platform (2023-03 to 2024-05)
+  Designed a regulatory reporting suite for a European streaming platform in media streaming using Machine Learning, SQL, dbt and Kafka, reducing processing time by 25%.
+* Media Streaming Regulatory Reporting Suite — a US streaming platform (2022-05 to 2023-01)
+  Migrated a regulatory reporting suite for a US streaming platform in media streaming using Kafka, Machine Learning, dbt and Data Engineering, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2024)
+- SnowPro Core (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Scientist, Backend Engineer, Data Analyst

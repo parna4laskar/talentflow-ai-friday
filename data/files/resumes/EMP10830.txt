@@ -1,0 +1,27 @@
+VIKRAM BOSE
+Associate Security Analyst | Cyber Security | Pune, India
+Employee ID: EMP10830
+
+PROFESSIONAL SUMMARY
+Associate Security Analyst with 2.6 years of experience, based in Pune. Strong in Threat Modeling, SIEM, Linux Administration and Incident Response, with recent work in automotive. Interested in moving towards Security Analyst, DevOps Engineer roles.
+
+CORE SKILLS
+- Security: Threat Modeling (Proficient, 1.3y), SIEM (Working, 0.3y), Incident Response (Beginner, 0.3y)
+- Cloud & DevOps: Linux Administration (Working, 0.8y)
+- Quality Engineering: Playwright (Beginner, 0.3y)
+
+EXPERIENCE
+* Automotive Secure SDLC Rollout — a global car maker (2026-01 to present)
+  Migrated a secure SDLC rollout for a global car maker in automotive using Threat Modeling, Linux Administration and Playwright, accelerating releases by 18%.
+* Supply-chain Logistics Security Operations Centre Uplift — a leading logistics company (2024-12 to 2025-12)
+  Modernised a security operations centre uplift for a leading logistics company in supply-chain logistics using Linux Administration, Incident Response and Threat Modeling, reducing production incidents by 12%.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Security Analyst, DevOps Engineer, Cloud Engineer

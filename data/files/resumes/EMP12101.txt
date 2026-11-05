@@ -1,0 +1,31 @@
+GURPREET JOSHI
+Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12101
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 5.4 years of experience, based in Bengaluru. Strong in Platform Engineering, Kubernetes, CI/CD and AWS, with recent work in automotive. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Proficient, 1.3y), Kubernetes (Proficient, 2.1y), CI/CD (Proficient, 0.8y), AWS (Proficient, 3.7y), Observability (Proficient, 0.4y), Terraform (Working, 0.4y), Site Reliability Engineering (Working, 1.5y)
+- Data & AI: Databricks (Proficient, 1.2y)
+- Software Engineering: Go (Working, 1.9y), Python (Working, 1.6y)
+
+EXPERIENCE
+* E-commerce Data-centre Exit To Cloud — a US online retailer (2026-06 to present)
+  Automated a data-centre exit to cloud for a US online retailer in e-commerce using Terraform, CI/CD and Kubernetes, cutting cloud spend by 18%.
+* Healthcare Observability Stack — a fast-growing hospital network (2025-06 to 2026-04)
+  Scaled an observability stack for a fast-growing hospital network in healthcare using Terraform, Site Reliability Engineering, AWS and Platform Engineering, accelerating releases by 25%.
+* Automotive Data-centre Exit To Cloud — a European car maker (2023-11 to 2025-05)
+  Designed a data-centre exit to cloud for a European car maker in automotive using Terraform, Databricks and Go, delivering $4M in cost savings.
+* Automotive Data-centre Exit To Cloud — an APAC car maker (2022-12 to 2023-11)
+  Scaled a data-centre exit to cloud for an APAC car maker in automotive using Go and Observability, delivering $5M in cost savings.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, DevOps Engineer

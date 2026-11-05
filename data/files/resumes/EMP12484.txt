@@ -1,0 +1,30 @@
+OLIVER PATEL
+Senior Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12484
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 9.1 years of experience, based in London. Strong in TypeScript, Node.js, SQL and GraphQL, with recent work in HR tech. Interested in moving towards Software Architect, Frontend Engineer roles and open to relocating to Chennai, Pune, Toronto.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.5y), Node.js (Advanced, 0.7y), GraphQL (Advanced, 6.3y), React (Proficient, 6.1y), REST API Design (Proficient, 1.5y)
+- Data & AI: SQL (Advanced, 5.1y)
+
+EXPERIENCE
+* Public Sector Mobile Banking App — a European government agency (2026-11 to present)
+  Re-architected a mobile banking app for a European government agency in public sector using SQL, Node.js and TypeScript, lifting NPS by 18 points.
+* HR Tech Mobile Banking App — a fast-growing HR software company (2026-04 to 2026-09)
+  Built a mobile banking app for a fast-growing HR software company in HR tech using Node.js, SQL and React, improving conversion by 35%.
+* HR Tech Self-service Portal — a European HR software company (2024-10 to 2026-03)
+  Designed a self-service portal for a European HR software company in HR tech using REST API Design and TypeScript, lifting NPS by 22 points.
+* Healthcare Pricing Engine — a European hospital network (2023-06 to 2024-10)
+  Led the delivery of a pricing engine for a European hospital network in healthcare using SQL, GraphQL and TypeScript, reducing processing time by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect, Frontend Engineer, Backend Engineer

@@ -1,0 +1,30 @@
+ROHAN IYER
+Associate Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10869
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.6 years of experience, based in Hyderabad. Strong in Microservices, System Design, Go and SQL, with recent work in payments. Interested in moving towards Engineering Manager, Software Architect roles and open to relocating to New York, Pune, Kraków.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 1.0y), System Design (Advanced, 1.5y), Go (Proficient, 1.2y), REST API Design (Working, 0.5y), .NET Core (Working, 0.5y)
+- Data & AI: SQL (Proficient, 1.1y)
+- Cloud & DevOps: AWS (Proficient, 1.3y), CI/CD (Working, 0.3y), Terraform (Working, 1.1y)
+
+EXPERIENCE
+* Payments Pricing Engine — a fast-growing payments provider (2025-07 to present)
+  Re-architected a pricing engine for a fast-growing payments provider in payments using AWS, SQL, .NET Core and Terraform, improving conversion by 35%.
+* Payments Mobile Banking App — a tier-1 payments provider (2024-04 to 2025-05)
+  Led the delivery of a mobile banking app for a tier-1 payments provider in payments using Go, CI/CD and .NET Core, lifting NPS by 18 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager, Software Architect, Full Stack Engineer

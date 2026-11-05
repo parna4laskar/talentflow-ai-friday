@@ -1,0 +1,32 @@
+PALLAVI IYER
+Senior Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP12132
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 5.7 years of experience, based in Chennai. Strong in Python, Machine Learning, Statistics and SQL, with recent work in manufacturing IoT. Interested in moving towards Data Analyst, ML Engineer roles and open to relocating to Dublin, Bengaluru, Kraków.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.1y)
+- Data & AI: Machine Learning (Proficient, 4.1y), Statistics (Proficient, 1.8y), SQL (Proficient, 2.5y), NLP (Proficient, 3.0y), Generative AI (Working, 1.7y), Apache Spark (Beginner, 0.7y), Data Visualization (Beginner, 1.1y)
+- Product & Design: A/B Testing (Proficient, 2.8y)
+
+EXPERIENCE
+* Manufacturing IoT Regulatory Reporting Suite — a global manufacturer (2025-08 to present)
+  Scaled a regulatory reporting suite for a global manufacturer in manufacturing IoT using NLP, Statistics, Apache Spark and A/B Testing, saving ~35K hours annually.
+* Manufacturing IoT Customer Churn Model — a European manufacturer (2024-08 to 2025-07)
+  Modernised a customer churn model for a European manufacturer in manufacturing IoT using Generative AI and Python, improving conversion by 18%.
+* Manufacturing IoT Customer Churn Model — a leading manufacturer (2022-12 to 2024-06)
+  Migrated a customer churn model for a leading manufacturer in manufacturing IoT using Apache Spark, Generative AI and Statistics, improving conversion by 12%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, ML Engineer, AI Engineer

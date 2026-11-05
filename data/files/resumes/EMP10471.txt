@@ -1,0 +1,33 @@
+VIKRAM SHAH
+Senior Security Analyst | Cyber Security | Pune, India
+Employee ID: EMP10471
+
+PROFESSIONAL SUMMARY
+Senior Security Analyst with 6.1 years of experience, based in Pune. Strong in SIEM, Incident Response, GRC and Communication, with recent work in wealth management. Interested in moving towards Security Analyst, Cloud Engineer roles.
+
+CORE SKILLS
+- Security: SIEM (Advanced, 3.0y), Incident Response (Advanced, 0.6y), GRC (Advanced, 0.8y), Threat Modeling (Proficient, 0.5y)
+- Delivery & Leadership: Communication (Advanced, 1.5y)
+- Software Engineering: Python (Proficient, 1.5y)
+- Cloud & DevOps: Kubernetes (Proficient, 2.0y), Linux Administration (Working, 0.8y)
+- Business & Finance: Regulatory Compliance (Proficient, 3.5y)
+
+EXPERIENCE
+* Healthcare Security Operations Centre Uplift — a global hospital network (2026-05 to present)
+  Automated a security operations centre uplift for a global hospital network in healthcare using Python, Linux Administration and Kubernetes, reducing production incidents by 30%.
+* Telecom Billing Secure SDLC Rollout — a global telecom operator (2025-03 to 2026-02)
+  Modernised a secure SDLC rollout for a global telecom operator in telecom billing using Python and Kubernetes, accelerating releases by 35%.
+* Supply-chain Logistics Security Operations Centre Uplift — a European logistics company (2024-06 to 2025-01)
+  Built a security operations centre uplift for a European logistics company in supply-chain logistics using Incident Response, Threat Modeling, Linux Administration and SIEM, closing 12% of open audit findings.
+* Manufacturing IoT Cloud Security Posture Programme — a European manufacturer (2023-10 to 2024-05)
+  Built a cloud security posture programme for a European manufacturer in manufacturing IoT using Communication, Linux Administration, GRC and Incident Response, closing 30% of open audit findings.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Security Analyst, Cloud Engineer

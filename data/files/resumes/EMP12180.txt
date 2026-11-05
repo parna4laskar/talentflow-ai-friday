@@ -1,0 +1,30 @@
+VIKRAM PILLAI
+DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12180
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 3.2 years of experience, based in Hyderabad. Strong in CI/CD, Terraform, Go and Docker, with recent work in telecom billing. Interested in moving towards Cloud Engineer roles and open to relocating to New York, Singapore.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 1.7y), Terraform (Proficient, 0.6y), Docker (Working, 0.3y), Kubernetes (Working, 1.2y), AWS (Working, 1.0y), Observability (Working, 0.8y), Linux Administration (Working, 1.4y), Site Reliability Engineering (Beginner, 0.3y)
+- Software Engineering: Go (Proficient, 1.1y), Python (Working, 0.6y)
+
+EXPERIENCE
+* Energy Trading Kubernetes Platform — a global energy company (2025-09 to present)
+  Led the delivery of a Kubernetes platform for a global energy company in energy trading using Observability, Linux Administration and Go, cutting cloud spend by 18%.
+* Telecom Billing Cloud Landing Zone — a US telecom operator (2025-04 to 2025-09)
+  Automated a cloud landing zone for a US telecom operator in telecom billing using Docker, CI/CD and Observability, cutting cloud spend by 25%.
+* Telecom Billing Data-centre Exit To Cloud — a global telecom operator (2024-10 to 2025-03)
+  Automated a data-centre exit to cloud for a global telecom operator in telecom billing using Kubernetes and Linux Administration, delivering $2M in cost savings.
+* Public Sector Data-centre Exit To Cloud — a leading government agency (2024-02 to 2024-09)
+  Led the delivery of a data-centre exit to cloud for a leading government agency in public sector using Terraform and Python, cutting cloud spend by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer

@@ -1,0 +1,31 @@
+SAOIRSE RYAN
+Lead DevOps Engineer | Cloud & Infrastructure | Dublin, Ireland
+Employee ID: EMP10162
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 11.5 years of experience, based in Dublin. Strong in CI/CD, Kubernetes, Mentoring and Docker, with recent work in automotive. Interested in moving towards DevOps Engineer, Backend Engineer roles and open to relocating to Hyderabad, Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 4.4y), Kubernetes (Advanced, 3.6y), Docker (Proficient, 2.4y), Azure (Proficient, 5.4y), Terraform (Proficient, 0.9y), Linux Administration (Proficient, 5.6y), Observability (Proficient, 0.8y)
+- Delivery & Leadership: Mentoring (Advanced, 4.6y), Communication (Proficient, 2.1y)
+
+EXPERIENCE
+* HR Tech Observability Stack — a global HR software company (2025-06 to present)
+  Re-architected an observability stack for a global HR software company in HR tech using Linux Administration and Observability, accelerating releases by 40%.
+* Automotive Kubernetes Platform — a tier-1 car maker (2024-10 to 2025-04)
+  Built a Kubernetes platform for a tier-1 car maker in automotive using Observability, Terraform, Mentoring and Communication, accelerating releases by 22%.
+* Automotive Kubernetes Platform — a tier-1 car maker (2023-05 to 2024-09)
+  Modernised a Kubernetes platform for a tier-1 car maker in automotive using Terraform, Observability and Docker, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2023)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Irish, Telugu
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Backend Engineer, Platform Engineer, Cloud Engineer

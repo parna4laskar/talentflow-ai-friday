@@ -1,0 +1,33 @@
+LAKSHMI BANERJEE
+QA Engineer | Quality Engineering | Chennai, India
+Employee ID: EMP11760
+
+PROFESSIONAL SUMMARY
+QA Engineer with 3.3 years of experience, based in Chennai. Strong in API Testing, Python, CI/CD and Test Automation, with recent work in insurance claims. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Proficient, 1.2y), Test Automation (Working, 1.2y), Selenium (Working, 0.8y), Performance Testing (Working, 0.9y)
+- Software Engineering: Python (Proficient, 0.7y)
+- Cloud & DevOps: CI/CD (Proficient, 2.2y)
+- Data & AI: SQL (Working, 0.6y)
+
+EXPERIENCE
+* Insurance Claims Performance Engineering Programme — a European insurer (2025-07 to present)
+  Scaled a performance engineering programme for a European insurer in insurance claims using Selenium, Performance Testing and Test Automation, reducing production incidents by 22%.
+* Public Sector API Contract-testing Suite — a leading government agency (2024-02 to 2025-05)
+  Built an API contract-testing suite for a leading government agency in public sector using Selenium and Python, raising automated test coverage to 90%.
+* Insurance Claims Performance Engineering Programme — an APAC insurer (2022-09 to 2023-11)
+  Designed a performance engineering programme for an APAC insurer in insurance claims using Performance Testing, Selenium, Python and SQL, accelerating releases by 25%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager

@@ -1,0 +1,33 @@
+DEEPIKA GARCIA
+Lead Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10607
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 15.9 years of experience, based in Hyderabad. Strong in SQL, Go, REST API Design and Docker, with recent work in public sector. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 15.1y)
+- Software Engineering: Go (Advanced, 4.6y), REST API Design (Advanced, 11.6y), Microservices (Proficient, 6.7y), Spring Boot (Proficient, 9.5y)
+- Cloud & DevOps: Docker (Advanced, 13.1y), AWS (Advanced, 1.1y), Kubernetes (Proficient, 1.5y), FinOps (Working, 6.1y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 11.6y)
+
+EXPERIENCE
+* Insurance Claims Payments Microservices Platform — a global insurer (2025-10 to present)
+  Built a payments microservices platform for a global insurer in insurance claims using AWS and Go, reducing production incidents by 35%.
+* Public Sector Pricing Engine — a leading government agency (2024-09 to 2025-07)
+  Re-architected a pricing engine for a leading government agency in public sector using REST API Design and AWS, reducing processing time by 40%.
+* HR Tech Self-service Portal — a tier-1 HR software company (2024-02 to 2024-07)
+  Re-architected a self-service portal for a tier-1 HR software company in HR tech using Stakeholder Management, SQL and Kubernetes, lifting NPS by 12 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, DevOps Engineer, Full Stack Engineer

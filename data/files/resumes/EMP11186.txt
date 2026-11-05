@@ -1,0 +1,33 @@
+ROHAN KELLY
+Lead ML Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP11186
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 14.9 years of experience, based in Chennai. Strong in Machine Learning, MLOps, Deep Learning and Vector Databases, with recent work in insurance claims. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 1.2y), MLOps (Advanced, 2.6y), Deep Learning (Advanced, 9.5y), Vector Databases (Advanced, 2.4y), Databricks (Advanced, 6.6y)
+- Cloud & DevOps: AWS (Advanced, 7.0y), Docker (Proficient, 7.6y), Kubernetes (Working, 4.2y)
+- Delivery & Leadership: People Leadership (Advanced, 1.0y), Mentoring (Proficient, 4.9y), Communication (Proficient, 1.1y)
+- Software Engineering: Python (Proficient, 1.7y)
+
+EXPERIENCE
+* Automotive Fraud Detection Model — a global car maker (2026-03 to present)
+  Scaled a fraud detection model for a global car maker in automotive using Kubernetes, Communication, Vector Databases and AWS, improving model accuracy by 40%.
+* Insurance Claims Fraud Detection Model — a fast-growing insurer (2025-05 to 2026-01)
+  Automated a fraud detection model for a fast-growing insurer in insurance claims using Docker and MLOps, reducing processing time by 18%.
+* Insurance Claims Knowledge Assistant (RAG) — a leading insurer (2023-11 to 2025-05)
+  Scaled a knowledge assistant (RAG) for a leading insurer in insurance claims using MLOps, Vector Databases and Python, saving ~18K hours annually.
+
+CERTIFICATIONS
+- AWS ML Specialty (2022)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer

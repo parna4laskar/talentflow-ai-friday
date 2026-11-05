@@ -1,0 +1,32 @@
+IMRAN MUKHERJEE
+Site Reliability Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12929
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 3.7 years of experience, based in Chennai. Strong in Site Reliability Engineering, Observability, Kubernetes and Linux Administration, with recent work in manufacturing IoT. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Proficient, 1.5y), Observability (Proficient, 1.6y), Kubernetes (Working, 0.8y), Linux Administration (Working, 1.5y), AWS (Working, 0.9y)
+- Security: Incident Response (Working, 1.6y)
+- Quality Engineering: Performance Testing (Working, 0.6y), Playwright (Working, 1.0y)
+- Software Engineering: Python (Beginner, 0.4y)
+
+EXPERIENCE
+* Manufacturing IoT Data-centre Exit To Cloud — a fast-growing manufacturer (2026-04 to present)
+  Led the delivery of a data-centre exit to cloud for a fast-growing manufacturer in manufacturing IoT using Site Reliability Engineering and Playwright, cutting cloud spend by 18%.
+* Manufacturing IoT CI/CD Platform — a global manufacturer (2025-02 to 2026-02)
+  Built a CI/CD platform for a global manufacturer in manufacturing IoT using Playwright, Python and Site Reliability Engineering, accelerating releases by 40%.
+* Payments Cloud Landing Zone — a leading payments provider (2023-09 to 2025-01)
+  Built a cloud landing zone for a leading payments provider in payments using Kubernetes and Linux Administration, cutting cloud spend by 30%.
+* Supply-chain Logistics Cloud Landing Zone — a global logistics company (2022-09 to 2023-08)
+  Modernised a cloud landing zone for a global logistics company in supply-chain logistics using Playwright, Python, Site Reliability Engineering and Kubernetes, accelerating releases by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Platform Engineer

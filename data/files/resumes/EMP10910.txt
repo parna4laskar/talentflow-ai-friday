@@ -1,0 +1,35 @@
+SURESH BHAT
+Lead CRM Consultant | Enterprise Applications | Hyderabad, India
+Employee ID: EMP10910
+
+PROFESSIONAL SUMMARY
+Lead CRM Consultant with 11.6 years of experience, based in Hyderabad. Strong in Business Analysis, Salesforce, Agile/Scrum and JavaScript, with recent work in manufacturing IoT. Interested in moving towards Account Manager, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 11.6y), Salesforce (Advanced, 5.7y), Process Improvement (Proficient, 5.0y)
+- Delivery & Leadership: People Leadership (Advanced, 2.5y), Agile/Scrum (Proficient, 6.7y), Stakeholder Management (Working, 0.9y)
+- Software Engineering: JavaScript (Proficient, 4.5y)
+
+EXPERIENCE
+* Manufacturing IoT Service Desk Automation — a leading manufacturer (2025-11 to present)
+  Scaled a service desk automation for a leading manufacturer in manufacturing IoT using Salesforce, JavaScript, Agile/Scrum and Business Analysis, reducing processing time by 30%.
+* Wealth Management ERP Finance Rollout — a fast-growing wealth manager (2024-12 to 2025-09)
+  Automated an ERP finance rollout for a fast-growing wealth manager in wealth management using Agile/Scrum, Process Improvement, JavaScript and Business Analysis, saving ~35K hours annually.
+* HR Tech ERP Finance Rollout — a fast-growing HR software company (2023-10 to 2024-10)
+  Automated an ERP finance rollout for a fast-growing HR software company in HR tech using Stakeholder Management, Agile/Scrum and JavaScript, reducing processing time by 30%.
+* Manufacturing IoT CRM Rollout — an APAC manufacturer (2022-11 to 2023-09)
+  Migrated a CRM rollout for an APAC manufacturer in manufacturing IoT using Agile/Scrum, Business Analysis and Stakeholder Management, improving conversion by 30%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2024)
+- ServiceNow CSA (2024)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Account Manager, Business Analyst, Scrum Master

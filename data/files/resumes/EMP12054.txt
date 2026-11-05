@@ -1,0 +1,33 @@
+PALLAVI SHARMA
+Project Manager | Delivery Excellence | Hyderabad, India
+Employee ID: EMP12054
+
+PROFESSIONAL SUMMARY
+Project Manager with 5 years of experience, based in Hyderabad. Strong in Agile/Scrum, Project Management, Stakeholder Management and Vendor Management, with recent work in energy trading. Interested in moving towards Scrum Master, Program Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Advanced, 1.2y), Project Management (Proficient, 0.9y), Stakeholder Management (Proficient, 2.1y), Vendor Management (Proficient, 3.0y), Program Management (Working, 2.1y), Communication (Working, 0.9y)
+- Cloud & DevOps: Kubernetes (Working, 1.3y)
+
+EXPERIENCE
+* Energy Trading Process Re-engineering Initiative — an APAC energy company (2026-03 to present)
+  Delivered a process re-engineering initiative for an APAC energy company in energy trading using Program Management, Project Management, Vendor Management and Stakeholder Management, reducing processing time by 22%.
+* HR Tech Cloud Migration Programme — a tier-1 HR software company (2025-07 to 2026-01)
+  Coordinated a cloud migration programme for a tier-1 HR software company in HR tech using Project Management, Vendor Management and Communication, delivering on time across 3 workstreams.
+* Energy Trading Agile Transformation — a global energy company (2024-07 to 2025-05)
+  Coordinated an agile transformation for a global energy company in energy trading using Program Management and Stakeholder Management, delivering on time across 8 workstreams.
+* Healthcare Process Re-engineering Initiative — a global hospital network (2023-07 to 2024-05)
+  Coordinated a process re-engineering initiative for a global hospital network in healthcare using Program Management and Kubernetes, reducing processing time by 25%.
+
+CERTIFICATIONS
+- PMP (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Scrum Master, Program Manager

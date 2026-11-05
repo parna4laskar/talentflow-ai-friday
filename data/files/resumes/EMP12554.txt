@@ -1,0 +1,28 @@
+FARHAN KAPOOR
+Associate CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP12554
+
+PROFESSIONAL SUMMARY
+Associate CRM Consultant with 1.9 years of experience, based in Bengaluru. Strong in Salesforce, Business Analysis, Agile/Scrum and JavaScript, with recent work in insurance claims. Interested in moving towards CRM Consultant, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Proficient, 1.0y), Business Analysis (Proficient, 0.7y), Requirements Gathering (Working, 0.7y), Process Improvement (Beginner, 0.3y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.4y)
+- Software Engineering: JavaScript (Working, 0.9y), TypeScript (Working, 0.6y)
+- Data & AI: Responsible AI (Working, 0.7y)
+
+EXPERIENCE
+* Insurance Claims Service Desk Automation — a fast-growing insurer (2025-06 to present)
+  Led the delivery of a service desk automation for a fast-growing insurer in insurance claims using Responsible AI and Process Improvement, reducing processing time by 40%.
+* HR Tech ERP Finance Rollout — a tier-1 HR software company (2024-02 to 2025-06)
+  Modernised an ERP finance rollout for a tier-1 HR software company in HR tech using Process Improvement, Responsible AI and Salesforce, saving ~40K hours annually.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: CRM Consultant, Business Analyst

@@ -1,0 +1,29 @@
+VIKRAM SHARMA
+Associate Security Engineer | Cyber Security | Pune, India
+Employee ID: EMP12634
+
+PROFESSIONAL SUMMARY
+Associate Security Engineer with 0.7 years of experience, based in Pune. Strong in Identity & Access Management, Application Security, Threat Modeling and SIEM, with recent work in airline operations. Interested in moving towards Software Architect roles and open to relocating to London, New York.
+
+CORE SKILLS
+- Security: Identity & Access Management (Advanced, 0.6y), Application Security (Proficient, 0.4y), Threat Modeling (Proficient, 0.4y), SIEM (Working, 0.3y), GRC (Working, 0.3y)
+- Data & AI: Generative AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Secure SDLC Rollout — a European airline (2026-03 to present)
+  Led the delivery of a secure SDLC rollout for a European airline in airline operations using SIEM, Generative AI, Application Security and Identity & Access Management, accelerating releases by 30%.
+* Airline Operations Security Operations Centre Uplift — a fast-growing airline (2024-12 to 2026-03)
+  Designed a security operations centre uplift for a fast-growing airline in airline operations using Application Security, Generative AI, GRC and Identity & Access Management, closing 30% of open audit findings.
+
+CERTIFICATIONS
+- CCSP (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect

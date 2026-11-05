@@ -1,0 +1,27 @@
+PIOTR WIŚNIEWSKI
+Associate Data Analyst | Data & Analytics | Kraków, Poland
+Employee ID: EMP11005
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 1.3 years of experience, based in Kraków. Strong in SQL, Data Visualization, Power BI and Statistics, with recent work in pharma R&D. Interested in moving towards Product Manager, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Working, 0.3y), Data Visualization (Working, 0.6y), Power BI (Working, 0.3y), Statistics (Working, 0.3y), Agentic AI (Beginner, 0.3y)
+- Business & Finance: Business Analysis (Working, 0.6y)
+- Product & Design: A/B Testing (Working, 0.5y)
+
+EXPERIENCE
+* Pharma R&D Customer Churn Model — a European pharma company (2025-07 to present)
+  Led the delivery of a customer churn model for a European pharma company in pharma R&D using Business Analysis and Statistics, improving model accuracy by 25%.
+* Manufacturing IoT Regulatory Reporting Suite — a European manufacturer (2023-11 to 2025-05)
+  Migrated a regulatory reporting suite for a European manufacturer in manufacturing IoT using Agentic AI and A/B Testing, saving ~35K hours annually.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Product Manager, Data Scientist

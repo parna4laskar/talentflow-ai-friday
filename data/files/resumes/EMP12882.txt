@@ -1,0 +1,33 @@
+RADHIKA REDDY
+Senior Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP12882
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 11 years of experience, based in Gurugram. Strong in CI/CD, TypeScript, JavaScript and Angular, with recent work in wealth management. Interested in moving towards Frontend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 5.8y)
+- Software Engineering: TypeScript (Proficient, 1.9y), JavaScript (Proficient, 6.4y), Angular (Proficient, 5.1y), GraphQL (Proficient, 7.2y)
+- Product & Design: Figma (Proficient, 5.2y), Design Systems (Working, 3.5y)
+- Quality Engineering: Playwright (Proficient, 6.0y)
+
+EXPERIENCE
+* Energy Trading Claims Processing Engine — a US energy company (2025-10 to present)
+  Modernised a claims processing engine for a US energy company in energy trading using Angular, JavaScript, CI/CD and Figma, saving ~30K hours annually.
+* Public Sector Order Management System — a European government agency (2024-12 to 2025-08)
+  Led the delivery of an order management system for a European government agency in public sector using Figma, Playwright and JavaScript, reducing processing time by 30%.
+* Wealth Management Claims Processing Engine — an APAC wealth manager (2023-12 to 2024-11)
+  Migrated a claims processing engine for an APAC wealth manager in wealth management using Angular, JavaScript and TypeScript, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2023)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, Full Stack Engineer, Mobile Engineer, UX Designer

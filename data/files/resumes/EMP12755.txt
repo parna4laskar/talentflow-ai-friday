@@ -1,0 +1,29 @@
+JAMAL ANDERSON
+Data Scientist | Data & Analytics | New York, United States
+Employee ID: EMP12755
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3.6 years of experience, based in New York. Strong in SQL, Python, Statistics and A/B Testing, with recent work in wealth management. Interested in moving towards AI Engineer, Data Analyst roles and open to relocating to Toronto, Bengaluru.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.5y), Statistics (Proficient, 2.1y), Machine Learning (Working, 0.4y), Deep Learning (Working, 1.7y)
+- Software Engineering: Python (Proficient, 1.8y)
+- Product & Design: A/B Testing (Proficient, 1.2y)
+
+EXPERIENCE
+* Wealth Management Data Lakehouse — a European wealth manager (2025-08 to present)
+  Migrated a data lakehouse for a European wealth manager in wealth management using A/B Testing, Machine Learning, SQL and Deep Learning, reducing processing time by 40%.
+* Wealth Management Real-time Analytics Pipeline — a fast-growing wealth manager (2024-05 to 2025-08)
+  Built a real-time analytics pipeline for a fast-growing wealth manager in wealth management using Python, Machine Learning and Statistics, reducing processing time by 30%.
+* Manufacturing IoT Customer Churn Model — a tier-1 manufacturer (2023-01 to 2024-03)
+  Migrated a customer churn model for a tier-1 manufacturer in manufacturing IoT using Deep Learning, SQL and Statistics, improving model accuracy by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Tamil
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, Data Analyst, ML Engineer

@@ -1,0 +1,30 @@
+VENKAT PATIL
+Associate DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11180
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.9 years of experience, based in Hyderabad. Strong in Docker, CI/CD, Kubernetes and GCP, with recent work in automotive. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 1.9y), CI/CD (Proficient, 2.0y), Kubernetes (Proficient, 1.0y), GCP (Working, 0.9y), Linux Administration (Working, 0.7y)
+- Software Engineering: Go (Working, 1.0y), Python (Beginner, 0.4y)
+
+EXPERIENCE
+* HR Tech CI/CD Platform — a European HR software company (2026-01 to present)
+  Scaled a CI/CD platform for a European HR software company in HR tech using Python, Kubernetes, Go and Linux Administration, accelerating releases by 35%.
+* Automotive Cloud Landing Zone — a European car maker (2025-06 to 2025-11)
+  Automated a cloud landing zone for a European car maker in automotive using Python, CI/CD and Go, accelerating releases by 22%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+- HashiCorp Terraform Associate (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer, Platform Engineer, Cloud Engineer

@@ -1,0 +1,31 @@
+KAVYA GOKHALE
+Associate DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11230
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 0.5 years of experience, based in Bengaluru. Strong in CI/CD, Docker, AWS and Observability, with recent work in airline operations. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 0.4y), Docker (Proficient, 0.4y), AWS (Proficient, 0.4y), Observability (Proficient, 0.4y), Terraform (Proficient, 0.4y), Kubernetes (Working, 0.3y), Linux Administration (Working, 0.3y), Azure (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.4y), Go (Proficient, 0.4y)
+- Data & AI: Responsible AI (Proficient, 0.4y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Automotive CI/CD Platform — a global car maker (2026-04 to present)
+  Modernised a CI/CD platform for a global car maker in automotive using Kubernetes, Terraform, Azure and Observability, accelerating releases by 30%.
+* Wealth Management Observability Stack — an APAC wealth manager (2024-08 to 2026-01)
+  Led the delivery of an observability stack for an APAC wealth manager in wealth management using Communication, Responsible AI, CI/CD and Observability, accelerating releases by 12%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Site Reliability Engineer

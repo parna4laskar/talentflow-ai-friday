@@ -1,0 +1,35 @@
+SHREYA MEHTA
+Lead Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10752
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 10.6 years of experience, based in Bengaluru. Strong in React, TypeScript, AWS and REST API Design, with recent work in HR tech. Interested in moving towards Backend Engineer, Frontend Engineer roles and open to relocating to Chennai, Singapore, Austin.
+
+CORE SKILLS
+- Software Engineering: React (Expert, 3.9y), TypeScript (Advanced, 7.6y), REST API Design (Advanced, 6.1y), Java (Proficient, 6.3y)
+- Cloud & DevOps: AWS (Advanced, 0.6y)
+- Data & AI: Data Engineering (Advanced, 5.7y), Responsible AI (Advanced, 1.6y), SQL (Proficient, 1.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 7.9y), Communication (Advanced, 3.7y), Mentoring (Proficient, 3.1y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — a US government agency (2026-02 to present)
+  Re-architected a self-service portal for a US government agency in public sector using Stakeholder Management, REST API Design and Mentoring, lifting NPS by 12 points.
+* HR Tech Self-service Portal — a European HR software company (2024-07 to 2025-12)
+  Re-architected a self-service portal for a European HR software company in HR tech using React and Data Engineering, saving ~22K hours annually.
+* Public Sector Order Management System — a US government agency (2022-10 to 2024-04)
+  Modernised an order management system for a US government agency in public sector using Data Engineering, AWS and React, onboarding 3 new enterprise clients.
+* HR Tech Payments Microservices Platform — a tier-1 HR software company (2021-04 to 2022-08)
+  Built a payments microservices platform for a tier-1 HR software company in HR tech using AWS, Stakeholder Management and React, reducing processing time by 25%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Frontend Engineer, Software Architect

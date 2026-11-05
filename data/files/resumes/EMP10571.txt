@@ -1,0 +1,33 @@
+FÉLIX KHAN
+Lead SAP Consultant | Enterprise Applications | Toronto, Canada
+Employee ID: EMP10571
+
+PROFESSIONAL SUMMARY
+Lead SAP Consultant with 8.1 years of experience, based in Toronto. Strong in Mentoring, SAP FICO, Business Analysis and Process Improvement, with recent work in HR tech. Interested in moving towards Financial Analyst, CRM Consultant roles.
+
+CORE SKILLS
+- Delivery & Leadership: Mentoring (Advanced, 3.1y)
+- Business & Finance: SAP FICO (Proficient, 3.4y), Business Analysis (Proficient, 5.3y), Process Improvement (Proficient, 5.7y), SAP S/4HANA (Proficient, 2.9y), Financial Analysis (Working, 2.3y), Requirements Gathering (Working, 0.8y)
+
+EXPERIENCE
+* HR Tech CRM Rollout — a leading HR software company (2026-08 to present)
+  Migrated a CRM rollout for a leading HR software company in HR tech using Business Analysis and SAP S/4HANA, reducing processing time by 25%.
+* HR Tech ERP Finance Rollout — a leading HR software company (2025-07 to 2026-05)
+  Scaled an ERP finance rollout for a leading HR software company in HR tech using Process Improvement, Financial Analysis, Business Analysis and SAP S/4HANA, reducing processing time by 18%.
+* HR Tech CRM Rollout — a European HR software company (2024-09 to 2025-05)
+  Modernised a CRM rollout for a European HR software company in HR tech using Financial Analysis, SAP S/4HANA, Requirements Gathering and Business Analysis, improving conversion by 18%.
+* HR Tech CRM Rollout — a tier-1 HR software company (2023-05 to 2024-07)
+  Modernised a CRM rollout for a tier-1 HR software company in HR tech using SAP FICO, Process Improvement and Financial Analysis, reducing processing time by 40%.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2022)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Financial Analyst, CRM Consultant, Business Analyst

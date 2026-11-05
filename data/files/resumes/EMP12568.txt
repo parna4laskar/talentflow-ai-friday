@@ -1,0 +1,27 @@
+FARHAN SEN
+Associate ML Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP12568
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 0.6 years of experience, based in Bengaluru. Strong in MLOps, Deep Learning, Python and Machine Learning, with recent work in airline operations. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Data & AI: MLOps (Proficient, 0.4y), Deep Learning (Proficient, 0.4y), Machine Learning (Working, 0.3y), Databricks (Working, 0.3y), Generative AI (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.3y)
+- Cloud & DevOps: Docker (Working, 0.3y)
+
+EXPERIENCE
+* Media Streaming Agentic Customer-service Assistant — a European streaming platform (2026-06 to present)
+  Re-architected an agentic customer-service assistant for a European streaming platform in media streaming using Generative AI, Python and MLOps, saving ~40K hours annually.
+* Telecom Billing Document Intelligence Pipeline — a tier-1 telecom operator (2025-05 to 2026-06)
+  Modernised a document intelligence pipeline for a tier-1 telecom operator in telecom billing using Databricks, MLOps and Generative AI, saving ~30K hours annually.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Platform Engineer, AI Engineer

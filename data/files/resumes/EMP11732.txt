@@ -1,0 +1,30 @@
+ADITYA SINGH
+Associate Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11732
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 1.8 years of experience, based in Pune. Strong in AWS, Terraform, Linux Administration and Cloud Security, with recent work in public sector. Interested in moving towards Platform Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 1.8y), Terraform (Proficient, 0.9y), Linux Administration (Proficient, 1.0y), Kubernetes (Proficient, 1.0y)
+- Security: Cloud Security (Proficient, 1.3y)
+
+EXPERIENCE
+* Public Sector Kubernetes Platform — a tier-1 government agency (2026-05 to present)
+  Re-architected a Kubernetes platform for a tier-1 government agency in public sector using Cloud Security, Kubernetes and Terraform, cutting cloud spend by 35%.
+* Public Sector Kubernetes Platform — a US government agency (2024-12 to 2026-03)
+  Built a Kubernetes platform for a US government agency in public sector using Kubernetes, Cloud Security, AWS and Linux Administration, reducing production incidents by 40%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+- Google Professional Cloud Architect (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Platform Engineer, Software Architect, DevOps Engineer

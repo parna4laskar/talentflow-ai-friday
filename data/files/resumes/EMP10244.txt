@@ -1,0 +1,30 @@
+RÓISÍN BYRNE
+Business Analyst | Business Consulting | Dublin, Ireland
+Employee ID: EMP10244
+
+PROFESSIONAL SUMMARY
+Business Analyst with 2.6 years of experience, based in Dublin. Strong in Requirements Gathering, Business Analysis, Salesforce and Stakeholder Management, with recent work in media streaming. Interested in moving towards Business Analyst, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 1.2y), Business Analysis (Proficient, 1.6y), Salesforce (Proficient, 1.9y)
+- Delivery & Leadership: Stakeholder Management (Working, 1.0y), Agile/Scrum (Working, 1.0y)
+
+EXPERIENCE
+* Airline Operations Requirements and UAT for a CRM Rollout — a tier-1 airline (2026-06 to present)
+  Ran a requirements and UAT for a CRM rollout for a tier-1 airline in airline operations using Requirements Gathering and Business Analysis, reducing processing time by 35%.
+* Media Streaming Process Re-engineering Initiative — a tier-1 streaming platform (2025-01 to 2026-03)
+  Led a process re-engineering initiative for a tier-1 streaming platform in media streaming using Stakeholder Management, Business Analysis and Requirements Gathering, reducing processing time by 25%.
+
+CERTIFICATIONS
+- CBAP (2026)
+- PMI-PBA (2026)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Business Analyst, Account Manager

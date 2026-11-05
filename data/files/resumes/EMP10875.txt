@@ -1,0 +1,32 @@
+ISHITA KULKARNI
+Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP10875
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4 years of experience, based in Chennai. Strong in Go, SQL, REST API Design and Microservices, with recent work in insurance claims. Interested in moving towards AI Engineer, Software Architect roles and open to relocating to New York.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 1.6y), REST API Design (Proficient, 2.8y), Microservices (Proficient, 2.7y), Spring Boot (Working, 1.7y), .NET Core (Working, 1.5y), Java (Working, 0.6y)
+- Data & AI: SQL (Advanced, 2.6y), LLM Engineering (Beginner, 0.8y)
+
+EXPERIENCE
+* Telecom Billing Claims Processing Engine — a European telecom operator (2025-11 to present)
+  Modernised a claims processing engine for a European telecom operator in telecom billing using Go, REST API Design and Microservices, reducing processing time by 22%.
+* Insurance Claims Pricing Engine — an APAC insurer (2025-05 to 2025-10)
+  Designed a pricing engine for an APAC insurer in insurance claims using LLM Engineering and .NET Core, reducing processing time by 12%.
+* Payments Customer Onboarding Platform — a fast-growing payments provider (2024-04 to 2025-02)
+  Modernised a customer onboarding platform for a fast-growing payments provider in payments using SQL, Go and Microservices, reducing processing time by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, Software Architect, DevOps Engineer

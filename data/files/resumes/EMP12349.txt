@@ -1,0 +1,34 @@
+NANDINI KRISHNAN
+Lead Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12349
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 13.1 years of experience, based in Bengaluru. Strong in Python, dbt, AWS and Mentoring, with recent work in supply-chain logistics. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 6.2y), Kafka (Proficient, 2.0y)
+- Data & AI: dbt (Advanced, 1.6y), SQL (Proficient, 2.8y), Data Engineering (Proficient, 1.9y), Data Governance (Proficient, 1.9y), Databricks (Proficient, 8.1y)
+- Cloud & DevOps: AWS (Advanced, 10.9y)
+- Delivery & Leadership: Mentoring (Advanced, 11.4y), Communication (Proficient, 7.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Customer Churn Model — a US logistics company (2026-02 to present)
+  Migrated a customer churn model for a US logistics company in supply-chain logistics using SQL, Mentoring and dbt, improving model accuracy by 30%.
+* Supply-chain Logistics Customer Churn Model — a European logistics company (2024-12 to 2025-12)
+  Automated a customer churn model for a European logistics company in supply-chain logistics using Communication and Data Engineering, improving conversion by 18%.
+* Supply-chain Logistics Real-time Analytics Pipeline — a European logistics company (2024-03 to 2024-10)
+  Modernised a real-time analytics pipeline for a European logistics company in supply-chain logistics using Mentoring, Data Governance, SQL and dbt, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+- SnowPro Core (2025)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Engineer, Data Analyst, AI Engineer, Data Scientist

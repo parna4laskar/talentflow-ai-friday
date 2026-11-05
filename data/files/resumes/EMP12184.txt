@@ -1,0 +1,32 @@
+EMILY KELLY
+Senior Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12184
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.5 years of experience, based in London. Strong in TypeScript, JavaScript, Angular and Node.js, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, QA Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 3.5y), JavaScript (Proficient, 2.8y), Angular (Proficient, 3.5y), Node.js (Proficient, 2.8y), GraphQL (Proficient, 1.1y), Next.js (Proficient, 2.0y)
+- Delivery & Leadership: Communication (Proficient, 1.3y)
+- Product & Design: Figma (Working, 1.5y)
+
+EXPERIENCE
+* HR Tech Order Management System — a US HR software company (2026-09 to present)
+  Modernised an order management system for a US HR software company in HR tech using Next.js, TypeScript, Angular and Communication, onboarding 4 new enterprise clients.
+* Manufacturing IoT Payments Microservices Platform — a European manufacturer (2026-02 to 2026-09)
+  Re-architected a payments microservices platform for a European manufacturer in manufacturing IoT using Angular, Figma and TypeScript, accelerating releases by 40%.
+* Manufacturing IoT Customer Onboarding Platform — a European manufacturer (2025-04 to 2025-12)
+  Re-architected a customer onboarding platform for a European manufacturer in manufacturing IoT using Communication, Angular, TypeScript and Node.js, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Frontend Engineer, QA Engineer, Mobile Engineer, UX Designer

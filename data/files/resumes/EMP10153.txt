@@ -1,0 +1,28 @@
+GAURAV CHATTERJEE
+Associate Site Reliability Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10153
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 0.7 years of experience, based in Hyderabad. Strong in Site Reliability Engineering, Observability, Linux Administration and Terraform, with recent work in automotive. Interested in moving towards Platform Engineer, Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Proficient, 0.4y), Observability (Proficient, 0.4y), Linux Administration (Proficient, 0.5y), Terraform (Proficient, 0.5y), Kubernetes (Working, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+- Software Engineering: Go (Working, 0.3y), Python (Working, 0.3y)
+- Quality Engineering: Performance Testing (Working, 0.3y)
+
+EXPERIENCE
+* Automotive Cloud Landing Zone — a tier-1 car maker (2026-03 to present)
+  Modernised a cloud landing zone for a tier-1 car maker in automotive using Linux Administration, Performance Testing, Site Reliability Engineering and Communication, accelerating releases by 30%.
+* Automotive Data-centre Exit To Cloud — a global car maker (2024-10 to 2025-12)
+  Designed a data-centre exit to cloud for a global car maker in automotive using Terraform, Performance Testing, Site Reliability Engineering and Observability, cutting cloud spend by 30%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Platform Engineer, Security Engineer, Cloud Engineer

@@ -1,0 +1,30 @@
+SWATI RAO
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10765
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 7.9 years of experience, based in Pune. Strong in Go, REST API Design, SQL and Microservices, with recent work in retail banking. Interested in moving towards Software Architect, AI Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Software Engineering: Go (Expert, 7.1y), REST API Design (Advanced, 1.1y), Microservices (Proficient, 4.5y), Spring Boot (Proficient, 3.6y), Kafka (Proficient, 0.6y)
+- Data & AI: SQL (Proficient, 2.9y), Responsible AI (Working, 3.6y)
+- Cloud & DevOps: Kubernetes (Proficient, 5.5y)
+- Delivery & Leadership: Communication (Proficient, 1.4y)
+
+EXPERIENCE
+* Retail Banking Payments Microservices Platform — a global retail bank (2026-02 to present)
+  Scaled a payments microservices platform for a global retail bank in retail banking using Responsible AI, Kafka, SQL and REST API Design, reducing production incidents by 25%.
+* Retail Banking Self-service Portal — a European retail bank (2025-08 to 2026-01)
+  Built a self-service portal for a European retail bank in retail banking using Communication and Kafka, lifting NPS by 18 points.
+* Retail Banking Self-service Portal — a US retail bank (2024-03 to 2025-08)
+  Built a self-service portal for a US retail bank in retail banking using Kubernetes, REST API Design, Go and Spring Boot, saving ~25K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Software Architect, AI Engineer

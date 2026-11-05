@@ -1,0 +1,32 @@
+AAROHI TAN
+Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP11736
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4.4 years of experience, based in Pune. Strong in SQL, Data Visualization, Tableau and A/B Testing, with recent work in media streaming. Interested in moving towards Financial Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.1y), Data Visualization (Proficient, 0.4y), Tableau (Proficient, 3.0y), Statistics (Proficient, 1.3y), Snowflake (Proficient, 1.2y)
+- Product & Design: A/B Testing (Proficient, 2.9y), UX Research (Working, 1.8y)
+- Software Engineering: Python (Working, 1.5y)
+- Business & Finance: Business Analysis (Working, 1.1y)
+- Cloud & DevOps: Terraform (Working, 1.0y)
+- Delivery & Leadership: Communication (Working, 1.7y)
+
+EXPERIENCE
+* Media Streaming Regulatory Reporting Suite — a leading streaming platform (2026-03 to present)
+  Led the delivery of a regulatory reporting suite for a leading streaming platform in media streaming using UX Research and A/B Testing, reducing processing time by 35%.
+* Media Streaming Regulatory Reporting Suite — a tier-1 streaming platform (2024-09 to 2026-02)
+  Automated a regulatory reporting suite for a tier-1 streaming platform in media streaming using Python and SQL, saving ~30K hours annually.
+* Media Streaming Executive KPI Dashboard Suite — a US streaming platform (2024-01 to 2024-07)
+  Migrated an executive KPI dashboard suite for a US streaming platform in media streaming using Snowflake, Statistics, UX Research and A/B Testing, improving forecast accuracy by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Financial Analyst, Product Manager, Data Scientist

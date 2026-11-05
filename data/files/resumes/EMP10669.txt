@@ -1,0 +1,29 @@
+ANIRUDH HEGDE
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP10669
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14 years of experience, based in Pune. Strong in People Leadership, System Design, Agile/Scrum and Stakeholder Management, with recent work in e-commerce. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 9.7y), Agile/Scrum (Advanced, 5.3y), Stakeholder Management (Advanced, 8.2y), Mentoring (Proficient, 3.5y)
+- Software Engineering: System Design (Advanced, 3.7y), Java (Proficient, 1.9y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.9y)
+
+EXPERIENCE
+* Airline Operations Mobile Banking App — a fast-growing airline (2026-03 to present)
+  Built a mobile banking app for a fast-growing airline in airline operations using Mentoring and People Leadership, lifting NPS by 18 points.
+* Energy Trading Payments Microservices Platform — a European energy company (2025-01 to 2026-01)
+  Migrated a payments microservices platform for a European energy company in energy trading using People Leadership, Kubernetes, Agile/Scrum and System Design, reducing processing time by 22%.
+* E-commerce Pricing Engine — a European online retailer (2024-03 to 2024-11)
+  Automated a pricing engine for a European online retailer in e-commerce using System Design and Java, reducing processing time by 30%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect

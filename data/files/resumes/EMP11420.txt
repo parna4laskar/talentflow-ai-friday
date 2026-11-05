@@ -1,0 +1,27 @@
+SIDDHARTH AGARWAL
+Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP11420
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2.6 years of experience, based in Pune. Strong in Python, Machine Learning, Statistics and SQL, with recent work in media streaming. Interested in moving towards ML Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 1.5y)
+- Data & AI: Machine Learning (Proficient, 1.0y), Statistics (Proficient, 0.4y), SQL (Proficient, 0.8y), Generative AI (Proficient, 1.9y), NLP (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Healthcare Data Lakehouse — a global hospital network (2026-03 to present)
+  Scaled a data lakehouse for a global hospital network in healthcare using Communication and Generative AI, reducing processing time by 40%.
+* Manufacturing IoT Customer Churn Model — an APAC manufacturer (2025-05 to 2026-01)
+  Automated a customer churn model for an APAC manufacturer in manufacturing IoT using Statistics, NLP and Python, improving model accuracy by 40%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: ML Engineer, Data Analyst

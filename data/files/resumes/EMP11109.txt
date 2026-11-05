@@ -1,0 +1,36 @@
+SARAH ROY
+Data Engineer | Data & Analytics | Toronto, Canada
+Employee ID: EMP11109
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5.1 years of experience, based in Toronto. Strong in Kafka, SQL, Python and Data Engineering, with recent work in pharma R&D. Interested in moving towards Backend Engineer, Data Analyst roles and open to relocating to Austin.
+
+CORE SKILLS
+- Software Engineering: Kafka (Advanced, 4.1y), Python (Proficient, 2.7y)
+- Data & AI: SQL (Proficient, 1.3y), Data Engineering (Proficient, 2.4y), dbt (Proficient, 3.0y), Databricks (Proficient, 0.9y)
+- Cloud & DevOps: AWS (Proficient, 1.7y), Terraform (Working, 1.7y)
+- Quality Engineering: Playwright (Beginner, 0.6y)
+- Delivery & Leadership: Communication (Beginner, 0.9y)
+
+EXPERIENCE
+* Wealth Management Regulatory Reporting Suite — a US wealth manager (2026-08 to present)
+  Scaled a regulatory reporting suite for a US wealth manager in wealth management using Python, Kafka and dbt, reducing processing time by 35%.
+* Telecom Billing Regulatory Reporting Suite — a leading telecom operator (2025-11 to 2026-05)
+  Migrated a regulatory reporting suite for a leading telecom operator in telecom billing using AWS and Terraform, saving ~12K hours annually.
+* Healthcare Regulatory Reporting Suite — an APAC hospital network (2024-07 to 2025-08)
+  Modernised a regulatory reporting suite for an APAC hospital network in healthcare using Data Engineering, AWS and Kafka, saving ~25K hours annually.
+* Supply-chain Logistics Data Lakehouse — a US logistics company (2023-08 to 2024-04)
+  Modernised a data lakehouse for a US logistics company in supply-chain logistics using Python, Communication, Kafka and Data Engineering, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2021)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, Data Analyst

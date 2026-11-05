@@ -1,0 +1,33 @@
+POOJA NAIDU
+Lead Software Architect | Engineering | Pune, India
+Employee ID: EMP12678
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.8 years of experience, based in Pune. Strong in System Design, Microservices, Python and GCP, with recent work in HR tech. Interested in moving towards Software Architect, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 3.7y), Mentoring (Advanced, 10.0y), Stakeholder Management (Proficient, 1.7y)
+- Software Engineering: System Design (Advanced, 7.7y), Microservices (Advanced, 11.5y), Python (Advanced, 8.7y), REST API Design (Advanced, 13.0y), Kafka (Proficient, 6.5y)
+- Cloud & DevOps: GCP (Advanced, 6.5y), Kubernetes (Working, 5.3y)
+- Security: Cloud Security (Advanced, 12.5y)
+
+EXPERIENCE
+* E-commerce Payments Microservices Platform — a global online retailer (2026-05 to present)
+  Re-architected a payments microservices platform for a global online retailer in e-commerce using Mentoring and Stakeholder Management, accelerating releases by 40%.
+* Retail Banking Order Management System — a US retail bank (2025-01 to 2026-04)
+  Re-architected an order management system for a US retail bank in retail banking using Python, Kubernetes, GCP and Mentoring, reducing processing time by 25%.
+* Payments Payments Microservices Platform — a leading payments provider (2024-03 to 2024-10)
+  Designed a payments microservices platform for a leading payments provider in payments using Cloud Security, Kubernetes, Python and System Design, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- TOGAF 10 (2021)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Software Architect, Backend Engineer, DevOps Engineer

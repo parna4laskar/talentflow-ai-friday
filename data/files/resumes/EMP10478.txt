@@ -1,0 +1,28 @@
+HARPREET PAWAR
+DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10478
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 3.1 years of experience, based in Bengaluru. Strong in Docker, AWS, Terraform and CI/CD, with recent work in media streaming. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 1.3y), AWS (Advanced, 3.0y), Terraform (Advanced, 3.0y), CI/CD (Proficient, 0.9y), Kubernetes (Proficient, 2.2y), Linux Administration (Beginner, 0.3y)
+- Software Engineering: Go (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Data-centre Exit To Cloud — a European telecom operator (2026-09 to present)
+  Automated a data-centre exit to cloud for a European telecom operator in telecom billing using CI/CD and Terraform, cutting cloud spend by 18%.
+* E-commerce Observability Stack — a European online retailer (2025-10 to 2026-07)
+  Re-architected an observability stack for a European online retailer in e-commerce using Docker and AWS, reducing production incidents by 12%.
+* Media Streaming Cloud Landing Zone — an APAC streaming platform (2024-02 to 2025-08)
+  Migrated a cloud landing zone for an APAC streaming platform in media streaming using Terraform and CI/CD, accelerating releases by 12%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Site Reliability Engineer, Backend Engineer, Platform Engineer

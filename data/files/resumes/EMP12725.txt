@@ -1,0 +1,31 @@
+ISHITA DESHPANDE
+Senior DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12725
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 6.9 years of experience, based in Hyderabad. Strong in CI/CD, Kubernetes, AWS and Observability, with recent work in payments. Interested in moving towards Platform Engineer roles and open to relocating to London, Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 1.7y), Kubernetes (Proficient, 2.3y), AWS (Proficient, 4.4y), Observability (Proficient, 1.7y), Docker (Working, 0.9y)
+- Software Engineering: Go (Working, 0.8y)
+
+EXPERIENCE
+* Payments Data-centre Exit To Cloud — a tier-1 payments provider (2026-03 to present)
+  Led the delivery of a data-centre exit to cloud for a tier-1 payments provider in payments using Kubernetes, AWS, CI/CD and Go, cutting cloud spend by 18%.
+* Payments Cloud Landing Zone — an APAC payments provider (2025-03 to 2026-03)
+  Led the delivery of a cloud landing zone for an APAC payments provider in payments using AWS and CI/CD, cutting cloud spend by 18%.
+* Pharma R&D Kubernetes Platform — a European pharma company (2024-05 to 2025-01)
+  Modernised a Kubernetes platform for a European pharma company in pharma R&D using AWS, Docker and Observability, accelerating releases by 22%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2022)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Platform Engineer

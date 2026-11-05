@@ -1,0 +1,29 @@
+CIAN DOYLE
+Data Scientist | Data & Analytics | Dublin, Ireland
+Employee ID: EMP12903
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5.3 years of experience, based in Dublin. Strong in Machine Learning, SQL, Python and Statistics, with recent work in media streaming. Interested in moving towards AI Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 5.0y), SQL (Advanced, 1.1y), Statistics (Proficient, 2.5y), Data Visualization (Proficient, 3.1y), NLP (Proficient, 1.1y), Apache Spark (Working, 1.5y), Deep Learning (Working, 0.8y)
+- Software Engineering: Python (Proficient, 3.5y)
+- Product & Design: A/B Testing (Proficient, 0.9y)
+
+EXPERIENCE
+* Media Streaming Real-time Analytics Pipeline — a global streaming platform (2026-06 to present)
+  Automated a real-time analytics pipeline for a global streaming platform in media streaming using A/B Testing, SQL, Data Visualization and Python, cutting cloud spend by 35%.
+* Media Streaming Customer Churn Model — a leading streaming platform (2025-08 to 2026-05)
+  Migrated a customer churn model for a leading streaming platform in media streaming using Data Visualization, Apache Spark and Machine Learning, improving conversion by 18%.
+* Retail Banking Executive KPI Dashboard Suite — a fast-growing retail bank (2024-12 to 2025-06)
+  Modernised an executive KPI dashboard suite for a fast-growing retail bank in retail banking using A/B Testing, Python, Machine Learning and Statistics, saving ~22K hours annually.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Irish, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, Data Analyst, ML Engineer

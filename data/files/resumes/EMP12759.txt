@@ -1,0 +1,30 @@
+FARHAN KAUR
+Lead Engineering Manager | Engineering | Gurugram, India
+Employee ID: EMP12759
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14.8 years of experience, based in Gurugram. Strong in People Leadership, System Design, Stakeholder Management and Communication, with recent work in energy trading. Interested in moving towards Software Architect, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 9.8y), Stakeholder Management (Advanced, 4.9y), Communication (Advanced, 7.0y), Agile/Scrum (Proficient, 6.7y), Mentoring (Proficient, 9.2y)
+- Software Engineering: System Design (Advanced, 6.2y)
+
+EXPERIENCE
+* Energy Trading Self-service Portal — a US energy company (2026-07 to present)
+  Migrated a self-service portal for a US energy company in energy trading using People Leadership, Mentoring, System Design and Agile/Scrum, lifting NPS by 30 points.
+* Energy Trading Order Management System — a tier-1 energy company (2025-08 to 2026-05)
+  Scaled an order management system for a tier-1 energy company in energy trading using Stakeholder Management, Communication and System Design, reducing processing time by 18%.
+* Energy Trading Pricing Engine — a European energy company (2023-12 to 2025-05)
+  Re-architected a pricing engine for a European energy company in energy trading using Mentoring and Communication, reducing processing time by 35%.
+* Supply-chain Logistics Payments Microservices Platform — an APAC logistics company (2023-01 to 2023-10)
+  Modernised a payments microservices platform for an APAC logistics company in supply-chain logistics using Agile/Scrum, System Design, Stakeholder Management and Communication, accelerating releases by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Scrum Master, Program Manager

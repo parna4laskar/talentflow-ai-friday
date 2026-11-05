@@ -1,0 +1,27 @@
+MANISH MARTIN
+Security Analyst | Cyber Security | Pune, India
+Employee ID: EMP11125
+
+PROFESSIONAL SUMMARY
+Security Analyst with 2.6 years of experience, based in Pune. Strong in SIEM, Linux Administration, GRC and Incident Response, with recent work in airline operations. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Security: SIEM (Expert, 1.9y), GRC (Proficient, 0.5y), Incident Response (Working, 1.0y), Cloud Security (Working, 1.1y)
+- Cloud & DevOps: Linux Administration (Proficient, 0.7y), Terraform (Beginner, 0.4y)
+- Software Engineering: Python (Working, 0.8y)
+
+EXPERIENCE
+* Airline Operations Cloud Security Posture Programme — a leading airline (2026-05 to present)
+  Led the delivery of a cloud security posture programme for a leading airline in airline operations using GRC, Cloud Security and Incident Response, closing 22% of open audit findings.
+* Airline Operations Secure SDLC Rollout — a European airline (2024-10 to 2026-03)
+  Modernised a secure SDLC rollout for a European airline in airline operations using Terraform, Incident Response and Python, reducing production incidents by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, DevOps Engineer

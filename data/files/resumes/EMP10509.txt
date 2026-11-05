@@ -1,0 +1,29 @@
+SANJANA SEN
+Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP10509
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.1 years of experience, based in Pune. Strong in TypeScript, React, Python and Microservices, with recent work in energy trading. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to Hyderabad, London.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 2.3y), React (Proficient, 2.1y), Python (Proficient, 1.0y), Microservices (Proficient, 0.7y), Next.js (Working, 2.2y), Node.js (Working, 1.7y)
+- Data & AI: SQL (Working, 1.7y)
+- People & Marketing: People Analytics (Working, 1.8y)
+
+EXPERIENCE
+* Wealth Management Order Management System — a leading wealth manager (2026-01 to present)
+  Migrated an order management system for a leading wealth manager in wealth management using SQL, TypeScript and Node.js, onboarding 5 new enterprise clients.
+* Insurance Claims Mobile Banking App — a global insurer (2024-11 to 2025-11)
+  Built a mobile banking app for a global insurer in insurance claims using People Analytics, SQL and TypeScript, improving conversion by 40%.
+* Energy Trading Payments Microservices Platform — a tier-1 energy company (2023-10 to 2024-11)
+  Modernised a payments microservices platform for a tier-1 energy company in energy trading using Next.js, TypeScript and Microservices, reducing processing time by 12%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Software Architect, Mobile Engineer

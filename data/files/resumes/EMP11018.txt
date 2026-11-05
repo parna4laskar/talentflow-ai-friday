@@ -1,0 +1,30 @@
+MADISON CHEN
+Lead Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP11018
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 14.1 years of experience, based in New York. Strong in Databricks, SQL, Python and Data Engineering, with recent work in manufacturing IoT. Interested in moving towards Backend Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Databricks (Expert, 9.4y), SQL (Advanced, 6.2y), Data Engineering (Advanced, 5.2y), Airflow (Advanced, 13.2y), dbt (Proficient, 6.2y)
+- Software Engineering: Python (Advanced, 4.6y)
+- Delivery & Leadership: Mentoring (Advanced, 4.4y), Stakeholder Management (Advanced, 13.9y), People Leadership (Advanced, 6.3y)
+- Cloud & DevOps: Kubernetes (Working, 3.3y)
+
+EXPERIENCE
+* Manufacturing IoT Regulatory Reporting Suite — a US manufacturer (2026-01 to present)
+  Led the delivery of a regulatory reporting suite for a US manufacturer in manufacturing IoT using Data Engineering, SQL, Databricks and Stakeholder Management, saving ~25K hours annually.
+* Manufacturing IoT Executive KPI Dashboard Suite — a European manufacturer (2024-10 to 2025-12)
+  Modernised an executive KPI dashboard suite for a European manufacturer in manufacturing IoT using Mentoring, Airflow and Data Engineering, saving ~12K hours annually.
+* Automotive Data Lakehouse — a tier-1 car maker (2023-04 to 2024-08)
+  Re-architected a data lakehouse for a tier-1 car maker in automotive using Mentoring, SQL, Stakeholder Management and dbt, cutting cloud spend by 35%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, ML Engineer

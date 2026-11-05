@@ -1,0 +1,34 @@
+IMRAN TAYLOR
+Senior Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP12685
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 6 years of experience, based in Chennai. Strong in SQL, C#, Microservices and Kafka, with recent work in payments. Interested in moving towards AI Engineer, Software Architect roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 1.3y), LLM Engineering (Working, 1.8y)
+- Software Engineering: C# (Advanced, 1.8y), Microservices (Advanced, 1.4y), Kafka (Advanced, 4.2y), REST API Design (Proficient, 2.2y)
+- Cloud & DevOps: CI/CD (Advanced, 4.4y)
+
+EXPERIENCE
+* Media Streaming Self-service Portal — a fast-growing streaming platform (2026-02 to present)
+  Built a self-service portal for a fast-growing streaming platform in media streaming using SQL and LLM Engineering, lifting NPS by 30 points.
+* Payments Mobile Banking App — a US payments provider (2025-02 to 2025-11)
+  Designed a mobile banking app for a US payments provider in payments using Kafka, SQL and Microservices, lifting NPS by 35 points.
+* Payments Mobile Banking App — a fast-growing payments provider (2024-03 to 2025-01)
+  Re-architected a mobile banking app for a fast-growing payments provider in payments using Microservices and Kafka, improving conversion by 40%.
+* Payments Self-service Portal — a US payments provider (2023-05 to 2024-03)
+  Scaled a self-service portal for a US payments provider in payments using CI/CD, LLM Engineering, Microservices and C#, saving ~40K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: AI Engineer, Software Architect, Full Stack Engineer

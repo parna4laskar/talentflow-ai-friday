@@ -1,0 +1,33 @@
+SHREYA KIM
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11890
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.5 years of experience, based in Pune. Strong in Microservices, Python, REST API Design and SQL, with recent work in wealth management. Interested in moving towards Backend Engineer, Full Stack Engineer roles and open to relocating to Toronto, New York.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 2.8y), Python (Proficient, 0.6y), REST API Design (Proficient, 1.0y), System Design (Proficient, 1.3y), .NET Core (Working, 0.7y), Kafka (Working, 0.9y)
+- Data & AI: SQL (Proficient, 2.5y), Data Engineering (Working, 1.0y)
+
+EXPERIENCE
+* E-commerce Self-service Portal — an APAC online retailer (2026-03 to present)
+  Led the delivery of a self-service portal for an APAC online retailer in e-commerce using System Design and REST API Design, saving ~30K hours annually.
+* Wealth Management Mobile Banking App — a leading wealth manager (2024-10 to 2026-02)
+  Re-architected a mobile banking app for a leading wealth manager in wealth management using Data Engineering, System Design, SQL and Kafka, lifting NPS by 25 points.
+* Wealth Management Order Management System — a tier-1 wealth manager (2023-09 to 2024-08)
+  Modernised an order management system for a tier-1 wealth manager in wealth management using Python and Microservices, onboarding 8 new enterprise clients.
+* Wealth Management Order Management System — a leading wealth manager (2022-11 to 2023-08)
+  Automated an order management system for a leading wealth manager in wealth management using Python, .NET Core and System Design, reducing processing time by 25%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Full Stack Engineer, Engineering Manager

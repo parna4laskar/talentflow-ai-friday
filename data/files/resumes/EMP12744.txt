@@ -1,0 +1,34 @@
+SIMRAN PATIL
+Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12744
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4.4 years of experience, based in Pune. Strong in SQL, Python, Data Engineering and Databricks, with recent work in e-commerce. Interested in moving towards Data Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.3y), Data Engineering (Proficient, 1.4y), Databricks (Proficient, 2.1y), Data Governance (Proficient, 0.6y), dbt (Proficient, 1.7y), Airflow (Working, 1.7y)
+- Software Engineering: Python (Proficient, 1.6y)
+- Cloud & DevOps: AWS (Proficient, 2.9y)
+
+EXPERIENCE
+* Pharma R&D Real-time Analytics Pipeline — an APAC pharma company (2026-03 to present)
+  Led the delivery of a real-time analytics pipeline for an APAC pharma company in pharma R&D using Python, SQL, Airflow and AWS, cutting cloud spend by 35%.
+* Media Streaming Customer Churn Model — a leading streaming platform (2024-09 to 2025-12)
+  Re-architected a customer churn model for a leading streaming platform in media streaming using dbt, Data Engineering and Databricks, improving model accuracy by 40%.
+* E-commerce Executive KPI Dashboard Suite — a leading online retailer (2023-01 to 2024-06)
+  Designed an executive KPI dashboard suite for a leading online retailer in e-commerce using Data Engineering and AWS, saving ~35K hours annually.
+* E-commerce Customer Churn Model — a European online retailer (2021-09 to 2022-11)
+  Re-architected a customer churn model for a European online retailer in e-commerce using Airflow and Databricks, improving model accuracy by 25%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Engineer, AI Engineer, ML Engineer

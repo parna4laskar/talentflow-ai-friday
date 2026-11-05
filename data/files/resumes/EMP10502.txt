@@ -1,0 +1,28 @@
+PAWEŁ MUKHERJEE
+Associate Product Manager | Product | Kraków, Poland
+Employee ID: EMP10502
+
+PROFESSIONAL SUMMARY
+Associate Product Manager with 1.9 years of experience, based in Kraków. Strong in Product Management, Roadmapping, Stakeholder Management and SQL, with recent work in manufacturing IoT. Interested in moving towards Product Manager, Scrum Master roles.
+
+CORE SKILLS
+- Product & Design: Product Management (Proficient, 1.2y), Roadmapping (Proficient, 0.9y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.1y), Communication (Working, 0.6y), Agile/Scrum (Working, 0.9y)
+- Data & AI: SQL (Working, 0.6y), Generative AI (Working, 0.6y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.5y), FinOps (Beginner, 0.4y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile App Relaunch — a tier-1 manufacturer (2025-09 to present)
+  Owned a mobile app relaunch for a tier-1 manufacturer in manufacturing IoT using Agile/Scrum and FinOps, lifting NPS by 35 points.
+* Manufacturing IoT AI-assisted Customer Journey — a fast-growing manufacturer (2024-09 to 2025-07)
+  Launched an AI-assisted customer journey for a fast-growing manufacturer in manufacturing IoT using Roadmapping, SQL, Product Management and Kubernetes, improving conversion by 22%.
+
+EDUCATION
+- B.Tech + MBA
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager, Scrum Master, Business Analyst, Project Manager

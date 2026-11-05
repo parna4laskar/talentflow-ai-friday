@@ -1,0 +1,32 @@
+HARPREET BANERJEE
+Senior Platform Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10126
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 11 years of experience, based in Hyderabad. Strong in Kubernetes, CI/CD, Observability and Terraform, with recent work in telecom billing. Interested in moving towards Site Reliability Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 8.2y), CI/CD (Advanced, 8.8y), Observability (Advanced, 0.9y), Terraform (Proficient, 2.5y), Site Reliability Engineering (Proficient, 7.5y), Platform Engineering (Beginner, 2.2y)
+- Software Engineering: Go (Proficient, 3.7y), Python (Proficient, 6.9y)
+- Data & AI: Responsible AI (Working, 1.9y)
+
+EXPERIENCE
+* HR Tech Data-centre Exit To Cloud — a global HR software company (2026-01 to present)
+  Scaled a data-centre exit to cloud for a global HR software company in HR tech using Python, Observability and Terraform, cutting cloud spend by 22%.
+* Telecom Billing Kubernetes Platform — an APAC telecom operator (2025-04 to 2025-10)
+  Led the delivery of a Kubernetes platform for an APAC telecom operator in telecom billing using Site Reliability Engineering, Python, Go and Terraform, reducing production incidents by 12%.
+* Airline Operations Cloud Landing Zone — a US airline (2023-12 to 2025-02)
+  Scaled a cloud landing zone for a US airline in airline operations using Platform Engineering, Terraform, Responsible AI and Go, cutting cloud spend by 40%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer, Backend Engineer, DevOps Engineer

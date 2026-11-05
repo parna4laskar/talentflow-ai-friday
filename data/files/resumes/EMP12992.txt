@@ -1,0 +1,29 @@
+ROHAN IYER
+Senior Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP12992
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 5.9 years of experience, based in Hyderabad. Strong in Data Visualization, SQL, Power BI and Python, with recent work in wealth management. Interested in moving towards Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 2.1y), SQL (Proficient, 0.6y), Power BI (Proficient, 2.8y), Statistics (Working, 1.7y)
+- Software Engineering: Python (Proficient, 3.5y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.7y)
+
+EXPERIENCE
+* Wealth Management Regulatory Reporting Suite — an APAC wealth manager (2026-05 to present)
+  Modernised a regulatory reporting suite for an APAC wealth manager in wealth management using Data Visualization, Power BI and Python, saving ~18K hours annually.
+* Wealth Management Data Lakehouse — a global wealth manager (2024-11 to 2026-04)
+  Built a data lakehouse for a global wealth manager in wealth management using Data Visualization and Kubernetes, reducing processing time by 30%.
+* HR Tech Real-time Analytics Pipeline — a fast-growing HR software company (2023-06 to 2024-09)
+  Designed a real-time analytics pipeline for a fast-growing HR software company in HR tech using Statistics, Power BI, Python and Data Visualization, cutting cloud spend by 40%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Product Manager

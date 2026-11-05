@@ -1,0 +1,26 @@
+NIKHIL HEGDE
+Associate Platform Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP10563
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 2.5 years of experience, based in Chennai. Strong in Kubernetes, CI/CD, Platform Engineering and Terraform, with recent work in pharma R&D. Interested in moving towards Platform Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 0.5y), CI/CD (Advanced, 0.9y), Platform Engineering (Proficient, 1.7y), Terraform (Proficient, 1.3y), AWS (Proficient, 1.1y), Observability (Proficient, 1.6y), Site Reliability Engineering (Working, 0.7y)
+- Software Engineering: Go (Proficient, 1.8y), Python (Working, 0.4y)
+
+EXPERIENCE
+* Pharma R&D Kubernetes Platform — an APAC pharma company (2025-12 to present)
+  Modernised a Kubernetes platform for an APAC pharma company in pharma R&D using Site Reliability Engineering, Terraform, Platform Engineering and CI/CD, accelerating releases by 12%.
+* Pharma R&D Cloud Landing Zone — an APAC pharma company (2024-12 to 2025-12)
+  Built a cloud landing zone for an APAC pharma company in pharma R&D using CI/CD and Platform Engineering, accelerating releases by 25%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Platform Engineer, Site Reliability Engineer, DevOps Engineer, Backend Engineer

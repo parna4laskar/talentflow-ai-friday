@@ -1,0 +1,33 @@
+MEI DAVIS
+Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP11228
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5.5 years of experience, based in New York. Strong in Python, Data Engineering, Airflow and SQL, with recent work in healthcare. Interested in moving towards Data Analyst, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.6y)
+- Data & AI: Data Engineering (Advanced, 4.3y), Airflow (Advanced, 3.7y), SQL (Proficient, 0.9y), dbt (Proficient, 3.8y), Data Governance (Working, 0.7y)
+
+EXPERIENCE
+* E-commerce Executive KPI Dashboard Suite — a leading online retailer (2026-03 to present)
+  Migrated an executive KPI dashboard suite for a leading online retailer in e-commerce using Data Governance, Airflow, dbt and Data Engineering, improving forecast accuracy by 25%.
+* Healthcare Customer Churn Model — a tier-1 hospital network (2024-07 to 2026-01)
+  Re-architected a customer churn model for a tier-1 hospital network in healthcare using Data Governance, Airflow, dbt and Data Engineering, improving model accuracy by 40%.
+* Healthcare Customer Churn Model — a global hospital network (2023-11 to 2024-06)
+  Scaled a customer churn model for a global hospital network in healthcare using Python, SQL and Data Governance, improving conversion by 25%.
+* Healthcare Customer Churn Model — a global hospital network (2022-11 to 2023-08)
+  Modernised a customer churn model for a global hospital network in healthcare using SQL, Python and Airflow, improving model accuracy by 12%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Analyst, ML Engineer, Backend Engineer

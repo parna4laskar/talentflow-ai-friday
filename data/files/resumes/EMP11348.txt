@@ -1,0 +1,34 @@
+JASMINE MILLER
+Senior ML Engineer | AI Center of Excellence | New York, United States
+Employee ID: EMP11348
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 10.7 years of experience, based in New York. Strong in Python, Machine Learning, MLOps and Databricks, with recent work in insurance claims. Interested in moving towards ML Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 4.7y)
+- Data & AI: Machine Learning (Proficient, 4.0y), MLOps (Proficient, 1.5y), Databricks (Proficient, 5.0y), Deep Learning (Working, 2.1y), Apache Spark (Working, 3.1y), LLM Engineering (Working, 2.0y)
+- Cloud & DevOps: Docker (Proficient, 3.7y)
+
+EXPERIENCE
+* Insurance Claims Agentic Customer-service Assistant — a European insurer (2026-02 to present)
+  Led the delivery of an agentic customer-service assistant for a European insurer in insurance claims using Apache Spark, MLOps, Python and Databricks, saving ~18K hours annually.
+* Manufacturing IoT Recommendation Engine — a tier-1 manufacturer (2025-06 to 2026-01)
+  Led the delivery of a recommendation engine for a tier-1 manufacturer in manufacturing IoT using Databricks and LLM Engineering, improving model accuracy by 12%.
+* Insurance Claims Knowledge Assistant (RAG) — an APAC insurer (2024-10 to 2025-05)
+  Migrated a knowledge assistant (RAG) for an APAC insurer in insurance claims using MLOps and Python, saving ~12K hours annually.
+* Insurance Claims Recommendation Engine — a fast-growing insurer (2024-02 to 2024-07)
+  Automated a recommendation engine for a fast-growing insurer in insurance claims using Docker, Python, Deep Learning and Apache Spark, improving model accuracy by 35%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2026)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, Platform Engineer

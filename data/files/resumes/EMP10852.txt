@@ -1,0 +1,29 @@
+AARAV DAS
+Senior Business Analyst | Business Consulting | Chennai, India
+Employee ID: EMP10852
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 5.2 years of experience, based in Chennai. Strong in Business Analysis, Communication, Requirements Gathering and Stakeholder Management, with recent work in payments. Interested in moving towards Business Analyst, Account Manager roles and open to relocating to Pune.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 4.3y), Requirements Gathering (Proficient, 0.7y), Salesforce (Working, 1.6y)
+- Delivery & Leadership: Communication (Advanced, 4.3y), Stakeholder Management (Proficient, 2.2y)
+- Cloud & DevOps: Terraform (Proficient, 3.8y)
+
+EXPERIENCE
+* Payments Core Banking Transformation Programme — a tier-1 payments provider (2026-06 to present)
+  Led a core banking transformation programme for a tier-1 payments provider in payments using Requirements Gathering, Salesforce and Stakeholder Management, delivering $2M in cost savings.
+* Airline Operations Requirements and UAT for a CRM Rollout — a fast-growing airline (2025-12 to 2026-05)
+  Ran a requirements and UAT for a CRM rollout for a fast-growing airline in airline operations using Terraform, Requirements Gathering and Communication, delivering on time across 4 workstreams.
+* Payments Agile Transformation — a tier-1 payments provider (2024-12 to 2025-11)
+  Led an agile transformation for a tier-1 payments provider in payments using Salesforce, Business Analysis and Communication, accelerating releases by 18%.
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, Account Manager, Data Analyst

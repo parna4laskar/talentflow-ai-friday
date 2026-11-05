@@ -1,0 +1,32 @@
+DARRAGH O'BRIEN
+Lead Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP11085
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 12 years of experience, based in Dublin. Strong in Go, REST API Design, SQL and Microservices, with recent work in retail banking. Interested in moving towards Full Stack Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 8.6y), REST API Design (Advanced, 6.1y), Microservices (Proficient, 7.6y), Kafka (Proficient, 6.9y), .NET Core (Proficient, 5.4y)
+- Data & AI: SQL (Advanced, 9.8y)
+- Cloud & DevOps: CI/CD (Proficient, 6.6y), Kubernetes (Proficient, 7.0y)
+
+EXPERIENCE
+* Retail Banking Payments Microservices Platform — a global retail bank (2025-08 to present)
+  Migrated a payments microservices platform for a global retail bank in retail banking using Kafka, Microservices, REST API Design and .NET Core, reducing production incidents by 22%.
+* Automotive Self-service Portal — a global car maker (2024-07 to 2025-08)
+  Designed a self-service portal for a global car maker in automotive using Microservices, SQL and Kafka, lifting NPS by 12 points.
+* Energy Trading Order Management System — an APAC energy company (2023-01 to 2024-05)
+  Scaled an order management system for an APAC energy company in energy trading using REST API Design and SQL, reducing processing time by 40%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Irish, Marathi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, DevOps Engineer

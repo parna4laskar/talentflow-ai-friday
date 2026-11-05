@@ -1,0 +1,30 @@
+IMRAN NAIDU
+Associate Security Engineer | Cyber Security | Pune, India
+Employee ID: EMP11093
+
+PROFESSIONAL SUMMARY
+Associate Security Engineer with 2.9 years of experience, based in Pune. Strong in Application Security, Threat Modeling, Identity & Access Management and GRC, with recent work in energy trading. Interested in moving towards Security Engineer, Software Architect roles and open to relocating to Austin.
+
+CORE SKILLS
+- Security: Application Security (Working, 1.1y), Threat Modeling (Working, 0.8y), Identity & Access Management (Working, 0.4y), GRC (Working, 0.4y)
+- Cloud & DevOps: AWS (Beginner, 0.3y)
+- Software Engineering: Python (Beginner, 0.6y)
+
+EXPERIENCE
+* Energy Trading Cloud Security Posture Programme — a leading energy company (2026-07 to present)
+  Re-architected a cloud security posture programme for a leading energy company in energy trading using Identity & Access Management, AWS and Python, reducing production incidents by 35%.
+* Pharma R&D Cloud Security Posture Programme — a tier-1 pharma company (2025-05 to 2026-05)
+  Automated a cloud security posture programme for a tier-1 pharma company in pharma R&D using AWS and Application Security, closing 40% of open audit findings.
+
+CERTIFICATIONS
+- CISSP (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Security Engineer, Software Architect, Cloud Engineer, Security Analyst

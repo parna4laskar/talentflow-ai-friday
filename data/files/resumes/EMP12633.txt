@@ -1,0 +1,34 @@
+JIA HUI LIM
+Lead Data Analyst | Data & Analytics | Singapore, Singapore
+Employee ID: EMP12633
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 13 years of experience, based in Singapore. Strong in SQL, Data Visualization, Statistics and Stakeholder Management, with recent work in supply-chain logistics. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 10.3y), Data Visualization (Advanced, 3.0y), Statistics (Advanced, 7.9y), Power BI (Proficient, 5.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.3y)
+- Business & Finance: Business Analysis (Proficient, 2.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Data Lakehouse — a tier-1 logistics company (2025-12 to present)
+  Modernised a data lakehouse for a tier-1 logistics company in supply-chain logistics using Power BI, Statistics and Business Analysis, reducing processing time by 35%.
+* Pharma R&D Real-time Analytics Pipeline — a European pharma company (2024-06 to 2025-10)
+  Migrated a real-time analytics pipeline for a European pharma company in pharma R&D using Statistics and Stakeholder Management, cutting cloud spend by 25%.
+* Airline Operations Real-time Analytics Pipeline — a European airline (2023-04 to 2024-03)
+  Led the delivery of a real-time analytics pipeline for a European airline in airline operations using SQL and Data Visualization, cutting cloud spend by 25%.
+* Wealth Management Executive KPI Dashboard Suite — a leading wealth manager (2022-04 to 2023-03)
+  Re-architected an executive KPI dashboard suite for a leading wealth manager in wealth management using Stakeholder Management, Business Analysis, Data Visualization and Power BI, saving ~18K hours annually.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2023)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Scientist

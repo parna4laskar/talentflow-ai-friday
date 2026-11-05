@@ -1,0 +1,29 @@
+ROHAN PILLAI
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12780
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4 years of experience, based in Hyderabad. Strong in Go, REST API Design, Microservices and SQL, with recent work in media streaming. Interested in moving towards Engineering Manager, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 1.8y), REST API Design (Advanced, 3.7y), Microservices (Advanced, 1.3y), Spring Boot (Proficient, 1.8y), System Design (Working, 0.7y)
+- Data & AI: SQL (Proficient, 2.3y), Agentic AI (Working, 1.6y)
+- Cloud & DevOps: Kubernetes (Working, 0.3y), AWS (Beginner, 0.3y)
+
+EXPERIENCE
+* Media Streaming Pricing Engine — an APAC streaming platform (2026-08 to present)
+  Designed a pricing engine for an APAC streaming platform in media streaming using Kubernetes, Go and AWS, improving conversion by 22%.
+* Media Streaming Mobile Banking App — a tier-1 streaming platform (2025-10 to 2026-05)
+  Designed a mobile banking app for a tier-1 streaming platform in media streaming using Spring Boot and REST API Design, improving conversion by 18%.
+* Telecom Billing Mobile Banking App — an APAC telecom operator (2024-07 to 2025-10)
+  Designed a mobile banking app for an APAC telecom operator in telecom billing using SQL and REST API Design, improving conversion by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager, DevOps Engineer

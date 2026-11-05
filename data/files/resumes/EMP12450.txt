@@ -1,0 +1,35 @@
+HARINI CAMPBELL
+Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP12450
+
+PROFESSIONAL SUMMARY
+Data Analyst with 3.2 years of experience, based in Bengaluru. Strong in SQL, Data Visualization, Stakeholder Management and Power BI, with recent work in insurance claims. Interested in moving towards Product Manager, Financial Analyst roles and open to relocating to Kraków, Hyderabad, New York.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.6y), Data Visualization (Proficient, 0.7y), Power BI (Working, 1.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.3y)
+- Business & Finance: Business Analysis (Working, 0.6y)
+- Product & Design: A/B Testing (Working, 0.7y)
+
+EXPERIENCE
+* Retail Banking Real-time Analytics Pipeline — a European retail bank (2026-01 to present)
+  Led the delivery of a real-time analytics pipeline for a European retail bank in retail banking using A/B Testing, Stakeholder Management, Power BI and Data Visualization, cutting cloud spend by 22%.
+* Insurance Claims Executive KPI Dashboard Suite — an APAC insurer (2024-12 to 2025-10)
+  Scaled an executive KPI dashboard suite for an APAC insurer in insurance claims using Business Analysis, SQL, Data Visualization and Power BI, saving ~40K hours annually.
+* Retail Banking Customer Churn Model — a fast-growing retail bank (2023-06 to 2024-10)
+  Migrated a customer churn model for a fast-growing retail bank in retail banking using Stakeholder Management and Business Analysis, improving conversion by 40%.
+* E-commerce Regulatory Reporting Suite — a US online retailer (2022-04 to 2023-04)
+  Built a regulatory reporting suite for a US online retailer in e-commerce using SQL and Business Analysis, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2024)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Product Manager, Financial Analyst

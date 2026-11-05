@@ -1,0 +1,33 @@
+KAVYA PILLAI
+Lead Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11677
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 10.6 years of experience, based in Gurugram. Strong in TypeScript, JavaScript, React and GraphQL, with recent work in pharma R&D. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 6.8y), JavaScript (Advanced, 3.4y), React (Advanced, 10.6y), GraphQL (Advanced, 7.1y), Next.js (Advanced, 2.8y)
+- Product & Design: Design Systems (Proficient, 6.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.2y)
+- Quality Engineering: Playwright (Working, 1.4y)
+
+EXPERIENCE
+* Pharma R&D Mobile Banking App — a US pharma company (2026-03 to present)
+  Automated a mobile banking app for a US pharma company in pharma R&D using React, Playwright and Stakeholder Management, improving conversion by 30%.
+* Retail Banking Payments Microservices Platform — a US retail bank (2024-10 to 2026-01)
+  Re-architected a payments microservices platform for a US retail bank in retail banking using TypeScript, React, GraphQL and Design Systems, reducing processing time by 25%.
+* Pharma R&D Order Management System — a leading pharma company (2023-10 to 2024-09)
+  Built an order management system for a leading pharma company in pharma R&D using React, TypeScript and GraphQL, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer, QA Engineer, Mobile Engineer, UX Designer

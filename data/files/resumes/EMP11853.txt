@@ -1,0 +1,32 @@
+MAGDALENA LEWANDOWSKI
+Senior DevOps Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11853
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 10.7 years of experience, based in Kraków. Strong in Linux Administration, CI/CD, Docker and AWS, with recent work in automotive. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Expert, 1.7y), CI/CD (Advanced, 1.9y), Docker (Proficient, 7.1y), AWS (Proficient, 5.0y), Terraform (Proficient, 4.6y), Kubernetes (Working, 3.6y)
+- Software Engineering: Python (Proficient, 4.9y), Go (Beginner, 2.1y)
+- Data & AI: Databricks (Proficient, 7.6y)
+- Delivery & Leadership: Communication (Working, 4.5y)
+
+EXPERIENCE
+* Automotive Cloud Landing Zone — a fast-growing car maker (2025-11 to present)
+  Scaled a cloud landing zone for a fast-growing car maker in automotive using CI/CD, Python and Kubernetes, cutting cloud spend by 22%.
+* Automotive CI/CD Platform — a US car maker (2024-11 to 2025-10)
+  Automated a CI/CD platform for a US car maker in automotive using Go and CI/CD, accelerating releases by 25%.
+* Manufacturing IoT CI/CD Platform — a US manufacturer (2024-02 to 2024-09)
+  Automated a CI/CD platform for a US manufacturer in manufacturing IoT using Kubernetes, Communication and Python, accelerating releases by 22%.
+* Supply-chain Logistics Data-centre Exit To Cloud — an APAC logistics company (2023-05 to 2023-12)
+  Built a data-centre exit to cloud for an APAC logistics company in supply-chain logistics using Communication, CI/CD and Kubernetes, delivering $2M in cost savings.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+Polish, English, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, Backend Engineer, Cloud Engineer

@@ -1,0 +1,32 @@
+PRASAD KAPOOR
+Lead Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10089
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 14.5 years of experience, based in Pune. Strong in Docker, REST API Design, SQL and Microservices, with recent work in e-commerce. Interested in moving towards Software Architect, Full Stack Engineer roles and open to relocating to Kraków, Austin, Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Expert, 8.5y)
+- Delivery & Leadership: People Leadership (Expert, 2.3y)
+- Software Engineering: REST API Design (Advanced, 12.5y), Microservices (Advanced, 6.4y), Spring Boot (Advanced, 5.9y), Java (Proficient, 6.2y)
+- Data & AI: SQL (Advanced, 13.4y)
+
+EXPERIENCE
+* E-commerce Self-service Portal — a leading online retailer (2026-10 to present)
+  Re-architected a self-service portal for a leading online retailer in e-commerce using Docker, SQL, Microservices and Java, saving ~35K hours annually.
+* E-commerce Mobile Banking App — an APAC online retailer (2025-12 to 2026-08)
+  Automated a mobile banking app for an APAC online retailer in e-commerce using REST API Design, SQL, Java and Microservices, lifting NPS by 22 points.
+* Airline Operations Order Management System — a fast-growing airline (2024-06 to 2025-10)
+  Modernised an order management system for a fast-growing airline in airline operations using Spring Boot and Microservices, reducing processing time by 18%.
+* E-commerce Claims Processing Engine — a tier-1 online retailer (2022-10 to 2024-04)
+  Led the delivery of a claims processing engine for a tier-1 online retailer in e-commerce using Spring Boot, Java and Docker, saving ~22K hours annually.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Full Stack Engineer

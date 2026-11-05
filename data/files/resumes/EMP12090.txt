@@ -1,0 +1,34 @@
+ABHISHEK NAIR
+Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP12090
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5 years of experience, based in Hyderabad. Strong in Python, Data Engineering, Apache Spark and SQL, with recent work in telecom billing. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.5y), Kafka (Working, 1.3y)
+- Data & AI: Data Engineering (Proficient, 1.8y), Apache Spark (Proficient, 1.1y), SQL (Working, 1.8y), Data Governance (Working, 1.2y), LLM Engineering (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Working, 1.2y)
+
+EXPERIENCE
+* Telecom Billing Regulatory Reporting Suite — an APAC telecom operator (2025-08 to present)
+  Modernised a regulatory reporting suite for an APAC telecom operator in telecom billing using Python, Data Engineering, Apache Spark and Kafka, reducing processing time by 22%.
+* Telecom Billing Real-time Analytics Pipeline — a global telecom operator (2024-07 to 2025-06)
+  Automated a real-time analytics pipeline for a global telecom operator in telecom billing using Communication, SQL, Kafka and Python, reducing processing time by 22%.
+* Insurance Claims Real-time Analytics Pipeline — a US insurer (2023-09 to 2024-05)
+  Scaled a real-time analytics pipeline for a US insurer in insurance claims using LLM Engineering, Communication and Kafka, reducing processing time by 22%.
+* Telecom Billing Regulatory Reporting Suite — a tier-1 telecom operator (2022-12 to 2023-09)
+  Modernised a regulatory reporting suite for a tier-1 telecom operator in telecom billing using Apache Spark, Data Engineering, SQL and Data Governance, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2022)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, AI Engineer

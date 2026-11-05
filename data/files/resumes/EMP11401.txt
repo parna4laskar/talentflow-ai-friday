@@ -1,0 +1,30 @@
+MATEUSZ LEWANDOWSKI
+QA Engineer | Quality Engineering | Kraków, Poland
+Employee ID: EMP11401
+
+PROFESSIONAL SUMMARY
+QA Engineer with 4.1 years of experience, based in Kraków. Strong in Test Automation, Playwright, API Testing and Communication, with recent work in manufacturing IoT. Interested in moving towards QA Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 0.7y), Playwright (Proficient, 1.1y), API Testing (Proficient, 1.4y)
+- Delivery & Leadership: Communication (Proficient, 1.0y)
+- Cloud & DevOps: CI/CD (Working, 0.4y)
+- Software Engineering: Python (Beginner, 0.7y)
+
+EXPERIENCE
+* Manufacturing IoT API Contract-testing Suite — an APAC manufacturer (2026-06 to present)
+  Migrated an API contract-testing suite for an APAC manufacturer in manufacturing IoT using API Testing, Test Automation, Playwright and Communication, raising automated test coverage to 80%.
+* E-commerce API Contract-testing Suite — a global online retailer (2025-02 to 2026-04)
+  Migrated an API contract-testing suite for a global online retailer in e-commerce using Playwright, API Testing, Test Automation and Python, reducing production incidents by 40%.
+* Manufacturing IoT Test Automation Framework — a tier-1 manufacturer (2024-01 to 2024-12)
+  Led the delivery of a test automation framework for a tier-1 manufacturer in manufacturing IoT using API Testing, Playwright, Test Automation and Python, raising automated test coverage to 80%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: QA Engineer, Full Stack Engineer, Engineering Manager

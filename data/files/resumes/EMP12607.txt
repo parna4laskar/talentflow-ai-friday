@@ -1,0 +1,32 @@
+GAURAV O'SULLIVAN
+Lead Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12607
+
+PROFESSIONAL SUMMARY
+Lead Platform Engineer with 9 years of experience, based in Bengaluru. Strong in Platform Engineering, Terraform, AWS and Kubernetes, with recent work in payments. Interested in moving towards Site Reliability Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Expert, 3.0y), Terraform (Expert, 2.4y), AWS (Advanced, 6.2y), Kubernetes (Proficient, 5.5y), CI/CD (Proficient, 6.7y), Site Reliability Engineering (Proficient, 4.6y), Observability (Working, 0.3y)
+- Software Engineering: Go (Proficient, 4.1y)
+- Data & AI: Generative AI (Proficient, 1.8y)
+- Delivery & Leadership: Communication (Proficient, 0.7y)
+
+EXPERIENCE
+* Pharma R&D Observability Stack — a fast-growing pharma company (2025-11 to present)
+  Re-architected an observability stack for a fast-growing pharma company in pharma R&D using Communication and AWS, accelerating releases by 22%.
+* Payments Cloud Landing Zone — a leading payments provider (2024-08 to 2025-09)
+  Scaled a cloud landing zone for a leading payments provider in payments using Communication, Site Reliability Engineering and Platform Engineering, cutting cloud spend by 40%.
+* Payments Kubernetes Platform — a tier-1 payments provider (2024-01 to 2024-06)
+  Designed a Kubernetes platform for a tier-1 payments provider in payments using AWS, Go and Platform Engineering, accelerating releases by 25%.
+* Payments Observability Stack — an APAC payments provider (2022-07 to 2023-11)
+  Automated an observability stack for an APAC payments provider in payments using CI/CD, Kubernetes and Platform Engineering, accelerating releases by 40%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, Backend Engineer, DevOps Engineer

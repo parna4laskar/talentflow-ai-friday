@@ -1,0 +1,32 @@
+VENKAT NAIDU
+QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP11693
+
+PROFESSIONAL SUMMARY
+QA Engineer with 4 years of experience, based in Bengaluru. Strong in Test Automation, Agile/Scrum, SQL and Selenium, with recent work in retail banking. Interested in moving towards DevOps Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 2.4y), Selenium (Working, 0.7y), API Testing (Beginner, 0.8y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.2y), Project Management (Beginner, 0.4y)
+- Data & AI: SQL (Proficient, 2.5y)
+- Software Engineering: Java (Working, 1.5y), Python (Working, 1.5y)
+
+EXPERIENCE
+* Wealth Management Performance Engineering Programme — a European wealth manager (2025-09 to present)
+  Led the delivery of a performance engineering programme for a European wealth manager in wealth management using Project Management, Agile/Scrum, Selenium and API Testing, reducing production incidents by 12%.
+* Retail Banking Performance Engineering Programme — a leading retail bank (2024-10 to 2025-07)
+  Scaled a performance engineering programme for a leading retail bank in retail banking using SQL and Test Automation, accelerating releases by 18%.
+* Payments Performance Engineering Programme — an APAC payments provider (2023-03 to 2024-08)
+  Automated a performance engineering programme for an APAC payments provider in payments using Java and Selenium, reducing production incidents by 18%.
+* Energy Trading API Contract-testing Suite — a global energy company (2022-06 to 2023-02)
+  Scaled an API contract-testing suite for a global energy company in energy trading using Python, Project Management, API Testing and SQL, reducing production incidents by 25%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Full Stack Engineer

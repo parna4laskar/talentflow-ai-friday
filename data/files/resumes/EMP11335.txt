@@ -1,0 +1,30 @@
+NIKHIL NAIDU
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11335
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.7 years of experience, based in Pune. Strong in REST API Design, SQL, Microservices and .NET Core, with recent work in energy trading. Interested in moving towards Full Stack Engineer, Engineering Manager roles and open to relocating to New York, Kraków, Singapore.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 5.7y), Microservices (Proficient, 2.1y), .NET Core (Proficient, 1.3y), Go (Working, 3.1y), Kafka (Beginner, 0.7y)
+- Data & AI: SQL (Proficient, 3.7y), Data Visualization (Working, 4.2y)
+- Quality Engineering: Playwright (Working, 0.7y)
+- Delivery & Leadership: Communication (Working, 1.7y)
+
+EXPERIENCE
+* Energy Trading Claims Processing Engine — a leading energy company (2026-05 to present)
+  Migrated a claims processing engine for a leading energy company in energy trading using Communication, SQL and Kafka, reducing processing time by 30%.
+* Automotive Self-service Portal — a leading car maker (2025-10 to 2026-03)
+  Re-architected a self-service portal for a leading car maker in automotive using Communication, .NET Core and REST API Design, saving ~40K hours annually.
+* Telecom Billing Pricing Engine — a European telecom operator (2024-04 to 2025-09)
+  Re-architected a pricing engine for a European telecom operator in telecom billing using Playwright, Data Visualization, SQL and .NET Core, improving conversion by 18%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Engineering Manager, Software Architect

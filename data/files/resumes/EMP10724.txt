@@ -1,0 +1,29 @@
+MATTHEW NGUYEN
+Associate Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10724
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2.8 years of experience, based in New York. Strong in Linux Administration, Kubernetes, Azure and GCP, with recent work in retail banking. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 2.3y), Kubernetes (Advanced, 0.6y), Azure (Proficient, 1.4y), GCP (Working, 1.4y), Terraform (Beginner, 0.6y), Platform Engineering (Beginner, 0.5y)
+- Data & AI: LLM Engineering (Working, 0.4y)
+
+EXPERIENCE
+* E-commerce Kubernetes Platform — a leading online retailer (2026-08 to present)
+  Designed a Kubernetes platform for a leading online retailer in e-commerce using Azure, GCP and LLM Engineering, reducing production incidents by 22%.
+* Retail Banking Observability Stack — a tier-1 retail bank (2025-08 to 2026-06)
+  Led the delivery of an observability stack for a tier-1 retail bank in retail banking using Kubernetes, Linux Administration and Platform Engineering, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Site Reliability Engineer, Platform Engineer, DevOps Engineer

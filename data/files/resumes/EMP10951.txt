@@ -1,0 +1,35 @@
+RAJESH DESHPANDE
+Lead Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10951
+
+PROFESSIONAL SUMMARY
+Lead Site Reliability Engineer with 12.4 years of experience, based in Pune. Strong in Site Reliability Engineering, Observability, Kubernetes and Linux Administration, with recent work in energy trading. Interested in moving towards DevOps Engineer, Cloud Engineer roles and open to relocating to Dublin, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 12.0y), Observability (Advanced, 3.4y), Kubernetes (Advanced, 7.1y), Linux Administration (Advanced, 9.1y), AWS (Proficient, 8.1y)
+- Quality Engineering: Performance Testing (Advanced, 0.5y)
+- Software Engineering: Python (Proficient, 5.0y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 7.7y), Communication (Proficient, 7.3y)
+
+EXPERIENCE
+* Energy Trading Kubernetes Platform — a fast-growing energy company (2025-12 to present)
+  Automated a Kubernetes platform for a fast-growing energy company in energy trading using Site Reliability Engineering, Performance Testing, AWS and Observability, reducing production incidents by 40%.
+* Payments Cloud Landing Zone — a tier-1 payments provider (2024-08 to 2025-12)
+  Led the delivery of a cloud landing zone for a tier-1 payments provider in payments using Linux Administration, Performance Testing, Kubernetes and AWS, accelerating releases by 30%.
+* Energy Trading Cloud Landing Zone — a tier-1 energy company (2024-02 to 2024-07)
+  Modernised a cloud landing zone for a tier-1 energy company in energy trading using Communication, Site Reliability Engineering, Linux Administration and Stakeholder Management, cutting cloud spend by 22%.
+* Energy Trading Observability Stack — a global energy company (2022-08 to 2024-01)
+  Built an observability stack for a global energy company in energy trading using Kubernetes, Communication and Site Reliability Engineering, reducing production incidents by 40%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Cloud Engineer, Security Engineer

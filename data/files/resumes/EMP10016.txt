@@ -1,0 +1,26 @@
+GURPREET DAVIS
+Associate Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP10016
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1.4 years of experience, based in Pune. Strong in Data Engineering, Apache Spark, dbt and SQL, with recent work in pharma R&D. Interested in moving towards Data Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 1.3y), Apache Spark (Proficient, 0.6y), dbt (Proficient, 0.7y), SQL (Working, 0.3y), Data Governance (Working, 0.6y), LLM Engineering (Working, 0.7y), Responsible AI (Working, 0.6y)
+- Software Engineering: Python (Working, 0.6y)
+
+EXPERIENCE
+* Pharma R&D Regulatory Reporting Suite — a European pharma company (2025-10 to present)
+  Re-architected a regulatory reporting suite for a European pharma company in pharma R&D using dbt, Data Governance, Python and Apache Spark, saving ~22K hours annually.
+* Automotive Customer Churn Model — an APAC car maker (2024-05 to 2025-10)
+  Re-architected a customer churn model for an APAC car maker in automotive using Data Governance and dbt, improving conversion by 35%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Engineer, Data Scientist

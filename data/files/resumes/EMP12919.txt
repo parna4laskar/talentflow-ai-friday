@@ -1,0 +1,30 @@
+DEEPIKA MUKHERJEE
+AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP12919
+
+PROFESSIONAL SUMMARY
+AI Engineer with 3.1 years of experience, based in Chennai. Strong in Python, Generative AI, LLM Engineering and Azure, with recent work in healthcare. Interested in moving towards AI Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.4y), REST API Design (Working, 0.5y)
+- Data & AI: Generative AI (Proficient, 0.6y), LLM Engineering (Working, 0.8y), Responsible AI (Working, 0.4y), NLP (Working, 1.3y)
+- Cloud & DevOps: Azure (Working, 1.2y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Healthcare Knowledge Assistant (RAG) — a US hospital network (2026-04 to present)
+  Automated a knowledge assistant (RAG) for a US hospital network in healthcare using Python, Azure and Generative AI, lifting NPS by 40 points.
+* Healthcare Document Intelligence Pipeline — an APAC hospital network (2025-04 to 2026-03)
+  Re-architected a document intelligence pipeline for an APAC hospital network in healthcare using Communication and REST API Design, saving ~12K hours annually.
+* Healthcare Agentic Customer-service Assistant — a tier-1 hospital network (2024-10 to 2025-03)
+  Migrated an agentic customer-service assistant for a tier-1 hospital network in healthcare using LLM Engineering, Communication and Azure, lifting NPS by 22 points.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Full Stack Engineer, DevOps Engineer, ML Engineer

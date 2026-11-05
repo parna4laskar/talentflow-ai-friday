@@ -1,0 +1,30 @@
+JESSICA GAGNON
+Cloud Engineer | Cloud & Infrastructure | Toronto, Canada
+Employee ID: EMP11654
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.6 years of experience, based in Toronto. Strong in GCP, Terraform, Linux Administration and Platform Engineering, with recent work in telecom billing. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 2.2y), Terraform (Proficient, 1.9y), Linux Administration (Proficient, 1.5y), Platform Engineering (Proficient, 0.6y), Kubernetes (Working, 1.1y), CI/CD (Working, 0.9y)
+- Software Engineering: Python (Proficient, 1.4y)
+- Security: Cloud Security (Proficient, 0.9y)
+
+EXPERIENCE
+* Telecom Billing Observability Stack — a tier-1 telecom operator (2026-09 to present)
+  Designed an observability stack for a tier-1 telecom operator in telecom billing using Cloud Security, GCP, Linux Administration and Platform Engineering, reducing production incidents by 40%.
+* Telecom Billing Cloud Landing Zone — a US telecom operator (2025-09 to 2026-07)
+  Built a cloud landing zone for a US telecom operator in telecom billing using Platform Engineering, Linux Administration and GCP, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2025)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer, Site Reliability Engineer

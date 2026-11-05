@@ -1,0 +1,31 @@
+FÉLIX WONG
+Senior Frontend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP10628
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 7.7 years of experience, based in Toronto. Strong in React, TypeScript, JavaScript and Design Systems, with recent work in pharma R&D. Interested in moving towards Frontend Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 4.1y), TypeScript (Proficient, 2.9y), JavaScript (Proficient, 1.4y), GraphQL (Proficient, 1.6y), REST API Design (Beginner, 0.5y)
+- Product & Design: Design Systems (Proficient, 5.7y)
+
+EXPERIENCE
+* Pharma R&D Order Management System — a leading pharma company (2025-11 to present)
+  Designed an order management system for a leading pharma company in pharma R&D using TypeScript, JavaScript and Design Systems, onboarding 4 new enterprise clients.
+* Pharma R&D Mobile Banking App — a leading pharma company (2024-11 to 2025-09)
+  Designed a mobile banking app for a leading pharma company in pharma R&D using REST API Design and Design Systems, lifting NPS by 12 points.
+* Public Sector Mobile Banking App — a European government agency (2024-01 to 2024-09)
+  Led the delivery of a mobile banking app for a European government agency in public sector using GraphQL, Design Systems, REST API Design and TypeScript, improving conversion by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, UX Designer

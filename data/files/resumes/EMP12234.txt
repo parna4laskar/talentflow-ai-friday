@@ -1,0 +1,35 @@
+SAYALI JOSHI
+Senior ML Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP12234
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 5.6 years of experience, based in Chennai. Strong in Machine Learning, Databricks, AWS and Python, with recent work in wealth management. Interested in moving towards ML Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 1.2y), Databricks (Advanced, 5.4y), MLOps (Proficient, 1.2y), Deep Learning (Proficient, 3.1y), Computer Vision (Proficient, 0.6y)
+- Cloud & DevOps: AWS (Advanced, 2.6y)
+- Software Engineering: Python (Proficient, 1.6y)
+- Delivery & Leadership: Communication (Working, 1.5y)
+
+EXPERIENCE
+* Wealth Management Document Intelligence Pipeline — a leading wealth manager (2026-10 to present)
+  Designed a document intelligence pipeline for a leading wealth manager in wealth management using AWS and Databricks, saving ~18K hours annually.
+* Payments Document Intelligence Pipeline — an APAC payments provider (2025-11 to 2026-08)
+  Built a document intelligence pipeline for an APAC payments provider in payments using Communication, MLOps, Databricks and Python, reducing processing time by 22%.
+* Telecom Billing Recommendation Engine — a global telecom operator (2024-05 to 2025-08)
+  Modernised a recommendation engine for a global telecom operator in telecom billing using Deep Learning, Machine Learning, Communication and Python, improving conversion by 35%.
+* Wealth Management Recommendation Engine — a European wealth manager (2023-10 to 2024-03)
+  Modernised a recommendation engine for a European wealth manager in wealth management using Deep Learning and Machine Learning, improving conversion by 18%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2025)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, Platform Engineer

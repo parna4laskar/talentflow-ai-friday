@@ -1,0 +1,28 @@
+SANJANA RAO
+Associate Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP11077
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 1.4 years of experience, based in Pune. Strong in Statistics, Machine Learning, SQL and Communication, with recent work in media streaming. Interested in moving towards Data Scientist, ML Engineer roles and open to relocating to Kraków, Gurugram, London.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 1.2y), Machine Learning (Proficient, 1.0y), SQL (Proficient, 0.8y), MLOps (Working, 0.7y), Deep Learning (Working, 0.5y), Data Visualization (Working, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.5y)
+- Software Engineering: Python (Working, 0.3y)
+- Product & Design: A/B Testing (Working, 0.3y), UX Research (Working, 0.7y)
+
+EXPERIENCE
+* Payments Regulatory Reporting Suite — a US payments provider (2026-03 to present)
+  Built a regulatory reporting suite for a US payments provider in payments using Communication and Machine Learning, saving ~12K hours annually.
+* Media Streaming Executive KPI Dashboard Suite — an APAC streaming platform (2024-10 to 2026-03)
+  Modernised an executive KPI dashboard suite for an APAC streaming platform in media streaming using MLOps, Deep Learning, Statistics and Data Visualization, improving forecast accuracy by 22%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, ML Engineer, Data Analyst, Product Manager

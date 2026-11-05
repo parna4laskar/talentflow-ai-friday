@@ -1,0 +1,28 @@
+RÓISÍN BYRNE
+Lead UX Designer | Design | Dublin, Ireland
+Employee ID: EMP12933
+
+PROFESSIONAL SUMMARY
+Lead UX Designer with 12.9 years of experience, based in Dublin. Strong in UX Research, UI Design, Figma and Product Management, with recent work in HR tech. Interested in moving towards Frontend Engineer roles and open to relocating to London, Hyderabad.
+
+CORE SKILLS
+- Product & Design: UX Research (Expert, 3.7y), UI Design (Advanced, 10.4y), Figma (Advanced, 4.2y), Product Management (Advanced, 3.7y), Design Systems (Advanced, 5.8y), A/B Testing (Proficient, 5.7y)
+- Delivery & Leadership: Communication (Proficient, 2.7y)
+
+EXPERIENCE
+* E-commerce Onboarding Flow — a fast-growing online retailer (2026-06 to present)
+  Led UX for an onboarding flow for a fast-growing online retailer in e-commerce using Product Management and Communication, improving conversion by 25%.
+* HR Tech Onboarding Flow — a leading HR software company (2025-01 to 2026-03)
+  Ran research for an onboarding flow for a leading HR software company in HR tech using UI Design and Product Management, lifting NPS by 12 points.
+* Insurance Claims Onboarding Flow — an APAC insurer (2023-06 to 2024-12)
+  Ran research for an onboarding flow for an APAC insurer in insurance claims using A/B Testing, UI Design and Figma, improving conversion by 18%.
+
+EDUCATION
+- M.Des
+
+LANGUAGES
+English, Irish, Marathi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer

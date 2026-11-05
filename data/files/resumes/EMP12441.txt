@@ -1,0 +1,32 @@
+ARVIND KULKARNI
+Mobile Engineer | Engineering | Gurugram, India
+Employee ID: EMP12441
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 4.9 years of experience, based in Gurugram. Strong in TypeScript, Mobile Development, Java and CI/CD, with recent work in healthcare. Interested in moving towards Mobile Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 2.7y), Mobile Development (Working, 1.5y), Java (Working, 1.8y)
+- Cloud & DevOps: CI/CD (Working, 1.8y)
+- Delivery & Leadership: Communication (Working, 1.3y)
+- Data & AI: MLOps (Beginner, 1.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a US logistics company (2025-07 to present)
+  Scaled a payments microservices platform for a US logistics company in supply-chain logistics using MLOps, Java, TypeScript and CI/CD, reducing processing time by 40%.
+* Payments Mobile Banking App — an APAC payments provider (2024-03 to 2025-06)
+  Re-architected a mobile banking app for an APAC payments provider in payments using Communication, Java and Mobile Development, lifting NPS by 40 points.
+* Retail Banking Self-service Portal — a leading retail bank (2022-08 to 2024-02)
+  Led the delivery of a self-service portal for a leading retail bank in retail banking using Java, CI/CD, Mobile Development and MLOps, saving ~25K hours annually.
+* Retail Banking Mobile Banking App — a tier-1 retail bank (2021-04 to 2022-05)
+  Re-architected a mobile banking app for a tier-1 retail bank in retail banking using MLOps, Java and CI/CD, improving conversion by 22%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer, Frontend Engineer, Full Stack Engineer, Backend Engineer

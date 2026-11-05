@@ -1,0 +1,32 @@
+GAURAV CHATTERJEE
+Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11861
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3.6 years of experience, based in Hyderabad. Strong in TypeScript, Angular, REST API Design and GraphQL, with recent work in telecom billing. Interested in moving towards Frontend Engineer roles and open to relocating to Chennai.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 2.1y), Angular (Proficient, 2.5y), REST API Design (Proficient, 1.3y), GraphQL (Proficient, 0.6y), Node.js (Beginner, 0.5y)
+- Data & AI: SQL (Working, 0.7y), Responsible AI (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Working, 1.3y)
+- Cloud & DevOps: AWS (Beginner, 0.4y), Kubernetes (Beginner, 0.7y)
+
+EXPERIENCE
+* Telecom Billing Pricing Engine — a tier-1 telecom operator (2026-08 to present)
+  Designed a pricing engine for a tier-1 telecom operator in telecom billing using Node.js, Angular, SQL and TypeScript, reducing processing time by 40%.
+* Telecom Billing Pricing Engine — an APAC telecom operator (2025-01 to 2026-07)
+  Modernised a pricing engine for an APAC telecom operator in telecom billing using Responsible AI, Angular and Communication, reducing processing time by 22%.
+* Insurance Claims Order Management System — a global insurer (2024-06 to 2024-12)
+  Designed an order management system for a global insurer in insurance claims using GraphQL, Responsible AI and REST API Design, onboarding 4 new enterprise clients.
+* HR Tech Pricing Engine — an APAC HR software company (2023-04 to 2024-04)
+  Modernised a pricing engine for an APAC HR software company in HR tech using Communication, REST API Design and Kubernetes, improving conversion by 22%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer

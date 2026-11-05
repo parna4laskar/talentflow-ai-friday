@@ -1,0 +1,34 @@
+PRIYA WILSON
+Senior Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11507
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 7 years of experience, based in London. Strong in Microservices, C#, REST API Design and Spring Boot, with recent work in wealth management. Interested in moving towards Full Stack Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 3.4y), C# (Advanced, 3.1y), REST API Design (Advanced, 5.6y), Spring Boot (Advanced, 5.5y), Kafka (Proficient, 2.9y), GraphQL (Proficient, 1.8y), .NET Core (Proficient, 1.4y)
+- Delivery & Leadership: Communication (Advanced, 2.2y)
+- Data & AI: SQL (Proficient, 1.1y)
+
+EXPERIENCE
+* Pharma R&D Mobile Banking App — a global pharma company (2025-11 to present)
+  Re-architected a mobile banking app for a global pharma company in pharma R&D using Spring Boot, .NET Core, GraphQL and Kafka, improving conversion by 35%.
+* Wealth Management Self-service Portal — a European wealth manager (2025-02 to 2025-09)
+  Led the delivery of a self-service portal for a European wealth manager in wealth management using Microservices, Spring Boot, GraphQL and .NET Core, saving ~22K hours annually.
+* Wealth Management Order Management System — a European wealth manager (2023-07 to 2024-11)
+  Migrated an order management system for a European wealth manager in wealth management using REST API Design and Kafka, onboarding 8 new enterprise clients.
+* Wealth Management Mobile Banking App — a leading wealth manager (2021-12 to 2023-04)
+  Migrated a mobile banking app for a leading wealth manager in wealth management using Spring Boot, Communication and Kafka, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, Engineering Manager

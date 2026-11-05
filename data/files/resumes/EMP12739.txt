@@ -1,0 +1,32 @@
+ANIRUDH RAO
+Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP12739
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5.8 years of experience, based in Chennai. Strong in Python, Machine Learning, Statistics and SQL, with recent work in airline operations. Interested in moving towards Data Scientist, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 5.7y)
+- Data & AI: Machine Learning (Proficient, 1.0y), Statistics (Proficient, 2.5y), SQL (Proficient, 4.2y), Data Visualization (Proficient, 3.0y), Apache Spark (Proficient, 3.2y), NLP (Proficient, 1.2y), Generative AI (Proficient, 1.1y)
+- Delivery & Leadership: Communication (Working, 1.5y)
+
+EXPERIENCE
+* Retail Banking Customer Churn Model — a leading retail bank (2026-11 to present)
+  Designed a customer churn model for a leading retail bank in retail banking using Communication, Apache Spark, Machine Learning and SQL, improving conversion by 30%.
+* Healthcare Regulatory Reporting Suite — a leading hospital network (2025-08 to 2026-10)
+  Automated a regulatory reporting suite for a leading hospital network in healthcare using SQL and Statistics, saving ~12K hours annually.
+* Supply-chain Logistics Regulatory Reporting Suite — a fast-growing logistics company (2024-03 to 2025-07)
+  Automated a regulatory reporting suite for a fast-growing logistics company in supply-chain logistics using Statistics, Python, Apache Spark and SQL, saving ~18K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2021)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, Data Analyst, AI Engineer

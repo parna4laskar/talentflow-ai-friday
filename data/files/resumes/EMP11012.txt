@@ -1,0 +1,34 @@
+AARAV MEHTA
+Senior Data Analyst | Data & Analytics | Gurugram, India
+Employee ID: EMP11012
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 5.7 years of experience, based in Gurugram. Strong in Business Analysis, Data Visualization, Power BI and A/B Testing, with recent work in insurance claims. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 1.3y)
+- Data & AI: Data Visualization (Advanced, 3.2y), Power BI (Proficient, 3.2y), SQL (Working, 1.1y), Statistics (Working, 0.3y)
+- Product & Design: A/B Testing (Proficient, 1.2y)
+
+EXPERIENCE
+* Insurance Claims Executive KPI Dashboard Suite — a global insurer (2026-04 to present)
+  Designed an executive KPI dashboard suite for a global insurer in insurance claims using Business Analysis, Statistics and Data Visualization, improving forecast accuracy by 35%.
+* Insurance Claims Real-time Analytics Pipeline — a tier-1 insurer (2025-10 to 2026-03)
+  Led the delivery of a real-time analytics pipeline for a tier-1 insurer in insurance claims using Data Visualization and A/B Testing, reducing processing time by 22%.
+* Insurance Claims Customer Churn Model — a leading insurer (2024-03 to 2025-07)
+  Led the delivery of a customer churn model for a leading insurer in insurance claims using Data Visualization, Power BI, Business Analysis and Statistics, improving conversion by 22%.
+* Retail Banking Executive KPI Dashboard Suite — a leading retail bank (2023-06 to 2024-02)
+  Automated an executive KPI dashboard suite for a leading retail bank in retail banking using Power BI and A/B Testing, saving ~22K hours annually.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2021)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Business Analyst

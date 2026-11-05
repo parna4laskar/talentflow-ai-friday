@@ -1,0 +1,35 @@
+IMRAN JADHAV
+Lead Business Analyst | Business Consulting | Hyderabad, India
+Employee ID: EMP10053
+
+PROFESSIONAL SUMMARY
+Lead Business Analyst with 13.9 years of experience, based in Hyderabad. Strong in Business Analysis, Requirements Gathering, Communication and SQL, with recent work in HR tech. Interested in moving towards Scrum Master, Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 13.9y), Requirements Gathering (Expert, 4.7y), Process Improvement (Proficient, 3.2y)
+- Delivery & Leadership: Communication (Advanced, 5.6y), Stakeholder Management (Proficient, 9.8y), Agile/Scrum (Proficient, 7.8y)
+- Data & AI: SQL (Advanced, 1.7y)
+- Quality Engineering: Playwright (Proficient, 5.7y)
+- Cloud & DevOps: FinOps (Working, 3.3y)
+
+EXPERIENCE
+* HR Tech Process Re-engineering Initiative — a US HR software company (2026-05 to present)
+  Coordinated a process re-engineering initiative for a US HR software company in HR tech using Stakeholder Management, Playwright and Process Improvement, reducing processing time by 40%.
+* Healthcare Core Banking Transformation Programme — a European hospital network (2025-04 to 2026-03)
+  Coordinated a core banking transformation programme for a European hospital network in healthcare using SQL, FinOps and Stakeholder Management, delivering on time across 6 workstreams.
+* HR Tech Requirements and UAT for a CRM Rollout — a tier-1 HR software company (2024-04 to 2025-01)
+  Led a requirements and UAT for a CRM rollout for a tier-1 HR software company in HR tech using FinOps, Stakeholder Management and Requirements Gathering, reducing processing time by 18%.
+
+CERTIFICATIONS
+- CBAP (2026)
+- PMI-PBA (2025)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Scrum Master, Data Analyst, Product Manager

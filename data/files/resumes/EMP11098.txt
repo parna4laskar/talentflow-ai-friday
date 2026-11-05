@@ -1,0 +1,31 @@
+SWATI SEN
+Business Analyst | Business Consulting | Pune, India
+Employee ID: EMP11098
+
+PROFESSIONAL SUMMARY
+Business Analyst with 4.5 years of experience, based in Pune. Strong in Agentic AI, Requirements Gathering, Stakeholder Management and Business Analysis, with recent work in wealth management. Interested in moving towards Scrum Master roles.
+
+CORE SKILLS
+- Data & AI: Agentic AI (Advanced, 0.6y)
+- Business & Finance: Requirements Gathering (Proficient, 1.0y), Business Analysis (Working, 1.7y), Salesforce (Working, 2.1y), Process Improvement (Working, 1.2y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.0y), Agile/Scrum (Working, 2.2y), Communication (Working, 1.7y)
+
+EXPERIENCE
+* Wealth Management Requirements and UAT for a CRM Rollout — a fast-growing wealth manager (2026-11 to present)
+  Coordinated a requirements and UAT for a CRM rollout for a fast-growing wealth manager in wealth management using Business Analysis and Agile/Scrum, delivering on time across 2 workstreams.
+* HR Tech Cloud Migration Programme — a tier-1 HR software company (2025-07 to 2026-10)
+  Ran a cloud migration programme for a tier-1 HR software company in HR tech using Agile/Scrum, Agentic AI and Salesforce, delivering on time across 6 workstreams.
+* Wealth Management Cloud Migration Programme — a tier-1 wealth manager (2024-03 to 2025-06)
+  Led a cloud migration programme for a tier-1 wealth manager in wealth management using Process Improvement, Salesforce, Requirements Gathering and Business Analysis, cutting cloud spend by 25%.
+* Wealth Management Agile Transformation — a tier-1 wealth manager (2023-01 to 2024-01)
+  Ran an agile transformation for a tier-1 wealth manager in wealth management using Stakeholder Management and Agile/Scrum, delivering on time across 3 workstreams.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Scrum Master

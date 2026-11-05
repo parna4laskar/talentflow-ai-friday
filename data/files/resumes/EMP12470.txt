@@ -1,0 +1,32 @@
+MICHAŁ CHEN
+Lead CRM Consultant | Enterprise Applications | Kraków, Poland
+Employee ID: EMP12470
+
+PROFESSIONAL SUMMARY
+Lead CRM Consultant with 12.9 years of experience, based in Kraków. Strong in Mentoring, Salesforce, Business Analysis and Requirements Gathering, with recent work in healthcare. Interested in moving towards Account Manager, SAP Consultant roles.
+
+CORE SKILLS
+- Delivery & Leadership: Mentoring (Expert, 12.8y), Stakeholder Management (Proficient, 8.9y)
+- Business & Finance: Salesforce (Advanced, 11.8y), Business Analysis (Advanced, 9.0y), Requirements Gathering (Advanced, 7.3y), ServiceNow (Proficient, 2.8y)
+- Software Engineering: JavaScript (Proficient, 2.2y)
+
+EXPERIENCE
+* Public Sector CRM Rollout — a European government agency (2026-07 to present)
+  Designed a CRM rollout for a European government agency in public sector using Mentoring, ServiceNow and Requirements Gathering, improving conversion by 25%.
+* E-commerce CRM Rollout — a leading online retailer (2024-12 to 2026-06)
+  Re-architected a CRM rollout for a leading online retailer in e-commerce using ServiceNow and Stakeholder Management, reducing processing time by 30%.
+* Healthcare CRM Rollout — a leading hospital network (2023-08 to 2024-10)
+  Scaled a CRM rollout for a leading hospital network in healthcare using Salesforce, JavaScript and ServiceNow, reducing processing time by 40%.
+
+CERTIFICATIONS
+- ServiceNow CSA (2023)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Account Manager, SAP Consultant

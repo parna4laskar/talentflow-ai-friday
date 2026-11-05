@@ -1,0 +1,30 @@
+ZHI HAO LEE
+DevOps Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP10415
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.9 years of experience, based in Singapore. Strong in Kubernetes, CI/CD, Docker and GCP, with recent work in airline operations. Interested in moving towards Cloud Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.7y), CI/CD (Proficient, 2.9y), Docker (Proficient, 1.5y), GCP (Proficient, 3.5y), Linux Administration (Proficient, 2.1y), Observability (Working, 1.3y), Terraform (Working, 0.6y)
+- Software Engineering: Go (Proficient, 1.9y), Python (Proficient, 0.4y)
+
+EXPERIENCE
+* Retail Banking CI/CD Platform — a leading retail bank (2026-03 to present)
+  Designed a CI/CD platform for a leading retail bank in retail banking using Observability and GCP, accelerating releases by 40%.
+* HR Tech CI/CD Platform — a global HR software company (2024-07 to 2026-01)
+  Migrated a CI/CD platform for a global HR software company in HR tech using Go, Kubernetes, GCP and Docker, accelerating releases by 18%.
+* Airline Operations CI/CD Platform — a European airline (2023-07 to 2024-06)
+  Modernised a CI/CD platform for a European airline in airline operations using Linux Administration, Observability and Python, accelerating releases by 25%.
+* Wealth Management Kubernetes Platform — a tier-1 wealth manager (2022-01 to 2023-06)
+  Automated a Kubernetes platform for a tier-1 wealth manager in wealth management using Python, Docker, Linux Administration and Go, cutting cloud spend by 30%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Mandarin, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer, Backend Engineer

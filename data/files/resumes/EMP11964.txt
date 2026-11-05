@@ -1,0 +1,29 @@
+JESSICA DAVIS
+Data Scientist | Data & Analytics | Austin, United States
+Employee ID: EMP11964
+
+PROFESSIONAL SUMMARY
+Data Scientist with 4.4 years of experience, based in Austin. Strong in Python, Machine Learning, Statistics and SQL, with recent work in energy trading. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 3.6y)
+- Data & AI: Machine Learning (Advanced, 2.1y), Statistics (Advanced, 3.9y), SQL (Proficient, 2.2y), MLOps (Working, 1.2y), Generative AI (Working, 2.0y), Apache Spark (Working, 0.9y), Deep Learning (Beginner, 0.9y)
+- Quality Engineering: Playwright (Working, 1.6y)
+
+EXPERIENCE
+* Insurance Claims Regulatory Reporting Suite — a fast-growing insurer (2026-02 to present)
+  Re-architected a regulatory reporting suite for a fast-growing insurer in insurance claims using Apache Spark, MLOps, Generative AI and Python, saving ~25K hours annually.
+* Insurance Claims Executive KPI Dashboard Suite — a US insurer (2024-10 to 2025-11)
+  Designed an executive KPI dashboard suite for a US insurer in insurance claims using SQL, Apache Spark and Python, improving forecast accuracy by 40%.
+* Pharma R&D Executive KPI Dashboard Suite — a European pharma company (2023-12 to 2024-07)
+  Scaled an executive KPI dashboard suite for a European pharma company in pharma R&D using Statistics, SQL, Generative AI and Python, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist, Product Manager, AI Engineer

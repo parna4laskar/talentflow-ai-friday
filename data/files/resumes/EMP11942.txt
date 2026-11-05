@@ -1,0 +1,29 @@
+PRIYA MENON
+Associate Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP11942
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2.9 years of experience, based in Bengaluru. Strong in Statistics, Stakeholder Management, Data Visualization and Power BI, with recent work in media streaming. Interested in moving towards Data Analyst, Financial Analyst roles and open to relocating to Austin, New York.
+
+CORE SKILLS
+- Data & AI: Statistics (Proficient, 0.4y), Data Visualization (Working, 0.9y), Power BI (Working, 0.4y), SQL (Beginner, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.5y), Communication (Working, 0.8y)
+- Software Engineering: Python (Working, 0.3y)
+- Business & Finance: Business Analysis (Working, 0.9y)
+- Product & Design: A/B Testing (Working, 0.9y)
+
+EXPERIENCE
+* Media Streaming Real-time Analytics Pipeline — a fast-growing streaming platform (2026-07 to present)
+  Re-architected a real-time analytics pipeline for a fast-growing streaming platform in media streaming using Business Analysis, Power BI, Statistics and A/B Testing, cutting cloud spend by 30%.
+* Automotive Executive KPI Dashboard Suite — a European car maker (2025-08 to 2026-06)
+  Built an executive KPI dashboard suite for a European car maker in automotive using Data Visualization, Python and A/B Testing, improving forecast accuracy by 40%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, Financial Analyst, Business Analyst, Data Scientist

@@ -1,0 +1,31 @@
+MANISH CHATTERJEE
+Associate Security Engineer | Cyber Security | Pune, India
+Employee ID: EMP12676
+
+PROFESSIONAL SUMMARY
+Associate Security Engineer with 0.8 years of experience, based in Pune. Strong in Threat Modeling, Identity & Access Management, Python and Application Security, with recent work in HR tech. Interested in moving towards Security Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: Threat Modeling (Proficient, 0.4y), Identity & Access Management (Proficient, 0.4y), Application Security (Working, 0.4y), Incident Response (Working, 0.3y), GRC (Working, 0.3y), SIEM (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.5y)
+- Cloud & DevOps: AWS (Working, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* HR Tech Secure SDLC Rollout — a fast-growing HR software company (2026-01 to present)
+  Migrated a secure SDLC rollout for a fast-growing HR software company in HR tech using SIEM and Python, accelerating releases by 18%.
+* HR Tech Security Operations Centre Uplift — an APAC HR software company (2024-11 to 2026-01)
+  Migrated a security operations centre uplift for an APAC HR software company in HR tech using Threat Modeling, Communication and GRC, closing 12% of open audit findings.
+
+CERTIFICATIONS
+- CISSP (2026)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Security Engineer, Site Reliability Engineer, Software Architect, Cloud Engineer

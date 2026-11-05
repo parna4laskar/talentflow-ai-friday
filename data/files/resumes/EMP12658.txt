@@ -1,0 +1,31 @@
+NAVEEN NAIR
+Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP12658
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4.7 years of experience, based in Hyderabad. Strong in Airflow, Data Governance, SQL and Data Engineering, with recent work in pharma R&D. Interested in moving towards ML Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: Airflow (Advanced, 3.3y), Data Governance (Advanced, 1.3y), SQL (Proficient, 2.5y), Data Engineering (Proficient, 3.2y)
+- Software Engineering: Kafka (Proficient, 2.5y), Python (Working, 0.4y)
+
+EXPERIENCE
+* Pharma R&D Real-time Analytics Pipeline — a global pharma company (2026-04 to present)
+  Modernised a real-time analytics pipeline for a global pharma company in pharma R&D using Data Engineering, Kafka, Airflow and SQL, reducing processing time by 18%.
+* Pharma R&D Real-time Analytics Pipeline — a US pharma company (2025-06 to 2026-03)
+  Automated a real-time analytics pipeline for a US pharma company in pharma R&D using Python, SQL, Data Engineering and Data Governance, cutting cloud spend by 25%.
+* Pharma R&D Customer Churn Model — a fast-growing pharma company (2024-04 to 2025-04)
+  Scaled a customer churn model for a fast-growing pharma company in pharma R&D using Kafka and SQL, improving conversion by 25%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: ML Engineer, Backend Engineer

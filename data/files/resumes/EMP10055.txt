@@ -1,0 +1,31 @@
+RIYA RYAN
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10055
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.5 years of experience, based in Bengaluru. Strong in REST API Design, SQL, Microservices and .NET Core, with recent work in e-commerce. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 2.7y), Microservices (Proficient, 3.5y), .NET Core (Proficient, 0.5y), Kafka (Working, 0.3y), GraphQL (Working, 0.6y), Go (Beginner, 0.3y)
+- Data & AI: SQL (Advanced, 3.4y)
+- Cloud & DevOps: Kubernetes (Working, 2.4y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Onboarding Platform — a US manufacturer (2026-07 to present)
+  Automated a customer onboarding platform for a US manufacturer in manufacturing IoT using Kafka, Kubernetes, Go and GraphQL, reducing processing time by 22%.
+* E-commerce Payments Microservices Platform — a leading online retailer (2025-01 to 2026-06)
+  Modernised a payments microservices platform for a leading online retailer in e-commerce using Microservices, Kubernetes, Go and SQL, reducing processing time by 40%.
+* E-commerce Order Management System — a European online retailer (2023-09 to 2024-12)
+  Re-architected an order management system for a European online retailer in e-commerce using GraphQL and .NET Core, onboarding 3 new enterprise clients.
+* Wealth Management Claims Processing Engine — a European wealth manager (2022-07 to 2023-07)
+  Scaled a claims processing engine for a European wealth manager in wealth management using REST API Design and Microservices, reducing processing time by 30%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer, Software Architect

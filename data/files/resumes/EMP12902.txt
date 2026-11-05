@@ -1,0 +1,36 @@
+HARSH REDDY
+Lead Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP12902
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 15.8 years of experience, based in Hyderabad. Strong in Data Visualization, Statistics, Python and SQL, with recent work in manufacturing IoT. Interested in moving towards Financial Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Expert, 15.8y), Statistics (Expert, 4.1y), SQL (Proficient, 7.4y), Tableau (Proficient, 3.4y)
+- Software Engineering: Python (Advanced, 9.0y)
+- Product & Design: A/B Testing (Proficient, 9.5y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.4y), Communication (Proficient, 8.7y)
+- Business & Finance: Business Analysis (Proficient, 8.1y), Process Improvement (Proficient, 7.2y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Churn Model — a fast-growing manufacturer (2026-05 to present)
+  Designed a customer churn model for a fast-growing manufacturer in manufacturing IoT using Business Analysis, Python and Stakeholder Management, improving conversion by 18%.
+* Airline Operations Executive KPI Dashboard Suite — a leading airline (2025-09 to 2026-05)
+  Led the delivery of an executive KPI dashboard suite for a leading airline in airline operations using SQL, A/B Testing, Business Analysis and Tableau, saving ~30K hours annually.
+* Manufacturing IoT Data Lakehouse — a European manufacturer (2024-05 to 2025-07)
+  Led the delivery of a data lakehouse for a European manufacturer in manufacturing IoT using Stakeholder Management and Data Visualization, cutting cloud spend by 18%.
+* Manufacturing IoT Regulatory Reporting Suite — a European manufacturer (2022-12 to 2024-04)
+  Migrated a regulatory reporting suite for a European manufacturer in manufacturing IoT using Business Analysis, SQL and Statistics, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2021)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Financial Analyst, Product Manager, Data Scientist

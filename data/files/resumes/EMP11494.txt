@@ -1,0 +1,29 @@
+MARIA NGUYEN
+Principal Frontend Engineer | Engineering | New York, United States
+Employee ID: EMP11494
+
+PROFESSIONAL SUMMARY
+Principal Frontend Engineer with 12.4 years of experience, based in New York. Strong in TypeScript, JavaScript, Angular and Node.js, with recent work in wealth management. Interested in moving towards QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 9.6y), JavaScript (Advanced, 10.0y), Angular (Advanced, 0.7y), Node.js (Advanced, 12.1y), GraphQL (Advanced, 3.4y)
+- Product & Design: Design Systems (Advanced, 7.8y)
+- Delivery & Leadership: People Leadership (Proficient, 5.1y)
+
+EXPERIENCE
+* Wealth Management Payments Microservices Platform — a leading wealth manager (2026-03 to present)
+  Scaled a payments microservices platform for a leading wealth manager in wealth management using Angular, Design Systems, JavaScript and Node.js, reducing processing time by 25%.
+* Pharma R&D Order Management System — a fast-growing pharma company (2025-09 to 2026-02)
+  Modernised an order management system for a fast-growing pharma company in pharma R&D using TypeScript, Design Systems, Angular and GraphQL, reducing processing time by 18%.
+* Manufacturing IoT Pricing Engine — a leading manufacturer (2024-09 to 2025-07)
+  Modernised a pricing engine for a leading manufacturer in manufacturing IoT using JavaScript, TypeScript and GraphQL, improving conversion by 22%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, German
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer

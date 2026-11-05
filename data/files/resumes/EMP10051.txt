@@ -1,0 +1,32 @@
+ABHISHEK SINGH
+Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10051
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.8 years of experience, based in Bengaluru. Strong in TypeScript, Angular, Python and SQL, with recent work in public sector. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 3.8y), Angular (Proficient, 2.4y), Python (Proficient, 3.3y), GraphQL (Proficient, 0.8y), Microservices (Proficient, 2.5y), Next.js (Working, 1.9y)
+- Data & AI: SQL (Proficient, 2.1y), Data Visualization (Working, 2.0y)
+- Cloud & DevOps: AWS (Proficient, 1.9y), Docker (Working, 1.1y), Kubernetes (Working, 2.0y)
+
+EXPERIENCE
+* Automotive Customer Onboarding Platform — a fast-growing car maker (2025-10 to present)
+  Built a customer onboarding platform for a fast-growing car maker in automotive using SQL and GraphQL, improving conversion by 12%.
+* Retail Banking Payments Microservices Platform — a leading retail bank (2024-08 to 2025-09)
+  Built a payments microservices platform for a leading retail bank in retail banking using Microservices and Docker, reducing production incidents by 30%.
+* Insurance Claims Order Management System — a tier-1 insurer (2023-03 to 2024-06)
+  Designed an order management system for a tier-1 insurer in insurance claims using Microservices and SQL, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, Mobile Engineer, AI Engineer, Software Architect

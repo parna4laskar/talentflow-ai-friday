@@ -1,0 +1,29 @@
+NAVEEN PILLAI
+Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP12226
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2.4 years of experience, based in Bengaluru. Strong in Python, Machine Learning, Statistics and SQL, with recent work in public sector. Interested in moving towards ML Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 2.0y)
+- Data & AI: Machine Learning (Advanced, 1.6y), Statistics (Proficient, 0.6y), SQL (Proficient, 1.0y), Deep Learning (Proficient, 1.1y), Apache Spark (Proficient, 1.3y), Generative AI (Working, 0.8y), MLOps (Working, 0.7y)
+
+EXPERIENCE
+* Public Sector Real-time Analytics Pipeline — a tier-1 government agency (2026-04 to present)
+  Scaled a real-time analytics pipeline for a tier-1 government agency in public sector using Machine Learning and Python, cutting cloud spend by 25%.
+* Healthcare Real-time Analytics Pipeline — a European hospital network (2025-05 to 2026-02)
+  Automated a real-time analytics pipeline for a European hospital network in healthcare using Python and SQL, cutting cloud spend by 25%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: ML Engineer, Data Analyst

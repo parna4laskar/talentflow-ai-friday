@@ -1,0 +1,32 @@
+ANJALI PATIL
+Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP11452
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5.6 years of experience, based in Bengaluru. Strong in Python, Machine Learning, Statistics and Apache Spark, with recent work in energy trading. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 2.2y)
+- Data & AI: Machine Learning (Proficient, 0.7y), Statistics (Proficient, 2.9y), Apache Spark (Proficient, 3.9y), Deep Learning (Proficient, 3.2y), SQL (Working, 1.2y), Data Visualization (Working, 0.7y), MLOps (Working, 2.3y)
+- Delivery & Leadership: Communication (Proficient, 3.5y)
+
+EXPERIENCE
+* Energy Trading Real-time Analytics Pipeline — a European energy company (2025-12 to present)
+  Scaled a real-time analytics pipeline for a European energy company in energy trading using Statistics and Deep Learning, cutting cloud spend by 18%.
+* Insurance Claims Real-time Analytics Pipeline — a leading insurer (2024-11 to 2025-10)
+  Scaled a real-time analytics pipeline for a leading insurer in insurance claims using Communication, Python, Statistics and SQL, reducing processing time by 22%.
+* Retail Banking Data Lakehouse — a leading retail bank (2024-04 to 2024-09)
+  Led the delivery of a data lakehouse for a leading retail bank in retail banking using Apache Spark, Data Visualization, Machine Learning and Deep Learning, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist, AI Engineer

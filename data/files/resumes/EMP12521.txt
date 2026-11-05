@@ -1,0 +1,37 @@
+LUCAS SINGH
+Business Analyst | Business Consulting | Toronto, Canada
+Employee ID: EMP12521
+
+PROFESSIONAL SUMMARY
+Business Analyst with 4.6 years of experience, based in Toronto. Strong in Requirements Gathering, Business Analysis, Stakeholder Management and Process Improvement, with recent work in retail banking. Interested in moving towards Product Manager, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 3.0y), Business Analysis (Proficient, 2.1y), Process Improvement (Proficient, 2.8y), Salesforce (Proficient, 1.0y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.2y), Communication (Proficient, 1.6y)
+- Data & AI: Power BI (Proficient, 3.2y), SQL (Working, 2.3y)
+- People & Marketing: People Analytics (Working, 1.2y)
+- Cloud & DevOps: FinOps (Beginner, 1.1y)
+
+EXPERIENCE
+* Retail Banking Cloud Migration Programme — a global retail bank (2026-01 to present)
+  Delivered a cloud migration programme for a global retail bank in retail banking using Business Analysis and Stakeholder Management, delivering on time across 4 workstreams.
+* Payments Cloud Migration Programme — a fast-growing payments provider (2025-01 to 2025-12)
+  Led a cloud migration programme for a fast-growing payments provider in payments using Salesforce and Stakeholder Management, delivering on time across 3 workstreams.
+* Retail Banking Core Banking Transformation Programme — a US retail bank (2024-03 to 2024-11)
+  Coordinated a core banking transformation programme for a US retail bank in retail banking using Business Analysis, Process Improvement and Stakeholder Management, delivering on time across 2 workstreams.
+* Retail Banking Core Banking Transformation Programme — a European retail bank (2023-01 to 2024-01)
+  Delivered a core banking transformation programme for a European retail bank in retail banking using SQL, Stakeholder Management, Process Improvement and Requirements Gathering, delivering on time across 8 workstreams.
+
+CERTIFICATIONS
+- CBAP (2024)
+- PMI-PBA (2022)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager, Scrum Master

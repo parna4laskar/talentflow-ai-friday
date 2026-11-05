@@ -1,0 +1,28 @@
+CONOR O'SULLIVAN
+Full Stack Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP10480
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.1 years of experience, based in Dublin. Strong in TypeScript, Python, SQL and Next.js, with recent work in wealth management. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.6y), Python (Proficient, 0.4y), Next.js (Proficient, 0.5y), Microservices (Proficient, 1.1y), React (Working, 0.3y), REST API Design (Beginner, 0.5y)
+- Data & AI: SQL (Proficient, 1.3y)
+- Cloud & DevOps: FinOps (Proficient, 0.6y), Docker (Working, 0.8y), AWS (Working, 0.7y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Order Management System — a tier-1 retail bank (2026-01 to present)
+  Led the delivery of an order management system for a tier-1 retail bank in retail banking using Python and Docker, onboarding 5 new enterprise clients.
+* Supply-chain Logistics Self-service Portal — a tier-1 logistics company (2025-06 to 2025-11)
+  Re-architected a self-service portal for a tier-1 logistics company in supply-chain logistics using FinOps and Docker, lifting NPS by 22 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Irish, Arabic
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, AI Engineer

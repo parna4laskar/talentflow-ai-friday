@@ -1,0 +1,33 @@
+VENKAT VERMA
+Lead Business Analyst | Business Consulting | Gurugram, India
+Employee ID: EMP12062
+
+PROFESSIONAL SUMMARY
+Lead Business Analyst with 11.5 years of experience, based in Gurugram. Strong in Requirements Gathering, SQL, Salesforce and Business Analysis, with recent work in insurance claims. Interested in moving towards Data Analyst, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 6.1y), Salesforce (Advanced, 11.4y), Business Analysis (Proficient, 2.7y), ServiceNow (Proficient, 5.5y), Process Improvement (Working, 1.8y)
+- Data & AI: SQL (Advanced, 11.1y), Power BI (Proficient, 2.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.6y), Agile/Scrum (Proficient, 7.6y), Mentoring (Proficient, 5.7y)
+- Cloud & DevOps: FinOps (Proficient, 7.5y)
+
+EXPERIENCE
+* Insurance Claims Process Re-engineering Initiative — a European insurer (2025-09 to present)
+  Delivered a process re-engineering initiative for a European insurer in insurance claims using Salesforce, Business Analysis, Stakeholder Management and Power BI, reducing processing time by 25%.
+* Insurance Claims Agile Transformation — a global insurer (2024-03 to 2025-08)
+  Ran an agile transformation for a global insurer in insurance claims using Mentoring, Salesforce, Business Analysis and Stakeholder Management, accelerating releases by 22%.
+* Insurance Claims Cloud Migration Programme — a leading insurer (2022-12 to 2023-12)
+  Coordinated a cloud migration programme for a leading insurer in insurance claims using Business Analysis, Power BI, Agile/Scrum and SQL, delivering on time across 5 workstreams.
+
+CERTIFICATIONS
+- PMI-PBA (2022)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Analyst, Scrum Master

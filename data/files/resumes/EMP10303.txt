@@ -1,0 +1,31 @@
+VIKRAM PILLAI
+QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP10303
+
+PROFESSIONAL SUMMARY
+QA Engineer with 5.1 years of experience, based in Pune. Strong in Test Automation, Playwright, API Testing and Java, with recent work in wealth management. Interested in moving towards QA Engineer, Full Stack Engineer roles and open to relocating to Bengaluru, Toronto, Gurugram.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 0.7y), Playwright (Proficient, 2.8y), API Testing (Proficient, 1.2y), Performance Testing (Working, 1.9y)
+- Software Engineering: Java (Working, 0.3y), Python (Working, 0.7y)
+- Data & AI: SQL (Working, 2.2y)
+
+EXPERIENCE
+* Wealth Management Performance Engineering Programme — a tier-1 wealth manager (2026-08 to present)
+  Built a performance engineering programme for a tier-1 wealth manager in wealth management using API Testing, Java and Test Automation, reducing production incidents by 22%.
+* E-commerce API Contract-testing Suite — a European online retailer (2026-01 to 2026-07)
+  Built an API contract-testing suite for a European online retailer in e-commerce using SQL, Python and Performance Testing, reducing production incidents by 25%.
+* Wealth Management Test Automation Framework — a global wealth manager (2024-12 to 2025-12)
+  Modernised a test automation framework for a global wealth manager in wealth management using API Testing, Test Automation and SQL, raising automated test coverage to 90%.
+* Wealth Management Test Automation Framework — a fast-growing wealth manager (2024-05 to 2024-10)
+  Re-architected a test automation framework for a fast-growing wealth manager in wealth management using Performance Testing, API Testing, Java and Python, raising automated test coverage to 80%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: QA Engineer, Full Stack Engineer, Backend Engineer

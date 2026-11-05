@@ -1,0 +1,30 @@
+PALLAVI GAGNON
+Lead Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP11376
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 12.7 years of experience, based in Chennai. Strong in Python, Machine Learning, SQL and Generative AI, with recent work in automotive. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 0.7y)
+- Data & AI: Machine Learning (Advanced, 11.8y), SQL (Advanced, 11.3y), Generative AI (Advanced, 4.8y), Deep Learning (Advanced, 10.6y), NLP (Advanced, 10.8y), Statistics (Proficient, 9.4y), Data Visualization (Proficient, 7.8y)
+- Product & Design: A/B Testing (Proficient, 6.3y)
+- Delivery & Leadership: Mentoring (Proficient, 7.3y)
+
+EXPERIENCE
+* Automotive Data Lakehouse — an APAC car maker (2025-09 to present)
+  Built a data lakehouse for an APAC car maker in automotive using SQL and Machine Learning, reducing processing time by 25%.
+* Insurance Claims Regulatory Reporting Suite — a fast-growing insurer (2024-08 to 2025-07)
+  Automated a regulatory reporting suite for a fast-growing insurer in insurance claims using Deep Learning and SQL, reducing processing time by 40%.
+* Healthcare Executive KPI Dashboard Suite — a US hospital network (2023-04 to 2024-05)
+  Migrated an executive KPI dashboard suite for a US hospital network in healthcare using NLP, Mentoring, Statistics and A/B Testing, improving forecast accuracy by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist, Product Manager, AI Engineer, Data Analyst

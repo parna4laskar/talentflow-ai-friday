@@ -1,0 +1,31 @@
+SIMRAN SEN
+QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP11574
+
+PROFESSIONAL SUMMARY
+QA Engineer with 4.8 years of experience, based in Hyderabad. Strong in Test Automation, Selenium, API Testing and Agile/Scrum, with recent work in media streaming. Interested in moving towards QA Engineer, Mobile Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 0.5y), Selenium (Proficient, 2.0y), API Testing (Proficient, 2.0y), Performance Testing (Proficient, 3.0y), Playwright (Proficient, 1.8y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 2.8y), Communication (Proficient, 0.4y)
+- Data & AI: SQL (Proficient, 2.4y), Responsible AI (Proficient, 1.9y)
+- Software Engineering: Python (Working, 0.3y)
+- Cloud & DevOps: CI/CD (Working, 0.3y)
+
+EXPERIENCE
+* Media Streaming Performance Engineering Programme — a tier-1 streaming platform (2026-06 to present)
+  Built a performance engineering programme for a tier-1 streaming platform in media streaming using Selenium, SQL, Python and Responsible AI, reducing production incidents by 25%.
+* Media Streaming Test Automation Framework — a leading streaming platform (2025-06 to 2026-04)
+  Re-architected a test automation framework for a leading streaming platform in media streaming using Selenium and CI/CD, accelerating releases by 40%.
+* Manufacturing IoT API Contract-testing Suite — a tier-1 manufacturer (2024-08 to 2025-04)
+  Built an API contract-testing suite for a tier-1 manufacturer in manufacturing IoT using Python, Performance Testing and CI/CD, reducing production incidents by 35%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, Mobile Engineer, Full Stack Engineer, DevOps Engineer

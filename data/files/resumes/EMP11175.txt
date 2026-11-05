@@ -1,0 +1,34 @@
+VAISHNAVI GUPTA
+Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11175
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.6 years of experience, based in Hyderabad. Strong in React, Java, TypeScript and SQL, with recent work in retail banking. Interested in moving towards Full Stack Engineer, Mobile Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 4.0y), Java (Advanced, 2.8y), TypeScript (Proficient, 3.0y), Next.js (Proficient, 1.9y), GraphQL (Working, 2.2y), REST API Design (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 1.5y), Snowflake (Beginner, 0.5y)
+- Cloud & DevOps: Docker (Proficient, 1.2y)
+
+EXPERIENCE
+* Retail Banking Mobile Banking App — a leading retail bank (2026-12 to present)
+  Designed a mobile banking app for a leading retail bank in retail banking using REST API Design and TypeScript, improving conversion by 18%.
+* E-commerce Claims Processing Engine — a fast-growing online retailer (2025-07 to 2026-10)
+  Migrated a claims processing engine for a fast-growing online retailer in e-commerce using Next.js and Java, saving ~22K hours annually.
+* Wealth Management Mobile Banking App — a tier-1 wealth manager (2024-09 to 2025-05)
+  Modernised a mobile banking app for a tier-1 wealth manager in wealth management using React, Snowflake, Java and Docker, improving conversion by 25%.
+* Retail Banking Self-service Portal — a tier-1 retail bank (2023-06 to 2024-09)
+  Automated a self-service portal for a tier-1 retail bank in retail banking using SQL, GraphQL, Next.js and Java, lifting NPS by 18 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Mobile Engineer

@@ -1,0 +1,34 @@
+EMMA CHEN
+Lead QA Engineer | Quality Engineering | New York, United States
+Employee ID: EMP12641
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 8.8 years of experience, based in New York. Strong in API Testing, Java, SQL and Stakeholder Management, with recent work in e-commerce. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 2.9y), Test Automation (Proficient, 0.9y), Selenium (Proficient, 1.4y)
+- Delivery & Leadership: People Leadership (Expert, 3.5y), Stakeholder Management (Advanced, 1.6y), Agile/Scrum (Proficient, 2.7y), Mentoring (Proficient, 6.2y)
+- Software Engineering: Java (Advanced, 8.0y), Python (Proficient, 4.5y)
+- Data & AI: SQL (Advanced, 4.2y)
+- Cloud & DevOps: CI/CD (Proficient, 3.8y), Platform Engineering (Working, 2.7y)
+
+EXPERIENCE
+* Airline Operations Performance Engineering Programme — a tier-1 airline (2026-11 to present)
+  Built a performance engineering programme for a tier-1 airline in airline operations using Selenium and Agile/Scrum, reducing production incidents by 12%.
+* Manufacturing IoT API Contract-testing Suite — a global manufacturer (2026-04 to 2026-10)
+  Re-architected an API contract-testing suite for a global manufacturer in manufacturing IoT using Selenium, Stakeholder Management, Mentoring and API Testing, raising automated test coverage to 70%.
+* E-commerce API Contract-testing Suite — a global online retailer (2025-02 to 2026-02)
+  Designed an API contract-testing suite for a global online retailer in e-commerce using API Testing and Test Automation, raising automated test coverage to 85%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2026)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager

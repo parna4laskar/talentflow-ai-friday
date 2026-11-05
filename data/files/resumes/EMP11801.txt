@@ -1,0 +1,29 @@
+ADITI AGARWAL
+Senior CRM Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP11801
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 6.9 years of experience, based in Pune. Strong in Salesforce, Business Analysis, Process Improvement and JavaScript, with recent work in manufacturing IoT. Interested in moving towards Scrum Master, SAP Consultant roles and open to relocating to New York, Kraków, London.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Proficient, 2.7y), Business Analysis (Proficient, 4.6y), Process Improvement (Proficient, 4.6y)
+- Software Engineering: JavaScript (Working, 0.4y)
+- Delivery & Leadership: Agile/Scrum (Working, 0.7y)
+
+EXPERIENCE
+* Manufacturing IoT ERP Finance Rollout — a tier-1 manufacturer (2026-08 to present)
+  Scaled an ERP finance rollout for a tier-1 manufacturer in manufacturing IoT using Salesforce, Business Analysis and Process Improvement, saving ~22K hours annually.
+* Pharma R&D Service Desk Automation — a tier-1 pharma company (2025-01 to 2026-06)
+  Migrated a service desk automation for a tier-1 pharma company in pharma R&D using JavaScript, Process Improvement, Business Analysis and Agile/Scrum, reducing processing time by 22%.
+* Manufacturing IoT CRM Rollout — a tier-1 manufacturer (2024-02 to 2024-12)
+  Built a CRM rollout for a tier-1 manufacturer in manufacturing IoT using JavaScript and Salesforce, improving conversion by 40%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Scrum Master, SAP Consultant

@@ -1,0 +1,31 @@
+VIVEK NOWAK
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP11058
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 9.7 years of experience, based in Bengaluru. Strong in Agile/Scrum, AWS, People Leadership and Stakeholder Management, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 9.7y), People Leadership (Advanced, 6.3y), Stakeholder Management (Advanced, 1.5y)
+- Cloud & DevOps: AWS (Expert, 8.2y)
+- Software Engineering: Python (Advanced, 9.2y), System Design (Proficient, 4.3y), Microservices (Proficient, 2.7y)
+
+EXPERIENCE
+* Automotive Pricing Engine — a leading car maker (2026-12 to present)
+  Automated a pricing engine for a leading car maker in automotive using Stakeholder Management, Agile/Scrum, System Design and Python, improving conversion by 25%.
+* Manufacturing IoT Claims Processing Engine — an APAC manufacturer (2026-03 to 2026-10)
+  Modernised a claims processing engine for an APAC manufacturer in manufacturing IoT using People Leadership, AWS and Stakeholder Management, reducing processing time by 35%.
+* Automotive Order Management System — a fast-growing car maker (2025-05 to 2026-02)
+  Automated an order management system for a fast-growing car maker in automotive using Python and Agile/Scrum, reducing processing time by 22%.
+* Manufacturing IoT Payments Microservices Platform — a US manufacturer (2024-06 to 2025-04)
+  Built a payments microservices platform for a US manufacturer in manufacturing IoT using Agile/Scrum and System Design, accelerating releases by 22%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Engineering Manager, Scrum Master, Program Manager

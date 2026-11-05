@@ -1,0 +1,30 @@
+EMMA JOHNSON
+Product Manager | Product | New York, United States
+Employee ID: EMP10139
+
+PROFESSIONAL SUMMARY
+Product Manager with 4 years of experience, based in New York. Strong in Roadmapping, Communication, Product Management and SQL, with recent work in healthcare. Interested in moving towards Business Analyst, Scrum Master roles.
+
+CORE SKILLS
+- Product & Design: Roadmapping (Advanced, 2.0y), Product Management (Proficient, 2.1y), Product Strategy (Proficient, 1.8y), A/B Testing (Beginner, 0.7y)
+- Delivery & Leadership: Communication (Advanced, 2.9y), Agile/Scrum (Proficient, 1.7y), Stakeholder Management (Working, 1.1y)
+- Data & AI: SQL (Proficient, 2.4y), Generative AI (Proficient, 0.7y)
+- Cloud & DevOps: FinOps (Working, 1.0y)
+
+EXPERIENCE
+* Healthcare Mobile App Relaunch — a fast-growing hospital network (2026-01 to present)
+  Owned a mobile app relaunch for a fast-growing hospital network in healthcare using A/B Testing, SQL, Agile/Scrum and Generative AI, lifting NPS by 12 points.
+* Healthcare B2B Analytics Product — a tier-1 hospital network (2024-11 to 2026-01)
+  Launched a B2B analytics product for a tier-1 hospital network in healthcare using Communication and Agile/Scrum, growing account revenue by 25%.
+* Healthcare Mobile App Relaunch — a leading hospital network (2023-07 to 2024-09)
+  Defined the roadmap for a mobile app relaunch for a leading hospital network in healthcare using Agile/Scrum and A/B Testing, improving conversion by 40%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Tamil
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, Scrum Master

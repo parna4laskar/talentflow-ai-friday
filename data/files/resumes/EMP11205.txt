@@ -1,0 +1,31 @@
+SIDDHARTH KHAN
+Lead Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11205
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 13.6 years of experience, based in Hyderabad. Strong in TypeScript, JavaScript, Angular and Next.js, with recent work in wealth management. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 7.1y), JavaScript (Advanced, 11.8y), Angular (Advanced, 6.6y), Next.js (Advanced, 8.9y), Node.js (Advanced, 0.7y)
+- Product & Design: Design Systems (Advanced, 1.5y), UI Design (Proficient, 5.2y)
+- Delivery & Leadership: Stakeholder Management (Working, 3.3y)
+
+EXPERIENCE
+* Wealth Management Payments Microservices Platform — a US wealth manager (2025-12 to present)
+  Built a payments microservices platform for a US wealth manager in wealth management using JavaScript and Node.js, accelerating releases by 40%.
+* Wealth Management Order Management System — an APAC wealth manager (2025-02 to 2025-10)
+  Designed an order management system for an APAC wealth manager in wealth management using Angular, TypeScript and Stakeholder Management, onboarding 6 new enterprise clients.
+* Wealth Management Order Management System — an APAC wealth manager (2023-09 to 2025-01)
+  Led the delivery of an order management system for an APAC wealth manager in wealth management using Stakeholder Management, Node.js, Design Systems and Angular, onboarding 3 new enterprise clients.
+* Healthcare Pricing Engine — an APAC hospital network (2022-10 to 2023-09)
+  Led the delivery of a pricing engine for an APAC hospital network in healthcare using Stakeholder Management, Angular, Next.js and TypeScript, reducing processing time by 30%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, Mobile Engineer

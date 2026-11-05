@@ -1,0 +1,28 @@
+CIAN BYRNE
+Associate Data Engineer | Data & Analytics | Dublin, Ireland
+Employee ID: EMP12623
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 2.7 years of experience, based in Dublin. Strong in Airflow, SQL, Python and Snowflake, with recent work in retail banking. Interested in moving towards Data Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: Airflow (Advanced, 2.6y), SQL (Proficient, 1.7y), Snowflake (Proficient, 1.5y), Data Engineering (Working, 0.6y)
+- Software Engineering: Python (Proficient, 1.9y)
+- Cloud & DevOps: AWS (Proficient, 1.7y)
+- People & Marketing: People Analytics (Beginner, 0.5y)
+
+EXPERIENCE
+* Telecom Billing Regulatory Reporting Suite — a global telecom operator (2026-08 to present)
+  Modernised a regulatory reporting suite for a global telecom operator in telecom billing using Snowflake, Data Engineering and Airflow, saving ~25K hours annually.
+* Retail Banking Executive KPI Dashboard Suite — a European retail bank (2025-01 to 2026-05)
+  Led the delivery of an executive KPI dashboard suite for a European retail bank in retail banking using Snowflake, Airflow, SQL and Python, saving ~35K hours annually.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer, Backend Engineer, AI Engineer

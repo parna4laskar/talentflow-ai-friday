@@ -1,0 +1,28 @@
+IMRAN RAO
+Senior Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP12004
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 7.7 years of experience, based in Gurugram. Strong in C#, SQL, Spring Boot and REST API Design, with recent work in payments. Interested in moving towards Full Stack Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 4.7y), Spring Boot (Advanced, 3.7y), REST API Design (Proficient, 4.0y), Microservices (Proficient, 2.3y), GraphQL (Proficient, 1.7y), .NET Core (Proficient, 5.2y), System Design (Working, 0.5y), Kafka (Working, 3.1y)
+- Data & AI: SQL (Advanced, 1.7y), Data Visualization (Working, 0.3y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a leading hospital network (2025-12 to present)
+  Designed a payments microservices platform for a leading hospital network in healthcare using C#, REST API Design, Kafka and Microservices, reducing production incidents by 40%.
+* Payments Customer Onboarding Platform — an APAC payments provider (2024-09 to 2025-11)
+  Designed a customer onboarding platform for an APAC payments provider in payments using Kafka and SQL, reducing processing time by 22%.
+* Retail Banking Claims Processing Engine — a leading retail bank (2024-01 to 2024-07)
+  Led the delivery of a claims processing engine for a leading retail bank in retail banking using Spring Boot, SQL and Data Visualization, saving ~35K hours annually.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Engineering Manager, DevOps Engineer

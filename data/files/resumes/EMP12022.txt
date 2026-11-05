@@ -1,0 +1,30 @@
+SAYALI JOSHI
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP12022
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 11.2 years of experience, based in Hyderabad. Strong in Azure, REST API Design, System Design and Microservices, with recent work in public sector. Interested in moving towards Software Architect, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Expert, 11.2y), Kubernetes (Proficient, 5.1y)
+- Software Engineering: REST API Design (Expert, 2.5y), System Design (Advanced, 6.2y), Microservices (Advanced, 2.6y), Python (Advanced, 3.0y), Kafka (Proficient, 4.8y)
+- Delivery & Leadership: People Leadership (Expert, 6.6y), Stakeholder Management (Advanced, 4.2y), Communication (Advanced, 6.2y)
+- Data & AI: MLOps (Proficient, 6.0y)
+
+EXPERIENCE
+* Payments Self-service Portal — a tier-1 payments provider (2025-06 to present)
+  Designed a self-service portal for a tier-1 payments provider in payments using Azure, Kafka, Stakeholder Management and Microservices, saving ~25K hours annually.
+* Manufacturing IoT Customer Onboarding Platform — a US manufacturer (2024-10 to 2025-04)
+  Migrated a customer onboarding platform for a US manufacturer in manufacturing IoT using Communication and Python, reducing processing time by 22%.
+* Public Sector Pricing Engine — an APAC government agency (2023-06 to 2024-09)
+  Re-architected a pricing engine for an APAC government agency in public sector using Azure, Communication, Kafka and REST API Design, improving conversion by 25%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Backend Engineer, DevOps Engineer

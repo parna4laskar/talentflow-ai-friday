@@ -1,0 +1,30 @@
+ADITI RAO
+Security Engineer | Cyber Security | Hyderabad, India
+Employee ID: EMP11945
+
+PROFESSIONAL SUMMARY
+Security Engineer with 4.8 years of experience, based in Hyderabad. Strong in Application Security, Cloud Security, Threat Modeling and SIEM, with recent work in media streaming. Interested in moving towards Cloud Engineer, Security Analyst roles.
+
+CORE SKILLS
+- Security: Application Security (Advanced, 3.7y), Cloud Security (Advanced, 1.3y), Threat Modeling (Proficient, 3.2y), SIEM (Proficient, 3.3y), Incident Response (Proficient, 3.6y)
+
+EXPERIENCE
+* Energy Trading Secure SDLC Rollout — a global energy company (2026-04 to present)
+  Automated a secure SDLC rollout for a global energy company in energy trading using Incident Response, Cloud Security, Threat Modeling and Application Security, reducing production incidents by 25%.
+* E-commerce Security Operations Centre Uplift — a fast-growing online retailer (2025-04 to 2026-02)
+  Automated a security operations centre uplift for a fast-growing online retailer in e-commerce using Cloud Security, SIEM, Application Security and Threat Modeling, reducing production incidents by 35%.
+* Media Streaming Cloud Security Posture Programme — a tier-1 streaming platform (2023-10 to 2025-03)
+  Built a cloud security posture programme for a tier-1 streaming platform in media streaming using Cloud Security and Threat Modeling, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- CCSP (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Cloud Engineer, Security Analyst, Site Reliability Engineer

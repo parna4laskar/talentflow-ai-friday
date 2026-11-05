@@ -1,0 +1,31 @@
+OLIVIA TAYLOR
+CRM Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP11326
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 5.2 years of experience, based in London. Strong in ServiceNow, Business Analysis, JavaScript and Process Improvement, with recent work in airline operations. Interested in moving towards CRM Consultant, SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Proficient, 2.5y), Business Analysis (Proficient, 1.2y), Process Improvement (Working, 1.5y)
+- Software Engineering: JavaScript (Working, 2.3y)
+
+EXPERIENCE
+* Payments Service Desk Automation — a US payments provider (2025-10 to present)
+  Built a service desk automation for a US payments provider in payments using JavaScript, Business Analysis and Process Improvement, reducing processing time by 12%.
+* Airline Operations CRM Rollout — a fast-growing airline (2025-02 to 2025-09)
+  Migrated a CRM rollout for a fast-growing airline in airline operations using JavaScript and ServiceNow, improving conversion by 30%.
+* Airline Operations CRM Rollout — a leading airline (2024-02 to 2025-01)
+  Automated a CRM rollout for a leading airline in airline operations using Process Improvement, ServiceNow, Business Analysis and JavaScript, reducing processing time by 30%.
+
+CERTIFICATIONS
+- ServiceNow CSA (2026)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: CRM Consultant, SAP Consultant, Account Manager, Scrum Master

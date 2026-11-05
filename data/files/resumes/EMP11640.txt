@@ -1,0 +1,31 @@
+MEERA SUBRAMANIAN
+Lead AI Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP11640
+
+PROFESSIONAL SUMMARY
+Lead AI Engineer with 9.2 years of experience, based in Bengaluru. Strong in LLM Engineering, Python, Generative AI and NLP, with recent work in telecom billing. Interested in moving towards AI Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Expert, 5.3y), Generative AI (Advanced, 3.0y), NLP (Proficient, 6.7y), Vector Databases (Proficient, 1.6y)
+- Software Engineering: Python (Advanced, 8.6y), REST API Design (Proficient, 5.3y)
+- Delivery & Leadership: Communication (Proficient, 4.8y), People Leadership (Proficient, 5.3y)
+
+EXPERIENCE
+* Telecom Billing Knowledge Assistant (RAG) — a European telecom operator (2026-02 to present)
+  Scaled a knowledge assistant (RAG) for a European telecom operator in telecom billing using REST API Design, NLP, LLM Engineering and Generative AI, saving ~30K hours annually.
+* Telecom Billing Recommendation Engine — an APAC telecom operator (2024-11 to 2026-02)
+  Built a recommendation engine for an APAC telecom operator in telecom billing using REST API Design and Python, improving conversion by 12%.
+* Healthcare Recommendation Engine — a global hospital network (2023-04 to 2024-09)
+  Automated a recommendation engine for a global hospital network in healthcare using NLP, Python, Vector Databases and Communication, improving conversion by 30%.
+* Telecom Billing Knowledge Assistant (RAG) — a global telecom operator (2021-10 to 2023-04)
+  Automated a knowledge assistant (RAG) for a global telecom operator in telecom billing using Generative AI and Vector Databases, saving ~22K hours annually.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, Full Stack Engineer, DevOps Engineer

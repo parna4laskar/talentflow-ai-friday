@@ -1,0 +1,29 @@
+LIAM PATEL
+Associate Site Reliability Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP12198
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 0.8 years of experience, based in New York. Strong in Kubernetes, Linux Administration, Communication and Site Reliability Engineering, with recent work in payments. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to Pune, Bengaluru, Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Proficient, 0.4y), Linux Administration (Proficient, 0.5y), Site Reliability Engineering (Working, 0.4y), Observability (Working, 0.4y), Terraform (Working, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+- Quality Engineering: Performance Testing (Working, 0.3y)
+- Software Engineering: Go (Working, 0.3y), Python (Beginner, 0.3y)
+- Security: Incident Response (Working, 0.3y)
+
+EXPERIENCE
+* Public Sector Observability Stack — a leading government agency (2025-09 to present)
+  Designed an observability stack for a leading government agency in public sector using Python, Performance Testing, Go and Communication, accelerating releases by 25%.
+* Payments Observability Stack — a European payments provider (2023-12 to 2025-06)
+  Automated an observability stack for a European payments provider in payments using Linux Administration, Observability and Incident Response, reducing production incidents by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Cloud Engineer, DevOps Engineer, Security Engineer

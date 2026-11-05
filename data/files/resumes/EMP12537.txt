@@ -1,0 +1,29 @@
+RAJESH GOKHALE
+Mobile Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12537
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 2 years of experience, based in Hyderabad. Strong in Flutter, TypeScript, Test Automation and Communication, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Flutter (Proficient, 0.5y), TypeScript (Proficient, 1.3y), Mobile Development (Working, 0.6y)
+- Quality Engineering: Test Automation (Proficient, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+- Cloud & DevOps: CI/CD (Working, 0.6y), FinOps (Beginner, 0.5y)
+- Product & Design: UI Design (Working, 0.7y), Design Systems (Working, 0.7y)
+
+EXPERIENCE
+* Manufacturing IoT Order Management System — a fast-growing manufacturer (2026-04 to present)
+  Re-architected an order management system for a fast-growing manufacturer in manufacturing IoT using TypeScript and Communication, reducing processing time by 40%.
+* Manufacturing IoT Customer Onboarding Platform — a global manufacturer (2025-07 to 2026-02)
+  Scaled a customer onboarding platform for a global manufacturer in manufacturing IoT using CI/CD and TypeScript, reducing processing time by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, QA Engineer

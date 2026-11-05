@@ -1,0 +1,30 @@
+KARTHIK GOKHALE
+UX Designer | Design | Hyderabad, India
+Employee ID: EMP10719
+
+PROFESSIONAL SUMMARY
+UX Designer with 2 years of experience, based in Hyderabad. Strong in Figma, UX Research, UI Design and Product Management, with recent work in healthcare. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Product & Design: Figma (Advanced, 1.3y), UX Research (Proficient, 0.8y), UI Design (Proficient, 0.9y), Product Management (Proficient, 0.9y), Design Systems (Working, 0.7y), A/B Testing (Working, 0.7y)
+- Cloud & DevOps: Terraform (Proficient, 1.0y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+
+EXPERIENCE
+* Public Sector Onboarding Flow — a European government agency (2025-10 to present)
+  Ran research for an onboarding flow for a European government agency in public sector using Communication, Product Management, Design Systems and Figma, lifting NPS by 18 points.
+* Supply-chain Logistics Enterprise Design System — an APAC logistics company (2024-03 to 2025-07)
+  Redesigned an enterprise design system for an APAC logistics company in supply-chain logistics using Terraform, UI Design and Product Management, accelerating releases by 12%.
+
+CERTIFICATIONS
+- NN/g UX Certification (2025)
+
+EDUCATION
+- B.Des Interaction Design
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer

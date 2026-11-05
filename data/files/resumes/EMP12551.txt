@@ -1,0 +1,32 @@
+VENKAT RAO
+Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12551
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.4 years of experience, based in Bengaluru. Strong in Angular, TypeScript, Next.js and Node.js, with recent work in wealth management. Interested in moving towards Software Architect, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 0.9y), TypeScript (Proficient, 0.6y), Next.js (Proficient, 2.3y), Node.js (Working, 2.0y), REST API Design (Working, 1.6y), React (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.7y)
+- Cloud & DevOps: AWS (Beginner, 0.8y)
+
+EXPERIENCE
+* Wealth Management Self-service Portal — a tier-1 wealth manager (2026-05 to present)
+  Designed a self-service portal for a tier-1 wealth manager in wealth management using Node.js, TypeScript, React and Angular, lifting NPS by 22 points.
+* Airline Operations Claims Processing Engine — a tier-1 airline (2024-12 to 2026-04)
+  Modernised a claims processing engine for a tier-1 airline in airline operations using AWS, Next.js and SQL, reducing processing time by 22%.
+* Wealth Management Pricing Engine — an APAC wealth manager (2023-09 to 2024-11)
+  Modernised a pricing engine for an APAC wealth manager in wealth management using AWS, Node.js and Angular, reducing processing time by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, Mobile Engineer, Frontend Engineer

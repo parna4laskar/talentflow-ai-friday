@@ -1,0 +1,31 @@
+JAMAL WASHINGTON
+Senior DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11400
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 6.6 years of experience, based in New York. Strong in CI/CD, Linux Administration, Docker and AWS, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 3.0y), Linux Administration (Advanced, 1.8y), Docker (Proficient, 3.4y), AWS (Proficient, 2.0y), Observability (Proficient, 2.5y), Kubernetes (Working, 1.0y)
+- Software Engineering: Python (Proficient, 4.4y), Go (Proficient, 3.2y)
+
+EXPERIENCE
+* Wealth Management Data-centre Exit To Cloud — a tier-1 wealth manager (2026-07 to present)
+  Designed a data-centre exit to cloud for a tier-1 wealth manager in wealth management using Linux Administration and Kubernetes, delivering $8M in cost savings.
+* Pharma R&D Cloud Landing Zone — a global pharma company (2025-09 to 2026-06)
+  Led the delivery of a cloud landing zone for a global pharma company in pharma R&D using Observability, Linux Administration, AWS and CI/CD, cutting cloud spend by 40%.
+* Airline Operations Observability Stack — an APAC airline (2024-08 to 2025-07)
+  Automated an observability stack for an APAC airline in airline operations using Python and Go, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Platform Engineer

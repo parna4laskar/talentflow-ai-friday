@@ -1,0 +1,29 @@
+SAMEER PATIL
+QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP12150
+
+PROFESSIONAL SUMMARY
+QA Engineer with 2.4 years of experience, based in Hyderabad. Strong in Test Automation, CI/CD, Selenium and API Testing, with recent work in wealth management. Interested in moving towards Mobile Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 2.0y), Selenium (Proficient, 1.0y), API Testing (Proficient, 1.6y)
+- Cloud & DevOps: CI/CD (Advanced, 0.9y)
+- Data & AI: SQL (Proficient, 1.2y)
+- Software Engineering: Java (Proficient, 1.7y), Python (Working, 0.5y)
+- Delivery & Leadership: Agile/Scrum (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Test Automation Framework — a tier-1 wealth manager (2026-07 to present)
+  Designed a test automation framework for a tier-1 wealth manager in wealth management using Test Automation, Java and CI/CD, accelerating releases by 25%.
+* Healthcare API Contract-testing Suite — a leading hospital network (2025-12 to 2026-06)
+  Automated an API contract-testing suite for a leading hospital network in healthcare using API Testing and Test Automation, raising automated test coverage to 90%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Mobile Engineer, Backend Engineer

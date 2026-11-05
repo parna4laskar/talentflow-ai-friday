@@ -1,0 +1,31 @@
+NIKHIL NAIDU
+Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12571
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 3.1 years of experience, based in Pune. Strong in Terraform, Azure, Linux Administration and Platform Engineering, with recent work in HR tech. Interested in moving towards Cloud Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 1.7y), Azure (Proficient, 1.7y), Linux Administration (Proficient, 1.9y), Platform Engineering (Proficient, 1.3y), CI/CD (Working, 1.2y)
+- Security: Cloud Security (Working, 0.9y)
+
+EXPERIENCE
+* Energy Trading Cloud Landing Zone — a tier-1 energy company (2026-08 to present)
+  Automated a cloud landing zone for a tier-1 energy company in energy trading using Platform Engineering, Terraform and Cloud Security, accelerating releases by 35%.
+* HR Tech Kubernetes Platform — a tier-1 HR software company (2025-02 to 2026-06)
+  Migrated a Kubernetes platform for a tier-1 HR software company in HR tech using Linux Administration, CI/CD and Cloud Security, accelerating releases by 12%.
+* HR Tech Cloud Landing Zone — a European HR software company (2024-01 to 2025-01)
+  Designed a cloud landing zone for a European HR software company in HR tech using Cloud Security, Azure and Terraform, accelerating releases by 18%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2024)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer, Software Architect

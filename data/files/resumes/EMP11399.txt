@@ -1,0 +1,35 @@
+TEJAS KAPOOR
+Lead Software Architect | Engineering | Pune, India
+Employee ID: EMP11399
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.9 years of experience, based in Pune. Strong in Java, AWS, System Design and Microservices, with recent work in telecom billing. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 4.3y), System Design (Advanced, 2.0y), Microservices (Advanced, 4.0y), Kafka (Advanced, 7.0y), REST API Design (Advanced, 8.3y)
+- Cloud & DevOps: AWS (Expert, 6.7y)
+- Security: Cloud Security (Advanced, 11.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.7y), Mentoring (Proficient, 1.7y), People Leadership (Proficient, 2.8y), Communication (Working, 5.3y)
+
+EXPERIENCE
+* Telecom Billing Order Management System — a global telecom operator (2025-09 to present)
+  Scaled an order management system for a global telecom operator in telecom billing using Stakeholder Management, Java and Communication, onboarding 6 new enterprise clients.
+* Wealth Management Mobile Banking App — a leading wealth manager (2025-02 to 2025-08)
+  Led the delivery of a mobile banking app for a leading wealth manager in wealth management using Java, Communication and System Design, improving conversion by 12%.
+* Telecom Billing Claims Processing Engine — a leading telecom operator (2023-08 to 2024-12)
+  Modernised a claims processing engine for a leading telecom operator in telecom billing using Java, Communication and Stakeholder Management, saving ~40K hours annually.
+* Telecom Billing Pricing Engine — a European telecom operator (2022-05 to 2023-06)
+  Scaled a pricing engine for a European telecom operator in telecom billing using Cloud Security, AWS, Java and Communication, improving conversion by 22%.
+
+CERTIFICATIONS
+- TOGAF 10 (2023)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer

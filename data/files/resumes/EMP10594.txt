@@ -1,0 +1,30 @@
+PRASAD SINGH
+Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP10594
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5.1 years of experience, based in Pune. Strong in Tableau, SQL, Data Visualization and Snowflake, with recent work in manufacturing IoT. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Tableau (Advanced, 4.0y), SQL (Proficient, 2.5y), Data Visualization (Working, 1.9y), Snowflake (Working, 0.5y)
+- Business & Finance: Business Analysis (Working, 1.0y), Requirements Gathering (Beginner, 1.2y)
+- Product & Design: A/B Testing (Working, 0.4y)
+- People & Marketing: Digital Marketing (Beginner, 0.9y)
+
+EXPERIENCE
+* Manufacturing IoT Real-time Analytics Pipeline — a fast-growing manufacturer (2025-10 to present)
+  Re-architected a real-time analytics pipeline for a fast-growing manufacturer in manufacturing IoT using Data Visualization, A/B Testing, Snowflake and Digital Marketing, reducing processing time by 30%.
+* Wealth Management Customer Churn Model — a European wealth manager (2024-07 to 2025-10)
+  Scaled a customer churn model for a European wealth manager in wealth management using Requirements Gathering, Digital Marketing and Tableau, improving model accuracy by 40%.
+* Manufacturing IoT Executive KPI Dashboard Suite — a fast-growing manufacturer (2023-11 to 2024-07)
+  Led the delivery of an executive KPI dashboard suite for a fast-growing manufacturer in manufacturing IoT using Data Visualization, A/B Testing, Digital Marketing and Snowflake, saving ~35K hours annually.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, Financial Analyst, Business Analyst, Data Scientist

@@ -1,0 +1,28 @@
+LUCAS GAGNON
+Associate CRM Consultant | Enterprise Applications | Toronto, Canada
+Employee ID: EMP10783
+
+PROFESSIONAL SUMMARY
+Associate CRM Consultant with 1.5 years of experience, based in Toronto. Strong in Business Analysis, Process Improvement, Agile/Scrum and Salesforce, with recent work in HR tech. Interested in moving towards Account Manager roles and open to relocating to Gurugram, Pune, London.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 0.8y), Process Improvement (Proficient, 0.5y), Salesforce (Working, 0.5y), Requirements Gathering (Beginner, 0.3y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.9y), Communication (Working, 0.7y)
+- Software Engineering: JavaScript (Working, 0.6y)
+- Cloud & DevOps: FinOps (Working, 0.3y)
+
+EXPERIENCE
+* Retail Banking CRM Rollout — a fast-growing retail bank (2026-10 to present)
+  Built a CRM rollout for a fast-growing retail bank in retail banking using Salesforce, FinOps, Communication and Business Analysis, improving conversion by 22%.
+* HR Tech Service Desk Automation — an APAC HR software company (2025-03 to 2026-08)
+  Modernised a service desk automation for an APAC HR software company in HR tech using Business Analysis and FinOps, saving ~18K hours annually.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, French, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Account Manager

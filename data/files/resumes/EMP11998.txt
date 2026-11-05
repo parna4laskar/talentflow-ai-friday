@@ -1,0 +1,30 @@
+SIMRAN CHATTERJEE
+Lead Engineering Manager | Engineering | Hyderabad, India
+Employee ID: EMP11998
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 10.2 years of experience, based in Hyderabad. Strong in Agile/Scrum, People Leadership, Python and System Design, with recent work in payments. Interested in moving towards Program Manager, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 10.1y), People Leadership (Advanced, 5.8y), Stakeholder Management (Proficient, 3.3y), Mentoring (Proficient, 4.5y)
+- Software Engineering: Python (Advanced, 4.6y), System Design (Proficient, 1.0y), Microservices (Proficient, 7.0y)
+- Cloud & DevOps: AWS (Proficient, 6.9y), Terraform (Proficient, 1.2y)
+- Quality Engineering: Playwright (Proficient, 1.2y)
+
+EXPERIENCE
+* Payments Mobile Banking App — a tier-1 payments provider (2025-09 to present)
+  Re-architected a mobile banking app for a tier-1 payments provider in payments using Playwright, AWS, Python and System Design, improving conversion by 12%.
+* Payments Claims Processing Engine — a leading payments provider (2024-04 to 2025-07)
+  Led the delivery of a claims processing engine for a leading payments provider in payments using Microservices, People Leadership and Terraform, reducing processing time by 40%.
+* Retail Banking Mobile Banking App — a US retail bank (2023-02 to 2024-01)
+  Led the delivery of a mobile banking app for a US retail bank in retail banking using People Leadership, System Design, Mentoring and Playwright, lifting NPS by 12 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Program Manager, Scrum Master, Software Architect

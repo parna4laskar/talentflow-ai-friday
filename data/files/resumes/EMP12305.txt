@@ -1,0 +1,35 @@
+SEÁN DOYLE
+Lead Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP12305
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 11.3 years of experience, based in Dublin. Strong in Python, Kafka, Playwright and REST API Design, with recent work in manufacturing IoT. Interested in moving towards Backend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 5.9y), Kafka (Advanced, 0.7y), REST API Design (Proficient, 7.7y), Microservices (Proficient, 7.8y), System Design (Proficient, 6.6y)
+- Quality Engineering: Playwright (Advanced, 2.3y)
+- Delivery & Leadership: People Leadership (Advanced, 6.2y)
+- Cloud & DevOps: AWS (Proficient, 8.3y), Docker (Proficient, 3.9y), CI/CD (Proficient, 8.0y)
+- Data & AI: SQL (Working, 1.2y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a tier-1 manufacturer (2026-05 to present)
+  Designed a mobile banking app for a tier-1 manufacturer in manufacturing IoT using Microservices, System Design, Playwright and Python, lifting NPS by 22 points.
+* Manufacturing IoT Order Management System — a leading manufacturer (2025-10 to 2026-03)
+  Built an order management system for a leading manufacturer in manufacturing IoT using Kafka and Playwright, reducing processing time by 40%.
+* Manufacturing IoT Order Management System — a fast-growing manufacturer (2024-10 to 2025-08)
+  Automated an order management system for a fast-growing manufacturer in manufacturing IoT using Playwright, SQL, REST API Design and Kafka, onboarding 6 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Irish, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, Software Architect

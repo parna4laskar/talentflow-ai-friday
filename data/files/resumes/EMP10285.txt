@@ -1,0 +1,28 @@
+SIDDHARTH PATIL
+Lead Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10285
+
+PROFESSIONAL SUMMARY
+Lead Platform Engineer with 10 years of experience, based in Bengaluru. Strong in CI/CD, Platform Engineering, Kubernetes and Terraform, with recent work in telecom billing. Interested in moving towards Platform Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 8.9y), Platform Engineering (Proficient, 7.1y), Kubernetes (Proficient, 7.4y), Terraform (Proficient, 6.8y), Site Reliability Engineering (Proficient, 6.5y), AWS (Proficient, 4.3y), Linux Administration (Proficient, 3.0y)
+- Delivery & Leadership: People Leadership (Advanced, 5.9y), Stakeholder Management (Working, 4.8y)
+
+EXPERIENCE
+* Telecom Billing Cloud Landing Zone — a European telecom operator (2026-05 to present)
+  Migrated a cloud landing zone for a European telecom operator in telecom billing using Kubernetes, AWS and Linux Administration, accelerating releases by 18%.
+* HR Tech Kubernetes Platform — an APAC HR software company (2024-12 to 2026-02)
+  Automated a Kubernetes platform for an APAC HR software company in HR tech using Terraform and Platform Engineering, accelerating releases by 35%.
+* Telecom Billing Kubernetes Platform — a US telecom operator (2023-10 to 2024-09)
+  Re-architected a Kubernetes platform for a US telecom operator in telecom billing using Linux Administration, AWS, Terraform and CI/CD, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Platform Engineer, Cloud Engineer, DevOps Engineer

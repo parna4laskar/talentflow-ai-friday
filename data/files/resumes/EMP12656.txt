@@ -1,0 +1,31 @@
+ETHAN GARCIA
+Lead Data Scientist | Data & Analytics | Austin, United States
+Employee ID: EMP12656
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 9.6 years of experience, based in Austin. Strong in Machine Learning, Statistics, SQL and Apache Spark, with recent work in energy trading. Interested in moving towards Product Manager roles and open to relocating to New York, London, Pune.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 1.8y), Statistics (Advanced, 3.1y), SQL (Advanced, 3.9y), Apache Spark (Advanced, 2.8y), Generative AI (Proficient, 6.8y), Data Visualization (Proficient, 5.4y)
+- Delivery & Leadership: People Leadership (Advanced, 3.5y), Stakeholder Management (Proficient, 4.2y), Communication (Proficient, 5.9y)
+- Software Engineering: Python (Proficient, 3.9y)
+
+EXPERIENCE
+* Energy Trading Regulatory Reporting Suite — a fast-growing energy company (2026-02 to present)
+  Led the delivery of a regulatory reporting suite for a fast-growing energy company in energy trading using Stakeholder Management and Communication, saving ~40K hours annually.
+* Energy Trading Real-time Analytics Pipeline — a leading energy company (2025-01 to 2026-01)
+  Led the delivery of a real-time analytics pipeline for a leading energy company in energy trading using Data Visualization, Machine Learning and Statistics, reducing processing time by 25%.
+* Public Sector Customer Churn Model — a European government agency (2024-03 to 2024-12)
+  Modernised a customer churn model for a European government agency in public sector using SQL and Communication, improving conversion by 22%.
+* Energy Trading Data Lakehouse — a tier-1 energy company (2023-04 to 2024-01)
+  Led the delivery of a data lakehouse for a tier-1 energy company in energy trading using Communication, Statistics, Data Visualization and Generative AI, reducing processing time by 40%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Product Manager

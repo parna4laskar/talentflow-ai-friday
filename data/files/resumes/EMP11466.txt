@@ -1,0 +1,27 @@
+TANVI KAPOOR
+Associate Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11466
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.2 years of experience, based in Hyderabad. Strong in TypeScript, Design Systems, JavaScript and Angular, with recent work in e-commerce. Interested in moving towards UX Designer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.1y), JavaScript (Working, 0.3y), Angular (Working, 0.4y), Node.js (Working, 0.5y), GraphQL (Beginner, 0.3y)
+- Product & Design: Design Systems (Advanced, 0.9y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a leading online retailer (2026-01 to present)
+  Led the delivery of a mobile banking app for a leading online retailer in e-commerce using Node.js and Design Systems, improving conversion by 18%.
+* Energy Trading Pricing Engine — a fast-growing energy company (2025-02 to 2025-11)
+  Led the delivery of a pricing engine for a fast-growing energy company in energy trading using Communication, Design Systems and Angular, improving conversion by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: UX Designer, Mobile Engineer

@@ -1,0 +1,31 @@
+IMRAN MEHTA
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP12003
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.4 years of experience, based in Bengaluru. Strong in People Leadership, Stakeholder Management, Python and Communication, with recent work in public sector. Interested in moving towards Engineering Manager, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 0.8y), Stakeholder Management (Advanced, 2.4y), Communication (Advanced, 1.3y), Agile/Scrum (Proficient, 1.9y), Mentoring (Proficient, 2.0y)
+- Software Engineering: Python (Advanced, 1.7y), System Design (Proficient, 4.1y), Microservices (Working, 4.1y)
+- Cloud & DevOps: AWS (Proficient, 3.5y)
+
+EXPERIENCE
+* Public Sector Claims Processing Engine — a tier-1 government agency (2025-08 to present)
+  Migrated a claims processing engine for a tier-1 government agency in public sector using People Leadership and AWS, saving ~35K hours annually.
+* Public Sector Self-service Portal — a global government agency (2024-12 to 2025-06)
+  Re-architected a self-service portal for a global government agency in public sector using People Leadership and Microservices, saving ~25K hours annually.
+* Healthcare Order Management System — a global hospital network (2024-02 to 2024-12)
+  Scaled an order management system for a global hospital network in healthcare using AWS, System Design, Stakeholder Management and Python, onboarding 2 new enterprise clients.
+* Public Sector Customer Onboarding Platform — a leading government agency (2022-10 to 2023-12)
+  Led the delivery of a customer onboarding platform for a leading government agency in public sector using Mentoring, Stakeholder Management, People Leadership and Python, improving conversion by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Engineering Manager, Scrum Master, Software Architect, Backend Engineer

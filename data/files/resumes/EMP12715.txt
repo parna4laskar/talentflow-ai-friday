@@ -1,0 +1,26 @@
+SEÁN KELLY
+Associate Data Engineer | Data & Analytics | Dublin, Ireland
+Employee ID: EMP12715
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1.6 years of experience, based in Dublin. Strong in Airflow, SQL, Data Engineering and Python, with recent work in airline operations. Interested in moving towards Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Airflow (Advanced, 0.9y), SQL (Working, 0.5y), Data Engineering (Working, 0.3y), Snowflake (Beginner, 0.3y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Regulatory Reporting Suite — a leading airline (2025-11 to present)
+  Re-architected a regulatory reporting suite for a leading airline in airline operations using Snowflake, SQL, Python and Data Engineering, reducing processing time by 40%.
+* Automotive Executive KPI Dashboard Suite — a leading car maker (2024-06 to 2025-09)
+  Designed an executive KPI dashboard suite for a leading car maker in automotive using Python, SQL, Snowflake and Data Engineering, saving ~30K hours annually.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst

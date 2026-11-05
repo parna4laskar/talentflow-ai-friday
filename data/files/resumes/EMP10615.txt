@@ -1,0 +1,29 @@
+ISLA TAYLOR
+Risk & Compliance Analyst | Risk & Compliance | London, United Kingdom
+Employee ID: EMP10615
+
+PROFESSIONAL SUMMARY
+Risk & Compliance Analyst with 3.4 years of experience, based in London. Strong in GRC, Risk Management, Regulatory Compliance and Financial Analysis, with recent work in public sector. Interested in moving towards Risk & Compliance Analyst, Security Analyst roles.
+
+CORE SKILLS
+- Security: GRC (Advanced, 2.0y)
+- Business & Finance: Risk Management (Proficient, 0.7y), Regulatory Compliance (Proficient, 2.2y), Financial Analysis (Working, 1.4y)
+- Data & AI: Responsible AI (Working, 0.6y), SQL (Beginner, 0.5y), Data Governance (Beginner, 0.5y)
+
+EXPERIENCE
+* Public Sector Regulatory Capital Reporting — an APAC government agency (2025-05 to present)
+  Owned a regulatory capital reporting for an APAC government agency in public sector using GRC and SQL, reducing processing time by 35%.
+* Public Sector Rolling Forecasting Model — a global government agency (2024-05 to 2025-04)
+  Redesigned a rolling forecasting model for a global government agency in public sector using Data Governance and Risk Management, saving ~40K hours annually.
+* Wealth Management Cost Transformation Programme — an APAC wealth manager (2022-12 to 2024-04)
+  Redesigned a cost transformation programme for an APAC wealth manager in wealth management using GRC, SQL, Financial Analysis and Responsible AI, delivering $8M in cost savings.
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Risk & Compliance Analyst, Security Analyst, Data Engineer, SAP Consultant

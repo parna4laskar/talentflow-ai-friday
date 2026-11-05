@@ -1,0 +1,35 @@
+SIMRAN JOSHI
+Principal Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11724
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 12.7 years of experience, based in Hyderabad. Strong in SQL, Microservices, .NET Core and Java, with recent work in manufacturing IoT. Interested in moving towards Software Architect, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 8.4y), Snowflake (Working, 2.8y)
+- Software Engineering: Microservices (Expert, 12.7y), .NET Core (Expert, 7.7y), Java (Advanced, 8.6y), REST API Design (Advanced, 11.4y), Kafka (Advanced, 8.1y)
+- Cloud & DevOps: AWS (Advanced, 12.4y), Docker (Advanced, 7.0y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 10.9y)
+
+EXPERIENCE
+* Automotive Mobile Banking App — a leading car maker (2026-06 to present)
+  Migrated a mobile banking app for a leading car maker in automotive using SQL, REST API Design and Docker, lifting NPS by 12 points.
+* Manufacturing IoT Claims Processing Engine — a European manufacturer (2024-12 to 2026-04)
+  Scaled a claims processing engine for a European manufacturer in manufacturing IoT using Stakeholder Management and Kafka, saving ~18K hours annually.
+* Airline Operations Pricing Engine — a European airline (2024-01 to 2024-10)
+  Led the delivery of a pricing engine for a European airline in airline operations using Kafka, Microservices and Java, improving conversion by 25%.
+* Wealth Management Self-service Portal — a US wealth manager (2023-07 to 2023-12)
+  Led the delivery of a self-service portal for a US wealth manager in wealth management using AWS, Snowflake, Microservices and SQL, saving ~18K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, AI Engineer, Full Stack Engineer

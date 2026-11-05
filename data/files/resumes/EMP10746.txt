@@ -1,0 +1,35 @@
+VENKAT SINGH
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10746
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 6.3 years of experience, based in Pune. Strong in SQL, Kubernetes, .NET Core and Java, with recent work in energy trading. Interested in moving towards Engineering Manager, Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.7y)
+- Cloud & DevOps: Kubernetes (Advanced, 1.7y), CI/CD (Proficient, 3.9y)
+- Software Engineering: .NET Core (Advanced, 2.9y), Java (Proficient, 4.4y), REST API Design (Proficient, 4.7y), Microservices (Proficient, 3.9y), GraphQL (Working, 1.7y)
+- People & Marketing: People Analytics (Working, 1.7y)
+
+EXPERIENCE
+* Energy Trading Payments Microservices Platform — a fast-growing energy company (2026-04 to present)
+  Built a payments microservices platform for a fast-growing energy company in energy trading using .NET Core, Kubernetes and CI/CD, accelerating releases by 35%.
+* HR Tech Mobile Banking App — a fast-growing HR software company (2025-05 to 2026-04)
+  Modernised a mobile banking app for a fast-growing HR software company in HR tech using .NET Core, SQL and CI/CD, lifting NPS by 30 points.
+* Energy Trading Order Management System — a leading energy company (2024-09 to 2025-04)
+  Designed an order management system for a leading energy company in energy trading using .NET Core, GraphQL, Kubernetes and REST API Design, reducing processing time by 12%.
+* Insurance Claims Claims Processing Engine — an APAC insurer (2023-07 to 2024-06)
+  Migrated a claims processing engine for an APAC insurer in insurance claims using SQL, CI/CD and REST API Design, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager, Full Stack Engineer

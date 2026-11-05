@@ -1,0 +1,33 @@
+CIARA SINGH
+Lead Cloud Engineer | Cloud & Infrastructure | Dublin, Ireland
+Employee ID: EMP11031
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 15 years of experience, based in Dublin. Strong in Linux Administration, Platform Engineering, Azure and Terraform, with recent work in automotive. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to London, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Expert, 6.2y), Platform Engineering (Expert, 15.0y), Azure (Advanced, 11.6y), Terraform (Advanced, 0.9y), Kubernetes (Proficient, 5.4y), CI/CD (Proficient, 9.4y), FinOps (Working, 6.3y)
+- Delivery & Leadership: People Leadership (Expert, 7.8y), Stakeholder Management (Proficient, 5.5y)
+- Security: Cloud Security (Advanced, 0.7y)
+
+EXPERIENCE
+* Healthcare Kubernetes Platform — a European hospital network (2025-07 to present)
+  Scaled a Kubernetes platform for a European hospital network in healthcare using CI/CD, Terraform and Kubernetes, reducing production incidents by 22%.
+* Public Sector CI/CD Platform — a fast-growing government agency (2024-08 to 2025-05)
+  Modernised a CI/CD platform for a fast-growing government agency in public sector using Cloud Security and CI/CD, accelerating releases by 25%.
+* Healthcare Cloud Landing Zone — an APAC hospital network (2023-12 to 2024-05)
+  Scaled a cloud landing zone for an APAC hospital network in healthcare using CI/CD, Terraform, Azure and Linux Administration, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+- Azure Administrator Associate (2022)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer, DevOps Engineer, Platform Engineer, Site Reliability Engineer

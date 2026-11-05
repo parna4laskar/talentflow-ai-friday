@@ -1,0 +1,31 @@
+SAURABH SUBRAMANIAN
+Lead Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10668
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 15.8 years of experience, based in Pune. Strong in Python, REST API Design, SQL and Microservices, with recent work in airline operations. Interested in moving towards AI Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 5.3y), REST API Design (Advanced, 14.4y), Microservices (Advanced, 1.8y)
+- Data & AI: SQL (Advanced, 14.8y)
+- Cloud & DevOps: Kubernetes (Advanced, 4.6y), AWS (Proficient, 1.5y), Observability (Proficient, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Payments Microservices Platform — an APAC insurer (2026-06 to present)
+  Re-architected a payments microservices platform for an APAC insurer in insurance claims using AWS, Microservices, Kubernetes and Observability, reducing processing time by 22%.
+* Airline Operations Mobile Banking App — a European airline (2025-04 to 2026-04)
+  Designed a mobile banking app for a European airline in airline operations using Python, AWS and SQL, improving conversion by 40%.
+* Airline Operations Claims Processing Engine — a US airline (2023-10 to 2025-03)
+  Automated a claims processing engine for a US airline in airline operations using Microservices, Observability and Python, reducing processing time by 30%.
+* Airline Operations Pricing Engine — a leading airline (2022-04 to 2023-09)
+  Led the delivery of a pricing engine for a leading airline in airline operations using REST API Design, Observability and SQL, improving conversion by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Software Architect

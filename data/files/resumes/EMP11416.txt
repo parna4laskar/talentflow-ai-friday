@@ -1,0 +1,29 @@
+ABHISHEK REDDY
+Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11416
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.1 years of experience, based in Hyderabad. Strong in Python, SQL, TypeScript and React, with recent work in healthcare. Interested in moving towards AI Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 0.8y), TypeScript (Proficient, 2.4y), React (Proficient, 0.6y), Next.js (Proficient, 0.8y), GraphQL (Proficient, 1.6y), REST API Design (Working, 1.2y)
+- Data & AI: SQL (Advanced, 3.5y)
+- Cloud & DevOps: Docker (Working, 0.7y)
+
+EXPERIENCE
+* Healthcare Claims Processing Engine — a leading hospital network (2026-06 to present)
+  Automated a claims processing engine for a leading hospital network in healthcare using Docker and React, saving ~30K hours annually.
+* HR Tech Customer Onboarding Platform — a tier-1 HR software company (2025-05 to 2026-05)
+  Migrated a customer onboarding platform for a tier-1 HR software company in HR tech using Python, TypeScript and Next.js, improving conversion by 40%.
+* Healthcare Order Management System — a leading hospital network (2023-12 to 2025-02)
+  Automated an order management system for a leading hospital network in healthcare using Next.js and TypeScript, reducing processing time by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, Software Architect, Mobile Engineer

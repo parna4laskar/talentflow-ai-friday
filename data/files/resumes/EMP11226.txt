@@ -1,0 +1,37 @@
+EMMA MILLER
+Marketing Specialist | Marketing | New York, United States
+Employee ID: EMP11226
+
+PROFESSIONAL SUMMARY
+Marketing Specialist with 4.3 years of experience, based in New York. Strong in Content Strategy, Marketing Analytics, Digital Marketing and A/B Testing, with recent work in retail banking. Interested in moving towards UX Designer, Data Scientist roles.
+
+CORE SKILLS
+- People & Marketing: Content Strategy (Expert, 3.9y), Marketing Analytics (Advanced, 3.2y), Digital Marketing (Proficient, 1.2y), SEO (Working, 1.4y)
+- Product & Design: A/B Testing (Proficient, 1.8y)
+- Delivery & Leadership: Communication (Working, 1.9y)
+- Data & AI: Data Visualization (Working, 1.0y)
+- Quality Engineering: Playwright (Working, 2.0y)
+
+EXPERIENCE
+* E-commerce Strategic Account Growth Plan — a European online retailer (2026-06 to present)
+  Led a strategic account growth plan for a European online retailer in e-commerce using Content Strategy, SEO and Playwright, growing account revenue by 40%.
+* Public Sector Product Launch Campaign — a leading government agency (2024-10 to 2026-04)
+  Led a product launch campaign for a leading government agency in public sector using Communication, Data Visualization, Playwright and Content Strategy, growing qualified leads by 40%.
+* Retail Banking Partner Channel Strategy — a fast-growing retail bank (2024-01 to 2024-07)
+  Grew a partner channel strategy for a fast-growing retail bank in retail banking using Marketing Analytics, Data Visualization, Content Strategy and A/B Testing, growing account revenue by 25%.
+* Telecom Billing Product Launch Campaign — a global telecom operator (2022-10 to 2023-12)
+  Planned a product launch campaign for a global telecom operator in telecom billing using Marketing Analytics and Playwright, improving conversion by 40%.
+
+CERTIFICATIONS
+- Google Ads Certification (2025)
+- HubSpot Inbound (2024)
+
+EDUCATION
+- BA Communications
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: UX Designer, Data Scientist, Product Manager

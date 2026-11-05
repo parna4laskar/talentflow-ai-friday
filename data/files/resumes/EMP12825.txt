@@ -1,0 +1,32 @@
+SNEHA PAWAR
+Senior Data Scientist | Data & Analytics | Gurugram, India
+Employee ID: EMP12825
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 5.4 years of experience, based in Gurugram. Strong in Python, SQL, Generative AI and Communication, with recent work in media streaming. Interested in moving towards Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 0.7y)
+- Data & AI: SQL (Advanced, 4.9y), Generative AI (Advanced, 0.8y), Machine Learning (Proficient, 3.9y), Apache Spark (Proficient, 1.3y), MLOps (Proficient, 1.0y), NLP (Proficient, 2.4y), Statistics (Working, 0.7y), Deep Learning (Working, 0.9y)
+- Delivery & Leadership: Communication (Advanced, 3.6y)
+
+EXPERIENCE
+* Media Streaming Real-time Analytics Pipeline — a fast-growing streaming platform (2026-03 to present)
+  Built a real-time analytics pipeline for a fast-growing streaming platform in media streaming using Python, Machine Learning and Apache Spark, cutting cloud spend by 25%.
+* Media Streaming Regulatory Reporting Suite — a tier-1 streaming platform (2025-01 to 2026-02)
+  Scaled a regulatory reporting suite for a tier-1 streaming platform in media streaming using MLOps and Python, reducing processing time by 12%.
+* HR Tech Executive KPI Dashboard Suite — a tier-1 HR software company (2023-09 to 2024-12)
+  Re-architected an executive KPI dashboard suite for a tier-1 HR software company in HR tech using Apache Spark, Machine Learning, Communication and Python, improving forecast accuracy by 12%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2025)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst

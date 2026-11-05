@@ -1,0 +1,31 @@
+MANISH MALHOTRA
+Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10604
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.1 years of experience, based in Bengaluru. Strong in JavaScript, Next.js, TypeScript and React, with recent work in manufacturing IoT. Interested in moving towards QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 0.9y), Next.js (Advanced, 1.2y), TypeScript (Proficient, 1.2y), React (Working, 1.3y)
+- Product & Design: Design Systems (Working, 1.5y), Figma (Working, 0.9y)
+- Quality Engineering: Playwright (Working, 1.1y)
+- Data & AI: Responsible AI (Working, 0.4y)
+- Cloud & DevOps: CI/CD (Beginner, 0.4y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Onboarding Platform — an APAC manufacturer (2026-05 to present)
+  Built a customer onboarding platform for an APAC manufacturer in manufacturing IoT using TypeScript and Design Systems, lifting NPS by 30 points.
+* Manufacturing IoT Claims Processing Engine — a global manufacturer (2025-02 to 2026-04)
+  Designed a claims processing engine for a global manufacturer in manufacturing IoT using JavaScript, TypeScript and React, saving ~25K hours annually.
+* Automotive Payments Microservices Platform — an APAC car maker (2024-05 to 2024-12)
+  Automated a payments microservices platform for an APAC car maker in automotive using JavaScript and React, accelerating releases by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer

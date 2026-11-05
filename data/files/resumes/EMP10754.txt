@@ -1,0 +1,27 @@
+RIYA RAHMAN
+Associate Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP10754
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 0.3 years of experience, based in Chennai. Strong in Go, AWS, REST API Design and SQL, with recent work in retail banking. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Go (Proficient, 0.3y), REST API Design (Working, 0.3y), GraphQL (Working, 0.3y), Kafka (Working, 0.3y), Microservices (Beginner, 0.3y), System Design (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Proficient, 0.3y), CI/CD (Working, 0.3y)
+- Data & AI: SQL (Working, 0.3y)
+
+EXPERIENCE
+* Payments Claims Processing Engine — a global payments provider (2026-09 to present)
+  Automated a claims processing engine for a global payments provider in payments using Microservices, AWS and CI/CD, saving ~40K hours annually.
+* Airline Operations Order Management System — a European airline (2025-09 to 2026-06)
+  Automated an order management system for a European airline in airline operations using AWS and REST API Design, onboarding 3 new enterprise clients.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Software Architect, AI Engineer

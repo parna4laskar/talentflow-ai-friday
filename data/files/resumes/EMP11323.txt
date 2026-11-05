@@ -1,0 +1,29 @@
+RIYA KAMIŃSKI
+Principal Risk & Compliance Analyst | Risk & Compliance | Pune, India
+Employee ID: EMP11323
+
+PROFESSIONAL SUMMARY
+Principal Risk & Compliance Analyst with 23.9 years of experience, based in Pune. Strong in Risk Management, Responsible AI, Financial Analysis and Regulatory Compliance, with recent work in healthcare. Interested in moving towards Data Engineer roles.
+
+CORE SKILLS
+- Business & Finance: Risk Management (Expert, 21.6y), Financial Analysis (Expert, 21.9y), Regulatory Compliance (Advanced, 1.5y)
+- Data & AI: Responsible AI (Expert, 23.9y), SQL (Advanced, 1.4y), Data Governance (Proficient, 16.7y)
+- Security: GRC (Advanced, 0.5y)
+
+EXPERIENCE
+* Healthcare Risk Control Framework — a global hospital network (2026-06 to present)
+  Built a risk control framework for a global hospital network in healthcare using Regulatory Compliance, Data Governance and Risk Management, closing 25% of open audit findings.
+* Public Sector Cost Transformation Programme — a fast-growing government agency (2025-07 to 2026-05)
+  Redesigned a cost transformation programme for a fast-growing government agency in public sector using SQL, Data Governance, Financial Analysis and Risk Management, delivering $3M in cost savings.
+* Healthcare Cost Transformation Programme — a global hospital network (2024-04 to 2025-04)
+  Led a cost transformation programme for a global hospital network in healthcare using Responsible AI and Regulatory Compliance, delivering $5M in cost savings.
+
+EDUCATION
+- LLB
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Engineer

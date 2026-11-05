@@ -1,0 +1,29 @@
+GAURAV MEHTA
+Associate Mobile Engineer | Engineering | Gurugram, India
+Employee ID: EMP12339
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 2.7 years of experience, based in Gurugram. Strong in Mobile Development, Flutter, Test Automation and CI/CD, with recent work in pharma R&D. Interested in moving towards Backend Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Working, 0.5y), Flutter (Working, 0.7y), REST API Design (Working, 0.8y), TypeScript (Beginner, 0.7y)
+- Quality Engineering: Test Automation (Working, 0.7y)
+- Cloud & DevOps: CI/CD (Working, 1.0y)
+- Delivery & Leadership: Communication (Working, 0.9y)
+- Data & AI: Responsible AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Mobile Banking App — a European pharma company (2026-11 to present)
+  Re-architected a mobile banking app for a European pharma company in pharma R&D using Communication, TypeScript, REST API Design and Mobile Development, lifting NPS by 18 points.
+* Pharma R&D Mobile Banking App — a global pharma company (2025-03 to 2026-09)
+  Migrated a mobile banking app for a global pharma company in pharma R&D using TypeScript, Flutter and Responsible AI, lifting NPS by 22 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Frontend Engineer

@@ -1,0 +1,29 @@
+GAURAV PILLAI
+Lead CRM Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP10159
+
+PROFESSIONAL SUMMARY
+Lead CRM Consultant with 8.3 years of experience, based in Pune. Strong in Business Analysis, ServiceNow, JavaScript and Agile/Scrum, with recent work in wealth management. Interested in moving towards CRM Consultant, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 7.2y), ServiceNow (Advanced, 7.2y), Process Improvement (Proficient, 4.3y), Requirements Gathering (Proficient, 4.4y)
+- Software Engineering: JavaScript (Advanced, 5.0y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 3.7y), Communication (Proficient, 1.1y)
+
+EXPERIENCE
+* Telecom Billing CRM Rollout — a leading telecom operator (2025-10 to present)
+  Migrated a CRM rollout for a leading telecom operator in telecom billing using Requirements Gathering, JavaScript and Process Improvement, reducing processing time by 30%.
+* Wealth Management CRM Rollout — a leading wealth manager (2024-08 to 2025-08)
+  Migrated a CRM rollout for a leading wealth manager in wealth management using JavaScript, Agile/Scrum and Communication, reducing processing time by 25%.
+* Wealth Management CRM Rollout — an APAC wealth manager (2023-08 to 2024-07)
+  Led the delivery of a CRM rollout for an APAC wealth manager in wealth management using Communication, Process Improvement, Business Analysis and ServiceNow, improving conversion by 25%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: CRM Consultant, Business Analyst, Account Manager, Scrum Master

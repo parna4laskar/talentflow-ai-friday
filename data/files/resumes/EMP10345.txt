@@ -1,0 +1,32 @@
+FARHAN CHATTERJEE
+Lead Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP10345
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 11.6 years of experience, based in Chennai. Strong in Data Visualization, Python, Statistics and SQL, with recent work in insurance claims. Interested in moving towards AI Engineer roles and open to relocating to Dublin, Bengaluru, Toronto.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Expert, 10.7y), Statistics (Advanced, 6.4y), SQL (Advanced, 4.8y), Machine Learning (Proficient, 5.7y), Generative AI (Proficient, 0.9y), MLOps (Working, 5.1y)
+- Software Engineering: Python (Advanced, 8.5y)
+- Delivery & Leadership: People Leadership (Proficient, 6.6y)
+
+EXPERIENCE
+* Insurance Claims Customer Churn Model — a fast-growing insurer (2025-11 to present)
+  Designed a customer churn model for a fast-growing insurer in insurance claims using Statistics and MLOps, improving conversion by 12%.
+* HR Tech Real-time Analytics Pipeline — a global HR software company (2024-05 to 2025-09)
+  Re-architected a real-time analytics pipeline for a global HR software company in HR tech using Python and MLOps, reducing processing time by 35%.
+* Retail Banking Real-time Analytics Pipeline — a tier-1 retail bank (2022-12 to 2024-03)
+  Re-architected a real-time analytics pipeline for a tier-1 retail bank in retail banking using MLOps, Data Visualization and SQL, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2024)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer

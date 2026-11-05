@@ -1,0 +1,34 @@
+ETHAN ROY
+Lead Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11441
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 14.2 years of experience, based in Toronto. Strong in Docker, Python, System Design and Mentoring, with recent work in media streaming. Interested in moving towards Software Architect, AI Engineer roles and open to relocating to Chennai, Kraków, Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Expert, 5.9y), FinOps (Working, 3.2y)
+- Software Engineering: Python (Advanced, 11.8y), System Design (Advanced, 7.4y), REST API Design (Proficient, 3.9y), Microservices (Proficient, 1.9y), .NET Core (Proficient, 10.1y)
+- Delivery & Leadership: Mentoring (Advanced, 5.5y), Communication (Proficient, 4.2y)
+- Data & AI: SQL (Proficient, 8.7y)
+
+EXPERIENCE
+* Media Streaming Customer Onboarding Platform — a leading streaming platform (2026-01 to present)
+  Automated a customer onboarding platform for a leading streaming platform in media streaming using System Design, FinOps and .NET Core, reducing processing time by 35%.
+* Media Streaming Payments Microservices Platform — a leading streaming platform (2025-01 to 2025-10)
+  Built a payments microservices platform for a leading streaming platform in media streaming using Communication, Docker and .NET Core, accelerating releases by 18%.
+* Media Streaming Payments Microservices Platform — a global streaming platform (2024-05 to 2024-10)
+  Modernised a payments microservices platform for a global streaming platform in media streaming using .NET Core, Mentoring, Docker and REST API Design, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect, AI Engineer, Engineering Manager

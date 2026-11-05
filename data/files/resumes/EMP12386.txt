@@ -1,0 +1,30 @@
+NATALIA SZYMAŃSKI
+Senior ML Engineer | AI Center of Excellence | Kraków, Poland
+Employee ID: EMP12386
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 10.5 years of experience, based in Kraków. Strong in Machine Learning, MLOps, Databricks and Python, with recent work in telecom billing. Interested in moving towards Platform Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 2.9y), MLOps (Advanced, 7.2y), Databricks (Advanced, 5.3y), Deep Learning (Proficient, 6.3y), Vector Databases (Proficient, 0.7y), NLP (Working, 2.4y), Agentic AI (Working, 2.6y)
+- Software Engineering: Python (Proficient, 2.3y)
+
+EXPERIENCE
+* Telecom Billing Document Intelligence Pipeline — a European telecom operator (2026-06 to present)
+  Designed a document intelligence pipeline for a European telecom operator in telecom billing using Vector Databases, NLP, Machine Learning and MLOps, reducing processing time by 40%.
+* Telecom Billing Knowledge Assistant (RAG) — a fast-growing telecom operator (2025-03 to 2026-04)
+  Designed a knowledge assistant (RAG) for a fast-growing telecom operator in telecom billing using Vector Databases, Python, MLOps and Agentic AI, lifting NPS by 40 points.
+* Telecom Billing Agentic Customer-service Assistant — a global telecom operator (2023-09 to 2025-02)
+  Modernised an agentic customer-service assistant for a global telecom operator in telecom billing using Machine Learning, Databricks, MLOps and NLP, lifting NPS by 30 points.
+* Retail Banking Agentic Customer-service Assistant — a US retail bank (2022-03 to 2023-09)
+  Designed an agentic customer-service assistant for a US retail bank in retail banking using MLOps, Machine Learning, Python and Databricks, lifting NPS by 35 points.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, AI Engineer

@@ -1,0 +1,34 @@
+ASHLEY JOHNSON
+Senior CRM Consultant | Enterprise Applications | New York, United States
+Employee ID: EMP12579
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 6.5 years of experience, based in New York. Strong in ServiceNow, Business Analysis, JavaScript and Requirements Gathering, with recent work in insurance claims. Interested in moving towards SAP Consultant, Account Manager roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Proficient, 4.6y), Business Analysis (Proficient, 1.2y), Requirements Gathering (Proficient, 0.5y), Process Improvement (Beginner, 1.6y)
+- Software Engineering: JavaScript (Proficient, 1.6y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 4.6y)
+
+EXPERIENCE
+* Insurance Claims ERP Finance Rollout — an APAC insurer (2025-10 to present)
+  Led the delivery of an ERP finance rollout for an APAC insurer in insurance claims using Process Improvement, JavaScript, Agile/Scrum and ServiceNow, reducing processing time by 18%.
+* Healthcare Service Desk Automation — an APAC hospital network (2024-07 to 2025-08)
+  Automated a service desk automation for an APAC hospital network in healthcare using JavaScript and Agile/Scrum, saving ~12K hours annually.
+* Insurance Claims Service Desk Automation — a tier-1 insurer (2023-03 to 2024-05)
+  Designed a service desk automation for a tier-1 insurer in insurance claims using Requirements Gathering, Business Analysis, JavaScript and ServiceNow, reducing processing time by 22%.
+* Insurance Claims Service Desk Automation — an APAC insurer (2021-11 to 2023-02)
+  Automated a service desk automation for an APAC insurer in insurance claims using Requirements Gathering and Business Analysis, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2025)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: SAP Consultant, Account Manager, Scrum Master

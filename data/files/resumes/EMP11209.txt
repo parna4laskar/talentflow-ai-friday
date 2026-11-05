@@ -1,0 +1,34 @@
+SWATI SHAH
+Senior Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11209
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 5.2 years of experience, based in Gurugram. Strong in SQL, Microservices, .NET Core and System Design, with recent work in telecom billing. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 5.0y)
+- Software Engineering: Microservices (Advanced, 1.5y), .NET Core (Advanced, 3.5y), System Design (Proficient, 1.2y), Go (Working, 1.0y), REST API Design (Working, 1.9y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.4y)
+
+EXPERIENCE
+* Automotive Self-service Portal — a global car maker (2026-02 to present)
+  Led the delivery of a self-service portal for a global car maker in automotive using Microservices, Go and SQL, lifting NPS by 35 points.
+* Supply-chain Logistics Customer Onboarding Platform — a tier-1 logistics company (2024-09 to 2025-12)
+  Built a customer onboarding platform for a tier-1 logistics company in supply-chain logistics using Microservices, System Design and Go, lifting NPS by 22 points.
+* Media Streaming Payments Microservices Platform — a US streaming platform (2024-01 to 2024-08)
+  Led the delivery of a payments microservices platform for a US streaming platform in media streaming using Kubernetes, SQL and .NET Core, reducing production incidents by 30%.
+* Telecom Billing Mobile Banking App — a tier-1 telecom operator (2022-11 to 2023-12)
+  Designed a mobile banking app for a tier-1 telecom operator in telecom billing using Kubernetes and Go, improving conversion by 12%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer

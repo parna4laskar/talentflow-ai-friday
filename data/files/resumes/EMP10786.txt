@@ -1,0 +1,30 @@
+ARJUN DESHPANDE
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10786
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.6 years of experience, based in Hyderabad. Strong in REST API Design, C#, SQL and Microservices, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 2.6y), C# (Advanced, 3.4y), Microservices (Advanced, 0.8y), Spring Boot (Advanced, 1.9y), GraphQL (Proficient, 3.1y)
+- Data & AI: SQL (Advanced, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 0.5y)
+- Cloud & DevOps: AWS (Working, 1.9y), GCP (Beginner, 0.4y)
+
+EXPERIENCE
+* Automotive Pricing Engine — a global car maker (2026-08 to present)
+  Led the delivery of a pricing engine for a global car maker in automotive using REST API Design and GCP, reducing processing time by 40%.
+* Supply-chain Logistics Claims Processing Engine — a global logistics company (2025-03 to 2026-06)
+  Scaled a claims processing engine for a global logistics company in supply-chain logistics using GraphQL and Microservices, saving ~25K hours annually.
+* Supply-chain Logistics Pricing Engine — a leading logistics company (2023-12 to 2024-12)
+  Designed a pricing engine for a leading logistics company in supply-chain logistics using AWS, Spring Boot and GCP, improving conversion by 30%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Software Architect

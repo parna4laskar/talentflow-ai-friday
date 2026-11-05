@@ -1,0 +1,32 @@
+ABHISHEK BANERJEE
+Associate Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP12005
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 0.6 years of experience, based in Pune. Strong in SQL, Data Visualization, Power BI and A/B Testing, with recent work in public sector. Interested in moving towards Product Manager, Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.4y), Data Visualization (Proficient, 0.4y), Power BI (Working, 0.3y), Snowflake (Working, 0.3y), Generative AI (Working, 0.3y)
+- Product & Design: A/B Testing (Working, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.3y), Communication (Beginner, 0.3y)
+- Business & Finance: Business Analysis (Working, 0.3y)
+- Software Engineering: Python (Working, 0.3y)
+
+EXPERIENCE
+* Airline Operations Real-time Analytics Pipeline — a tier-1 airline (2025-10 to present)
+  Built a real-time analytics pipeline for a tier-1 airline in airline operations using Business Analysis, Stakeholder Management, Power BI and Python, reducing processing time by 40%.
+* Pharma R&D Regulatory Reporting Suite — a leading pharma company (2024-04 to 2025-08)
+  Migrated a regulatory reporting suite for a leading pharma company in pharma R&D using Stakeholder Management, Generative AI and Power BI, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Product Manager, Business Analyst

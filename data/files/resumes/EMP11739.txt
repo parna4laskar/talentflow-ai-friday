@@ -1,0 +1,29 @@
+OLIVER WILLIAMS
+Senior CRM Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP11739
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 6.5 years of experience, based in London. Strong in Salesforce, Business Analysis, Process Improvement and ServiceNow, with recent work in payments. Interested in moving towards Business Analyst, SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 2.3y), Business Analysis (Advanced, 2.7y), Process Improvement (Proficient, 2.6y), ServiceNow (Proficient, 3.2y)
+- Delivery & Leadership: Communication (Proficient, 4.5y)
+- Software Engineering: JavaScript (Working, 1.9y)
+
+EXPERIENCE
+* Public Sector Service Desk Automation — a tier-1 government agency (2026-01 to present)
+  Led the delivery of a service desk automation for a tier-1 government agency in public sector using JavaScript, Salesforce and ServiceNow, reducing processing time by 12%.
+* Payments Service Desk Automation — a leading payments provider (2024-07 to 2026-01)
+  Led the delivery of a service desk automation for a leading payments provider in payments using Business Analysis and ServiceNow, saving ~25K hours annually.
+* Payments CRM Rollout — a tier-1 payments provider (2023-12 to 2024-05)
+  Designed a CRM rollout for a tier-1 payments provider in payments using Process Improvement and Business Analysis, reducing processing time by 12%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Business Analyst, SAP Consultant

@@ -1,0 +1,32 @@
+PRANAV SINGH
+Lead Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP10550
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 8.1 years of experience, based in Bengaluru. Strong in SQL, Tableau, Mentoring and Data Visualization, with recent work in manufacturing IoT. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 6.4y), Tableau (Expert, 8.1y), Data Visualization (Proficient, 1.8y), Statistics (Proficient, 5.1y), dbt (Proficient, 1.5y), Generative AI (Proficient, 5.9y)
+- Delivery & Leadership: Mentoring (Advanced, 3.6y)
+- Product & Design: A/B Testing (Proficient, 2.8y)
+- Software Engineering: Python (Proficient, 4.1y)
+
+EXPERIENCE
+* Manufacturing IoT Regulatory Reporting Suite — a global manufacturer (2026-03 to present)
+  Scaled a regulatory reporting suite for a global manufacturer in manufacturing IoT using dbt, Tableau and A/B Testing, reducing processing time by 25%.
+* Energy Trading Real-time Analytics Pipeline — a leading energy company (2025-01 to 2025-12)
+  Built a real-time analytics pipeline for a leading energy company in energy trading using Statistics, SQL and dbt, cutting cloud spend by 35%.
+* Retail Banking Executive KPI Dashboard Suite — a tier-1 retail bank (2023-05 to 2024-11)
+  Led the delivery of an executive KPI dashboard suite for a tier-1 retail bank in retail banking using Python, Generative AI, dbt and Statistics, saving ~35K hours annually.
+* Insurance Claims Real-time Analytics Pipeline — a tier-1 insurer (2022-03 to 2023-05)
+  Migrated a real-time analytics pipeline for a tier-1 insurer in insurance claims using dbt, Mentoring and SQL, reducing processing time by 18%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Analyst, Financial Analyst

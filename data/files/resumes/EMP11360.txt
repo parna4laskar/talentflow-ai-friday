@@ -1,0 +1,32 @@
+ARJUN MEHTA
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP11360
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 10.1 years of experience, based in Pune. Strong in People Leadership, System Design, Communication and Python, with recent work in supply-chain logistics. Interested in moving towards Software Architect, Program Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 0.8y), Communication (Advanced, 3.4y), Agile/Scrum (Proficient, 6.8y), Stakeholder Management (Proficient, 7.5y), Mentoring (Proficient, 5.3y)
+- Software Engineering: System Design (Advanced, 0.8y), Python (Advanced, 7.6y), Java (Advanced, 2.2y)
+- Cloud & DevOps: AWS (Advanced, 8.7y)
+- Security: Cloud Security (Proficient, 6.2y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a global logistics company (2025-09 to present)
+  Designed a payments microservices platform for a global logistics company in supply-chain logistics using Mentoring, Java and Stakeholder Management, accelerating releases by 35%.
+* Supply-chain Logistics Order Management System — a global logistics company (2024-07 to 2025-08)
+  Re-architected an order management system for a global logistics company in supply-chain logistics using People Leadership, Communication and System Design, reducing processing time by 18%.
+* Supply-chain Logistics Pricing Engine — a US logistics company (2023-09 to 2024-05)
+  Led the delivery of a pricing engine for a US logistics company in supply-chain logistics using Java, System Design and AWS, improving conversion by 40%.
+* Telecom Billing Customer Onboarding Platform — a fast-growing telecom operator (2022-02 to 2023-08)
+  Automated a customer onboarding platform for a fast-growing telecom operator in telecom billing using Java, Python, Mentoring and Stakeholder Management, improving conversion by 30%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, Program Manager

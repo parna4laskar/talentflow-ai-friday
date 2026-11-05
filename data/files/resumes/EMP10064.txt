@@ -1,0 +1,29 @@
+SURESH MENON
+Senior AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP10064
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 5.4 years of experience, based in Chennai. Strong in Python, Generative AI, LLM Engineering and Azure, with recent work in public sector. Interested in moving towards AI Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 4.5y)
+- Data & AI: Generative AI (Proficient, 2.2y), LLM Engineering (Proficient, 1.8y), Responsible AI (Proficient, 2.4y), Vector Databases (Working, 2.0y)
+- Cloud & DevOps: Azure (Proficient, 0.7y), Docker (Proficient, 0.5y), AWS (Proficient, 1.8y)
+
+EXPERIENCE
+* Insurance Claims Fraud Detection Model — an APAC insurer (2026-08 to present)
+  Modernised a fraud detection model for an APAC insurer in insurance claims using Responsible AI, Vector Databases, Docker and AWS, reducing processing time by 40%.
+* Payments Document Intelligence Pipeline — a global payments provider (2026-01 to 2026-07)
+  Re-architected a document intelligence pipeline for a global payments provider in payments using Python and Responsible AI, reducing processing time by 25%.
+* Public Sector Document Intelligence Pipeline — a global government agency (2025-05 to 2025-12)
+  Migrated a document intelligence pipeline for a global government agency in public sector using Azure and Python, saving ~30K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Full Stack Engineer, ML Engineer, DevOps Engineer

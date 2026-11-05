@@ -1,0 +1,32 @@
+PRIYA NG
+ML Engineer | AI Center of Excellence | Singapore, Singapore
+Employee ID: EMP10753
+
+PROFESSIONAL SUMMARY
+ML Engineer with 5.4 years of experience, based in Singapore. Strong in MLOps, Machine Learning, Deep Learning and AWS, with recent work in airline operations. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: MLOps (Advanced, 2.9y), Machine Learning (Proficient, 0.6y), Deep Learning (Working, 1.9y), Vector Databases (Beginner, 1.1y)
+- Cloud & DevOps: AWS (Working, 2.1y)
+- Delivery & Leadership: Communication (Working, 2.1y)
+- Software Engineering: Python (Beginner, 0.7y)
+
+EXPERIENCE
+* Airline Operations Fraud Detection Model — a US airline (2026-02 to present)
+  Migrated a fraud detection model for a US airline in airline operations using AWS, Deep Learning and MLOps, improving model accuracy by 22%.
+* Airline Operations Knowledge Assistant (RAG) — a European airline (2025-04 to 2026-01)
+  Built a knowledge assistant (RAG) for a European airline in airline operations using Vector Databases, Python, Communication and MLOps, lifting NPS by 25 points.
+* Airline Operations Recommendation Engine — a US airline (2024-07 to 2025-02)
+  Led the delivery of a recommendation engine for a US airline in airline operations using Vector Databases, Python and Deep Learning, improving conversion by 12%.
+* Airline Operations Knowledge Assistant (RAG) — a fast-growing airline (2023-02 to 2024-04)
+  Scaled a knowledge assistant (RAG) for a fast-growing airline in airline operations using MLOps, Python and Communication, saving ~30K hours annually.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist

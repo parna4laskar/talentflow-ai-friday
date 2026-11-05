@@ -1,0 +1,32 @@
+KUNAL DAS
+Lead SAP Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP12538
+
+PROFESSIONAL SUMMARY
+Lead SAP Consultant with 14.8 years of experience, based in Bengaluru. Strong in SAP FICO, Business Analysis, Requirements Gathering and Mentoring, with recent work in payments. Interested in moving towards SAP Consultant, Risk & Compliance Analyst roles and open to relocating to Gurugram, New York.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Expert, 4.3y), Business Analysis (Advanced, 3.0y), Requirements Gathering (Advanced, 13.4y), SAP S/4HANA (Proficient, 4.6y), Financial Analysis (Proficient, 7.0y)
+- Delivery & Leadership: Mentoring (Advanced, 7.3y)
+- Data & AI: LLM Engineering (Working, 6.5y)
+
+EXPERIENCE
+* Payments Service Desk Automation — a European payments provider (2026-01 to present)
+  Migrated a service desk automation for a European payments provider in payments using SAP FICO, SAP S/4HANA and Mentoring, reducing processing time by 18%.
+* Payments Service Desk Automation — a global payments provider (2025-04 to 2026-01)
+  Migrated a service desk automation for a global payments provider in payments using Mentoring, SAP FICO and Financial Analysis, reducing processing time by 18%.
+* Automotive ERP Finance Rollout — a fast-growing car maker (2023-08 to 2025-01)
+  Designed an ERP finance rollout for a fast-growing car maker in automotive using SAP S/4HANA, SAP FICO, Requirements Gathering and Business Analysis, saving ~25K hours annually.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2025)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: SAP Consultant, Risk & Compliance Analyst

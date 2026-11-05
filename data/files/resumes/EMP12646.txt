@@ -1,0 +1,30 @@
+NANDINI MEHTA
+Lead SAP Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP12646
+
+PROFESSIONAL SUMMARY
+Lead SAP Consultant with 10.3 years of experience, based in Pune. Strong in SAP S/4HANA, Process Improvement, Business Analysis and SAP FICO, with recent work in public sector. Interested in moving towards Financial Analyst, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP S/4HANA (Expert, 4.3y), Process Improvement (Expert, 5.5y), Business Analysis (Advanced, 5.7y), SAP FICO (Advanced, 9.1y), Requirements Gathering (Working, 4.3y)
+- Delivery & Leadership: Mentoring (Advanced, 8.5y), People Leadership (Proficient, 5.9y)
+
+EXPERIENCE
+* Media Streaming CRM Rollout — a tier-1 streaming platform (2025-09 to present)
+  Scaled a CRM rollout for a tier-1 streaming platform in media streaming using Mentoring, Process Improvement and SAP S/4HANA, improving conversion by 30%.
+* Manufacturing IoT ERP Finance Rollout — a European manufacturer (2024-11 to 2025-08)
+  Re-architected an ERP finance rollout for a European manufacturer in manufacturing IoT using Requirements Gathering, Mentoring and SAP FICO, reducing processing time by 22%.
+* Public Sector ERP Finance Rollout — a fast-growing government agency (2023-05 to 2024-09)
+  Migrated an ERP finance rollout for a fast-growing government agency in public sector using SAP S/4HANA and Process Improvement, saving ~40K hours annually.
+* Public Sector Service Desk Automation — a fast-growing government agency (2022-07 to 2023-03)
+  Led the delivery of a service desk automation for a fast-growing government agency in public sector using SAP S/4HANA, SAP FICO and Business Analysis, reducing processing time by 35%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Financial Analyst, Business Analyst

@@ -1,0 +1,31 @@
+JANHAVI KAPOOR
+Senior Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10407
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 7.1 years of experience, based in Bengaluru. Strong in GCP, Linux Administration, Platform Engineering and Kubernetes, with recent work in HR tech. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 6.5y), Linux Administration (Advanced, 4.2y), Platform Engineering (Advanced, 1.1y), Kubernetes (Advanced, 0.9y), Terraform (Proficient, 2.7y), FinOps (Working, 1.2y)
+- Software Engineering: Python (Proficient, 4.4y)
+- Data & AI: LLM Engineering (Working, 3.3y)
+
+EXPERIENCE
+* Telecom Billing CI/CD Platform — a leading telecom operator (2025-10 to present)
+  Built a CI/CD platform for a leading telecom operator in telecom billing using Linux Administration, FinOps and Terraform, accelerating releases by 40%.
+* HR Tech Cloud Landing Zone — a tier-1 HR software company (2025-03 to 2025-08)
+  Scaled a cloud landing zone for a tier-1 HR software company in HR tech using Terraform, Python and GCP, accelerating releases by 35%.
+* Payments Kubernetes Platform — a tier-1 payments provider (2024-07 to 2025-01)
+  Modernised a Kubernetes platform for a tier-1 payments provider in payments using Python, GCP, LLM Engineering and Linux Administration, cutting cloud spend by 35%.
+* Retail Banking Observability Stack — a tier-1 retail bank (2023-05 to 2024-06)
+  Designed an observability stack for a tier-1 retail bank in retail banking using Terraform, LLM Engineering and Platform Engineering, reducing production incidents by 12%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer

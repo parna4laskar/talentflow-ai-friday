@@ -1,0 +1,2356 @@
+{
+ "Python": {
+  "query": "Python skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Python demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Python changed by +18% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Python talent is concentrated",
+    "snippet": "Python is most often paired with Go, Machine Learning, Test Automation in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Python",
+    "snippet": "Typical ramp-up time to working proficiency in Python is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Java": {
+  "query": "Java skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Java demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Java changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Java talent is concentrated",
+    "snippet": "Java is most often paired with C#, Spring Boot, Test Automation in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Java",
+    "snippet": "Typical ramp-up time to working proficiency in Java is 17 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Go": {
+  "query": "Go skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Go demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Go changed by +15% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Go talent is concentrated",
+    "snippet": "Go is most often paired with Python in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Go",
+    "snippet": "Typical ramp-up time to working proficiency in Go is 14 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "C#": {
+  "query": "C# skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "C# demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning C# changed by +0% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where C# talent is concentrated",
+    "snippet": "C# is most often paired with Java, .NET Core in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into C#",
+    "snippet": "Typical ramp-up time to working proficiency in C# is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "TypeScript": {
+  "query": "TypeScript skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "TypeScript demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning TypeScript changed by +14% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where TypeScript talent is concentrated",
+    "snippet": "TypeScript is most often paired with JavaScript, Node.js in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into TypeScript",
+    "snippet": "Typical ramp-up time to working proficiency in TypeScript is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "JavaScript": {
+  "query": "JavaScript skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "JavaScript demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning JavaScript changed by +1% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where JavaScript talent is concentrated",
+    "snippet": "JavaScript is most often paired with TypeScript in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into JavaScript",
+    "snippet": "Typical ramp-up time to working proficiency in JavaScript is 13 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "React": {
+  "query": "React skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "React demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning React changed by +10% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where React talent is concentrated",
+    "snippet": "React is most often paired with Next.js, Angular, Mobile Development in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into React",
+    "snippet": "Typical ramp-up time to working proficiency in React is 6 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Angular": {
+  "query": "Angular skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Angular demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Angular changed by -4% year over year; trend classified as declining.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Angular talent is concentrated",
+    "snippet": "Angular is most often paired with React, Next.js in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Angular",
+    "snippet": "Typical ramp-up time to working proficiency in Angular is 8 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Next.js": {
+  "query": "Next.js skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Next.js demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Next.js changed by +17% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Next.js talent is concentrated",
+    "snippet": "Next.js is most often paired with React, Angular in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Next.js",
+    "snippet": "Typical ramp-up time to working proficiency in Next.js is 13 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Node.js": {
+  "query": "Node.js skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Node.js demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Node.js changed by +5% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Node.js talent is concentrated",
+    "snippet": "Node.js is most often paired with TypeScript in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Node.js",
+    "snippet": "Typical ramp-up time to working proficiency in Node.js is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Spring Boot": {
+  "query": "Spring Boot skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Spring Boot demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Spring Boot changed by +3% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Spring Boot talent is concentrated",
+    "snippet": "Spring Boot is most often paired with .NET Core, Java in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Spring Boot",
+    "snippet": "Typical ramp-up time to working proficiency in Spring Boot is 13 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ ".NET Core": {
+  "query": ".NET Core skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": ".NET Core demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning .NET Core changed by +0% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where .NET Core talent is concentrated",
+    "snippet": ".NET Core is most often paired with Spring Boot, C# in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into .NET Core",
+    "snippet": "Typical ramp-up time to working proficiency in .NET Core is 18 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Microservices": {
+  "query": "Microservices skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Microservices demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Microservices changed by +6% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Microservices talent is concentrated",
+    "snippet": "Microservices is most often paired with REST API Design, System Design, Kafka in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Microservices",
+    "snippet": "Typical ramp-up time to working proficiency in Microservices is 9 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "REST API Design": {
+  "query": "REST API Design skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "REST API Design demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning REST API Design changed by +4% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where REST API Design talent is concentrated",
+    "snippet": "REST API Design is most often paired with Microservices, System Design, Kafka in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into REST API Design",
+    "snippet": "Typical ramp-up time to working proficiency in REST API Design is 11 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "GraphQL": {
+  "query": "GraphQL skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "GraphQL demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning GraphQL changed by +3% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where GraphQL talent is concentrated",
+    "snippet": "GraphQL is most often paired with REST API Design in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into GraphQL",
+    "snippet": "Typical ramp-up time to working proficiency in GraphQL is 16 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "System Design": {
+  "query": "System Design skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "System Design demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning System Design changed by +12% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where System Design talent is concentrated",
+    "snippet": "System Design is most often paired with Microservices, REST API Design, Kafka in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into System Design",
+    "snippet": "Typical ramp-up time to working proficiency in System Design is 7 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Kafka": {
+  "query": "Kafka skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Kafka demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Kafka changed by +9% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Kafka talent is concentrated",
+    "snippet": "Kafka is most often paired with Microservices, REST API Design, System Design in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Kafka",
+    "snippet": "Typical ramp-up time to working proficiency in Kafka is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Mobile Development": {
+  "query": "Mobile Development skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Mobile Development demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Mobile Development changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Mobile Development talent is concentrated",
+    "snippet": "Mobile Development is most often paired with Flutter, React in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Mobile Development",
+    "snippet": "Typical ramp-up time to working proficiency in Mobile Development is 7 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Flutter": {
+  "query": "Flutter skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Flutter demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Flutter changed by +6% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Flutter talent is concentrated",
+    "snippet": "Flutter is most often paired with Mobile Development, React in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Flutter",
+    "snippet": "Typical ramp-up time to working proficiency in Flutter is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "AWS": {
+  "query": "AWS skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "AWS demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning AWS changed by +12% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where AWS talent is concentrated",
+    "snippet": "AWS is most often paired with Azure, GCP, Cloud Security in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into AWS",
+    "snippet": "Typical ramp-up time to working proficiency in AWS is 20 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Azure": {
+  "query": "Azure skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Azure demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Azure changed by +13% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Azure talent is concentrated",
+    "snippet": "Azure is most often paired with AWS, GCP, FinOps in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Azure",
+    "snippet": "Typical ramp-up time to working proficiency in Azure is 15 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "GCP": {
+  "query": "GCP skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "GCP demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning GCP changed by +10% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where GCP talent is concentrated",
+    "snippet": "GCP is most often paired with AWS, Azure in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into GCP",
+    "snippet": "Typical ramp-up time to working proficiency in GCP is 15 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Kubernetes": {
+  "query": "Kubernetes skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Kubernetes demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Kubernetes changed by +16% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Kubernetes talent is concentrated",
+    "snippet": "Kubernetes is most often paired with Docker, Site Reliability Engineering, Observability in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Kubernetes",
+    "snippet": "Typical ramp-up time to working proficiency in Kubernetes is 6 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Docker": {
+  "query": "Docker skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Docker demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Docker changed by +6% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Docker talent is concentrated",
+    "snippet": "Docker is most often paired with Kubernetes in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Docker",
+    "snippet": "Typical ramp-up time to working proficiency in Docker is 20 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Terraform": {
+  "query": "Terraform skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Terraform demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Terraform changed by +14% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Terraform talent is concentrated",
+    "snippet": "Terraform is most often paired with Platform Engineering, CI/CD in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Terraform",
+    "snippet": "Typical ramp-up time to working proficiency in Terraform is 9 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "CI/CD": {
+  "query": "CI/CD skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "CI/CD demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning CI/CD changed by +7% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where CI/CD talent is concentrated",
+    "snippet": "CI/CD is most often paired with Terraform, Platform Engineering, MLOps in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into CI/CD",
+    "snippet": "Typical ramp-up time to working proficiency in CI/CD is 8 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Linux Administration": {
+  "query": "Linux Administration skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Linux Administration demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Linux Administration changed by -2% year over year; trend classified as declining.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Linux Administration talent is concentrated",
+    "snippet": "Linux Administration is most often paired with Site Reliability Engineering, Observability, Kubernetes in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Linux Administration",
+    "snippet": "Typical ramp-up time to working proficiency in Linux Administration is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Site Reliability Engineering": {
+  "query": "Site Reliability Engineering skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Site Reliability Engineering demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Site Reliability Engineering changed by +13% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Site Reliability Engineering talent is concentrated",
+    "snippet": "Site Reliability Engineering is most often paired with Observability, Linux Administration, Kubernetes in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Site Reliability Engineering",
+    "snippet": "Typical ramp-up time to working proficiency in Site Reliability Engineering is 14 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Observability": {
+  "query": "Observability skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Observability demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Observability changed by +12% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Observability talent is concentrated",
+    "snippet": "Observability is most often paired with Site Reliability Engineering, Linux Administration, Kubernetes in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Observability",
+    "snippet": "Typical ramp-up time to working proficiency in Observability is 15 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Platform Engineering": {
+  "query": "Platform Engineering skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Platform Engineering demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Platform Engineering changed by +20% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Platform Engineering talent is concentrated",
+    "snippet": "Platform Engineering is most often paired with Terraform, CI/CD, Kubernetes in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Platform Engineering",
+    "snippet": "Typical ramp-up time to working proficiency in Platform Engineering is 8 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "FinOps": {
+  "query": "FinOps skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "FinOps demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning FinOps changed by +18% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where FinOps talent is concentrated",
+    "snippet": "FinOps is most often paired with AWS, Azure in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into FinOps",
+    "snippet": "Typical ramp-up time to working proficiency in FinOps is 17 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "SQL": {
+  "query": "SQL skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "SQL demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning SQL changed by +3% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where SQL talent is concentrated",
+    "snippet": "SQL is most often paired with Data Engineering, dbt, Snowflake in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into SQL",
+    "snippet": "Typical ramp-up time to working proficiency in SQL is 17 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Data Engineering": {
+  "query": "Data Engineering skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Data Engineering demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Data Engineering changed by +12% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Data Engineering talent is concentrated",
+    "snippet": "Data Engineering is most often paired with Apache Spark, Databricks, SQL in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Data Engineering",
+    "snippet": "Typical ramp-up time to working proficiency in Data Engineering is 15 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Apache Spark": {
+  "query": "Apache Spark skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Apache Spark demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Apache Spark changed by +6% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Apache Spark talent is concentrated",
+    "snippet": "Apache Spark is most often paired with Databricks, Data Engineering in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Apache Spark",
+    "snippet": "Typical ramp-up time to working proficiency in Apache Spark is 11 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Airflow": {
+  "query": "Airflow skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Airflow demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Airflow changed by +4% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Airflow talent is concentrated",
+    "snippet": "Airflow is most often paired with Data Engineering, dbt in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Airflow",
+    "snippet": "Typical ramp-up time to working proficiency in Airflow is 6 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "dbt": {
+  "query": "dbt skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "dbt demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning dbt changed by +12% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where dbt talent is concentrated",
+    "snippet": "dbt is most often paired with SQL, Data Engineering, Snowflake in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into dbt",
+    "snippet": "Typical ramp-up time to working proficiency in dbt is 9 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Snowflake": {
+  "query": "Snowflake skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Snowflake demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Snowflake changed by +10% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Snowflake talent is concentrated",
+    "snippet": "Snowflake is most often paired with SQL, Data Engineering, dbt in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Snowflake",
+    "snippet": "Typical ramp-up time to working proficiency in Snowflake is 10 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Databricks": {
+  "query": "Databricks skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Databricks demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Databricks changed by +15% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Databricks talent is concentrated",
+    "snippet": "Databricks is most often paired with Apache Spark, Data Engineering in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Databricks",
+    "snippet": "Typical ramp-up time to working proficiency in Databricks is 9 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Machine Learning": {
+  "query": "Machine Learning skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Machine Learning demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Machine Learning changed by +17% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Machine Learning talent is concentrated",
+    "snippet": "Machine Learning is most often paired with Deep Learning, Statistics, Python in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Machine Learning",
+    "snippet": "Typical ramp-up time to working proficiency in Machine Learning is 10 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Deep Learning": {
+  "query": "Deep Learning skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Deep Learning demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Deep Learning changed by +14% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Deep Learning talent is concentrated",
+    "snippet": "Deep Learning is most often paired with Machine Learning, Statistics, NLP in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Deep Learning",
+    "snippet": "Typical ramp-up time to working proficiency in Deep Learning is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "NLP": {
+  "query": "NLP skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "NLP demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning NLP changed by +16% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where NLP talent is concentrated",
+    "snippet": "NLP is most often paired with LLM Engineering, Vector Databases, Deep Learning in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into NLP",
+    "snippet": "Typical ramp-up time to working proficiency in NLP is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Generative AI": {
+  "query": "Generative AI skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Generative AI demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Generative AI changed by +42% year over year; trend classified as hot.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Generative AI talent is concentrated",
+    "snippet": "Generative AI is most often paired with LLM Engineering, Agentic AI, NLP in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Generative AI",
+    "snippet": "Typical ramp-up time to working proficiency in Generative AI is 20 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "LLM Engineering": {
+  "query": "LLM Engineering skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "LLM Engineering demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning LLM Engineering changed by +45% year over year; trend classified as hot.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where LLM Engineering talent is concentrated",
+    "snippet": "LLM Engineering is most often paired with Generative AI, Agentic AI, Vector Databases in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into LLM Engineering",
+    "snippet": "Typical ramp-up time to working proficiency in LLM Engineering is 6 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Agentic AI": {
+  "query": "Agentic AI skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Agentic AI demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Agentic AI changed by +48% year over year; trend classified as hot.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Agentic AI talent is concentrated",
+    "snippet": "Agentic AI is most often paired with Generative AI, LLM Engineering in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Agentic AI",
+    "snippet": "Typical ramp-up time to working proficiency in Agentic AI is 9 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Vector Databases": {
+  "query": "Vector Databases skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Vector Databases demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Vector Databases changed by +30% year over year; trend classified as hot.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Vector Databases talent is concentrated",
+    "snippet": "Vector Databases is most often paired with LLM Engineering, NLP in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Vector Databases",
+    "snippet": "Typical ramp-up time to working proficiency in Vector Databases is 8 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "MLOps": {
+  "query": "MLOps skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "MLOps demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning MLOps changed by +22% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where MLOps talent is concentrated",
+    "snippet": "MLOps is most often paired with Machine Learning, Kubernetes, CI/CD in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into MLOps",
+    "snippet": "Typical ramp-up time to working proficiency in MLOps is 14 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Computer Vision": {
+  "query": "Computer Vision skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Computer Vision demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Computer Vision changed by +8% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Computer Vision talent is concentrated",
+    "snippet": "Computer Vision is most often paired with Deep Learning in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Computer Vision",
+    "snippet": "Typical ramp-up time to working proficiency in Computer Vision is 8 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Statistics": {
+  "query": "Statistics skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Statistics demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Statistics changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Statistics talent is concentrated",
+    "snippet": "Statistics is most often paired with Machine Learning, Deep Learning, A/B Testing in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Statistics",
+    "snippet": "Typical ramp-up time to working proficiency in Statistics is 13 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Data Visualization": {
+  "query": "Data Visualization skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Data Visualization demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Data Visualization changed by +3% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Data Visualization talent is concentrated",
+    "snippet": "Data Visualization is most often paired with Power BI, Tableau, People Analytics in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Data Visualization",
+    "snippet": "Typical ramp-up time to working proficiency in Data Visualization is 6 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Power BI": {
+  "query": "Power BI skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Power BI demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Power BI changed by +5% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Power BI talent is concentrated",
+    "snippet": "Power BI is most often paired with Tableau, Data Visualization in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Power BI",
+    "snippet": "Typical ramp-up time to working proficiency in Power BI is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Tableau": {
+  "query": "Tableau skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Tableau demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Tableau changed by -3% year over year; trend classified as declining.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Tableau talent is concentrated",
+    "snippet": "Tableau is most often paired with Power BI, Data Visualization in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Tableau",
+    "snippet": "Typical ramp-up time to working proficiency in Tableau is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Data Governance": {
+  "query": "Data Governance skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Data Governance demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Data Governance changed by +11% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Data Governance talent is concentrated",
+    "snippet": "Data Governance is most often paired with Responsible AI, Regulatory Compliance in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Data Governance",
+    "snippet": "Typical ramp-up time to working proficiency in Data Governance is 11 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Responsible AI": {
+  "query": "Responsible AI skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Responsible AI demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Responsible AI changed by +35% year over year; trend classified as hot.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Responsible AI talent is concentrated",
+    "snippet": "Responsible AI is most often paired with Machine Learning, Data Governance, Regulatory Compliance in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Responsible AI",
+    "snippet": "Typical ramp-up time to working proficiency in Responsible AI is 11 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Application Security": {
+  "query": "Application Security skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Application Security demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Application Security changed by +12% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Application Security talent is concentrated",
+    "snippet": "Application Security is most often paired with Threat Modeling, Cloud Security in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Application Security",
+    "snippet": "Typical ramp-up time to working proficiency in Application Security is 18 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Cloud Security": {
+  "query": "Cloud Security skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Cloud Security demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Cloud Security changed by +18% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Cloud Security talent is concentrated",
+    "snippet": "Cloud Security is most often paired with Application Security, Threat Modeling, AWS in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Cloud Security",
+    "snippet": "Typical ramp-up time to working proficiency in Cloud Security is 8 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Identity & Access Management": {
+  "query": "Identity & Access Management skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Identity & Access Management demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Identity & Access Management changed by +9% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Identity & Access Management talent is concentrated",
+    "snippet": "Identity & Access Management is most often paired with Cloud Security, AWS in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Identity & Access Management",
+    "snippet": "Typical ramp-up time to working proficiency in Identity & Access Management is 10 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Threat Modeling": {
+  "query": "Threat Modeling skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Threat Modeling demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Threat Modeling changed by +8% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Threat Modeling talent is concentrated",
+    "snippet": "Threat Modeling is most often paired with Application Security, Cloud Security in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Threat Modeling",
+    "snippet": "Typical ramp-up time to working proficiency in Threat Modeling is 6 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "SIEM": {
+  "query": "SIEM skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "SIEM demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning SIEM changed by +6% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where SIEM talent is concentrated",
+    "snippet": "SIEM is most often paired with Incident Response in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into SIEM",
+    "snippet": "Typical ramp-up time to working proficiency in SIEM is 16 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Incident Response": {
+  "query": "Incident Response skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Incident Response demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Incident Response changed by +7% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Incident Response talent is concentrated",
+    "snippet": "Incident Response is most often paired with SIEM in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Incident Response",
+    "snippet": "Typical ramp-up time to working proficiency in Incident Response is 18 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "GRC": {
+  "query": "GRC skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "GRC demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning GRC changed by +4% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where GRC talent is concentrated",
+    "snippet": "GRC is most often paired with Risk Management, Regulatory Compliance in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into GRC",
+    "snippet": "Typical ramp-up time to working proficiency in GRC is 15 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Test Automation": {
+  "query": "Test Automation skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Test Automation demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Test Automation changed by +4% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Test Automation talent is concentrated",
+    "snippet": "Test Automation is most often paired with Selenium, Playwright, API Testing in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Test Automation",
+    "snippet": "Typical ramp-up time to working proficiency in Test Automation is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Selenium": {
+  "query": "Selenium skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Selenium demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Selenium changed by -8% year over year; trend classified as declining.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Selenium talent is concentrated",
+    "snippet": "Selenium is most often paired with Test Automation, Playwright, API Testing in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Selenium",
+    "snippet": "Typical ramp-up time to working proficiency in Selenium is 20 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Playwright": {
+  "query": "Playwright skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Playwright demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Playwright changed by +15% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Playwright talent is concentrated",
+    "snippet": "Playwright is most often paired with Test Automation, Selenium, API Testing in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Playwright",
+    "snippet": "Typical ramp-up time to working proficiency in Playwright is 10 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Performance Testing": {
+  "query": "Performance Testing skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Performance Testing demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Performance Testing changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Performance Testing talent is concentrated",
+    "snippet": "Performance Testing is most often paired with Observability in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Performance Testing",
+    "snippet": "Typical ramp-up time to working proficiency in Performance Testing is 16 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "API Testing": {
+  "query": "API Testing skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "API Testing demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning API Testing changed by +3% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where API Testing talent is concentrated",
+    "snippet": "API Testing is most often paired with Test Automation, Selenium, Playwright in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into API Testing",
+    "snippet": "Typical ramp-up time to working proficiency in API Testing is 8 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Product Management": {
+  "query": "Product Management skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Product Management demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Product Management changed by +8% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Product Management talent is concentrated",
+    "snippet": "Product Management is most often paired with Product Strategy, Roadmapping, A/B Testing in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Product Management",
+    "snippet": "Typical ramp-up time to working proficiency in Product Management is 6 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Product Strategy": {
+  "query": "Product Strategy skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Product Strategy demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Product Strategy changed by +7% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Product Strategy talent is concentrated",
+    "snippet": "Product Strategy is most often paired with Product Management, Roadmapping in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Product Strategy",
+    "snippet": "Typical ramp-up time to working proficiency in Product Strategy is 10 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Roadmapping": {
+  "query": "Roadmapping skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Roadmapping demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Roadmapping changed by +1% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Roadmapping talent is concentrated",
+    "snippet": "Roadmapping is most often paired with Product Management, Product Strategy in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Roadmapping",
+    "snippet": "Typical ramp-up time to working proficiency in Roadmapping is 18 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "UX Research": {
+  "query": "UX Research skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "UX Research demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning UX Research changed by +4% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where UX Research talent is concentrated",
+    "snippet": "UX Research is most often paired with Product Management, A/B Testing, UI Design in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into UX Research",
+    "snippet": "Typical ramp-up time to working proficiency in UX Research is 7 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "UI Design": {
+  "query": "UI Design skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "UI Design demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning UI Design changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where UI Design talent is concentrated",
+    "snippet": "UI Design is most often paired with Figma, Design Systems, UX Research in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into UI Design",
+    "snippet": "Typical ramp-up time to working proficiency in UI Design is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Figma": {
+  "query": "Figma skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Figma demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Figma changed by +6% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Figma talent is concentrated",
+    "snippet": "Figma is most often paired with UI Design, Design Systems in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Figma",
+    "snippet": "Typical ramp-up time to working proficiency in Figma is 10 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Design Systems": {
+  "query": "Design Systems skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Design Systems demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Design Systems changed by +8% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Design Systems talent is concentrated",
+    "snippet": "Design Systems is most often paired with UI Design, Figma, React in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Design Systems",
+    "snippet": "Typical ramp-up time to working proficiency in Design Systems is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "A/B Testing": {
+  "query": "A/B Testing skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "A/B Testing demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning A/B Testing changed by +6% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where A/B Testing talent is concentrated",
+    "snippet": "A/B Testing is most often paired with Product Management, UX Research, Marketing Analytics in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into A/B Testing",
+    "snippet": "Typical ramp-up time to working proficiency in A/B Testing is 13 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Business Analysis": {
+  "query": "Business Analysis skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Business Analysis demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Business Analysis changed by +1% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Business Analysis talent is concentrated",
+    "snippet": "Business Analysis is most often paired with Requirements Gathering, Process Improvement, Product Management in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Business Analysis",
+    "snippet": "Typical ramp-up time to working proficiency in Business Analysis is 16 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Requirements Gathering": {
+  "query": "Requirements Gathering skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Requirements Gathering demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Requirements Gathering changed by +0% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Requirements Gathering talent is concentrated",
+    "snippet": "Requirements Gathering is most often paired with Business Analysis, Process Improvement in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Requirements Gathering",
+    "snippet": "Typical ramp-up time to working proficiency in Requirements Gathering is 10 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Process Improvement": {
+  "query": "Process Improvement skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Process Improvement demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Process Improvement changed by +0% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Process Improvement talent is concentrated",
+    "snippet": "Process Improvement is most often paired with Business Analysis, Requirements Gathering in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Process Improvement",
+    "snippet": "Typical ramp-up time to working proficiency in Process Improvement is 6 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Financial Analysis": {
+  "query": "Financial Analysis skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Financial Analysis demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Financial Analysis changed by +0% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Financial Analysis talent is concentrated",
+    "snippet": "Financial Analysis is most often paired with FP&A, Financial Modeling, SAP FICO in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Financial Analysis",
+    "snippet": "Typical ramp-up time to working proficiency in Financial Analysis is 15 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "FP&A": {
+  "query": "FP&A skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "FP&A demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning FP&A changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where FP&A talent is concentrated",
+    "snippet": "FP&A is most often paired with Financial Analysis, Financial Modeling in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into FP&A",
+    "snippet": "Typical ramp-up time to working proficiency in FP&A is 10 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Financial Modeling": {
+  "query": "Financial Modeling skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Financial Modeling demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Financial Modeling changed by +3% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Financial Modeling talent is concentrated",
+    "snippet": "Financial Modeling is most often paired with Financial Analysis, FP&A in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Financial Modeling",
+    "snippet": "Typical ramp-up time to working proficiency in Financial Modeling is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "SAP FICO": {
+  "query": "SAP FICO skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "SAP FICO demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning SAP FICO changed by -3% year over year; trend classified as declining.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where SAP FICO talent is concentrated",
+    "snippet": "SAP FICO is most often paired with SAP S/4HANA, Financial Analysis in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into SAP FICO",
+    "snippet": "Typical ramp-up time to working proficiency in SAP FICO is 13 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "SAP S/4HANA": {
+  "query": "SAP S/4HANA skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "SAP S/4HANA demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning SAP S/4HANA changed by +8% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where SAP S/4HANA talent is concentrated",
+    "snippet": "SAP S/4HANA is most often paired with SAP FICO in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into SAP S/4HANA",
+    "snippet": "Typical ramp-up time to working proficiency in SAP S/4HANA is 7 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Salesforce": {
+  "query": "Salesforce skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Salesforce demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Salesforce changed by +4% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Salesforce talent is concentrated",
+    "snippet": "Salesforce is most often paired with ServiceNow in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Salesforce",
+    "snippet": "Typical ramp-up time to working proficiency in Salesforce is 15 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "ServiceNow": {
+  "query": "ServiceNow skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "ServiceNow demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning ServiceNow changed by +7% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where ServiceNow talent is concentrated",
+    "snippet": "ServiceNow is most often paired with Salesforce in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into ServiceNow",
+    "snippet": "Typical ramp-up time to working proficiency in ServiceNow is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Procurement": {
+  "query": "Procurement skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Procurement demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Procurement changed by -2% year over year; trend classified as declining.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Procurement talent is concentrated",
+    "snippet": "Procurement is most often paired with Vendor Management in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Procurement",
+    "snippet": "Typical ramp-up time to working proficiency in Procurement is 14 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Risk Management": {
+  "query": "Risk Management skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Risk Management demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Risk Management changed by +4% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Risk Management talent is concentrated",
+    "snippet": "Risk Management is most often paired with GRC, Regulatory Compliance in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Risk Management",
+    "snippet": "Typical ramp-up time to working proficiency in Risk Management is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Regulatory Compliance": {
+  "query": "Regulatory Compliance skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Regulatory Compliance demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Regulatory Compliance changed by +5% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Regulatory Compliance talent is concentrated",
+    "snippet": "Regulatory Compliance is most often paired with GRC, Risk Management, Data Governance in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Regulatory Compliance",
+    "snippet": "Typical ramp-up time to working proficiency in Regulatory Compliance is 13 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Agile/Scrum": {
+  "query": "Agile/Scrum skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Agile/Scrum demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Agile/Scrum changed by +0% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Agile/Scrum talent is concentrated",
+    "snippet": "Agile/Scrum is most often paired with Program Management, Project Management in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Agile/Scrum",
+    "snippet": "Typical ramp-up time to working proficiency in Agile/Scrum is 17 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Program Management": {
+  "query": "Program Management skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Program Management demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Program Management changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Program Management talent is concentrated",
+    "snippet": "Program Management is most often paired with Project Management, Agile/Scrum in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Program Management",
+    "snippet": "Typical ramp-up time to working proficiency in Program Management is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Project Management": {
+  "query": "Project Management skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Project Management demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Project Management changed by -1% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Project Management talent is concentrated",
+    "snippet": "Project Management is most often paired with Program Management, Agile/Scrum in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Project Management",
+    "snippet": "Typical ramp-up time to working proficiency in Project Management is 10 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Stakeholder Management": {
+  "query": "Stakeholder Management skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Stakeholder Management demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Stakeholder Management changed by +3% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Stakeholder Management talent is concentrated",
+    "snippet": "Stakeholder Management is most often paired with Communication, Change Management in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Stakeholder Management",
+    "snippet": "Typical ramp-up time to working proficiency in Stakeholder Management is 9 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "People Leadership": {
+  "query": "People Leadership skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "People Leadership demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning People Leadership changed by +4% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where People Leadership talent is concentrated",
+    "snippet": "People Leadership is most often paired with Mentoring in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into People Leadership",
+    "snippet": "Typical ramp-up time to working proficiency in People Leadership is 20 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Mentoring": {
+  "query": "Mentoring skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Mentoring demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Mentoring changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Mentoring talent is concentrated",
+    "snippet": "Mentoring is most often paired with People Leadership, Learning & Development in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Mentoring",
+    "snippet": "Typical ramp-up time to working proficiency in Mentoring is 16 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Change Management": {
+  "query": "Change Management skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Change Management demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Change Management changed by +5% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Change Management talent is concentrated",
+    "snippet": "Change Management is most often paired with Stakeholder Management, Communication in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Change Management",
+    "snippet": "Typical ramp-up time to working proficiency in Change Management is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Vendor Management": {
+  "query": "Vendor Management skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Vendor Management demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Vendor Management changed by -2% year over year; trend classified as declining.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Vendor Management talent is concentrated",
+    "snippet": "Vendor Management is most often paired with Procurement in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Vendor Management",
+    "snippet": "Typical ramp-up time to working proficiency in Vendor Management is 20 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Communication": {
+  "query": "Communication skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Communication demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Communication changed by +1% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Communication talent is concentrated",
+    "snippet": "Communication is most often paired with Stakeholder Management, Change Management in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Communication",
+    "snippet": "Typical ramp-up time to working proficiency in Communication is 20 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Talent Acquisition": {
+  "query": "Talent Acquisition skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Talent Acquisition demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Talent Acquisition changed by +0% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Talent Acquisition talent is concentrated",
+    "snippet": "Talent Acquisition is most often paired with HR Business Partnering in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Talent Acquisition",
+    "snippet": "Typical ramp-up time to working proficiency in Talent Acquisition is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "HR Business Partnering": {
+  "query": "HR Business Partnering skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "HR Business Partnering demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning HR Business Partnering changed by +1% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where HR Business Partnering talent is concentrated",
+    "snippet": "HR Business Partnering is most often paired with Talent Acquisition in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into HR Business Partnering",
+    "snippet": "Typical ramp-up time to working proficiency in HR Business Partnering is 20 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Workday": {
+  "query": "Workday skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Workday demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Workday changed by +4% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Workday talent is concentrated",
+    "snippet": "Workday is most often paired with People Analytics, Compensation & Benefits in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Workday",
+    "snippet": "Typical ramp-up time to working proficiency in Workday is 9 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Compensation & Benefits": {
+  "query": "Compensation & Benefits skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Compensation & Benefits demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Compensation & Benefits changed by -1% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Compensation & Benefits talent is concentrated",
+    "snippet": "Compensation & Benefits is most often paired with Workday, People Analytics in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Compensation & Benefits",
+    "snippet": "Typical ramp-up time to working proficiency in Compensation & Benefits is 13 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Learning & Development": {
+  "query": "Learning & Development skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Learning & Development demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Learning & Development changed by +3% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Learning & Development talent is concentrated",
+    "snippet": "Learning & Development is most often paired with Mentoring in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Learning & Development",
+    "snippet": "Typical ramp-up time to working proficiency in Learning & Development is 13 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "People Analytics": {
+  "query": "People Analytics skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "People Analytics demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning People Analytics changed by +12% year over year; trend classified as rising.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where People Analytics talent is concentrated",
+    "snippet": "People Analytics is most often paired with Workday, Compensation & Benefits, Data Visualization in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into People Analytics",
+    "snippet": "Typical ramp-up time to working proficiency in People Analytics is 12 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Digital Marketing": {
+  "query": "Digital Marketing skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Digital Marketing demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Digital Marketing changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Digital Marketing talent is concentrated",
+    "snippet": "Digital Marketing is most often paired with SEO, Content Strategy, Marketing Analytics in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Digital Marketing",
+    "snippet": "Typical ramp-up time to working proficiency in Digital Marketing is 7 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "SEO": {
+  "query": "SEO skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "SEO demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning SEO changed by -2% year over year; trend classified as declining.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where SEO talent is concentrated",
+    "snippet": "SEO is most often paired with Digital Marketing, Content Strategy in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into SEO",
+    "snippet": "Typical ramp-up time to working proficiency in SEO is 15 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Content Strategy": {
+  "query": "Content Strategy skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Content Strategy demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Content Strategy changed by +0% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Content Strategy talent is concentrated",
+    "snippet": "Content Strategy is most often paired with Digital Marketing, SEO in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Content Strategy",
+    "snippet": "Typical ramp-up time to working proficiency in Content Strategy is 17 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Marketing Analytics": {
+  "query": "Marketing Analytics skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Marketing Analytics demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Marketing Analytics changed by +7% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Marketing Analytics talent is concentrated",
+    "snippet": "Marketing Analytics is most often paired with Digital Marketing, A/B Testing, Statistics in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Marketing Analytics",
+    "snippet": "Typical ramp-up time to working proficiency in Marketing Analytics is 20 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Account Management": {
+  "query": "Account Management skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Account Management demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Account Management changed by +0% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Account Management talent is concentrated",
+    "snippet": "Account Management is most often paired with Solution Selling in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Account Management",
+    "snippet": "Typical ramp-up time to working proficiency in Account Management is 8 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ },
+ "Solution Selling": {
+  "query": "Solution Selling skills demand 2026 enterprise hiring trends",
+  "cached_on": "2026-11-05",
+  "provider": "google-search (cached sample)",
+  "results": [
+   {
+    "title": "Solution Selling demand outlook 2026 — sample market digest",
+    "snippet": "Job postings mentioning Solution Selling changed by +2% year over year; trend classified as stable.",
+    "source": "Sample Market Digest (cached)"
+   },
+   {
+    "title": "Where Solution Selling talent is concentrated",
+    "snippet": "Solution Selling is most often paired with Account Management in job descriptions.",
+    "source": "Sample Skills Graph Report (cached)"
+   },
+   {
+    "title": "Upskilling paths into Solution Selling",
+    "snippet": "Typical ramp-up time to working proficiency in Solution Selling is 19 weeks for professionals with adjacent experience.",
+    "source": "Sample L&D Benchmark (cached)"
+   }
+  ]
+ }
+}

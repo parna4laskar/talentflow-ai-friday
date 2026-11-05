@@ -1,0 +1,26 @@
+RAHUL NAIR
+DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11813
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 2.4 years of experience, based in Hyderabad. Strong in CI/CD, Kubernetes, Docker and GCP, with recent work in HR tech. Interested in moving towards Platform Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 1.8y), Kubernetes (Advanced, 1.3y), Docker (Proficient, 1.1y), GCP (Proficient, 1.3y), Terraform (Proficient, 0.6y), Observability (Working, 0.8y), Platform Engineering (Working, 0.7y)
+- Software Engineering: Python (Working, 1.1y), Go (Working, 0.4y)
+
+EXPERIENCE
+* HR Tech Data-centre Exit To Cloud — an APAC HR software company (2025-12 to present)
+  Led the delivery of a data-centre exit to cloud for an APAC HR software company in HR tech using Go, Observability and Terraform, delivering $8M in cost savings.
+* HR Tech CI/CD Platform — an APAC HR software company (2025-05 to 2025-12)
+  Scaled a CI/CD platform for an APAC HR software company in HR tech using CI/CD, Terraform and Python, accelerating releases by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Platform Engineer, Backend Engineer

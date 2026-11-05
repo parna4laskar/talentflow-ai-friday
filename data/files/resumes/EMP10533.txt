@@ -1,0 +1,28 @@
+HARRY WILSON
+Associate Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10533
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 2.8 years of experience, based in London. Strong in TypeScript, React, Playwright and JavaScript, with recent work in energy trading. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.7y), React (Proficient, 1.3y), JavaScript (Working, 1.3y), Node.js (Working, 0.8y), Next.js (Working, 0.3y), Angular (Beginner, 0.3y)
+- Quality Engineering: Playwright (Proficient, 0.9y)
+- Product & Design: Design Systems (Working, 1.1y), Figma (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — a global manufacturer (2026-05 to present)
+  Designed a claims processing engine for a global manufacturer in manufacturing IoT using Node.js, Angular and Next.js, reducing processing time by 22%.
+* Energy Trading Payments Microservices Platform — a fast-growing energy company (2025-09 to 2026-04)
+  Scaled a payments microservices platform for a fast-growing energy company in energy trading using Next.js, Node.js and Angular, reducing processing time by 40%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, Mobile Engineer, UX Designer, Full Stack Engineer

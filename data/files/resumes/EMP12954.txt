@@ -1,0 +1,34 @@
+NIKHIL CHATTERJEE
+Senior Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12954
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 8.1 years of experience, based in Bengaluru. Strong in React, Python, TypeScript and SQL, with recent work in public sector. Interested in moving towards Full Stack Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 1.2y), Python (Advanced, 7.6y), TypeScript (Proficient, 2.3y), REST API Design (Proficient, 1.6y), GraphQL (Proficient, 3.2y)
+- Data & AI: SQL (Proficient, 3.0y)
+- Cloud & DevOps: AWS (Working, 2.5y), FinOps (Working, 2.3y)
+
+EXPERIENCE
+* Media Streaming Customer Onboarding Platform — a leading streaming platform (2026-07 to present)
+  Scaled a customer onboarding platform for a leading streaming platform in media streaming using REST API Design and FinOps, lifting NPS by 18 points.
+* Pharma R&D Pricing Engine — a global pharma company (2026-01 to 2026-06)
+  Migrated a pricing engine for a global pharma company in pharma R&D using Python and TypeScript, reducing processing time by 25%.
+* E-commerce Claims Processing Engine — a US online retailer (2025-01 to 2025-11)
+  Scaled a claims processing engine for a US online retailer in e-commerce using Python and GraphQL, saving ~25K hours annually.
+* E-commerce Customer Onboarding Platform — a global online retailer (2023-09 to 2024-12)
+  Led the delivery of a customer onboarding platform for a global online retailer in e-commerce using AWS, Python and React, reducing processing time by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Frontend Engineer

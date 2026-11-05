@@ -1,0 +1,34 @@
+SAMEER BROWN
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12758
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 6.9 years of experience, based in Pune. Strong in REST API Design, SQL, Kafka and Java, with recent work in public sector. Interested in moving towards Full Stack Engineer, DevOps Engineer roles and open to relocating to London.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 6.3y), Kafka (Advanced, 3.2y), Java (Proficient, 1.1y), Microservices (Proficient, 3.5y), GraphQL (Proficient, 0.5y)
+- Data & AI: SQL (Advanced, 3.0y)
+- Cloud & DevOps: AWS (Proficient, 4.1y)
+
+EXPERIENCE
+* Public Sector Order Management System — a European government agency (2025-10 to present)
+  Migrated an order management system for a European government agency in public sector using Microservices, REST API Design and AWS, onboarding 8 new enterprise clients.
+* Public Sector Order Management System — a US government agency (2024-09 to 2025-08)
+  Designed an order management system for a US government agency in public sector using AWS, Kafka, Microservices and GraphQL, reducing processing time by 18%.
+* Public Sector Mobile Banking App — a fast-growing government agency (2023-12 to 2024-09)
+  Scaled a mobile banking app for a fast-growing government agency in public sector using Java, AWS, Microservices and Kafka, improving conversion by 12%.
+* Public Sector Mobile Banking App — a tier-1 government agency (2022-11 to 2023-11)
+  Modernised a mobile banking app for a tier-1 government agency in public sector using GraphQL, REST API Design, Microservices and Java, improving conversion by 18%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, DevOps Engineer

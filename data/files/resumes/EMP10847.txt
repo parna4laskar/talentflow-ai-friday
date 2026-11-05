@@ -1,0 +1,36 @@
+JACK THOMAS
+Senior QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP10847
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 5.4 years of experience, based in London. Strong in Test Automation, Selenium, API Testing and Performance Testing, with recent work in insurance claims. Interested in moving towards QA Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 4.9y), Selenium (Advanced, 4.4y), API Testing (Proficient, 1.9y), Performance Testing (Proficient, 0.9y), Playwright (Beginner, 0.6y)
+- Software Engineering: Python (Proficient, 2.8y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 3.7y), Communication (Working, 2.0y)
+- Data & AI: Agentic AI (Proficient, 1.9y)
+- Cloud & DevOps: CI/CD (Working, 1.6y)
+
+EXPERIENCE
+* Public Sector Performance Engineering Programme — a European government agency (2026-08 to present)
+  Designed a performance engineering programme for a European government agency in public sector using Communication, Selenium and Python, reducing production incidents by 25%.
+* Insurance Claims Performance Engineering Programme — an APAC insurer (2025-12 to 2026-06)
+  Scaled a performance engineering programme for an APAC insurer in insurance claims using Agentic AI, CI/CD and Test Automation, reducing production incidents by 40%.
+* Insurance Claims API Contract-testing Suite — an APAC insurer (2025-02 to 2025-09)
+  Built an API contract-testing suite for an APAC insurer in insurance claims using Agile/Scrum, CI/CD and Python, raising automated test coverage to 85%.
+* Telecom Billing API Contract-testing Suite — a European telecom operator (2024-05 to 2025-01)
+  Scaled an API contract-testing suite for a European telecom operator in telecom billing using Agile/Scrum, Agentic AI and Selenium, raising automated test coverage to 90%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer, Mobile Engineer, DevOps Engineer

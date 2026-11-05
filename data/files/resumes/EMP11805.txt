@@ -1,0 +1,29 @@
+SARAH GAGNON
+Associate Data Analyst | Data & Analytics | Toronto, Canada
+Employee ID: EMP11805
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 1.9 years of experience, based in Toronto. Strong in Data Visualization, Power BI, Communication and SQL, with recent work in insurance claims. Interested in moving towards Data Scientist roles and open to relocating to Kraków, Austin, London.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Proficient, 0.6y), Power BI (Proficient, 0.9y), SQL (Working, 0.9y), Snowflake (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 1.2y), Stakeholder Management (Working, 0.9y)
+
+EXPERIENCE
+* HR Tech Real-time Analytics Pipeline — a fast-growing HR software company (2025-09 to present)
+  Designed a real-time analytics pipeline for a fast-growing HR software company in HR tech using Snowflake, SQL and Communication, cutting cloud spend by 25%.
+* Insurance Claims Executive KPI Dashboard Suite — a tier-1 insurer (2024-02 to 2025-07)
+  Scaled an executive KPI dashboard suite for a tier-1 insurer in insurance claims using Communication, Stakeholder Management and SQL, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2025)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, French, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Scientist

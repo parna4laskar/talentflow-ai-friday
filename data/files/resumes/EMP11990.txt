@@ -1,0 +1,33 @@
+SANJANA CHATTERJEE
+Senior QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP11990
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.3 years of experience, based in Bengaluru. Strong in Test Automation, API Testing, Agile/Scrum and Communication, with recent work in telecom billing. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 5.2y), API Testing (Advanced, 5.6y), Playwright (Proficient, 1.2y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 8.3y), Communication (Advanced, 5.5y)
+- Data & AI: SQL (Proficient, 3.1y)
+- Software Engineering: Python (Proficient, 6.1y), Java (Proficient, 1.9y), Go (Working, 0.8y)
+- Cloud & DevOps: CI/CD (Working, 3.0y)
+
+EXPERIENCE
+* Telecom Billing Test Automation Framework — an APAC telecom operator (2025-05 to present)
+  Automated a test automation framework for an APAC telecom operator in telecom billing using SQL, Test Automation, Python and Java, raising automated test coverage to 80%.
+* Insurance Claims Test Automation Framework — a leading insurer (2024-03 to 2025-04)
+  Automated a test automation framework for a leading insurer in insurance claims using CI/CD, SQL and API Testing, raising automated test coverage to 90%.
+* Telecom Billing API Contract-testing Suite — a tier-1 telecom operator (2022-09 to 2024-01)
+  Automated an API contract-testing suite for a tier-1 telecom operator in telecom billing using Python, API Testing, Go and Communication, reducing production incidents by 30%.
+* Payments API Contract-testing Suite — a European payments provider (2021-03 to 2022-06)
+  Led the delivery of an API contract-testing suite for a European payments provider in payments using Communication, SQL and Playwright, reducing production incidents by 12%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Engineering Manager

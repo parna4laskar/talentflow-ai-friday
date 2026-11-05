@@ -1,0 +1,29 @@
+ANDREW MILLER
+Associate Backend Engineer | Engineering | New York, United States
+Employee ID: EMP11471
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.2 years of experience, based in New York. Strong in REST API Design, SQL, AWS and Python, with recent work in e-commerce. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 0.6y), Python (Working, 0.4y), Microservices (Working, 0.5y)
+- Data & AI: SQL (Proficient, 0.4y), Generative AI (Working, 0.5y)
+- Cloud & DevOps: AWS (Proficient, 0.6y), CI/CD (Working, 0.3y), Docker (Beginner, 0.3y), Kubernetes (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+- Quality Engineering: Playwright (Beginner, 0.3y)
+
+EXPERIENCE
+* Automotive Order Management System — a leading car maker (2026-11 to present)
+  Re-architected an order management system for a leading car maker in automotive using Communication, Playwright and Generative AI, reducing processing time by 40%.
+* Healthcare Order Management System — a global hospital network (2026-03 to 2026-09)
+  Re-architected an order management system for a global hospital network in healthcare using Kubernetes, Python, Microservices and REST API Design, reducing processing time by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, DevOps Engineer, Full Stack Engineer, Engineering Manager

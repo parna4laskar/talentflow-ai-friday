@@ -1,0 +1,34 @@
+PRIYA SINGH
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11700
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.8 years of experience, based in Hyderabad. Strong in Microservices, REST API Design, SQL and CI/CD, with recent work in public sector. Interested in moving towards Software Architect roles and open to relocating to Singapore, Toronto, Pune.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 3.0y), REST API Design (Proficient, 3.5y), Java (Working, 1.5y)
+- Data & AI: SQL (Proficient, 3.3y)
+- Cloud & DevOps: CI/CD (Proficient, 2.1y), AWS (Beginner, 0.6y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — a European government agency (2026-03 to present)
+  Modernised a self-service portal for a European government agency in public sector using SQL, Microservices and Java, saving ~35K hours annually.
+* Public Sector Order Management System — a tier-1 government agency (2025-03 to 2025-12)
+  Led the delivery of an order management system for a tier-1 government agency in public sector using Microservices, REST API Design, SQL and CI/CD, reducing processing time by 30%.
+* Pharma R&D Payments Microservices Platform — a leading pharma company (2024-09 to 2025-02)
+  Designed a payments microservices platform for a leading pharma company in pharma R&D using Microservices and CI/CD, accelerating releases by 22%.
+* Healthcare Claims Processing Engine — a tier-1 hospital network (2023-12 to 2024-07)
+  Modernised a claims processing engine for a tier-1 hospital network in healthcare using AWS, Microservices, Java and SQL, reducing processing time by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect

@@ -1,0 +1,30 @@
+POOJA SHEIKH
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP11312
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14.3 years of experience, based in Pune. Strong in System Design, Stakeholder Management, Agile/Scrum and Mentoring, with recent work in HR tech. Interested in moving towards Scrum Master, Backend Engineer roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 12.8y), Go (Advanced, 14.1y), Microservices (Proficient, 7.8y), Python (Working, 4.7y)
+- Delivery & Leadership: Stakeholder Management (Expert, 7.2y), Agile/Scrum (Advanced, 7.3y), Mentoring (Advanced, 5.0y), Communication (Advanced, 1.1y), People Leadership (Proficient, 7.9y)
+- Cloud & DevOps: AWS (Proficient, 1.8y)
+- Data & AI: Responsible AI (Working, 1.8y)
+
+EXPERIENCE
+* Payments Customer Onboarding Platform — a tier-1 payments provider (2026-03 to present)
+  Migrated a customer onboarding platform for a tier-1 payments provider in payments using Stakeholder Management and Communication, lifting NPS by 12 points.
+* HR Tech Payments Microservices Platform — a US HR software company (2025-08 to 2026-01)
+  Automated a payments microservices platform for a US HR software company in HR tech using AWS, Python and Microservices, reducing production incidents by 25%.
+* HR Tech Order Management System — a global HR software company (2024-12 to 2025-08)
+  Migrated an order management system for a global HR software company in HR tech using Stakeholder Management, Agile/Scrum, System Design and Python, reducing processing time by 12%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Scrum Master, Backend Engineer, Software Architect

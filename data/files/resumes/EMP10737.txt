@@ -1,0 +1,31 @@
+NANDINI DESHPANDE
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10737
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.8 years of experience, based in Bengaluru. Strong in Python, Microservices, REST API Design and SQL, with recent work in HR tech. Interested in moving towards Backend Engineer, Engineering Manager roles and open to relocating to Pune, Kraków.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 3.8y), Microservices (Proficient, 3.8y), REST API Design (Working, 0.7y), Kafka (Working, 1.1y), GraphQL (Working, 1.2y)
+- Data & AI: SQL (Working, 0.6y)
+- Cloud & DevOps: Docker (Beginner, 1.0y)
+
+EXPERIENCE
+* HR Tech Pricing Engine — a US HR software company (2026-01 to present)
+  Designed a pricing engine for a US HR software company in HR tech using REST API Design, Python, Docker and Kafka, reducing processing time by 22%.
+* Wealth Management Self-service Portal — a tier-1 wealth manager (2024-05 to 2025-10)
+  Scaled a self-service portal for a tier-1 wealth manager in wealth management using SQL and GraphQL, saving ~12K hours annually.
+* Pharma R&D Mobile Banking App — a leading pharma company (2023-09 to 2024-03)
+  Modernised a mobile banking app for a leading pharma company in pharma R&D using SQL and Docker, improving conversion by 30%.
+* HR Tech Payments Microservices Platform — a leading HR software company (2022-08 to 2023-08)
+  Designed a payments microservices platform for a leading HR software company in HR tech using Kafka and Microservices, accelerating releases by 40%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, Engineering Manager, DevOps Engineer, AI Engineer

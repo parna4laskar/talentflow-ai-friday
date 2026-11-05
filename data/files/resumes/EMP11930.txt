@@ -1,0 +1,30 @@
+VIKRAM REDDY
+Senior QA Engineer | Quality Engineering | Gurugram, India
+Employee ID: EMP11930
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.7 years of experience, based in Gurugram. Strong in Test Automation, Python, Playwright and API Testing, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 2.8y), Playwright (Proficient, 3.1y), API Testing (Proficient, 5.5y)
+- Software Engineering: Python (Advanced, 0.6y), Java (Working, 2.7y)
+- Cloud & DevOps: CI/CD (Proficient, 1.1y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 4.4y)
+
+EXPERIENCE
+* E-commerce Performance Engineering Programme — a leading online retailer (2026-05 to present)
+  Built a performance engineering programme for a leading online retailer in e-commerce using Python, Java, Test Automation and Playwright, accelerating releases by 30%.
+* Insurance Claims Performance Engineering Programme — a leading insurer (2025-09 to 2026-03)
+  Modernised a performance engineering programme for a leading insurer in insurance claims using Test Automation, Python and CI/CD, accelerating releases by 18%.
+* Insurance Claims Performance Engineering Programme — an APAC insurer (2024-02 to 2025-08)
+  Modernised a performance engineering programme for an APAC insurer in insurance claims using Test Automation, Python, Agile/Scrum and Playwright, reducing production incidents by 40%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Full Stack Engineer

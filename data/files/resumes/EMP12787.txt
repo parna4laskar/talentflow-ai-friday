@@ -1,0 +1,29 @@
+ZOYA CHATTERJEE
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP12787
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 15.4 years of experience, based in Hyderabad. Strong in C#, System Design, AWS and Kafka, with recent work in wealth management. Interested in moving towards Cloud Engineer roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 9.6y), System Design (Advanced, 11.4y), Kafka (Advanced, 2.0y), REST API Design (Advanced, 6.4y), Microservices (Proficient, 11.0y), Java (Proficient, 2.9y)
+- Cloud & DevOps: AWS (Advanced, 8.7y), Kubernetes (Advanced, 9.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 6.3y), People Leadership (Proficient, 4.7y), Mentoring (Working, 4.0y)
+
+EXPERIENCE
+* Wealth Management Customer Onboarding Platform — a fast-growing wealth manager (2026-07 to present)
+  Led the delivery of a customer onboarding platform for a fast-growing wealth manager in wealth management using Kafka and Microservices, improving conversion by 12%.
+* Insurance Claims Claims Processing Engine — an APAC insurer (2025-02 to 2026-06)
+  Automated a claims processing engine for an APAC insurer in insurance claims using Kubernetes, Stakeholder Management, AWS and C#, reducing processing time by 30%.
+* Telecom Billing Order Management System — a fast-growing telecom operator (2023-12 to 2024-12)
+  Designed an order management system for a fast-growing telecom operator in telecom billing using Java and Stakeholder Management, onboarding 8 new enterprise clients.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer

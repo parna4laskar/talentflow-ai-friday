@@ -1,0 +1,199 @@
+{
+ "Backend Engineer": [
+  "Software Architect",
+  "Engineering Manager",
+  "AI Engineer",
+  "Full Stack Engineer",
+  "DevOps Engineer"
+ ],
+ "Frontend Engineer": [
+  "Full Stack Engineer",
+  "Mobile Engineer",
+  "UX Designer",
+  "QA Engineer"
+ ],
+ "Full Stack Engineer": [
+  "Software Architect",
+  "AI Engineer",
+  "Backend Engineer",
+  "Frontend Engineer",
+  "Mobile Engineer"
+ ],
+ "Mobile Engineer": [
+  "Full Stack Engineer",
+  "QA Engineer",
+  "Frontend Engineer",
+  "Backend Engineer"
+ ],
+ "Software Architect": [
+  "Backend Engineer",
+  "Engineering Manager",
+  "Cloud Engineer",
+  "DevOps Engineer"
+ ],
+ "DevOps Engineer": [
+  "Platform Engineer",
+  "Site Reliability Engineer",
+  "Cloud Engineer",
+  "Backend Engineer"
+ ],
+ "Site Reliability Engineer": [
+  "Platform Engineer",
+  "DevOps Engineer",
+  "Cloud Engineer",
+  "Security Engineer"
+ ],
+ "Cloud Engineer": [
+  "DevOps Engineer",
+  "Platform Engineer",
+  "Software Architect",
+  "Site Reliability Engineer"
+ ],
+ "Platform Engineer": [
+  "Site Reliability Engineer",
+  "DevOps Engineer",
+  "Cloud Engineer",
+  "Backend Engineer"
+ ],
+ "Data Engineer": [
+  "ML Engineer",
+  "AI Engineer",
+  "Backend Engineer",
+  "Data Analyst",
+  "Data Scientist"
+ ],
+ "Data Analyst": [
+  "Data Scientist",
+  "Product Manager",
+  "Business Analyst",
+  "Financial Analyst"
+ ],
+ "Data Scientist": [
+  "AI Engineer",
+  "ML Engineer",
+  "Data Analyst",
+  "Product Manager"
+ ],
+ "ML Engineer": [
+  "Data Scientist",
+  "AI Engineer",
+  "DevOps Engineer",
+  "Platform Engineer"
+ ],
+ "AI Engineer": [
+  "ML Engineer",
+  "DevOps Engineer",
+  "Data Scientist",
+  "Full Stack Engineer"
+ ],
+ "Security Engineer": [
+  "Security Analyst",
+  "Site Reliability Engineer",
+  "Cloud Engineer",
+  "Software Architect"
+ ],
+ "Security Analyst": [
+  "Security Engineer",
+  "Site Reliability Engineer",
+  "Cloud Engineer",
+  "DevOps Engineer"
+ ],
+ "QA Engineer": [
+  "DevOps Engineer",
+  "Backend Engineer",
+  "Mobile Engineer",
+  "Engineering Manager",
+  "Full Stack Engineer"
+ ],
+ "Product Manager": [
+  "UX Designer",
+  "Business Analyst",
+  "Scrum Master",
+  "Project Manager"
+ ],
+ "UX Designer": [
+  "Product Manager",
+  "Marketing Specialist",
+  "Frontend Engineer",
+  "Talent Acquisition Specialist"
+ ],
+ "Business Analyst": [
+  "Product Manager",
+  "Scrum Master",
+  "CRM Consultant",
+  "Account Manager",
+  "Data Analyst"
+ ],
+ "Scrum Master": [
+  "Project Manager",
+  "Program Manager",
+  "Engineering Manager",
+  "Business Analyst"
+ ],
+ "Project Manager": [
+  "Program Manager",
+  "Scrum Master",
+  "Account Manager",
+  "Business Analyst"
+ ],
+ "Program Manager": [
+  "Project Manager",
+  "Scrum Master",
+  "Engineering Manager",
+  "Account Manager"
+ ],
+ "Engineering Manager": [
+  "Software Architect",
+  "Scrum Master",
+  "Program Manager",
+  "Backend Engineer"
+ ],
+ "Financial Analyst": [
+  "Risk & Compliance Analyst",
+  "Business Analyst",
+  "Data Analyst",
+  "SAP Consultant"
+ ],
+ "SAP Consultant": [
+  "CRM Consultant",
+  "Business Analyst",
+  "Financial Analyst",
+  "Risk & Compliance Analyst"
+ ],
+ "CRM Consultant": [
+  "Business Analyst",
+  "SAP Consultant",
+  "Account Manager",
+  "Scrum Master"
+ ],
+ "HR Business Partner": [
+  "Talent Acquisition Specialist",
+  "Scrum Master",
+  "Program Manager",
+  "Project Manager"
+ ],
+ "Talent Acquisition Specialist": [
+  "HR Business Partner",
+  "Scrum Master",
+  "Project Manager",
+  "Account Manager"
+ ],
+ "Marketing Specialist": [
+  "UX Designer",
+  "Product Manager",
+  "Data Analyst",
+  "Data Scientist"
+ ],
+ "Account Manager": [
+  "Business Analyst",
+  "Project Manager",
+  "Program Manager",
+  "Talent Acquisition Specialist"
+ ],
+ "Risk & Compliance Analyst": [
+  "Financial Analyst",
+  "Data Engineer",
+  "SAP Consultant",
+  "Security Analyst"
+ ]
+}

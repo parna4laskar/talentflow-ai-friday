@@ -1,0 +1,28 @@
+EMILY KHAN
+SAP Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP12289
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 3.4 years of experience, based in London. Strong in Process Improvement, SAP FICO, SAP S/4HANA and Business Analysis, with recent work in wealth management. Interested in moving towards SAP Consultant, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Process Improvement (Advanced, 2.3y), SAP FICO (Proficient, 1.5y), SAP S/4HANA (Proficient, 0.7y), Business Analysis (Working, 0.5y), Requirements Gathering (Working, 0.3y), Financial Analysis (Working, 1.1y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+
+EXPERIENCE
+* Retail Banking Service Desk Automation — a tier-1 retail bank (2026-02 to present)
+  Led the delivery of a service desk automation for a tier-1 retail bank in retail banking using Communication, Process Improvement and Business Analysis, saving ~12K hours annually.
+* Telecom Billing Service Desk Automation — a US telecom operator (2025-06 to 2026-01)
+  Modernised a service desk automation for a US telecom operator in telecom billing using Communication and SAP FICO, saving ~18K hours annually.
+* Wealth Management Service Desk Automation — an APAC wealth manager (2024-11 to 2025-05)
+  Modernised a service desk automation for an APAC wealth manager in wealth management using Financial Analysis, SAP FICO and SAP S/4HANA, saving ~18K hours annually.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: SAP Consultant, CRM Consultant

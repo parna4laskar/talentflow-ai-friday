@@ -1,0 +1,28 @@
+CARLOS MILLER
+Associate QA Engineer | Quality Engineering | Austin, United States
+Employee ID: EMP12910
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2.9 years of experience, based in Austin. Strong in Test Automation, Playwright, API Testing and CI/CD, with recent work in payments. Interested in moving towards Engineering Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 1.3y), Playwright (Proficient, 1.1y), API Testing (Proficient, 1.1y), Performance Testing (Beginner, 0.3y)
+- Cloud & DevOps: CI/CD (Proficient, 1.9y)
+- Data & AI: SQL (Working, 0.8y)
+- Software Engineering: Java (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Test Automation Framework — a global wealth manager (2026-01 to present)
+  Built a test automation framework for a global wealth manager in wealth management using Test Automation, SQL and CI/CD, accelerating releases by 30%.
+* Energy Trading Test Automation Framework — a European energy company (2024-07 to 2025-10)
+  Built a test automation framework for a European energy company in energy trading using Test Automation, Playwright and Java, raising automated test coverage to 85%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Backend Engineer

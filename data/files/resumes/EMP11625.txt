@@ -1,0 +1,30 @@
+RAHUL RAO
+Senior Site Reliability Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11625
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 9.5 years of experience, based in Hyderabad. Strong in AWS, Linux Administration, Incident Response and Site Reliability Engineering, with recent work in pharma R&D. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Expert, 7.2y), Linux Administration (Advanced, 8.5y), Site Reliability Engineering (Proficient, 1.7y), Observability (Proficient, 5.9y), Kubernetes (Proficient, 6.8y)
+- Security: Incident Response (Advanced, 5.5y)
+- Software Engineering: Python (Proficient, 3.9y)
+- Delivery & Leadership: Communication (Proficient, 5.6y)
+
+EXPERIENCE
+* Insurance Claims Data-centre Exit To Cloud — a tier-1 insurer (2025-12 to present)
+  Automated a data-centre exit to cloud for a tier-1 insurer in insurance claims using Observability, Python, Linux Administration and Communication, cutting cloud spend by 30%.
+* Healthcare Observability Stack — a US hospital network (2024-05 to 2025-10)
+  Scaled an observability stack for a US hospital network in healthcare using Linux Administration, Kubernetes, AWS and Observability, reducing production incidents by 18%.
+* Pharma R&D Cloud Landing Zone — a tier-1 pharma company (2023-09 to 2024-03)
+  Designed a cloud landing zone for a tier-1 pharma company in pharma R&D using Linux Administration and Site Reliability Engineering, accelerating releases by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer, Cloud Engineer

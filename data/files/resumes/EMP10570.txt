@@ -1,0 +1,32 @@
+ANJALI PILLAI
+Senior Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10570
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 9.1 years of experience, based in Hyderabad. Strong in Go, REST API Design, Spring Boot and Microservices, with recent work in HR tech. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 6.5y), REST API Design (Advanced, 3.1y), Spring Boot (Advanced, 3.1y), Microservices (Proficient, 5.1y)
+- Data & AI: SQL (Working, 2.8y)
+- Cloud & DevOps: Kubernetes (Working, 3.5y), FinOps (Beginner, 2.0y)
+
+EXPERIENCE
+* HR Tech Mobile Banking App — a global HR software company (2025-08 to present)
+  Modernised a mobile banking app for a global HR software company in HR tech using Kubernetes, Spring Boot, Go and Microservices, improving conversion by 22%.
+* HR Tech Claims Processing Engine — a leading HR software company (2024-04 to 2025-06)
+  Scaled a claims processing engine for a leading HR software company in HR tech using Spring Boot, Kubernetes, SQL and Microservices, saving ~22K hours annually.
+* HR Tech Payments Microservices Platform — a tier-1 HR software company (2022-12 to 2024-03)
+  Re-architected a payments microservices platform for a tier-1 HR software company in HR tech using SQL, Kubernetes, Spring Boot and FinOps, reducing processing time by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, AI Engineer, DevOps Engineer

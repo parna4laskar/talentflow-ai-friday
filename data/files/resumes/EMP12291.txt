@@ -1,0 +1,35 @@
+SAURABH KRISHNAN
+CRM Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP12291
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 3.7 years of experience, based in Pune. Strong in JavaScript, Salesforce, Business Analysis and Process Improvement, with recent work in wealth management. Interested in moving towards Account Manager roles and open to relocating to New York, Kraków, Dublin.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Proficient, 1.9y)
+- Business & Finance: Salesforce (Working, 1.7y), Business Analysis (Working, 0.7y), Process Improvement (Working, 1.7y)
+- Cloud & DevOps: Terraform (Working, 0.8y)
+
+EXPERIENCE
+* Manufacturing IoT ERP Finance Rollout — a tier-1 manufacturer (2026-04 to present)
+  Scaled an ERP finance rollout for a tier-1 manufacturer in manufacturing IoT using Process Improvement, Terraform and JavaScript, saving ~40K hours annually.
+* Supply-chain Logistics ERP Finance Rollout — a fast-growing logistics company (2025-02 to 2026-01)
+  Designed an ERP finance rollout for a fast-growing logistics company in supply-chain logistics using Business Analysis, Terraform and Process Improvement, reducing processing time by 35%.
+* Wealth Management ERP Finance Rollout — a leading wealth manager (2024-04 to 2025-01)
+  Led the delivery of an ERP finance rollout for a leading wealth manager in wealth management using Terraform and Business Analysis, reducing processing time by 40%.
+* Wealth Management ERP Finance Rollout — a global wealth manager (2022-10 to 2024-01)
+  Built an ERP finance rollout for a global wealth manager in wealth management using Salesforce, Terraform, Business Analysis and JavaScript, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2024)
+- ServiceNow CSA (2024)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Account Manager

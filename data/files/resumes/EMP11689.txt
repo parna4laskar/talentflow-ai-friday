@@ -1,0 +1,29 @@
+SNEHA KAUR
+Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11689
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.8 years of experience, based in Gurugram. Strong in React, Design Systems, TypeScript and JavaScript, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 1.0y), TypeScript (Proficient, 2.7y), JavaScript (Proficient, 1.3y), GraphQL (Proficient, 1.1y), Node.js (Working, 0.5y), Next.js (Working, 0.4y)
+- Product & Design: Design Systems (Advanced, 3.0y)
+- Data & AI: Agentic AI (Working, 1.7y)
+
+EXPERIENCE
+* Manufacturing IoT Payments Microservices Platform — a leading manufacturer (2026-02 to present)
+  Re-architected a payments microservices platform for a leading manufacturer in manufacturing IoT using TypeScript and Agentic AI, accelerating releases by 30%.
+* Retail Banking Customer Onboarding Platform — a leading retail bank (2024-12 to 2025-11)
+  Re-architected a customer onboarding platform for a leading retail bank in retail banking using React, Design Systems and Next.js, lifting NPS by 40 points.
+* HR Tech Payments Microservices Platform — a US HR software company (2023-12 to 2024-10)
+  Built a payments microservices platform for a US HR software company in HR tech using JavaScript, GraphQL and TypeScript, accelerating releases by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer, Mobile Engineer, QA Engineer, Full Stack Engineer

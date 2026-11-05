@@ -1,0 +1,31 @@
+SOPHIE SMITH
+Senior Business Analyst | Business Consulting | London, United Kingdom
+Employee ID: EMP11320
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 5.7 years of experience, based in London. Strong in Requirements Gathering, Agile/Scrum, Salesforce and Business Analysis, with recent work in insurance claims. Interested in moving towards Business Analyst, Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 3.9y), Salesforce (Advanced, 5.1y), Business Analysis (Proficient, 3.7y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 4.1y), Stakeholder Management (Proficient, 0.8y), Communication (Working, 1.4y), Change Management (Beginner, 0.5y)
+- Data & AI: Power BI (Proficient, 1.3y), SQL (Working, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Agile Transformation — a US insurer (2025-12 to present)
+  Ran an agile transformation for a US insurer in insurance claims using Requirements Gathering and Business Analysis, accelerating releases by 22%.
+* HR Tech Process Re-engineering Initiative — a tier-1 HR software company (2025-05 to 2025-10)
+  Delivered a process re-engineering initiative for a tier-1 HR software company in HR tech using Change Management, Business Analysis and Communication, delivering $5M in cost savings.
+* Supply-chain Logistics Process Re-engineering Initiative — a US logistics company (2023-11 to 2025-03)
+  Ran a process re-engineering initiative for a US logistics company in supply-chain logistics using Change Management, Stakeholder Management and Power BI, delivering $3M in cost savings.
+* Insurance Claims Cloud Migration Programme — a leading insurer (2023-04 to 2023-10)
+  Led a cloud migration programme for a leading insurer in insurance claims using SQL and Requirements Gathering, cutting cloud spend by 25%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Business Analyst, Data Analyst, CRM Consultant, Scrum Master

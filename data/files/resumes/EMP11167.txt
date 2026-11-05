@@ -1,0 +1,31 @@
+VENKAT KHAN
+Senior Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP11167
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 6.3 years of experience, based in Chennai. Strong in Python, Machine Learning, Statistics and SQL, with recent work in supply-chain logistics. Interested in moving towards Product Manager, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 5.0y)
+- Data & AI: Machine Learning (Advanced, 2.0y), Statistics (Advanced, 1.8y), SQL (Advanced, 5.1y), MLOps (Working, 1.1y), Data Visualization (Working, 3.1y)
+- Delivery & Leadership: Communication (Working, 2.7y)
+
+EXPERIENCE
+* Automotive Executive KPI Dashboard Suite — a global car maker (2026-02 to present)
+  Re-architected an executive KPI dashboard suite for a global car maker in automotive using SQL, MLOps and Machine Learning, improving forecast accuracy by 35%.
+* Supply-chain Logistics Customer Churn Model — a European logistics company (2024-10 to 2025-12)
+  Led the delivery of a customer churn model for a European logistics company in supply-chain logistics using Statistics, Python and SQL, improving conversion by 35%.
+* Airline Operations Regulatory Reporting Suite — a US airline (2023-10 to 2024-08)
+  Designed a regulatory reporting suite for a US airline in airline operations using Statistics and Machine Learning, saving ~35K hours annually.
+* E-commerce Regulatory Reporting Suite — an APAC online retailer (2023-05 to 2023-10)
+  Re-architected a regulatory reporting suite for an APAC online retailer in e-commerce using SQL, Machine Learning and Communication, reducing processing time by 25%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Product Manager, Data Analyst, AI Engineer

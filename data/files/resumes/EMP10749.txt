@@ -1,0 +1,31 @@
+SURESH BANERJEE
+SAP Consultant | Enterprise Applications | Hyderabad, India
+Employee ID: EMP10749
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 3.4 years of experience, based in Hyderabad. Strong in Business Analysis, SAP S/4HANA, SAP FICO and Process Improvement, with recent work in insurance claims. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 0.6y), SAP S/4HANA (Advanced, 1.6y), SAP FICO (Proficient, 1.3y), Process Improvement (Proficient, 1.4y), Requirements Gathering (Working, 0.3y), Financial Analysis (Working, 0.9y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+- Data & AI: Agentic AI (Working, 0.9y)
+
+EXPERIENCE
+* Supply-chain Logistics CRM Rollout — a European logistics company (2026-06 to present)
+  Modernised a CRM rollout for a European logistics company in supply-chain logistics using Agentic AI, Communication, Process Improvement and SAP FICO, reducing processing time by 35%.
+* Healthcare CRM Rollout — a global hospital network (2024-10 to 2026-03)
+  Re-architected a CRM rollout for a global hospital network in healthcare using Requirements Gathering and Agentic AI, reducing processing time by 30%.
+* Insurance Claims CRM Rollout — a leading insurer (2023-07 to 2024-09)
+  Automated a CRM rollout for a leading insurer in insurance claims using Financial Analysis and Business Analysis, reducing processing time by 22%.
+* Insurance Claims Service Desk Automation — a tier-1 insurer (2021-11 to 2023-05)
+  Migrated a service desk automation for a tier-1 insurer in insurance claims using SAP S/4HANA and Agentic AI, reducing processing time by 30%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Business Analyst

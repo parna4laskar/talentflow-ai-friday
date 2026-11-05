@@ -1,0 +1,33 @@
+RYAN TREMBLAY
+Data Scientist | Data & Analytics | Toronto, Canada
+Employee ID: EMP10863
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3.7 years of experience, based in Toronto. Strong in Python, Machine Learning, Statistics and SQL, with recent work in insurance claims. Interested in moving towards Data Scientist, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.4y)
+- Data & AI: Machine Learning (Proficient, 0.4y), Statistics (Proficient, 1.6y), SQL (Proficient, 2.1y), NLP (Proficient, 2.5y), Generative AI (Working, 0.9y), Data Visualization (Beginner, 0.3y)
+- Product & Design: A/B Testing (Proficient, 2.4y)
+- Delivery & Leadership: Communication (Proficient, 2.0y)
+
+EXPERIENCE
+* Insurance Claims Regulatory Reporting Suite — a European insurer (2026-01 to present)
+  Built a regulatory reporting suite for a European insurer in insurance claims using Statistics and Machine Learning, saving ~12K hours annually.
+* Insurance Claims Regulatory Reporting Suite — a leading insurer (2024-12 to 2025-12)
+  Designed a regulatory reporting suite for a leading insurer in insurance claims using Python, Communication, Generative AI and NLP, reducing processing time by 40%.
+* Insurance Claims Data Lakehouse — a leading insurer (2023-05 to 2024-10)
+  Re-architected a data lakehouse for a leading insurer in insurance claims using Communication and NLP, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2024)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, French, Marathi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Scientist, ML Engineer, Data Analyst

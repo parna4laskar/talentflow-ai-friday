@@ -1,0 +1,32 @@
+FARHAN PAWAR
+UX Designer | Design | Pune, India
+Employee ID: EMP11980
+
+PROFESSIONAL SUMMARY
+UX Designer with 5.5 years of experience, based in Pune. Strong in UX Research, Figma, Communication and Design Systems, with recent work in HR tech. Interested in moving towards UX Designer, Talent Acquisition Specialist roles.
+
+CORE SKILLS
+- Product & Design: UX Research (Advanced, 2.6y), Figma (Advanced, 4.9y), Design Systems (Working, 0.5y), UI Design (Beginner, 1.2y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+- Cloud & DevOps: Terraform (Working, 0.7y)
+
+EXPERIENCE
+* HR Tech Onboarding Flow — a tier-1 HR software company (2026-04 to present)
+  Designed an onboarding flow for a tier-1 HR software company in HR tech using Terraform, UX Research and Communication, improving conversion by 22%.
+* HR Tech Customer Self-service Journey — an APAC HR software company (2024-11 to 2026-01)
+  Led UX for a customer self-service journey for an APAC HR software company in HR tech using Design Systems, UX Research and Figma, improving conversion by 12%.
+* HR Tech Enterprise Design System — a fast-growing HR software company (2023-03 to 2024-08)
+  Ran research for an enterprise design system for a fast-growing HR software company in HR tech using UI Design, Terraform and Figma, lifting NPS by 35 points.
+
+CERTIFICATIONS
+- NN/g UX Certification (2021)
+
+EDUCATION
+- M.Des
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: UX Designer, Talent Acquisition Specialist, Product Manager

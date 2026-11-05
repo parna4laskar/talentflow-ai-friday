@@ -1,0 +1,34 @@
+ADITI HEGDE
+Principal Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11586
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 21.9 years of experience, based in Bengaluru. Strong in C#, System Design, REST API Design and SQL, with recent work in airline operations. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 21.1y), System Design (Expert, 11.6y), REST API Design (Advanced, 19.2y), Microservices (Advanced, 9.4y), Spring Boot (Advanced, 1.0y), GraphQL (Proficient, 1.1y)
+- Data & AI: SQL (Advanced, 14.6y)
+- Delivery & Leadership: People Leadership (Advanced, 7.5y), Stakeholder Management (Working, 10.9y)
+- Cloud & DevOps: Kubernetes (Proficient, 6.7y), FinOps (Proficient, 1.6y), Docker (Working, 0.6y)
+
+EXPERIENCE
+* Public Sector Customer Onboarding Platform — a global government agency (2025-11 to present)
+  Built a customer onboarding platform for a global government agency in public sector using Stakeholder Management, Docker and GraphQL, lifting NPS by 40 points.
+* HR Tech Payments Microservices Platform — an APAC HR software company (2025-05 to 2025-10)
+  Led the delivery of a payments microservices platform for an APAC HR software company in HR tech using REST API Design, SQL and Stakeholder Management, accelerating releases by 35%.
+* Airline Operations Pricing Engine — a leading airline (2024-07 to 2025-03)
+  Re-architected a pricing engine for a leading airline in airline operations using REST API Design, GraphQL, Microservices and Kubernetes, improving conversion by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Software Architect

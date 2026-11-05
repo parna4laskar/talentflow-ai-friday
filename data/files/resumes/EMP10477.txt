@@ -1,0 +1,36 @@
+SOPHIE EVANS
+Lead Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10477
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 14.7 years of experience, based in London. Strong in Go, Microservices, Docker and System Design, with recent work in airline operations. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 8.4y), Microservices (Advanced, 0.9y), System Design (Advanced, 5.6y), REST API Design (Proficient, 4.8y), Kafka (Proficient, 8.6y)
+- Cloud & DevOps: Docker (Advanced, 9.9y), Kubernetes (Proficient, 3.8y), AWS (Working, 7.0y)
+- Data & AI: SQL (Proficient, 5.6y), Agentic AI (Working, 4.5y)
+- Delivery & Leadership: Mentoring (Proficient, 9.1y)
+
+EXPERIENCE
+* Airline Operations Claims Processing Engine — a European airline (2026-09 to present)
+  Designed a claims processing engine for a European airline in airline operations using Go, Microservices, AWS and System Design, saving ~25K hours annually.
+* Public Sector Customer Onboarding Platform — a US government agency (2025-08 to 2026-07)
+  Built a customer onboarding platform for a US government agency in public sector using Mentoring, Kubernetes, Agentic AI and AWS, reducing processing time by 35%.
+* Airline Operations Claims Processing Engine — a US airline (2024-03 to 2025-05)
+  Built a claims processing engine for a US airline in airline operations using Agentic AI and AWS, saving ~30K hours annually.
+* Public Sector Self-service Portal — a European government agency (2023-04 to 2024-02)
+  Led the delivery of a self-service portal for a European government agency in public sector using Docker, Mentoring and Kubernetes, saving ~40K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Engineering Manager, Software Architect

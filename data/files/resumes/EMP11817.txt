@@ -1,0 +1,32 @@
+KARTHIK REDDY
+Senior QA Engineer | Quality Engineering | Gurugram, India
+Employee ID: EMP11817
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 8.8 years of experience, based in Gurugram. Strong in Playwright, Test Automation, API Testing and SQL, with recent work in energy trading. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Advanced, 5.3y), Test Automation (Proficient, 1.2y), API Testing (Proficient, 1.6y)
+- Data & AI: SQL (Proficient, 0.9y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 4.1y), Communication (Beginner, 1.6y)
+- Cloud & DevOps: CI/CD (Working, 2.5y)
+
+EXPERIENCE
+* Energy Trading Test Automation Framework — a European energy company (2025-10 to present)
+  Led the delivery of a test automation framework for a European energy company in energy trading using SQL, Agile/Scrum, API Testing and Test Automation, raising automated test coverage to 85%.
+* Energy Trading API Contract-testing Suite — a leading energy company (2024-02 to 2025-08)
+  Re-architected an API contract-testing suite for a leading energy company in energy trading using SQL, CI/CD, Test Automation and Communication, raising automated test coverage to 80%.
+* Energy Trading API Contract-testing Suite — a European energy company (2023-01 to 2024-02)
+  Automated an API contract-testing suite for a European energy company in energy trading using Playwright and Test Automation, reducing production incidents by 40%.
+* Insurance Claims API Contract-testing Suite — a US insurer (2022-06 to 2022-12)
+  Scaled an API contract-testing suite for a US insurer in insurance claims using Playwright, API Testing, Communication and CI/CD, reducing production incidents by 35%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: QA Engineer, Backend Engineer, DevOps Engineer

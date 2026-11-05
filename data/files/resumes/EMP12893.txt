@@ -1,0 +1,32 @@
+ADITYA SHARMA
+Associate Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP12893
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.9 years of experience, based in Chennai. Strong in Kubernetes, REST API Design, Microservices and Python, with recent work in automotive. Interested in moving towards Software Architect, Full Stack Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.5y)
+- Software Engineering: REST API Design (Proficient, 2.1y), Microservices (Proficient, 1.9y), Python (Working, 1.0y), GraphQL (Working, 0.9y), Kafka (Beginner, 0.3y)
+- Data & AI: SQL (Working, 1.4y)
+- Delivery & Leadership: Communication (Beginner, 0.4y)
+
+EXPERIENCE
+* Supply-chain Logistics Order Management System — a US logistics company (2025-12 to present)
+  Migrated an order management system for a US logistics company in supply-chain logistics using Microservices, Communication, REST API Design and Kafka, onboarding 5 new enterprise clients.
+* Energy Trading Payments Microservices Platform — a European energy company (2024-10 to 2025-10)
+  Designed a payments microservices platform for a European energy company in energy trading using Microservices and Kafka, accelerating releases by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Full Stack Engineer

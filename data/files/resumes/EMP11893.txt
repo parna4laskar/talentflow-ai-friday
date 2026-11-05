@@ -1,0 +1,31 @@
+GURPREET GOKHALE
+Senior Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11893
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 10.6 years of experience, based in Bengaluru. Strong in Mobile Development, React, UI Design and Test Automation, with recent work in public sector. Interested in moving towards Frontend Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 5.3y), React (Advanced, 10.3y), REST API Design (Proficient, 2.7y), TypeScript (Proficient, 6.9y)
+- Product & Design: UI Design (Advanced, 2.4y)
+- Quality Engineering: Test Automation (Proficient, 7.6y)
+- Cloud & DevOps: CI/CD (Proficient, 4.2y)
+- Data & AI: Responsible AI (Working, 3.5y)
+
+EXPERIENCE
+* Energy Trading Order Management System — an APAC energy company (2026-07 to present)
+  Re-architected an order management system for an APAC energy company in energy trading using Mobile Development, React and Responsible AI, onboarding 5 new enterprise clients.
+* Public Sector Pricing Engine — a leading government agency (2024-12 to 2026-06)
+  Scaled a pricing engine for a leading government agency in public sector using React, Test Automation and CI/CD, improving conversion by 35%.
+* Pharma R&D Customer Onboarding Platform — a European pharma company (2024-03 to 2024-11)
+  Scaled a customer onboarding platform for a European pharma company in pharma R&D using Responsible AI, Test Automation, React and UI Design, lifting NPS by 35 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, Backend Engineer

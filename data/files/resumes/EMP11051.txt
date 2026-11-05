@@ -1,0 +1,28 @@
+SIMRAN ROY
+Associate Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11051
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.8 years of experience, based in Toronto. Strong in Java, REST API Design, Kafka and System Design, with recent work in airline operations. Interested in moving towards Engineering Manager, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 0.4y), REST API Design (Proficient, 0.5y), Kafka (Proficient, 1.0y), System Design (Proficient, 0.4y), Microservices (Working, 0.3y), GraphQL (Working, 0.8y)
+- Data & AI: SQL (Working, 0.4y)
+- Cloud & DevOps: AWS (Working, 0.3y), CI/CD (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+
+EXPERIENCE
+* Public Sector Pricing Engine — a fast-growing government agency (2026-08 to present)
+  Designed a pricing engine for a fast-growing government agency in public sector using Communication and Kafka, reducing processing time by 25%.
+* Airline Operations Payments Microservices Platform — a US airline (2025-02 to 2026-08)
+  Designed a payments microservices platform for a US airline in airline operations using CI/CD, SQL, REST API Design and AWS, reducing processing time by 30%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager, AI Engineer

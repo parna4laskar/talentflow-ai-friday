@@ -1,0 +1,28 @@
+WEI JIE LIM
+Full Stack Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12892
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.2 years of experience, based in Singapore. Strong in TypeScript, Node.js, SQL and REST API Design, with recent work in automotive. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.8y), Node.js (Proficient, 1.3y), REST API Design (Proficient, 1.6y), React (Working, 0.8y), GraphQL (Working, 0.8y), Microservices (Working, 1.1y), JavaScript (Working, 0.8y)
+- Data & AI: SQL (Proficient, 1.0y)
+- Cloud & DevOps: Docker (Working, 0.8y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+
+EXPERIENCE
+* Automotive Customer Onboarding Platform — a global car maker (2026-01 to present)
+  Built a customer onboarding platform for a global car maker in automotive using TypeScript, REST API Design, React and GraphQL, lifting NPS by 18 points.
+* Automotive Pricing Engine — a US car maker (2024-10 to 2025-11)
+  Scaled a pricing engine for a US car maker in automotive using Communication, Docker, JavaScript and Microservices, reducing processing time by 12%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer

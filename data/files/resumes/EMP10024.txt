@@ -1,0 +1,33 @@
+CHLOÉ KAMIŃSKI
+Data Scientist | Data & Analytics | Toronto, Canada
+Employee ID: EMP10024
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5.6 years of experience, based in Toronto. Strong in SQL, Machine Learning, Statistics and Data Visualization, with recent work in wealth management. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.2y), Machine Learning (Proficient, 3.6y), Statistics (Proficient, 3.3y), Data Visualization (Proficient, 3.3y), NLP (Proficient, 2.9y), Deep Learning (Working, 0.4y), MLOps (Working, 2.2y)
+- Software Engineering: Python (Working, 2.3y)
+
+EXPERIENCE
+* Wealth Management Executive KPI Dashboard Suite — a US wealth manager (2025-09 to present)
+  Led the delivery of an executive KPI dashboard suite for a US wealth manager in wealth management using SQL and MLOps, saving ~40K hours annually.
+* Media Streaming Data Lakehouse — a fast-growing streaming platform (2025-02 to 2025-07)
+  Re-architected a data lakehouse for a fast-growing streaming platform in media streaming using Data Visualization and Deep Learning, cutting cloud spend by 35%.
+* Wealth Management Data Lakehouse — a tier-1 wealth manager (2024-09 to 2025-02)
+  Built a data lakehouse for a tier-1 wealth manager in wealth management using MLOps, Python and Data Visualization, cutting cloud spend by 22%.
+* Insurance Claims Data Lakehouse — a global insurer (2022-12 to 2024-06)
+  Led the delivery of a data lakehouse for a global insurer in insurance claims using Statistics and MLOps, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2022)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer

@@ -1,0 +1,28 @@
+ARJUN KAUR
+Associate Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10777
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 0.6 years of experience, based in Bengaluru. Strong in React, Python, SQL and TypeScript, with recent work in automotive. Interested in moving towards Mobile Engineer, Frontend Engineer roles and open to relocating to Hyderabad, Pune.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 0.6y), Python (Proficient, 0.4y), TypeScript (Working, 0.3y), REST API Design (Working, 0.3y), Microservices (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.4y)
+- Cloud & DevOps: Docker (Beginner, 0.3y), Kubernetes (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Payments Microservices Platform — a leading insurer (2026-06 to present)
+  Designed a payments microservices platform for a leading insurer in insurance claims using Docker and TypeScript, reducing processing time by 18%.
+* Automotive Pricing Engine — an APAC car maker (2025-05 to 2026-03)
+  Modernised a pricing engine for an APAC car maker in automotive using Kubernetes and REST API Design, reducing processing time by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer, Frontend Engineer, AI Engineer

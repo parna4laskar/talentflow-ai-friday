@@ -1,0 +1,33 @@
+ZOYA GUPTA
+Principal Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12736
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 17.6 years of experience, based in Bengaluru. Strong in Data Engineering, Apache Spark, Snowflake and SQL, with recent work in e-commerce. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 4.7y), Apache Spark (Expert, 14.8y), Snowflake (Expert, 10.3y), SQL (Advanced, 17.5y), dbt (Proficient, 9.2y), Databricks (Proficient, 10.2y), Data Governance (Proficient, 6.1y)
+- Delivery & Leadership: Mentoring (Advanced, 5.7y), Stakeholder Management (Advanced, 13.2y), People Leadership (Proficient, 1.1y)
+- Software Engineering: Python (Proficient, 2.7y), Kafka (Proficient, 4.1y)
+
+EXPERIENCE
+* Airline Operations Executive KPI Dashboard Suite — a leading airline (2026-11 to present)
+  Automated an executive KPI dashboard suite for a leading airline in airline operations using Python and Mentoring, saving ~40K hours annually.
+* E-commerce Data Lakehouse — a global online retailer (2025-10 to 2026-09)
+  Led the delivery of a data lakehouse for a global online retailer in e-commerce using Data Governance and Python, reducing processing time by 40%.
+* E-commerce Real-time Analytics Pipeline — a tier-1 online retailer (2024-11 to 2025-09)
+  Scaled a real-time analytics pipeline for a tier-1 online retailer in e-commerce using Data Engineering, Snowflake, Python and dbt, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2024)
+- SnowPro Core (2021)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Engineer, Data Analyst

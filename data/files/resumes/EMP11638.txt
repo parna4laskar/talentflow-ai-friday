@@ -1,0 +1,27 @@
+RAJESH GOH
+Associate Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11638
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.9 years of experience, based in Singapore. Strong in REST API Design, SQL, Kubernetes and Python, with recent work in pharma R&D. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 1.0y), Python (Working, 1.2y), Microservices (Working, 1.4y), Kafka (Working, 0.6y), .NET Core (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 2.2y), Snowflake (Beginner, 0.7y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.9y), Observability (Working, 1.1y)
+
+EXPERIENCE
+* Pharma R&D Self-service Portal — an APAC pharma company (2025-08 to present)
+  Modernised a self-service portal for an APAC pharma company in pharma R&D using Snowflake, .NET Core and SQL, saving ~12K hours annually.
+* Pharma R&D Order Management System — a European pharma company (2024-02 to 2025-07)
+  Re-architected an order management system for a European pharma company in pharma R&D using Kubernetes and Snowflake, onboarding 4 new enterprise clients.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer

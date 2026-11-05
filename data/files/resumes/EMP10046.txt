@@ -1,0 +1,33 @@
+VIVEK MALHOTRA
+CRM Consultant | Enterprise Applications | Hyderabad, India
+Employee ID: EMP10046
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 3.6 years of experience, based in Hyderabad. Strong in JavaScript, Business Analysis, Agile/Scrum and Process Improvement, with recent work in pharma R&D. Interested in moving towards Scrum Master, Business Analyst roles and open to relocating to New York.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 2.5y), TypeScript (Proficient, 0.5y)
+- Business & Finance: Business Analysis (Proficient, 1.8y), Process Improvement (Proficient, 1.2y), Salesforce (Working, 1.2y), Requirements Gathering (Working, 1.8y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.9y), Communication (Beginner, 0.4y)
+- Cloud & DevOps: FinOps (Beginner, 0.4y)
+
+EXPERIENCE
+* Healthcare CRM Rollout — a fast-growing hospital network (2025-06 to present)
+  Migrated a CRM rollout for a fast-growing hospital network in healthcare using Agile/Scrum, JavaScript and Business Analysis, reducing processing time by 18%.
+* Retail Banking CRM Rollout — a leading retail bank (2025-01 to 2025-06)
+  Migrated a CRM rollout for a leading retail bank in retail banking using Agile/Scrum, FinOps, Requirements Gathering and JavaScript, reducing processing time by 22%.
+* Automotive ERP Finance Rollout — a European car maker (2024-03 to 2024-12)
+  Designed an ERP finance rollout for a European car maker in automotive using Process Improvement, Agile/Scrum, Salesforce and FinOps, saving ~30K hours annually.
+
+CERTIFICATIONS
+- ServiceNow CSA (2025)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Scrum Master, Business Analyst

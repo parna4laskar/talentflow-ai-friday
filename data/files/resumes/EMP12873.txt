@@ -1,0 +1,30 @@
+PRIYA REDDY
+Senior Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12873
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 9.5 years of experience, based in Bengaluru. Strong in Platform Engineering, CI/CD, Site Reliability Engineering and Kubernetes, with recent work in pharma R&D. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Advanced, 5.5y), CI/CD (Advanced, 8.1y), Site Reliability Engineering (Advanced, 7.1y), Kubernetes (Proficient, 1.1y), Observability (Proficient, 5.7y), Terraform (Working, 0.7y)
+- Software Engineering: Go (Proficient, 0.5y)
+
+EXPERIENCE
+* Pharma R&D Kubernetes Platform — an APAC pharma company (2025-10 to present)
+  Automated a Kubernetes platform for an APAC pharma company in pharma R&D using Terraform, Go and CI/CD, cutting cloud spend by 35%.
+* Pharma R&D Data-centre Exit To Cloud — a tier-1 pharma company (2024-11 to 2025-08)
+  Automated a data-centre exit to cloud for a tier-1 pharma company in pharma R&D using Platform Engineering and Site Reliability Engineering, cutting cloud spend by 18%.
+* Pharma R&D Cloud Landing Zone — an APAC pharma company (2024-02 to 2024-08)
+  Scaled a cloud landing zone for an APAC pharma company in pharma R&D using Site Reliability Engineering and CI/CD, accelerating releases by 12%.
+* Pharma R&D Observability Stack — a leading pharma company (2023-05 to 2023-11)
+  Modernised an observability stack for a leading pharma company in pharma R&D using Go, CI/CD and Terraform, accelerating releases by 40%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer

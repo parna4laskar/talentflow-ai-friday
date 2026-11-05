@@ -1,0 +1,26 @@
+IMRAN MENON
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP11090
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 2.1 years of experience, based in Bengaluru. Strong in SQL, Python, Airflow and Kafka, with recent work in automotive. Interested in moving towards AI Engineer roles and open to relocating to New York, Toronto, Kraków.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.8y), Airflow (Proficient, 0.6y), Databricks (Working, 0.6y), Data Engineering (Beginner, 0.3y), LLM Engineering (Beginner, 0.3y), Agentic AI (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 1.1y), Kafka (Working, 0.4y)
+
+EXPERIENCE
+* E-commerce Executive KPI Dashboard Suite — a global online retailer (2026-10 to present)
+  Modernised an executive KPI dashboard suite for a global online retailer in e-commerce using Agentic AI and Python, improving forecast accuracy by 30%.
+* Manufacturing IoT Customer Churn Model — an APAC manufacturer (2025-06 to 2026-08)
+  Automated a customer churn model for an APAC manufacturer in manufacturing IoT using SQL and Databricks, improving model accuracy by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer

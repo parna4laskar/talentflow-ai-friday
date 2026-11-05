@@ -1,0 +1,32 @@
+OLIVER JONES
+Lead Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP12205
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 13.3 years of experience, based in London. Strong in Statistics, SQL, Python and Machine Learning, with recent work in insurance claims. Interested in moving towards Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Expert, 5.9y), SQL (Expert, 4.4y), Machine Learning (Advanced, 10.9y), Deep Learning (Advanced, 0.9y), MLOps (Advanced, 4.9y), Apache Spark (Advanced, 12.1y), Data Visualization (Proficient, 2.9y), Generative AI (Proficient, 6.5y)
+- Delivery & Leadership: People Leadership (Expert, 6.9y)
+- Software Engineering: Python (Advanced, 11.4y)
+- People & Marketing: People Analytics (Working, 2.3y)
+
+EXPERIENCE
+* Energy Trading Executive KPI Dashboard Suite — a fast-growing energy company (2026-07 to present)
+  Automated an executive KPI dashboard suite for a fast-growing energy company in energy trading using Apache Spark, People Analytics, Python and Statistics, saving ~30K hours annually.
+* Telecom Billing Regulatory Reporting Suite — a fast-growing telecom operator (2024-12 to 2026-04)
+  Scaled a regulatory reporting suite for a fast-growing telecom operator in telecom billing using Data Visualization and Statistics, reducing processing time by 40%.
+* Insurance Claims Data Lakehouse — an APAC insurer (2023-07 to 2024-09)
+  Migrated a data lakehouse for an APAC insurer in insurance claims using Machine Learning, Deep Learning, Apache Spark and Python, cutting cloud spend by 25%.
+* Airline Operations Regulatory Reporting Suite — a fast-growing airline (2022-08 to 2023-04)
+  Migrated a regulatory reporting suite for a fast-growing airline in airline operations using Generative AI and People Analytics, reducing processing time by 25%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst

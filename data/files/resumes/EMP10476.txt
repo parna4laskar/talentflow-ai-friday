@@ -1,0 +1,28 @@
+EMMA LEE
+Associate Data Engineer | Data & Analytics | Austin, United States
+Employee ID: EMP10476
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.6 years of experience, based in Austin. Strong in Python, Apache Spark, Airflow and AWS, with recent work in telecom billing. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.4y)
+- Data & AI: Apache Spark (Proficient, 0.4y), Airflow (Proficient, 0.4y), SQL (Working, 0.3y), Data Engineering (Working, 0.3y), dbt (Working, 0.3y)
+- Cloud & DevOps: AWS (Proficient, 0.4y), GCP (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a global telecom operator (2025-10 to present)
+  Led the delivery of an executive KPI dashboard suite for a global telecom operator in telecom billing using GCP and Airflow, saving ~12K hours annually.
+* Public Sector Executive KPI Dashboard Suite — a European government agency (2024-04 to 2025-08)
+  Scaled an executive KPI dashboard suite for a European government agency in public sector using Apache Spark, AWS, Communication and GCP, improving forecast accuracy by 12%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: ML Engineer, AI Engineer, Data Scientist

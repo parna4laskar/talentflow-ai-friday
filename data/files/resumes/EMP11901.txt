@@ -1,0 +1,30 @@
+YASH KRISHNAN
+Senior Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11901
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 7 years of experience, based in Pune. Strong in Terraform, Site Reliability Engineering, Observability and Linux Administration, with recent work in healthcare. Interested in moving towards Site Reliability Engineer, Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 7.0y), Site Reliability Engineering (Advanced, 1.0y), Observability (Advanced, 3.6y), Linux Administration (Advanced, 0.6y), Kubernetes (Proficient, 0.4y), AWS (Proficient, 2.8y)
+- Software Engineering: Python (Advanced, 1.3y), Go (Proficient, 3.6y)
+- Security: Incident Response (Proficient, 5.1y)
+- Data & AI: MLOps (Working, 1.2y)
+
+EXPERIENCE
+* Healthcare CI/CD Platform — a leading hospital network (2025-11 to present)
+  Migrated a CI/CD platform for a leading hospital network in healthcare using Site Reliability Engineering, MLOps and Kubernetes, accelerating releases by 22%.
+* Media Streaming Observability Stack — a US streaming platform (2024-11 to 2025-08)
+  Automated an observability stack for a US streaming platform in media streaming using Site Reliability Engineering, Python, Observability and Kubernetes, reducing production incidents by 12%.
+* Healthcare Cloud Landing Zone — a leading hospital network (2023-04 to 2024-08)
+  Designed a cloud landing zone for a leading hospital network in healthcare using Kubernetes, Python and MLOps, cutting cloud spend by 22%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Site Reliability Engineer, Security Engineer, Cloud Engineer, DevOps Engineer

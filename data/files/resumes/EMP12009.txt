@@ -1,0 +1,31 @@
+HARSH PATIL
+Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP12009
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4.8 years of experience, based in Pune. Strong in SQL, Data Visualization, Statistics and Tableau, with recent work in telecom billing. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.4y), Data Visualization (Advanced, 1.9y), Statistics (Advanced, 2.7y), Tableau (Proficient, 3.5y), Generative AI (Beginner, 0.3y)
+- Product & Design: A/B Testing (Proficient, 3.5y)
+- Software Engineering: Python (Proficient, 3.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.2y)
+- Business & Finance: Business Analysis (Working, 0.7y)
+
+EXPERIENCE
+* Insurance Claims Data Lakehouse — a fast-growing insurer (2025-07 to present)
+  Re-architected a data lakehouse for a fast-growing insurer in insurance claims using A/B Testing, SQL and Tableau, reducing processing time by 25%.
+* Manufacturing IoT Real-time Analytics Pipeline — a US manufacturer (2024-04 to 2025-07)
+  Automated a real-time analytics pipeline for a US manufacturer in manufacturing IoT using Business Analysis and Statistics, reducing processing time by 12%.
+* Airline Operations Customer Churn Model — a tier-1 airline (2023-08 to 2024-01)
+  Re-architected a customer churn model for a tier-1 airline in airline operations using Business Analysis, Data Visualization and Statistics, improving model accuracy by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst

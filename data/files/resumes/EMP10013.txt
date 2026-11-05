@@ -1,0 +1,29 @@
+MRUNAL PILLAI
+Associate Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP10013
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 0.5 years of experience, based in Pune. Strong in TypeScript, Angular, Node.js and SQL, with recent work in public sector. Interested in moving towards Software Architect, Mobile Engineer roles and open to relocating to Singapore, Austin, London.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.4y), Angular (Proficient, 0.4y), Node.js (Proficient, 0.4y), Next.js (Working, 0.3y), JavaScript (Working, 0.3y)
+- Data & AI: SQL (Proficient, 0.4y)
+- Cloud & DevOps: AWS (Proficient, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+- Quality Engineering: Playwright (Beginner, 0.3y)
+
+EXPERIENCE
+* Public Sector Mobile Banking App — an APAC government agency (2026-01 to present)
+  Re-architected a mobile banking app for an APAC government agency in public sector using SQL, Next.js, Playwright and Angular, lifting NPS by 35 points.
+* Airline Operations Pricing Engine — a tier-1 airline (2025-05 to 2025-12)
+  Scaled a pricing engine for a tier-1 airline in airline operations using SQL, Node.js and AWS, reducing processing time by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, Mobile Engineer

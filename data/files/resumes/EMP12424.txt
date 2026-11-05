@@ -1,0 +1,30 @@
+HANNAH WILSON
+Principal Engineering Manager | Engineering | London, United Kingdom
+Employee ID: EMP12424
+
+PROFESSIONAL SUMMARY
+Principal Engineering Manager with 19 years of experience, based in London. Strong in People Leadership, Stakeholder Management, System Design and Communication, with recent work in airline operations. Interested in moving towards Backend Engineer, Software Architect roles and open to relocating to Singapore, Bengaluru.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 14.2y), Stakeholder Management (Expert, 16.2y), Communication (Advanced, 13.6y), Mentoring (Advanced, 12.3y), Agile/Scrum (Proficient, 3.0y)
+- Software Engineering: System Design (Advanced, 5.5y)
+
+EXPERIENCE
+* Airline Operations Mobile Banking App — a fast-growing airline (2026-05 to present)
+  Built a mobile banking app for a fast-growing airline in airline operations using Stakeholder Management and Agile/Scrum, improving conversion by 22%.
+* Retail Banking Pricing Engine — a global retail bank (2025-11 to 2026-04)
+  Re-architected a pricing engine for a global retail bank in retail banking using Stakeholder Management, People Leadership, Communication and Mentoring, improving conversion by 40%.
+* Airline Operations Order Management System — an APAC airline (2024-09 to 2025-09)
+  Modernised an order management system for an APAC airline in airline operations using Stakeholder Management, Communication and People Leadership, reducing processing time by 22%.
+* Payments Order Management System — a fast-growing payments provider (2023-04 to 2024-09)
+  Re-architected an order management system for a fast-growing payments provider in payments using People Leadership, Communication and Stakeholder Management, reducing processing time by 40%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, Software Architect, Scrum Master

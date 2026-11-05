@@ -1,0 +1,29 @@
+KUNAL TREMBLAY
+Senior Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP11927
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 8.9 years of experience, based in Pune. Strong in GraphQL, TypeScript, Angular and SQL, with recent work in HR tech. Interested in moving towards Full Stack Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Expert, 0.8y), TypeScript (Advanced, 6.7y), Angular (Proficient, 1.5y), REST API Design (Proficient, 3.8y), Java (Working, 3.1y)
+- Data & AI: SQL (Proficient, 3.6y)
+- Cloud & DevOps: Docker (Proficient, 3.8y), Terraform (Proficient, 0.8y)
+
+EXPERIENCE
+* Pharma R&D Order Management System — an APAC pharma company (2026-04 to present)
+  Built an order management system for an APAC pharma company in pharma R&D using REST API Design, SQL and TypeScript, onboarding 3 new enterprise clients.
+* Pharma R&D Self-service Portal — a fast-growing pharma company (2025-03 to 2026-01)
+  Scaled a self-service portal for a fast-growing pharma company in pharma R&D using Java, SQL and Terraform, saving ~25K hours annually.
+* Manufacturing IoT Payments Microservices Platform — an APAC manufacturer (2024-08 to 2025-02)
+  Migrated a payments microservices platform for an APAC manufacturer in manufacturing IoT using Terraform and GraphQL, reducing production incidents by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, AI Engineer, Software Architect

@@ -1,0 +1,32 @@
+MARIA MARTINEZ
+Lead Business Analyst | Business Consulting | New York, United States
+Employee ID: EMP12558
+
+PROFESSIONAL SUMMARY
+Lead Business Analyst with 9.8 years of experience, based in New York. Strong in Requirements Gathering, Business Analysis, Stakeholder Management and Agile/Scrum, with recent work in telecom billing. Interested in moving towards Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Expert, 3.6y), Business Analysis (Advanced, 0.8y), Process Improvement (Advanced, 9.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 7.6y), Agile/Scrum (Advanced, 5.6y), Communication (Advanced, 2.0y), Mentoring (Proficient, 2.5y)
+- Data & AI: Power BI (Proficient, 4.3y), Agentic AI (Proficient, 3.5y), SQL (Working, 0.3y)
+
+EXPERIENCE
+* Energy Trading Process Re-engineering Initiative — a tier-1 energy company (2026-04 to present)
+  Delivered a process re-engineering initiative for a tier-1 energy company in energy trading using Communication, Stakeholder Management, Mentoring and Agentic AI, delivering $5M in cost savings.
+* Public Sector Cloud Migration Programme — a global government agency (2025-08 to 2026-03)
+  Led a cloud migration programme for a global government agency in public sector using Communication, Requirements Gathering, SQL and Power BI, delivering on time across 8 workstreams.
+* Telecom Billing Core Banking Transformation Programme — a tier-1 telecom operator (2024-06 to 2025-07)
+  Coordinated a core banking transformation programme for a tier-1 telecom operator in telecom billing using Agentic AI, Requirements Gathering, Stakeholder Management and Power BI, delivering $4M in cost savings.
+
+CERTIFICATIONS
+- CBAP (2023)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Analyst

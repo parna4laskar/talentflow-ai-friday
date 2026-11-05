@@ -1,0 +1,28 @@
+RITESH SUBRAMANIAN
+Security Analyst | Cyber Security | Bengaluru, India
+Employee ID: EMP11196
+
+PROFESSIONAL SUMMARY
+Security Analyst with 5.4 years of experience, based in Bengaluru. Strong in SIEM, Incident Response, GRC and Python, with recent work in insurance claims. Interested in moving towards Security Engineer roles and open to relocating to Gurugram, Austin, London.
+
+CORE SKILLS
+- Security: SIEM (Proficient, 3.5y), Incident Response (Proficient, 2.2y), GRC (Working, 1.1y)
+- Software Engineering: Python (Working, 2.5y)
+
+EXPERIENCE
+* Insurance Claims Security Operations Centre Uplift — a tier-1 insurer (2026-10 to present)
+  Scaled a security operations centre uplift for a tier-1 insurer in insurance claims using Incident Response and SIEM, reducing production incidents by 25%.
+* Insurance Claims Identity and Access Platform — an APAC insurer (2025-04 to 2026-08)
+  Scaled an identity and access platform for an APAC insurer in insurance claims using SIEM and Python, reducing production incidents by 40%.
+* E-commerce Security Operations Centre Uplift — a European online retailer (2024-05 to 2025-04)
+  Led the delivery of a security operations centre uplift for a European online retailer in e-commerce using Python, Incident Response, GRC and SIEM, reducing production incidents by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Security Engineer

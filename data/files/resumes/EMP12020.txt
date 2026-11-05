@@ -1,0 +1,30 @@
+NATHAN MACDONALD
+Lead QA Engineer | Quality Engineering | Toronto, Canada
+Employee ID: EMP12020
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 8.1 years of experience, based in Toronto. Strong in Playwright, API Testing, SQL and Agile/Scrum, with recent work in public sector. Interested in moving towards QA Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Expert, 4.4y), API Testing (Expert, 7.8y), Test Automation (Proficient, 1.5y), Performance Testing (Proficient, 3.3y), Selenium (Working, 1.5y)
+- Data & AI: SQL (Advanced, 2.5y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 7.6y), Stakeholder Management (Advanced, 6.1y), Communication (Proficient, 2.6y), People Leadership (Proficient, 2.9y)
+- Software Engineering: Java (Proficient, 0.7y), Python (Working, 3.7y)
+
+EXPERIENCE
+* Public Sector Performance Engineering Programme — a fast-growing government agency (2025-09 to present)
+  Automated a performance engineering programme for a fast-growing government agency in public sector using Playwright, Java, API Testing and Selenium, accelerating releases by 12%.
+* Public Sector Test Automation Framework — an APAC government agency (2024-10 to 2025-06)
+  Led the delivery of a test automation framework for an APAC government agency in public sector using SQL and Java, accelerating releases by 35%.
+* Public Sector Test Automation Framework — a US government agency (2023-08 to 2024-08)
+  Automated a test automation framework for a US government agency in public sector using API Testing and Selenium, accelerating releases by 22%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: QA Engineer, Full Stack Engineer, Mobile Engineer

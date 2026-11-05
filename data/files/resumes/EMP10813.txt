@@ -1,0 +1,35 @@
+SANJANA DESHPANDE
+Principal QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10813
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 19.1 years of experience, based in Bengaluru. Strong in Test Automation, Playwright, API Testing and Agile/Scrum, with recent work in retail banking. Interested in moving towards Backend Engineer, DevOps Engineer roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 6.1y), Playwright (Expert, 19.1y), API Testing (Expert, 19.1y), Performance Testing (Advanced, 15.0y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 6.1y), Mentoring (Advanced, 3.3y), Stakeholder Management (Advanced, 12.4y), Communication (Advanced, 12.3y), People Leadership (Advanced, 2.5y)
+- Cloud & DevOps: CI/CD (Advanced, 16.6y), Terraform (Proficient, 11.6y)
+- Software Engineering: Python (Proficient, 0.4y)
+
+EXPERIENCE
+* Telecom Billing Test Automation Framework — a European telecom operator (2025-10 to present)
+  Re-architected a test automation framework for a European telecom operator in telecom billing using API Testing, Playwright, Communication and Python, accelerating releases by 40%.
+* Retail Banking Test Automation Framework — a tier-1 retail bank (2025-01 to 2025-10)
+  Built a test automation framework for a tier-1 retail bank in retail banking using Stakeholder Management, Mentoring and Terraform, raising automated test coverage to 70%.
+* Retail Banking API Contract-testing Suite — a fast-growing retail bank (2023-08 to 2024-11)
+  Modernised an API contract-testing suite for a fast-growing retail bank in retail banking using Test Automation, Stakeholder Management, Python and CI/CD, reducing production incidents by 35%.
+* Retail Banking Performance Engineering Programme — a European retail bank (2022-02 to 2023-05)
+  Modernised a performance engineering programme for a European retail bank in retail banking using Terraform, Stakeholder Management and Performance Testing, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, DevOps Engineer

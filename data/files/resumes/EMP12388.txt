@@ -1,0 +1,31 @@
+ADITI AGARWAL
+Principal Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP12388
+
+PROFESSIONAL SUMMARY
+Principal Software Architect with 18.6 years of experience, based in Hyderabad. Strong in System Design, Microservices, C# and AWS, with recent work in healthcare. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 17.6y), Microservices (Expert, 16.5y), C# (Expert, 8.5y), REST API Design (Expert, 14.0y)
+- Cloud & DevOps: AWS (Expert, 18.2y), Kubernetes (Expert, 5.8y)
+- Delivery & Leadership: People Leadership (Expert, 6.1y), Stakeholder Management (Proficient, 12.6y)
+
+EXPERIENCE
+* Healthcare Pricing Engine — a global hospital network (2025-09 to present)
+  Designed a pricing engine for a global hospital network in healthcare using Kubernetes, Stakeholder Management and REST API Design, improving conversion by 35%.
+* Retail Banking Mobile Banking App — a tier-1 retail bank (2024-03 to 2025-08)
+  Migrated a mobile banking app for a tier-1 retail bank in retail banking using C# and System Design, lifting NPS by 18 points.
+* Healthcare Claims Processing Engine — a global hospital network (2023-07 to 2024-03)
+  Led the delivery of a claims processing engine for a global hospital network in healthcare using C# and System Design, reducing processing time by 25%.
+* Healthcare Self-service Portal — a fast-growing hospital network (2022-07 to 2023-04)
+  Modernised a self-service portal for a fast-growing hospital network in healthcare using System Design, Microservices, REST API Design and Stakeholder Management, lifting NPS by 35 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, DevOps Engineer, Cloud Engineer

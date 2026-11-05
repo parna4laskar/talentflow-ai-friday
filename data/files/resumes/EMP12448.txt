@@ -1,0 +1,31 @@
+ADITI JADHAV
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP12448
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 11.7 years of experience, based in Pune. Strong in People Leadership, Stakeholder Management, Python and System Design, with recent work in media streaming. Interested in moving towards Engineering Manager, Backend Engineer roles and open to relocating to New York, Dublin, Singapore.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 2.9y), Stakeholder Management (Advanced, 9.8y), Agile/Scrum (Proficient, 0.8y), Communication (Proficient, 8.7y)
+- Software Engineering: Python (Advanced, 6.2y), System Design (Proficient, 5.5y), Java (Proficient, 5.3y)
+- Cloud & DevOps: AWS (Proficient, 6.6y)
+
+EXPERIENCE
+* Media Streaming Claims Processing Engine — a European streaming platform (2026-07 to present)
+  Led the delivery of a claims processing engine for a European streaming platform in media streaming using Java, AWS and People Leadership, reducing processing time by 25%.
+* Media Streaming Customer Onboarding Platform — a tier-1 streaming platform (2025-05 to 2026-05)
+  Re-architected a customer onboarding platform for a tier-1 streaming platform in media streaming using Agile/Scrum, Python, Stakeholder Management and Communication, improving conversion by 18%.
+* Telecom Billing Customer Onboarding Platform — an APAC telecom operator (2024-01 to 2025-03)
+  Modernised a customer onboarding platform for an APAC telecom operator in telecom billing using Agile/Scrum, People Leadership, Python and Java, improving conversion by 22%.
+* Media Streaming Order Management System — a fast-growing streaming platform (2022-06 to 2023-12)
+  Scaled an order management system for a fast-growing streaming platform in media streaming using AWS, Java, Python and Agile/Scrum, reducing processing time by 25%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Engineering Manager, Backend Engineer

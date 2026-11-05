@@ -1,0 +1,32 @@
+MATTHEW ANDERSON
+Senior Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP10635
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 7.8 years of experience, based in Austin. Strong in Java, REST API Design, Microservices and SQL, with recent work in healthcare. Interested in moving towards Backend Engineer, Software Architect roles and open to relocating to Hyderabad, Toronto.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 7.4y), REST API Design (Proficient, 3.5y), Microservices (Proficient, 5.3y), Spring Boot (Working, 2.7y), System Design (Working, 1.8y)
+- Data & AI: SQL (Working, 1.6y)
+- Cloud & DevOps: Docker (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 1.3y)
+
+EXPERIENCE
+* Telecom Billing Claims Processing Engine — an APAC telecom operator (2026-03 to present)
+  Automated a claims processing engine for an APAC telecom operator in telecom billing using Docker, Microservices and Communication, saving ~40K hours annually.
+* Energy Trading Customer Onboarding Platform — a US energy company (2025-08 to 2026-02)
+  Automated a customer onboarding platform for a US energy company in energy trading using System Design, Docker and SQL, lifting NPS by 35 points.
+* Energy Trading Self-service Portal — a fast-growing energy company (2023-12 to 2025-05)
+  Led the delivery of a self-service portal for a fast-growing energy company in energy trading using Java, SQL and System Design, lifting NPS by 30 points.
+* Wealth Management Self-service Portal — a US wealth manager (2023-06 to 2023-11)
+  Re-architected a self-service portal for a US wealth manager in wealth management using Java, Docker and Microservices, lifting NPS by 30 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Software Architect

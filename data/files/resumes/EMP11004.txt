@@ -1,0 +1,30 @@
+PAWEŁ WIŚNIEWSKI
+Senior Frontend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11004
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 10.7 years of experience, based in Kraków. Strong in TypeScript, React, Next.js and JavaScript, with recent work in energy trading. Interested in moving towards Full Stack Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 7.4y), React (Advanced, 4.3y), Next.js (Advanced, 7.2y), JavaScript (Proficient, 0.4y)
+- Product & Design: Design Systems (Proficient, 4.3y)
+- Cloud & DevOps: CI/CD (Proficient, 7.1y)
+- Quality Engineering: Selenium (Proficient, 0.5y), Playwright (Working, 3.9y)
+
+EXPERIENCE
+* Energy Trading Self-service Portal — a tier-1 energy company (2026-02 to present)
+  Led the delivery of a self-service portal for a tier-1 energy company in energy trading using Design Systems and TypeScript, lifting NPS by 40 points.
+* Energy Trading Claims Processing Engine — an APAC energy company (2025-06 to 2025-11)
+  Modernised a claims processing engine for an APAC energy company in energy trading using CI/CD and Selenium, saving ~18K hours annually.
+* Energy Trading Claims Processing Engine — a fast-growing energy company (2024-01 to 2025-04)
+  Scaled a claims processing engine for a fast-growing energy company in energy trading using Selenium, Design Systems and TypeScript, saving ~40K hours annually.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, QA Engineer, Mobile Engineer

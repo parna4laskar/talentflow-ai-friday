@@ -1,0 +1,35 @@
+SURESH KAUR
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11967
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.1 years of experience, based in Pune. Strong in C#, Microservices, Docker and REST API Design, with recent work in payments. Interested in moving towards Full Stack Engineer, AI Engineer roles and open to relocating to Toronto, New York, Dublin.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 4.9y), Microservices (Advanced, 2.8y), REST API Design (Proficient, 3.0y), Spring Boot (Proficient, 0.7y), .NET Core (Beginner, 0.9y)
+- Cloud & DevOps: Docker (Advanced, 0.7y), CI/CD (Proficient, 5.6y), Kubernetes (Working, 1.1y)
+- Data & AI: SQL (Proficient, 4.3y)
+- Delivery & Leadership: Communication (Proficient, 2.9y)
+
+EXPERIENCE
+* Payments Claims Processing Engine — a fast-growing payments provider (2026-04 to present)
+  Scaled a claims processing engine for a fast-growing payments provider in payments using Kubernetes and .NET Core, reducing processing time by 22%.
+* Payments Pricing Engine — a tier-1 payments provider (2025-01 to 2026-02)
+  Led the delivery of a pricing engine for a tier-1 payments provider in payments using CI/CD and SQL, improving conversion by 22%.
+* Telecom Billing Order Management System — a global telecom operator (2024-01 to 2024-11)
+  Re-architected an order management system for a global telecom operator in telecom billing using Communication and REST API Design, onboarding 8 new enterprise clients.
+* Supply-chain Logistics Order Management System — a global logistics company (2023-06 to 2024-01)
+  Scaled an order management system for a global logistics company in supply-chain logistics using Kubernetes, .NET Core, SQL and Docker, onboarding 2 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, AI Engineer

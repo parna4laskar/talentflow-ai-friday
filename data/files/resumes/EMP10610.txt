@@ -1,0 +1,30 @@
+MEI ANDERSON
+ML Engineer | AI Center of Excellence | Austin, United States
+Employee ID: EMP10610
+
+PROFESSIONAL SUMMARY
+ML Engineer with 2.9 years of experience, based in Austin. Strong in Python, Deep Learning, Machine Learning and AWS, with recent work in media streaming. Interested in moving towards AI Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 2.5y)
+- Data & AI: Deep Learning (Advanced, 2.6y), Machine Learning (Proficient, 0.6y), MLOps (Working, 1.1y), Databricks (Working, 1.1y), Computer Vision (Working, 1.0y), NLP (Working, 0.9y)
+- Cloud & DevOps: AWS (Proficient, 0.5y), Kubernetes (Working, 0.4y), FinOps (Beginner, 0.3y)
+
+EXPERIENCE
+* Media Streaming Agentic Customer-service Assistant — a US streaming platform (2026-05 to present)
+  Designed an agentic customer-service assistant for a US streaming platform in media streaming using Kubernetes, Deep Learning and FinOps, lifting NPS by 35 points.
+* Media Streaming Fraud Detection Model — a tier-1 streaming platform (2024-11 to 2026-03)
+  Modernised a fraud detection model for a tier-1 streaming platform in media streaming using MLOps, NLP and FinOps, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2025)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, Platform Engineer, Data Scientist

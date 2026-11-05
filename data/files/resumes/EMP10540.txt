@@ -1,0 +1,29 @@
+ISLA WILLIAMS
+Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10540
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3 years of experience, based in London. Strong in TypeScript, Figma, JavaScript and Design Systems, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.7y), JavaScript (Proficient, 2.1y), React (Beginner, 0.7y)
+- Product & Design: Figma (Advanced, 0.7y), Design Systems (Proficient, 0.5y)
+- Cloud & DevOps: CI/CD (Beginner, 0.5y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a leading manufacturer (2026-06 to present)
+  Designed a mobile banking app for a leading manufacturer in manufacturing IoT using TypeScript, React, Design Systems and JavaScript, lifting NPS by 22 points.
+* Manufacturing IoT Customer Onboarding Platform — a global manufacturer (2025-08 to 2026-06)
+  Automated a customer onboarding platform for a global manufacturer in manufacturing IoT using Design Systems, Figma and JavaScript, reducing processing time by 30%.
+* Healthcare Payments Microservices Platform — a fast-growing hospital network (2024-08 to 2025-06)
+  Designed a payments microservices platform for a fast-growing hospital network in healthcare using CI/CD and Figma, accelerating releases by 12%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Frontend Engineer, UX Designer, Full Stack Engineer, Mobile Engineer

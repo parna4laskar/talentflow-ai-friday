@@ -1,0 +1,30 @@
+SWATI VERMA
+Associate Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12574
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.7 years of experience, based in Pune. Strong in Python, SQL, Data Engineering and Data Governance, with recent work in airline operations. Interested in moving towards Backend Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 0.7y), Kafka (Working, 0.3y), REST API Design (Working, 0.3y)
+- Data & AI: SQL (Proficient, 0.5y), Data Engineering (Proficient, 0.5y), Data Governance (Proficient, 0.5y), Apache Spark (Working, 0.3y), Snowflake (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+
+EXPERIENCE
+* Retail Banking Real-time Analytics Pipeline — a European retail bank (2025-11 to present)
+  Migrated a real-time analytics pipeline for a European retail bank in retail banking using Snowflake and Data Engineering, reducing processing time by 35%.
+* Healthcare Real-time Analytics Pipeline — a tier-1 hospital network (2025-02 to 2025-08)
+  Modernised a real-time analytics pipeline for a tier-1 hospital network in healthcare using Communication, Kafka, Apache Spark and Data Governance, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Data Analyst, ML Engineer

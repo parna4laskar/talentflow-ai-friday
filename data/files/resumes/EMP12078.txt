@@ -1,0 +1,31 @@
+RIYA JADHAV
+Senior Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12078
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 9.8 years of experience, based in Hyderabad. Strong in Angular, TypeScript, SQL and GraphQL, with recent work in retail banking. Interested in moving towards Mobile Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 1.7y), TypeScript (Proficient, 4.1y), GraphQL (Proficient, 5.0y), Java (Working, 0.9y), Next.js (Working, 1.4y), Microservices (Working, 4.9y)
+- Data & AI: SQL (Proficient, 1.9y)
+- Cloud & DevOps: Docker (Working, 4.2y), AWS (Working, 1.1y)
+
+EXPERIENCE
+* Healthcare Pricing Engine — a US hospital network (2026-04 to present)
+  Built a pricing engine for a US hospital network in healthcare using Next.js, AWS and Microservices, reducing processing time by 18%.
+* Retail Banking Customer Onboarding Platform — a European retail bank (2024-10 to 2026-03)
+  Designed a customer onboarding platform for a European retail bank in retail banking using Docker, SQL, Microservices and AWS, reducing processing time by 22%.
+* Retail Banking Customer Onboarding Platform — a fast-growing retail bank (2023-04 to 2024-09)
+  Migrated a customer onboarding platform for a fast-growing retail bank in retail banking using Next.js, Docker and AWS, lifting NPS by 30 points.
+* Automotive Self-service Portal — a European car maker (2022-01 to 2023-03)
+  Re-architected a self-service portal for a European car maker in automotive using TypeScript and GraphQL, saving ~18K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Mobile Engineer, Backend Engineer, AI Engineer

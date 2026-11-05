@@ -1,0 +1,32 @@
+ROHAN RYAN
+Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11290
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 3 years of experience, based in Pune. Strong in Linux Administration, Performance Testing, Site Reliability Engineering and Kubernetes, with recent work in wealth management. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 2.7y), Site Reliability Engineering (Proficient, 0.8y), Kubernetes (Proficient, 1.4y), Observability (Working, 0.7y), Terraform (Working, 1.5y), AWS (Working, 1.3y), Platform Engineering (Working, 0.4y)
+- Quality Engineering: Performance Testing (Advanced, 1.9y)
+- Software Engineering: Python (Working, 1.5y)
+- Security: Incident Response (Beginner, 0.5y)
+
+EXPERIENCE
+* Wealth Management CI/CD Platform — a fast-growing wealth manager (2025-06 to present)
+  Modernised a CI/CD platform for a fast-growing wealth manager in wealth management using Incident Response, AWS and Platform Engineering, accelerating releases by 30%.
+* Wealth Management Observability Stack — a tier-1 wealth manager (2024-06 to 2025-04)
+  Migrated an observability stack for a tier-1 wealth manager in wealth management using Python and Kubernetes, accelerating releases by 25%.
+* Wealth Management Observability Stack — a US wealth manager (2023-08 to 2024-05)
+  Led the delivery of an observability stack for a US wealth manager in wealth management using Python, Incident Response, AWS and Platform Engineering, reducing production incidents by 18%.
+* Retail Banking Kubernetes Platform — a tier-1 retail bank (2022-11 to 2023-06)
+  Migrated a Kubernetes platform for a tier-1 retail bank in retail banking using Performance Testing, Site Reliability Engineering and Incident Response, cutting cloud spend by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer, DevOps Engineer, Security Engineer

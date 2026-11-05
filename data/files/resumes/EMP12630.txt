@@ -1,0 +1,27 @@
+AOIFE MURPHY
+Associate Cloud Engineer | Cloud & Infrastructure | Dublin, Ireland
+Employee ID: EMP12630
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 1.8 years of experience, based in Dublin. Strong in Terraform, GCP, Cloud Security and CI/CD, with recent work in wealth management. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Proficient, 1.2y), GCP (Working, 0.5y), CI/CD (Working, 0.5y), Linux Administration (Beginner, 0.3y)
+- Security: Cloud Security (Working, 0.5y)
+- Software Engineering: Python (Working, 0.6y)
+
+EXPERIENCE
+* Wealth Management Data-centre Exit To Cloud — a European wealth manager (2026-06 to present)
+  Re-architected a data-centre exit to cloud for a European wealth manager in wealth management using GCP and Python, delivering $2M in cost savings.
+* Wealth Management Data-centre Exit To Cloud — a tier-1 wealth manager (2025-05 to 2026-04)
+  Scaled a data-centre exit to cloud for a tier-1 wealth manager in wealth management using CI/CD, Linux Administration, GCP and Python, delivering $8M in cost savings.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Irish, French
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer

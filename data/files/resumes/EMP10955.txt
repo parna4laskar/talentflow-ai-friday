@@ -1,0 +1,26 @@
+DANIEL WILSON
+Associate Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP10955
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 2.6 years of experience, based in London. Strong in Data Engineering, SQL, Python and Apache Spark, with recent work in insurance claims. Interested in moving towards Data Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 0.8y), SQL (Proficient, 1.2y), Apache Spark (Proficient, 1.7y), Snowflake (Working, 1.1y), dbt (Working, 1.1y), Databricks (Beginner, 0.3y), Agentic AI (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 1.6y)
+
+EXPERIENCE
+* Insurance Claims Data Lakehouse — a leading insurer (2026-08 to present)
+  Designed a data lakehouse for a leading insurer in insurance claims using Data Engineering and Agentic AI, cutting cloud spend by 12%.
+* Insurance Claims Real-time Analytics Pipeline — a leading insurer (2025-09 to 2026-06)
+  Led the delivery of a real-time analytics pipeline for a leading insurer in insurance claims using Agentic AI, dbt and Python, reducing processing time by 40%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer, Data Scientist, AI Engineer

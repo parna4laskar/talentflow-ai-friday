@@ -1,0 +1,34 @@
+MEERA DAS
+Senior Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP11104
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.4 years of experience, based in Gurugram. Strong in TypeScript, JavaScript, Design Systems and React, with recent work in media streaming. Interested in moving towards QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.8y), JavaScript (Advanced, 3.4y), React (Proficient, 6.9y), GraphQL (Working, 2.9y)
+- Product & Design: Design Systems (Advanced, 8.8y)
+- Quality Engineering: Playwright (Proficient, 1.2y)
+
+EXPERIENCE
+* Media Streaming Order Management System — a tier-1 streaming platform (2025-11 to present)
+  Modernised an order management system for a tier-1 streaming platform in media streaming using JavaScript, Playwright and React, onboarding 4 new enterprise clients.
+* Media Streaming Order Management System — a tier-1 streaming platform (2025-03 to 2025-09)
+  Migrated an order management system for a tier-1 streaming platform in media streaming using TypeScript, GraphQL, React and Design Systems, onboarding 8 new enterprise clients.
+* Media Streaming Mobile Banking App — a global streaming platform (2024-06 to 2025-01)
+  Re-architected a mobile banking app for a global streaming platform in media streaming using Design Systems, TypeScript and Playwright, improving conversion by 40%.
+* Media Streaming Customer Onboarding Platform — a European streaming platform (2023-06 to 2024-04)
+  Modernised a customer onboarding platform for a European streaming platform in media streaming using Design Systems, Playwright, React and TypeScript, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer

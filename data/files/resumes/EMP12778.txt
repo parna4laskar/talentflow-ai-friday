@@ -1,0 +1,33 @@
+SWATI KULKARNI
+Lead Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP12778
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 9.1 years of experience, based in Gurugram. Strong in TypeScript, Angular, Java and Next.js, with recent work in payments. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 0.7y), Angular (Advanced, 2.5y), Java (Advanced, 6.9y), Next.js (Advanced, 3.0y), GraphQL (Advanced, 5.5y), Microservices (Proficient, 0.8y), REST API Design (Proficient, 3.4y)
+- Data & AI: SQL (Proficient, 5.3y)
+- Delivery & Leadership: People Leadership (Proficient, 3.4y), Mentoring (Working, 4.2y), Stakeholder Management (Working, 1.2y)
+- Cloud & DevOps: Terraform (Working, 2.3y)
+
+EXPERIENCE
+* Payments Claims Processing Engine — an APAC payments provider (2026-10 to present)
+  Led the delivery of a claims processing engine for an APAC payments provider in payments using TypeScript, Next.js, Microservices and Java, saving ~22K hours annually.
+* Payments Mobile Banking App — a global payments provider (2025-07 to 2026-08)
+  Automated a mobile banking app for a global payments provider in payments using Microservices, GraphQL, Angular and Terraform, lifting NPS by 22 points.
+* Payments Mobile Banking App — a leading payments provider (2023-12 to 2025-04)
+  Designed a mobile banking app for a leading payments provider in payments using GraphQL and Angular, improving conversion by 25%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2021)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Software Architect

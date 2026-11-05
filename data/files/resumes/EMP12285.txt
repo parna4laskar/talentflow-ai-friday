@@ -1,0 +1,27 @@
+SIDDHARTH KULKARNI
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12285
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.5 years of experience, based in Bengaluru. Strong in SQL, Python, AWS and Data Engineering, with recent work in energy trading. Interested in moving towards Data Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.4y), Data Engineering (Working, 0.3y), Apache Spark (Working, 0.3y), Databricks (Working, 0.3y), Data Governance (Beginner, 0.3y), dbt (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.4y)
+- Cloud & DevOps: AWS (Proficient, 0.4y)
+
+EXPERIENCE
+* Supply-chain Logistics Data Lakehouse — a tier-1 logistics company (2025-11 to present)
+  Designed a data lakehouse for a tier-1 logistics company in supply-chain logistics using Databricks, Data Engineering, dbt and Data Governance, cutting cloud spend by 18%.
+* Energy Trading Regulatory Reporting Suite — a leading energy company (2025-04 to 2025-10)
+  Designed a regulatory reporting suite for a leading energy company in energy trading using AWS, dbt, Apache Spark and Python, saving ~22K hours annually.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Engineer, AI Engineer

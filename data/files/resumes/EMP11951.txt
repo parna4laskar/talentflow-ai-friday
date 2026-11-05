@@ -1,0 +1,32 @@
+RADHIKA NAIDU
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11951
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.5 years of experience, based in Bengaluru. Strong in Python, SQL, REST API Design and Microservices, with recent work in healthcare. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 2.7y), REST API Design (Proficient, 2.3y), Microservices (Proficient, 1.7y), Kafka (Working, 1.7y), GraphQL (Beginner, 0.3y)
+- Data & AI: SQL (Advanced, 1.8y)
+- Delivery & Leadership: Communication (Working, 2.2y)
+- Cloud & DevOps: Kubernetes (Beginner, 1.1y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a European hospital network (2026-07 to present)
+  Built a payments microservices platform for a European hospital network in healthcare using Kubernetes, Python and Kafka, accelerating releases by 25%.
+* Healthcare Payments Microservices Platform — a global hospital network (2025-08 to 2026-06)
+  Re-architected a payments microservices platform for a global hospital network in healthcare using REST API Design and GraphQL, reducing processing time by 18%.
+* HR Tech Claims Processing Engine — a leading HR software company (2024-07 to 2025-06)
+  Scaled a claims processing engine for a leading HR software company in HR tech using GraphQL, Communication, SQL and REST API Design, saving ~35K hours annually.
+* Automotive Claims Processing Engine — a leading car maker (2023-09 to 2024-06)
+  Scaled a claims processing engine for a leading car maker in automotive using Kubernetes and Python, reducing processing time by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer

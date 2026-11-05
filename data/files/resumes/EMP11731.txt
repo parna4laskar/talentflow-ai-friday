@@ -1,0 +1,26 @@
+ADITYA SHAH
+Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11731
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.5 years of experience, based in Hyderabad. Strong in Linux Administration, Kubernetes, Communication and GCP, with recent work in wealth management. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to Kraków, Austin, Dublin.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Proficient, 1.3y), Kubernetes (Proficient, 1.4y), GCP (Working, 0.6y), Terraform (Working, 0.4y), CI/CD (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 1.4y)
+
+EXPERIENCE
+* Public Sector Cloud Landing Zone — a European government agency (2025-09 to present)
+  Led the delivery of a cloud landing zone for a European government agency in public sector using Communication and Linux Administration, accelerating releases by 30%.
+* Telecom Billing CI/CD Platform — a European telecom operator (2024-04 to 2025-06)
+  Built a CI/CD platform for a European telecom operator in telecom billing using Communication, CI/CD, Terraform and Kubernetes, accelerating releases by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer, DevOps Engineer, Site Reliability Engineer

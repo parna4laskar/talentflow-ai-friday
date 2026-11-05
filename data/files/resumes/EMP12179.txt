@@ -1,0 +1,30 @@
+XIN YI NG
+Associate ML Engineer | AI Center of Excellence | Singapore, Singapore
+Employee ID: EMP12179
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 1.9 years of experience, based in Singapore. Strong in Deep Learning, AWS, Python and Machine Learning, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Deep Learning (Advanced, 0.8y), Machine Learning (Proficient, 1.1y), MLOps (Working, 0.6y)
+- Cloud & DevOps: AWS (Advanced, 1.0y), Kubernetes (Working, 0.8y), Linux Administration (Working, 0.8y)
+- Software Engineering: Python (Proficient, 1.1y)
+
+EXPERIENCE
+* Pharma R&D Knowledge Assistant (RAG) — a tier-1 pharma company (2026-07 to present)
+  Migrated a knowledge assistant (RAG) for a tier-1 pharma company in pharma R&D using AWS, Deep Learning, Python and Machine Learning, saving ~12K hours annually.
+* Energy Trading Fraud Detection Model — a leading energy company (2025-11 to 2026-06)
+  Re-architected a fraud detection model for a leading energy company in energy trading using Linux Administration, Python and Kubernetes, improving model accuracy by 30%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2026)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer, AI Engineer

@@ -1,0 +1,32 @@
+SAURABH MARTINEZ
+Product Manager | Product | Gurugram, India
+Employee ID: EMP11803
+
+PROFESSIONAL SUMMARY
+Product Manager with 4.5 years of experience, based in Gurugram. Strong in Product Management, Roadmapping, Stakeholder Management and Product Strategy, with recent work in healthcare. Interested in moving towards Scrum Master, UX Designer roles.
+
+CORE SKILLS
+- Product & Design: Product Management (Advanced, 4.0y), Roadmapping (Proficient, 0.9y), Product Strategy (Working, 2.2y), UX Research (Working, 0.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.9y), Agile/Scrum (Working, 1.8y)
+- Cloud & DevOps: Terraform (Working, 0.6y)
+
+EXPERIENCE
+* Healthcare B2B Analytics Product — a US hospital network (2026-03 to present)
+  Launched a B2B analytics product for a US hospital network in healthcare using Stakeholder Management, Roadmapping and Product Management, growing account revenue by 30%.
+* Healthcare B2B Analytics Product — a European hospital network (2024-10 to 2026-02)
+  Owned a B2B analytics product for a European hospital network in healthcare using Agile/Scrum, Stakeholder Management, Product Strategy and Terraform, growing account revenue by 22%.
+* Airline Operations Checkout Experience — a US airline (2023-04 to 2024-07)
+  Led discovery for a checkout experience for a US airline in airline operations using UX Research, Product Management and Terraform, improving conversion by 18%.
+
+CERTIFICATIONS
+- SAFe POPM (2023)
+
+EDUCATION
+- BSc Economics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Scrum Master, UX Designer, Business Analyst

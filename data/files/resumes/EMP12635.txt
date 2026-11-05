@@ -1,0 +1,35 @@
+WILLIAM TAYLOR
+Lead Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP12635
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 13.3 years of experience, based in London. Strong in Stakeholder Management, SQL, Python and Data Engineering, with recent work in healthcare. Interested in moving towards Data Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 13.3y), People Leadership (Expert, 5.5y), Mentoring (Advanced, 7.1y)
+- Data & AI: SQL (Advanced, 6.5y), Data Engineering (Advanced, 10.5y), dbt (Advanced, 7.2y), Snowflake (Proficient, 8.1y), LLM Engineering (Proficient, 1.2y)
+- Software Engineering: Python (Advanced, 8.1y)
+- Cloud & DevOps: AWS (Advanced, 9.4y)
+
+EXPERIENCE
+* Healthcare Data Lakehouse — a US hospital network (2026-09 to present)
+  Modernised a data lakehouse for a US hospital network in healthcare using dbt, Stakeholder Management, Data Engineering and Snowflake, cutting cloud spend by 18%.
+* Healthcare Regulatory Reporting Suite — a European hospital network (2025-10 to 2026-08)
+  Designed a regulatory reporting suite for a European hospital network in healthcare using LLM Engineering and AWS, saving ~25K hours annually.
+* Healthcare Data Lakehouse — a European hospital network (2025-01 to 2025-07)
+  Designed a data lakehouse for a European hospital network in healthcare using LLM Engineering, Stakeholder Management, dbt and AWS, cutting cloud spend by 30%.
+* Supply-chain Logistics Executive KPI Dashboard Suite — a fast-growing logistics company (2024-04 to 2024-11)
+  Built an executive KPI dashboard suite for a fast-growing logistics company in supply-chain logistics using Stakeholder Management, Python, LLM Engineering and dbt, improving forecast accuracy by 35%.
+
+CERTIFICATIONS
+- SnowPro Core (2023)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, Data Scientist

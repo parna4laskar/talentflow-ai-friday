@@ -1,0 +1,36 @@
+OMKAR DAS
+Senior Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10974
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 9.3 years of experience, based in Pune. Strong in Terraform, Linux Administration, Python and CI/CD, with recent work in insurance claims. Interested in moving towards DevOps Engineer, Software Architect roles and open to relocating to Gurugram, Toronto.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 9.3y), Linux Administration (Advanced, 8.0y), CI/CD (Advanced, 6.6y), AWS (Proficient, 1.2y), Kubernetes (Proficient, 3.3y), Platform Engineering (Working, 1.0y)
+- Software Engineering: Python (Advanced, 5.9y)
+- Security: Cloud Security (Working, 4.2y)
+- Delivery & Leadership: Communication (Beginner, 2.3y)
+
+EXPERIENCE
+* Insurance Claims CI/CD Platform — a European insurer (2025-06 to present)
+  Scaled a CI/CD platform for a European insurer in insurance claims using Linux Administration, Platform Engineering, Python and Kubernetes, accelerating releases by 25%.
+* Insurance Claims Observability Stack — an APAC insurer (2024-06 to 2025-05)
+  Designed an observability stack for an APAC insurer in insurance claims using Linux Administration, Communication and Platform Engineering, reducing production incidents by 30%.
+* Payments CI/CD Platform — a leading payments provider (2022-10 to 2024-04)
+  Re-architected a CI/CD platform for a leading payments provider in payments using Linux Administration and AWS, accelerating releases by 30%.
+* Insurance Claims Observability Stack — a US insurer (2021-02 to 2022-08)
+  Designed an observability stack for a US insurer in insurance claims using Terraform, Platform Engineering, Communication and CI/CD, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2021)
+- Google Professional Cloud Architect (2024)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, Software Architect, Site Reliability Engineer

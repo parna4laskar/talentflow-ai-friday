@@ -1,0 +1,35 @@
+TANVI SINGH
+Senior ML Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP11946
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 6.6 years of experience, based in Bengaluru. Strong in Machine Learning, Deep Learning, Python and MLOps, with recent work in HR tech. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 4.0y), Deep Learning (Advanced, 2.7y), MLOps (Proficient, 3.4y), Vector Databases (Proficient, 4.4y), Databricks (Working, 1.5y)
+- Software Engineering: Python (Proficient, 1.1y)
+- Cloud & DevOps: Kubernetes (Proficient, 4.9y), Linux Administration (Proficient, 1.2y)
+- Delivery & Leadership: Communication (Working, 3.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Agentic Customer-service Assistant — a tier-1 logistics company (2026-04 to present)
+  Scaled an agentic customer-service assistant for a tier-1 logistics company in supply-chain logistics using MLOps, Python and Linux Administration, saving ~40K hours annually.
+* HR Tech Recommendation Engine — a leading HR software company (2025-02 to 2026-02)
+  Re-architected a recommendation engine for a leading HR software company in HR tech using Databricks, Communication, Vector Databases and Machine Learning, improving model accuracy by 30%.
+* HR Tech Fraud Detection Model — a US HR software company (2024-06 to 2024-12)
+  Modernised a fraud detection model for a US HR software company in HR tech using Vector Databases and MLOps, improving model accuracy by 40%.
+* HR Tech Document Intelligence Pipeline — a fast-growing HR software company (2023-05 to 2024-06)
+  Led the delivery of a document intelligence pipeline for a fast-growing HR software company in HR tech using Databricks, Vector Databases, Linux Administration and Communication, reducing processing time by 40%.
+
+CERTIFICATIONS
+- AWS ML Specialty (2022)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer

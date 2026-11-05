@@ -1,0 +1,28 @@
+RAJESH LEE
+Associate Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12859
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.2 years of experience, based in Singapore. Strong in JavaScript, TypeScript, Angular and Playwright, with recent work in HR tech. Interested in moving towards QA Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 0.9y), TypeScript (Proficient, 0.8y), Angular (Proficient, 0.5y)
+- Quality Engineering: Playwright (Working, 0.6y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+- Cloud & DevOps: CI/CD (Beginner, 0.3y)
+
+EXPERIENCE
+* Healthcare Pricing Engine — a leading hospital network (2025-11 to present)
+  Migrated a pricing engine for a leading hospital network in healthcare using Angular, CI/CD and Playwright, reducing processing time by 22%.
+* HR Tech Mobile Banking App — a European HR software company (2024-06 to 2025-10)
+  Automated a mobile banking app for a European HR software company in HR tech using Communication and Angular, improving conversion by 30%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, UX Designer, Mobile Engineer

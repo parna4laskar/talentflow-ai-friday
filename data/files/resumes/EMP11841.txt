@@ -1,0 +1,27 @@
+ANDREW LEE
+Associate DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11841
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.1 years of experience, based in New York. Strong in CI/CD, Docker, Kubernetes and AWS, with recent work in insurance claims. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 1.3y), Docker (Proficient, 0.5y), Kubernetes (Working, 0.5y), AWS (Working, 0.4y), Linux Administration (Working, 0.4y), Terraform (Working, 0.6y), Observability (Working, 0.6y), Platform Engineering (Working, 1.0y)
+- Software Engineering: Go (Working, 0.6y), Python (Working, 0.6y)
+- Data & AI: LLM Engineering (Working, 0.5y)
+
+EXPERIENCE
+* Payments CI/CD Platform — an APAC payments provider (2026-03 to present)
+  Modernised a CI/CD platform for an APAC payments provider in payments using Platform Engineering, CI/CD, Kubernetes and Linux Administration, accelerating releases by 22%.
+* Airline Operations Cloud Landing Zone — a leading airline (2025-06 to 2025-12)
+  Led the delivery of a cloud landing zone for a leading airline in airline operations using Python and Docker, cutting cloud spend by 30%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Platform Engineer, Site Reliability Engineer

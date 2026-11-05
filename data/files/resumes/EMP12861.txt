@@ -1,0 +1,28 @@
+NEHA DESHPANDE
+AI Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP12861
+
+PROFESSIONAL SUMMARY
+AI Engineer with 2.5 years of experience, based in Pune. Strong in Generative AI, Python, Docker and LLM Engineering, with recent work in retail banking. Interested in moving towards Data Scientist roles and open to relocating to Singapore, London.
+
+CORE SKILLS
+- Data & AI: Generative AI (Advanced, 2.4y), LLM Engineering (Working, 0.7y), Vector Databases (Working, 0.5y)
+- Software Engineering: Python (Proficient, 1.6y), REST API Design (Working, 0.6y)
+- Cloud & DevOps: Docker (Proficient, 0.4y)
+- Quality Engineering: Playwright (Beginner, 0.3y)
+
+EXPERIENCE
+* Automotive Recommendation Engine — a US car maker (2025-06 to present)
+  Built a recommendation engine for a US car maker in automotive using Vector Databases, LLM Engineering, Docker and REST API Design, improving model accuracy by 35%.
+* Retail Banking Knowledge Assistant (RAG) — a global retail bank (2023-10 to 2025-04)
+  Designed a knowledge assistant (RAG) for a global retail bank in retail banking using Python, Vector Databases and REST API Design, saving ~22K hours annually.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Scientist

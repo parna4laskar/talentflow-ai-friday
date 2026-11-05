@@ -1,0 +1,30 @@
+GAURAV KRISHNAN
+Senior Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP10054
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10.3 years of experience, based in Chennai. Strong in SQL, Power BI, Stakeholder Management and Data Visualization, with recent work in pharma R&D. Interested in moving towards Data Analyst, Product Manager roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.8y), Power BI (Advanced, 1.5y), Data Visualization (Working, 3.2y), Snowflake (Working, 2.0y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 5.7y)
+
+EXPERIENCE
+* Retail Banking Real-time Analytics Pipeline — a tier-1 retail bank (2026-12 to present)
+  Scaled a real-time analytics pipeline for a tier-1 retail bank in retail banking using SQL, Power BI and Data Visualization, reducing processing time by 40%.
+* Pharma R&D Regulatory Reporting Suite — a leading pharma company (2026-01 to 2026-11)
+  Migrated a regulatory reporting suite for a leading pharma company in pharma R&D using Data Visualization, Snowflake, Power BI and Stakeholder Management, reducing processing time by 40%.
+* Energy Trading Customer Churn Model — a tier-1 energy company (2025-04 to 2025-11)
+  Migrated a customer churn model for a tier-1 energy company in energy trading using Stakeholder Management, SQL and Data Visualization, improving conversion by 35%.
+* Wealth Management Customer Churn Model — a US wealth manager (2024-06 to 2025-03)
+  Migrated a customer churn model for a US wealth manager in wealth management using SQL, Data Visualization, Stakeholder Management and Power BI, improving model accuracy by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, Product Manager

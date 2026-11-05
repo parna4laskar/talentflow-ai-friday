@@ -1,0 +1,33 @@
+ARVIND MALHOTRA
+Principal Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10468
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 13.1 years of experience, based in Hyderabad. Strong in Node.js, SQL, TypeScript and Angular, with recent work in supply-chain logistics. Interested in moving towards Software Architect, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Expert, 7.2y), TypeScript (Advanced, 10.9y), Angular (Advanced, 10.2y), GraphQL (Proficient, 7.1y), REST API Design (Proficient, 7.0y)
+- Data & AI: SQL (Expert, 7.1y)
+- Cloud & DevOps: Docker (Advanced, 10.2y)
+- Delivery & Leadership: Mentoring (Advanced, 2.9y), Communication (Advanced, 9.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Mobile Banking App — a tier-1 logistics company (2026-01 to present)
+  Designed a mobile banking app for a tier-1 logistics company in supply-chain logistics using Node.js, Mentoring, Angular and Docker, improving conversion by 35%.
+* Supply-chain Logistics Self-service Portal — a fast-growing logistics company (2024-09 to 2025-12)
+  Designed a self-service portal for a fast-growing logistics company in supply-chain logistics using Docker, GraphQL, Node.js and TypeScript, saving ~22K hours annually.
+* Wealth Management Payments Microservices Platform — a global wealth manager (2024-03 to 2024-08)
+  Migrated a payments microservices platform for a global wealth manager in wealth management using Communication and Node.js, reducing production incidents by 22%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect, Mobile Engineer

@@ -1,0 +1,35 @@
+VARUN SHAH
+Senior Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP12532
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 9.6 years of experience, based in Pune. Strong in SQL, Data Visualization, A/B Testing and Power BI, with recent work in public sector. Interested in moving towards Data Analyst, Financial Analyst roles and open to relocating to Singapore, London, Kraków.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 5.1y), Data Visualization (Advanced, 8.0y), Power BI (Proficient, 4.0y), Statistics (Working, 3.5y)
+- Product & Design: A/B Testing (Advanced, 7.1y)
+- Software Engineering: Python (Working, 2.1y)
+- Cloud & DevOps: Kubernetes (Working, 1.9y)
+
+EXPERIENCE
+* Public Sector Data Lakehouse — a global government agency (2025-06 to present)
+  Automated a data lakehouse for a global government agency in public sector using Kubernetes and A/B Testing, cutting cloud spend by 18%.
+* Public Sector Real-time Analytics Pipeline — a European government agency (2024-11 to 2025-06)
+  Modernised a real-time analytics pipeline for a European government agency in public sector using Python, SQL, Kubernetes and Statistics, reducing processing time by 30%.
+* Automotive Executive KPI Dashboard Suite — a global car maker (2023-08 to 2024-09)
+  Scaled an executive KPI dashboard suite for a global car maker in automotive using SQL and A/B Testing, improving forecast accuracy by 12%.
+* Public Sector Regulatory Reporting Suite — a leading government agency (2022-02 to 2023-05)
+  Automated a regulatory reporting suite for a leading government agency in public sector using Statistics, SQL and Kubernetes, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Analyst, Financial Analyst, Business Analyst

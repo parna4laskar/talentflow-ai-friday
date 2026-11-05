@@ -1,0 +1,31 @@
+CARLOS KIM
+Senior Site Reliability Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP10809
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 10.3 years of experience, based in Austin. Strong in Kubernetes, Site Reliability Engineering, Linux Administration and Observability, with recent work in HR tech. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 4.7y), Site Reliability Engineering (Advanced, 7.7y), Linux Administration (Advanced, 8.5y), Observability (Proficient, 6.4y), Terraform (Proficient, 4.8y)
+- Security: Incident Response (Proficient, 1.3y)
+- Data & AI: Generative AI (Proficient, 2.0y)
+- Software Engineering: Go (Working, 1.9y)
+- Quality Engineering: Performance Testing (Beginner, 0.7y)
+
+EXPERIENCE
+* Public Sector Kubernetes Platform — a leading government agency (2026-04 to present)
+  Designed a Kubernetes platform for a leading government agency in public sector using Performance Testing, Generative AI, Linux Administration and Incident Response, cutting cloud spend by 22%.
+* HR Tech Observability Stack — a tier-1 HR software company (2025-08 to 2026-03)
+  Scaled an observability stack for a tier-1 HR software company in HR tech using Site Reliability Engineering, Observability and Terraform, reducing production incidents by 25%.
+* Energy Trading Observability Stack — a US energy company (2024-03 to 2025-06)
+  Re-architected an observability stack for a US energy company in energy trading using Linux Administration, Terraform and Go, reducing production incidents by 30%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer

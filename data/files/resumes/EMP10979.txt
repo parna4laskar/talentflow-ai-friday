@@ -1,0 +1,29 @@
+KEVIN ANDERSON
+Backend Engineer | Engineering | New York, United States
+Employee ID: EMP10979
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.8 years of experience, based in New York. Strong in Java, REST API Design, SQL and AWS, with recent work in supply-chain logistics. Interested in moving towards Engineering Manager, DevOps Engineer roles and open to relocating to Kraków, Singapore.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 3.9y), REST API Design (Proficient, 1.2y), Microservices (Working, 0.8y), System Design (Working, 1.7y)
+- Data & AI: SQL (Proficient, 0.9y)
+- Cloud & DevOps: AWS (Proficient, 1.7y), Kubernetes (Proficient, 2.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — a US logistics company (2026-07 to present)
+  Designed a pricing engine for a US logistics company in supply-chain logistics using Java, SQL, System Design and Kubernetes, improving conversion by 25%.
+* Supply-chain Logistics Claims Processing Engine — a fast-growing logistics company (2025-07 to 2026-06)
+  Re-architected a claims processing engine for a fast-growing logistics company in supply-chain logistics using Java, SQL and System Design, reducing processing time by 30%.
+* Supply-chain Logistics Order Management System — a US logistics company (2024-06 to 2025-06)
+  Built an order management system for a US logistics company in supply-chain logistics using Java and Microservices, reducing processing time by 30%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager, DevOps Engineer, Full Stack Engineer

@@ -1,0 +1,28 @@
+OLIVER WILSON
+Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP12459
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2 years of experience, based in London. Strong in Statistics, Python, Machine Learning and Generative AI, with recent work in wealth management. Interested in moving towards Product Manager, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 0.8y), Machine Learning (Proficient, 1.2y), Generative AI (Proficient, 0.7y), SQL (Working, 0.9y), Apache Spark (Working, 0.4y), Databricks (Working, 0.6y), Deep Learning (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 1.1y)
+- Cloud & DevOps: FinOps (Proficient, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 0.7y)
+
+EXPERIENCE
+* Wealth Management Customer Churn Model — a US wealth manager (2026-09 to present)
+  Scaled a customer churn model for a US wealth manager in wealth management using Statistics, Databricks, Python and Communication, improving conversion by 18%.
+* Wealth Management Real-time Analytics Pipeline — a leading wealth manager (2025-12 to 2026-08)
+  Re-architected a real-time analytics pipeline for a leading wealth manager in wealth management using Databricks, Deep Learning and Communication, reducing processing time by 22%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager, Data Analyst, ML Engineer

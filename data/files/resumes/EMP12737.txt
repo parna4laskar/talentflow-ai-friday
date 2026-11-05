@@ -1,0 +1,33 @@
+LIAM BYRNE
+Principal QA Engineer | Quality Engineering | Dublin, Ireland
+Employee ID: EMP12737
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 14.8 years of experience, based in Dublin. Strong in Selenium, API Testing, Performance Testing and Java, with recent work in energy trading. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 12.3y), API Testing (Advanced, 1.2y), Performance Testing (Advanced, 7.2y), Test Automation (Proficient, 6.2y)
+- Software Engineering: Java (Advanced, 3.9y), Python (Advanced, 12.0y), Go (Proficient, 0.4y)
+- Delivery & Leadership: Mentoring (Advanced, 14.1y), Agile/Scrum (Proficient, 10.6y)
+- Cloud & DevOps: CI/CD (Proficient, 7.5y)
+
+EXPERIENCE
+* Energy Trading API Contract-testing Suite — a global energy company (2026-06 to present)
+  Automated an API contract-testing suite for a global energy company in energy trading using Mentoring, Agile/Scrum and Python, reducing production incidents by 25%.
+* Insurance Claims Performance Engineering Programme — a tier-1 insurer (2025-10 to 2026-03)
+  Modernised a performance engineering programme for a tier-1 insurer in insurance claims using Test Automation, Performance Testing and Mentoring, accelerating releases by 12%.
+* Energy Trading Test Automation Framework — a fast-growing energy company (2024-05 to 2025-10)
+  Modernised a test automation framework for a fast-growing energy company in energy trading using Python, Performance Testing, Test Automation and API Testing, raising automated test coverage to 80%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2021)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Full Stack Engineer

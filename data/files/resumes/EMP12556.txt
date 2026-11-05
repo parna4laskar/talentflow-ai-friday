@@ -1,0 +1,31 @@
+SAURABH JOSHI
+Lead Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12556
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 13.2 years of experience, based in Bengaluru. Strong in SQL, Stakeholder Management, Mentoring and Python, with recent work in media streaming. Interested in moving towards AI Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 0.8y), Data Engineering (Proficient, 9.2y), Data Governance (Proficient, 9.8y), dbt (Working, 3.0y), Snowflake (Working, 4.7y)
+- Delivery & Leadership: Stakeholder Management (Expert, 13.2y), Mentoring (Advanced, 13.0y), People Leadership (Proficient, 3.7y)
+- Software Engineering: Python (Proficient, 0.4y)
+
+EXPERIENCE
+* Media Streaming Customer Churn Model — a US streaming platform (2026-08 to present)
+  Scaled a customer churn model for a US streaming platform in media streaming using Snowflake, dbt, SQL and Mentoring, improving conversion by 35%.
+* Media Streaming Regulatory Reporting Suite — a leading streaming platform (2025-09 to 2026-06)
+  Automated a regulatory reporting suite for a leading streaming platform in media streaming using Data Engineering, Data Governance and Stakeholder Management, saving ~40K hours annually.
+* Supply-chain Logistics Data Lakehouse — a leading logistics company (2024-01 to 2025-07)
+  Built a data lakehouse for a leading logistics company in supply-chain logistics using Stakeholder Management and Data Engineering, reducing processing time by 25%.
+* Media Streaming Executive KPI Dashboard Suite — an APAC streaming platform (2022-04 to 2023-10)
+  Re-architected an executive KPI dashboard suite for an APAC streaming platform in media streaming using dbt, Stakeholder Management and Snowflake, saving ~30K hours annually.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, ML Engineer, Data Scientist

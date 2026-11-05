@@ -1,0 +1,32 @@
+HARRY WILLIAMS
+Lead Software Architect | Engineering | London, United Kingdom
+Employee ID: EMP10562
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 8.7 years of experience, based in London. Strong in Mentoring, System Design, Microservices and Python, with recent work in e-commerce. Interested in moving towards Software Architect, DevOps Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Mentoring (Advanced, 2.7y), Stakeholder Management (Proficient, 4.5y), People Leadership (Proficient, 4.1y)
+- Software Engineering: System Design (Proficient, 2.5y), Microservices (Proficient, 5.8y), Python (Proficient, 4.7y), Kafka (Working, 3.1y)
+- Cloud & DevOps: Azure (Proficient, 5.8y)
+- Security: Cloud Security (Proficient, 3.2y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a European online retailer (2025-11 to present)
+  Designed a mobile banking app for a European online retailer in e-commerce using Cloud Security, Stakeholder Management, Python and Microservices, improving conversion by 30%.
+* E-commerce Order Management System — a US online retailer (2025-01 to 2025-09)
+  Led the delivery of an order management system for a US online retailer in e-commerce using System Design, Mentoring, Stakeholder Management and Azure, reducing processing time by 22%.
+* Supply-chain Logistics Mobile Banking App — a tier-1 logistics company (2024-05 to 2024-11)
+  Designed a mobile banking app for a tier-1 logistics company in supply-chain logistics using Mentoring and Stakeholder Management, lifting NPS by 40 points.
+* Supply-chain Logistics Pricing Engine — a US logistics company (2023-01 to 2024-03)
+  Automated a pricing engine for a US logistics company in supply-chain logistics using Kafka, Stakeholder Management, Microservices and Mentoring, reducing processing time by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, DevOps Engineer, Cloud Engineer, Backend Engineer

@@ -1,0 +1,34 @@
+NATHAN GAGNON
+Senior Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11592
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10 years of experience, based in Toronto. Strong in Java, SQL, Microservices and REST API Design, with recent work in HR tech. Interested in moving towards Engineering Manager roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 7.4y), Microservices (Advanced, 6.1y), REST API Design (Proficient, 2.8y), GraphQL (Proficient, 7.3y), System Design (Working, 4.7y)
+- Data & AI: SQL (Advanced, 5.7y), Generative AI (Working, 2.1y)
+- Delivery & Leadership: Communication (Proficient, 5.1y)
+- Cloud & DevOps: Docker (Working, 4.3y), Kubernetes (Working, 1.0y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — an APAC HR software company (2026-03 to present)
+  Migrated a self-service portal for an APAC HR software company in HR tech using Microservices, Java, SQL and GraphQL, saving ~12K hours annually.
+* Healthcare Mobile Banking App — an APAC hospital network (2024-09 to 2026-02)
+  Automated a mobile banking app for an APAC hospital network in healthcare using System Design, Communication, REST API Design and Microservices, lifting NPS by 12 points.
+* HR Tech Claims Processing Engine — a fast-growing HR software company (2023-06 to 2024-08)
+  Built a claims processing engine for a fast-growing HR software company in HR tech using Kubernetes, Generative AI and System Design, saving ~30K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager

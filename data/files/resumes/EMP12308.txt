@@ -1,0 +1,35 @@
+AAROHI KUMAR
+Lead AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12308
+
+PROFESSIONAL SUMMARY
+Lead AI Engineer with 10.3 years of experience, based in Hyderabad. Strong in Python, Generative AI, LLM Engineering and Docker, with recent work in HR tech. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 10.3y)
+- Data & AI: Generative AI (Advanced, 8.6y), LLM Engineering (Advanced, 8.7y), Vector Databases (Proficient, 5.4y), Machine Learning (Working, 0.7y)
+- Cloud & DevOps: Docker (Advanced, 1.7y)
+- Delivery & Leadership: People Leadership (Proficient, 4.7y), Stakeholder Management (Working, 0.9y)
+
+EXPERIENCE
+* HR Tech Fraud Detection Model — a European HR software company (2025-12 to present)
+  Led the delivery of a fraud detection model for a European HR software company in HR tech using Docker, Stakeholder Management and Python, reducing processing time by 40%.
+* Payments Fraud Detection Model — a fast-growing payments provider (2025-05 to 2025-09)
+  Built a fraud detection model for a fast-growing payments provider in payments using Generative AI, Python, Vector Databases and Machine Learning, improving model accuracy by 22%.
+* HR Tech Document Intelligence Pipeline — a leading HR software company (2023-12 to 2025-04)
+  Scaled a document intelligence pipeline for a leading HR software company in HR tech using Machine Learning, Stakeholder Management and Python, reducing processing time by 40%.
+* Wealth Management Document Intelligence Pipeline — a leading wealth manager (2022-11 to 2023-10)
+  Led the delivery of a document intelligence pipeline for a leading wealth manager in wealth management using Generative AI, Machine Learning, Vector Databases and Python, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer

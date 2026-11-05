@@ -1,0 +1,29 @@
+JAMES BROWN
+Senior CRM Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP11943
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 8.5 years of experience, based in London. Strong in ServiceNow, Business Analysis, Salesforce and Agile/Scrum, with recent work in e-commerce. Interested in moving towards Scrum Master, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Advanced, 3.9y), Business Analysis (Proficient, 1.0y), Salesforce (Proficient, 5.4y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.2y), Communication (Working, 1.1y)
+- Software Engineering: JavaScript (Beginner, 1.8y)
+
+EXPERIENCE
+* E-commerce Service Desk Automation — an APAC online retailer (2025-09 to present)
+  Automated a service desk automation for an APAC online retailer in e-commerce using JavaScript, Business Analysis and Communication, reducing processing time by 18%.
+* Airline Operations ERP Finance Rollout — a leading airline (2024-03 to 2025-07)
+  Designed an ERP finance rollout for a leading airline in airline operations using ServiceNow, Salesforce, Agile/Scrum and JavaScript, reducing processing time by 22%.
+* Pharma R&D ERP Finance Rollout — a fast-growing pharma company (2022-09 to 2024-03)
+  Modernised an ERP finance rollout for a fast-growing pharma company in pharma R&D using Business Analysis and Salesforce, reducing processing time by 12%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Scrum Master, Account Manager, SAP Consultant

@@ -1,0 +1,31 @@
+HARRY TAN
+AI Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP12745
+
+PROFESSIONAL SUMMARY
+AI Engineer with 2.7 years of experience, based in London. Strong in Python, Generative AI, LLM Engineering and REST API Design, with recent work in media streaming. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 0.9y), REST API Design (Working, 1.1y)
+- Data & AI: Generative AI (Proficient, 1.3y), LLM Engineering (Working, 1.3y), Vector Databases (Working, 0.6y)
+- Cloud & DevOps: GCP (Working, 0.7y), Azure (Beginner, 0.3y)
+
+EXPERIENCE
+* Payments Recommendation Engine — a European payments provider (2025-10 to present)
+  Designed a recommendation engine for a European payments provider in payments using GCP, Azure and Generative AI, improving model accuracy by 22%.
+* Media Streaming Fraud Detection Model — a leading streaming platform (2024-11 to 2025-09)
+  Designed a fraud detection model for a leading streaming platform in media streaming using Azure, REST API Design, Generative AI and Vector Databases, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2025)
+- Google Generative AI Leader (2024)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer

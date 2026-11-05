@@ -1,0 +1,35 @@
+SAMEER SHARMA
+Principal Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP10839
+
+PROFESSIONAL SUMMARY
+Principal Frontend Engineer with 19.8 years of experience, based in Pune. Strong in TypeScript, Angular, JavaScript and Figma, with recent work in airline operations. Interested in moving towards Full Stack Engineer roles and open to relocating to Dublin, Bengaluru, Singapore.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 15.2y), Angular (Expert, 19.8y), JavaScript (Advanced, 7.6y)
+- Product & Design: Figma (Advanced, 2.4y)
+- Cloud & DevOps: CI/CD (Advanced, 12.4y), Platform Engineering (Proficient, 3.8y)
+- Delivery & Leadership: Mentoring (Advanced, 2.4y), People Leadership (Proficient, 7.5y)
+
+EXPERIENCE
+* Insurance Claims Customer Onboarding Platform — an APAC insurer (2026-06 to present)
+  Scaled a customer onboarding platform for an APAC insurer in insurance claims using JavaScript, Platform Engineering and Figma, improving conversion by 18%.
+* Insurance Claims Claims Processing Engine — a global insurer (2025-08 to 2026-05)
+  Re-architected a claims processing engine for a global insurer in insurance claims using Platform Engineering and JavaScript, saving ~25K hours annually.
+* Supply-chain Logistics Self-service Portal — an APAC logistics company (2024-03 to 2025-08)
+  Scaled a self-service portal for an APAC logistics company in supply-chain logistics using Figma and Angular, saving ~12K hours annually.
+* Airline Operations Self-service Portal — a US airline (2023-07 to 2024-02)
+  Led the delivery of a self-service portal for a US airline in airline operations using CI/CD, TypeScript, JavaScript and Angular, lifting NPS by 30 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2022)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer

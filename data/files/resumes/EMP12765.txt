@@ -1,0 +1,33 @@
+CHRISTOPHER KIM
+Lead Software Architect | Engineering | New York, United States
+Employee ID: EMP12765
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.1 years of experience, based in New York. Strong in Java, GCP, Microservices and REST API Design, with recent work in payments. Interested in moving towards Engineering Manager, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 12.2y), Microservices (Proficient, 1.2y), REST API Design (Proficient, 4.1y), Kafka (Proficient, 1.9y), System Design (Working, 2.0y)
+- Cloud & DevOps: GCP (Advanced, 2.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 4.3y), People Leadership (Proficient, 6.9y)
+
+EXPERIENCE
+* Payments Self-service Portal — a leading payments provider (2025-09 to present)
+  Scaled a self-service portal for a leading payments provider in payments using Kafka and REST API Design, saving ~25K hours annually.
+* Wealth Management Claims Processing Engine — a global wealth manager (2024-11 to 2025-08)
+  Migrated a claims processing engine for a global wealth manager in wealth management using Java and Stakeholder Management, saving ~18K hours annually.
+* Automotive Payments Microservices Platform — a European car maker (2023-10 to 2024-10)
+  Built a payments microservices platform for a European car maker in automotive using Microservices, System Design, GCP and Java, accelerating releases by 12%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2021)
+- TOGAF 10 (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager, DevOps Engineer

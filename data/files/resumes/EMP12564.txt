@@ -1,0 +1,31 @@
+SAMEER KHAN
+Financial Analyst | Finance | Bengaluru, India
+Employee ID: EMP12564
+
+PROFESSIONAL SUMMARY
+Financial Analyst with 5.1 years of experience, based in Bengaluru. Strong in FP&A, Power BI, Financial Analysis and Financial Modeling, with recent work in healthcare. Interested in moving towards Financial Analyst, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: FP&A (Advanced, 1.4y), Financial Analysis (Working, 0.4y), Financial Modeling (Working, 2.0y), Risk Management (Working, 0.4y)
+- Data & AI: Power BI (Proficient, 1.8y), SQL (Working, 0.4y), Databricks (Working, 1.6y)
+- Delivery & Leadership: Communication (Working, 1.3y), Stakeholder Management (Beginner, 1.2y)
+
+EXPERIENCE
+* Healthcare Cost Transformation Programme — a leading hospital network (2026-06 to present)
+  Built a cost transformation programme for a leading hospital network in healthcare using SQL, Risk Management, Stakeholder Management and Financial Modeling, delivering $4M in cost savings.
+* Healthcare Regulatory Capital Reporting — an APAC hospital network (2024-12 to 2026-05)
+  Owned a regulatory capital reporting for an APAC hospital network in healthcare using SQL, Databricks, Communication and FP&A, reducing processing time by 18%.
+* Healthcare Cost Transformation Programme — an APAC hospital network (2023-10 to 2024-10)
+  Built a cost transformation programme for an APAC hospital network in healthcare using Stakeholder Management and Financial Modeling, delivering $4M in cost savings.
+* Healthcare Risk Control Framework — a tier-1 hospital network (2022-08 to 2023-09)
+  Built a risk control framework for a tier-1 hospital network in healthcare using Financial Modeling, Risk Management and SQL, closing 12% of open audit findings.
+
+EDUCATION
+- MSc Finance
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Financial Analyst, Risk & Compliance Analyst, Business Analyst

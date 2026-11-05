@@ -1,0 +1,31 @@
+RAJESH MALHOTRA
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP10497
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 11.9 years of experience, based in Bengaluru. Strong in Agile/Scrum, People Leadership, System Design and Stakeholder Management, with recent work in healthcare. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 3.9y), People Leadership (Advanced, 1.9y), Stakeholder Management (Proficient, 0.6y), Communication (Proficient, 5.8y)
+- Software Engineering: System Design (Proficient, 7.6y)
+- Cloud & DevOps: AWS (Proficient, 8.5y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — a fast-growing hospital network (2025-12 to present)
+  Migrated a mobile banking app for a fast-growing hospital network in healthcare using System Design, People Leadership and Communication, lifting NPS by 25 points.
+* Healthcare Claims Processing Engine — an APAC hospital network (2024-11 to 2025-09)
+  Automated a claims processing engine for an APAC hospital network in healthcare using Communication, People Leadership and System Design, reducing processing time by 30%.
+* Wealth Management Order Management System — an APAC wealth manager (2023-08 to 2024-09)
+  Automated an order management system for an APAC wealth manager in wealth management using Communication, Stakeholder Management, Agile/Scrum and System Design, onboarding 4 new enterprise clients.
+* Healthcare Payments Microservices Platform — a US hospital network (2022-01 to 2023-07)
+  Re-architected a payments microservices platform for a US hospital network in healthcare using AWS and People Leadership, reducing production incidents by 12%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Software Architect

@@ -1,0 +1,31 @@
+NANDINI SHARMA
+Senior ML Engineer | AI Center of Excellence | Gurugram, India
+Employee ID: EMP11937
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 9.1 years of experience, based in Gurugram. Strong in Python, Machine Learning, Deep Learning and AWS, with recent work in HR tech. Interested in moving towards ML Engineer, DevOps Engineer roles and open to relocating to Hyderabad, New York, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 6.4y)
+- Data & AI: Machine Learning (Proficient, 3.1y), Deep Learning (Proficient, 6.0y), NLP (Proficient, 4.7y), MLOps (Working, 1.6y)
+- Cloud & DevOps: AWS (Proficient, 4.0y), Kubernetes (Proficient, 1.4y)
+
+EXPERIENCE
+* Wealth Management Agentic Customer-service Assistant — a European wealth manager (2025-10 to present)
+  Migrated an agentic customer-service assistant for a European wealth manager in wealth management using MLOps, Kubernetes and Deep Learning, saving ~40K hours annually.
+* HR Tech Knowledge Assistant (RAG) — a fast-growing HR software company (2024-08 to 2025-09)
+  Built a knowledge assistant (RAG) for a fast-growing HR software company in HR tech using Deep Learning and Kubernetes, saving ~30K hours annually.
+* Supply-chain Logistics Document Intelligence Pipeline — a tier-1 logistics company (2023-01 to 2024-06)
+  Re-architected a document intelligence pipeline for a tier-1 logistics company in supply-chain logistics using Python, Deep Learning, NLP and MLOps, saving ~22K hours annually.
+* HR Tech Document Intelligence Pipeline — an APAC HR software company (2021-05 to 2022-11)
+  Migrated a document intelligence pipeline for an APAC HR software company in HR tech using Kubernetes, Machine Learning, Deep Learning and AWS, saving ~35K hours annually.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: ML Engineer, DevOps Engineer, AI Engineer

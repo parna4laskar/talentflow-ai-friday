@@ -1,0 +1,32 @@
+RADHIKA RYAN
+Principal QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP12148
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 20.2 years of experience, based in Pune. Strong in Test Automation, Playwright, API Testing and Performance Testing, with recent work in energy trading. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 12.4y), Playwright (Expert, 19.7y), API Testing (Expert, 20.2y), Performance Testing (Expert, 18.4y)
+- Software Engineering: Java (Advanced, 10.7y)
+- Data & AI: SQL (Advanced, 16.8y)
+- Delivery & Leadership: Mentoring (Advanced, 16.6y), Stakeholder Management (Advanced, 14.6y), Agile/Scrum (Proficient, 6.9y), Communication (Working, 3.6y)
+
+EXPERIENCE
+* Energy Trading Test Automation Framework — a leading energy company (2025-12 to present)
+  Led the delivery of a test automation framework for a leading energy company in energy trading using Playwright, SQL, Test Automation and Java, raising automated test coverage to 90%.
+* Energy Trading API Contract-testing Suite — a European energy company (2024-09 to 2025-10)
+  Modernised an API contract-testing suite for a European energy company in energy trading using Mentoring, Performance Testing, Java and Playwright, raising automated test coverage to 85%.
+* Retail Banking Test Automation Framework — an APAC retail bank (2024-02 to 2024-07)
+  Led the delivery of a test automation framework for an APAC retail bank in retail banking using Performance Testing, API Testing and Communication, raising automated test coverage to 80%.
+* Energy Trading Test Automation Framework — a US energy company (2022-09 to 2024-01)
+  Built a test automation framework for a US energy company in energy trading using Mentoring, SQL and Performance Testing, accelerating releases by 25%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer

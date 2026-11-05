@@ -1,0 +1,31 @@
+MEI NGUYEN
+Associate Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP10807
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1.8 years of experience, based in New York. Strong in Data Engineering, Python, Data Governance and Apache Spark, with recent work in public sector. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 0.6y), Data Governance (Proficient, 1.3y), Apache Spark (Working, 0.6y), SQL (Beginner, 0.4y), Airflow (Beginner, 0.3y), Snowflake (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.4y)
+- Business & Finance: Regulatory Compliance (Working, 0.8y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* Public Sector Customer Churn Model — a US government agency (2026-06 to present)
+  Led the delivery of a customer churn model for a US government agency in public sector using Regulatory Compliance, Python, Apache Spark and Airflow, improving conversion by 35%.
+* Public Sector Executive KPI Dashboard Suite — a US government agency (2025-08 to 2026-04)
+  Automated an executive KPI dashboard suite for a US government agency in public sector using Data Governance, Airflow, Regulatory Compliance and Data Engineering, saving ~12K hours annually.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer

@@ -1,0 +1,31 @@
+PRIYA TAYLOR
+Site Reliability Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12385
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 3.9 years of experience, based in London. Strong in Communication, Site Reliability Engineering, Observability and Kubernetes, with recent work in telecom billing. Interested in moving towards Cloud Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Advanced, 2.4y)
+- Cloud & DevOps: Site Reliability Engineering (Proficient, 2.9y), Observability (Proficient, 0.4y), Kubernetes (Proficient, 2.6y), Linux Administration (Proficient, 0.7y)
+- Quality Engineering: Performance Testing (Proficient, 0.9y)
+- Software Engineering: Go (Proficient, 2.6y), Python (Working, 1.8y)
+- Data & AI: Responsible AI (Working, 0.4y)
+
+EXPERIENCE
+* Retail Banking Observability Stack — an APAC retail bank (2026-02 to present)
+  Designed an observability stack for an APAC retail bank in retail banking using Linux Administration and Communication, accelerating releases by 18%.
+* Manufacturing IoT Kubernetes Platform — a fast-growing manufacturer (2025-06 to 2025-12)
+  Modernised a Kubernetes platform for a fast-growing manufacturer in manufacturing IoT using Performance Testing, Kubernetes and Linux Administration, reducing production incidents by 35%.
+* Telecom Billing Cloud Landing Zone — an APAC telecom operator (2024-04 to 2025-04)
+  Scaled a cloud landing zone for an APAC telecom operator in telecom billing using Communication, Responsible AI, Site Reliability Engineering and Observability, cutting cloud spend by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Cloud Engineer, Platform Engineer, Security Engineer

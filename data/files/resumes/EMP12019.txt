@@ -1,0 +1,33 @@
+ABHISHEK SINGH
+Principal Data Scientist | Data & Analytics | Pune, India
+Employee ID: EMP12019
+
+PROFESSIONAL SUMMARY
+Principal Data Scientist with 18.8 years of experience, based in Pune. Strong in Python, Statistics, SQL and MLOps, with recent work in retail banking. Interested in moving towards AI Engineer, Data Analyst roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 1.8y)
+- Data & AI: Statistics (Expert, 18.8y), SQL (Expert, 5.2y), MLOps (Expert, 18.8y), Machine Learning (Advanced, 9.5y), Apache Spark (Advanced, 7.4y), NLP (Proficient, 11.7y), Generative AI (Proficient, 9.2y)
+- People & Marketing: People Analytics (Expert, 1.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 11.1y), Communication (Proficient, 3.9y)
+
+EXPERIENCE
+* Retail Banking Real-time Analytics Pipeline — a leading retail bank (2026-07 to present)
+  Migrated a real-time analytics pipeline for a leading retail bank in retail banking using SQL and Stakeholder Management, reducing processing time by 35%.
+* Retail Banking Real-time Analytics Pipeline — a US retail bank (2025-12 to 2026-05)
+  Modernised a real-time analytics pipeline for a US retail bank in retail banking using Stakeholder Management, Machine Learning and Statistics, reducing processing time by 12%.
+* Retail Banking Data Lakehouse — a tier-1 retail bank (2024-09 to 2025-10)
+  Migrated a data lakehouse for a tier-1 retail bank in retail banking using Communication, People Analytics and MLOps, cutting cloud spend by 18%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2025)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, Data Analyst

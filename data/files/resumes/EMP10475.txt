@@ -1,0 +1,32 @@
+PRASAD MEHTA
+Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10475
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.3 years of experience, based in Bengaluru. Strong in JavaScript, React, Figma and Design Systems, with recent work in manufacturing IoT. Interested in moving towards UX Designer, Mobile Engineer roles and open to relocating to Dublin, Toronto, London.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 1.0y), React (Proficient, 2.2y), TypeScript (Working, 1.4y), GraphQL (Working, 1.5y), Next.js (Working, 0.8y), Node.js (Beginner, 0.4y)
+- Product & Design: Figma (Proficient, 0.6y), Design Systems (Proficient, 1.6y)
+- Quality Engineering: Playwright (Working, 0.6y)
+- Data & AI: Responsible AI (Working, 0.8y)
+
+EXPERIENCE
+* Wealth Management Payments Microservices Platform — a US wealth manager (2026-02 to present)
+  Designed a payments microservices platform for a US wealth manager in wealth management using GraphQL, React, Figma and Node.js, reducing processing time by 35%.
+* Automotive Claims Processing Engine — a European car maker (2025-01 to 2026-02)
+  Scaled a claims processing engine for a European car maker in automotive using GraphQL, TypeScript, Playwright and JavaScript, reducing processing time by 12%.
+* Manufacturing IoT Self-service Portal — a US manufacturer (2023-09 to 2024-12)
+  Migrated a self-service portal for a US manufacturer in manufacturing IoT using Node.js, React and Playwright, saving ~12K hours annually.
+* Manufacturing IoT Order Management System — a tier-1 manufacturer (2022-12 to 2023-08)
+  Built an order management system for a tier-1 manufacturer in manufacturing IoT using TypeScript, React and Figma, reducing processing time by 12%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: UX Designer, Mobile Engineer, QA Engineer

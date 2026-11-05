@@ -1,0 +1,29 @@
+ROHAN BHAT
+Lead Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP11771
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 12 years of experience, based in Pune. Strong in TypeScript, React, Node.js and Docker, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 7.7y), React (Advanced, 10.7y), Node.js (Advanced, 6.2y), Microservices (Proficient, 8.3y), Angular (Working, 2.9y)
+- Cloud & DevOps: Docker (Advanced, 5.5y), Kubernetes (Advanced, 5.4y), AWS (Proficient, 5.2y)
+- Data & AI: SQL (Proficient, 7.5y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — an APAC manufacturer (2025-12 to present)
+  Modernised a mobile banking app for an APAC manufacturer in manufacturing IoT using AWS, React and TypeScript, improving conversion by 18%.
+* Telecom Billing Pricing Engine — a fast-growing telecom operator (2025-04 to 2025-10)
+  Migrated a pricing engine for a fast-growing telecom operator in telecom billing using Docker, Angular and Kubernetes, reducing processing time by 25%.
+* Manufacturing IoT Pricing Engine — an APAC manufacturer (2024-01 to 2025-03)
+  Built a pricing engine for an APAC manufacturer in manufacturing IoT using React, TypeScript and AWS, reducing processing time by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer

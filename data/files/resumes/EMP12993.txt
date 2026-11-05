@@ -1,0 +1,33 @@
+LIAM BYRNE
+Principal Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP12993
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 20.5 years of experience, based in Dublin. Strong in Go, REST API Design, SQL and Microservices, with recent work in airline operations. Interested in moving towards Full Stack Engineer, DevOps Engineer roles and open to relocating to New York, Gurugram, Pune.
+
+CORE SKILLS
+- Software Engineering: Go (Expert, 10.3y), REST API Design (Advanced, 13.2y), Microservices (Advanced, 19.8y), System Design (Advanced, 10.8y), .NET Core (Advanced, 13.3y)
+- Data & AI: SQL (Advanced, 18.9y), Generative AI (Advanced, 1.0y), Responsible AI (Advanced, 11.2y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.9y), People Leadership (Proficient, 3.1y)
+- Cloud & DevOps: Kubernetes (Proficient, 8.2y), CI/CD (Proficient, 3.1y), AWS (Working, 4.2y)
+
+EXPERIENCE
+* E-commerce Self-service Portal — a leading online retailer (2025-10 to present)
+  Automated a self-service portal for a leading online retailer in e-commerce using SQL and Go, lifting NPS by 40 points.
+* Airline Operations Order Management System — a global airline (2024-07 to 2025-09)
+  Modernised an order management system for a global airline in airline operations using System Design, Microservices and Responsible AI, onboarding 2 new enterprise clients.
+* Airline Operations Pricing Engine — a leading airline (2023-08 to 2024-05)
+  Designed a pricing engine for a leading airline in airline operations using Responsible AI, CI/CD, Stakeholder Management and SQL, improving conversion by 12%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Irish, Marathi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, DevOps Engineer, Engineering Manager

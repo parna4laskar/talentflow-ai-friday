@@ -1,0 +1,29 @@
+KUNAL JONES
+Principal Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11498
+
+PROFESSIONAL SUMMARY
+Principal Platform Engineer with 21.6 years of experience, based in Bengaluru. Strong in Platform Engineering, CI/CD, Observability and Kubernetes, with recent work in media streaming. Interested in moving towards Site Reliability Engineer roles and open to relocating to Singapore, Austin.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Expert, 0.7y), CI/CD (Expert, 1.7y), Observability (Expert, 15.9y), Kubernetes (Advanced, 10.0y), Terraform (Advanced, 12.4y), AWS (Advanced, 10.8y)
+- Software Engineering: Python (Advanced, 19.5y), Go (Proficient, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 18.2y)
+
+EXPERIENCE
+* Pharma R&D Kubernetes Platform — a tier-1 pharma company (2026-08 to present)
+  Automated a Kubernetes platform for a tier-1 pharma company in pharma R&D using Python, Platform Engineering, Terraform and AWS, accelerating releases by 35%.
+* Telecom Billing CI/CD Platform — a US telecom operator (2025-06 to 2026-07)
+  Designed a CI/CD platform for a US telecom operator in telecom billing using Platform Engineering, AWS and Go, accelerating releases by 25%.
+* Media Streaming Kubernetes Platform — a US streaming platform (2024-08 to 2025-04)
+  Migrated a Kubernetes platform for a US streaming platform in media streaming using Kubernetes, CI/CD and Platform Engineering, cutting cloud spend by 18%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer

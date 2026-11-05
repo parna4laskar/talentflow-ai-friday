@@ -1,0 +1,32 @@
+CIARA DOYLE
+Senior Product Manager | Product | Dublin, Ireland
+Employee ID: EMP12068
+
+PROFESSIONAL SUMMARY
+Senior Product Manager with 5.8 years of experience, based in Dublin. Strong in Roadmapping, A/B Testing, Product Management and Stakeholder Management, with recent work in HR tech. Interested in moving towards Scrum Master roles.
+
+CORE SKILLS
+- Product & Design: Roadmapping (Advanced, 2.7y), A/B Testing (Advanced, 0.7y), Product Management (Proficient, 0.4y), UX Research (Working, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.8y), Agile/Scrum (Proficient, 4.3y), Communication (Proficient, 0.7y)
+- Data & AI: Generative AI (Proficient, 2.8y), Agentic AI (Working, 1.0y)
+- Cloud & DevOps: FinOps (Proficient, 1.0y)
+
+EXPERIENCE
+* Airline Operations B2B Analytics Product — a fast-growing airline (2026-03 to present)
+  Owned a B2B analytics product for a fast-growing airline in airline operations using Stakeholder Management, FinOps, A/B Testing and Generative AI, onboarding 6 new enterprise clients.
+* Insurance Claims Checkout Experience — a European insurer (2025-08 to 2026-01)
+  Owned a checkout experience for a European insurer in insurance claims using FinOps, UX Research and Stakeholder Management, improving conversion by 25%.
+* Wealth Management B2B Analytics Product — a global wealth manager (2024-02 to 2025-07)
+  Defined the roadmap for a B2B analytics product for a global wealth manager in wealth management using UX Research, A/B Testing, Roadmapping and FinOps, growing account revenue by 40%.
+* Payments B2B Analytics Product — a global payments provider (2023-07 to 2024-02)
+  Defined the roadmap for a B2B analytics product for a global payments provider in payments using Generative AI, Stakeholder Management and Product Management, onboarding 8 new enterprise clients.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Scrum Master

@@ -1,0 +1,29 @@
+ROHAN NAIDU
+Site Reliability Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12995
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 3.9 years of experience, based in Bengaluru. Strong in Site Reliability Engineering, Kubernetes, Linux Administration and Performance Testing, with recent work in pharma R&D. Interested in moving towards Site Reliability Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 2.8y), Kubernetes (Advanced, 2.2y), Linux Administration (Advanced, 3.3y), Observability (Working, 0.6y), Terraform (Working, 1.5y), FinOps (Beginner, 0.8y)
+- Quality Engineering: Performance Testing (Proficient, 0.6y)
+- Software Engineering: Python (Working, 1.7y)
+
+EXPERIENCE
+* Pharma R&D Kubernetes Platform — a European pharma company (2026-05 to present)
+  Designed a Kubernetes platform for a European pharma company in pharma R&D using Kubernetes, Python, FinOps and Linux Administration, accelerating releases by 40%.
+* Pharma R&D Data-centre Exit To Cloud — a tier-1 pharma company (2025-03 to 2026-02)
+  Scaled a data-centre exit to cloud for a tier-1 pharma company in pharma R&D using Site Reliability Engineering, Python and Linux Administration, delivering $4M in cost savings.
+* Energy Trading Data-centre Exit To Cloud — a European energy company (2024-08 to 2025-01)
+  Built a data-centre exit to cloud for a European energy company in energy trading using Observability, Linux Administration and Kubernetes, delivering $4M in cost savings.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer, DevOps Engineer, Security Engineer

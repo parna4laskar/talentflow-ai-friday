@@ -1,0 +1,36 @@
+LUCAS SINGH
+Lead Frontend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP12961
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 8.1 years of experience, based in Toronto. Strong in TypeScript, JavaScript, Node.js and Design Systems, with recent work in airline operations. Interested in moving towards Frontend Engineer, QA Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 1.5y), JavaScript (Expert, 2.0y), Node.js (Advanced, 4.7y), GraphQL (Advanced, 1.8y), React (Proficient, 2.2y), Next.js (Proficient, 2.4y)
+- Product & Design: Design Systems (Advanced, 3.7y)
+- Cloud & DevOps: Terraform (Proficient, 1.3y)
+- Data & AI: Databricks (Proficient, 5.0y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.9y)
+
+EXPERIENCE
+* Airline Operations Self-service Portal — a European airline (2026-05 to present)
+  Scaled a self-service portal for a European airline in airline operations using Stakeholder Management, React and JavaScript, saving ~12K hours annually.
+* Airline Operations Claims Processing Engine — a European airline (2024-12 to 2026-03)
+  Re-architected a claims processing engine for a European airline in airline operations using JavaScript and TypeScript, saving ~22K hours annually.
+* Wealth Management Self-service Portal — a tier-1 wealth manager (2023-12 to 2024-11)
+  Scaled a self-service portal for a tier-1 wealth manager in wealth management using TypeScript, Terraform, Databricks and JavaScript, lifting NPS by 18 points.
+* Insurance Claims Self-service Portal — a European insurer (2022-06 to 2023-09)
+  Led the delivery of a self-service portal for a European insurer in insurance claims using JavaScript and GraphQL, lifting NPS by 30 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2022)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer, QA Engineer

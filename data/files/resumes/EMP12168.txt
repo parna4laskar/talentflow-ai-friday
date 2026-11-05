@@ -1,0 +1,30 @@
+ROHAN MUKHERJEE
+Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP12168
+
+PROFESSIONAL SUMMARY
+Data Scientist with 4.7 years of experience, based in Chennai. Strong in Python, Machine Learning, Statistics and MLOps, with recent work in manufacturing IoT. Interested in moving towards AI Engineer, Product Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 1.6y)
+- Data & AI: Machine Learning (Proficient, 0.9y), Statistics (Proficient, 2.5y), MLOps (Proficient, 2.7y), Apache Spark (Proficient, 2.1y), SQL (Working, 2.2y), NLP (Working, 2.0y), Databricks (Working, 1.3y), Generative AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Regulatory Reporting Suite — a global manufacturer (2025-11 to present)
+  Modernised a regulatory reporting suite for a global manufacturer in manufacturing IoT using SQL, Databricks and Machine Learning, saving ~30K hours annually.
+* Energy Trading Regulatory Reporting Suite — a European energy company (2024-12 to 2025-10)
+  Migrated a regulatory reporting suite for a European energy company in energy trading using NLP and Python, saving ~22K hours annually.
+* Manufacturing IoT Data Lakehouse — a US manufacturer (2024-05 to 2024-10)
+  Scaled a data lakehouse for a US manufacturer in manufacturing IoT using Generative AI, NLP and Machine Learning, reducing processing time by 25%.
+* Manufacturing IoT Regulatory Reporting Suite — a global manufacturer (2022-12 to 2024-03)
+  Led the delivery of a regulatory reporting suite for a global manufacturer in manufacturing IoT using Python, Apache Spark, NLP and SQL, reducing processing time by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, Product Manager, Data Analyst

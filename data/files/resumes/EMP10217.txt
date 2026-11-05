@@ -1,0 +1,32 @@
+SURESH AGARWAL
+Associate Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP10217
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.8 years of experience, based in Chennai. Strong in SQL, Python, Data Engineering and dbt, with recent work in telecom billing. Interested in moving towards Backend Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.5y), Data Engineering (Proficient, 0.5y), dbt (Proficient, 0.5y), Airflow (Working, 0.3y), Data Governance (Working, 0.3y), Databricks (Working, 0.3y)
+- Software Engineering: Python (Proficient, 0.5y), Kafka (Working, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.6y)
+- Cloud & DevOps: AWS (Working, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Executive KPI Dashboard Suite — a leading telecom operator (2025-11 to present)
+  Scaled an executive KPI dashboard suite for a leading telecom operator in telecom billing using Data Engineering, Databricks, Python and AWS, improving forecast accuracy by 35%.
+* Telecom Billing Real-time Analytics Pipeline — a US telecom operator (2024-03 to 2025-09)
+  Modernised a real-time analytics pipeline for a US telecom operator in telecom billing using Communication, Databricks and Data Engineering, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, Data Scientist

@@ -1,0 +1,32 @@
+LAKSHMI BANERJEE
+Senior Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12060
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 10.6 years of experience, based in Hyderabad. Strong in Node.js, Docker, REST API Design and TypeScript, with recent work in telecom billing. Interested in moving towards Full Stack Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Node.js (Advanced, 1.0y), REST API Design (Advanced, 7.6y), TypeScript (Proficient, 5.5y), Angular (Proficient, 3.3y), Microservices (Proficient, 7.5y), GraphQL (Working, 0.5y)
+- Cloud & DevOps: Docker (Advanced, 0.9y), AWS (Proficient, 6.9y)
+- Data & AI: SQL (Proficient, 0.9y)
+
+EXPERIENCE
+* Telecom Billing Pricing Engine — a European telecom operator (2025-11 to present)
+  Scaled a pricing engine for a European telecom operator in telecom billing using TypeScript, Microservices and REST API Design, reducing processing time by 30%.
+* Supply-chain Logistics Self-service Portal — a European logistics company (2024-05 to 2025-08)
+  Built a self-service portal for a European logistics company in supply-chain logistics using Docker and GraphQL, saving ~12K hours annually.
+* Airline Operations Payments Microservices Platform — an APAC airline (2023-05 to 2024-04)
+  Modernised a payments microservices platform for an APAC airline in airline operations using Node.js, SQL, Microservices and Angular, reducing processing time by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Frontend Engineer

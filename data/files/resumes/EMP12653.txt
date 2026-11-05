@@ -1,0 +1,35 @@
+POOJA MALHOTRA
+Senior Business Analyst | Business Consulting | Bengaluru, India
+Employee ID: EMP12653
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 9.2 years of experience, based in Bengaluru. Strong in Salesforce, Business Analysis, Requirements Gathering and Stakeholder Management, with recent work in insurance claims. Interested in moving towards Business Analyst, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 3.7y), Business Analysis (Proficient, 6.3y), Requirements Gathering (Proficient, 6.8y), Process Improvement (Proficient, 4.8y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.7y), Agile/Scrum (Proficient, 1.8y), Communication (Working, 0.6y)
+- Data & AI: SQL (Proficient, 1.9y)
+
+EXPERIENCE
+* Insurance Claims Requirements and UAT for a CRM Rollout — a leading insurer (2026-06 to present)
+  Led a requirements and UAT for a CRM rollout for a leading insurer in insurance claims using Communication and Agile/Scrum, reducing processing time by 12%.
+* Insurance Claims Agile Transformation — a global insurer (2025-11 to 2026-04)
+  Coordinated an agile transformation for a global insurer in insurance claims using SQL, Business Analysis, Communication and Stakeholder Management, delivering on time across 2 workstreams.
+* Public Sector Core Banking Transformation Programme — a fast-growing government agency (2024-08 to 2025-09)
+  Delivered a core banking transformation programme for a fast-growing government agency in public sector using Stakeholder Management, Business Analysis and Agile/Scrum, delivering on time across 2 workstreams.
+* Automotive Cloud Migration Programme — a European car maker (2023-02 to 2024-08)
+  Ran a cloud migration programme for a European car maker in automotive using Process Improvement and Agile/Scrum, cutting cloud spend by 40%.
+
+CERTIFICATIONS
+- CBAP (2021)
+- PMI-PBA (2021)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Business Analyst, Account Manager

@@ -1,0 +1,27 @@
+ABHISHEK RAO
+Associate Security Analyst | Cyber Security | Hyderabad, India
+Employee ID: EMP10798
+
+PROFESSIONAL SUMMARY
+Associate Security Analyst with 2.2 years of experience, based in Hyderabad. Strong in Incident Response, Cloud Security, SIEM and GRC, with recent work in healthcare. Interested in moving towards Cloud Engineer roles and open to relocating to Dublin, Austin.
+
+CORE SKILLS
+- Security: Incident Response (Proficient, 0.4y), Cloud Security (Proficient, 0.5y), SIEM (Working, 0.6y), GRC (Working, 0.3y)
+- Cloud & DevOps: Linux Administration (Working, 0.7y)
+- Delivery & Leadership: Communication (Beginner, 0.4y)
+
+EXPERIENCE
+* Healthcare Secure SDLC Rollout — a US hospital network (2025-11 to present)
+  Automated a secure SDLC rollout for a US hospital network in healthcare using Communication, Linux Administration, Cloud Security and Incident Response, accelerating releases by 35%.
+* Wealth Management Secure SDLC Rollout — a fast-growing wealth manager (2024-09 to 2025-09)
+  Re-architected a secure SDLC rollout for a fast-growing wealth manager in wealth management using GRC, Incident Response and Linux Administration, accelerating releases by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Cloud Engineer

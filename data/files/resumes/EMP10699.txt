@@ -1,0 +1,35 @@
+MIA DAVIS
+Senior Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP10699
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 6.2 years of experience, based in New York. Strong in SQL, Data Engineering, Airflow and Data Governance, with recent work in media streaming. Interested in moving towards Data Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 5.4y), Data Engineering (Advanced, 5.4y), Airflow (Advanced, 4.2y), Data Governance (Advanced, 2.4y), dbt (Proficient, 3.0y)
+- Software Engineering: Python (Working, 1.2y), Kafka (Working, 1.1y)
+- Quality Engineering: Playwright (Working, 2.4y)
+
+EXPERIENCE
+* Media Streaming Executive KPI Dashboard Suite — a global streaming platform (2025-12 to present)
+  Led the delivery of an executive KPI dashboard suite for a global streaming platform in media streaming using Python, dbt and Kafka, saving ~18K hours annually.
+* Automotive Real-time Analytics Pipeline — a leading car maker (2024-11 to 2025-10)
+  Re-architected a real-time analytics pipeline for a leading car maker in automotive using SQL, dbt and Python, cutting cloud spend by 40%.
+* Media Streaming Regulatory Reporting Suite — a fast-growing streaming platform (2023-08 to 2024-10)
+  Built a regulatory reporting suite for a fast-growing streaming platform in media streaming using Airflow and Data Governance, reducing processing time by 18%.
+* Airline Operations Executive KPI Dashboard Suite — a fast-growing airline (2022-09 to 2023-06)
+  Migrated an executive KPI dashboard suite for a fast-growing airline in airline operations using Playwright, Data Governance, dbt and SQL, improving forecast accuracy by 12%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2021)
+- SnowPro Core (2021)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, ML Engineer, Data Analyst, AI Engineer

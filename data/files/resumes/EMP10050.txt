@@ -1,0 +1,32 @@
+ADITYA SZYMAŃSKI
+Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP10050
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 4.7 years of experience, based in Chennai. Strong in JavaScript, React, Figma and GraphQL, with recent work in e-commerce. Interested in moving towards Full Stack Engineer, Mobile Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Proficient, 1.2y), React (Proficient, 1.9y), GraphQL (Proficient, 2.9y), TypeScript (Working, 0.6y), Node.js (Working, 1.2y), Next.js (Working, 1.6y)
+- Product & Design: Figma (Proficient, 0.9y)
+- Data & AI: Databricks (Proficient, 3.2y)
+- Cloud & DevOps: CI/CD (Working, 1.9y), Terraform (Working, 0.4y)
+
+EXPERIENCE
+* E-commerce Self-service Portal — a leading online retailer (2026-04 to present)
+  Built a self-service portal for a leading online retailer in e-commerce using Terraform, Figma and CI/CD, saving ~30K hours annually.
+* E-commerce Customer Onboarding Platform — a US online retailer (2025-10 to 2026-03)
+  Designed a customer onboarding platform for a US online retailer in e-commerce using GraphQL, JavaScript and React, lifting NPS by 30 points.
+* Payments Payments Microservices Platform — a US payments provider (2024-09 to 2025-08)
+  Designed a payments microservices platform for a US payments provider in payments using Node.js, Next.js and Terraform, reducing processing time by 25%.
+* Telecom Billing Pricing Engine — a tier-1 telecom operator (2024-01 to 2024-08)
+  Re-architected a pricing engine for a tier-1 telecom operator in telecom billing using GraphQL and Terraform, reducing processing time by 40%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Mobile Engineer

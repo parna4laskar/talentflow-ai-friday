@@ -1,0 +1,31 @@
+MRUNAL MEHTA
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11029
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3 years of experience, based in Pune. Strong in Microservices, Python, Kafka and CI/CD, with recent work in automotive. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 0.9y), Python (Proficient, 1.1y), Kafka (Proficient, 1.7y), REST API Design (Working, 1.4y), .NET Core (Working, 0.7y), Go (Beginner, 0.6y)
+- Cloud & DevOps: CI/CD (Proficient, 1.2y), Docker (Working, 0.4y)
+- Data & AI: SQL (Working, 1.1y), LLM Engineering (Working, 1.3y)
+
+EXPERIENCE
+* Public Sector Customer Onboarding Platform — a leading government agency (2025-09 to present)
+  Scaled a customer onboarding platform for a leading government agency in public sector using Python and Microservices, improving conversion by 12%.
+* Pharma R&D Pricing Engine — a leading pharma company (2024-07 to 2025-06)
+  Migrated a pricing engine for a leading pharma company in pharma R&D using LLM Engineering, Kafka and REST API Design, improving conversion by 35%.
+* Automotive Payments Microservices Platform — a fast-growing car maker (2023-05 to 2024-05)
+  Re-architected a payments microservices platform for a fast-growing car maker in automotive using Kafka, .NET Core and LLM Engineering, reducing processing time by 25%.
+* Airline Operations Customer Onboarding Platform — a leading airline (2022-09 to 2023-04)
+  Migrated a customer onboarding platform for a leading airline in airline operations using Microservices and CI/CD, lifting NPS by 12 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, AI Engineer

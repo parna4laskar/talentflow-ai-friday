@@ -1,0 +1,34 @@
+GAURI SHARMA
+Lead Backend Engineer | Engineering | Gurugram, India
+Employee ID: EMP10891
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 9 years of experience, based in Gurugram. Strong in Java, CI/CD, AWS and REST API Design, with recent work in public sector. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 4.4y), REST API Design (Proficient, 2.8y), Microservices (Proficient, 6.6y), GraphQL (Proficient, 1.9y)
+- Cloud & DevOps: CI/CD (Advanced, 4.3y), AWS (Advanced, 2.4y), Docker (Proficient, 0.6y)
+- Delivery & Leadership: Mentoring (Proficient, 4.4y), Stakeholder Management (Proficient, 4.9y), People Leadership (Proficient, 3.5y)
+- Data & AI: SQL (Working, 1.3y)
+
+EXPERIENCE
+* Wealth Management Order Management System — a fast-growing wealth manager (2026-04 to present)
+  Designed an order management system for a fast-growing wealth manager in wealth management using AWS and Docker, reducing processing time by 30%.
+* Public Sector Claims Processing Engine — a global government agency (2025-01 to 2026-02)
+  Scaled a claims processing engine for a global government agency in public sector using REST API Design and Mentoring, reducing processing time by 35%.
+* Supply-chain Logistics Self-service Portal — an APAC logistics company (2023-06 to 2024-12)
+  Modernised a self-service portal for an APAC logistics company in supply-chain logistics using CI/CD, Mentoring and Microservices, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Full Stack Engineer

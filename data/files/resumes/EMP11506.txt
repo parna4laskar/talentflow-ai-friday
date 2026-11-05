@@ -1,0 +1,30 @@
+ADITYA BHAT
+CRM Consultant | Enterprise Applications | Hyderabad, India
+Employee ID: EMP11506
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 2.3 years of experience, based in Hyderabad. Strong in Process Improvement, Salesforce, Business Analysis and Requirements Gathering, with recent work in healthcare. Interested in moving towards CRM Consultant, Scrum Master roles.
+
+CORE SKILLS
+- Business & Finance: Process Improvement (Advanced, 2.3y), Salesforce (Proficient, 0.9y), Business Analysis (Proficient, 1.6y), Requirements Gathering (Proficient, 1.2y)
+- Delivery & Leadership: Project Management (Working, 0.8y), Communication (Working, 0.6y), Agile/Scrum (Beginner, 0.5y)
+- Software Engineering: JavaScript (Beginner, 0.4y)
+
+EXPERIENCE
+* Healthcare CRM Rollout — a fast-growing hospital network (2026-04 to present)
+  Led the delivery of a CRM rollout for a fast-growing hospital network in healthcare using Process Improvement, Agile/Scrum and JavaScript, reducing processing time by 18%.
+* Healthcare CRM Rollout — an APAC hospital network (2025-01 to 2026-04)
+  Built a CRM rollout for an APAC hospital network in healthcare using JavaScript and Project Management, improving conversion by 18%.
+
+CERTIFICATIONS
+- ServiceNow CSA (2025)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: CRM Consultant, Scrum Master

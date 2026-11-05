@@ -1,0 +1,29 @@
+CHRISTOPHER KIM
+Full Stack Engineer | Engineering | Austin, United States
+Employee ID: EMP12353
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3.9 years of experience, based in Austin. Strong in Angular, Python, TypeScript and SQL, with recent work in insurance claims. Interested in moving towards Frontend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 2.0y), Python (Advanced, 1.0y), TypeScript (Proficient, 0.5y), Next.js (Proficient, 0.8y)
+- Data & AI: SQL (Proficient, 1.0y)
+- Cloud & DevOps: Docker (Working, 1.3y)
+
+EXPERIENCE
+* Telecom Billing Payments Microservices Platform — a US telecom operator (2025-12 to present)
+  Re-architected a payments microservices platform for a US telecom operator in telecom billing using SQL, Python, Docker and TypeScript, reducing production incidents by 12%.
+* Payments Self-service Portal — a US payments provider (2025-04 to 2025-11)
+  Migrated a self-service portal for a US payments provider in payments using Next.js, TypeScript, Python and Angular, saving ~35K hours annually.
+* Insurance Claims Customer Onboarding Platform — an APAC insurer (2024-01 to 2025-03)
+  Modernised a customer onboarding platform for an APAC insurer in insurance claims using Next.js, Angular and SQL, improving conversion by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer, Software Architect

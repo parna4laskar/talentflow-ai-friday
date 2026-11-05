@@ -1,0 +1,31 @@
+FATIMA NAIDU
+Associate Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP12319
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2.4 years of experience, based in Bengaluru. Strong in Tableau, SQL, Data Visualization and A/B Testing, with recent work in wealth management. Interested in moving towards Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Tableau (Advanced, 2.1y), SQL (Working, 0.5y), Data Visualization (Working, 0.8y), Snowflake (Beginner, 0.3y)
+- Product & Design: A/B Testing (Working, 0.8y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.8y)
+- Software Engineering: Python (Beginner, 0.5y)
+
+EXPERIENCE
+* Energy Trading Data Lakehouse — an APAC energy company (2025-11 to present)
+  Re-architected a data lakehouse for an APAC energy company in energy trading using SQL, Tableau, Snowflake and Python, cutting cloud spend by 35%.
+* Wealth Management Executive KPI Dashboard Suite — a fast-growing wealth manager (2024-12 to 2025-10)
+  Automated an executive KPI dashboard suite for a fast-growing wealth manager in wealth management using Snowflake and Stakeholder Management, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Financial Analyst

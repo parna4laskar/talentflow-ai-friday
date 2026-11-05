@@ -1,0 +1,29 @@
+JIA HUI ONG
+Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12953
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 5.5 years of experience, based in Singapore. Strong in TypeScript, JavaScript, React and Next.js, with recent work in supply-chain logistics. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 2.1y), JavaScript (Proficient, 1.5y), React (Working, 2.7y), Next.js (Working, 0.3y), GraphQL (Working, 1.2y)
+
+EXPERIENCE
+* Insurance Claims Self-service Portal — a global insurer (2026-10 to present)
+  Modernised a self-service portal for a global insurer in insurance claims using TypeScript, React, Next.js and JavaScript, lifting NPS by 40 points.
+* Supply-chain Logistics Claims Processing Engine — an APAC logistics company (2025-04 to 2026-09)
+  Designed a claims processing engine for an APAC logistics company in supply-chain logistics using JavaScript, TypeScript and GraphQL, reducing processing time by 25%.
+* Retail Banking Pricing Engine — a global retail bank (2024-03 to 2025-04)
+  Migrated a pricing engine for a global retail bank in retail banking using React, TypeScript, Next.js and GraphQL, reducing processing time by 18%.
+* Retail Banking Pricing Engine — a European retail bank (2022-08 to 2023-12)
+  Scaled a pricing engine for a European retail bank in retail banking using TypeScript and React, improving conversion by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Mobile Engineer

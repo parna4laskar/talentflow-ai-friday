@@ -1,0 +1,33 @@
+GAURI HEGDE
+Senior QA Engineer | Quality Engineering | Chennai, India
+Employee ID: EMP11684
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.2 years of experience, based in Chennai. Strong in Test Automation, Playwright, API Testing and Python, with recent work in retail banking. Interested in moving towards QA Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 1.7y), Playwright (Advanced, 5.6y), API Testing (Proficient, 1.5y), Performance Testing (Working, 4.0y), Selenium (Working, 5.1y)
+- Software Engineering: Python (Proficient, 1.5y)
+- Data & AI: SQL (Proficient, 7.5y)
+- Cloud & DevOps: CI/CD (Working, 4.5y)
+- Delivery & Leadership: Agile/Scrum (Working, 3.4y)
+
+EXPERIENCE
+* Retail Banking Test Automation Framework — a fast-growing retail bank (2026-10 to present)
+  Automated a test automation framework for a fast-growing retail bank in retail banking using SQL, Agile/Scrum and Performance Testing, raising automated test coverage to 70%.
+* Payments Performance Engineering Programme — a US payments provider (2025-04 to 2026-09)
+  Migrated a performance engineering programme for a US payments provider in payments using Test Automation, API Testing, Python and Agile/Scrum, reducing production incidents by 18%.
+* Retail Banking Test Automation Framework — a leading retail bank (2024-01 to 2025-03)
+  Led the delivery of a test automation framework for a leading retail bank in retail banking using CI/CD and Agile/Scrum, raising automated test coverage to 70%.
+* Media Streaming Test Automation Framework — an APAC streaming platform (2022-06 to 2023-11)
+  Migrated a test automation framework for an APAC streaming platform in media streaming using CI/CD and API Testing, accelerating releases by 22%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, Mobile Engineer

@@ -1,0 +1,29 @@
+MADISON CHEN
+Data Engineer | Data & Analytics | Austin, United States
+Employee ID: EMP10117
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.2 years of experience, based in Austin. Strong in SQL, Python, Data Engineering and Apache Spark, with recent work in HR tech. Interested in moving towards AI Engineer, ML Engineer roles and open to relocating to Toronto, Chennai, Singapore.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.0y), Data Engineering (Proficient, 1.0y), Apache Spark (Proficient, 1.5y), Databricks (Working, 0.7y), Snowflake (Working, 1.1y)
+- Software Engineering: Python (Proficient, 1.6y), Kafka (Working, 0.8y)
+
+EXPERIENCE
+* HR Tech Customer Churn Model — a global HR software company (2025-09 to present)
+  Built a customer churn model for a global HR software company in HR tech using Python, Data Engineering, Databricks and Apache Spark, improving conversion by 35%.
+* Airline Operations Regulatory Reporting Suite — a US airline (2024-02 to 2025-07)
+  Migrated a regulatory reporting suite for a US airline in airline operations using Kafka, Snowflake and Apache Spark, saving ~12K hours annually.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, ML Engineer, Data Analyst

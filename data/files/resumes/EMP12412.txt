@@ -1,0 +1,30 @@
+PARNA CHATTERJEE
+AI Engineer | AI Center of Excellence | Gurugram, India
+Employee ID: EMP12412
+
+PROFESSIONAL SUMMARY
+AI Engineer with 2.9 years of experience, based in Gurugram. Strong in LLM Engineering, NLP, REST API Design and Agentic AI, with recent work in pharma R&D. Interested in moving towards AI Engineer, Full Stack Engineer roles and open to relocating to Bengaluru, Chennai.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Advanced, 1.4y), NLP (Proficient, 1.3y), Agentic AI (Proficient, 0.6y), Generative AI (Working, 1.1y), Responsible AI (Working, 1.1y), Deep Learning (Working, 1.4y), Machine Learning (Working, 0.7y)
+- Software Engineering: REST API Design (Proficient, 1.0y), Python (Working, 1.1y)
+
+EXPERIENCE
+* Pharma R&D Document Intelligence Pipeline — a leading pharma company (2025-08 to present)
+  Built a document intelligence pipeline for a leading pharma company in pharma R&D using Deep Learning and Machine Learning, saving ~22K hours annually.
+* Supply-chain Logistics Document Intelligence Pipeline — a leading logistics company (2023-11 to 2025-05)
+  Re-architected a document intelligence pipeline for a leading logistics company in supply-chain logistics using Agentic AI, Generative AI, LLM Engineering and Responsible AI, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2025)
+- Google Generative AI Leader (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, Full Stack Engineer, ML Engineer

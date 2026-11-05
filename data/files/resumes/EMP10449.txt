@@ -1,0 +1,32 @@
+NOAH JOHNSON
+Senior Full Stack Engineer | Engineering | Austin, United States
+Employee ID: EMP10449
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 7.5 years of experience, based in Austin. Strong in TypeScript, Angular, SQL and Java, with recent work in airline operations. Interested in moving towards Full Stack Engineer, AI Engineer roles and open to relocating to Gurugram, Chennai.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 4.9y), Angular (Expert, 1.2y), Java (Proficient, 2.5y), GraphQL (Proficient, 5.4y), REST API Design (Working, 2.8y)
+- Data & AI: SQL (Advanced, 6.5y)
+- Cloud & DevOps: AWS (Proficient, 1.7y), Terraform (Proficient, 4.8y)
+- Delivery & Leadership: Communication (Beginner, 1.7y)
+
+EXPERIENCE
+* Airline Operations Customer Onboarding Platform — a European airline (2026-05 to present)
+  Designed a customer onboarding platform for a European airline in airline operations using Terraform, Communication, AWS and Java, improving conversion by 22%.
+* Wealth Management Claims Processing Engine — a leading wealth manager (2025-09 to 2026-04)
+  Scaled a claims processing engine for a leading wealth manager in wealth management using REST API Design and Communication, saving ~40K hours annually.
+* Telecom Billing Mobile Banking App — a global telecom operator (2024-08 to 2025-07)
+  Migrated a mobile banking app for a global telecom operator in telecom billing using Java and Angular, lifting NPS by 30 points.
+* Airline Operations Self-service Portal — a leading airline (2023-01 to 2024-06)
+  Designed a self-service portal for a leading airline in airline operations using GraphQL, SQL and TypeScript, saving ~22K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, AI Engineer, Backend Engineer, Software Architect

@@ -1,0 +1,29 @@
+NOAH ANDERSON
+Data Analyst | Data & Analytics | New York, United States
+Employee ID: EMP11346
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2.4 years of experience, based in New York. Strong in SQL, Data Visualization, Python and Tableau, with recent work in payments. Interested in moving towards Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.0y), Data Visualization (Proficient, 0.4y), Tableau (Working, 0.6y), Snowflake (Working, 0.4y)
+- Software Engineering: Python (Proficient, 0.9y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.9y)
+- Product & Design: A/B Testing (Working, 1.1y)
+- Business & Finance: Business Analysis (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Regulatory Reporting Suite — a US pharma company (2025-11 to present)
+  Migrated a regulatory reporting suite for a US pharma company in pharma R&D using Stakeholder Management, Tableau and SQL, saving ~40K hours annually.
+* Payments Real-time Analytics Pipeline — a leading payments provider (2024-09 to 2025-09)
+  Led the delivery of a real-time analytics pipeline for a leading payments provider in payments using Data Visualization, Stakeholder Management and SQL, cutting cloud spend by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Financial Analyst

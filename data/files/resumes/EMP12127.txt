@@ -1,0 +1,31 @@
+RIYA SUBRAMANIAN
+Senior DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12127
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 5.7 years of experience, based in Hyderabad. Strong in Docker, Kubernetes, CI/CD and Observability, with recent work in wealth management. Interested in moving towards DevOps Engineer, Platform Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 4.7y), Kubernetes (Advanced, 5.4y), CI/CD (Proficient, 3.0y), Observability (Proficient, 0.7y), Terraform (Proficient, 1.1y), Azure (Working, 0.4y), Linux Administration (Working, 0.6y)
+- Delivery & Leadership: Communication (Proficient, 3.0y)
+- Software Engineering: Python (Working, 0.7y)
+
+EXPERIENCE
+* Public Sector Data-centre Exit To Cloud — a leading government agency (2026-05 to present)
+  Led the delivery of a data-centre exit to cloud for a leading government agency in public sector using Observability, Python and Linux Administration, delivering $8M in cost savings.
+* Pharma R&D Data-centre Exit To Cloud — a global pharma company (2024-12 to 2026-04)
+  Automated a data-centre exit to cloud for a global pharma company in pharma R&D using Docker, Kubernetes, Azure and Linux Administration, cutting cloud spend by 12%.
+* Airline Operations Cloud Landing Zone — a global airline (2024-03 to 2024-11)
+  Modernised a cloud landing zone for a global airline in airline operations using Terraform and Communication, accelerating releases by 12%.
+* Wealth Management Data-centre Exit To Cloud — a global wealth manager (2023-06 to 2024-01)
+  Re-architected a data-centre exit to cloud for a global wealth manager in wealth management using Azure, Linux Administration, Terraform and Python, delivering $6M in cost savings.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Platform Engineer, Site Reliability Engineer

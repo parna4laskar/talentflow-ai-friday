@@ -1,0 +1,28 @@
+ADITYA SUBRAMANIAN
+Associate SAP Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP12207
+
+PROFESSIONAL SUMMARY
+Associate SAP Consultant with 1.6 years of experience, based in Bengaluru. Strong in Process Improvement, Financial Analysis, Requirements Gathering and SAP FICO, with recent work in healthcare. Interested in moving towards SAP Consultant, CRM Consultant roles and open to relocating to London, Austin.
+
+CORE SKILLS
+- Business & Finance: Process Improvement (Advanced, 1.3y), Financial Analysis (Proficient, 0.5y), Requirements Gathering (Proficient, 1.1y), SAP FICO (Working, 0.3y), Business Analysis (Working, 0.7y), SAP S/4HANA (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+- Data & AI: Databricks (Beginner, 0.3y)
+- Cloud & DevOps: Terraform (Beginner, 0.3y)
+
+EXPERIENCE
+* Healthcare CRM Rollout — a tier-1 hospital network (2025-11 to present)
+  Built a CRM rollout for a tier-1 hospital network in healthcare using Financial Analysis and Requirements Gathering, improving conversion by 18%.
+* Healthcare CRM Rollout — a European hospital network (2024-08 to 2025-09)
+  Re-architected a CRM rollout for a European hospital network in healthcare using SAP FICO, Requirements Gathering, Terraform and Databricks, reducing processing time by 25%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: SAP Consultant, CRM Consultant, Business Analyst, Risk & Compliance Analyst

@@ -1,0 +1,27 @@
+PRANAV SEN
+Associate Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP11645
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.7 years of experience, based in Chennai. Strong in TypeScript, Angular, SQL and Java, with recent work in automotive. Interested in moving towards Software Architect, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 1.3y), Angular (Proficient, 0.8y), Java (Working, 0.8y), REST API Design (Beginner, 0.3y), Next.js (Beginner, 0.4y)
+- Data & AI: SQL (Proficient, 0.9y), dbt (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — a fast-growing manufacturer (2026-03 to present)
+  Re-architected a claims processing engine for a fast-growing manufacturer in manufacturing IoT using REST API Design, Java and Next.js, saving ~22K hours annually.
+* Automotive Payments Microservices Platform — a fast-growing car maker (2025-02 to 2026-02)
+  Re-architected a payments microservices platform for a fast-growing car maker in automotive using Java, Angular, REST API Design and SQL, reducing production incidents by 22%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Mobile Engineer

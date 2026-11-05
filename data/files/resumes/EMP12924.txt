@@ -1,0 +1,30 @@
+OWEN WONG
+Associate Data Analyst | Data & Analytics | Toronto, Canada
+Employee ID: EMP12924
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 0.4 years of experience, based in Toronto. Strong in SQL, Data Visualization, Power BI and A/B Testing, with recent work in pharma R&D. Interested in moving towards Financial Analyst, Business Analyst roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.4y), Data Visualization (Proficient, 0.4y), Power BI (Proficient, 0.3y)
+- Product & Design: A/B Testing (Working, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.3y), Communication (Working, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Regulatory Reporting Suite — an APAC pharma company (2025-08 to present)
+  Built a regulatory reporting suite for an APAC pharma company in pharma R&D using Stakeholder Management and Power BI, saving ~30K hours annually.
+* Pharma R&D Data Lakehouse — an APAC pharma company (2024-11 to 2025-08)
+  Scaled a data lakehouse for an APAC pharma company in pharma R&D using Data Visualization, Stakeholder Management, Power BI and A/B Testing, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Financial Analyst, Business Analyst

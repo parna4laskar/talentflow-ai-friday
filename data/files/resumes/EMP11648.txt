@@ -1,0 +1,33 @@
+PRIYA JONES
+Lead Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11648
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 11.6 years of experience, based in London. Strong in Java, REST API Design, Docker and SQL, with recent work in payments. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 7.5y), REST API Design (Expert, 1.5y), Microservices (Advanced, 8.9y), Kafka (Advanced, 6.4y), GraphQL (Proficient, 0.4y)
+- Cloud & DevOps: Docker (Expert, 4.1y), AWS (Advanced, 9.6y)
+- Data & AI: SQL (Advanced, 9.5y)
+- Delivery & Leadership: Mentoring (Advanced, 9.1y), Communication (Advanced, 5.6y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a tier-1 pharma company (2025-11 to present)
+  Automated a pricing engine for a tier-1 pharma company in pharma R&D using Microservices and REST API Design, reducing processing time by 25%.
+* Payments Customer Onboarding Platform — a global payments provider (2025-04 to 2025-09)
+  Scaled a customer onboarding platform for a global payments provider in payments using Communication, Java and AWS, improving conversion by 40%.
+* Insurance Claims Order Management System — a US insurer (2023-09 to 2025-02)
+  Modernised an order management system for a US insurer in insurance claims using GraphQL, Mentoring, Kafka and SQL, reducing processing time by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, DevOps Engineer, Software Architect

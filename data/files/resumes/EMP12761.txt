@@ -1,0 +1,35 @@
+AGNIESZKA SZYMAŃSKI
+Senior Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP12761
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.5 years of experience, based in Kraków. Strong in Java, AWS, REST API Design and SQL, with recent work in airline operations. Interested in moving towards DevOps Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 8.2y), REST API Design (Advanced, 6.5y), Microservices (Advanced, 8.5y), .NET Core (Advanced, 2.2y), Spring Boot (Working, 1.4y)
+- Cloud & DevOps: AWS (Expert, 8.1y), Docker (Working, 4.2y)
+- Data & AI: SQL (Advanced, 2.9y), Generative AI (Proficient, 6.7y)
+
+EXPERIENCE
+* E-commerce Self-service Portal — a global online retailer (2025-12 to present)
+  Built a self-service portal for a global online retailer in e-commerce using Java, AWS and REST API Design, saving ~40K hours annually.
+* Airline Operations Self-service Portal — a US airline (2024-09 to 2025-12)
+  Automated a self-service portal for a US airline in airline operations using Docker, Java and Microservices, saving ~35K hours annually.
+* Supply-chain Logistics Self-service Portal — an APAC logistics company (2024-03 to 2024-08)
+  Designed a self-service portal for an APAC logistics company in supply-chain logistics using AWS, Spring Boot, Generative AI and REST API Design, saving ~35K hours annually.
+* Healthcare Pricing Engine — a tier-1 hospital network (2023-04 to 2024-02)
+  Automated a pricing engine for a tier-1 hospital network in healthcare using Java, REST API Design, Spring Boot and SQL, improving conversion by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, AI Engineer, Full Stack Engineer

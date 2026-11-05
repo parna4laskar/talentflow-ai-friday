@@ -1,0 +1,31 @@
+HANNAH ZIELIŃSKI
+Security Analyst | Cyber Security | London, United Kingdom
+Employee ID: EMP10545
+
+PROFESSIONAL SUMMARY
+Security Analyst with 2.9 years of experience, based in London. Strong in SIEM, Communication, Incident Response and Linux Administration, with recent work in pharma R&D. Interested in moving towards Site Reliability Engineer, Security Engineer roles.
+
+CORE SKILLS
+- Security: SIEM (Proficient, 0.8y), Incident Response (Working, 0.6y), Cloud Security (Beginner, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 0.6y)
+- Cloud & DevOps: Linux Administration (Working, 1.2y), Kubernetes (Working, 1.0y), FinOps (Working, 1.1y)
+
+EXPERIENCE
+* Pharma R&D Cloud Security Posture Programme — a leading pharma company (2026-03 to present)
+  Designed a cloud security posture programme for a leading pharma company in pharma R&D using Kubernetes, FinOps and Cloud Security, reducing production incidents by 22%.
+* Pharma R&D Secure SDLC Rollout — a fast-growing pharma company (2025-05 to 2026-02)
+  Modernised a secure SDLC rollout for a fast-growing pharma company in pharma R&D using Linux Administration, FinOps and Cloud Security, reducing production incidents by 40%.
+
+CERTIFICATIONS
+- CompTIA Security+ (2026)
+- CySA+ (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer, Security Engineer

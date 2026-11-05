@@ -1,0 +1,28 @@
+VAISHNAVI BOSE
+Associate Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP12439
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 1.8 years of experience, based in Chennai. Strong in Python, Statistics, Apache Spark and SQL, with recent work in telecom billing. Interested in moving towards Data Analyst, ML Engineer roles and open to relocating to Gurugram, Singapore, New York.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 0.7y)
+- Data & AI: Statistics (Advanced, 0.5y), Apache Spark (Advanced, 1.3y), SQL (Proficient, 0.4y), Generative AI (Proficient, 1.3y), Machine Learning (Working, 0.6y), Deep Learning (Working, 0.6y), MLOps (Beginner, 0.3y), Data Visualization (Beginner, 0.3y)
+- Product & Design: A/B Testing (Proficient, 0.9y)
+- Quality Engineering: Playwright (Beginner, 0.4y)
+
+EXPERIENCE
+* Telecom Billing Real-time Analytics Pipeline — a US telecom operator (2026-09 to present)
+  Migrated a real-time analytics pipeline for a US telecom operator in telecom billing using Machine Learning, Generative AI and Statistics, reducing processing time by 40%.
+* E-commerce Customer Churn Model — a fast-growing online retailer (2025-03 to 2026-07)
+  Re-architected a customer churn model for a fast-growing online retailer in e-commerce using MLOps and A/B Testing, improving model accuracy by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, ML Engineer, Product Manager

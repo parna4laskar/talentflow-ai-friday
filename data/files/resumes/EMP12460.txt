@@ -1,0 +1,34 @@
+JANHAVI HEGDE
+Senior Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12460
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 7.9 years of experience, based in Bengaluru. Strong in Linux Administration, Azure, Terraform and Platform Engineering, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 6.6y), Azure (Proficient, 4.7y), Terraform (Proficient, 5.5y), Platform Engineering (Proficient, 4.9y), CI/CD (Proficient, 1.2y)
+- Software Engineering: Python (Proficient, 4.5y)
+- Security: Cloud Security (Proficient, 1.5y)
+
+EXPERIENCE
+* Insurance Claims Kubernetes Platform — an APAC insurer (2025-08 to present)
+  Designed a Kubernetes platform for an APAC insurer in insurance claims using Linux Administration, Platform Engineering, Cloud Security and Azure, reducing production incidents by 25%.
+* Pharma R&D Kubernetes Platform — an APAC pharma company (2024-03 to 2025-05)
+  Migrated a Kubernetes platform for an APAC pharma company in pharma R&D using Python and Azure, reducing production incidents by 40%.
+* Pharma R&D Cloud Landing Zone — a US pharma company (2023-04 to 2023-12)
+  Led the delivery of a cloud landing zone for a US pharma company in pharma R&D using CI/CD, Cloud Security and Terraform, accelerating releases by 30%.
+* Pharma R&D CI/CD Platform — a leading pharma company (2022-09 to 2023-04)
+  Built a CI/CD platform for a leading pharma company in pharma R&D using Platform Engineering and Python, accelerating releases by 22%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2024)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Platform Engineer, Software Architect

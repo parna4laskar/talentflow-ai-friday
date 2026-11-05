@@ -1,0 +1,36 @@
+RITESH SINGH
+Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11174
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.9 years of experience, based in Bengaluru. Strong in Linux Administration, Python, Kubernetes and CI/CD, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 1.0y), Kubernetes (Proficient, 4.3y), CI/CD (Proficient, 1.5y), Platform Engineering (Proficient, 2.6y), Azure (Working, 2.1y), Terraform (Working, 0.7y), Docker (Working, 0.5y)
+- Software Engineering: Python (Proficient, 0.9y)
+- Security: Cloud Security (Working, 2.6y)
+
+EXPERIENCE
+* Pharma R&D Kubernetes Platform — a US pharma company (2025-08 to present)
+  Built a Kubernetes platform for a US pharma company in pharma R&D using Cloud Security, CI/CD, Kubernetes and Python, accelerating releases by 35%.
+* HR Tech CI/CD Platform — an APAC HR software company (2025-01 to 2025-07)
+  Modernised a CI/CD platform for an APAC HR software company in HR tech using Azure, Platform Engineering and Linux Administration, accelerating releases by 22%.
+* Energy Trading Observability Stack — a European energy company (2023-11 to 2024-11)
+  Scaled an observability stack for a European energy company in energy trading using Terraform, Cloud Security, CI/CD and Python, reducing production incidents by 25%.
+* Energy Trading Cloud Landing Zone — an APAC energy company (2022-07 to 2023-10)
+  Modernised a cloud landing zone for an APAC energy company in energy trading using Azure, Platform Engineering and Kubernetes, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2023)
+- Azure Administrator Associate (2023)
+- Google Professional Cloud Architect (2024)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Platform Engineer, Site Reliability Engineer

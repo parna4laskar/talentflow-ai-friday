@@ -1,0 +1,31 @@
+THOMAS LEWANDOWSKI
+DevOps Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12712
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.1 years of experience, based in London. Strong in Kubernetes, GCP, CI/CD and Terraform, with recent work in insurance claims. Interested in moving towards Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 2.3y), GCP (Advanced, 1.1y), CI/CD (Proficient, 1.7y), Terraform (Proficient, 1.4y), Docker (Working, 1.5y), Observability (Working, 1.7y), Linux Administration (Working, 0.7y), Site Reliability Engineering (Working, 0.8y)
+- Software Engineering: Go (Proficient, 0.6y)
+- Delivery & Leadership: Communication (Proficient, 1.0y)
+
+EXPERIENCE
+* Healthcare Data-centre Exit To Cloud — an APAC hospital network (2025-10 to present)
+  Modernised a data-centre exit to cloud for an APAC hospital network in healthcare using GCP, Site Reliability Engineering, Docker and Go, delivering $5M in cost savings.
+* Retail Banking Observability Stack — a leading retail bank (2024-06 to 2025-09)
+  Led the delivery of an observability stack for a leading retail bank in retail banking using Linux Administration and Communication, reducing production incidents by 12%.
+* Automotive Observability Stack — an APAC car maker (2023-03 to 2024-05)
+  Re-architected an observability stack for an APAC car maker in automotive using Terraform, Communication and GCP, accelerating releases by 18%.
+* Insurance Claims Observability Stack — a fast-growing insurer (2021-11 to 2022-12)
+  Designed an observability stack for a fast-growing insurer in insurance claims using Go, Kubernetes, GCP and CI/CD, reducing production incidents by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer

@@ -1,0 +1,33 @@
+LIAM DAVIS
+Lead Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP10456
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 11 years of experience, based in New York. Strong in Data Engineering, SQL, Kafka and Mentoring, with recent work in wealth management. Interested in moving towards Data Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 8.2y), SQL (Advanced, 2.5y), Airflow (Proficient, 3.6y), Databricks (Proficient, 7.1y)
+- Software Engineering: Kafka (Advanced, 2.9y), Python (Proficient, 6.6y)
+- Delivery & Leadership: Mentoring (Advanced, 0.7y), People Leadership (Proficient, 4.3y)
+- Cloud & DevOps: AWS (Proficient, 0.5y)
+
+EXPERIENCE
+* Retail Banking Customer Churn Model — a leading retail bank (2026-06 to present)
+  Re-architected a customer churn model for a leading retail bank in retail banking using Airflow and Databricks, improving model accuracy by 12%.
+* Wealth Management Real-time Analytics Pipeline — an APAC wealth manager (2024-11 to 2026-05)
+  Designed a real-time analytics pipeline for an APAC wealth manager in wealth management using Mentoring, Airflow, Kafka and Python, reducing processing time by 18%.
+* Wealth Management Executive KPI Dashboard Suite — a global wealth manager (2023-11 to 2024-09)
+  Designed an executive KPI dashboard suite for a global wealth manager in wealth management using Mentoring, Airflow and SQL, improving forecast accuracy by 35%.
+
+CERTIFICATIONS
+- SnowPro Core (2023)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Engineer, Data Scientist, ML Engineer, Data Analyst

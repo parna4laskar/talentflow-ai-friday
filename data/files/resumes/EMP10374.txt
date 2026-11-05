@@ -1,0 +1,33 @@
+ARVIND SUBRAMANIAN
+Senior Site Reliability Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10374
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 8.2 years of experience, based in Bengaluru. Strong in Linux Administration, Site Reliability Engineering, Observability and Kubernetes, with recent work in wealth management. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Expert, 8.0y), Site Reliability Engineering (Advanced, 3.1y), Observability (Advanced, 6.8y), Kubernetes (Advanced, 8.1y), Terraform (Proficient, 4.1y), AWS (Proficient, 1.1y)
+- Security: Incident Response (Advanced, 3.6y)
+- Delivery & Leadership: Communication (Advanced, 3.1y)
+- Software Engineering: Go (Proficient, 2.0y)
+- Quality Engineering: Performance Testing (Working, 1.5y)
+
+EXPERIENCE
+* Automotive Cloud Landing Zone — a US car maker (2026-06 to present)
+  Migrated a cloud landing zone for a US car maker in automotive using AWS, Terraform and Observability, accelerating releases by 22%.
+* Wealth Management Cloud Landing Zone — a fast-growing wealth manager (2025-02 to 2026-04)
+  Led the delivery of a cloud landing zone for a fast-growing wealth manager in wealth management using Observability and Linux Administration, accelerating releases by 35%.
+* Public Sector Observability Stack — a tier-1 government agency (2023-07 to 2024-12)
+  Re-architected an observability stack for a tier-1 government agency in public sector using Terraform, Incident Response, AWS and Performance Testing, reducing production incidents by 22%.
+* Wealth Management Data-centre Exit To Cloud — a fast-growing wealth manager (2022-07 to 2023-05)
+  Re-architected a data-centre exit to cloud for a fast-growing wealth manager in wealth management using Incident Response, Terraform, Go and Communication, cutting cloud spend by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, Platform Engineer, Cloud Engineer, Security Engineer

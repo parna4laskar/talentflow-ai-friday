@@ -1,0 +1,30 @@
+FATIMA NAIDU
+Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP11978
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2.8 years of experience, based in Bengaluru. Strong in SQL, Python, Machine Learning and Statistics, with recent work in e-commerce. Interested in moving towards Data Scientist, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.5y), Machine Learning (Proficient, 1.3y), Statistics (Proficient, 0.8y), MLOps (Proficient, 0.4y), Generative AI (Proficient, 1.1y), Deep Learning (Proficient, 2.0y), Data Visualization (Working, 0.4y), Data Engineering (Working, 0.6y)
+- Software Engineering: Python (Proficient, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 1.6y)
+
+EXPERIENCE
+* E-commerce Customer Churn Model — a US online retailer (2025-06 to present)
+  Scaled a customer churn model for a US online retailer in e-commerce using Generative AI and Python, improving conversion by 22%.
+* E-commerce Regulatory Reporting Suite — a tier-1 online retailer (2024-10 to 2025-04)
+  Automated a regulatory reporting suite for a tier-1 online retailer in e-commerce using Python, Machine Learning and Communication, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, Data Analyst, AI Engineer, ML Engineer

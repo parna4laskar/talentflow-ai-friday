@@ -1,0 +1,34 @@
+WEI JIE NG
+Senior Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12997
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.7 years of experience, based in Singapore. Strong in .NET Core, Python, REST API Design and Kubernetes, with recent work in automotive. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: .NET Core (Advanced, 1.8y), Python (Proficient, 4.5y), REST API Design (Proficient, 5.7y), Go (Proficient, 1.6y), Microservices (Working, 0.7y), GraphQL (Working, 3.0y)
+- Cloud & DevOps: Kubernetes (Proficient, 3.9y), FinOps (Proficient, 3.5y), CI/CD (Working, 2.1y)
+- Data & AI: SQL (Working, 1.9y)
+
+EXPERIENCE
+* Automotive Claims Processing Engine — a US car maker (2025-07 to present)
+  Modernised a claims processing engine for a US car maker in automotive using FinOps and .NET Core, reducing processing time by 22%.
+* Automotive Self-service Portal — a global car maker (2024-01 to 2025-06)
+  Led the delivery of a self-service portal for a global car maker in automotive using Python, FinOps, Go and SQL, lifting NPS by 18 points.
+* Automotive Pricing Engine — a US car maker (2022-05 to 2023-10)
+  Re-architected a pricing engine for a US car maker in automotive using Microservices and Python, improving conversion by 22%.
+* Automotive Claims Processing Engine — a leading car maker (2021-02 to 2022-03)
+  Modernised a claims processing engine for a leading car maker in automotive using GraphQL, SQL, CI/CD and Microservices, saving ~22K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin, Tamil
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: AI Engineer

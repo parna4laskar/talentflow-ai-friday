@@ -1,0 +1,33 @@
+ARJUN RODRIGUEZ
+Senior CRM Consultant | Enterprise Applications | Austin, United States
+Employee ID: EMP11220
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 6.3 years of experience, based in Austin. Strong in ServiceNow, Requirements Gathering, JavaScript and Business Analysis, with recent work in automotive. Interested in moving towards Business Analyst, Account Manager roles and open to relocating to Chennai, Singapore.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Advanced, 2.4y), Requirements Gathering (Proficient, 4.6y), Business Analysis (Working, 1.9y), Process Improvement (Working, 1.5y)
+- Software Engineering: JavaScript (Proficient, 2.4y)
+- Data & AI: Databricks (Working, 1.2y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+- Cloud & DevOps: Kubernetes (Beginner, 1.5y)
+
+EXPERIENCE
+* Wealth Management CRM Rollout — a leading wealth manager (2026-01 to present)
+  Modernised a CRM rollout for a leading wealth manager in wealth management using ServiceNow, Process Improvement, Business Analysis and JavaScript, reducing processing time by 25%.
+* Energy Trading CRM Rollout — a US energy company (2025-05 to 2025-11)
+  Designed a CRM rollout for a US energy company in energy trading using Business Analysis and JavaScript, reducing processing time by 12%.
+* Healthcare Service Desk Automation — a global hospital network (2024-07 to 2025-03)
+  Scaled a service desk automation for a global hospital network in healthcare using Kubernetes, JavaScript and Databricks, saving ~35K hours annually.
+* Automotive ERP Finance Rollout — a US car maker (2023-02 to 2024-05)
+  Automated an ERP finance rollout for a US car maker in automotive using Process Improvement and Business Analysis, saving ~12K hours annually.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Business Analyst, Account Manager

@@ -1,0 +1,32 @@
+JESSICA MARTIN
+Associate QA Engineer | Quality Engineering | Toronto, Canada
+Employee ID: EMP10349
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 0.6 years of experience, based in Toronto. Strong in Selenium, API Testing, CI/CD and Responsible AI, with recent work in payments. Interested in moving towards QA Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 0.5y), API Testing (Proficient, 0.4y), Test Automation (Working, 0.3y)
+- Cloud & DevOps: CI/CD (Proficient, 0.4y)
+- Data & AI: Responsible AI (Proficient, 0.4y), Machine Learning (Beginner, 0.3y)
+- Delivery & Leadership: Agile/Scrum (Working, 0.3y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Payments API Contract-testing Suite — a fast-growing payments provider (2026-01 to present)
+  Designed an API contract-testing suite for a fast-growing payments provider in payments using Python, Selenium, API Testing and Agile/Scrum, reducing production incidents by 22%.
+* Media Streaming Performance Engineering Programme — a tier-1 streaming platform (2025-03 to 2026-01)
+  Automated a performance engineering programme for a tier-1 streaming platform in media streaming using Agile/Scrum and Selenium, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2026)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer, DevOps Engineer, Full Stack Engineer

@@ -1,0 +1,30 @@
+FATIMA KHAN
+Lead Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP10015
+
+PROFESSIONAL SUMMARY
+Lead Mobile Engineer with 8.5 years of experience, based in Pune. Strong in Mobile Development, React, REST API Design and UI Design, with recent work in manufacturing IoT. Interested in moving towards Backend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Expert, 3.0y), React (Expert, 3.9y), REST API Design (Advanced, 5.6y)
+- Product & Design: UI Design (Advanced, 5.9y)
+- Cloud & DevOps: CI/CD (Proficient, 3.9y), Terraform (Working, 0.3y)
+- Delivery & Leadership: People Leadership (Proficient, 7.3y), Communication (Working, 3.1y)
+
+EXPERIENCE
+* HR Tech Payments Microservices Platform — an APAC HR software company (2026-04 to present)
+  Scaled a payments microservices platform for an APAC HR software company in HR tech using Communication, REST API Design and CI/CD, reducing production incidents by 18%.
+* Media Streaming Pricing Engine — a leading streaming platform (2024-12 to 2026-04)
+  Scaled a pricing engine for a leading streaming platform in media streaming using REST API Design and Terraform, reducing processing time by 30%.
+* Manufacturing IoT Payments Microservices Platform — a US manufacturer (2023-07 to 2024-10)
+  Automated a payments microservices platform for a US manufacturer in manufacturing IoT using REST API Design and Terraform, reducing production incidents by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, QA Engineer

@@ -1,0 +1,34 @@
+HARINI DESHPANDE
+Lead Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP10598
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 13.2 years of experience, based in Bengaluru. Strong in Data Visualization, Tableau, Snowflake and Business Analysis, with recent work in pharma R&D. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 3.9y), Stakeholder Management (Advanced, 10.7y), Mentoring (Proficient, 1.8y)
+- Data & AI: Data Visualization (Advanced, 8.2y), Tableau (Advanced, 3.5y), Snowflake (Advanced, 11.3y), SQL (Proficient, 1.7y), Statistics (Proficient, 4.3y)
+- Business & Finance: Business Analysis (Advanced, 0.8y)
+- People & Marketing: People Analytics (Advanced, 8.2y)
+- Product & Design: A/B Testing (Proficient, 6.2y)
+
+EXPERIENCE
+* Pharma R&D Real-time Analytics Pipeline — a fast-growing pharma company (2026-03 to present)
+  Modernised a real-time analytics pipeline for a fast-growing pharma company in pharma R&D using Tableau, People Analytics, Business Analysis and Snowflake, reducing processing time by 18%.
+* Pharma R&D Data Lakehouse — an APAC pharma company (2025-07 to 2026-01)
+  Led the delivery of a data lakehouse for an APAC pharma company in pharma R&D using People Analytics, Snowflake and Tableau, cutting cloud spend by 12%.
+* Retail Banking Data Lakehouse — a tier-1 retail bank (2024-02 to 2025-07)
+  Scaled a data lakehouse for a tier-1 retail bank in retail banking using Business Analysis, SQL and A/B Testing, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst, Financial Analyst

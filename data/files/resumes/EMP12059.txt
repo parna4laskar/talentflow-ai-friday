@@ -1,0 +1,29 @@
+CIARA BYRNE
+Lead Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP12059
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 11.8 years of experience, based in Dublin. Strong in Microservices, .NET Core, SQL and Kafka, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 7.5y), .NET Core (Expert, 2.0y), Kafka (Advanced, 9.0y), GraphQL (Advanced, 2.1y), Java (Proficient, 0.6y), REST API Design (Proficient, 1.5y)
+- Data & AI: SQL (Advanced, 7.1y)
+- Delivery & Leadership: Mentoring (Advanced, 4.1y), Communication (Advanced, 4.2y)
+
+EXPERIENCE
+* Manufacturing IoT Order Management System — a global manufacturer (2026-01 to present)
+  Scaled an order management system for a global manufacturer in manufacturing IoT using Java, Microservices, .NET Core and REST API Design, onboarding 2 new enterprise clients.
+* Manufacturing IoT Customer Onboarding Platform — a leading manufacturer (2025-02 to 2025-10)
+  Automated a customer onboarding platform for a leading manufacturer in manufacturing IoT using SQL, GraphQL, Mentoring and .NET Core, reducing processing time by 25%.
+* Manufacturing IoT Self-service Portal — a leading manufacturer (2023-10 to 2024-11)
+  Migrated a self-service portal for a leading manufacturer in manufacturing IoT using GraphQL, Microservices, Kafka and REST API Design, lifting NPS by 35 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Engineering Manager

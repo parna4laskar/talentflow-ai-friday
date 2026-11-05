@@ -1,0 +1,27 @@
+EMILY HUGHES
+Associate Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10959
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 0.4 years of experience, based in London. Strong in Java, SQL, System Design and REST API Design, with recent work in e-commerce. Interested in moving towards Software Architect, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 0.3y), System Design (Proficient, 0.3y), REST API Design (Working, 0.3y), Microservices (Working, 0.3y), GraphQL (Working, 0.3y)
+- Data & AI: SQL (Proficient, 0.3y), Databricks (Beginner, 0.3y)
+- Cloud & DevOps: Terraform (Working, 0.3y)
+
+EXPERIENCE
+* HR Tech Mobile Banking App — a fast-growing HR software company (2026-03 to present)
+  Scaled a mobile banking app for a fast-growing HR software company in HR tech using Microservices and Databricks, improving conversion by 22%.
+* HR Tech Order Management System — a fast-growing HR software company (2025-08 to 2026-01)
+  Modernised an order management system for a fast-growing HR software company in HR tech using System Design and SQL, reducing processing time by 12%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Software Architect, DevOps Engineer

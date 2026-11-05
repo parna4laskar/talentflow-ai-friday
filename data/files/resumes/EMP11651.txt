@@ -1,0 +1,34 @@
+VAISHNAVI DAS
+Senior Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11651
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.9 years of experience, based in Chennai. Strong in JavaScript, React, CI/CD and TypeScript, with recent work in manufacturing IoT. Interested in moving towards UX Designer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 4.1y), React (Advanced, 0.6y), TypeScript (Proficient, 4.9y), GraphQL (Proficient, 2.7y)
+- Cloud & DevOps: CI/CD (Advanced, 1.2y)
+- Product & Design: Figma (Proficient, 2.0y)
+
+EXPERIENCE
+* Retail Banking Claims Processing Engine — an APAC retail bank (2025-09 to present)
+  Modernised a claims processing engine for an APAC retail bank in retail banking using JavaScript and React, saving ~12K hours annually.
+* Energy Trading Order Management System — a tier-1 energy company (2025-01 to 2025-07)
+  Designed an order management system for a tier-1 energy company in energy trading using React, GraphQL and Figma, onboarding 6 new enterprise clients.
+* Payments Claims Processing Engine — a leading payments provider (2023-11 to 2025-01)
+  Built a claims processing engine for a leading payments provider in payments using CI/CD and Figma, reducing processing time by 30%.
+* Retail Banking Order Management System — a fast-growing retail bank (2022-11 to 2023-10)
+  Modernised an order management system for a fast-growing retail bank in retail banking using GraphQL, CI/CD and TypeScript, reducing processing time by 25%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: UX Designer, Full Stack Engineer, QA Engineer

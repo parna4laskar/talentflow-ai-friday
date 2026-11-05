@@ -1,0 +1,30 @@
+MANISH HEGDE
+Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP10800
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.1 years of experience, based in Pune. Strong in Data Engineering, Python, Apache Spark and Databricks, with recent work in energy trading. Interested in moving towards AI Engineer, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 1.0y), Apache Spark (Proficient, 0.7y), Databricks (Proficient, 0.5y), Airflow (Proficient, 1.1y), SQL (Working, 0.5y), Snowflake (Working, 0.4y), Data Governance (Beginner, 0.5y)
+- Software Engineering: Python (Proficient, 1.1y), Go (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Proficient, 0.7y), Terraform (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Regulatory Reporting Suite — a global energy company (2026-03 to present)
+  Led the delivery of a regulatory reporting suite for a global energy company in energy trading using Databricks, Go, Snowflake and Data Engineering, saving ~40K hours annually.
+* Energy Trading Executive KPI Dashboard Suite — a US energy company (2024-08 to 2026-01)
+  Migrated an executive KPI dashboard suite for a US energy company in energy trading using Data Engineering, SQL and Apache Spark, saving ~30K hours annually.
+
+CERTIFICATIONS
+- SnowPro Core (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, ML Engineer

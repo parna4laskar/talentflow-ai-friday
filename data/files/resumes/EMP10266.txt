@@ -1,0 +1,28 @@
+SHREYA BANERJEE
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP10266
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 9 years of experience, based in Pune. Strong in People Leadership, Microservices, System Design and Agile/Scrum, with recent work in wealth management. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 4.8y), Agile/Scrum (Advanced, 5.4y), Stakeholder Management (Advanced, 7.4y), Communication (Advanced, 3.8y), Mentoring (Advanced, 4.4y)
+- Software Engineering: Microservices (Expert, 6.8y), System Design (Advanced, 0.9y), Python (Advanced, 6.1y), Java (Advanced, 8.3y), Go (Proficient, 4.6y)
+
+EXPERIENCE
+* Wealth Management Pricing Engine — a US wealth manager (2025-07 to present)
+  Designed a pricing engine for a US wealth manager in wealth management using Stakeholder Management and System Design, reducing processing time by 30%.
+* Wealth Management Self-service Portal — a US wealth manager (2024-08 to 2025-06)
+  Scaled a self-service portal for a US wealth manager in wealth management using Python, System Design, Stakeholder Management and Mentoring, saving ~12K hours annually.
+* Airline Operations Self-service Portal — a US airline (2023-09 to 2024-07)
+  Scaled a self-service portal for a US airline in airline operations using People Leadership, Stakeholder Management, Java and Python, saving ~25K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager, Software Architect, Backend Engineer, Program Manager

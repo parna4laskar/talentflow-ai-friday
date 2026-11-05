@@ -1,0 +1,28 @@
+MICHAŁ WÓJCIK
+Senior DevOps Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP10568
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 10.2 years of experience, based in Kraków. Strong in Kubernetes, Docker, AWS and Python, with recent work in public sector. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 1.6y), Docker (Advanced, 2.6y), AWS (Proficient, 5.8y), Observability (Proficient, 7.3y), CI/CD (Working, 4.9y), Terraform (Working, 4.7y), Linux Administration (Working, 3.5y)
+- Software Engineering: Python (Proficient, 6.6y), Go (Beginner, 2.2y)
+
+EXPERIENCE
+* Energy Trading Cloud Landing Zone — a European energy company (2026-01 to present)
+  Built a cloud landing zone for a European energy company in energy trading using Python, AWS and Kubernetes, accelerating releases by 22%.
+* Public Sector Observability Stack — a European government agency (2024-06 to 2025-12)
+  Modernised an observability stack for a European government agency in public sector using Docker and AWS, accelerating releases by 35%.
+* Public Sector Kubernetes Platform — a European government agency (2022-10 to 2024-03)
+  Modernised a Kubernetes platform for a European government agency in public sector using Observability, Go and AWS, cutting cloud spend by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, Platform Engineer

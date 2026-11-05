@@ -1,0 +1,35 @@
+KEISHA JOHNSON
+Lead Backend Engineer | Engineering | New York, United States
+Employee ID: EMP11289
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 12.4 years of experience, based in New York. Strong in REST API Design, Stakeholder Management, Java and SQL, with recent work in supply-chain logistics. Interested in moving towards DevOps Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 12.4y), Java (Proficient, 1.7y), Microservices (Proficient, 1.3y), Spring Boot (Proficient, 1.1y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 8.6y), People Leadership (Advanced, 3.2y)
+- Data & AI: SQL (Proficient, 7.0y)
+- Cloud & DevOps: Kubernetes (Proficient, 7.6y), AWS (Proficient, 0.9y), Site Reliability Engineering (Proficient, 3.3y)
+
+EXPERIENCE
+* Pharma R&D Claims Processing Engine — a leading pharma company (2025-10 to present)
+  Modernised a claims processing engine for a leading pharma company in pharma R&D using REST API Design and Java, reducing processing time by 30%.
+* Supply-chain Logistics Mobile Banking App — a fast-growing logistics company (2025-03 to 2025-09)
+  Modernised a mobile banking app for a fast-growing logistics company in supply-chain logistics using Site Reliability Engineering, Kubernetes and Spring Boot, lifting NPS by 30 points.
+* Healthcare Self-service Portal — a US hospital network (2024-02 to 2025-02)
+  Scaled a self-service portal for a US hospital network in healthcare using Stakeholder Management and SQL, lifting NPS by 12 points.
+* Supply-chain Logistics Customer Onboarding Platform — an APAC logistics company (2022-08 to 2023-12)
+  Automated a customer onboarding platform for an APAC logistics company in supply-chain logistics using Site Reliability Engineering, SQL, Stakeholder Management and Spring Boot, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, AI Engineer, Full Stack Engineer

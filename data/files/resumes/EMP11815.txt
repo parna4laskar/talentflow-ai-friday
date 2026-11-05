@@ -1,0 +1,30 @@
+SAMUEL TREMBLAY
+Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11815
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2 years of experience, based in London. Strong in Python, REST API Design, SQL and System Design, with recent work in airline operations. Interested in moving towards Full Stack Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 1.4y), REST API Design (Proficient, 1.3y), System Design (Proficient, 1.5y), Microservices (Working, 0.9y), Spring Boot (Working, 0.8y), Kafka (Working, 0.4y)
+- Data & AI: SQL (Proficient, 1.4y), dbt (Working, 0.4y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.4y)
+
+EXPERIENCE
+* Airline Operations Self-service Portal — a leading airline (2026-01 to present)
+  Led the delivery of a self-service portal for a leading airline in airline operations using Python and System Design, lifting NPS by 22 points.
+* Automotive Customer Onboarding Platform — a global car maker (2025-05 to 2026-01)
+  Migrated a customer onboarding platform for a global car maker in automotive using REST API Design and Microservices, reducing processing time by 40%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, AI Engineer

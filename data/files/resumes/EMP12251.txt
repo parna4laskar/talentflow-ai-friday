@@ -1,0 +1,34 @@
+SURESH BHAT
+Senior CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP12251
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 9.7 years of experience, based in Bengaluru. Strong in ServiceNow, Business Analysis, JavaScript and Agile/Scrum, with recent work in manufacturing IoT. Interested in moving towards SAP Consultant, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Advanced, 7.8y), Business Analysis (Proficient, 3.7y), Process Improvement (Working, 0.4y)
+- Software Engineering: JavaScript (Proficient, 3.4y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 4.1y)
+
+EXPERIENCE
+* Wealth Management CRM Rollout — a leading wealth manager (2025-12 to present)
+  Built a CRM rollout for a leading wealth manager in wealth management using Process Improvement, JavaScript, Agile/Scrum and ServiceNow, improving conversion by 22%.
+* Manufacturing IoT Service Desk Automation — an APAC manufacturer (2025-05 to 2025-11)
+  Built a service desk automation for an APAC manufacturer in manufacturing IoT using Agile/Scrum, ServiceNow, Business Analysis and Process Improvement, reducing processing time by 35%.
+* Manufacturing IoT ERP Finance Rollout — a fast-growing manufacturer (2023-08 to 2025-02)
+  Scaled an ERP finance rollout for a fast-growing manufacturer in manufacturing IoT using Agile/Scrum, JavaScript and Process Improvement, reducing processing time by 25%.
+* Healthcare ERP Finance Rollout — a global hospital network (2022-12 to 2023-08)
+  Built an ERP finance rollout for a global hospital network in healthcare using JavaScript and Agile/Scrum, reducing processing time by 40%.
+
+CERTIFICATIONS
+- ServiceNow CSA (2026)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: SAP Consultant, Account Manager

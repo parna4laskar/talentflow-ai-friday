@@ -1,0 +1,32 @@
+VIKRAM BANERJEE
+Senior QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP12413
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.8 years of experience, based in Bengaluru. Strong in Python, Test Automation, Playwright and API Testing, with recent work in energy trading. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.5y)
+- Quality Engineering: Test Automation (Proficient, 5.9y), Playwright (Proficient, 7.5y), API Testing (Proficient, 4.1y)
+- Cloud & DevOps: CI/CD (Proficient, 4.0y), Platform Engineering (Proficient, 7.3y)
+- Delivery & Leadership: Communication (Proficient, 1.9y)
+
+EXPERIENCE
+* Energy Trading Test Automation Framework — a fast-growing energy company (2026-02 to present)
+  Built a test automation framework for a fast-growing energy company in energy trading using API Testing, Python, Test Automation and CI/CD, raising automated test coverage to 90%.
+* Energy Trading Test Automation Framework — a global energy company (2025-06 to 2026-01)
+  Designed a test automation framework for a global energy company in energy trading using CI/CD, Playwright and API Testing, raising automated test coverage to 90%.
+* Energy Trading API Contract-testing Suite — a US energy company (2024-09 to 2025-05)
+  Scaled an API contract-testing suite for a US energy company in energy trading using Platform Engineering, Python and Test Automation, reducing production incidents by 40%.
+* Manufacturing IoT API Contract-testing Suite — a leading manufacturer (2023-09 to 2024-08)
+  Designed an API contract-testing suite for a leading manufacturer in manufacturing IoT using Playwright and CI/CD, reducing production incidents by 12%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: QA Engineer, Backend Engineer, DevOps Engineer

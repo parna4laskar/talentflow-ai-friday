@@ -1,0 +1,29 @@
+ZOYA SHAH
+Senior QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP11502
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 9.8 years of experience, based in Pune. Strong in API Testing, Python, Test Automation and Playwright, with recent work in supply-chain logistics. Interested in moving towards Engineering Manager, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Advanced, 8.3y), Test Automation (Proficient, 0.9y), Playwright (Proficient, 5.3y), Performance Testing (Proficient, 6.2y), Selenium (Beginner, 1.1y)
+- Software Engineering: Python (Advanced, 5.5y), Go (Proficient, 1.3y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* Supply-chain Logistics Performance Engineering Programme — a US logistics company (2026-02 to present)
+  Designed a performance engineering programme for a US logistics company in supply-chain logistics using Python, Performance Testing, Go and Playwright, reducing production incidents by 25%.
+* Telecom Billing Test Automation Framework — an APAC telecom operator (2024-11 to 2026-01)
+  Automated a test automation framework for an APAC telecom operator in telecom billing using Selenium and Communication, accelerating releases by 22%.
+* HR Tech API Contract-testing Suite — a global HR software company (2023-08 to 2024-11)
+  Led the delivery of an API contract-testing suite for a global HR software company in HR tech using Python, Test Automation and Communication, raising automated test coverage to 70%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager, Full Stack Engineer

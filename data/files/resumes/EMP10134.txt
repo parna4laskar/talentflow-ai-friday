@@ -1,0 +1,34 @@
+AMARA SINGH
+Lead ML Engineer | AI Center of Excellence | Toronto, Canada
+Employee ID: EMP10134
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 12.1 years of experience, based in Toronto. Strong in Deep Learning, Python, Machine Learning and MLOps, with recent work in automotive. Interested in moving towards ML Engineer, Platform Engineer roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Data & AI: Deep Learning (Expert, 11.5y), Machine Learning (Proficient, 3.3y), MLOps (Proficient, 2.4y), NLP (Working, 4.9y), Vector Databases (Working, 1.5y)
+- Software Engineering: Python (Proficient, 9.0y)
+- Cloud & DevOps: Docker (Proficient, 8.9y), Kubernetes (Proficient, 2.5y)
+- Delivery & Leadership: Mentoring (Working, 1.5y)
+
+EXPERIENCE
+* Retail Banking Fraud Detection Model — a fast-growing retail bank (2025-08 to present)
+  Automated a fraud detection model for a fast-growing retail bank in retail banking using Machine Learning, Docker and Kubernetes, improving model accuracy by 18%.
+* E-commerce Fraud Detection Model — a fast-growing online retailer (2024-05 to 2025-07)
+  Scaled a fraud detection model for a fast-growing online retailer in e-commerce using Kubernetes, Docker and NLP, improving model accuracy by 18%.
+* Automotive Agentic Customer-service Assistant — an APAC car maker (2023-02 to 2024-04)
+  Modernised an agentic customer-service assistant for an APAC car maker in automotive using NLP, MLOps, Kubernetes and Machine Learning, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2021)
+- AWS ML Specialty (2023)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, Platform Engineer, DevOps Engineer

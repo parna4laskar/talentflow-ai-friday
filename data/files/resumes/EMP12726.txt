@@ -1,0 +1,27 @@
+DANIEL PATEL
+Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12726
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.5 years of experience, based in London. Strong in TypeScript, SQL, Angular and REST API Design, with recent work in HR tech. Interested in moving towards AI Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.9y), Angular (Working, 1.1y), REST API Design (Working, 0.7y), Next.js (Working, 0.6y), Node.js (Beginner, 0.4y), Microservices (Beginner, 0.6y)
+- Data & AI: SQL (Advanced, 0.6y), Databricks (Working, 0.5y)
+- Cloud & DevOps: AWS (Working, 1.1y)
+
+EXPERIENCE
+* HR Tech Customer Onboarding Platform — a fast-growing HR software company (2026-01 to present)
+  Migrated a customer onboarding platform for a fast-growing HR software company in HR tech using Microservices, Node.js and AWS, reducing processing time by 22%.
+* HR Tech Order Management System — a tier-1 HR software company (2024-08 to 2025-12)
+  Led the delivery of an order management system for a tier-1 HR software company in HR tech using Databricks, REST API Design and Node.js, reducing processing time by 22%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, Mobile Engineer

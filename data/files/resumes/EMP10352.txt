@@ -1,0 +1,31 @@
+SURESH BROWN
+Product Manager | Product | Gurugram, India
+Employee ID: EMP10352
+
+PROFESSIONAL SUMMARY
+Product Manager with 5.4 years of experience, based in Gurugram. Strong in Product Management, Roadmapping, Stakeholder Management and A/B Testing, with recent work in telecom billing. Interested in moving towards Product Manager, Scrum Master roles.
+
+CORE SKILLS
+- Product & Design: Product Management (Proficient, 3.1y), Roadmapping (Proficient, 1.3y), A/B Testing (Proficient, 3.7y), Product Strategy (Proficient, 2.1y), UX Research (Working, 2.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.0y), Communication (Proficient, 3.3y), Agile/Scrum (Working, 1.3y)
+- Data & AI: SQL (Working, 2.6y)
+
+EXPERIENCE
+* Insurance Claims AI-assisted Customer Journey — an APAC insurer (2026-09 to present)
+  Led discovery for an AI-assisted customer journey for an APAC insurer in insurance claims using Communication and SQL, saving ~35K hours annually.
+* Telecom Billing Mobile App Relaunch — a US telecom operator (2025-12 to 2026-08)
+  Owned a mobile app relaunch for a US telecom operator in telecom billing using Product Management, A/B Testing, Roadmapping and Stakeholder Management, lifting NPS by 12 points.
+* Airline Operations Mobile App Relaunch — an APAC airline (2025-03 to 2025-12)
+  Led discovery for a mobile app relaunch for an APAC airline in airline operations using Stakeholder Management, A/B Testing, Communication and Agile/Scrum, improving conversion by 40%.
+* Telecom Billing AI-assisted Customer Journey — a US telecom operator (2023-08 to 2025-02)
+  Launched an AI-assisted customer journey for a US telecom operator in telecom billing using Agile/Scrum, Product Strategy and UX Research, saving ~22K hours annually.
+
+EDUCATION
+- BSc Economics
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager, Scrum Master

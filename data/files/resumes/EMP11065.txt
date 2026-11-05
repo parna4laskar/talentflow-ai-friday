@@ -1,0 +1,29 @@
+AARAV GUPTA
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11065
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 9.8 years of experience, based in Bengaluru. Strong in Node.js, JavaScript, TypeScript and Figma, with recent work in automotive. Interested in moving towards Mobile Engineer, UX Designer roles and open to relocating to Toronto, Pune.
+
+CORE SKILLS
+- Software Engineering: Node.js (Expert, 5.9y), JavaScript (Advanced, 9.6y), TypeScript (Proficient, 0.9y), React (Working, 3.2y), Next.js (Working, 2.2y)
+- Product & Design: Figma (Proficient, 6.2y)
+- Quality Engineering: Playwright (Working, 1.8y)
+
+EXPERIENCE
+* Payments Payments Microservices Platform — a tier-1 payments provider (2026-08 to present)
+  Led the delivery of a payments microservices platform for a tier-1 payments provider in payments using Node.js, JavaScript and Playwright, reducing processing time by 40%.
+* Wealth Management Customer Onboarding Platform — a European wealth manager (2024-11 to 2026-05)
+  Migrated a customer onboarding platform for a European wealth manager in wealth management using Playwright and Node.js, reducing processing time by 40%.
+* Healthcare Claims Processing Engine — a fast-growing hospital network (2024-01 to 2024-09)
+  Scaled a claims processing engine for a fast-growing hospital network in healthcare using React and Figma, reducing processing time by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer, UX Designer, Full Stack Engineer

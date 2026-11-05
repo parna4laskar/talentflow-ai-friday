@@ -1,0 +1,28 @@
+GAURAV MEHTA
+Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11473
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.4 years of experience, based in Chennai. Strong in TypeScript, CI/CD, Design Systems and JavaScript, with recent work in e-commerce. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.4y), JavaScript (Working, 1.2y), Angular (Working, 0.6y)
+- Cloud & DevOps: CI/CD (Proficient, 0.9y), Kubernetes (Working, 0.9y)
+- Product & Design: Design Systems (Proficient, 0.5y), Figma (Working, 0.8y)
+- Quality Engineering: Playwright (Working, 0.9y)
+
+EXPERIENCE
+* E-commerce Pricing Engine — a US online retailer (2025-11 to present)
+  Automated a pricing engine for a US online retailer in e-commerce using TypeScript, Playwright and JavaScript, improving conversion by 30%.
+* E-commerce Self-service Portal — a US online retailer (2024-11 to 2025-10)
+  Led the delivery of a self-service portal for a US online retailer in e-commerce using Angular, TypeScript, Design Systems and Figma, saving ~35K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer

@@ -1,0 +1,31 @@
+PRASAD JOSHI
+Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11071
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.4 years of experience, based in Chennai. Strong in TypeScript, JavaScript, Angular and Playwright, with recent work in insurance claims. Interested in moving towards Mobile Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.3y), JavaScript (Proficient, 1.6y), Angular (Proficient, 1.3y), Next.js (Proficient, 1.1y), GraphQL (Working, 0.7y), Node.js (Working, 1.1y)
+- Quality Engineering: Playwright (Proficient, 0.6y)
+- Cloud & DevOps: CI/CD (Proficient, 1.6y)
+- Data & AI: Responsible AI (Proficient, 0.5y), Agentic AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Self-service Portal — a tier-1 manufacturer (2026-01 to present)
+  Designed a self-service portal for a tier-1 manufacturer in manufacturing IoT using Playwright, CI/CD and Node.js, lifting NPS by 35 points.
+* Healthcare Payments Microservices Platform — a tier-1 hospital network (2024-08 to 2025-12)
+  Built a payments microservices platform for a tier-1 hospital network in healthcare using GraphQL, TypeScript and CI/CD, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer, QA Engineer

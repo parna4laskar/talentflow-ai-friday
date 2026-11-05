@@ -1,0 +1,31 @@
+HARINI NG
+Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10950
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.7 years of experience, based in Pune. Strong in Azure, Linux Administration, Terraform and Platform Engineering, with recent work in automotive. Interested in moving towards Site Reliability Engineer roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Expert, 5.7y), Linux Administration (Advanced, 0.9y), Terraform (Proficient, 1.5y), Platform Engineering (Proficient, 3.4y), FinOps (Proficient, 0.7y), Kubernetes (Working, 0.6y), CI/CD (Working, 2.5y)
+- Data & AI: Responsible AI (Proficient, 1.9y)
+- Security: Cloud Security (Working, 2.2y)
+
+EXPERIENCE
+* Healthcare CI/CD Platform — a leading hospital network (2025-07 to present)
+  Modernised a CI/CD platform for a leading hospital network in healthcare using Cloud Security, Terraform, Responsible AI and FinOps, accelerating releases by 30%.
+* E-commerce Observability Stack — a fast-growing online retailer (2024-11 to 2025-04)
+  Re-architected an observability stack for a fast-growing online retailer in e-commerce using FinOps, Kubernetes, Linux Administration and Azure, accelerating releases by 40%.
+* Automotive Observability Stack — a US car maker (2023-06 to 2024-10)
+  Migrated an observability stack for a US car maker in automotive using Terraform and Linux Administration, reducing production incidents by 40%.
+* Automotive Observability Stack — a tier-1 car maker (2021-09 to 2023-03)
+  Led the delivery of an observability stack for a tier-1 car maker in automotive using Terraform, FinOps, Kubernetes and CI/CD, accelerating releases by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer

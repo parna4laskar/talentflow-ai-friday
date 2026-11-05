@@ -1,0 +1,33 @@
+MAJA LEWANDOWSKI
+Principal Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11884
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 22.7 years of experience, based in Kraków. Strong in Microservices, Java, REST API Design and SQL, with recent work in e-commerce. Interested in moving towards Full Stack Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 16.7y), Java (Advanced, 12.3y), REST API Design (Advanced, 8.2y), Kafka (Advanced, 11.7y), System Design (Advanced, 15.3y), .NET Core (Proficient, 4.8y)
+- Data & AI: SQL (Advanced, 20.6y)
+- Cloud & DevOps: CI/CD (Advanced, 22.2y), AWS (Proficient, 6.2y), FinOps (Proficient, 6.4y)
+- Delivery & Leadership: Mentoring (Proficient, 12.8y)
+
+EXPERIENCE
+* Payments Claims Processing Engine — a tier-1 payments provider (2026-09 to present)
+  Built a claims processing engine for a tier-1 payments provider in payments using .NET Core and Kafka, saving ~40K hours annually.
+* Manufacturing IoT Self-service Portal — a global manufacturer (2025-05 to 2026-09)
+  Designed a self-service portal for a global manufacturer in manufacturing IoT using Java, Kafka, FinOps and CI/CD, lifting NPS by 18 points.
+* E-commerce Self-service Portal — a global online retailer (2024-12 to 2025-05)
+  Modernised a self-service portal for a global online retailer in e-commerce using Kafka and AWS, lifting NPS by 30 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English, Kannada
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, DevOps Engineer

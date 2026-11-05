@@ -1,0 +1,33 @@
+NEHA SHAH
+Principal AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP10318
+
+PROFESSIONAL SUMMARY
+Principal AI Engineer with 22.9 years of experience, based in Hyderabad. Strong in Azure, Python, Generative AI and LLM Engineering, with recent work in e-commerce. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Azure (Expert, 21.2y)
+- Software Engineering: Python (Advanced, 1.2y)
+- Data & AI: Generative AI (Advanced, 12.4y), LLM Engineering (Advanced, 3.2y), Vector Databases (Advanced, 14.6y), Responsible AI (Advanced, 12.2y), Agentic AI (Advanced, 15.9y)
+- Delivery & Leadership: Mentoring (Advanced, 15.6y), Stakeholder Management (Advanced, 7.0y), People Leadership (Advanced, 4.2y)
+
+EXPERIENCE
+* E-commerce Document Intelligence Pipeline — a global online retailer (2026-01 to present)
+  Re-architected a document intelligence pipeline for a global online retailer in e-commerce using Vector Databases, Responsible AI, Python and Stakeholder Management, saving ~40K hours annually.
+* Pharma R&D Recommendation Engine — an APAC pharma company (2024-12 to 2025-12)
+  Designed a recommendation engine for an APAC pharma company in pharma R&D using Generative AI, Python and Stakeholder Management, improving conversion by 18%.
+* Automotive Fraud Detection Model — an APAC car maker (2023-07 to 2024-09)
+  Scaled a fraud detection model for an APAC car maker in automotive using Responsible AI, Vector Databases and Python, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2025)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer

@@ -1,0 +1,31 @@
+ANDREW WONG
+Data Engineer | Data & Analytics | New York, United States
+Employee ID: EMP10592
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5.5 years of experience, based in New York. Strong in Data Engineering, Airflow, SQL and Python, with recent work in manufacturing IoT. Interested in moving towards Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 2.9y), Airflow (Advanced, 4.6y), SQL (Proficient, 1.4y), Databricks (Working, 2.1y), dbt (Working, 1.9y), Agentic AI (Beginner, 0.4y)
+- Software Engineering: Python (Proficient, 2.2y)
+- Cloud & DevOps: AWS (Proficient, 0.9y)
+
+EXPERIENCE
+* Healthcare Executive KPI Dashboard Suite — a leading hospital network (2025-12 to present)
+  Scaled an executive KPI dashboard suite for a leading hospital network in healthcare using Airflow, Databricks and Agentic AI, saving ~25K hours annually.
+* Retail Banking Data Lakehouse — a US retail bank (2025-04 to 2025-09)
+  Modernised a data lakehouse for a US retail bank in retail banking using Python, Airflow and Databricks, cutting cloud spend by 30%.
+* Manufacturing IoT Regulatory Reporting Suite — an APAC manufacturer (2024-04 to 2025-02)
+  Modernised a regulatory reporting suite for an APAC manufacturer in manufacturing IoT using Airflow, SQL and dbt, reducing processing time by 40%.
+* Manufacturing IoT Data Lakehouse — a European manufacturer (2023-06 to 2024-02)
+  Migrated a data lakehouse for a European manufacturer in manufacturing IoT using dbt, Agentic AI, Data Engineering and Python, reducing processing time by 22%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst

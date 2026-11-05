@@ -1,0 +1,33 @@
+PARNA JOSHI
+Lead Software Architect | Engineering | Pune, India
+Employee ID: EMP11627
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 15.7 years of experience, based in Pune. Strong in Microservices, System Design, Java and GCP, with recent work in HR tech. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 3.6y), System Design (Advanced, 11.0y), Java (Advanced, 2.3y)
+- Cloud & DevOps: GCP (Advanced, 9.9y), Kubernetes (Working, 2.3y), AWS (Working, 6.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 10.7y), Mentoring (Proficient, 9.3y)
+- Security: Cloud Security (Advanced, 12.6y)
+
+EXPERIENCE
+* HR Tech Order Management System — an APAC HR software company (2026-06 to present)
+  Modernised an order management system for an APAC HR software company in HR tech using Kubernetes and Stakeholder Management, reducing processing time by 30%.
+* Wealth Management Customer Onboarding Platform — a US wealth manager (2025-12 to 2026-05)
+  Modernised a customer onboarding platform for a US wealth manager in wealth management using Cloud Security, System Design and GCP, lifting NPS by 30 points.
+* HR Tech Payments Microservices Platform — a fast-growing HR software company (2024-12 to 2025-11)
+  Automated a payments microservices platform for a fast-growing HR software company in HR tech using Kubernetes and Cloud Security, accelerating releases by 12%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Cloud Engineer

@@ -1,0 +1,31 @@
+RITESH IYER
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP11782
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 12.8 years of experience, based in Bengaluru. Strong in Agile/Scrum, Stakeholder Management, Communication and Python, with recent work in insurance claims. Interested in moving towards Engineering Manager, Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 3.0y), Stakeholder Management (Advanced, 6.7y), Communication (Advanced, 11.6y), People Leadership (Proficient, 9.6y), Mentoring (Working, 2.6y), Project Management (Working, 1.7y)
+- Software Engineering: Python (Advanced, 2.6y), System Design (Proficient, 4.0y), Java (Working, 2.1y)
+- Cloud & DevOps: AWS (Proficient, 7.6y)
+
+EXPERIENCE
+* Pharma R&D Payments Microservices Platform — a global pharma company (2025-06 to present)
+  Automated a payments microservices platform for a global pharma company in pharma R&D using System Design, Java, Mentoring and Communication, accelerating releases by 35%.
+* Automotive Claims Processing Engine — a leading car maker (2024-02 to 2025-04)
+  Re-architected a claims processing engine for a leading car maker in automotive using Communication, Agile/Scrum, Mentoring and Project Management, saving ~12K hours annually.
+* Automotive Pricing Engine — a tier-1 car maker (2023-07 to 2023-12)
+  Led the delivery of a pricing engine for a tier-1 car maker in automotive using System Design, AWS and Communication, reducing processing time by 35%.
+* Insurance Claims Claims Processing Engine — a leading insurer (2022-09 to 2023-06)
+  Built a claims processing engine for a leading insurer in insurance claims using Mentoring, Stakeholder Management, People Leadership and Communication, saving ~30K hours annually.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager, Software Architect

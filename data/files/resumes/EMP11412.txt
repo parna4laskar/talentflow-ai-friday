@@ -1,0 +1,32 @@
+CHARLOTTE WILSON
+Senior Risk & Compliance Analyst | Risk & Compliance | London, United Kingdom
+Employee ID: EMP11412
+
+PROFESSIONAL SUMMARY
+Senior Risk & Compliance Analyst with 8.1 years of experience, based in London. Strong in Data Governance, SQL, Communication and Risk Management, with recent work in wealth management. Interested in moving towards Data Engineer, SAP Consultant roles.
+
+CORE SKILLS
+- Data & AI: Data Governance (Proficient, 4.1y), SQL (Proficient, 3.4y)
+- Delivery & Leadership: Communication (Proficient, 3.6y)
+- Business & Finance: Risk Management (Working, 3.2y), Regulatory Compliance (Working, 3.6y)
+- Security: GRC (Working, 1.4y)
+
+EXPERIENCE
+* Wealth Management Regulatory Capital Reporting — a tier-1 wealth manager (2025-11 to present)
+  Led a regulatory capital reporting for a tier-1 wealth manager in wealth management using GRC, SQL and Risk Management, reducing processing time by 35%.
+* Wealth Management Cost Transformation Programme — a fast-growing wealth manager (2025-03 to 2025-10)
+  Built a cost transformation programme for a fast-growing wealth manager in wealth management using SQL, GRC and Data Governance, delivering $5M in cost savings.
+* Wealth Management Rolling Forecasting Model — an APAC wealth manager (2023-10 to 2024-12)
+  Led a rolling forecasting model for an APAC wealth manager in wealth management using SQL, Risk Management and Regulatory Compliance, improving forecast accuracy by 35%.
+* Wealth Management Cost Transformation Programme — a leading wealth manager (2023-01 to 2023-09)
+  Built a cost transformation programme for a leading wealth manager in wealth management using SQL and GRC, delivering $3M in cost savings.
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer, SAP Consultant, Security Analyst

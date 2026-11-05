@@ -1,0 +1,35 @@
+AVA WASHINGTON
+Senior Backend Engineer | Engineering | New York, United States
+Employee ID: EMP12862
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 9.3 years of experience, based in New York. Strong in Java, SQL, AWS and Communication, with recent work in telecom billing. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 1.6y), REST API Design (Proficient, 5.3y), Microservices (Proficient, 5.1y), GraphQL (Proficient, 0.8y), System Design (Working, 0.5y), Kafka (Working, 1.1y)
+- Data & AI: SQL (Advanced, 6.8y)
+- Cloud & DevOps: AWS (Advanced, 0.6y), Terraform (Proficient, 2.7y)
+- Delivery & Leadership: Communication (Advanced, 4.9y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — a tier-1 hospital network (2025-07 to present)
+  Modernised a mobile banking app for a tier-1 hospital network in healthcare using Microservices and System Design, lifting NPS by 12 points.
+* Telecom Billing Mobile Banking App — a leading telecom operator (2024-02 to 2025-06)
+  Migrated a mobile banking app for a leading telecom operator in telecom billing using Communication and Kafka, improving conversion by 35%.
+* Manufacturing IoT Pricing Engine — a European manufacturer (2022-07 to 2023-12)
+  Scaled a pricing engine for a European manufacturer in manufacturing IoT using System Design, REST API Design, GraphQL and Terraform, improving conversion by 35%.
+* Airline Operations Pricing Engine — a global airline (2021-03 to 2022-05)
+  Re-architected a pricing engine for a global airline in airline operations using System Design, SQL, REST API Design and Microservices, improving conversion by 22%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, Full Stack Engineer, DevOps Engineer, Engineering Manager

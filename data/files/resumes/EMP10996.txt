@@ -1,0 +1,27 @@
+ANANYA NAIDU
+Cloud Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10996
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.9 years of experience, based in Hyderabad. Strong in Terraform, Linux Administration, GCP and FinOps, with recent work in supply-chain logistics. Interested in moving towards Cloud Engineer, Platform Engineer roles and open to relocating to Kraków, New York, Gurugram.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 1.8y), Linux Administration (Advanced, 1.6y), GCP (Proficient, 1.7y), FinOps (Proficient, 0.9y), Kubernetes (Proficient, 1.0y), CI/CD (Working, 1.2y)
+- Software Engineering: Python (Working, 1.1y)
+- Security: Cloud Security (Working, 0.4y)
+
+EXPERIENCE
+* Supply-chain Logistics Kubernetes Platform — an APAC logistics company (2026-05 to present)
+  Built a Kubernetes platform for an APAC logistics company in supply-chain logistics using CI/CD, GCP, Python and Kubernetes, accelerating releases by 30%.
+* Supply-chain Logistics Cloud Landing Zone — a global logistics company (2025-04 to 2026-04)
+  Designed a cloud landing zone for a global logistics company in supply-chain logistics using Kubernetes and GCP, cutting cloud spend by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Cloud Engineer, Platform Engineer, Software Architect

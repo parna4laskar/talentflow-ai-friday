@@ -1,0 +1,32 @@
+MICHAŁ WÓJCIK
+Senior QA Engineer | Quality Engineering | Kraków, Poland
+Employee ID: EMP10689
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 5.9 years of experience, based in Kraków. Strong in Playwright, API Testing, Test Automation and Agile/Scrum, with recent work in airline operations. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Advanced, 3.4y), API Testing (Advanced, 2.7y), Test Automation (Proficient, 4.1y), Performance Testing (Proficient, 3.0y), Selenium (Proficient, 1.1y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 2.9y)
+- Data & AI: Databricks (Working, 2.8y)
+
+EXPERIENCE
+* E-commerce Test Automation Framework — a European online retailer (2025-10 to present)
+  Built a test automation framework for a European online retailer in e-commerce using API Testing, Databricks and Playwright, accelerating releases by 35%.
+* HR Tech API Contract-testing Suite — an APAC HR software company (2025-02 to 2025-08)
+  Designed an API contract-testing suite for an APAC HR software company in HR tech using Selenium, Performance Testing, API Testing and Agile/Scrum, reducing production incidents by 40%.
+* Airline Operations API Contract-testing Suite — a US airline (2023-07 to 2024-12)
+  Re-architected an API contract-testing suite for a US airline in airline operations using Test Automation, Performance Testing, Databricks and API Testing, raising automated test coverage to 80%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+Polish, English, Arabic
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer

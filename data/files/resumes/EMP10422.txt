@@ -1,0 +1,29 @@
+OWEN SINGH
+Associate Data Analyst | Data & Analytics | Toronto, Canada
+Employee ID: EMP10422
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 2.3 years of experience, based in Toronto. Strong in SQL, Data Visualization, Power BI and Communication, with recent work in pharma R&D. Interested in moving towards Data Scientist, Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.6y), Data Visualization (Proficient, 1.6y), Power BI (Proficient, 1.5y), Statistics (Working, 1.1y), dbt (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Proficient, 1.4y), Stakeholder Management (Beginner, 0.5y)
+
+EXPERIENCE
+* Pharma R&D Executive KPI Dashboard Suite — a leading pharma company (2026-09 to present)
+  Designed an executive KPI dashboard suite for a leading pharma company in pharma R&D using Stakeholder Management, Power BI, Statistics and Communication, saving ~22K hours annually.
+* Pharma R&D Data Lakehouse — a global pharma company (2025-04 to 2026-06)
+  Automated a data lakehouse for a global pharma company in pharma R&D using SQL and dbt, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, Business Analyst

@@ -1,0 +1,35 @@
+PRANAV DAS
+Senior QA Engineer | Quality Engineering | Chennai, India
+Employee ID: EMP11407
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 7.7 years of experience, based in Chennai. Strong in Test Automation, API Testing, Java and Playwright, with recent work in telecom billing. Interested in moving towards QA Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 6.0y), API Testing (Advanced, 4.5y), Playwright (Proficient, 0.8y)
+- Software Engineering: Java (Advanced, 2.5y)
+- Data & AI: SQL (Proficient, 0.6y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 4.6y), Communication (Proficient, 2.6y)
+
+EXPERIENCE
+* Pharma R&D Test Automation Framework — a tier-1 pharma company (2026-12 to present)
+  Built a test automation framework for a tier-1 pharma company in pharma R&D using Test Automation, API Testing and Playwright, accelerating releases by 30%.
+* Public Sector Test Automation Framework — a global government agency (2025-08 to 2026-12)
+  Modernised a test automation framework for a global government agency in public sector using Test Automation, Java and Communication, raising automated test coverage to 90%.
+* Telecom Billing Performance Engineering Programme — a tier-1 telecom operator (2024-12 to 2025-07)
+  Led the delivery of a performance engineering programme for a tier-1 telecom operator in telecom billing using SQL, Java and Playwright, reducing production incidents by 18%.
+* Telecom Billing Test Automation Framework — a European telecom operator (2023-07 to 2024-11)
+  Built a test automation framework for a European telecom operator in telecom billing using Java and Agile/Scrum, raising automated test coverage to 85%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2025)
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer, Full Stack Engineer

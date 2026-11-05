@@ -1,0 +1,33 @@
+HUI MIN CHUA
+Lead Software Architect | Engineering | Singapore, Singapore
+Employee ID: EMP12343
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 13 years of experience, based in Singapore. Strong in Microservices, C#, System Design and REST API Design, with recent work in insurance claims. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 9.4y), C# (Expert, 3.6y), System Design (Advanced, 6.3y), REST API Design (Advanced, 2.6y), Kafka (Proficient, 2.4y)
+- Cloud & DevOps: AWS (Proficient, 7.2y), Kubernetes (Proficient, 7.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 9.1y), Mentoring (Proficient, 5.8y)
+- Security: Cloud Security (Proficient, 1.2y)
+- Data & AI: Agentic AI (Proficient, 8.5y)
+
+EXPERIENCE
+* Wealth Management Self-service Portal — an APAC wealth manager (2026-02 to present)
+  Migrated a self-service portal for an APAC wealth manager in wealth management using Kubernetes, Stakeholder Management and REST API Design, lifting NPS by 12 points.
+* Insurance Claims Pricing Engine — a tier-1 insurer (2024-10 to 2025-12)
+  Scaled a pricing engine for a tier-1 insurer in insurance claims using AWS, Cloud Security and Mentoring, improving conversion by 18%.
+* Wealth Management Payments Microservices Platform — a fast-growing wealth manager (2023-03 to 2024-08)
+  Automated a payments microservices platform for a fast-growing wealth manager in wealth management using Mentoring, AWS, Kafka and Stakeholder Management, reducing processing time by 30%.
+* Insurance Claims Order Management System — an APAC insurer (2021-08 to 2023-02)
+  Modernised an order management system for an APAC insurer in insurance claims using Microservices, System Design and AWS, reducing processing time by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Mandarin, German
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Backend Engineer

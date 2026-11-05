@@ -1,0 +1,32 @@
+NAVEEN GOKHALE
+Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11132
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.3 years of experience, based in Hyderabad. Strong in React, Python, TypeScript and SQL, with recent work in e-commerce. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 3.4y), Python (Advanced, 1.5y), TypeScript (Proficient, 0.5y), REST API Design (Working, 1.4y)
+- Data & AI: SQL (Proficient, 0.7y)
+- Cloud & DevOps: AWS (Working, 1.3y), Docker (Working, 0.6y)
+
+EXPERIENCE
+* Telecom Billing Claims Processing Engine — a US telecom operator (2026-01 to present)
+  Designed a claims processing engine for a US telecom operator in telecom billing using AWS, React and Python, saving ~22K hours annually.
+* E-commerce Self-service Portal — a European online retailer (2024-10 to 2025-11)
+  Migrated a self-service portal for a European online retailer in e-commerce using React, Python and AWS, saving ~18K hours annually.
+* E-commerce Order Management System — a fast-growing online retailer (2023-09 to 2024-09)
+  Re-architected an order management system for a fast-growing online retailer in e-commerce using Docker, AWS, REST API Design and SQL, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer

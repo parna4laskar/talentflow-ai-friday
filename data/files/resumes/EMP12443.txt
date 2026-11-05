@@ -1,0 +1,34 @@
+CHLOE WALKER
+Principal QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP12443
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 22.6 years of experience, based in London. Strong in Test Automation, Playwright, Java and Performance Testing, with recent work in payments. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 2.6y), Playwright (Advanced, 17.4y), Performance Testing (Advanced, 17.6y), API Testing (Proficient, 10.7y)
+- Software Engineering: Java (Advanced, 3.6y), Python (Advanced, 10.0y)
+- Data & AI: Snowflake (Advanced, 18.7y), SQL (Proficient, 7.8y)
+- Cloud & DevOps: CI/CD (Proficient, 5.6y)
+- Delivery & Leadership: People Leadership (Proficient, 1.9y)
+
+EXPERIENCE
+* Payments API Contract-testing Suite — a leading payments provider (2026-09 to present)
+  Scaled an API contract-testing suite for a leading payments provider in payments using Snowflake, Java, Python and SQL, reducing production incidents by 30%.
+* Payments Test Automation Framework — a European payments provider (2025-04 to 2026-07)
+  Designed a test automation framework for a European payments provider in payments using Performance Testing, API Testing, Python and Java, accelerating releases by 18%.
+* Payments API Contract-testing Suite — a global payments provider (2024-03 to 2025-02)
+  Led the delivery of an API contract-testing suite for a global payments provider in payments using SQL, Python and API Testing, reducing production incidents by 22%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: QA Engineer, Backend Engineer

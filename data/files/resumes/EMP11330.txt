@@ -1,0 +1,33 @@
+SIDDHARTH HUGHES
+Principal Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11330
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 14.7 years of experience, based in Pune. Strong in SQL, Spring Boot, C# and REST API Design, with recent work in energy trading. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 14.7y)
+- Software Engineering: Spring Boot (Expert, 6.8y), C# (Advanced, 4.3y), REST API Design (Advanced, 12.8y), Microservices (Advanced, 9.2y), .NET Core (Advanced, 14.0y)
+- Delivery & Leadership: People Leadership (Expert, 5.8y), Mentoring (Advanced, 10.7y), Communication (Advanced, 14.2y)
+- Cloud & DevOps: AWS (Advanced, 1.0y), Docker (Working, 6.9y)
+
+EXPERIENCE
+* Energy Trading Mobile Banking App — an APAC energy company (2025-11 to present)
+  Automated a mobile banking app for an APAC energy company in energy trading using AWS, Mentoring and Communication, improving conversion by 18%.
+* Energy Trading Claims Processing Engine — a US energy company (2024-10 to 2025-08)
+  Automated a claims processing engine for a US energy company in energy trading using Mentoring, SQL, REST API Design and C#, reducing processing time by 30%.
+* Wealth Management Self-service Portal — a global wealth manager (2023-04 to 2024-07)
+  Scaled a self-service portal for a global wealth manager in wealth management using Docker, Microservices, Communication and AWS, lifting NPS by 18 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Engineering Manager, AI Engineer

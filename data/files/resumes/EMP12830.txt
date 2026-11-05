@@ -1,0 +1,32 @@
+SHREYA KHAN
+Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP12830
+
+PROFESSIONAL SUMMARY
+Data Analyst with 3 years of experience, based in Hyderabad. Strong in Data Visualization, SQL, Tableau and Statistics, with recent work in wealth management. Interested in moving towards Data Scientist, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 2.2y), SQL (Proficient, 1.5y), Tableau (Proficient, 1.1y), Statistics (Proficient, 1.8y), Snowflake (Working, 0.7y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.9y), Communication (Working, 0.7y)
+- Product & Design: UX Research (Proficient, 0.6y), A/B Testing (Working, 0.6y)
+- Software Engineering: Python (Working, 1.1y)
+
+EXPERIENCE
+* Wealth Management Customer Churn Model — an APAC wealth manager (2026-01 to present)
+  Re-architected a customer churn model for an APAC wealth manager in wealth management using Snowflake, Data Visualization and Statistics, improving conversion by 22%.
+* Healthcare Customer Churn Model — a European hospital network (2025-02 to 2025-12)
+  Built a customer churn model for a European hospital network in healthcare using Tableau and Statistics, improving model accuracy by 40%.
+* Wealth Management Customer Churn Model — a tier-1 wealth manager (2023-08 to 2025-02)
+  Migrated a customer churn model for a tier-1 wealth manager in wealth management using SQL, Data Visualization, UX Research and Communication, improving model accuracy by 30%.
+* Wealth Management Customer Churn Model — a US wealth manager (2022-08 to 2023-07)
+  Built a customer churn model for a US wealth manager in wealth management using Statistics, SQL and Communication, improving conversion by 18%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, Financial Analyst, Business Analyst

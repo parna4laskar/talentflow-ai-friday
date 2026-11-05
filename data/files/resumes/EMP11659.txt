@@ -1,0 +1,29 @@
+KAVYA BHAT
+Associate DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11659
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.8 years of experience, based in Pune. Strong in Kubernetes, GCP, CI/CD and Docker, with recent work in automotive. Interested in moving towards Platform Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Proficient, 1.8y), GCP (Proficient, 1.0y), CI/CD (Working, 0.6y), Docker (Working, 0.8y)
+- Software Engineering: Python (Working, 0.5y), Go (Working, 0.6y)
+
+EXPERIENCE
+* Automotive Kubernetes Platform — a global car maker (2026-08 to present)
+  Migrated a Kubernetes platform for a global car maker in automotive using Go and CI/CD, accelerating releases by 25%.
+* Energy Trading Cloud Landing Zone — a global energy company (2025-10 to 2026-07)
+  Automated a cloud landing zone for a global energy company in energy trading using Python, Kubernetes, CI/CD and Docker, accelerating releases by 40%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Platform Engineer

@@ -1,0 +1,35 @@
+CHLOÉ SINGH
+Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP13000
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.7 years of experience, based in Toronto. Strong in SQL, Microservices, Java and GraphQL, with recent work in retail banking. Interested in moving towards Backend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 5.6y)
+- Software Engineering: Microservices (Advanced, 4.3y), Java (Proficient, 3.4y), GraphQL (Proficient, 3.1y), REST API Design (Working, 1.0y), Spring Boot (Working, 0.9y)
+- Cloud & DevOps: CI/CD (Proficient, 1.1y), AWS (Proficient, 0.8y)
+- Delivery & Leadership: Communication (Proficient, 1.5y)
+
+EXPERIENCE
+* Manufacturing IoT Pricing Engine — a leading manufacturer (2025-08 to present)
+  Automated a pricing engine for a leading manufacturer in manufacturing IoT using CI/CD, REST API Design and SQL, reducing processing time by 12%.
+* Retail Banking Pricing Engine — a US retail bank (2024-07 to 2025-05)
+  Designed a pricing engine for a US retail bank in retail banking using SQL, CI/CD and Microservices, reducing processing time by 30%.
+* Retail Banking Mobile Banking App — a European retail bank (2023-10 to 2024-05)
+  Led the delivery of a mobile banking app for a European retail bank in retail banking using SQL and Microservices, improving conversion by 25%.
+* Retail Banking Pricing Engine — a US retail bank (2022-04 to 2023-09)
+  Designed a pricing engine for a US retail bank in retail banking using GraphQL, AWS and Java, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Software Architect, DevOps Engineer, AI Engineer

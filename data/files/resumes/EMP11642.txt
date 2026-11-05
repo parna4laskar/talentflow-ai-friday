@@ -1,0 +1,33 @@
+MICHAŁ LEWANDOWSKI
+DevOps Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11642
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.7 years of experience, based in Kraków. Strong in Terraform, Docker, Kubernetes and CI/CD, with recent work in e-commerce. Interested in moving towards Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 2.1y), Docker (Proficient, 3.4y), Kubernetes (Proficient, 3.0y), CI/CD (Working, 0.6y), AWS (Working, 2.1y), Observability (Beginner, 0.7y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+
+EXPERIENCE
+* Airline Operations Kubernetes Platform — a global airline (2025-11 to present)
+  Re-architected a Kubernetes platform for a global airline in airline operations using CI/CD, Docker, Communication and Kubernetes, accelerating releases by 35%.
+* E-commerce Cloud Landing Zone — a global online retailer (2024-10 to 2025-10)
+  Scaled a cloud landing zone for a global online retailer in e-commerce using AWS, Observability and Kubernetes, cutting cloud spend by 25%.
+* Insurance Claims CI/CD Platform — an APAC insurer (2024-01 to 2024-09)
+  Led the delivery of a CI/CD platform for an APAC insurer in insurance claims using Terraform and Docker, accelerating releases by 30%.
+* Airline Operations Cloud Landing Zone — a fast-growing airline (2023-04 to 2023-11)
+  Designed a cloud landing zone for a fast-growing airline in airline operations using Communication and Observability, accelerating releases by 22%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Site Reliability Engineer

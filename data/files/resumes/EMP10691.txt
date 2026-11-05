@@ -1,0 +1,28 @@
+KAI WEN WONG
+Associate ML Engineer | AI Center of Excellence | Singapore, Singapore
+Employee ID: EMP10691
+
+PROFESSIONAL SUMMARY
+Associate ML Engineer with 0.3 years of experience, based in Singapore. Strong in Python, Deep Learning, Databricks and Vector Databases, with recent work in pharma R&D. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.3y)
+- Data & AI: Deep Learning (Proficient, 0.4y), Databricks (Proficient, 0.3y), Vector Databases (Proficient, 0.3y), Machine Learning (Working, 0.3y), MLOps (Working, 0.3y), NLP (Beginner, 0.3y)
+- Cloud & DevOps: Docker (Working, 0.3y), Kubernetes (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Knowledge Assistant (RAG) — a tier-1 logistics company (2026-03 to present)
+  Designed a knowledge assistant (RAG) for a tier-1 logistics company in supply-chain logistics using Vector Databases and Communication, lifting NPS by 18 points.
+* Insurance Claims Document Intelligence Pipeline — a leading insurer (2024-11 to 2026-01)
+  Scaled a document intelligence pipeline for a leading insurer in insurance claims using Python, MLOps and Machine Learning, saving ~35K hours annually.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: ML Engineer, AI Engineer, Platform Engineer, Data Scientist

@@ -1,0 +1,30 @@
+ARVIND KRISHNAN
+Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12514
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.7 years of experience, based in Pune. Strong in Data Engineering, SQL, Python and Airflow, with recent work in HR tech. Interested in moving towards Backend Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Advanced, 2.0y), SQL (Proficient, 1.8y), Airflow (Proficient, 1.6y), dbt (Working, 0.3y), LLM Engineering (Working, 0.8y)
+- Software Engineering: Python (Proficient, 1.2y), Kafka (Proficient, 0.6y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* HR Tech Regulatory Reporting Suite — a US HR software company (2026-05 to present)
+  Re-architected a regulatory reporting suite for a US HR software company in HR tech using dbt, LLM Engineering and Communication, saving ~12K hours annually.
+* Airline Operations Customer Churn Model — an APAC airline (2024-11 to 2026-04)
+  Automated a customer churn model for an APAC airline in airline operations using Communication and SQL, improving conversion by 12%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Data Analyst

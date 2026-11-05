@@ -1,0 +1,29 @@
+CONOR O'SULLIVAN
+Data Scientist | Data & Analytics | Dublin, Ireland
+Employee ID: EMP10968
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3.4 years of experience, based in Dublin. Strong in Statistics, Python, Apache Spark and LLM Engineering, with recent work in airline operations. Interested in moving towards AI Engineer, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 2.7y), Apache Spark (Proficient, 0.8y), LLM Engineering (Proficient, 1.7y), Machine Learning (Working, 1.6y), SQL (Working, 1.6y), NLP (Beginner, 0.6y)
+- Software Engineering: Python (Proficient, 0.4y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+
+EXPERIENCE
+* Airline Operations Data Lakehouse — a global airline (2026-06 to present)
+  Designed a data lakehouse for a global airline in airline operations using Apache Spark, Python, Machine Learning and SQL, reducing processing time by 18%.
+* Airline Operations Executive KPI Dashboard Suite — a US airline (2025-12 to 2026-05)
+  Modernised an executive KPI dashboard suite for a US airline in airline operations using NLP, Machine Learning and Python, improving forecast accuracy by 12%.
+* Airline Operations Customer Churn Model — a tier-1 airline (2025-02 to 2025-11)
+  Modernised a customer churn model for a tier-1 airline in airline operations using NLP, Statistics, Python and Communication, improving model accuracy by 22%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Product Manager

@@ -1,0 +1,30 @@
+NIKHIL BHAT
+Senior DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP10290
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 10.9 years of experience, based in Hyderabad. Strong in Docker, Kubernetes, GCP and Go, with recent work in automotive. Interested in moving towards DevOps Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 1.6y), Kubernetes (Advanced, 2.0y), GCP (Advanced, 4.7y), Terraform (Proficient, 1.5y), Linux Administration (Proficient, 7.1y), CI/CD (Working, 1.0y), Observability (Working, 3.5y)
+- Software Engineering: Go (Proficient, 2.6y), Python (Working, 4.1y)
+
+EXPERIENCE
+* Automotive Kubernetes Platform — a global car maker (2025-11 to present)
+  Designed a Kubernetes platform for a global car maker in automotive using Python, Linux Administration, CI/CD and Go, reducing production incidents by 22%.
+* Automotive CI/CD Platform — an APAC car maker (2025-04 to 2025-09)
+  Modernised a CI/CD platform for an APAC car maker in automotive using Go, GCP and Docker, accelerating releases by 22%.
+* Pharma R&D Cloud Landing Zone — a leading pharma company (2023-10 to 2025-04)
+  Migrated a cloud landing zone for a leading pharma company in pharma R&D using Go and CI/CD, cutting cloud spend by 22%.
+* Automotive Data-centre Exit To Cloud — a global car maker (2022-05 to 2023-09)
+  Automated a data-centre exit to cloud for a global car maker in automotive using Observability and Terraform, delivering $4M in cost savings.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, Cloud Engineer

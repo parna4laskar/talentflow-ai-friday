@@ -1,0 +1,32 @@
+NEHA KAPOOR
+Lead Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP12822
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 15.8 years of experience, based in Hyderabad. Strong in SQL, Data Visualization, Tableau and Business Analysis, with recent work in healthcare. Interested in moving towards Product Manager, Data Scientist roles and open to relocating to Pune.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 4.1y), Data Visualization (Expert, 13.2y), Tableau (Advanced, 1.2y), Snowflake (Proficient, 1.4y), Power BI (Proficient, 2.5y), Statistics (Working, 2.7y), Generative AI (Working, 5.7y)
+- Business & Finance: Business Analysis (Advanced, 9.6y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 11.4y), Mentoring (Working, 4.7y)
+
+EXPERIENCE
+* Healthcare Customer Churn Model — a fast-growing hospital network (2025-06 to present)
+  Migrated a customer churn model for a fast-growing hospital network in healthcare using Statistics and Generative AI, improving conversion by 12%.
+* Healthcare Executive KPI Dashboard Suite — a European hospital network (2024-11 to 2025-04)
+  Scaled an executive KPI dashboard suite for a European hospital network in healthcare using Power BI, SQL, Business Analysis and Generative AI, improving forecast accuracy by 40%.
+* Telecom Billing Data Lakehouse — a US telecom operator (2023-07 to 2024-09)
+  Designed a data lakehouse for a US telecom operator in telecom billing using SQL and Business Analysis, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2023)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Product Manager, Data Scientist

@@ -1,0 +1,30 @@
+LUCAS KUMAR
+Site Reliability Engineer | Cloud & Infrastructure | Toronto, Canada
+Employee ID: EMP12773
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 4.9 years of experience, based in Toronto. Strong in Performance Testing, Observability, Kubernetes and Terraform, with recent work in HR tech. Interested in moving towards Cloud Engineer, Security Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Performance Testing (Advanced, 3.2y)
+- Cloud & DevOps: Observability (Proficient, 3.0y), Kubernetes (Proficient, 1.1y), Terraform (Proficient, 2.8y), Site Reliability Engineering (Working, 2.0y), Linux Administration (Working, 2.4y), CI/CD (Working, 0.8y)
+- Software Engineering: Go (Proficient, 0.7y), Python (Working, 1.1y)
+- Data & AI: Agentic AI (Proficient, 1.5y)
+
+EXPERIENCE
+* HR Tech Cloud Landing Zone — a global HR software company (2025-10 to present)
+  Led the delivery of a cloud landing zone for a global HR software company in HR tech using Kubernetes and Observability, cutting cloud spend by 30%.
+* HR Tech Data-centre Exit To Cloud — a fast-growing HR software company (2024-03 to 2025-08)
+  Scaled a data-centre exit to cloud for a fast-growing HR software company in HR tech using Performance Testing, Kubernetes and CI/CD, cutting cloud spend by 40%.
+* HR Tech Data-centre Exit To Cloud — a tier-1 HR software company (2023-02 to 2024-03)
+  Modernised a data-centre exit to cloud for a tier-1 HR software company in HR tech using CI/CD and Site Reliability Engineering, delivering $6M in cost savings.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer, Security Engineer

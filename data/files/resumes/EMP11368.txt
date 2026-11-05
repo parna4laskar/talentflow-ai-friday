@@ -1,0 +1,31 @@
+MADISON PATEL
+Associate Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP11368
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.4 years of experience, based in Austin. Strong in Python, REST API Design, GraphQL and Spring Boot, with recent work in retail banking. Interested in moving towards DevOps Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 1.6y), REST API Design (Proficient, 1.6y), GraphQL (Proficient, 0.6y), Spring Boot (Proficient, 1.1y), Microservices (Working, 0.7y), System Design (Working, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+- Data & AI: SQL (Working, 0.9y)
+- Cloud & DevOps: CI/CD (Working, 0.9y), Kubernetes (Beginner, 0.4y)
+
+EXPERIENCE
+* Retail Banking Claims Processing Engine — a leading retail bank (2025-11 to present)
+  Scaled a claims processing engine for a leading retail bank in retail banking using Python, Microservices, Kubernetes and Spring Boot, saving ~12K hours annually.
+* Wealth Management Claims Processing Engine — a US wealth manager (2025-02 to 2025-09)
+  Re-architected a claims processing engine for a US wealth manager in wealth management using SQL, REST API Design and CI/CD, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2024)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, Software Architect, Engineering Manager

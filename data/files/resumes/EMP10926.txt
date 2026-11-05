@@ -1,0 +1,32 @@
+TANVI HEGDE
+Data Scientist | Data & Analytics | Hyderabad, India
+Employee ID: EMP10926
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5.8 years of experience, based in Hyderabad. Strong in Python, Machine Learning, Statistics and SQL, with recent work in retail banking. Interested in moving towards Data Scientist, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 3.1y)
+- Data & AI: Machine Learning (Proficient, 1.1y), Statistics (Proficient, 2.6y), SQL (Proficient, 3.3y), Deep Learning (Proficient, 4.3y), NLP (Working, 1.3y), Apache Spark (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.4y)
+
+EXPERIENCE
+* Retail Banking Regulatory Reporting Suite — a fast-growing retail bank (2026-05 to present)
+  Modernised a regulatory reporting suite for a fast-growing retail bank in retail banking using Communication, Statistics and Machine Learning, reducing processing time by 40%.
+* Retail Banking Customer Churn Model — an APAC retail bank (2025-07 to 2026-04)
+  Led the delivery of a customer churn model for an APAC retail bank in retail banking using Statistics, Communication, NLP and Apache Spark, improving model accuracy by 22%.
+* Pharma R&D Customer Churn Model — a European pharma company (2024-01 to 2025-05)
+  Migrated a customer churn model for a European pharma company in pharma R&D using SQL and Deep Learning, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Scientist, Data Analyst

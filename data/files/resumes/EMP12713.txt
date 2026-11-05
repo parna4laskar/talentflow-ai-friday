@@ -1,0 +1,33 @@
+HUI MIN NG
+Lead AI Engineer | AI Center of Excellence | Singapore, Singapore
+Employee ID: EMP12713
+
+PROFESSIONAL SUMMARY
+Lead AI Engineer with 8.6 years of experience, based in Singapore. Strong in Python, Agentic AI, Azure and Communication, with recent work in insurance claims. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 4.0y)
+- Data & AI: Agentic AI (Advanced, 5.0y), Generative AI (Proficient, 0.9y), LLM Engineering (Proficient, 0.4y), NLP (Proficient, 6.2y), Responsible AI (Proficient, 1.7y), Databricks (Proficient, 2.8y)
+- Cloud & DevOps: Azure (Advanced, 0.8y), Docker (Proficient, 2.3y)
+- Delivery & Leadership: Communication (Advanced, 6.1y), Mentoring (Proficient, 5.8y)
+
+EXPERIENCE
+* Supply-chain Logistics Fraud Detection Model — a leading logistics company (2026-01 to present)
+  Scaled a fraud detection model for a leading logistics company in supply-chain logistics using Communication, Python and Databricks, reducing processing time by 18%.
+* Insurance Claims Knowledge Assistant (RAG) — an APAC insurer (2025-05 to 2025-11)
+  Modernised a knowledge assistant (RAG) for an APAC insurer in insurance claims using Azure and Docker, saving ~35K hours annually.
+* Automotive Fraud Detection Model — a US car maker (2024-10 to 2025-04)
+  Led the delivery of a fraud detection model for a US car maker in automotive using Mentoring, NLP, Python and Generative AI, improving model accuracy by 22%.
+
+CERTIFICATIONS
+- Google Generative AI Leader (2026)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer

@@ -1,0 +1,33 @@
+SANJANA BHAT
+Senior CRM Consultant | Enterprise Applications | Chennai, India
+Employee ID: EMP10580
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 6.3 years of experience, based in Chennai. Strong in Salesforce, Business Analysis, Requirements Gathering and Agile/Scrum, with recent work in automotive. Interested in moving towards SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 5.1y), Business Analysis (Proficient, 1.2y), Requirements Gathering (Proficient, 1.6y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.5y)
+- Software Engineering: JavaScript (Proficient, 2.1y)
+
+EXPERIENCE
+* Automotive ERP Finance Rollout — a fast-growing car maker (2025-05 to present)
+  Automated an ERP finance rollout for a fast-growing car maker in automotive using Agile/Scrum and JavaScript, reducing processing time by 18%.
+* Automotive Service Desk Automation — a tier-1 car maker (2024-06 to 2025-03)
+  Modernised a service desk automation for a tier-1 car maker in automotive using Requirements Gathering and JavaScript, reducing processing time by 18%.
+* Automotive Service Desk Automation — a European car maker (2023-08 to 2024-05)
+  Modernised a service desk automation for a European car maker in automotive using Business Analysis, Salesforce and JavaScript, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2026)
+- ServiceNow CSA (2021)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: SAP Consultant

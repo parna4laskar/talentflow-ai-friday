@@ -1,0 +1,29 @@
+MANISH SHARMA
+Lead Site Reliability Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12340
+
+PROFESSIONAL SUMMARY
+Lead Site Reliability Engineer with 12.3 years of experience, based in Chennai. Strong in Kubernetes, Mentoring, Stakeholder Management and Site Reliability Engineering, with recent work in insurance claims. Interested in moving towards Site Reliability Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 12.3y), Site Reliability Engineering (Advanced, 4.0y), Observability (Advanced, 2.7y), Linux Administration (Advanced, 10.1y), AWS (Working, 5.8y)
+- Delivery & Leadership: Mentoring (Expert, 2.4y), Stakeholder Management (Expert, 4.6y)
+- Quality Engineering: Performance Testing (Proficient, 4.1y)
+
+EXPERIENCE
+* Telecom Billing CI/CD Platform — a leading telecom operator (2026-06 to present)
+  Scaled a CI/CD platform for a leading telecom operator in telecom billing using Site Reliability Engineering and Observability, accelerating releases by 35%.
+* Public Sector Data-centre Exit To Cloud — a European government agency (2025-07 to 2026-04)
+  Re-architected a data-centre exit to cloud for a European government agency in public sector using AWS, Performance Testing and Kubernetes, delivering $2M in cost savings.
+* Insurance Claims CI/CD Platform — an APAC insurer (2024-10 to 2025-04)
+  Re-architected a CI/CD platform for an APAC insurer in insurance claims using Performance Testing, Linux Administration and Mentoring, accelerating releases by 25%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, DevOps Engineer, Cloud Engineer

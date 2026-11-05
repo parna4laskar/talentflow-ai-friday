@@ -1,0 +1,32 @@
+PRIYA ONG
+Senior QA Engineer | Quality Engineering | Singapore, Singapore
+Employee ID: EMP11826
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.4 years of experience, based in Singapore. Strong in Selenium, API Testing, Test Automation and Java, with recent work in media streaming. Interested in moving towards QA Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 8.1y), API Testing (Advanced, 9.1y), Test Automation (Proficient, 4.0y)
+- Software Engineering: Java (Proficient, 7.0y)
+- Data & AI: SQL (Proficient, 6.1y)
+
+EXPERIENCE
+* Payments Test Automation Framework — a leading payments provider (2025-10 to present)
+  Re-architected a test automation framework for a leading payments provider in payments using Test Automation, Selenium and SQL, raising automated test coverage to 70%.
+* Automotive API Contract-testing Suite — an APAC car maker (2024-05 to 2025-07)
+  Scaled an API contract-testing suite for an APAC car maker in automotive using SQL, Selenium and Java, raising automated test coverage to 85%.
+* Media Streaming Performance Engineering Programme — a US streaming platform (2023-10 to 2024-04)
+  Migrated a performance engineering programme for a US streaming platform in media streaming using Selenium, Test Automation, SQL and API Testing, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2026)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Mandarin, Tamil
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, Engineering Manager, DevOps Engineer, Mobile Engineer

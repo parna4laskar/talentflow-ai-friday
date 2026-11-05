@@ -1,0 +1,27 @@
+BHAVANA SUBRAMANIAN
+Associate Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP10942
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 2.6 years of experience, based in Pune. Strong in Angular, GraphQL, CI/CD and TypeScript, with recent work in HR tech. Interested in moving towards QA Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Proficient, 1.5y), GraphQL (Proficient, 0.8y), TypeScript (Beginner, 0.6y), JavaScript (Beginner, 0.3y)
+- Cloud & DevOps: CI/CD (Working, 0.7y)
+- Data & AI: Generative AI (Beginner, 0.3y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — a European HR software company (2026-02 to present)
+  Built a self-service portal for a European HR software company in HR tech using Angular and TypeScript, lifting NPS by 22 points.
+* HR Tech Payments Microservices Platform — a fast-growing HR software company (2024-07 to 2025-12)
+  Modernised a payments microservices platform for a fast-growing HR software company in HR tech using Generative AI, GraphQL and TypeScript, accelerating releases by 40%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: QA Engineer, UX Designer

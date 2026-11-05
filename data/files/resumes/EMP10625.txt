@@ -1,0 +1,29 @@
+THOMAS THOMAS
+Senior Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10625
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 6.6 years of experience, based in London. Strong in REST API Design, SQL, Microservices and Docker, with recent work in healthcare. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 4.7y), Microservices (Advanced, 3.8y), C# (Proficient, 0.7y), .NET Core (Proficient, 2.3y), GraphQL (Working, 2.4y)
+- Data & AI: SQL (Expert, 5.0y), Generative AI (Working, 1.5y)
+- Cloud & DevOps: Docker (Advanced, 5.3y), Kubernetes (Proficient, 0.5y), CI/CD (Proficient, 3.0y)
+
+EXPERIENCE
+* HR Tech Pricing Engine — an APAC HR software company (2026-06 to present)
+  Automated a pricing engine for an APAC HR software company in HR tech using REST API Design, Microservices and SQL, improving conversion by 25%.
+* Telecom Billing Self-service Portal — a US telecom operator (2024-12 to 2026-04)
+  Built a self-service portal for a US telecom operator in telecom billing using .NET Core, Microservices, Generative AI and Kubernetes, saving ~40K hours annually.
+* Pharma R&D Claims Processing Engine — a global pharma company (2023-12 to 2024-10)
+  Led the delivery of a claims processing engine for a global pharma company in pharma R&D using Generative AI and CI/CD, saving ~30K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Full Stack Engineer, Engineering Manager

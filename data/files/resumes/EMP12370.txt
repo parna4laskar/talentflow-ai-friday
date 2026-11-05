@@ -1,0 +1,29 @@
+ABHISHEK CAMPBELL
+Associate Risk & Compliance Analyst | Risk & Compliance | Hyderabad, India
+Employee ID: EMP12370
+
+PROFESSIONAL SUMMARY
+Associate Risk & Compliance Analyst with 0.6 years of experience, based in Hyderabad. Strong in Regulatory Compliance, Responsible AI, Risk Management and GRC, with recent work in telecom billing. Interested in moving towards Risk & Compliance Analyst, Security Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Regulatory Compliance (Proficient, 0.4y), Risk Management (Working, 0.3y), Financial Analysis (Beginner, 0.3y)
+- Data & AI: Responsible AI (Proficient, 0.4y), Data Governance (Beginner, 0.3y), SQL (Beginner, 0.3y)
+- Security: GRC (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+- Cloud & DevOps: Terraform (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Regulatory Capital Reporting — a European energy company (2025-08 to present)
+  Owned a regulatory capital reporting for a European energy company in energy trading using Data Governance, SQL, Risk Management and Responsible AI, closing 22% of open audit findings.
+* Manufacturing IoT Regulatory Capital Reporting — a European manufacturer (2024-01 to 2025-05)
+  Redesigned a regulatory capital reporting for a European manufacturer in manufacturing IoT using Risk Management, GRC, Communication and Responsible AI, closing 18% of open audit findings.
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Risk & Compliance Analyst, Security Analyst, SAP Consultant, Data Engineer

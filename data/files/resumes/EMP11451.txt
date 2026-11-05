@@ -1,0 +1,34 @@
+EOIN O'SULLIVAN
+Business Analyst | Business Consulting | Dublin, Ireland
+Employee ID: EMP11451
+
+PROFESSIONAL SUMMARY
+Business Analyst with 5.5 years of experience, based in Dublin. Strong in Requirements Gathering, Stakeholder Management, Business Analysis and Power BI, with recent work in automotive. Interested in moving towards CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Advanced, 2.5y), Business Analysis (Proficient, 2.2y), Process Improvement (Working, 1.8y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.3y), Communication (Proficient, 3.5y), Agile/Scrum (Working, 1.9y)
+- Data & AI: Power BI (Proficient, 1.3y), SQL (Working, 2.0y), Generative AI (Beginner, 0.6y)
+
+EXPERIENCE
+* Automotive Cloud Migration Programme — a European car maker (2026-06 to present)
+  Ran a cloud migration programme for a European car maker in automotive using SQL and Agile/Scrum, cutting cloud spend by 22%.
+* Manufacturing IoT Core Banking Transformation Programme — an APAC manufacturer (2025-05 to 2026-04)
+  Delivered a core banking transformation programme for an APAC manufacturer in manufacturing IoT using Business Analysis and Generative AI, delivering $5M in cost savings.
+* Automotive Process Re-engineering Initiative — a fast-growing car maker (2024-03 to 2025-04)
+  Led a process re-engineering initiative for a fast-growing car maker in automotive using Business Analysis, Requirements Gathering, Agile/Scrum and Power BI, reducing processing time by 12%.
+* Automotive Core Banking Transformation Programme — a global car maker (2023-06 to 2024-02)
+  Delivered a core banking transformation programme for a global car maker in automotive using Requirements Gathering and Communication, delivering on time across 2 workstreams.
+
+CERTIFICATIONS
+- CBAP (2024)
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: CRM Consultant

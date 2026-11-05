@@ -1,0 +1,28 @@
+KEVIN CHEN
+Associate Risk & Compliance Analyst | Risk & Compliance | New York, United States
+Employee ID: EMP12217
+
+PROFESSIONAL SUMMARY
+Associate Risk & Compliance Analyst with 1.8 years of experience, based in New York. Strong in Responsible AI, Risk Management, Regulatory Compliance and Financial Analysis, with recent work in healthcare. Interested in moving towards Data Engineer roles.
+
+CORE SKILLS
+- Data & AI: Responsible AI (Advanced, 0.9y), SQL (Working, 0.8y), Data Governance (Working, 0.7y)
+- Business & Finance: Risk Management (Proficient, 1.3y), Regulatory Compliance (Proficient, 1.3y), Financial Analysis (Proficient, 1.1y)
+- Security: GRC (Working, 0.6y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+
+EXPERIENCE
+* Airline Operations Regulatory Capital Reporting — a tier-1 airline (2026-03 to present)
+  Redesigned a regulatory capital reporting for a tier-1 airline in airline operations using Risk Management and Regulatory Compliance, closing 25% of open audit findings.
+* Healthcare Rolling Forecasting Model — a tier-1 hospital network (2025-06 to 2026-01)
+  Led a rolling forecasting model for a tier-1 hospital network in healthcare using Financial Analysis, Communication, Responsible AI and SQL, saving ~40K hours annually.
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Engineer

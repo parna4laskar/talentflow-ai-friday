@@ -1,0 +1,33 @@
+SAMEER MALHOTRA
+Senior Cloud Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP12869
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 7.7 years of experience, based in Gurugram. Strong in Terraform, Linux Administration, Kubernetes and Azure, with recent work in energy trading. Interested in moving towards DevOps Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 7.7y), Linux Administration (Advanced, 5.2y), Kubernetes (Advanced, 3.3y), Azure (Proficient, 3.9y), Platform Engineering (Beginner, 1.2y)
+- Data & AI: Databricks (Proficient, 2.5y)
+
+EXPERIENCE
+* Energy Trading CI/CD Platform — a fast-growing energy company (2026-07 to present)
+  Migrated a CI/CD platform for a fast-growing energy company in energy trading using Databricks, Azure, Kubernetes and Terraform, accelerating releases by 30%.
+* Energy Trading Kubernetes Platform — a global energy company (2025-05 to 2026-07)
+  Re-architected a Kubernetes platform for a global energy company in energy trading using Terraform, Kubernetes, Linux Administration and Databricks, accelerating releases by 40%.
+* Energy Trading Kubernetes Platform — a global energy company (2024-08 to 2025-04)
+  Automated a Kubernetes platform for a global energy company in energy trading using Terraform and Azure, cutting cloud spend by 40%.
+* Media Streaming Cloud Landing Zone — a global streaming platform (2023-10 to 2024-06)
+  Built a cloud landing zone for a global streaming platform in media streaming using Platform Engineering, Databricks, Linux Administration and Azure, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Software Architect, Platform Engineer

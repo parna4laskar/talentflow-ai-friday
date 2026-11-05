@@ -1,0 +1,34 @@
+EMILY THOMAS
+Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12770
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3 years of experience, based in London. Strong in SQL, Java, REST API Design and Microservices, with recent work in automotive. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.2y)
+- Software Engineering: Java (Proficient, 1.2y), REST API Design (Proficient, 2.1y), Microservices (Proficient, 1.5y), .NET Core (Proficient, 1.2y), Spring Boot (Beginner, 0.4y)
+- Cloud & DevOps: Docker (Working, 0.4y), Kubernetes (Working, 1.2y)
+
+EXPERIENCE
+* Energy Trading Order Management System — a leading energy company (2026-05 to present)
+  Automated an order management system for a leading energy company in energy trading using Microservices and Spring Boot, reducing processing time by 12%.
+* Automotive Customer Onboarding Platform — a tier-1 car maker (2025-11 to 2026-04)
+  Migrated a customer onboarding platform for a tier-1 car maker in automotive using .NET Core and Spring Boot, lifting NPS by 40 points.
+* Supply-chain Logistics Customer Onboarding Platform — an APAC logistics company (2025-03 to 2025-10)
+  Built a customer onboarding platform for an APAC logistics company in supply-chain logistics using Kubernetes and .NET Core, improving conversion by 18%.
+* Automotive Pricing Engine — a fast-growing car maker (2024-05 to 2025-02)
+  Scaled a pricing engine for a fast-growing car maker in automotive using Docker, Kubernetes and Microservices, improving conversion by 25%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Tamil
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect

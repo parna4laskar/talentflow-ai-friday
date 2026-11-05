@@ -1,0 +1,27 @@
+PARNA HEGDE
+Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12529
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 2.6 years of experience, based in Bengaluru. Strong in Mobile Development, Java, REST API Design and TypeScript, with recent work in retail banking. Interested in moving towards Frontend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 1.5y), Java (Proficient, 0.6y), REST API Design (Proficient, 1.8y), TypeScript (Working, 1.2y)
+- Cloud & DevOps: CI/CD (Working, 0.5y)
+- Product & Design: UI Design (Working, 0.6y)
+
+EXPERIENCE
+* Manufacturing IoT Pricing Engine — a tier-1 manufacturer (2025-08 to present)
+  Designed a pricing engine for a tier-1 manufacturer in manufacturing IoT using TypeScript, UI Design and CI/CD, improving conversion by 40%.
+* Retail Banking Claims Processing Engine — a US retail bank (2024-11 to 2025-07)
+  Designed a claims processing engine for a US retail bank in retail banking using Java, UI Design and Mobile Development, reducing processing time by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer, Full Stack Engineer, QA Engineer

@@ -1,0 +1,33 @@
+MANISH HEGDE
+Senior Security Analyst | Cyber Security | Chennai, India
+Employee ID: EMP12478
+
+PROFESSIONAL SUMMARY
+Senior Security Analyst with 9.1 years of experience, based in Chennai. Strong in SIEM, Python, Threat Modeling and Linux Administration, with recent work in pharma R&D. Interested in moving towards Security Analyst, Security Engineer roles and open to relocating to Toronto, New York, Hyderabad.
+
+CORE SKILLS
+- Security: SIEM (Advanced, 7.6y), Threat Modeling (Proficient, 5.1y), Incident Response (Working, 2.0y), GRC (Working, 1.7y)
+- Software Engineering: Python (Advanced, 1.5y)
+- Cloud & DevOps: Linux Administration (Proficient, 5.6y)
+- Data & AI: Responsible AI (Working, 0.3y)
+
+EXPERIENCE
+* HR Tech Security Operations Centre Uplift — a tier-1 HR software company (2026-01 to present)
+  Scaled a security operations centre uplift for a tier-1 HR software company in HR tech using Responsible AI, Linux Administration, SIEM and Incident Response, reducing production incidents by 25%.
+* Automotive Security Operations Centre Uplift — a leading car maker (2025-08 to 2026-01)
+  Led the delivery of a security operations centre uplift for a leading car maker in automotive using GRC, Linux Administration, Incident Response and Responsible AI, closing 18% of open audit findings.
+* HR Tech Secure SDLC Rollout — a tier-1 HR software company (2024-07 to 2025-07)
+  Automated a secure SDLC rollout for a tier-1 HR software company in HR tech using SIEM and Python, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- CySA+ (2021)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Security Analyst, Security Engineer

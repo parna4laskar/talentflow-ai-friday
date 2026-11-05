@@ -1,0 +1,32 @@
+JUN HAO TAN
+Lead Cloud Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP10624
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 14.1 years of experience, based in Singapore. Strong in AWS, Linux Administration, Python and Terraform, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles and open to relocating to London, Hyderabad.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 2.5y)
+- Cloud & DevOps: AWS (Advanced, 3.4y), Linux Administration (Advanced, 4.8y), Terraform (Proficient, 1.0y), Platform Engineering (Proficient, 9.5y), FinOps (Proficient, 2.4y)
+- Software Engineering: Python (Advanced, 1.7y)
+- Security: Cloud Security (Proficient, 2.5y)
+
+EXPERIENCE
+* Pharma R&D CI/CD Platform — a US pharma company (2025-07 to present)
+  Modernised a CI/CD platform for a US pharma company in pharma R&D using Linux Administration, Terraform, FinOps and Platform Engineering, accelerating releases by 22%.
+* E-commerce Observability Stack — a European online retailer (2024-04 to 2025-05)
+  Scaled an observability stack for a European online retailer in e-commerce using AWS, Terraform and Linux Administration, reducing production incidents by 18%.
+* Manufacturing IoT Observability Stack — a European manufacturer (2023-04 to 2024-04)
+  Modernised an observability stack for a European manufacturer in manufacturing IoT using Python and AWS, accelerating releases by 35%.
+* E-commerce Observability Stack — a global online retailer (2022-01 to 2023-03)
+  Re-architected an observability stack for a global online retailer in e-commerce using Platform Engineering, Terraform and AWS, accelerating releases by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Site Reliability Engineer

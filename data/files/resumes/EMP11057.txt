@@ -1,0 +1,33 @@
+GEORGE THOMAS
+Lead Risk & Compliance Analyst | Risk & Compliance | London, United Kingdom
+Employee ID: EMP11057
+
+PROFESSIONAL SUMMARY
+Lead Risk & Compliance Analyst with 11.3 years of experience, based in London. Strong in Risk Management, Regulatory Compliance, GRC and SQL, with recent work in telecom billing. Interested in moving towards Risk & Compliance Analyst, Data Engineer roles and open to relocating to Singapore, Kraków.
+
+CORE SKILLS
+- Business & Finance: Risk Management (Advanced, 6.0y), Regulatory Compliance (Advanced, 6.3y), Financial Analysis (Proficient, 8.1y), Financial Modeling (Proficient, 8.2y)
+- Security: GRC (Advanced, 8.5y)
+- Data & AI: SQL (Advanced, 4.9y), Responsible AI (Advanced, 2.5y), Data Governance (Advanced, 1.9y)
+- Delivery & Leadership: Mentoring (Advanced, 0.7y), Stakeholder Management (Proficient, 1.6y)
+
+EXPERIENCE
+* Telecom Billing Regulatory Capital Reporting — a leading telecom operator (2026-03 to present)
+  Built a regulatory capital reporting for a leading telecom operator in telecom billing using GRC and Financial Analysis, closing 22% of open audit findings.
+* Telecom Billing Rolling Forecasting Model — a leading telecom operator (2025-06 to 2026-02)
+  Led a rolling forecasting model for a leading telecom operator in telecom billing using Regulatory Compliance, Data Governance and Financial Analysis, improving forecast accuracy by 30%.
+* E-commerce Rolling Forecasting Model — a global online retailer (2024-11 to 2025-04)
+  Built a rolling forecasting model for a global online retailer in e-commerce using Mentoring and GRC, saving ~25K hours annually.
+
+CERTIFICATIONS
+- CRISC (2022)
+
+EDUCATION
+- MSc Economics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Risk & Compliance Analyst, Data Engineer, Security Analyst

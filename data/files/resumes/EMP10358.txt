@@ -1,0 +1,28 @@
+JAMES SMITH
+Security Engineer | Cyber Security | London, United Kingdom
+Employee ID: EMP10358
+
+PROFESSIONAL SUMMARY
+Security Engineer with 2.6 years of experience, based in London. Strong in Application Security, Threat Modeling, Identity & Access Management and Incident Response, with recent work in payments. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Security: Application Security (Advanced, 1.0y), Threat Modeling (Proficient, 0.5y), Identity & Access Management (Proficient, 1.4y), Incident Response (Proficient, 1.6y), SIEM (Working, 1.1y)
+- Cloud & DevOps: AWS (Working, 0.4y)
+- Software Engineering: Python (Working, 1.0y)
+- Quality Engineering: Playwright (Working, 1.1y)
+
+EXPERIENCE
+* Airline Operations Secure SDLC Rollout — a tier-1 airline (2025-09 to present)
+  Automated a secure SDLC rollout for a tier-1 airline in airline operations using Threat Modeling and Identity & Access Management, accelerating releases by 30%.
+* Payments Identity and Access Platform — a European payments provider (2025-01 to 2025-08)
+  Modernised an identity and access platform for a European payments provider in payments using Identity & Access Management, SIEM, AWS and Playwright, reducing production incidents by 18%.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Cloud Engineer

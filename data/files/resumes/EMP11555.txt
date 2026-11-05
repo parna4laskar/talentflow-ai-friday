@@ -1,0 +1,33 @@
+AAROHI SUBRAMANIAN
+Lead AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP11555
+
+PROFESSIONAL SUMMARY
+Lead AI Engineer with 12.3 years of experience, based in Hyderabad. Strong in Python, Generative AI, Docker and Azure, with recent work in insurance claims. Interested in moving towards Data Scientist, DevOps Engineer roles and open to relocating to Pune, Toronto, Austin.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 6.2y)
+- Data & AI: Generative AI (Advanced, 2.2y), LLM Engineering (Proficient, 5.9y), NLP (Proficient, 5.7y), Vector Databases (Proficient, 5.7y)
+- Cloud & DevOps: Docker (Advanced, 11.6y), Azure (Advanced, 5.8y)
+
+EXPERIENCE
+* Insurance Claims Knowledge Assistant (RAG) — a leading insurer (2025-10 to present)
+  Scaled a knowledge assistant (RAG) for a leading insurer in insurance claims using Azure and Python, lifting NPS by 22 points.
+* Healthcare Document Intelligence Pipeline — a fast-growing hospital network (2024-05 to 2025-08)
+  Designed a document intelligence pipeline for a fast-growing hospital network in healthcare using Docker and Generative AI, saving ~25K hours annually.
+* Insurance Claims Fraud Detection Model — a European insurer (2023-01 to 2024-03)
+  Led the delivery of a fraud detection model for a European insurer in insurance claims using Python, Vector Databases, Docker and Azure, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2023)
+- Google Generative AI Leader (2026)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Scientist, DevOps Engineer

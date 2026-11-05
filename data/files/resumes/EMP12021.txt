@@ -1,0 +1,31 @@
+ARVIND CHATTERJEE
+Associate Product Manager | Product | Pune, India
+Employee ID: EMP12021
+
+PROFESSIONAL SUMMARY
+Associate Product Manager with 1.7 years of experience, based in Pune. Strong in Generative AI, Stakeholder Management, A/B Testing and Terraform, with recent work in automotive. Interested in moving towards Product Manager, UX Designer roles and open to relocating to Gurugram, Austin, New York.
+
+CORE SKILLS
+- Data & AI: Generative AI (Advanced, 1.1y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.5y), Change Management (Working, 0.7y)
+- Product & Design: A/B Testing (Proficient, 0.5y), Product Management (Working, 0.8y), Roadmapping (Working, 0.6y), Product Strategy (Working, 0.3y)
+- Cloud & DevOps: Terraform (Proficient, 1.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Mobile App Relaunch — a European logistics company (2026-11 to present)
+  Launched a mobile app relaunch for a European logistics company in supply-chain logistics using Terraform and Product Management, improving conversion by 22%.
+* Energy Trading B2B Analytics Product — an APAC energy company (2026-05 to 2026-10)
+  Defined the roadmap for a B2B analytics product for an APAC energy company in energy trading using Generative AI, A/B Testing, Terraform and Product Strategy, onboarding 5 new enterprise clients.
+
+CERTIFICATIONS
+- SAFe POPM (2026)
+
+EDUCATION
+- BSc Economics
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Product Manager, UX Designer, Project Manager, Business Analyst

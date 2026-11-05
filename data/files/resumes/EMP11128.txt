@@ -1,0 +1,31 @@
+ZUZANNA LEWANDOWSKI
+Senior Business Analyst | Business Consulting | Kraków, Poland
+Employee ID: EMP11128
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 5.7 years of experience, based in Kraków. Strong in Business Analysis, Stakeholder Management, Requirements Gathering and Process Improvement, with recent work in retail banking. Interested in moving towards Product Manager, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 3.1y), Requirements Gathering (Proficient, 0.5y), Process Improvement (Proficient, 1.2y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.6y), Agile/Scrum (Proficient, 1.1y), Communication (Beginner, 0.4y)
+- Data & AI: SQL (Working, 1.1y), Power BI (Working, 1.0y), dbt (Working, 1.5y), Tableau (Beginner, 1.4y)
+
+EXPERIENCE
+* HR Tech Cloud Migration Programme — a fast-growing HR software company (2026-01 to present)
+  Delivered a cloud migration programme for a fast-growing HR software company in HR tech using Tableau and Power BI, cutting cloud spend by 25%.
+* Retail Banking Process Re-engineering Initiative — a tier-1 retail bank (2025-06 to 2025-11)
+  Delivered a process re-engineering initiative for a tier-1 retail bank in retail banking using dbt, Power BI and Business Analysis, delivering $5M in cost savings.
+* Pharma R&D Core Banking Transformation Programme — a US pharma company (2024-08 to 2025-05)
+  Coordinated a core banking transformation programme for a US pharma company in pharma R&D using Stakeholder Management and SQL, delivering $3M in cost savings.
+* Retail Banking Process Re-engineering Initiative — a global retail bank (2024-01 to 2024-06)
+  Coordinated a process re-engineering initiative for a global retail bank in retail banking using Agile/Scrum, Stakeholder Management and Tableau, reducing processing time by 12%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+Polish, English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager, CRM Consultant, Account Manager

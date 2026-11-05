@@ -1,0 +1,34 @@
+GAURAV NAIR
+Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11379
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 3.8 years of experience, based in Bengaluru. Strong in Mobile Development, Test Automation, React and UI Design, with recent work in public sector. Interested in moving towards Backend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 1.9y), React (Working, 0.4y), REST API Design (Working, 0.9y)
+- Quality Engineering: Test Automation (Proficient, 1.4y)
+- Product & Design: UI Design (Working, 1.6y)
+- Cloud & DevOps: CI/CD (Working, 1.5y), Terraform (Working, 0.8y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+- Data & AI: Responsible AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — an APAC government agency (2026-03 to present)
+  Designed a self-service portal for an APAC government agency in public sector using Mobile Development and Communication, lifting NPS by 12 points.
+* Public Sector Self-service Portal — a leading government agency (2024-09 to 2026-03)
+  Designed a self-service portal for a leading government agency in public sector using Responsible AI, Terraform and CI/CD, lifting NPS by 22 points.
+* Public Sector Payments Microservices Platform — a US government agency (2023-12 to 2024-06)
+  Designed a payments microservices platform for a US government agency in public sector using UI Design and Responsible AI, accelerating releases by 22%.
+* Public Sector Customer Onboarding Platform — a global government agency (2023-02 to 2023-12)
+  Designed a customer onboarding platform for a global government agency in public sector using Communication and Terraform, improving conversion by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Full Stack Engineer, QA Engineer

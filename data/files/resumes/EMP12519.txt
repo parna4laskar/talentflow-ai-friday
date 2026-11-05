@@ -1,0 +1,30 @@
+ZOYA PATIL
+Associate Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12519
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.3 years of experience, based in Pune. Strong in REST API Design, C#, Microservices and Docker, with recent work in e-commerce. Interested in moving towards AI Engineer, Software Architect roles and open to relocating to Chennai, Kraków.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 0.6y), C# (Working, 0.3y), Microservices (Working, 0.3y), Spring Boot (Beginner, 0.3y), .NET Core (Beginner, 0.3y)
+- Cloud & DevOps: Docker (Working, 0.3y), AWS (Working, 0.5y), Kubernetes (Working, 0.6y)
+- Data & AI: SQL (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Claims Processing Engine — an APAC airline (2026-06 to present)
+  Scaled a claims processing engine for an APAC airline in airline operations using Docker, REST API Design and .NET Core, saving ~22K hours annually.
+* E-commerce Pricing Engine — a European online retailer (2025-10 to 2026-03)
+  Re-architected a pricing engine for a European online retailer in e-commerce using SQL, .NET Core, AWS and Kubernetes, improving conversion by 40%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, Software Architect, Engineering Manager

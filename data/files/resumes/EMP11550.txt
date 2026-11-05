@@ -1,0 +1,30 @@
+CONOR CHUA
+Lead Frontend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP11550
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 9.5 years of experience, based in Dublin. Strong in TypeScript, JavaScript, Figma and Next.js, with recent work in payments. Interested in moving towards UX Designer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 4.4y), JavaScript (Advanced, 1.2y), Next.js (Advanced, 9.2y), React (Proficient, 3.6y), Node.js (Proficient, 6.6y)
+- Product & Design: Figma (Advanced, 1.4y), Design Systems (Proficient, 1.8y)
+- Cloud & DevOps: CI/CD (Advanced, 4.8y)
+- Delivery & Leadership: People Leadership (Proficient, 7.4y)
+
+EXPERIENCE
+* Energy Trading Claims Processing Engine — a US energy company (2025-11 to present)
+  Re-architected a claims processing engine for a US energy company in energy trading using Design Systems and Next.js, saving ~35K hours annually.
+* Manufacturing IoT Claims Processing Engine — a European manufacturer (2024-08 to 2025-10)
+  Scaled a claims processing engine for a European manufacturer in manufacturing IoT using Design Systems and Node.js, saving ~25K hours annually.
+* Energy Trading Claims Processing Engine — a leading energy company (2023-09 to 2024-06)
+  Migrated a claims processing engine for a leading energy company in energy trading using Node.js and JavaScript, saving ~30K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: UX Designer, Full Stack Engineer, Mobile Engineer

@@ -1,0 +1,32 @@
+ZUZANNA WIŚNIEWSKI
+Lead DevOps Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11895
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 14.9 years of experience, based in Kraków. Strong in Kubernetes, GCP, CI/CD and Docker, with recent work in HR tech. Interested in moving towards Site Reliability Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 0.7y), GCP (Expert, 12.2y), CI/CD (Advanced, 10.1y), Docker (Advanced, 13.5y), Observability (Proficient, 9.9y), Site Reliability Engineering (Proficient, 6.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 8.3y)
+- Software Engineering: Go (Working, 6.3y)
+
+EXPERIENCE
+* Manufacturing IoT Kubernetes Platform — an APAC manufacturer (2025-12 to present)
+  Migrated a Kubernetes platform for an APAC manufacturer in manufacturing IoT using Kubernetes, CI/CD and Stakeholder Management, cutting cloud spend by 18%.
+* HR Tech Data-centre Exit To Cloud — a tier-1 HR software company (2024-08 to 2025-11)
+  Built a data-centre exit to cloud for a tier-1 HR software company in HR tech using GCP and CI/CD, cutting cloud spend by 18%.
+* Healthcare Observability Stack — a tier-1 hospital network (2024-01 to 2024-06)
+  Scaled an observability stack for a tier-1 hospital network in healthcare using Site Reliability Engineering, Docker, Observability and CI/CD, accelerating releases by 30%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer, Backend Engineer, Platform Engineer

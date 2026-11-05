@@ -1,0 +1,32 @@
+GAURAV CHATTERJEE
+Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP11899
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 5.5 years of experience, based in Pune. Strong in Mobile Development, React, REST API Design and UI Design, with recent work in public sector. Interested in moving towards Frontend Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 1.3y), React (Proficient, 3.7y), REST API Design (Proficient, 3.2y), Angular (Working, 1.5y)
+- Product & Design: UI Design (Proficient, 0.6y)
+- Cloud & DevOps: CI/CD (Proficient, 0.9y)
+- Quality Engineering: Test Automation (Working, 2.0y)
+
+EXPERIENCE
+* Healthcare Self-service Portal — a US hospital network (2025-11 to present)
+  Led the delivery of a self-service portal for a US hospital network in healthcare using CI/CD, REST API Design and Angular, saving ~22K hours annually.
+* Telecom Billing Order Management System — a US telecom operator (2024-11 to 2025-10)
+  Built an order management system for a US telecom operator in telecom billing using Angular, CI/CD and React, onboarding 5 new enterprise clients.
+* Public Sector Order Management System — a global government agency (2023-08 to 2024-09)
+  Automated an order management system for a global government agency in public sector using UI Design, REST API Design and Test Automation, onboarding 3 new enterprise clients.
+* Telecom Billing Claims Processing Engine — a European telecom operator (2022-07 to 2023-07)
+  Modernised a claims processing engine for a European telecom operator in telecom billing using REST API Design, Test Automation and UI Design, reducing processing time by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, Full Stack Engineer

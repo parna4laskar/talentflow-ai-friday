@@ -1,0 +1,33 @@
+THOMAS SMITH
+Principal QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP10325
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 19.4 years of experience, based in London. Strong in Test Automation, Selenium, Java and SQL, with recent work in automotive. Interested in moving towards Full Stack Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 12.2y), Selenium (Expert, 19.4y), API Testing (Proficient, 3.2y)
+- Software Engineering: Java (Advanced, 4.9y)
+- Data & AI: SQL (Advanced, 17.6y), dbt (Working, 2.2y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.7y)
+
+EXPERIENCE
+* Pharma R&D Performance Engineering Programme — a leading pharma company (2026-03 to present)
+  Scaled a performance engineering programme for a leading pharma company in pharma R&D using API Testing, Stakeholder Management and SQL, accelerating releases by 18%.
+* Automotive Test Automation Framework — a US car maker (2025-04 to 2026-02)
+  Built a test automation framework for a US car maker in automotive using SQL, API Testing, Selenium and Java, accelerating releases by 22%.
+* Automotive Test Automation Framework — a leading car maker (2023-11 to 2025-03)
+  Re-architected a test automation framework for a leading car maker in automotive using dbt, Stakeholder Management and Selenium, accelerating releases by 30%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, DevOps Engineer

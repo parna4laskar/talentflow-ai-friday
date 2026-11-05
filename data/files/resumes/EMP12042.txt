@@ -1,0 +1,30 @@
+SAMEER JOSHI
+Principal Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP12042
+
+PROFESSIONAL SUMMARY
+Principal Data Engineer with 19.6 years of experience, based in Pune. Strong in Python, Data Engineering, dbt and Databricks, with recent work in healthcare. Interested in moving towards ML Engineer roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 12.8y)
+- Data & AI: Data Engineering (Expert, 19.5y), dbt (Expert, 12.0y), Databricks (Expert, 19.6y), SQL (Advanced, 3.0y), Snowflake (Advanced, 11.3y), Airflow (Proficient, 6.5y), Agentic AI (Proficient, 12.4y)
+- Delivery & Leadership: Mentoring (Expert, 19.6y), Stakeholder Management (Advanced, 3.1y), Communication (Proficient, 10.6y)
+- Cloud & DevOps: AWS (Advanced, 5.5y)
+
+EXPERIENCE
+* Automotive Executive KPI Dashboard Suite — a fast-growing car maker (2025-08 to present)
+  Led the delivery of an executive KPI dashboard suite for a fast-growing car maker in automotive using Airflow, dbt, Databricks and Snowflake, improving forecast accuracy by 40%.
+* Healthcare Data Lakehouse — an APAC hospital network (2024-12 to 2025-05)
+  Built a data lakehouse for an APAC hospital network in healthcare using Communication, AWS and Snowflake, cutting cloud spend by 12%.
+* Media Streaming Data Lakehouse — a US streaming platform (2023-09 to 2024-10)
+  Led the delivery of a data lakehouse for a US streaming platform in media streaming using Databricks, Snowflake, dbt and SQL, reducing processing time by 35%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer

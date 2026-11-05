@@ -1,0 +1,30 @@
+VENKAT MENON
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10172
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.1 years of experience, based in Bengaluru. Strong in Python, SQL, REST API Design and .NET Core, with recent work in telecom billing. Interested in moving towards Full Stack Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.0y), REST API Design (Proficient, 2.4y), .NET Core (Proficient, 3.6y), GraphQL (Proficient, 3.3y), Microservices (Working, 0.8y), Kafka (Beginner, 0.4y)
+- Data & AI: SQL (Advanced, 3.0y), Generative AI (Beginner, 1.3y)
+
+EXPERIENCE
+* Telecom Billing Claims Processing Engine — a European telecom operator (2026-02 to present)
+  Scaled a claims processing engine for a European telecom operator in telecom billing using Microservices and Python, reducing processing time by 40%.
+* Telecom Billing Payments Microservices Platform — a US telecom operator (2025-05 to 2025-12)
+  Designed a payments microservices platform for a US telecom operator in telecom billing using Kafka, REST API Design, GraphQL and Python, reducing processing time by 40%.
+* Payments Order Management System — a tier-1 payments provider (2024-01 to 2025-05)
+  Built an order management system for a tier-1 payments provider in payments using SQL, Kafka and .NET Core, onboarding 8 new enterprise clients.
+* Telecom Billing Payments Microservices Platform — an APAC telecom operator (2023-06 to 2024-01)
+  Automated a payments microservices platform for an APAC telecom operator in telecom billing using SQL and REST API Design, reducing production incidents by 40%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Engineering Manager

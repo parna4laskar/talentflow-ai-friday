@@ -1,0 +1,31 @@
+AKASH BANERJEE
+ML Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP10150
+
+PROFESSIONAL SUMMARY
+ML Engineer with 5.3 years of experience, based in Chennai. Strong in Computer Vision, Python, Deep Learning and Databricks, with recent work in manufacturing IoT. Interested in moving towards ML Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Data & AI: Computer Vision (Advanced, 1.4y), Deep Learning (Proficient, 0.7y), Databricks (Proficient, 0.8y), Machine Learning (Working, 0.4y), MLOps (Working, 0.6y), Vector Databases (Beginner, 0.4y)
+- Software Engineering: Python (Proficient, 0.7y)
+- Cloud & DevOps: Kubernetes (Working, 1.4y), Docker (Working, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Agentic Customer-service Assistant — a tier-1 manufacturer (2025-10 to present)
+  Automated an agentic customer-service assistant for a tier-1 manufacturer in manufacturing IoT using Databricks, Deep Learning, Kubernetes and MLOps, lifting NPS by 22 points.
+* Manufacturing IoT Fraud Detection Model — a tier-1 manufacturer (2024-08 to 2025-09)
+  Migrated a fraud detection model for a tier-1 manufacturer in manufacturing IoT using Deep Learning, Docker and Python, improving model accuracy by 30%.
+* Manufacturing IoT Recommendation Engine — a European manufacturer (2024-01 to 2024-08)
+  Re-architected a recommendation engine for a European manufacturer in manufacturing IoT using MLOps, Databricks, Python and Deep Learning, improving model accuracy by 35%.
+* Manufacturing IoT Fraud Detection Model — a European manufacturer (2022-08 to 2023-11)
+  Designed a fraud detection model for a European manufacturer in manufacturing IoT using Computer Vision, Docker and MLOps, reducing processing time by 22%.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, Platform Engineer, DevOps Engineer

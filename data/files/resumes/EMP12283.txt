@@ -1,0 +1,34 @@
+TEJAS KULKARNI
+DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12283
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.4 years of experience, based in Pune. Strong in Docker, Terraform, Communication and CI/CD, with recent work in wealth management. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Proficient, 1.7y), Terraform (Proficient, 3.3y), CI/CD (Working, 1.4y), Kubernetes (Working, 0.7y), GCP (Working, 0.4y)
+- Delivery & Leadership: Communication (Proficient, 2.9y)
+- Software Engineering: Go (Working, 0.5y), Python (Working, 0.8y)
+
+EXPERIENCE
+* Wealth Management Data-centre Exit To Cloud — a fast-growing wealth manager (2026-03 to present)
+  Modernised a data-centre exit to cloud for a fast-growing wealth manager in wealth management using Kubernetes, Docker and GCP, cutting cloud spend by 12%.
+* Wealth Management CI/CD Platform — an APAC wealth manager (2024-08 to 2026-02)
+  Modernised a CI/CD platform for an APAC wealth manager in wealth management using Communication, Go, GCP and CI/CD, accelerating releases by 12%.
+* Healthcare Kubernetes Platform — a fast-growing hospital network (2024-02 to 2024-07)
+  Re-architected a Kubernetes platform for a fast-growing hospital network in healthcare using Docker, Go and CI/CD, accelerating releases by 25%.
+* Wealth Management Kubernetes Platform — a European wealth manager (2022-10 to 2023-12)
+  Automated a Kubernetes platform for a European wealth manager in wealth management using Python, GCP and Terraform, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2023)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer, Platform Engineer

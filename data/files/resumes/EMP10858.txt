@@ -1,0 +1,31 @@
+SHREYA MALHOTRA
+Lead DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP10858
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 9.3 years of experience, based in Pune. Strong in CI/CD, Kubernetes, Mentoring and GCP, with recent work in telecom billing. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 5.7y), Kubernetes (Expert, 3.7y), GCP (Advanced, 6.4y), Terraform (Advanced, 7.1y), Docker (Proficient, 3.8y), Observability (Proficient, 4.1y)
+- Delivery & Leadership: Mentoring (Expert, 9.3y), Stakeholder Management (Advanced, 8.2y)
+- Software Engineering: Go (Advanced, 0.6y)
+
+EXPERIENCE
+* Telecom Billing Cloud Landing Zone — a US telecom operator (2026-05 to present)
+  Scaled a cloud landing zone for a US telecom operator in telecom billing using Docker and GCP, accelerating releases by 35%.
+* Healthcare Observability Stack — a US hospital network (2025-04 to 2026-05)
+  Migrated an observability stack for a US hospital network in healthcare using GCP, Observability and Docker, accelerating releases by 30%.
+* Wealth Management Kubernetes Platform — a European wealth manager (2024-03 to 2025-02)
+  Led the delivery of a Kubernetes platform for a European wealth manager in wealth management using Docker, Observability, GCP and Mentoring, cutting cloud spend by 22%.
+* Healthcare Kubernetes Platform — a European hospital network (2023-01 to 2023-12)
+  Scaled a Kubernetes platform for a European hospital network in healthcare using Stakeholder Management and Go, cutting cloud spend by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Backend Engineer, Platform Engineer, Cloud Engineer

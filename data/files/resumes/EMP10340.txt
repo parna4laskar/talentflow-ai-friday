@@ -1,0 +1,30 @@
+KARTHIK IYER
+Associate Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP10340
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 0.6 years of experience, based in Chennai. Strong in REST API Design, Microservices, .NET Core and Java, with recent work in automotive. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 0.4y), Microservices (Proficient, 0.4y), .NET Core (Proficient, 0.4y), Java (Working, 0.3y), GraphQL (Working, 0.3y), Kafka (Working, 0.3y)
+- Data & AI: SQL (Working, 0.3y)
+- Cloud & DevOps: AWS (Working, 0.3y), Docker (Working, 0.3y)
+
+EXPERIENCE
+* Automotive Self-service Portal — a tier-1 car maker (2026-06 to present)
+  Built a self-service portal for a tier-1 car maker in automotive using Microservices, GraphQL, Kafka and SQL, lifting NPS by 18 points.
+* E-commerce Pricing Engine — an APAC online retailer (2025-08 to 2026-05)
+  Designed a pricing engine for an APAC online retailer in e-commerce using GraphQL, Kafka, Java and .NET Core, improving conversion by 12%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2026)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, DevOps Engineer, Full Stack Engineer

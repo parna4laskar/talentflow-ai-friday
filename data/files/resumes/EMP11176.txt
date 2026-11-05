@@ -1,0 +1,32 @@
+NATALIA SZYMAŃSKI
+Lead DevOps Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11176
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 13.1 years of experience, based in Kraków. Strong in GCP, Communication, CI/CD and Terraform, with recent work in healthcare. Interested in moving towards DevOps Engineer, Backend Engineer roles and open to relocating to Austin, London.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Expert, 9.6y), CI/CD (Advanced, 11.6y), Terraform (Advanced, 6.6y), Docker (Proficient, 5.0y), Kubernetes (Proficient, 4.0y), Linux Administration (Working, 0.9y)
+- Delivery & Leadership: Communication (Expert, 13.1y), Mentoring (Proficient, 4.1y)
+- Data & AI: Databricks (Advanced, 1.2y)
+- Software Engineering: Python (Proficient, 5.1y)
+
+EXPERIENCE
+* Wealth Management Observability Stack — a US wealth manager (2026-02 to present)
+  Designed an observability stack for a US wealth manager in wealth management using GCP and Communication, reducing production incidents by 25%.
+* Healthcare Kubernetes Platform — a global hospital network (2025-07 to 2026-01)
+  Designed a Kubernetes platform for a global hospital network in healthcare using GCP, Communication and Mentoring, cutting cloud spend by 35%.
+* E-commerce Kubernetes Platform — a fast-growing online retailer (2024-07 to 2025-06)
+  Scaled a Kubernetes platform for a fast-growing online retailer in e-commerce using GCP and Databricks, cutting cloud spend by 25%.
+* Telecom Billing Data-centre Exit To Cloud — an APAC telecom operator (2023-04 to 2024-07)
+  Led the delivery of a data-centre exit to cloud for an APAC telecom operator in telecom billing using Mentoring and Terraform, cutting cloud spend by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Backend Engineer

@@ -1,0 +1,29 @@
+ZOYA MEHTA
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10898
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.9 years of experience, based in Hyderabad. Strong in SQL, Microservices, System Design and Spring Boot, with recent work in media streaming. Interested in moving towards Backend Engineer, Engineering Manager roles and open to relocating to Dublin, Toronto, Chennai.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.3y)
+- Software Engineering: Microservices (Proficient, 0.8y), System Design (Proficient, 2.6y), Spring Boot (Proficient, 0.5y), Python (Working, 1.6y), GraphQL (Working, 1.8y), REST API Design (Beginner, 0.5y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.8y), AWS (Working, 1.5y), CI/CD (Working, 1.0y)
+
+EXPERIENCE
+* Media Streaming Customer Onboarding Platform — a European streaming platform (2026-05 to present)
+  Re-architected a customer onboarding platform for a European streaming platform in media streaming using System Design and Spring Boot, improving conversion by 22%.
+* Telecom Billing Claims Processing Engine — a European telecom operator (2024-12 to 2026-04)
+  Designed a claims processing engine for a European telecom operator in telecom billing using AWS, REST API Design and GraphQL, reducing processing time by 22%.
+* Public Sector Order Management System — a global government agency (2024-01 to 2024-12)
+  Built an order management system for a global government agency in public sector using GraphQL, Microservices and Spring Boot, reducing processing time by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, Engineering Manager

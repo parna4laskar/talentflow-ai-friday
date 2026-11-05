@@ -1,0 +1,27 @@
+SAYALI SEN
+Associate Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10620
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 2.3 years of experience, based in Bengaluru. Strong in TypeScript, Java, SQL and AWS, with recent work in healthcare. Interested in moving towards Full Stack Engineer, Mobile Engineer roles and open to relocating to Singapore, Kraków.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 1.5y), Java (Proficient, 1.0y), React (Working, 0.9y), Microservices (Working, 0.9y), Mobile Development (Working, 0.3y), Next.js (Beginner, 0.6y)
+- Data & AI: SQL (Proficient, 0.8y)
+- Cloud & DevOps: AWS (Proficient, 1.6y), Docker (Working, 0.4y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a European hospital network (2025-06 to present)
+  Re-architected a payments microservices platform for a European hospital network in healthcare using React, Mobile Development, Next.js and AWS, reducing production incidents by 30%.
+* Healthcare Mobile Banking App — a tier-1 hospital network (2023-10 to 2025-03)
+  Migrated a mobile banking app for a tier-1 hospital network in healthcare using SQL, TypeScript and Docker, lifting NPS by 18 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Mobile Engineer

@@ -1,0 +1,30 @@
+MEERA GOKHALE
+Lead DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11958
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 8.9 years of experience, based in Bengaluru. Strong in CI/CD, Docker, Kubernetes and GCP, with recent work in payments. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 2.2y), Docker (Advanced, 4.0y), Kubernetes (Advanced, 5.1y), GCP (Advanced, 0.7y), Observability (Advanced, 6.1y), Linux Administration (Advanced, 4.5y)
+- Software Engineering: Python (Advanced, 4.3y), Go (Proficient, 1.7y)
+- Data & AI: LLM Engineering (Advanced, 8.1y)
+- Delivery & Leadership: Mentoring (Advanced, 2.4y), Stakeholder Management (Advanced, 5.9y), Communication (Proficient, 3.3y)
+
+EXPERIENCE
+* Manufacturing IoT CI/CD Platform — a leading manufacturer (2025-08 to present)
+  Led the delivery of a CI/CD platform for a leading manufacturer in manufacturing IoT using Linux Administration, CI/CD, Stakeholder Management and Docker, accelerating releases by 35%.
+* Payments CI/CD Platform — a global payments provider (2024-01 to 2025-07)
+  Re-architected a CI/CD platform for a global payments provider in payments using Python and GCP, accelerating releases by 12%.
+* HR Tech CI/CD Platform — a global HR software company (2022-06 to 2023-11)
+  Automated a CI/CD platform for a global HR software company in HR tech using Communication and LLM Engineering, accelerating releases by 35%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, Backend Engineer, Platform Engineer

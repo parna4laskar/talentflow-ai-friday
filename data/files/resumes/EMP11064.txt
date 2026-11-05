@@ -1,0 +1,29 @@
+PRIYA ONG
+Data Engineer | Data & Analytics | Singapore, Singapore
+Employee ID: EMP11064
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.6 years of experience, based in Singapore. Strong in Apache Spark, Airflow, SQL and Python, with recent work in pharma R&D. Interested in moving towards Data Engineer, Backend Engineer roles and open to relocating to Chennai, Austin.
+
+CORE SKILLS
+- Data & AI: Apache Spark (Advanced, 2.0y), Airflow (Advanced, 0.9y), SQL (Proficient, 1.9y), Data Engineering (Proficient, 0.9y), Snowflake (Working, 0.9y), Data Governance (Working, 0.7y)
+- Software Engineering: Python (Proficient, 1.3y), Kafka (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Real-time Analytics Pipeline — a tier-1 pharma company (2026-06 to present)
+  Scaled a real-time analytics pipeline for a tier-1 pharma company in pharma R&D using Data Engineering, Apache Spark and Snowflake, reducing processing time by 40%.
+* Pharma R&D Real-time Analytics Pipeline — a European pharma company (2024-10 to 2026-04)
+  Scaled a real-time analytics pipeline for a European pharma company in pharma R&D using Python, Data Engineering, Airflow and Apache Spark, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Engineer, Backend Engineer, Data Analyst

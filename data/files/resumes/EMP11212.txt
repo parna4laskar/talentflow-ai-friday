@@ -1,0 +1,32 @@
+LIAM MILLER
+Full Stack Engineer | Engineering | Austin, United States
+Employee ID: EMP11212
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4.2 years of experience, based in Austin. Strong in Java, SQL, AWS and Communication, with recent work in insurance claims. Interested in moving towards Full Stack Engineer, AI Engineer roles and open to relocating to Gurugram, Pune, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 0.9y), TypeScript (Working, 1.3y), Angular (Working, 1.2y), REST API Design (Working, 1.1y), Node.js (Beginner, 0.4y)
+- Data & AI: SQL (Advanced, 2.7y)
+- Cloud & DevOps: AWS (Proficient, 2.4y), Docker (Working, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 0.6y)
+
+EXPERIENCE
+* Insurance Claims Claims Processing Engine — a global insurer (2026-06 to present)
+  Scaled a claims processing engine for a global insurer in insurance claims using SQL and Docker, saving ~22K hours annually.
+* Insurance Claims Pricing Engine — a global insurer (2025-02 to 2026-05)
+  Built a pricing engine for a global insurer in insurance claims using Communication and SQL, improving conversion by 22%.
+* Healthcare Claims Processing Engine — a tier-1 hospital network (2023-05 to 2024-11)
+  Automated a claims processing engine for a tier-1 hospital network in healthcare using Docker, REST API Design and Node.js, saving ~12K hours annually.
+* Insurance Claims Payments Microservices Platform — a global insurer (2022-01 to 2023-04)
+  Automated a payments microservices platform for a global insurer in insurance claims using Node.js, Java, Docker and REST API Design, reducing production incidents by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, AI Engineer, Software Architect, Backend Engineer

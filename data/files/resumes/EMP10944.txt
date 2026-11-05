@@ -1,0 +1,36 @@
+PRIYA KIM
+Principal Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10944
+
+PROFESSIONAL SUMMARY
+Principal Cloud Engineer with 18.4 years of experience, based in New York. Strong in Terraform, Cloud Security, Mentoring and Stakeholder Management, with recent work in manufacturing IoT. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 14.3y), GCP (Advanced, 3.4y), Linux Administration (Advanced, 4.9y), Platform Engineering (Proficient, 5.8y), CI/CD (Working, 8.9y)
+- Security: Cloud Security (Expert, 3.6y)
+- Delivery & Leadership: Mentoring (Expert, 6.0y), Stakeholder Management (Expert, 12.8y), People Leadership (Proficient, 7.6y)
+- Software Engineering: Python (Advanced, 14.5y)
+
+EXPERIENCE
+* Pharma R&D Cloud Landing Zone — a global pharma company (2026-01 to present)
+  Led the delivery of a cloud landing zone for a global pharma company in pharma R&D using Mentoring, GCP and Linux Administration, accelerating releases by 35%.
+* Manufacturing IoT CI/CD Platform — a tier-1 manufacturer (2025-05 to 2025-11)
+  Automated a CI/CD platform for a tier-1 manufacturer in manufacturing IoT using Stakeholder Management and CI/CD, accelerating releases by 40%.
+* Manufacturing IoT Cloud Landing Zone — a US manufacturer (2024-02 to 2025-03)
+  Automated a cloud landing zone for a US manufacturer in manufacturing IoT using Platform Engineering and Python, cutting cloud spend by 22%.
+* Payments Data-centre Exit To Cloud — an APAC payments provider (2023-02 to 2023-12)
+  Built a data-centre exit to cloud for an APAC payments provider in payments using GCP and Stakeholder Management, delivering $6M in cost savings.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2025)
+- Google Professional Cloud Architect (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Software Architect

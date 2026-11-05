@@ -1,0 +1,27 @@
+VIKRAM MALHOTRA
+Site Reliability Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12610
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 2.6 years of experience, based in Hyderabad. Strong in Kubernetes, Site Reliability Engineering, Observability and Linux Administration, with recent work in automotive. Interested in moving towards Cloud Engineer roles and open to relocating to Austin, Pune, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.3y), Site Reliability Engineering (Proficient, 0.6y), Observability (Proficient, 1.0y), Linux Administration (Proficient, 0.7y), AWS (Proficient, 1.5y)
+- Quality Engineering: Performance Testing (Working, 1.1y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+
+EXPERIENCE
+* Telecom Billing Cloud Landing Zone — an APAC telecom operator (2025-11 to present)
+  Scaled a cloud landing zone for an APAC telecom operator in telecom billing using Linux Administration, Kubernetes and Observability, cutting cloud spend by 25%.
+* Insurance Claims CI/CD Platform — a leading insurer (2025-02 to 2025-09)
+  Modernised a CI/CD platform for a leading insurer in insurance claims using Kubernetes and Site Reliability Engineering, accelerating releases by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer

@@ -1,0 +1,31 @@
+MRUNAL PILLAI
+AI Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP12926
+
+PROFESSIONAL SUMMARY
+AI Engineer with 4.9 years of experience, based in Bengaluru. Strong in Python, LLM Engineering, Agentic AI and Communication, with recent work in HR tech. Interested in moving towards ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 4.0y)
+- Data & AI: LLM Engineering (Advanced, 3.8y), Agentic AI (Proficient, 2.6y), Generative AI (Working, 1.0y), Vector Databases (Working, 0.8y)
+- Delivery & Leadership: Communication (Proficient, 1.5y)
+
+EXPERIENCE
+* HR Tech Knowledge Assistant (RAG) — a fast-growing HR software company (2026-06 to present)
+  Scaled a knowledge assistant (RAG) for a fast-growing HR software company in HR tech using Communication, Generative AI, Agentic AI and LLM Engineering, lifting NPS by 22 points.
+* E-commerce Agentic Customer-service Assistant — a fast-growing online retailer (2025-02 to 2026-04)
+  Migrated an agentic customer-service assistant for a fast-growing online retailer in e-commerce using Generative AI, LLM Engineering and Python, lifting NPS by 12 points.
+* HR Tech Agentic Customer-service Assistant — an APAC HR software company (2023-08 to 2024-12)
+  Led the delivery of an agentic customer-service assistant for an APAC HR software company in HR tech using Communication and LLM Engineering, saving ~40K hours annually.
+* HR Tech Document Intelligence Pipeline — an APAC HR software company (2023-01 to 2023-07)
+  Automated a document intelligence pipeline for an APAC HR software company in HR tech using Vector Databases, LLM Engineering, Generative AI and Communication, reducing processing time by 30%.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: ML Engineer

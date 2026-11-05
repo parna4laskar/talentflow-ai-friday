@@ -1,0 +1,30 @@
+ZHI HAO SINGH
+Senior Data Engineer | Data & Analytics | Singapore, Singapore
+Employee ID: EMP10493
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 8.1 years of experience, based in Singapore. Strong in Databricks, SQL, Python and Data Engineering, with recent work in wealth management. Interested in moving towards Data Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: Databricks (Advanced, 5.9y), SQL (Proficient, 2.0y), Data Engineering (Proficient, 4.7y), dbt (Proficient, 5.7y), Airflow (Proficient, 2.6y), LLM Engineering (Proficient, 4.4y)
+- Software Engineering: Python (Proficient, 4.2y), Kafka (Proficient, 3.1y)
+- Cloud & DevOps: AWS (Proficient, 5.0y)
+- Delivery & Leadership: Communication (Proficient, 4.0y)
+
+EXPERIENCE
+* Wealth Management Data Lakehouse — a European wealth manager (2026-10 to present)
+  Led the delivery of a data lakehouse for a European wealth manager in wealth management using SQL, Kafka and Communication, cutting cloud spend by 40%.
+* Wealth Management Regulatory Reporting Suite — a tier-1 wealth manager (2025-06 to 2026-08)
+  Designed a regulatory reporting suite for a tier-1 wealth manager in wealth management using Kafka, dbt, Data Engineering and Python, saving ~25K hours annually.
+* Wealth Management Real-time Analytics Pipeline — a US wealth manager (2024-06 to 2025-04)
+  Modernised a real-time analytics pipeline for a US wealth manager in wealth management using LLM Engineering, Databricks and Data Engineering, cutting cloud spend by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, Data Scientist, Backend Engineer, ML Engineer

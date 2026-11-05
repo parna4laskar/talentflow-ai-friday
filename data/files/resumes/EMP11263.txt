@@ -1,0 +1,27 @@
+ROHAN SUBRAMANIAN
+Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP11263
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 2.3 years of experience, based in Pune. Strong in Mobile Development, Java, Test Automation and UI Design, with recent work in e-commerce. Interested in moving towards Backend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 1.4y), Java (Proficient, 0.9y), React (Beginner, 0.4y)
+- Quality Engineering: Test Automation (Working, 1.1y), Playwright (Working, 0.3y)
+- Product & Design: UI Design (Working, 0.8y)
+
+EXPERIENCE
+* E-commerce Payments Microservices Platform — a US online retailer (2025-07 to present)
+  Led the delivery of a payments microservices platform for a US online retailer in e-commerce using UI Design, Playwright and React, reducing processing time by 12%.
+* Retail Banking Pricing Engine — a European retail bank (2024-10 to 2025-05)
+  Modernised a pricing engine for a European retail bank in retail banking using Test Automation, UI Design, React and Mobile Development, improving conversion by 22%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, QA Engineer

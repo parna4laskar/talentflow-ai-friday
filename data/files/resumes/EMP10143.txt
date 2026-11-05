@@ -1,0 +1,30 @@
+SAMUEL HUGHES
+Associate Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10143
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.6 years of experience, based in London. Strong in Angular, Node.js, TypeScript and JavaScript, with recent work in manufacturing IoT. Interested in moving towards Frontend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Proficient, 1.0y), Node.js (Proficient, 0.5y), TypeScript (Working, 0.3y), JavaScript (Working, 0.4y), Next.js (Beginner, 0.3y)
+- Quality Engineering: Selenium (Working, 0.4y), API Testing (Working, 0.5y), Playwright (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a fast-growing manufacturer (2026-04 to present)
+  Led the delivery of a mobile banking app for a fast-growing manufacturer in manufacturing IoT using Angular, JavaScript, Communication and TypeScript, improving conversion by 40%.
+* Pharma R&D Customer Onboarding Platform — a tier-1 pharma company (2025-08 to 2026-02)
+  Led the delivery of a customer onboarding platform for a tier-1 pharma company in pharma R&D using TypeScript, Next.js, Communication and Angular, lifting NPS by 25 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Spanish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Frontend Engineer, QA Engineer

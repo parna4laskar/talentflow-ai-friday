@@ -1,0 +1,30 @@
+VARUN TAN
+Lead AI Engineer | AI Center of Excellence | Chennai, India
+Employee ID: EMP10180
+
+PROFESSIONAL SUMMARY
+Lead AI Engineer with 10.3 years of experience, based in Chennai. Strong in Python, LLM Engineering, Vector Databases and Azure, with recent work in airline operations. Interested in moving towards AI Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 7.5y), REST API Design (Advanced, 6.2y)
+- Data & AI: LLM Engineering (Advanced, 5.2y), Vector Databases (Advanced, 3.4y), Agentic AI (Advanced, 4.4y), Generative AI (Proficient, 2.2y)
+- Cloud & DevOps: Azure (Advanced, 9.8y)
+- Delivery & Leadership: Communication (Advanced, 2.4y), Stakeholder Management (Proficient, 1.0y)
+
+EXPERIENCE
+* Airline Operations Agentic Customer-service Assistant — an APAC airline (2026-02 to present)
+  Modernised an agentic customer-service assistant for an APAC airline in airline operations using Agentic AI and Python, saving ~25K hours annually.
+* E-commerce Knowledge Assistant (RAG) — a global online retailer (2025-03 to 2026-01)
+  Re-architected a knowledge assistant (RAG) for a global online retailer in e-commerce using Python, Stakeholder Management and Vector Databases, saving ~25K hours annually.
+* Airline Operations Recommendation Engine — an APAC airline (2023-11 to 2025-02)
+  Designed a recommendation engine for an APAC airline in airline operations using LLM Engineering and REST API Design, improving conversion by 30%.
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Data Scientist, DevOps Engineer

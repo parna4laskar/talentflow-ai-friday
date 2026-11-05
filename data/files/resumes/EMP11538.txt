@@ -1,0 +1,27 @@
+BHAVANA GOKHALE
+Associate QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP11538
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 1.5 years of experience, based in Bengaluru. Strong in API Testing, Test Automation, Selenium and Java, with recent work in retail banking. Interested in moving towards QA Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Proficient, 0.5y), Test Automation (Working, 0.6y), Selenium (Working, 0.7y)
+- Software Engineering: Java (Working, 0.4y)
+- Cloud & DevOps: CI/CD (Working, 0.5y), FinOps (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Test Automation Framework — a US retail bank (2026-06 to present)
+  Led the delivery of a test automation framework for a US retail bank in retail banking using API Testing, Java, Test Automation and CI/CD, accelerating releases by 30%.
+* Retail Banking Performance Engineering Programme — an APAC retail bank (2024-10 to 2026-04)
+  Designed a performance engineering programme for an APAC retail bank in retail banking using FinOps and Selenium, reducing production incidents by 40%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: QA Engineer, DevOps Engineer

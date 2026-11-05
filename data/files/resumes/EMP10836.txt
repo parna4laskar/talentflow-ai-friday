@@ -1,0 +1,32 @@
+PRASAD KAUR
+Lead Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10836
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 14.5 years of experience, based in Bengaluru. Strong in Angular, TypeScript, JavaScript and Figma, with recent work in public sector. Interested in moving towards QA Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 7.4y), TypeScript (Advanced, 2.9y), JavaScript (Advanced, 0.9y), GraphQL (Advanced, 13.6y)
+- Product & Design: Figma (Advanced, 10.7y)
+- Cloud & DevOps: CI/CD (Advanced, 4.4y)
+- Delivery & Leadership: Stakeholder Management (Working, 4.8y)
+
+EXPERIENCE
+* Public Sector Payments Microservices Platform — an APAC government agency (2025-10 to present)
+  Designed a payments microservices platform for an APAC government agency in public sector using Angular and TypeScript, accelerating releases by 22%.
+* HR Tech Order Management System — a leading HR software company (2024-05 to 2025-09)
+  Automated an order management system for a leading HR software company in HR tech using Figma and Stakeholder Management, onboarding 4 new enterprise clients.
+* Automotive Self-service Portal — a fast-growing car maker (2022-12 to 2024-04)
+  Led the delivery of a self-service portal for a fast-growing car maker in automotive using Stakeholder Management, GraphQL, Figma and TypeScript, lifting NPS by 40 points.
+* Public Sector Claims Processing Engine — a leading government agency (2021-06 to 2022-10)
+  Scaled a claims processing engine for a leading government agency in public sector using GraphQL, Stakeholder Management, Figma and JavaScript, reducing processing time by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer, Mobile Engineer, UX Designer

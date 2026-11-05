@@ -1,0 +1,26 @@
+FÉLIX WONG
+SAP Consultant | Enterprise Applications | Toronto, Canada
+Employee ID: EMP10859
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 2.3 years of experience, based in Toronto. Strong in SAP S/4HANA, Business Analysis, Financial Analysis and Process Improvement, with recent work in energy trading. Interested in moving towards Business Analyst, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP S/4HANA (Advanced, 1.7y), Business Analysis (Advanced, 1.8y), Financial Analysis (Proficient, 1.2y), Process Improvement (Proficient, 0.7y), Requirements Gathering (Working, 0.4y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.5y)
+
+EXPERIENCE
+* Energy Trading Service Desk Automation — an APAC energy company (2026-08 to present)
+  Built a service desk automation for an APAC energy company in energy trading using Financial Analysis and SAP S/4HANA, saving ~25K hours annually.
+* Energy Trading Service Desk Automation — a tier-1 energy company (2025-12 to 2026-06)
+  Modernised a service desk automation for a tier-1 energy company in energy trading using SAP S/4HANA and Requirements Gathering, reducing processing time by 40%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst, Risk & Compliance Analyst, Financial Analyst

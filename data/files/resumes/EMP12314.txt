@@ -1,0 +1,33 @@
+BHAVANA RAO
+Senior Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP12314
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 5.8 years of experience, based in Bengaluru. Strong in Statistics, Python, SQL and Deep Learning, with recent work in HR tech. Interested in moving towards Data Scientist, Product Manager roles and open to relocating to Dublin, Hyderabad, Toronto.
+
+CORE SKILLS
+- Data & AI: Statistics (Expert, 0.6y), SQL (Advanced, 0.8y), Deep Learning (Advanced, 2.4y), Machine Learning (Proficient, 3.2y), NLP (Proficient, 0.9y), LLM Engineering (Beginner, 0.4y)
+- Software Engineering: Python (Advanced, 0.5y)
+- Delivery & Leadership: Communication (Advanced, 3.0y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.0y)
+
+EXPERIENCE
+* HR Tech Regulatory Reporting Suite — an APAC HR software company (2026-03 to present)
+  Designed a regulatory reporting suite for an APAC HR software company in HR tech using Communication and SQL, reducing processing time by 30%.
+* Pharma R&D Customer Churn Model — a tier-1 pharma company (2025-05 to 2026-02)
+  Led the delivery of a customer churn model for a tier-1 pharma company in pharma R&D using Deep Learning, LLM Engineering, Statistics and Python, improving model accuracy by 30%.
+* HR Tech Executive KPI Dashboard Suite — an APAC HR software company (2024-09 to 2025-04)
+  Automated an executive KPI dashboard suite for an APAC HR software company in HR tech using LLM Engineering and Machine Learning, improving forecast accuracy by 35%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Scientist, Product Manager, AI Engineer, ML Engineer

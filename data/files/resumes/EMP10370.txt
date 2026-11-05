@@ -1,0 +1,28 @@
+ABHISHEK DESHPANDE
+Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP10370
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.8 years of experience, based in Chennai. Strong in Angular, Node.js, Communication and TypeScript, with recent work in automotive. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to Bengaluru, Dublin, Gurugram.
+
+CORE SKILLS
+- Software Engineering: Angular (Proficient, 0.9y), Node.js (Proficient, 0.7y), TypeScript (Working, 1.3y), Next.js (Working, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 1.3y)
+- Data & AI: SQL (Working, 1.2y), Snowflake (Working, 0.7y)
+- Cloud & DevOps: Docker (Working, 1.0y), Kubernetes (Working, 0.6y)
+
+EXPERIENCE
+* Automotive Payments Microservices Platform — a tier-1 car maker (2025-12 to present)
+  Scaled a payments microservices platform for a tier-1 car maker in automotive using TypeScript, Node.js and Kubernetes, reducing processing time by 30%.
+* Automotive Self-service Portal — a fast-growing car maker (2024-05 to 2025-10)
+  Designed a self-service portal for a fast-growing car maker in automotive using Angular, Docker, Node.js and Kubernetes, lifting NPS by 18 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Software Architect, Backend Engineer, Frontend Engineer

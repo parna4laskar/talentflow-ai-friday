@@ -1,0 +1,31 @@
+SURESH KULKARNI
+Senior Data Scientist | Data & Analytics | Hyderabad, India
+Employee ID: EMP11341
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 8.3 years of experience, based in Hyderabad. Strong in Statistics, SQL, A/B Testing and Python, with recent work in healthcare. Interested in moving towards ML Engineer roles and open to relocating to Gurugram, Austin.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 5.5y), SQL (Advanced, 1.6y), Machine Learning (Proficient, 0.5y), Generative AI (Proficient, 5.9y), NLP (Proficient, 3.0y), MLOps (Proficient, 6.0y), Apache Spark (Proficient, 0.6y)
+- Product & Design: A/B Testing (Advanced, 6.4y)
+- Software Engineering: Python (Proficient, 1.6y)
+
+EXPERIENCE
+* Healthcare Customer Churn Model — a European hospital network (2026-09 to present)
+  Re-architected a customer churn model for a European hospital network in healthcare using A/B Testing, Python and Statistics, improving model accuracy by 12%.
+* Supply-chain Logistics Executive KPI Dashboard Suite — a leading logistics company (2025-07 to 2026-08)
+  Re-architected an executive KPI dashboard suite for a leading logistics company in supply-chain logistics using Python and MLOps, improving forecast accuracy by 22%.
+* Healthcare Data Lakehouse — a tier-1 hospital network (2024-11 to 2025-04)
+  Automated a data lakehouse for a tier-1 hospital network in healthcare using Generative AI and MLOps, reducing processing time by 40%.
+* Payments Real-time Analytics Pipeline — a tier-1 payments provider (2023-07 to 2024-10)
+  Modernised a real-time analytics pipeline for a tier-1 payments provider in payments using NLP, A/B Testing, Apache Spark and MLOps, cutting cloud spend by 12%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: ML Engineer

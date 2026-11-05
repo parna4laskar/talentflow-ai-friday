@@ -1,0 +1,26 @@
+SNEHA GUPTA
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12598
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.6 years of experience, based in Bengaluru. Strong in Data Engineering, Apache Spark, Python and Airflow, with recent work in automotive. Interested in moving towards Data Scientist, Backend Engineer roles and open to relocating to Hyderabad, New York, Toronto.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Proficient, 0.4y), Apache Spark (Proficient, 0.4y), Airflow (Working, 0.3y), dbt (Working, 0.3y), Snowflake (Working, 0.3y), SQL (Beginner, 0.3y), Databricks (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.3y), Kafka (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Executive KPI Dashboard Suite — a European airline (2026-12 to present)
+  Migrated an executive KPI dashboard suite for a European airline in airline operations using Kafka and SQL, saving ~25K hours annually.
+* Automotive Data Lakehouse — a global car maker (2026-01 to 2026-11)
+  Designed a data lakehouse for a global car maker in automotive using Snowflake, Airflow and Kafka, reducing processing time by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist, Backend Engineer

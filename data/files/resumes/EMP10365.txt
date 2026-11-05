@@ -1,0 +1,32 @@
+PRIYA GOKHALE
+Lead Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10365
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 14.2 years of experience, based in Pune. Strong in C#, SQL, Microservices and System Design, with recent work in automotive. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 2.9y), Microservices (Advanced, 2.5y), System Design (Advanced, 13.3y), REST API Design (Proficient, 6.0y), .NET Core (Proficient, 6.8y), Kafka (Proficient, 9.1y)
+- Data & AI: SQL (Advanced, 2.4y)
+- Cloud & DevOps: Docker (Advanced, 13.3y), CI/CD (Proficient, 9.4y), Kubernetes (Proficient, 7.2y)
+- Delivery & Leadership: Mentoring (Advanced, 9.5y), Stakeholder Management (Proficient, 10.6y)
+
+EXPERIENCE
+* Wealth Management Order Management System — a fast-growing wealth manager (2026-05 to present)
+  Led the delivery of an order management system for a fast-growing wealth manager in wealth management using .NET Core and System Design, reducing processing time by 18%.
+* Automotive Order Management System — a leading car maker (2024-08 to 2026-02)
+  Modernised an order management system for a leading car maker in automotive using Kubernetes, Mentoring and REST API Design, reducing processing time by 22%.
+* Automotive Mobile Banking App — a global car maker (2023-09 to 2024-07)
+  Led the delivery of a mobile banking app for a global car maker in automotive using Microservices, .NET Core and Mentoring, lifting NPS by 35 points.
+* Automotive Claims Processing Engine — a European car maker (2022-10 to 2023-07)
+  Re-architected a claims processing engine for a European car maker in automotive using Kubernetes and Mentoring, saving ~12K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer

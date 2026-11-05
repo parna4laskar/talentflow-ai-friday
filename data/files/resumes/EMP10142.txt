@@ -1,0 +1,35 @@
+WILLIAM WALKER
+AI Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP10142
+
+PROFESSIONAL SUMMARY
+AI Engineer with 3.8 years of experience, based in London. Strong in Vector Databases, Python, LLM Engineering and NLP, with recent work in wealth management. Interested in moving towards AI Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: Vector Databases (Advanced, 0.8y), LLM Engineering (Proficient, 2.7y), NLP (Proficient, 2.0y), Generative AI (Working, 0.8y), Agentic AI (Working, 1.5y)
+- Software Engineering: Python (Proficient, 1.6y), REST API Design (Proficient, 1.4y)
+- Delivery & Leadership: Communication (Proficient, 2.6y)
+- Cloud & DevOps: Azure (Working, 1.6y)
+
+EXPERIENCE
+* Wealth Management Fraud Detection Model — a tier-1 wealth manager (2026-05 to present)
+  Led the delivery of a fraud detection model for a tier-1 wealth manager in wealth management using REST API Design, NLP, Python and Generative AI, improving model accuracy by 22%.
+* HR Tech Knowledge Assistant (RAG) — a tier-1 HR software company (2025-11 to 2026-04)
+  Automated a knowledge assistant (RAG) for a tier-1 HR software company in HR tech using NLP, Communication and Azure, lifting NPS by 18 points.
+* Insurance Claims Agentic Customer-service Assistant — a US insurer (2024-05 to 2025-09)
+  Led the delivery of an agentic customer-service assistant for a US insurer in insurance claims using Python, NLP, Agentic AI and Vector Databases, saving ~35K hours annually.
+* Wealth Management Knowledge Assistant (RAG) — a global wealth manager (2023-08 to 2024-04)
+  Re-architected a knowledge assistant (RAG) for a global wealth manager in wealth management using REST API Design, Vector Databases, Communication and Generative AI, lifting NPS by 25 points.
+
+CERTIFICATIONS
+- Google Generative AI Leader (2025)
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Full Stack Engineer, DevOps Engineer, ML Engineer

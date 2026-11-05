@@ -1,0 +1,34 @@
+SAMEER GOH
+Senior DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12320
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 8.6 years of experience, based in Bengaluru. Strong in Observability, CI/CD, Docker and Kubernetes, with recent work in healthcare. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Advanced, 5.1y), CI/CD (Proficient, 6.1y), Docker (Proficient, 1.7y), Kubernetes (Proficient, 5.2y), GCP (Proficient, 1.1y), Terraform (Working, 2.5y)
+- Software Engineering: Go (Proficient, 6.3y), Python (Proficient, 6.0y)
+- Quality Engineering: Playwright (Proficient, 2.5y)
+
+EXPERIENCE
+* Public Sector Cloud Landing Zone — a tier-1 government agency (2025-07 to present)
+  Migrated a cloud landing zone for a tier-1 government agency in public sector using GCP, Playwright and Go, accelerating releases by 12%.
+* Healthcare Data-centre Exit To Cloud — a fast-growing hospital network (2024-06 to 2025-05)
+  Designed a data-centre exit to cloud for a fast-growing hospital network in healthcare using Kubernetes, Terraform, Python and Observability, cutting cloud spend by 35%.
+* Healthcare Observability Stack — a fast-growing hospital network (2023-03 to 2024-05)
+  Modernised an observability stack for a fast-growing hospital network in healthcare using Python and Go, reducing production incidents by 22%.
+* Healthcare Kubernetes Platform — a global hospital network (2021-09 to 2023-02)
+  Led the delivery of a Kubernetes platform for a global hospital network in healthcare using GCP, CI/CD, Docker and Playwright, reducing production incidents by 12%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Site Reliability Engineer, Cloud Engineer

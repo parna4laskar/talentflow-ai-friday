@@ -1,0 +1,32 @@
+FATIMA GUPTA
+Senior ML Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12615
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 11 years of experience, based in Hyderabad. Strong in Deep Learning, Docker, Computer Vision and Kubernetes, with recent work in manufacturing IoT. Interested in moving towards Data Scientist, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: Deep Learning (Advanced, 6.6y), Computer Vision (Advanced, 7.0y), Statistics (Advanced, 1.3y), Machine Learning (Proficient, 7.8y), MLOps (Proficient, 1.7y)
+- Cloud & DevOps: Docker (Advanced, 5.6y), Kubernetes (Advanced, 10.2y), AWS (Proficient, 2.8y), CI/CD (Proficient, 4.7y)
+- Software Engineering: Python (Proficient, 8.1y)
+- Delivery & Leadership: Communication (Proficient, 7.3y)
+
+EXPERIENCE
+* Manufacturing IoT Knowledge Assistant (RAG) — a fast-growing manufacturer (2026-10 to present)
+  Led the delivery of a knowledge assistant (RAG) for a fast-growing manufacturer in manufacturing IoT using Computer Vision and Kubernetes, lifting NPS by 25 points.
+* Pharma R&D Fraud Detection Model — an APAC pharma company (2026-01 to 2026-07)
+  Designed a fraud detection model for an APAC pharma company in pharma R&D using MLOps, AWS and Kubernetes, improving model accuracy by 12%.
+* Payments Agentic Customer-service Assistant — a tier-1 payments provider (2024-08 to 2025-12)
+  Migrated an agentic customer-service assistant for a tier-1 payments provider in payments using Statistics, AWS, Computer Vision and Kubernetes, saving ~30K hours annually.
+* Manufacturing IoT Recommendation Engine — an APAC manufacturer (2023-03 to 2024-07)
+  Automated a recommendation engine for an APAC manufacturer in manufacturing IoT using MLOps, AWS and Communication, improving conversion by 30%.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Scientist, DevOps Engineer

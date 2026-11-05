@@ -1,0 +1,30 @@
+CONOR BYRNE
+Senior Data Analyst | Data & Analytics | Dublin, Ireland
+Employee ID: EMP11359
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 6.4 years of experience, based in Dublin. Strong in SQL, Data Visualization, Communication and Stakeholder Management, with recent work in manufacturing IoT. Interested in moving towards Business Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 6.4y), Data Visualization (Advanced, 0.9y), Snowflake (Working, 0.6y), Power BI (Beginner, 1.1y)
+- Delivery & Leadership: Communication (Advanced, 3.1y), Stakeholder Management (Proficient, 0.9y)
+- Product & Design: A/B Testing (Working, 2.9y)
+- Business & Finance: Business Analysis (Working, 1.7y)
+
+EXPERIENCE
+* Manufacturing IoT Data Lakehouse — a European manufacturer (2025-06 to present)
+  Designed a data lakehouse for a European manufacturer in manufacturing IoT using A/B Testing, SQL and Snowflake, reducing processing time by 30%.
+* Pharma R&D Executive KPI Dashboard Suite — a global pharma company (2024-01 to 2025-04)
+  Built an executive KPI dashboard suite for a global pharma company in pharma R&D using Power BI, Stakeholder Management and SQL, saving ~18K hours annually.
+* Manufacturing IoT Data Lakehouse — a global manufacturer (2022-09 to 2023-11)
+  Re-architected a data lakehouse for a global manufacturer in manufacturing IoT using A/B Testing and SQL, reducing processing time by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, Financial Analyst

@@ -1,0 +1,35 @@
+JANHAVI VERMA
+AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12279
+
+PROFESSIONAL SUMMARY
+AI Engineer with 3.9 years of experience, based in Hyderabad. Strong in Python, Generative AI, LLM Engineering and REST API Design, with recent work in e-commerce. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.8y), REST API Design (Proficient, 0.4y)
+- Data & AI: Generative AI (Advanced, 2.0y), LLM Engineering (Proficient, 0.6y), Responsible AI (Working, 1.8y), Agentic AI (Working, 1.8y)
+- Cloud & DevOps: Azure (Working, 1.3y), Docker (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Working, 1.4y)
+
+EXPERIENCE
+* E-commerce Agentic Customer-service Assistant — a fast-growing online retailer (2026-12 to present)
+  Scaled an agentic customer-service assistant for a fast-growing online retailer in e-commerce using REST API Design, Python, Generative AI and Agentic AI, saving ~40K hours annually.
+* E-commerce Recommendation Engine — a US online retailer (2026-04 to 2026-11)
+  Migrated a recommendation engine for a US online retailer in e-commerce using Python, Azure, Communication and Docker, improving conversion by 25%.
+* E-commerce Fraud Detection Model — an APAC online retailer (2025-01 to 2026-02)
+  Re-architected a fraud detection model for an APAC online retailer in e-commerce using LLM Engineering and Python, reducing processing time by 12%.
+* E-commerce Fraud Detection Model — a global online retailer (2024-03 to 2024-10)
+  Automated a fraud detection model for a global online retailer in e-commerce using Azure and Python, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Google Generative AI Leader (2024)
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, DevOps Engineer

@@ -1,0 +1,34 @@
+CARLOS JOHNSON
+Cloud Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP12331
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.9 years of experience, based in Austin. Strong in AWS, Terraform, Linux Administration and FinOps, with recent work in manufacturing IoT. Interested in moving towards Site Reliability Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Proficient, 3.0y), Terraform (Proficient, 3.7y), Linux Administration (Proficient, 1.6y), FinOps (Proficient, 2.6y), Platform Engineering (Proficient, 4.4y), Kubernetes (Working, 0.6y)
+- Delivery & Leadership: Communication (Proficient, 2.6y)
+- Software Engineering: Python (Working, 1.8y)
+- Data & AI: Generative AI (Working, 2.2y)
+
+EXPERIENCE
+* Pharma R&D Data-centre Exit To Cloud — a US pharma company (2026-05 to present)
+  Modernised a data-centre exit to cloud for a US pharma company in pharma R&D using Communication, Platform Engineering, Linux Administration and FinOps, delivering $3M in cost savings.
+* Manufacturing IoT CI/CD Platform — a leading manufacturer (2025-07 to 2026-04)
+  Designed a CI/CD platform for a leading manufacturer in manufacturing IoT using Generative AI and Platform Engineering, accelerating releases by 25%.
+* Manufacturing IoT Data-centre Exit To Cloud — an APAC manufacturer (2024-09 to 2025-06)
+  Modernised a data-centre exit to cloud for an APAC manufacturer in manufacturing IoT using Kubernetes and Generative AI, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2024)
+- Google Professional Cloud Architect (2021)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, DevOps Engineer, Platform Engineer

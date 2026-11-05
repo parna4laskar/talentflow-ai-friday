@@ -1,0 +1,27 @@
+CARLOS GARCIA
+Associate UX Designer | Design | New York, United States
+Employee ID: EMP10211
+
+PROFESSIONAL SUMMARY
+Associate UX Designer with 1.7 years of experience, based in New York. Strong in Figma, UX Research, UI Design and Communication, with recent work in insurance claims. Interested in moving towards Marketing Specialist, Frontend Engineer roles.
+
+CORE SKILLS
+- Product & Design: Figma (Advanced, 0.8y), UX Research (Proficient, 1.2y), UI Design (Proficient, 0.6y), Design Systems (Working, 0.3y), A/B Testing (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.8y)
+- Data & AI: Generative AI (Beginner, 0.4y)
+
+EXPERIENCE
+* Healthcare Onboarding Flow — a US hospital network (2025-11 to present)
+  Ran research for an onboarding flow for a US hospital network in healthcare using Generative AI, Design Systems and A/B Testing, improving conversion by 22%.
+* Public Sector Customer Self-service Journey — a global government agency (2024-03 to 2025-08)
+  Led UX for a customer self-service journey for a global government agency in public sector using A/B Testing, Generative AI and UI Design, lifting NPS by 18 points.
+
+EDUCATION
+- BA Psychology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Marketing Specialist, Frontend Engineer

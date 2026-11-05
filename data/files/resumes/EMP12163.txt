@@ -1,0 +1,28 @@
+CHRISTOPHER LEE
+Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP12163
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.3 years of experience, based in New York. Strong in TypeScript, React, Java and SQL, with recent work in pharma R&D. Interested in moving towards Frontend Engineer, Mobile Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.8y), React (Proficient, 0.8y), Java (Proficient, 1.6y), Next.js (Proficient, 0.6y), REST API Design (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 1.7y), Generative AI (Working, 0.3y)
+- Cloud & DevOps: Docker (Working, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+
+EXPERIENCE
+* Payments Payments Microservices Platform — a leading payments provider (2026-02 to present)
+  Scaled a payments microservices platform for a leading payments provider in payments using React and Next.js, reducing processing time by 40%.
+* Pharma R&D Claims Processing Engine — a global pharma company (2025-04 to 2025-12)
+  Led the delivery of a claims processing engine for a global pharma company in pharma R&D using Next.js, Generative AI and TypeScript, saving ~30K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer, Mobile Engineer

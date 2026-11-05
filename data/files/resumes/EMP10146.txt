@@ -1,0 +1,32 @@
+GAURAV BANERJEE
+Senior Business Analyst | Business Consulting | Pune, India
+Employee ID: EMP10146
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 5 years of experience, based in Pune. Strong in Stakeholder Management, Requirements Gathering, Power BI and Agile/Scrum, with recent work in wealth management. Interested in moving towards Business Analyst, Product Manager roles and open to relocating to Dublin, Kraków, Toronto.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 4.7y), Agile/Scrum (Proficient, 2.5y), Communication (Proficient, 0.7y)
+- Business & Finance: Requirements Gathering (Proficient, 2.5y), Business Analysis (Working, 1.1y), Salesforce (Working, 1.2y)
+- Data & AI: Power BI (Proficient, 1.1y)
+- Cloud & DevOps: FinOps (Working, 2.0y)
+
+EXPERIENCE
+* Wealth Management Core Banking Transformation Programme — a European wealth manager (2025-10 to present)
+  Ran a core banking transformation programme for a European wealth manager in wealth management using Salesforce, Power BI, Business Analysis and Stakeholder Management, delivering $2M in cost savings.
+* Wealth Management Agile Transformation — a fast-growing wealth manager (2024-05 to 2025-07)
+  Delivered an agile transformation for a fast-growing wealth manager in wealth management using Salesforce, Communication, Stakeholder Management and Power BI, delivering on time across 2 workstreams.
+* Wealth Management Cloud Migration Programme — a global wealth manager (2022-09 to 2024-02)
+  Led a cloud migration programme for a global wealth manager in wealth management using Requirements Gathering, Stakeholder Management and Communication, delivering on time across 5 workstreams.
+* Wealth Management Process Re-engineering Initiative — a US wealth manager (2021-02 to 2022-06)
+  Delivered a process re-engineering initiative for a US wealth manager in wealth management using Communication, Salesforce, Power BI and Business Analysis, delivering $8M in cost savings.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Business Analyst, Product Manager, CRM Consultant, Data Analyst

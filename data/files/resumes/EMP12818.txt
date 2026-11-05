@@ -1,0 +1,32 @@
+DANIEL SMITH
+Senior Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP12818
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 10.6 years of experience, based in London. Strong in TypeScript, Java, React and Docker, with recent work in supply-chain logistics. Interested in moving towards Software Architect, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 4.7y), Java (Expert, 8.1y), React (Advanced, 10.1y), Next.js (Proficient, 5.0y), REST API Design (Proficient, 7.9y), GraphQL (Proficient, 4.1y), Angular (Proficient, 0.4y)
+- Cloud & DevOps: Docker (Advanced, 8.4y)
+- Data & AI: SQL (Proficient, 2.5y)
+- Delivery & Leadership: Communication (Beginner, 1.7y)
+
+EXPERIENCE
+* Automotive Claims Processing Engine — a tier-1 car maker (2025-12 to present)
+  Designed a claims processing engine for a tier-1 car maker in automotive using Docker and GraphQL, saving ~30K hours annually.
+* Payments Payments Microservices Platform — a leading payments provider (2025-04 to 2025-12)
+  Built a payments microservices platform for a leading payments provider in payments using React, GraphQL, SQL and Docker, reducing production incidents by 22%.
+* Supply-chain Logistics Order Management System — a US logistics company (2024-01 to 2025-02)
+  Modernised an order management system for a US logistics company in supply-chain logistics using Communication, Docker, React and SQL, onboarding 3 new enterprise clients.
+* Supply-chain Logistics Mobile Banking App — a US logistics company (2023-04 to 2023-12)
+  Built a mobile banking app for a US logistics company in supply-chain logistics using REST API Design, Next.js, Docker and SQL, lifting NPS by 18 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, Frontend Engineer

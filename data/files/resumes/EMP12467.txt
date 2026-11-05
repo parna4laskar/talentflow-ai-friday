@@ -1,0 +1,37 @@
+KARTHIK NOWAK
+Lead Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12467
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 8.6 years of experience, based in Bengaluru. Strong in Terraform, Python, Cloud Security and Communication, with recent work in wealth management. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 6.1y), AWS (Proficient, 2.8y), Linux Administration (Proficient, 4.1y), FinOps (Proficient, 1.8y), CI/CD (Proficient, 4.8y), Platform Engineering (Proficient, 5.0y)
+- Software Engineering: Python (Advanced, 0.7y)
+- Security: Cloud Security (Advanced, 7.3y)
+- Delivery & Leadership: Communication (Advanced, 8.4y), Stakeholder Management (Proficient, 2.9y)
+- Data & AI: Generative AI (Proficient, 2.9y), Databricks (Proficient, 6.2y)
+
+EXPERIENCE
+* Payments CI/CD Platform — a leading payments provider (2025-07 to present)
+  Designed a CI/CD platform for a leading payments provider in payments using Terraform, Stakeholder Management, FinOps and Databricks, accelerating releases by 35%.
+* Wealth Management Data-centre Exit To Cloud — an APAC wealth manager (2023-11 to 2025-05)
+  Scaled a data-centre exit to cloud for an APAC wealth manager in wealth management using Communication and Stakeholder Management, cutting cloud spend by 22%.
+* Wealth Management CI/CD Platform — a tier-1 wealth manager (2022-06 to 2023-11)
+  Automated a CI/CD platform for a tier-1 wealth manager in wealth management using Cloud Security, Terraform, Generative AI and AWS, accelerating releases by 40%.
+* Media Streaming Observability Stack — a global streaming platform (2021-01 to 2022-05)
+  Scaled an observability stack for a global streaming platform in media streaming using Terraform, Platform Engineering and Databricks, accelerating releases by 30%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2022)
+- Google Professional Cloud Architect (2021)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Platform Engineer

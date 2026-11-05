@@ -1,0 +1,31 @@
+AGNIESZKA LEWANDOWSKI
+Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP12328
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.1 years of experience, based in Kraków. Strong in Kubernetes, Python, SQL and Microservices, with recent work in payments. Interested in moving towards DevOps Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.1y)
+- Software Engineering: Python (Proficient, 1.4y), Microservices (Proficient, 0.7y), System Design (Proficient, 1.8y), Spring Boot (Working, 1.9y), GraphQL (Working, 2.0y), Kafka (Working, 0.4y), REST API Design (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.4y), Responsible AI (Beginner, 0.8y)
+
+EXPERIENCE
+* Wealth Management Payments Microservices Platform — a European wealth manager (2025-11 to present)
+  Designed a payments microservices platform for a European wealth manager in wealth management using System Design, Kafka, Kubernetes and REST API Design, reducing processing time by 25%.
+* Airline Operations Mobile Banking App — a tier-1 airline (2024-08 to 2025-08)
+  Re-architected a mobile banking app for a tier-1 airline in airline operations using System Design, Kafka and Responsible AI, lifting NPS by 35 points.
+* Airline Operations Pricing Engine — a fast-growing airline (2023-06 to 2024-07)
+  Re-architected a pricing engine for a fast-growing airline in airline operations using GraphQL, System Design, Responsible AI and Python, improving conversion by 22%.
+* Payments Pricing Engine — an APAC payments provider (2022-01 to 2023-04)
+  Automated a pricing engine for an APAC payments provider in payments using Spring Boot and Kubernetes, improving conversion by 35%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Software Architect, AI Engineer

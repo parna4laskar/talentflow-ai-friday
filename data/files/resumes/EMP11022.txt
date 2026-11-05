@@ -1,0 +1,28 @@
+LUCAS CAMPBELL
+Associate Financial Analyst | Finance | Toronto, Canada
+Employee ID: EMP11022
+
+PROFESSIONAL SUMMARY
+Associate Financial Analyst with 2.6 years of experience, based in Toronto. Strong in Financial Modeling, Financial Analysis, SAP FICO and FP&A, with recent work in energy trading. Interested in moving towards Financial Analyst, Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Financial Modeling (Advanced, 2.4y), Financial Analysis (Proficient, 0.7y), SAP FICO (Proficient, 0.9y), FP&A (Working, 0.6y), Risk Management (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.7y), Power BI (Working, 0.5y)
+- Delivery & Leadership: Communication (Working, 1.1y)
+- Quality Engineering: Playwright (Beginner, 0.4y)
+
+EXPERIENCE
+* Energy Trading Regulatory Capital Reporting — a US energy company (2026-09 to present)
+  Redesigned a regulatory capital reporting for a US energy company in energy trading using Risk Management, Financial Analysis, Playwright and SAP FICO, reducing processing time by 18%.
+* Energy Trading Cost Transformation Programme — a European energy company (2025-10 to 2026-08)
+  Redesigned a cost transformation programme for a European energy company in energy trading using Financial Analysis, Power BI, Communication and SQL, delivering $3M in cost savings.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Financial Analyst, Data Analyst

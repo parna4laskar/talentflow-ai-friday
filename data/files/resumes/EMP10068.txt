@@ -1,0 +1,31 @@
+NIKHIL KAPOOR
+Senior Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP10068
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 10.7 years of experience, based in Chennai. Strong in Python, Apache Spark, SQL and Data Engineering, with recent work in public sector. Interested in moving towards Data Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 10.3y)
+- Data & AI: Apache Spark (Advanced, 5.9y), SQL (Proficient, 0.6y), Data Engineering (Proficient, 1.8y), Data Governance (Proficient, 2.9y), dbt (Working, 2.1y), Databricks (Working, 1.8y), Snowflake (Working, 4.5y)
+- Delivery & Leadership: Communication (Proficient, 2.1y)
+
+EXPERIENCE
+* Public Sector Customer Churn Model — a fast-growing government agency (2026-08 to present)
+  Led the delivery of a customer churn model for a fast-growing government agency in public sector using Data Engineering, Python and dbt, improving conversion by 35%.
+* Manufacturing IoT Data Lakehouse — a tier-1 manufacturer (2025-09 to 2026-06)
+  Migrated a data lakehouse for a tier-1 manufacturer in manufacturing IoT using Databricks and Python, reducing processing time by 18%.
+* Public Sector Executive KPI Dashboard Suite — a global government agency (2024-05 to 2025-08)
+  Automated an executive KPI dashboard suite for a global government agency in public sector using Communication, Apache Spark, Data Engineering and Data Governance, saving ~30K hours annually.
+* Public Sector Data Lakehouse — a global government agency (2023-11 to 2024-04)
+  Re-architected a data lakehouse for a global government agency in public sector using Communication and Databricks, reducing processing time by 35%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, Backend Engineer

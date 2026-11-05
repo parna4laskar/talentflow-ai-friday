@@ -1,0 +1,30 @@
+KARTHIK JOSHI
+Senior Mobile Engineer | Engineering | Gurugram, India
+Employee ID: EMP11706
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 8.5 years of experience, based in Gurugram. Strong in React, Agentic AI, Mobile Development and UI Design, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, QA Engineer roles and open to relocating to New York, Hyderabad.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 1.8y), Mobile Development (Proficient, 2.5y)
+- Data & AI: Agentic AI (Advanced, 1.5y)
+- Product & Design: UI Design (Proficient, 0.7y)
+- Cloud & DevOps: CI/CD (Working, 1.9y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a global logistics company (2026-05 to present)
+  Built a payments microservices platform for a global logistics company in supply-chain logistics using React, UI Design and CI/CD, reducing processing time by 35%.
+* Supply-chain Logistics Customer Onboarding Platform — an APAC logistics company (2025-12 to 2026-05)
+  Migrated a customer onboarding platform for an APAC logistics company in supply-chain logistics using Mobile Development and UI Design, reducing processing time by 35%.
+* Supply-chain Logistics Customer Onboarding Platform — a tier-1 logistics company (2025-01 to 2025-11)
+  Re-architected a customer onboarding platform for a tier-1 logistics company in supply-chain logistics using CI/CD, Agentic AI, React and UI Design, reducing processing time by 22%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, QA Engineer

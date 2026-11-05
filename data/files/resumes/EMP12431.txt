@@ -1,0 +1,31 @@
+VIVEK RYAN
+Business Analyst | Business Consulting | Chennai, India
+Employee ID: EMP12431
+
+PROFESSIONAL SUMMARY
+Business Analyst with 6 years of experience, based in Chennai. Strong in Stakeholder Management, Communication, SQL and Salesforce, with recent work in retail banking. Interested in moving towards Business Analyst, Data Analyst roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Advanced, 5.1y), Communication (Proficient, 1.5y), Agile/Scrum (Beginner, 0.7y)
+- Data & AI: SQL (Proficient, 4.1y), Data Visualization (Working, 2.1y)
+- Business & Finance: Salesforce (Proficient, 1.8y), Business Analysis (Working, 2.7y), Requirements Gathering (Working, 0.6y), Process Improvement (Working, 1.9y)
+
+EXPERIENCE
+* Wealth Management Agile Transformation — a leading wealth manager (2025-10 to present)
+  Led an agile transformation for a leading wealth manager in wealth management using Requirements Gathering, SQL, Stakeholder Management and Data Visualization, accelerating releases by 40%.
+* Retail Banking Cloud Migration Programme — a US retail bank (2024-07 to 2025-08)
+  Led a cloud migration programme for a US retail bank in retail banking using SQL, Stakeholder Management, Data Visualization and Process Improvement, delivering on time across 8 workstreams.
+* Retail Banking Requirements and UAT for a CRM Rollout — a leading retail bank (2022-12 to 2024-06)
+  Coordinated a requirements and UAT for a CRM rollout for a leading retail bank in retail banking using Requirements Gathering, Stakeholder Management and Business Analysis, delivering on time across 2 workstreams.
+* Wealth Management Agile Transformation — a global wealth manager (2022-06 to 2022-12)
+  Led an agile transformation for a global wealth manager in wealth management using Business Analysis and Process Improvement, delivering on time across 3 workstreams.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Business Analyst, Data Analyst, Product Manager, Scrum Master

@@ -1,0 +1,30 @@
+SURESH KAPOOR
+Lead CRM Consultant | Enterprise Applications | Chennai, India
+Employee ID: EMP12951
+
+PROFESSIONAL SUMMARY
+Lead CRM Consultant with 12.6 years of experience, based in Chennai. Strong in Business Analysis, Salesforce, Agile/Scrum and Process Improvement, with recent work in retail banking. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 2.1y), Salesforce (Advanced, 6.4y), Process Improvement (Proficient, 8.7y), Requirements Gathering (Working, 0.8y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 4.6y), Mentoring (Proficient, 9.2y), Stakeholder Management (Proficient, 1.5y)
+- Software Engineering: JavaScript (Proficient, 6.2y)
+- Cloud & DevOps: Kubernetes (Proficient, 7.3y)
+
+EXPERIENCE
+* Wealth Management ERP Finance Rollout — a leading wealth manager (2025-09 to present)
+  Modernised an ERP finance rollout for a leading wealth manager in wealth management using Requirements Gathering, Business Analysis, Stakeholder Management and Agile/Scrum, reducing processing time by 35%.
+* Retail Banking Service Desk Automation — a global retail bank (2024-05 to 2025-08)
+  Led the delivery of a service desk automation for a global retail bank in retail banking using Process Improvement, Salesforce, Kubernetes and Business Analysis, saving ~25K hours annually.
+* Retail Banking Service Desk Automation — an APAC retail bank (2022-11 to 2024-03)
+  Modernised a service desk automation for an APAC retail bank in retail banking using Stakeholder Management and Requirements Gathering, reducing processing time by 18%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Business Analyst

@@ -1,0 +1,30 @@
+AGNIESZKA WÓJCIK
+Associate Cloud Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11050
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2.2 years of experience, based in Kraków. Strong in Terraform, Linux Administration, GCP and FinOps, with recent work in HR tech. Interested in moving towards Software Architect, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Proficient, 0.4y), Linux Administration (Proficient, 1.6y), GCP (Working, 0.5y), FinOps (Working, 1.1y), CI/CD (Beginner, 0.3y), Kubernetes (Beginner, 0.3y)
+- Security: Cloud Security (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Cloud Landing Zone — a European energy company (2026-04 to present)
+  Scaled a cloud landing zone for a European energy company in energy trading using Cloud Security and Terraform, accelerating releases by 40%.
+* HR Tech Data-centre Exit To Cloud — a US HR software company (2025-09 to 2026-01)
+  Led the delivery of a data-centre exit to cloud for a US HR software company in HR tech using Linux Administration, FinOps and GCP, delivering $3M in cost savings.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Software Architect, Site Reliability Engineer

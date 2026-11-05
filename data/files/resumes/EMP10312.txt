@@ -1,0 +1,35 @@
+SAMEER BHAT
+Senior Data Scientist | Data & Analytics | Bengaluru, India
+Employee ID: EMP10312
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 5.1 years of experience, based in Bengaluru. Strong in Machine Learning, NLP, SQL and MLOps, with recent work in airline operations. Interested in moving towards Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 4.2y), NLP (Advanced, 1.5y), SQL (Proficient, 1.4y), MLOps (Proficient, 2.1y), Statistics (Working, 0.3y)
+- Product & Design: A/B Testing (Proficient, 0.6y)
+- Delivery & Leadership: Communication (Proficient, 1.7y)
+- Software Engineering: Python (Working, 1.5y)
+
+EXPERIENCE
+* Airline Operations Executive KPI Dashboard Suite — a US airline (2026-04 to present)
+  Designed an executive KPI dashboard suite for a US airline in airline operations using NLP, Python and Machine Learning, improving forecast accuracy by 35%.
+* Airline Operations Executive KPI Dashboard Suite — a global airline (2025-05 to 2026-01)
+  Scaled an executive KPI dashboard suite for a global airline in airline operations using Python and A/B Testing, saving ~35K hours annually.
+* Insurance Claims Executive KPI Dashboard Suite — a tier-1 insurer (2024-04 to 2025-04)
+  Migrated an executive KPI dashboard suite for a tier-1 insurer in insurance claims using MLOps and A/B Testing, improving forecast accuracy by 22%.
+* Supply-chain Logistics Executive KPI Dashboard Suite — a US logistics company (2022-11 to 2024-01)
+  Scaled an executive KPI dashboard suite for a US logistics company in supply-chain logistics using MLOps, SQL, Communication and Machine Learning, improving forecast accuracy by 40%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Analyst

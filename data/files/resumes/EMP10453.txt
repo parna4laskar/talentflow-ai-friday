@@ -1,0 +1,26 @@
+VIVEK GUPTA
+Associate DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10453
+
+PROFESSIONAL SUMMARY
+Associate DevOps Engineer with 2.4 years of experience, based in Bengaluru. Strong in GCP, CI/CD, Docker and Go, with recent work in e-commerce. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 1.1y), CI/CD (Proficient, 1.2y), Docker (Proficient, 0.4y), Kubernetes (Working, 0.9y), Linux Administration (Working, 0.8y), Terraform (Working, 1.2y), Observability (Working, 0.6y)
+- Software Engineering: Go (Proficient, 1.6y), Python (Beginner, 0.5y)
+
+EXPERIENCE
+* E-commerce Kubernetes Platform — a global online retailer (2025-11 to present)
+  Designed a Kubernetes platform for a global online retailer in e-commerce using GCP, Terraform and CI/CD, cutting cloud spend by 25%.
+* E-commerce Kubernetes Platform — a global online retailer (2024-06 to 2025-10)
+  Designed a Kubernetes platform for a global online retailer in e-commerce using Kubernetes, GCP and Linux Administration, accelerating releases by 40%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, Platform Engineer, Backend Engineer

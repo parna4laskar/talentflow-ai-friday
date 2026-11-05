@@ -1,0 +1,32 @@
+SOPHIA PATEL
+Backend Engineer | Engineering | New York, United States
+Employee ID: EMP10391
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.1 years of experience, based in New York. Strong in C#, SQL, REST API Design and System Design, with recent work in e-commerce. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 2.7y), REST API Design (Proficient, 1.3y), System Design (Proficient, 3.3y), Kafka (Proficient, 1.7y), Microservices (Working, 0.7y), GraphQL (Working, 2.1y)
+- Data & AI: SQL (Advanced, 2.1y), MLOps (Beginner, 1.1y)
+- Cloud & DevOps: CI/CD (Proficient, 3.5y), Docker (Beginner, 0.3y)
+
+EXPERIENCE
+* E-commerce Payments Microservices Platform — a European online retailer (2026-08 to present)
+  Re-architected a payments microservices platform for a European online retailer in e-commerce using REST API Design, System Design and SQL, reducing production incidents by 35%.
+* E-commerce Pricing Engine — a European online retailer (2025-11 to 2026-07)
+  Modernised a pricing engine for a European online retailer in e-commerce using Docker, CI/CD and SQL, reducing processing time by 35%.
+* E-commerce Payments Microservices Platform — a tier-1 online retailer (2024-07 to 2025-09)
+  Scaled a payments microservices platform for a tier-1 online retailer in e-commerce using C# and REST API Design, reducing processing time by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer

@@ -1,0 +1,32 @@
+JESSICA WASHINGTON
+Senior Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11527
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 8.2 years of experience, based in New York. Strong in CI/CD, GCP, Terraform and Linux Administration, with recent work in automotive. Interested in moving towards Platform Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 6.8y), GCP (Proficient, 4.1y), Terraform (Proficient, 4.2y), Linux Administration (Proficient, 2.8y)
+- Software Engineering: Python (Proficient, 4.1y)
+- Data & AI: Machine Learning (Working, 2.0y)
+
+EXPERIENCE
+* Wealth Management Kubernetes Platform — a fast-growing wealth manager (2026-08 to present)
+  Migrated a Kubernetes platform for a fast-growing wealth manager in wealth management using Terraform, Linux Administration, Machine Learning and GCP, reducing production incidents by 18%.
+* Automotive Kubernetes Platform — a fast-growing car maker (2025-10 to 2026-06)
+  Built a Kubernetes platform for a fast-growing car maker in automotive using Python and CI/CD, reducing production incidents by 30%.
+* Automotive Data-centre Exit To Cloud — a tier-1 car maker (2024-02 to 2025-07)
+  Automated a data-centre exit to cloud for a tier-1 car maker in automotive using Terraform, GCP, Linux Administration and Python, delivering $4M in cost savings.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Platform Engineer, DevOps Engineer, Site Reliability Engineer

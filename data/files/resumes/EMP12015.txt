@@ -1,0 +1,30 @@
+IMRAN SHAH
+Lead Financial Analyst | Finance | Gurugram, India
+Employee ID: EMP12015
+
+PROFESSIONAL SUMMARY
+Lead Financial Analyst with 12.1 years of experience, based in Gurugram. Strong in SAP FICO, Financial Analysis, FP&A and Financial Modeling, with recent work in energy trading. Interested in moving towards Financial Analyst, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Expert, 1.8y), Financial Analysis (Advanced, 3.6y), FP&A (Advanced, 8.4y), Financial Modeling (Proficient, 2.4y), Risk Management (Proficient, 7.3y)
+- Data & AI: SQL (Proficient, 7.5y)
+- Cloud & DevOps: Kubernetes (Proficient, 3.6y)
+- Delivery & Leadership: Mentoring (Proficient, 2.1y)
+
+EXPERIENCE
+* Pharma R&D Rolling Forecasting Model — a fast-growing pharma company (2026-04 to present)
+  Redesigned a rolling forecasting model for a fast-growing pharma company in pharma R&D using Financial Modeling, Financial Analysis, SAP FICO and FP&A, saving ~25K hours annually.
+* Airline Operations Regulatory Capital Reporting — a US airline (2024-12 to 2026-03)
+  Built a regulatory capital reporting for a US airline in airline operations using Financial Analysis and Risk Management, closing 25% of open audit findings.
+* Energy Trading Cost Transformation Programme — a fast-growing energy company (2023-08 to 2024-12)
+  Led a cost transformation programme for a fast-growing energy company in energy trading using SAP FICO, Mentoring and Financial Analysis, delivering $3M in cost savings.
+
+EDUCATION
+- Chartered Accountant
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Financial Analyst, Risk & Compliance Analyst, SAP Consultant, Business Analyst

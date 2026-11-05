@@ -1,0 +1,31 @@
+THOMAS WALKER
+Senior Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP11900
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 10.1 years of experience, based in London. Strong in dbt, AWS, Data Engineering and Databricks, with recent work in payments. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: dbt (Advanced, 5.0y), Data Engineering (Proficient, 7.0y), Databricks (Proficient, 2.4y), Airflow (Proficient, 3.0y), Snowflake (Proficient, 6.9y), SQL (Working, 3.9y)
+- Cloud & DevOps: AWS (Advanced, 5.8y)
+- Software Engineering: Python (Working, 0.4y)
+
+EXPERIENCE
+* Payments Real-time Analytics Pipeline — an APAC payments provider (2025-10 to present)
+  Migrated a real-time analytics pipeline for an APAC payments provider in payments using Data Engineering and AWS, cutting cloud spend by 12%.
+* Payments Customer Churn Model — a European payments provider (2024-08 to 2025-09)
+  Migrated a customer churn model for a European payments provider in payments using AWS, Databricks and Airflow, improving model accuracy by 40%.
+* Payments Data Lakehouse — a tier-1 payments provider (2023-08 to 2024-07)
+  Built a data lakehouse for a tier-1 payments provider in payments using SQL, Databricks and dbt, reducing processing time by 22%.
+* Healthcare Regulatory Reporting Suite — a European hospital network (2022-06 to 2023-06)
+  Led the delivery of a regulatory reporting suite for a European hospital network in healthcare using Data Engineering and AWS, reducing processing time by 25%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer

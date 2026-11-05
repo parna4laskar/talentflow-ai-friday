@@ -1,0 +1,28 @@
+SAYALI MEHTA
+Senior Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12461
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6.2 years of experience, based in Bengaluru. Strong in TypeScript, React, Java and SQL, with recent work in telecom billing. Interested in moving towards Mobile Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 5.4y), React (Proficient, 3.2y), Java (Proficient, 2.3y), Microservices (Proficient, 1.0y), Next.js (Working, 1.6y), Node.js (Working, 3.0y)
+- Data & AI: SQL (Proficient, 2.1y)
+
+EXPERIENCE
+* Telecom Billing Customer Onboarding Platform — a US telecom operator (2025-11 to present)
+  Built a customer onboarding platform for a US telecom operator in telecom billing using React, TypeScript, Java and Node.js, lifting NPS by 40 points.
+* Telecom Billing Mobile Banking App — an APAC telecom operator (2024-04 to 2025-09)
+  Migrated a mobile banking app for an APAC telecom operator in telecom billing using SQL and Java, lifting NPS by 35 points.
+* Telecom Billing Order Management System — a European telecom operator (2023-04 to 2024-03)
+  Automated an order management system for a European telecom operator in telecom billing using Java, Node.js, React and SQL, reducing processing time by 12%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer, AI Engineer

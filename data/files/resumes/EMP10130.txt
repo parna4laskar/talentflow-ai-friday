@@ -1,0 +1,29 @@
+NEHA JOSHI
+QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP10130
+
+PROFESSIONAL SUMMARY
+QA Engineer with 5.1 years of experience, based in Hyderabad. Strong in API Testing, Performance Testing, Playwright and CI/CD, with recent work in payments. Interested in moving towards Full Stack Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Proficient, 2.4y), Performance Testing (Proficient, 0.9y), Playwright (Working, 2.5y), Test Automation (Beginner, 0.6y)
+- Cloud & DevOps: CI/CD (Working, 1.7y), Observability (Working, 2.2y)
+- Software Engineering: Python (Working, 0.8y)
+
+EXPERIENCE
+* Payments Performance Engineering Programme — a fast-growing payments provider (2026-06 to present)
+  Modernised a performance engineering programme for a fast-growing payments provider in payments using Performance Testing, CI/CD and Test Automation, reducing production incidents by 35%.
+* Payments Performance Engineering Programme — a fast-growing payments provider (2025-11 to 2026-04)
+  Built a performance engineering programme for a fast-growing payments provider in payments using API Testing and CI/CD, accelerating releases by 40%.
+* Payments Test Automation Framework — a tier-1 payments provider (2024-06 to 2025-10)
+  Designed a test automation framework for a tier-1 payments provider in payments using Observability, API Testing and Python, raising automated test coverage to 80%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Engineering Manager, Backend Engineer

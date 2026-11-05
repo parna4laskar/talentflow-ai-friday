@@ -1,0 +1,26 @@
+ABHISHEK ZIELIŃSKI
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP11265
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 2.5 years of experience, based in Bengaluru. Strong in Kafka, SQL, Snowflake and Databricks, with recent work in e-commerce. Interested in moving towards Backend Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Kafka (Advanced, 0.8y), Python (Working, 0.8y)
+- Data & AI: SQL (Proficient, 1.8y), Snowflake (Proficient, 1.5y), Databricks (Proficient, 0.5y), Data Engineering (Working, 0.8y), Apache Spark (Working, 0.3y), LLM Engineering (Beginner, 0.3y)
+
+EXPERIENCE
+* Public Sector Data Lakehouse — a tier-1 government agency (2025-11 to present)
+  Scaled a data lakehouse for a tier-1 government agency in public sector using SQL, Python, Databricks and Data Engineering, reducing processing time by 12%.
+* E-commerce Executive KPI Dashboard Suite — a global online retailer (2024-09 to 2025-10)
+  Designed an executive KPI dashboard suite for a global online retailer in e-commerce using SQL and Data Engineering, improving forecast accuracy by 22%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Data Analyst, AI Engineer

@@ -1,0 +1,32 @@
+RAHUL SHEIKH
+Lead Backend Engineer | Engineering | Chennai, India
+Employee ID: EMP11236
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 10.4 years of experience, based in Chennai. Strong in Docker, C#, SQL and REST API Design, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Expert, 1.3y), Kubernetes (Proficient, 3.1y)
+- Delivery & Leadership: People Leadership (Expert, 6.3y)
+- Software Engineering: C# (Advanced, 8.7y), REST API Design (Proficient, 3.8y), Microservices (Proficient, 7.5y)
+- Data & AI: SQL (Advanced, 7.1y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — an APAC logistics company (2026-01 to present)
+  Built a pricing engine for an APAC logistics company in supply-chain logistics using REST API Design, Microservices, SQL and Docker, reducing processing time by 22%.
+* Supply-chain Logistics Pricing Engine — an APAC logistics company (2025-06 to 2025-11)
+  Migrated a pricing engine for an APAC logistics company in supply-chain logistics using C#, Docker, Microservices and REST API Design, improving conversion by 12%.
+* Supply-chain Logistics Self-service Portal — a US logistics company (2025-01 to 2025-06)
+  Automated a self-service portal for a US logistics company in supply-chain logistics using Docker, Microservices and REST API Design, saving ~18K hours annually.
+* Supply-chain Logistics Pricing Engine — a US logistics company (2023-09 to 2024-10)
+  Built a pricing engine for a US logistics company in supply-chain logistics using REST API Design, Docker, SQL and Microservices, reducing processing time by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, DevOps Engineer, Software Architect, Full Stack Engineer

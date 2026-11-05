@@ -1,0 +1,31 @@
+SAMEER AGARWAL
+Security Engineer | Cyber Security | Chennai, India
+Employee ID: EMP10356
+
+PROFESSIONAL SUMMARY
+Security Engineer with 3.1 years of experience, based in Chennai. Strong in Identity & Access Management, Application Security, Threat Modeling and AWS, with recent work in airline operations. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles and open to relocating to Gurugram, Kraków.
+
+CORE SKILLS
+- Security: Identity & Access Management (Advanced, 1.7y), Application Security (Proficient, 0.7y), Threat Modeling (Proficient, 0.9y), SIEM (Proficient, 2.1y)
+- Cloud & DevOps: AWS (Proficient, 1.5y), Kubernetes (Working, 1.2y), Azure (Working, 1.0y)
+
+EXPERIENCE
+* Public Sector Security Operations Centre Uplift — a leading government agency (2026-11 to present)
+  Designed a security operations centre uplift for a leading government agency in public sector using Kubernetes, Application Security, AWS and Threat Modeling, closing 30% of open audit findings.
+* Airline Operations Identity and Access Platform — a US airline (2026-01 to 2026-10)
+  Migrated an identity and access platform for a US airline in airline operations using Application Security, Kubernetes, Threat Modeling and Azure, reducing production incidents by 25%.
+* Energy Trading Cloud Security Posture Programme — an APAC energy company (2024-09 to 2025-11)
+  Re-architected a cloud security posture programme for an APAC energy company in energy trading using Identity & Access Management, SIEM and AWS, closing 25% of open audit findings.
+
+CERTIFICATIONS
+- CCSP (2024)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer, Site Reliability Engineer, Software Architect

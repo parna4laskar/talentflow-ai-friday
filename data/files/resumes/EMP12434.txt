@@ -1,0 +1,28 @@
+LAKSHMI VERMA
+Lead Engineering Manager | Engineering | Gurugram, India
+Employee ID: EMP12434
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14.6 years of experience, based in Gurugram. Strong in People Leadership, System Design, Agile/Scrum and Microservices, with recent work in healthcare. Interested in moving towards Engineering Manager, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 4.1y), Agile/Scrum (Advanced, 4.2y), Stakeholder Management (Proficient, 7.3y), Communication (Proficient, 7.6y), Mentoring (Proficient, 4.9y), Change Management (Proficient, 1.1y)
+- Software Engineering: System Design (Advanced, 1.9y), Microservices (Advanced, 10.1y)
+
+EXPERIENCE
+* Pharma R&D Payments Microservices Platform — a global pharma company (2025-11 to present)
+  Re-architected a payments microservices platform for a global pharma company in pharma R&D using Communication, People Leadership and Microservices, reducing processing time by 40%.
+* Telecom Billing Self-service Portal — an APAC telecom operator (2024-05 to 2025-09)
+  Modernised a self-service portal for an APAC telecom operator in telecom billing using Stakeholder Management, Microservices and System Design, saving ~30K hours annually.
+* Energy Trading Order Management System — a US energy company (2023-07 to 2024-03)
+  Led the delivery of an order management system for a US energy company in energy trading using People Leadership, Stakeholder Management and Microservices, reducing processing time by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager, Scrum Master, Backend Engineer

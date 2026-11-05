@@ -1,0 +1,33 @@
+LIAM WASHINGTON
+Senior Backend Engineer | Engineering | New York, United States
+Employee ID: EMP12039
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.6 years of experience, based in New York. Strong in REST API Design, C#, SQL and Microservices, with recent work in HR tech. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to Bengaluru, Singapore.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 3.4y), C# (Proficient, 4.3y), Microservices (Proficient, 1.1y), Kafka (Proficient, 0.9y)
+- Data & AI: SQL (Proficient, 5.1y)
+- Cloud & DevOps: AWS (Proficient, 6.4y), Docker (Proficient, 4.6y), CI/CD (Working, 1.9y)
+- People & Marketing: People Analytics (Working, 5.3y)
+- Delivery & Leadership: Communication (Working, 5.3y)
+
+EXPERIENCE
+* HR Tech Payments Microservices Platform — a European HR software company (2025-11 to present)
+  Migrated a payments microservices platform for a European HR software company in HR tech using CI/CD, Kafka, Communication and Microservices, reducing processing time by 25%.
+* HR Tech Order Management System — a European HR software company (2024-03 to 2025-09)
+  Migrated an order management system for a European HR software company in HR tech using SQL, People Analytics, Kafka and Communication, onboarding 6 new enterprise clients.
+* HR Tech Payments Microservices Platform — a tier-1 HR software company (2022-08 to 2024-01)
+  Re-architected a payments microservices platform for a tier-1 HR software company in HR tech using REST API Design and AWS, reducing processing time by 12%.
+* HR Tech Customer Onboarding Platform — a fast-growing HR software company (2021-11 to 2022-07)
+  Scaled a customer onboarding platform for a fast-growing HR software company in HR tech using REST API Design and People Analytics, reducing processing time by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Software Architect

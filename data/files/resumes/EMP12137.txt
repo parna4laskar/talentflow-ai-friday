@@ -1,0 +1,33 @@
+SARAH KIM
+Senior Mobile Engineer | Engineering | Toronto, Canada
+Employee ID: EMP12137
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 10.7 years of experience, based in Toronto. Strong in Flutter, Mobile Development, Test Automation and UI Design, with recent work in HR tech. Interested in moving towards Backend Engineer, QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Flutter (Expert, 5.0y), Mobile Development (Proficient, 0.4y), REST API Design (Working, 4.5y)
+- Quality Engineering: Test Automation (Proficient, 4.4y)
+- Product & Design: UI Design (Proficient, 7.8y)
+- Cloud & DevOps: CI/CD (Proficient, 1.9y)
+- Data & AI: Databricks (Working, 1.4y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — an APAC HR software company (2026-06 to present)
+  Designed a self-service portal for an APAC HR software company in HR tech using Flutter and Test Automation, saving ~18K hours annually.
+* HR Tech Payments Microservices Platform — a global HR software company (2024-12 to 2026-05)
+  Migrated a payments microservices platform for a global HR software company in HR tech using Mobile Development, Databricks and Test Automation, accelerating releases by 35%.
+* Insurance Claims Customer Onboarding Platform — a fast-growing insurer (2024-04 to 2024-12)
+  Built a customer onboarding platform for a fast-growing insurer in insurance claims using CI/CD and Databricks, lifting NPS by 22 points.
+* HR Tech Payments Microservices Platform — a European HR software company (2022-08 to 2024-02)
+  Re-architected a payments microservices platform for a European HR software company in HR tech using Mobile Development, Test Automation and UI Design, reducing processing time by 25%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, QA Engineer

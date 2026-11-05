@@ -1,0 +1,31 @@
+NIKHIL GUPTA
+Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP11692
+
+PROFESSIONAL SUMMARY
+Mobile Engineer with 4.3 years of experience, based in Pune. Strong in UI Design, Mobile Development, React and TypeScript, with recent work in pharma R&D. Interested in moving towards Mobile Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Product & Design: UI Design (Advanced, 1.3y)
+- Software Engineering: Mobile Development (Proficient, 0.8y), React (Proficient, 1.0y), TypeScript (Proficient, 1.9y), REST API Design (Proficient, 2.5y)
+- Cloud & DevOps: CI/CD (Proficient, 2.5y)
+
+EXPERIENCE
+* Retail Banking Self-service Portal — an APAC retail bank (2025-12 to present)
+  Led the delivery of a self-service portal for an APAC retail bank in retail banking using UI Design, Mobile Development, React and REST API Design, saving ~35K hours annually.
+* Pharma R&D Pricing Engine — a global pharma company (2024-07 to 2025-11)
+  Led the delivery of a pricing engine for a global pharma company in pharma R&D using CI/CD, UI Design and TypeScript, reducing processing time by 25%.
+* Automotive Self-service Portal — a US car maker (2023-11 to 2024-06)
+  Built a self-service portal for a US car maker in automotive using React, CI/CD and REST API Design, lifting NPS by 25 points.
+* Healthcare Customer Onboarding Platform — a US hospital network (2022-04 to 2023-10)
+  Built a customer onboarding platform for a US hospital network in healthcare using TypeScript, CI/CD and UI Design, improving conversion by 25%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, Backend Engineer, Full Stack Engineer, Frontend Engineer

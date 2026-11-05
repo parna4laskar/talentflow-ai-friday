@@ -1,0 +1,33 @@
+AARAV RAO
+Senior Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP11117
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 7.8 years of experience, based in Gurugram. Strong in TypeScript, Java, SQL and REST API Design, with recent work in pharma R&D. Interested in moving towards Full Stack Engineer, Backend Engineer roles and open to relocating to New York, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 6.3y), Java (Advanced, 1.3y), REST API Design (Advanced, 6.0y), GraphQL (Proficient, 1.7y), React (Working, 2.1y), Spring Boot (Beginner, 1.3y)
+- Data & AI: SQL (Advanced, 2.4y), Generative AI (Working, 3.7y)
+- Cloud & DevOps: AWS (Advanced, 3.8y)
+- Delivery & Leadership: Communication (Advanced, 7.6y)
+
+EXPERIENCE
+* Pharma R&D Pricing Engine — a fast-growing pharma company (2026-07 to present)
+  Modernised a pricing engine for a fast-growing pharma company in pharma R&D using React and GraphQL, reducing processing time by 12%.
+* Pharma R&D Pricing Engine — an APAC pharma company (2025-07 to 2026-07)
+  Built a pricing engine for an APAC pharma company in pharma R&D using GraphQL, SQL, TypeScript and REST API Design, improving conversion by 18%.
+* Pharma R&D Self-service Portal — a European pharma company (2024-08 to 2025-05)
+  Modernised a self-service portal for a European pharma company in pharma R&D using Communication and Spring Boot, saving ~18K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Backend Engineer

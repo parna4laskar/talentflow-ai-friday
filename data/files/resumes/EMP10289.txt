@@ -1,0 +1,36 @@
+ARJUN SUBRAMANIAN
+Lead Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10289
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 13 years of experience, based in Bengaluru. Strong in C#, REST API Design, SQL and Microservices, with recent work in HR tech. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 5.5y), REST API Design (Advanced, 6.5y), Microservices (Advanced, 4.9y), Spring Boot (Advanced, 3.6y), GraphQL (Advanced, 7.5y)
+- Data & AI: SQL (Advanced, 5.3y)
+- Cloud & DevOps: AWS (Proficient, 4.8y), CI/CD (Proficient, 0.8y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 8.6y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — an APAC manufacturer (2026-06 to present)
+  Automated a mobile banking app for an APAC manufacturer in manufacturing IoT using REST API Design, Stakeholder Management and Spring Boot, lifting NPS by 12 points.
+* Telecom Billing Mobile Banking App — a European telecom operator (2024-10 to 2026-04)
+  Designed a mobile banking app for a European telecom operator in telecom billing using AWS, Spring Boot and GraphQL, improving conversion by 40%.
+* Automotive Mobile Banking App — a global car maker (2024-02 to 2024-09)
+  Automated a mobile banking app for a global car maker in automotive using AWS and CI/CD, improving conversion by 22%.
+* HR Tech Claims Processing Engine — a US HR software company (2022-10 to 2023-12)
+  Led the delivery of a claims processing engine for a US HR software company in HR tech using GraphQL and Spring Boot, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Backend Engineer, Engineering Manager, Full Stack Engineer, AI Engineer

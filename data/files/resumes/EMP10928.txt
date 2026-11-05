@@ -1,0 +1,31 @@
+RAHUL RAO
+Associate Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP10928
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1.5 years of experience, based in Bengaluru. Strong in SQL, Data Governance, Data Engineering and dbt, with recent work in media streaming. Interested in moving towards Data Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.5y), Data Governance (Proficient, 1.0y), Data Engineering (Working, 0.7y), dbt (Working, 0.6y), Databricks (Working, 0.4y), Snowflake (Working, 0.6y), Data Visualization (Working, 0.6y)
+- Software Engineering: Python (Beginner, 0.3y)
+- Cloud & DevOps: AWS (Beginner, 0.3y), Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* Public Sector Real-time Analytics Pipeline — a European government agency (2026-06 to present)
+  Built a real-time analytics pipeline for a European government agency in public sector using Databricks, Snowflake and Python, reducing processing time by 40%.
+* Telecom Billing Regulatory Reporting Suite — a tier-1 telecom operator (2025-07 to 2026-05)
+  Scaled a regulatory reporting suite for a tier-1 telecom operator in telecom billing using Kubernetes and Snowflake, reducing processing time by 35%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+- SnowPro Core (2025)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Engineer, Backend Engineer, ML Engineer, AI Engineer

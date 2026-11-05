@@ -1,0 +1,30 @@
+EMMA GARCIA
+CRM Consultant | Enterprise Applications | New York, United States
+Employee ID: EMP10517
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 4.4 years of experience, based in New York. Strong in Business Analysis, Salesforce, Requirements Gathering and Agentic AI, with recent work in manufacturing IoT. Interested in moving towards Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Advanced, 2.4y), Salesforce (Proficient, 2.7y), Requirements Gathering (Proficient, 2.5y), Process Improvement (Beginner, 0.3y)
+- Data & AI: Agentic AI (Proficient, 2.9y), Databricks (Proficient, 2.9y)
+- Software Engineering: JavaScript (Working, 0.8y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.5y), Communication (Working, 0.9y)
+
+EXPERIENCE
+* Manufacturing IoT ERP Finance Rollout — a fast-growing manufacturer (2025-12 to present)
+  Migrated an ERP finance rollout for a fast-growing manufacturer in manufacturing IoT using Agentic AI and Requirements Gathering, reducing processing time by 35%.
+* Manufacturing IoT CRM Rollout — a European manufacturer (2025-02 to 2025-12)
+  Re-architected a CRM rollout for a European manufacturer in manufacturing IoT using Agentic AI, Communication and Process Improvement, improving conversion by 40%.
+* Manufacturing IoT CRM Rollout — a US manufacturer (2023-06 to 2024-11)
+  Scaled a CRM rollout for a US manufacturer in manufacturing IoT using JavaScript and Business Analysis, reducing processing time by 18%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Account Manager

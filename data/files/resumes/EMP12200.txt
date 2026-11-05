@@ -1,0 +1,35 @@
+AGNIESZKA KAMIŃSKI
+Principal Full Stack Engineer | Engineering | Kraków, Poland
+Employee ID: EMP12200
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 13.1 years of experience, based in Kraków. Strong in TypeScript, Angular, Python and SQL, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 13.1y), Angular (Advanced, 6.4y), Python (Advanced, 5.5y), GraphQL (Advanced, 4.2y), Microservices (Advanced, 3.5y), Next.js (Proficient, 5.9y), System Design (Proficient, 4.3y)
+- Data & AI: SQL (Advanced, 7.8y)
+- Cloud & DevOps: AWS (Advanced, 0.8y), Docker (Proficient, 4.4y)
+- Delivery & Leadership: Mentoring (Advanced, 8.1y), Stakeholder Management (Advanced, 9.3y), Communication (Advanced, 4.9y)
+
+EXPERIENCE
+* Media Streaming Order Management System — a tier-1 streaming platform (2026-08 to present)
+  Scaled an order management system for a tier-1 streaming platform in media streaming using Python, Mentoring and Microservices, onboarding 2 new enterprise clients.
+* Supply-chain Logistics Payments Microservices Platform — a fast-growing logistics company (2025-01 to 2026-06)
+  Scaled a payments microservices platform for a fast-growing logistics company in supply-chain logistics using Angular, Next.js and TypeScript, reducing production incidents by 12%.
+* E-commerce Self-service Portal — a US online retailer (2023-07 to 2025-01)
+  Automated a self-service portal for a US online retailer in e-commerce using Next.js and TypeScript, lifting NPS by 35 points.
+* Supply-chain Logistics Self-service Portal — a leading logistics company (2022-05 to 2023-05)
+  Led the delivery of a self-service portal for a leading logistics company in supply-chain logistics using System Design, Microservices and GraphQL, saving ~40K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+Polish, English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer, Frontend Engineer

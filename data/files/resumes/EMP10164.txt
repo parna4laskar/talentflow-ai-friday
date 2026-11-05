@@ -1,0 +1,27 @@
+AOIFE MURPHY
+Associate QA Engineer | Quality Engineering | Dublin, Ireland
+Employee ID: EMP10164
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2.5 years of experience, based in Dublin. Strong in Test Automation, Selenium, API Testing and Communication, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, Mobile Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Working, 1.2y), Selenium (Working, 0.6y), API Testing (Working, 1.0y), Performance Testing (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.6y), Agile/Scrum (Beginner, 0.3y)
+- Cloud & DevOps: Observability (Beginner, 0.4y)
+
+EXPERIENCE
+* Healthcare API Contract-testing Suite — a global hospital network (2025-10 to present)
+  Automated an API contract-testing suite for a global hospital network in healthcare using Performance Testing, Selenium and Test Automation, reducing production incidents by 40%.
+* Healthcare Test Automation Framework — a European hospital network (2024-12 to 2025-09)
+  Scaled a test automation framework for a European hospital network in healthcare using Performance Testing and Agile/Scrum, raising automated test coverage to 90%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Mobile Engineer

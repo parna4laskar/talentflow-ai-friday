@@ -1,0 +1,32 @@
+MATTHEW MILLER
+Senior CRM Consultant | Enterprise Applications | New York, United States
+Employee ID: EMP10705
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 8.6 years of experience, based in New York. Strong in Salesforce, Business Analysis, Agile/Scrum and Process Improvement, with recent work in healthcare. Interested in moving towards Account Manager, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Expert, 5.5y), Business Analysis (Advanced, 7.8y), Process Improvement (Proficient, 6.0y), Requirements Gathering (Proficient, 5.1y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 4.9y)
+- Software Engineering: JavaScript (Proficient, 1.7y)
+
+EXPERIENCE
+* Telecom Billing CRM Rollout — a tier-1 telecom operator (2025-05 to present)
+  Migrated a CRM rollout for a tier-1 telecom operator in telecom billing using Requirements Gathering and Salesforce, reducing processing time by 18%.
+* Healthcare ERP Finance Rollout — a tier-1 hospital network (2024-04 to 2025-02)
+  Automated an ERP finance rollout for a tier-1 hospital network in healthcare using Agile/Scrum and Salesforce, saving ~35K hours annually.
+* Healthcare ERP Finance Rollout — a fast-growing hospital network (2023-05 to 2024-03)
+  Led the delivery of an ERP finance rollout for a fast-growing hospital network in healthcare using Agile/Scrum, Requirements Gathering and Process Improvement, saving ~22K hours annually.
+
+CERTIFICATIONS
+- ServiceNow CSA (2026)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Account Manager, Business Analyst

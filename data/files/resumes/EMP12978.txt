@@ -1,0 +1,30 @@
+PRIYA GARCIA
+Associate Platform Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP12978
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 0.9 years of experience, based in Austin. Strong in Platform Engineering, Kubernetes, CI/CD and AWS, with recent work in insurance claims. Interested in moving towards Platform Engineer, Cloud Engineer roles and open to relocating to Dublin, Bengaluru, Singapore.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Proficient, 0.5y), Kubernetes (Proficient, 0.5y), CI/CD (Proficient, 0.6y), AWS (Proficient, 0.6y), Observability (Working, 0.4y), Linux Administration (Working, 0.3y), Terraform (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.4y)
+- Software Engineering: Python (Working, 0.4y), Go (Working, 0.4y)
+
+EXPERIENCE
+* Public Sector Cloud Landing Zone — a global government agency (2026-04 to present)
+  Migrated a cloud landing zone for a global government agency in public sector using Python, Linux Administration, Kubernetes and Communication, accelerating releases by 12%.
+* Insurance Claims Kubernetes Platform — an APAC insurer (2025-06 to 2026-02)
+  Led the delivery of a Kubernetes platform for an APAC insurer in insurance claims using Platform Engineering, Terraform, Go and Kubernetes, accelerating releases by 40%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Platform Engineer, Cloud Engineer

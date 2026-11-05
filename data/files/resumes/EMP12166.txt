@@ -1,0 +1,34 @@
+SAYALI KAPOOR
+Lead Financial Analyst | Finance | Chennai, India
+Employee ID: EMP12166
+
+PROFESSIONAL SUMMARY
+Lead Financial Analyst with 13.1 years of experience, based in Chennai. Strong in Financial Analysis, FP&A, Mentoring and SQL, with recent work in e-commerce. Interested in moving towards Data Analyst, Business Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Financial Analysis (Expert, 7.1y), FP&A (Expert, 13.1y), SAP FICO (Advanced, 11.0y), Financial Modeling (Proficient, 6.8y), Risk Management (Proficient, 9.4y)
+- Delivery & Leadership: Mentoring (Expert, 9.9y), Stakeholder Management (Advanced, 11.5y)
+- Data & AI: SQL (Advanced, 2.9y), Power BI (Proficient, 2.5y)
+
+EXPERIENCE
+* Telecom Billing Cost Transformation Programme — an APAC telecom operator (2026-03 to present)
+  Built a cost transformation programme for an APAC telecom operator in telecom billing using Risk Management, Stakeholder Management and SAP FICO, delivering $2M in cost savings.
+* E-commerce Regulatory Capital Reporting — a US online retailer (2024-08 to 2026-01)
+  Built a regulatory capital reporting for a US online retailer in e-commerce using Power BI, Financial Analysis, Financial Modeling and SQL, reducing processing time by 35%.
+* E-commerce Cost Transformation Programme — an APAC online retailer (2023-07 to 2024-07)
+  Built a cost transformation programme for an APAC online retailer in e-commerce using Financial Modeling, FP&A, Power BI and Stakeholder Management, delivering $8M in cost savings.
+* E-commerce Rolling Forecasting Model — a tier-1 online retailer (2022-02 to 2023-05)
+  Owned a rolling forecasting model for a tier-1 online retailer in e-commerce using Financial Analysis, SQL, Financial Modeling and SAP FICO, saving ~35K hours annually.
+
+CERTIFICATIONS
+- CFA Level II (2026)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Analyst, Business Analyst, SAP Consultant

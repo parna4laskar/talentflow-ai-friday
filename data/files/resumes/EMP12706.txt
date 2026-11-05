@@ -1,0 +1,32 @@
+IMRAN MUKHERJEE
+Lead Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12706
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 12.2 years of experience, based in Bengaluru. Strong in Microservices, REST API Design, SQL and .NET Core, with recent work in wealth management. Interested in moving towards Engineering Manager, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 11.0y), REST API Design (Advanced, 11.8y), .NET Core (Advanced, 9.8y), C# (Proficient, 5.0y), Spring Boot (Working, 5.5y)
+- Delivery & Leadership: People Leadership (Expert, 1.3y), Mentoring (Advanced, 9.8y), Stakeholder Management (Proficient, 3.9y)
+- Data & AI: SQL (Advanced, 9.4y)
+- Cloud & DevOps: CI/CD (Advanced, 6.2y)
+
+EXPERIENCE
+* Wealth Management Mobile Banking App — a tier-1 wealth manager (2025-10 to present)
+  Led the delivery of a mobile banking app for a tier-1 wealth manager in wealth management using SQL, C#, Mentoring and .NET Core, improving conversion by 30%.
+* Wealth Management Self-service Portal — a US wealth manager (2025-04 to 2025-09)
+  Modernised a self-service portal for a US wealth manager in wealth management using Spring Boot, Stakeholder Management and REST API Design, lifting NPS by 25 points.
+* Wealth Management Pricing Engine — a leading wealth manager (2024-06 to 2025-01)
+  Re-architected a pricing engine for a leading wealth manager in wealth management using Spring Boot, Mentoring and SQL, reducing processing time by 40%.
+* Insurance Claims Customer Onboarding Platform — a European insurer (2023-03 to 2024-06)
+  Designed a customer onboarding platform for a European insurer in insurance claims using REST API Design, .NET Core, Spring Boot and Microservices, improving conversion by 25%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Engineering Manager, Full Stack Engineer

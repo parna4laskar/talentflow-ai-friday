@@ -1,0 +1,27 @@
+ADITYA NAIR
+Associate QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP10111
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2 years of experience, based in Pune. Strong in API Testing, Agile/Scrum, Test Automation and Playwright, with recent work in wealth management. Interested in moving towards DevOps Engineer, Mobile Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Proficient, 1.4y), Test Automation (Working, 0.7y), Playwright (Working, 0.9y), Performance Testing (Working, 0.8y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 1.1y), Communication (Working, 0.6y)
+- Software Engineering: Java (Working, 0.4y), Python (Working, 0.5y)
+
+EXPERIENCE
+* Wealth Management API Contract-testing Suite — a tier-1 wealth manager (2026-05 to present)
+  Scaled an API contract-testing suite for a tier-1 wealth manager in wealth management using Python, Communication and Playwright, raising automated test coverage to 70%.
+* Wealth Management Test Automation Framework — a fast-growing wealth manager (2024-12 to 2026-02)
+  Migrated a test automation framework for a fast-growing wealth manager in wealth management using Agile/Scrum, Performance Testing, Python and Communication, raising automated test coverage to 70%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Mobile Engineer, Backend Engineer

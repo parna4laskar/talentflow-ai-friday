@@ -1,0 +1,27 @@
+SOPHIE SMITH
+Associate Platform Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12083
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 1.5 years of experience, based in London. Strong in Kubernetes, Terraform, CI/CD and Python, with recent work in e-commerce. Interested in moving towards Backend Engineer, Cloud Engineer roles and open to relocating to Pune.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Working, 0.4y), Terraform (Working, 0.7y), CI/CD (Working, 0.7y), Platform Engineering (Beginner, 0.3y), Site Reliability Engineering (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.4y)
+- Quality Engineering: Playwright (Working, 0.3y)
+
+EXPERIENCE
+* Payments Data-centre Exit To Cloud — an APAC payments provider (2026-02 to present)
+  Modernised a data-centre exit to cloud for an APAC payments provider in payments using Site Reliability Engineering, CI/CD and Playwright, delivering $8M in cost savings.
+* Energy Trading Observability Stack — a tier-1 energy company (2024-07 to 2025-11)
+  Migrated an observability stack for a tier-1 energy company in energy trading using Platform Engineering, CI/CD and Kubernetes, accelerating releases by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Cloud Engineer

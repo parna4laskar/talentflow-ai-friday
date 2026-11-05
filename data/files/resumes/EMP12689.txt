@@ -1,0 +1,31 @@
+OWEN TREMBLAY
+Lead Engineering Manager | Engineering | Toronto, Canada
+Employee ID: EMP12689
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 10.5 years of experience, based in Toronto. Strong in People Leadership, Agile/Scrum, Stakeholder Management and Communication, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, Program Manager roles and open to relocating to Bengaluru, Hyderabad, Gurugram.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 5.6y), Agile/Scrum (Advanced, 4.6y), Stakeholder Management (Advanced, 1.2y), Communication (Advanced, 2.6y)
+- Cloud & DevOps: AWS (Advanced, 5.1y)
+- Software Engineering: Java (Advanced, 5.2y), System Design (Proficient, 1.2y), Microservices (Proficient, 4.0y), Python (Proficient, 6.1y)
+
+EXPERIENCE
+* Wealth Management Customer Onboarding Platform — a fast-growing wealth manager (2026-02 to present)
+  Led the delivery of a customer onboarding platform for a fast-growing wealth manager in wealth management using Stakeholder Management, Java, Microservices and Agile/Scrum, reducing processing time by 12%.
+* Manufacturing IoT Customer Onboarding Platform — a US manufacturer (2024-09 to 2026-02)
+  Scaled a customer onboarding platform for a US manufacturer in manufacturing IoT using Agile/Scrum, People Leadership, Java and Python, improving conversion by 22%.
+* Manufacturing IoT Claims Processing Engine — a tier-1 manufacturer (2024-01 to 2024-06)
+  Modernised a claims processing engine for a tier-1 manufacturer in manufacturing IoT using Microservices, Agile/Scrum and Java, saving ~18K hours annually.
+* Public Sector Pricing Engine — a tier-1 government agency (2022-05 to 2023-10)
+  Migrated a pricing engine for a tier-1 government agency in public sector using Agile/Scrum, Java and Python, improving conversion by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, French, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Program Manager, Software Architect

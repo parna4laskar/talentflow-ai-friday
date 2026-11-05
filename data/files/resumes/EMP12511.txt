@@ -1,0 +1,33 @@
+ISLA THOMAS
+Senior Data Analyst | Data & Analytics | London, United Kingdom
+Employee ID: EMP12511
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10.5 years of experience, based in London. Strong in SQL, Data Visualization, Statistics and Communication, with recent work in automotive. Interested in moving towards Data Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.6y), Data Visualization (Advanced, 6.7y), Statistics (Proficient, 5.1y), Tableau (Working, 0.4y)
+- Delivery & Leadership: Communication (Proficient, 3.0y)
+- Business & Finance: Business Analysis (Working, 2.5y)
+- People & Marketing: People Analytics (Working, 3.2y)
+
+EXPERIENCE
+* HR Tech Real-time Analytics Pipeline — a US HR software company (2026-02 to present)
+  Built a real-time analytics pipeline for a US HR software company in HR tech using Tableau and SQL, reducing processing time by 35%.
+* Energy Trading Executive KPI Dashboard Suite — an APAC energy company (2025-05 to 2025-12)
+  Scaled an executive KPI dashboard suite for an APAC energy company in energy trading using People Analytics and Business Analysis, improving forecast accuracy by 25%.
+* Retail Banking Customer Churn Model — a European retail bank (2024-04 to 2025-02)
+  Migrated a customer churn model for a European retail bank in retail banking using Business Analysis, People Analytics and Tableau, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2025)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Tamil
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Analyst, Product Manager, Financial Analyst

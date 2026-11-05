@@ -1,0 +1,33 @@
+KARTHIK GUPTA
+Lead Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11987
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 11.1 years of experience, based in Pune. Strong in Microservices, .NET Core, REST API Design and Kubernetes, with recent work in telecom billing. Interested in moving towards Software Architect roles and open to relocating to Hyderabad, Toronto.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 1.5y), .NET Core (Expert, 3.9y), REST API Design (Advanced, 4.2y), Java (Proficient, 5.9y), System Design (Proficient, 2.8y)
+- Cloud & DevOps: Kubernetes (Advanced, 9.7y), AWS (Working, 5.2y), Docker (Working, 1.1y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.1y), Communication (Proficient, 1.1y), People Leadership (Proficient, 2.3y)
+- Data & AI: SQL (Proficient, 4.8y)
+
+EXPERIENCE
+* Healthcare Order Management System — a tier-1 hospital network (2026-01 to present)
+  Designed an order management system for a tier-1 hospital network in healthcare using SQL and AWS, onboarding 8 new enterprise clients.
+* Energy Trading Self-service Portal — a fast-growing energy company (2024-08 to 2026-01)
+  Migrated a self-service portal for a fast-growing energy company in energy trading using REST API Design, Kubernetes, Docker and Stakeholder Management, lifting NPS by 40 points.
+* Telecom Billing Self-service Portal — a global telecom operator (2023-12 to 2024-07)
+  Built a self-service portal for a global telecom operator in telecom billing using Java, Microservices, Communication and SQL, saving ~22K hours annually.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect

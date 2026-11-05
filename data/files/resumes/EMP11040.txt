@@ -1,0 +1,29 @@
+ISLA THOMAS
+Data Engineer | Data & Analytics | London, United Kingdom
+Employee ID: EMP11040
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.4 years of experience, based in London. Strong in SQL, Python, Data Engineering and Snowflake, with recent work in pharma R&D. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 2.1y), Data Engineering (Proficient, 0.5y), Snowflake (Proficient, 0.7y), Airflow (Working, 0.3y)
+- Software Engineering: Python (Proficient, 2.5y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+
+EXPERIENCE
+* Retail Banking Customer Churn Model — a US retail bank (2026-10 to present)
+  Designed a customer churn model for a US retail bank in retail banking using Snowflake, Airflow and Communication, improving conversion by 40%.
+* Pharma R&D Real-time Analytics Pipeline — a fast-growing pharma company (2026-02 to 2026-09)
+  Led the delivery of a real-time analytics pipeline for a fast-growing pharma company in pharma R&D using Airflow, Python, Snowflake and Data Engineering, reducing processing time by 12%.
+* Pharma R&D Data Lakehouse — a leading pharma company (2025-01 to 2026-01)
+  Modernised a data lakehouse for a leading pharma company in pharma R&D using Communication, SQL and Python, cutting cloud spend by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, AI Engineer

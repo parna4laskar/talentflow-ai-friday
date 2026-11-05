@@ -1,0 +1,26 @@
+DIVYA DESHPANDE
+Associate Scrum Master | Delivery Excellence | Hyderabad, India
+Employee ID: EMP10795
+
+PROFESSIONAL SUMMARY
+Associate Scrum Master with 1.1 years of experience, based in Hyderabad. Strong in Stakeholder Management, Communication, Mentoring and Agile/Scrum, with recent work in e-commerce. Interested in moving towards Project Manager, Program Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Proficient, 0.5y), Communication (Proficient, 0.7y), Mentoring (Proficient, 0.6y), Agile/Scrum (Working, 0.4y), Program Management (Working, 0.3y), Project Management (Working, 0.3y), Change Management (Beginner, 0.3y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.3y)
+
+EXPERIENCE
+* E-commerce Requirements and UAT for a CRM Rollout — a US online retailer (2025-10 to present)
+  Delivered a requirements and UAT for a CRM rollout for a US online retailer in e-commerce using Communication, Stakeholder Management, Kubernetes and Agile/Scrum, delivering on time across 5 workstreams.
+* E-commerce Requirements and UAT for a CRM Rollout — a leading online retailer (2024-10 to 2025-09)
+  Coordinated a requirements and UAT for a CRM rollout for a leading online retailer in e-commerce using Kubernetes and Agile/Scrum, reducing processing time by 30%.
+
+EDUCATION
+- B.E. Mechanical
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Project Manager, Program Manager, Engineering Manager

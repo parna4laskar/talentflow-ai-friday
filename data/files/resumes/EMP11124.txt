@@ -1,0 +1,31 @@
+MRUNAL SUBRAMANIAN
+Lead QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP11124
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 10.6 years of experience, based in Hyderabad. Strong in Test Automation, API Testing, Python and Mentoring, with recent work in automotive. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 7.9y), API Testing (Advanced, 3.9y), Playwright (Proficient, 6.9y), Performance Testing (Working, 2.4y), Selenium (Working, 1.4y)
+- Software Engineering: Python (Advanced, 4.5y), Java (Proficient, 4.1y)
+- Delivery & Leadership: Mentoring (Advanced, 7.4y), Communication (Proficient, 3.3y)
+- Cloud & DevOps: CI/CD (Proficient, 1.9y)
+- Data & AI: Generative AI (Proficient, 1.6y)
+
+EXPERIENCE
+* Telecom Billing Test Automation Framework — an APAC telecom operator (2025-10 to present)
+  Migrated a test automation framework for an APAC telecom operator in telecom billing using Selenium, Mentoring, Python and Generative AI, raising automated test coverage to 85%.
+* Retail Banking API Contract-testing Suite — a tier-1 retail bank (2024-04 to 2025-09)
+  Re-architected an API contract-testing suite for a tier-1 retail bank in retail banking using Performance Testing, Generative AI, Java and CI/CD, reducing production incidents by 40%.
+* E-commerce API Contract-testing Suite — a US online retailer (2022-10 to 2024-04)
+  Migrated an API contract-testing suite for a US online retailer in e-commerce using Python and Mentoring, reducing production incidents by 25%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Mobile Engineer

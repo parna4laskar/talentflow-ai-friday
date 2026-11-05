@@ -1,0 +1,30 @@
+HARPREET KAUR
+Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP12913
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5.9 years of experience, based in Hyderabad. Strong in SQL, Data Visualization, Tableau and Python, with recent work in media streaming. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.4y), Data Visualization (Proficient, 2.2y), Tableau (Proficient, 2.7y), Snowflake (Proficient, 1.3y), Statistics (Beginner, 0.4y)
+- Software Engineering: Python (Proficient, 0.4y)
+- Delivery & Leadership: Communication (Proficient, 1.5y), Stakeholder Management (Working, 1.6y)
+- Business & Finance: Business Analysis (Working, 2.9y)
+
+EXPERIENCE
+* Automotive Customer Churn Model — a US car maker (2026-09 to present)
+  Modernised a customer churn model for a US car maker in automotive using Statistics, Stakeholder Management, Python and Snowflake, improving model accuracy by 25%.
+* Supply-chain Logistics Real-time Analytics Pipeline — a leading logistics company (2025-03 to 2026-08)
+  Scaled a real-time analytics pipeline for a leading logistics company in supply-chain logistics using Business Analysis and Tableau, cutting cloud spend by 30%.
+* E-commerce Executive KPI Dashboard Suite — a US online retailer (2023-12 to 2025-01)
+  Designed an executive KPI dashboard suite for a US online retailer in e-commerce using Stakeholder Management and Tableau, saving ~30K hours annually.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Business Analyst

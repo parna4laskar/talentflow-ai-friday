@@ -1,0 +1,32 @@
+SAURABH TAN
+Lead Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP11250
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 13.1 years of experience, based in Pune. Strong in TypeScript, JavaScript, React and GraphQL, with recent work in airline operations. Interested in moving towards QA Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 13.1y), JavaScript (Advanced, 12.8y), React (Advanced, 3.1y), GraphQL (Advanced, 5.1y)
+- Delivery & Leadership: People Leadership (Advanced, 7.6y), Stakeholder Management (Proficient, 8.2y), Mentoring (Working, 1.1y)
+- Product & Design: Figma (Proficient, 3.7y)
+- Quality Engineering: Playwright (Proficient, 3.2y)
+
+EXPERIENCE
+* Wealth Management Self-service Portal — a US wealth manager (2026-06 to present)
+  Automated a self-service portal for a US wealth manager in wealth management using Mentoring, GraphQL and JavaScript, lifting NPS by 22 points.
+* Airline Operations Payments Microservices Platform — a leading airline (2025-03 to 2026-06)
+  Built a payments microservices platform for a leading airline in airline operations using GraphQL, JavaScript and Stakeholder Management, accelerating releases by 18%.
+* Airline Operations Claims Processing Engine — a tier-1 airline (2024-04 to 2025-01)
+  Modernised a claims processing engine for a tier-1 airline in airline operations using Mentoring and React, saving ~35K hours annually.
+* HR Tech Customer Onboarding Platform — a tier-1 HR software company (2023-04 to 2024-02)
+  Designed a customer onboarding platform for a tier-1 HR software company in HR tech using Stakeholder Management and Figma, lifting NPS by 18 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: QA Engineer

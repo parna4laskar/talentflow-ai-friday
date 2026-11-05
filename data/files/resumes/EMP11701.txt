@@ -1,0 +1,31 @@
+RITESH RAO
+Cloud Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP11701
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 4.6 years of experience, based in Chennai. Strong in CI/CD, AWS, Terraform and Linux Administration, with recent work in supply-chain logistics. Interested in moving towards Software Architect, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 1.8y), AWS (Proficient, 0.6y), Terraform (Working, 1.3y), Linux Administration (Working, 0.4y)
+- Security: Cloud Security (Working, 1.5y)
+- Data & AI: Databricks (Working, 2.2y), Generative AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Kubernetes Platform — a leading manufacturer (2025-11 to present)
+  Designed a Kubernetes platform for a leading manufacturer in manufacturing IoT using Generative AI and Linux Administration, accelerating releases by 22%.
+* Supply-chain Logistics Kubernetes Platform — a US logistics company (2025-04 to 2025-10)
+  Led the delivery of a Kubernetes platform for a US logistics company in supply-chain logistics using Databricks and Generative AI, cutting cloud spend by 30%.
+* Payments Observability Stack — a global payments provider (2023-12 to 2025-03)
+  Modernised an observability stack for a global payments provider in payments using Databricks, AWS and CI/CD, accelerating releases by 30%.
+* Supply-chain Logistics Data-centre Exit To Cloud — a leading logistics company (2022-05 to 2023-10)
+  Designed a data-centre exit to cloud for a leading logistics company in supply-chain logistics using Linux Administration and AWS, delivering $4M in cost savings.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, Site Reliability Engineer

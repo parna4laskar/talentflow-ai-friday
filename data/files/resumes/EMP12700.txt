@@ -1,0 +1,35 @@
+KEVIN WASHINGTON
+Full Stack Engineer | Engineering | New York, United States
+Employee ID: EMP12700
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3 years of experience, based in New York. Strong in Python, React, SQL and Docker, with recent work in insurance claims. Interested in moving towards Backend Engineer roles and open to relocating to Hyderabad, Toronto, Singapore.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 0.9y), React (Proficient, 1.9y), TypeScript (Working, 1.4y), REST API Design (Beginner, 0.7y), Microservices (Beginner, 0.3y), GraphQL (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 1.2y)
+- Cloud & DevOps: Docker (Proficient, 0.6y), AWS (Beginner, 0.3y)
+- People & Marketing: People Analytics (Beginner, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Customer Onboarding Platform — an APAC insurer (2026-06 to present)
+  Designed a customer onboarding platform for an APAC insurer in insurance claims using TypeScript and SQL, lifting NPS by 30 points.
+* Airline Operations Claims Processing Engine — a leading airline (2025-01 to 2026-06)
+  Migrated a claims processing engine for a leading airline in airline operations using GraphQL and REST API Design, reducing processing time by 22%.
+* Insurance Claims Payments Microservices Platform — a European insurer (2023-07 to 2024-11)
+  Re-architected a payments microservices platform for a European insurer in insurance claims using People Analytics, GraphQL, Microservices and Docker, reducing processing time by 35%.
+* Insurance Claims Payments Microservices Platform — a European insurer (2022-09 to 2023-06)
+  Re-architected a payments microservices platform for a European insurer in insurance claims using People Analytics, Docker and AWS, reducing processing time by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer

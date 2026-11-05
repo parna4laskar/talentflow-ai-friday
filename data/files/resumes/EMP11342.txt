@@ -1,0 +1,31 @@
+JAMAL MILLER
+SAP Consultant | Enterprise Applications | New York, United States
+Employee ID: EMP11342
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 6 years of experience, based in New York. Strong in SAP S/4HANA, Process Improvement, Business Analysis and Requirements Gathering, with recent work in energy trading. Interested in moving towards SAP Consultant, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP S/4HANA (Advanced, 1.9y), Process Improvement (Proficient, 0.6y), Business Analysis (Working, 1.1y), Requirements Gathering (Working, 1.3y), FP&A (Working, 2.7y), Financial Analysis (Beginner, 0.5y)
+- Cloud & DevOps: Kubernetes (Working, 1.0y)
+
+EXPERIENCE
+* Energy Trading Service Desk Automation — a fast-growing energy company (2025-09 to present)
+  Built a service desk automation for a fast-growing energy company in energy trading using FP&A, Financial Analysis, Business Analysis and Requirements Gathering, reducing processing time by 18%.
+* Payments ERP Finance Rollout — a global payments provider (2024-02 to 2025-08)
+  Designed an ERP finance rollout for a global payments provider in payments using Requirements Gathering, FP&A, Process Improvement and Business Analysis, saving ~18K hours annually.
+* Energy Trading ERP Finance Rollout — a global energy company (2022-12 to 2024-01)
+  Migrated an ERP finance rollout for a global energy company in energy trading using SAP S/4HANA, Requirements Gathering and Kubernetes, saving ~30K hours annually.
+
+CERTIFICATIONS
+- SAP Certified S/4HANA Finance (2023)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Kannada
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: SAP Consultant, Risk & Compliance Analyst

@@ -1,0 +1,36 @@
+VIVEK SHAH
+Lead QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10333
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 9.1 years of experience, based in Bengaluru. Strong in Test Automation, API Testing, Playwright and Agile/Scrum, with recent work in payments. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 8.2y), API Testing (Advanced, 7.2y), Playwright (Proficient, 6.4y), Performance Testing (Proficient, 3.0y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 6.3y), Mentoring (Proficient, 2.2y)
+- Software Engineering: Java (Proficient, 5.0y)
+- Cloud & DevOps: CI/CD (Proficient, 2.3y)
+- Data & AI: MLOps (Working, 0.4y)
+
+EXPERIENCE
+* Airline Operations Performance Engineering Programme — a fast-growing airline (2026-09 to present)
+  Built a performance engineering programme for a fast-growing airline in airline operations using Test Automation and Playwright, accelerating releases by 30%.
+* Pharma R&D Performance Engineering Programme — an APAC pharma company (2025-04 to 2026-08)
+  Modernised a performance engineering programme for an APAC pharma company in pharma R&D using Agile/Scrum, CI/CD, Mentoring and Performance Testing, reducing production incidents by 18%.
+* Supply-chain Logistics Test Automation Framework — a European logistics company (2024-07 to 2025-03)
+  Led the delivery of a test automation framework for a European logistics company in supply-chain logistics using MLOps and Mentoring, raising automated test coverage to 80%.
+* HR Tech Test Automation Framework — a leading HR software company (2023-01 to 2024-04)
+  Re-architected a test automation framework for a leading HR software company in HR tech using Playwright, Agile/Scrum and API Testing, raising automated test coverage to 70%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Mobile Engineer, Full Stack Engineer

@@ -1,0 +1,31 @@
+VARUN MENON
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12027
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.9 years of experience, based in Pune. Strong in Python, REST API Design, SQL and Microservices, with recent work in e-commerce. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.3y), REST API Design (Proficient, 1.0y), Microservices (Proficient, 0.5y), GraphQL (Working, 1.3y), .NET Core (Working, 1.2y)
+- Data & AI: SQL (Proficient, 0.6y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.3y), Docker (Working, 0.9y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a leading online retailer (2025-07 to present)
+  Led the delivery of a mobile banking app for a leading online retailer in e-commerce using Python, Kubernetes, GraphQL and .NET Core, lifting NPS by 25 points.
+* Airline Operations Customer Onboarding Platform — an APAC airline (2024-04 to 2025-05)
+  Scaled a customer onboarding platform for an APAC airline in airline operations using Docker and Kubernetes, reducing processing time by 22%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+- Oracle Java SE Professional (2024)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer

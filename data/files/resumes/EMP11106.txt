@@ -1,0 +1,29 @@
+ABHISHEK JOSHI
+Lead Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11106
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 12.6 years of experience, based in Pune. Strong in Python, Microservices, GraphQL and REST API Design, with recent work in automotive. Interested in moving towards AI Engineer, Software Architect roles and open to relocating to Gurugram, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 9.5y), Microservices (Advanced, 10.4y), GraphQL (Advanced, 2.9y), REST API Design (Proficient, 1.4y), Kafka (Proficient, 5.5y), .NET Core (Proficient, 9.0y)
+- Data & AI: SQL (Proficient, 6.4y)
+- Delivery & Leadership: People Leadership (Proficient, 1.4y)
+
+EXPERIENCE
+* Telecom Billing Self-service Portal — a US telecom operator (2026-02 to present)
+  Migrated a self-service portal for a US telecom operator in telecom billing using .NET Core, Microservices and Kafka, lifting NPS by 12 points.
+* Retail Banking Self-service Portal — a European retail bank (2025-01 to 2025-11)
+  Built a self-service portal for a European retail bank in retail banking using GraphQL, SQL and Python, lifting NPS by 12 points.
+* Automotive Order Management System — a fast-growing car maker (2023-07 to 2024-12)
+  Migrated an order management system for a fast-growing car maker in automotive using Kafka, GraphQL, REST API Design and Microservices, onboarding 3 new enterprise clients.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, Software Architect, Full Stack Engineer

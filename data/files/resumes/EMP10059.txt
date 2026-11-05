@@ -1,0 +1,29 @@
+EMMA MILLER
+Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP10059
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.6 years of experience, based in Austin. Strong in Java, SQL, Microservices and REST API Design, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 0.4y), Microservices (Proficient, 0.7y), REST API Design (Working, 0.6y), GraphQL (Beginner, 0.8y)
+- Data & AI: SQL (Proficient, 1.3y)
+- Cloud & DevOps: AWS (Working, 0.9y)
+
+EXPERIENCE
+* Telecom Billing Payments Microservices Platform — a fast-growing telecom operator (2026-02 to present)
+  Led the delivery of a payments microservices platform for a fast-growing telecom operator in telecom billing using AWS, GraphQL and Microservices, reducing processing time by 30%.
+* Pharma R&D Order Management System — a US pharma company (2025-05 to 2025-12)
+  Automated an order management system for a US pharma company in pharma R&D using SQL, GraphQL, AWS and REST API Design, onboarding 2 new enterprise clients.
+* Manufacturing IoT Claims Processing Engine — a fast-growing manufacturer (2023-11 to 2025-03)
+  Migrated a claims processing engine for a fast-growing manufacturer in manufacturing IoT using AWS, Java, Microservices and GraphQL, reducing processing time by 40%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager, Full Stack Engineer, Software Architect

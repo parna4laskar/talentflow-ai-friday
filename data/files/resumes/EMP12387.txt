@@ -1,0 +1,32 @@
+VIVEK KRISHNAN
+Senior Data Analyst | Data & Analytics | Gurugram, India
+Employee ID: EMP12387
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 8.4 years of experience, based in Gurugram. Strong in SQL, Power BI, A/B Testing and Data Visualization, with recent work in pharma R&D. Interested in moving towards Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 7.1y), Power BI (Advanced, 2.1y), Data Visualization (Proficient, 0.8y)
+- Product & Design: A/B Testing (Advanced, 8.1y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.5y)
+
+EXPERIENCE
+* Pharma R&D Executive KPI Dashboard Suite — a leading pharma company (2026-01 to present)
+  Led the delivery of an executive KPI dashboard suite for a leading pharma company in pharma R&D using A/B Testing, Stakeholder Management, Data Visualization and Power BI, improving forecast accuracy by 40%.
+* Energy Trading Executive KPI Dashboard Suite — a tier-1 energy company (2024-12 to 2025-11)
+  Built an executive KPI dashboard suite for a tier-1 energy company in energy trading using Stakeholder Management, Power BI, A/B Testing and Data Visualization, improving forecast accuracy by 25%.
+* Automotive Regulatory Reporting Suite — a leading car maker (2024-05 to 2024-11)
+  Automated a regulatory reporting suite for a leading car maker in automotive using A/B Testing, Power BI, SQL and Data Visualization, saving ~18K hours annually.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Product Manager

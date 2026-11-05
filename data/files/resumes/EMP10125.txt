@@ -1,0 +1,35 @@
+GURPREET KHAN
+Lead Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10125
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 8.9 years of experience, based in Pune. Strong in Java, SQL, Microservices and AWS, with recent work in public sector. Interested in moving towards Backend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Java (Expert, 5.5y), Microservices (Expert, 2.3y), REST API Design (Proficient, 3.6y), Kafka (Proficient, 2.1y)
+- Data & AI: SQL (Expert, 1.9y), Data Visualization (Proficient, 3.8y)
+- Cloud & DevOps: AWS (Advanced, 5.9y)
+- Delivery & Leadership: Mentoring (Advanced, 6.0y), People Leadership (Proficient, 4.8y)
+
+EXPERIENCE
+* Manufacturing IoT Claims Processing Engine — a US manufacturer (2026-06 to present)
+  Modernised a claims processing engine for a US manufacturer in manufacturing IoT using Kafka and SQL, reducing processing time by 22%.
+* Public Sector Customer Onboarding Platform — a European government agency (2025-09 to 2026-04)
+  Built a customer onboarding platform for a European government agency in public sector using Java and Kafka, reducing processing time by 40%.
+* Public Sector Payments Microservices Platform — a European government agency (2024-09 to 2025-08)
+  Modernised a payments microservices platform for a European government agency in public sector using Java, Mentoring and Data Visualization, accelerating releases by 22%.
+* Manufacturing IoT Pricing Engine — a fast-growing manufacturer (2023-06 to 2024-06)
+  Modernised a pricing engine for a fast-growing manufacturer in manufacturing IoT using REST API Design, AWS, SQL and Data Visualization, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, Software Architect, Engineering Manager, AI Engineer

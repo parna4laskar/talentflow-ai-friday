@@ -1,0 +1,29 @@
+MARIA ANDERSON
+DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP10865
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 3 years of experience, based in New York. Strong in Docker, Kubernetes, Observability and Communication, with recent work in HR tech. Interested in moving towards Site Reliability Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Proficient, 2.0y), Kubernetes (Proficient, 0.6y), Observability (Proficient, 1.0y), CI/CD (Working, 1.3y), GCP (Working, 0.9y), Linux Administration (Working, 1.4y)
+- Delivery & Leadership: Communication (Proficient, 1.3y)
+- Data & AI: Generative AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Automotive Kubernetes Platform — a leading car maker (2026-04 to present)
+  Migrated a Kubernetes platform for a leading car maker in automotive using Observability and Linux Administration, cutting cloud spend by 22%.
+* HR Tech Observability Stack — an APAC HR software company (2024-11 to 2026-02)
+  Designed an observability stack for an APAC HR software company in HR tech using Generative AI and GCP, reducing production incidents by 18%.
+* HR Tech CI/CD Platform — a European HR software company (2024-03 to 2024-09)
+  Automated a CI/CD platform for a European HR software company in HR tech using Docker, GCP and Generative AI, accelerating releases by 25%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Site Reliability Engineer, Backend Engineer

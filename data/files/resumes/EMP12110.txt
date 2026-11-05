@@ -1,0 +1,27 @@
+YASH BHAT
+Associate Data Analyst | Data & Analytics | Pune, India
+Employee ID: EMP12110
+
+PROFESSIONAL SUMMARY
+Associate Data Analyst with 0.5 years of experience, based in Pune. Strong in Statistics, SQL, Tableau and Stakeholder Management, with recent work in retail banking. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Proficient, 0.4y), SQL (Working, 0.3y), Tableau (Working, 0.3y), Data Visualization (Beginner, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.3y)
+- Software Engineering: Python (Working, 0.3y)
+
+EXPERIENCE
+* Retail Banking Regulatory Reporting Suite — a global retail bank (2025-12 to present)
+  Designed a regulatory reporting suite for a global retail bank in retail banking using Statistics, Stakeholder Management, Python and Data Visualization, saving ~12K hours annually.
+* Retail Banking Data Lakehouse — a fast-growing retail bank (2024-07 to 2025-11)
+  Re-architected a data lakehouse for a fast-growing retail bank in retail banking using Python, Data Visualization, Stakeholder Management and Statistics, reducing processing time by 18%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Data Scientist, Product Manager

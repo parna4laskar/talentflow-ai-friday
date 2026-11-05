@@ -1,0 +1,29 @@
+JESSICA ROY
+Senior Frontend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP10045
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 5.1 years of experience, based in Toronto. Strong in TypeScript, Next.js, Angular and Databricks, with recent work in energy trading. Interested in moving towards Frontend Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 3.5y), Next.js (Advanced, 4.6y), Angular (Proficient, 3.6y), JavaScript (Working, 2.5y)
+- Data & AI: Databricks (Proficient, 2.9y)
+- Product & Design: Figma (Beginner, 0.6y)
+
+EXPERIENCE
+* Healthcare Self-service Portal — a global hospital network (2026-06 to present)
+  Scaled a self-service portal for a global hospital network in healthcare using JavaScript and Databricks, saving ~12K hours annually.
+* E-commerce Claims Processing Engine — a US online retailer (2025-06 to 2026-04)
+  Designed a claims processing engine for a US online retailer in e-commerce using JavaScript, Figma and Angular, reducing processing time by 25%.
+* Payments Claims Processing Engine — a global payments provider (2024-06 to 2025-06)
+  Designed a claims processing engine for a global payments provider in payments using TypeScript, Databricks, Angular and Figma, saving ~12K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer, UX Designer, Mobile Engineer

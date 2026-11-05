@@ -1,0 +1,35 @@
+ABHISHEK VERMA
+Senior AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP11635
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 8.5 years of experience, based in Hyderabad. Strong in Generative AI, Docker, Communication and Python, with recent work in HR tech. Interested in moving towards AI Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Data & AI: Generative AI (Advanced, 1.0y), LLM Engineering (Proficient, 3.0y), NLP (Working, 2.1y)
+- Cloud & DevOps: Docker (Advanced, 0.6y)
+- Delivery & Leadership: Communication (Advanced, 3.1y)
+- Software Engineering: Python (Proficient, 6.0y), REST API Design (Working, 1.6y), Go (Working, 3.8y)
+
+EXPERIENCE
+* HR Tech Agentic Customer-service Assistant — a fast-growing HR software company (2025-07 to present)
+  Automated an agentic customer-service assistant for a fast-growing HR software company in HR tech using NLP, Docker and Communication, lifting NPS by 35 points.
+* Public Sector Knowledge Assistant (RAG) — a fast-growing government agency (2024-11 to 2025-07)
+  Migrated a knowledge assistant (RAG) for a fast-growing government agency in public sector using Python, Communication and LLM Engineering, lifting NPS by 25 points.
+* HR Tech Fraud Detection Model — a tier-1 HR software company (2024-01 to 2024-08)
+  Built a fraud detection model for a tier-1 HR software company in HR tech using Go and Generative AI, reducing processing time by 40%.
+* Pharma R&D Agentic Customer-service Assistant — an APAC pharma company (2022-10 to 2023-11)
+  Automated an agentic customer-service assistant for an APAC pharma company in pharma R&D using Go and Python, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- Azure AI Engineer Associate (2022)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Full Stack Engineer, ML Engineer, DevOps Engineer

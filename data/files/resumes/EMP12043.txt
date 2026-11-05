@@ -1,0 +1,29 @@
+AAROHI VERMA
+Lead Software Architect | Engineering | Bengaluru, India
+Employee ID: EMP12043
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 11.5 years of experience, based in Bengaluru. Strong in System Design, Microservices, Python and AWS, with recent work in public sector. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 4.3y), Microservices (Advanced, 3.2y), Python (Advanced, 10.0y)
+- Cloud & DevOps: AWS (Advanced, 3.1y)
+- Delivery & Leadership: Mentoring (Advanced, 10.2y), Stakeholder Management (Proficient, 1.3y)
+
+EXPERIENCE
+* Public Sector Payments Microservices Platform — a fast-growing government agency (2026-04 to present)
+  Designed a payments microservices platform for a fast-growing government agency in public sector using System Design and Python, reducing processing time by 12%.
+* Manufacturing IoT Order Management System — a US manufacturer (2025-06 to 2026-03)
+  Designed an order management system for a US manufacturer in manufacturing IoT using Mentoring and System Design, reducing processing time by 18%.
+* Public Sector Self-service Portal — a European government agency (2024-01 to 2025-03)
+  Automated a self-service portal for a European government agency in public sector using Python, AWS, Stakeholder Management and Mentoring, saving ~30K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer

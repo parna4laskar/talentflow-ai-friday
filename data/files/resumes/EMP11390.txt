@@ -1,0 +1,27 @@
+RIYA GOH
+Associate AI Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP11390
+
+PROFESSIONAL SUMMARY
+Associate AI Engineer with 0.5 years of experience, based in Bengaluru. Strong in LLM Engineering, Responsible AI, Python and Docker, with recent work in supply-chain logistics. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Proficient, 0.4y), Responsible AI (Proficient, 0.4y), Vector Databases (Working, 0.3y), Generative AI (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.3y)
+- Cloud & DevOps: Docker (Working, 0.3y), Azure (Working, 0.3y)
+
+EXPERIENCE
+* Automotive Knowledge Assistant (RAG) — a leading car maker (2025-10 to present)
+  Automated a knowledge assistant (RAG) for a leading car maker in automotive using LLM Engineering, Python, Azure and Generative AI, saving ~30K hours annually.
+* Supply-chain Logistics Agentic Customer-service Assistant — an APAC logistics company (2025-02 to 2025-07)
+  Built an agentic customer-service assistant for an APAC logistics company in supply-chain logistics using LLM Engineering, Generative AI and Azure, lifting NPS by 25 points.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: AI Engineer, DevOps Engineer

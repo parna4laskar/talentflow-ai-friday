@@ -1,0 +1,30 @@
+ETHAN SINGH
+Lead Engineering Manager | Engineering | Toronto, Canada
+Employee ID: EMP12204
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.3 years of experience, based in Toronto. Strong in System Design, Stakeholder Management, People Leadership and Agile/Scrum, with recent work in e-commerce. Interested in moving towards Program Manager, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 7.6y), Python (Proficient, 0.6y), Microservices (Proficient, 2.9y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.8y), People Leadership (Proficient, 4.2y), Agile/Scrum (Proficient, 1.2y), Mentoring (Working, 2.5y)
+
+EXPERIENCE
+* E-commerce Customer Onboarding Platform — a tier-1 online retailer (2026-06 to present)
+  Scaled a customer onboarding platform for a tier-1 online retailer in e-commerce using People Leadership, Mentoring and System Design, improving conversion by 25%.
+* E-commerce Customer Onboarding Platform — a European online retailer (2025-02 to 2026-04)
+  Scaled a customer onboarding platform for a European online retailer in e-commerce using Python, Agile/Scrum, System Design and Mentoring, improving conversion by 18%.
+* HR Tech Claims Processing Engine — a leading HR software company (2023-11 to 2024-12)
+  Migrated a claims processing engine for a leading HR software company in HR tech using Python and People Leadership, saving ~25K hours annually.
+* Public Sector Order Management System — a European government agency (2022-11 to 2023-09)
+  Scaled an order management system for a European government agency in public sector using System Design, People Leadership, Stakeholder Management and Python, onboarding 5 new enterprise clients.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Program Manager, Software Architect

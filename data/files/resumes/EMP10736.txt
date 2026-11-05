@@ -1,0 +1,28 @@
+NAVEEN SINGH
+Lead Engineering Manager | Engineering | Hyderabad, India
+Employee ID: EMP10736
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 12.4 years of experience, based in Hyderabad. Strong in Mentoring, People Leadership, Agile/Scrum and Stakeholder Management, with recent work in media streaming. Interested in moving towards Program Manager roles and open to relocating to Bengaluru, New York, Toronto.
+
+CORE SKILLS
+- Delivery & Leadership: Mentoring (Expert, 1.1y), People Leadership (Advanced, 6.1y), Agile/Scrum (Advanced, 3.2y), Stakeholder Management (Advanced, 2.5y), Communication (Proficient, 5.6y)
+- Software Engineering: Python (Advanced, 10.3y), Microservices (Advanced, 6.4y), System Design (Proficient, 8.0y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — a fast-growing hospital network (2026-03 to present)
+  Designed a mobile banking app for a fast-growing hospital network in healthcare using People Leadership and Python, improving conversion by 35%.
+* Manufacturing IoT Mobile Banking App — a tier-1 manufacturer (2024-11 to 2025-12)
+  Modernised a mobile banking app for a tier-1 manufacturer in manufacturing IoT using Communication, Microservices, Mentoring and Stakeholder Management, improving conversion by 40%.
+* Supply-chain Logistics Pricing Engine — a leading logistics company (2023-08 to 2024-11)
+  Re-architected a pricing engine for a leading logistics company in supply-chain logistics using Microservices, Python, Stakeholder Management and Mentoring, improving conversion by 12%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Program Manager

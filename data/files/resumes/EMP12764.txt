@@ -1,0 +1,34 @@
+TANVI REDDY
+Site Reliability Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12764
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 4.9 years of experience, based in Chennai. Strong in Site Reliability Engineering, Observability, Kubernetes and Go, with recent work in automotive. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Advanced, 2.5y), Observability (Proficient, 3.6y), Kubernetes (Proficient, 2.3y), Linux Administration (Working, 0.9y), AWS (Working, 2.3y)
+- Software Engineering: Go (Proficient, 1.3y), Python (Beginner, 1.0y)
+- Quality Engineering: Performance Testing (Working, 0.8y)
+
+EXPERIENCE
+* Automotive Data-centre Exit To Cloud — a fast-growing car maker (2026-02 to present)
+  Automated a data-centre exit to cloud for a fast-growing car maker in automotive using Go, Observability and Kubernetes, cutting cloud spend by 30%.
+* Telecom Billing Data-centre Exit To Cloud — a European telecom operator (2025-06 to 2025-12)
+  Led the delivery of a data-centre exit to cloud for a European telecom operator in telecom billing using Linux Administration, AWS, Go and Python, delivering $5M in cost savings.
+* Healthcare CI/CD Platform — a global hospital network (2024-10 to 2025-03)
+  Built a CI/CD platform for a global hospital network in healthcare using Python and Linux Administration, accelerating releases by 12%.
+* Retail Banking Observability Stack — a US retail bank (2023-11 to 2024-08)
+  Re-architected an observability stack for a US retail bank in retail banking using Site Reliability Engineering and Linux Administration, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2023)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, DevOps Engineer, Security Engineer

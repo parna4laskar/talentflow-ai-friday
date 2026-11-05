@@ -1,0 +1,35 @@
+VIVEK KAUR
+Lead Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP12879
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 11.5 years of experience, based in Hyderabad. Strong in Data Engineering, SQL, Python and Apache Spark, with recent work in insurance claims. Interested in moving towards Data Engineer, AI Engineer roles and open to relocating to Singapore, London.
+
+CORE SKILLS
+- Data & AI: Data Engineering (Expert, 4.3y), SQL (Advanced, 3.9y), Apache Spark (Advanced, 11.2y), Generative AI (Advanced, 5.5y), Data Governance (Proficient, 7.3y), Databricks (Working, 2.9y)
+- Delivery & Leadership: People Leadership (Expert, 4.3y), Stakeholder Management (Proficient, 6.3y), Communication (Proficient, 1.2y)
+- Software Engineering: Python (Advanced, 6.8y)
+- Cloud & DevOps: AWS (Advanced, 8.0y)
+
+EXPERIENCE
+* Pharma R&D Real-time Analytics Pipeline — a US pharma company (2025-11 to present)
+  Designed a real-time analytics pipeline for a US pharma company in pharma R&D using Communication, SQL, AWS and Databricks, cutting cloud spend by 40%.
+* Payments Real-time Analytics Pipeline — a leading payments provider (2024-05 to 2025-10)
+  Scaled a real-time analytics pipeline for a leading payments provider in payments using Apache Spark, Stakeholder Management and Data Engineering, reducing processing time by 25%.
+* Airline Operations Customer Churn Model — a fast-growing airline (2023-08 to 2024-03)
+  Migrated a customer churn model for a fast-growing airline in airline operations using Databricks and Stakeholder Management, improving model accuracy by 22%.
+* Airline Operations Executive KPI Dashboard Suite — a tier-1 airline (2022-12 to 2023-05)
+  Re-architected an executive KPI dashboard suite for a tier-1 airline in airline operations using AWS, Apache Spark, Data Engineering and Databricks, improving forecast accuracy by 40%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Engineer, AI Engineer, Data Analyst, ML Engineer

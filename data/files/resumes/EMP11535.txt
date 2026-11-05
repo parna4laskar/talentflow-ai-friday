@@ -1,0 +1,37 @@
+ETHAN ANDERSON
+Lead Data Analyst | Data & Analytics | New York, United States
+Employee ID: EMP11535
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 15.6 years of experience, based in New York. Strong in SQL, Data Visualization, Tableau and Python, with recent work in pharma R&D. Interested in moving towards Data Analyst, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 10.0y), Data Visualization (Advanced, 9.4y), Tableau (Advanced, 1.1y), Statistics (Advanced, 9.7y)
+- Software Engineering: Python (Advanced, 8.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 13.4y), Mentoring (Advanced, 14.3y), People Leadership (Proficient, 7.0y)
+- Product & Design: A/B Testing (Proficient, 8.1y)
+- Business & Finance: Business Analysis (Working, 3.8y)
+
+EXPERIENCE
+* Airline Operations Data Lakehouse — a global airline (2026-06 to present)
+  Migrated a data lakehouse for a global airline in airline operations using A/B Testing, Business Analysis and Python, cutting cloud spend by 22%.
+* Pharma R&D Real-time Analytics Pipeline — a tier-1 pharma company (2025-07 to 2026-03)
+  Re-architected a real-time analytics pipeline for a tier-1 pharma company in pharma R&D using Data Visualization and Stakeholder Management, cutting cloud spend by 30%.
+* Pharma R&D Real-time Analytics Pipeline — a tier-1 pharma company (2024-12 to 2025-06)
+  Led the delivery of a real-time analytics pipeline for a tier-1 pharma company in pharma R&D using SQL, A/B Testing and Business Analysis, reducing processing time by 40%.
+* Pharma R&D Customer Churn Model — a fast-growing pharma company (2023-08 to 2024-10)
+  Scaled a customer churn model for a fast-growing pharma company in pharma R&D using SQL, Python and Business Analysis, improving conversion by 25%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+- Tableau Desktop Specialist (2024)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, Financial Analyst, Product Manager, Data Scientist

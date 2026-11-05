@@ -1,0 +1,31 @@
+ZOYA NAIDU
+Site Reliability Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP12782
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 3.1 years of experience, based in Chennai. Strong in Site Reliability Engineering, Observability, Kubernetes and Linux Administration, with recent work in automotive. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Proficient, 1.6y), Observability (Proficient, 1.0y), Kubernetes (Proficient, 2.3y), Linux Administration (Proficient, 0.6y), AWS (Proficient, 1.1y), Terraform (Proficient, 1.1y), FinOps (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* Healthcare CI/CD Platform — a European hospital network (2025-11 to present)
+  Led the delivery of a CI/CD platform for a European hospital network in healthcare using Communication, FinOps, Site Reliability Engineering and AWS, accelerating releases by 25%.
+* Airline Operations CI/CD Platform — a fast-growing airline (2024-05 to 2025-10)
+  Built a CI/CD platform for a fast-growing airline in airline operations using Communication, Linux Administration and AWS, accelerating releases by 35%.
+* Telecom Billing Data-centre Exit To Cloud — a fast-growing telecom operator (2022-10 to 2024-04)
+  Modernised a data-centre exit to cloud for a fast-growing telecom operator in telecom billing using AWS and Kubernetes, cutting cloud spend by 22%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Cloud Engineer, DevOps Engineer

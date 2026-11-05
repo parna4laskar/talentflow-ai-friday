@@ -1,0 +1,27 @@
+HARINI SINGH
+Associate Full Stack Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12716
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1.8 years of experience, based in Hyderabad. Strong in SQL, REST API Design, TypeScript and Java, with recent work in airline operations. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.6y)
+- Software Engineering: REST API Design (Proficient, 1.2y), TypeScript (Working, 0.9y), Java (Working, 0.6y), Angular (Working, 0.7y), React (Beginner, 0.4y)
+- Cloud & DevOps: Docker (Working, 0.4y), Kubernetes (Working, 0.5y)
+
+EXPERIENCE
+* Insurance Claims Mobile Banking App — a tier-1 insurer (2026-01 to present)
+  Built a mobile banking app for a tier-1 insurer in insurance claims using Angular and TypeScript, improving conversion by 12%.
+* Airline Operations Self-service Portal — an APAC airline (2024-11 to 2025-10)
+  Scaled a self-service portal for an APAC airline in airline operations using SQL, TypeScript and Angular, saving ~18K hours annually.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, Mobile Engineer, Software Architect, Frontend Engineer

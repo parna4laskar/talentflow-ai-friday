@@ -1,0 +1,33 @@
+EMMA MARTINEZ
+Lead DevOps Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP11302
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 8.1 years of experience, based in Austin. Strong in Python, Terraform, AWS and Go, with recent work in HR tech. Interested in moving towards DevOps Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 8.1y), Go (Advanced, 2.4y)
+- Cloud & DevOps: Terraform (Expert, 3.5y), AWS (Advanced, 0.9y), Observability (Advanced, 4.3y), Linux Administration (Advanced, 7.3y), CI/CD (Proficient, 5.2y), Docker (Proficient, 2.9y), Kubernetes (Working, 0.8y)
+- Data & AI: Machine Learning (Proficient, 4.8y), Agentic AI (Working, 0.9y)
+
+EXPERIENCE
+* Retail Banking Observability Stack — an APAC retail bank (2026-01 to present)
+  Modernised an observability stack for an APAC retail bank in retail banking using Terraform, Docker, Agentic AI and Go, reducing production incidents by 35%.
+* HR Tech Observability Stack — a global HR software company (2024-12 to 2025-12)
+  Automated an observability stack for a global HR software company in HR tech using Go and CI/CD, reducing production incidents by 30%.
+* Airline Operations Kubernetes Platform — a European airline (2023-08 to 2024-11)
+  Migrated a Kubernetes platform for a European airline in airline operations using Python and Kubernetes, accelerating releases by 40%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2022)
+- HashiCorp Terraform Associate (2023)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, Platform Engineer

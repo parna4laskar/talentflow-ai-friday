@@ -1,0 +1,26 @@
+AVA MARTINEZ
+Associate Mobile Engineer | Engineering | New York, United States
+Employee ID: EMP10240
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 0.7 years of experience, based in New York. Strong in Flutter, REST API Design, Mobile Development and UI Design, with recent work in public sector. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Flutter (Proficient, 0.4y), REST API Design (Proficient, 0.4y), Mobile Development (Working, 0.3y), TypeScript (Beginner, 0.3y)
+- Product & Design: UI Design (Working, 0.3y)
+
+EXPERIENCE
+* Public Sector Order Management System — a fast-growing government agency (2026-01 to present)
+  Modernised an order management system for a fast-growing government agency in public sector using TypeScript and Flutter, reducing processing time by 22%.
+* Public Sector Order Management System — a tier-1 government agency (2025-06 to 2025-12)
+  Scaled an order management system for a tier-1 government agency in public sector using UI Design and Flutter, onboarding 6 new enterprise clients.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer

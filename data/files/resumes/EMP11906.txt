@@ -1,0 +1,29 @@
+ARJUN PILLAI
+CRM Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP11906
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 2.7 years of experience, based in Pune. Strong in ServiceNow, JavaScript, Agile/Scrum and Playwright, with recent work in HR tech. Interested in moving towards SAP Consultant, Business Analyst roles and open to relocating to Chennai, London, Austin.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Proficient, 1.5y), Business Analysis (Working, 0.5y), Requirements Gathering (Working, 1.0y)
+- Software Engineering: JavaScript (Proficient, 1.2y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 0.7y)
+- Quality Engineering: Playwright (Proficient, 1.5y)
+- Data & AI: Generative AI (Working, 0.5y)
+
+EXPERIENCE
+* Energy Trading ERP Finance Rollout — an APAC energy company (2025-10 to present)
+  Designed an ERP finance rollout for an APAC energy company in energy trading using JavaScript, Business Analysis and Generative AI, reducing processing time by 22%.
+* Pharma R&D CRM Rollout — a tier-1 pharma company (2024-05 to 2025-09)
+  Re-architected a CRM rollout for a tier-1 pharma company in pharma R&D using Generative AI, JavaScript and ServiceNow, reducing processing time by 30%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: SAP Consultant, Business Analyst, Scrum Master

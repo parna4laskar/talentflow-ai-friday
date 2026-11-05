@@ -1,0 +1,31 @@
+PRANAV PATIL
+Site Reliability Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12309
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 5.9 years of experience, based in Hyderabad. Strong in Observability, Site Reliability Engineering, Linux Administration and Kubernetes, with recent work in telecom billing. Interested in moving towards Platform Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Advanced, 2.7y), Site Reliability Engineering (Proficient, 3.1y), Linux Administration (Proficient, 1.1y), Kubernetes (Working, 2.1y)
+- Software Engineering: Go (Working, 1.0y), Python (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Working, 2.6y)
+
+EXPERIENCE
+* Automotive Kubernetes Platform — a US car maker (2026-01 to present)
+  Migrated a Kubernetes platform for a US car maker in automotive using Kubernetes, Site Reliability Engineering, Go and Linux Administration, cutting cloud spend by 40%.
+* Telecom Billing Data-centre Exit To Cloud — a global telecom operator (2024-09 to 2025-11)
+  Built a data-centre exit to cloud for a global telecom operator in telecom billing using Communication and Go, cutting cloud spend by 25%.
+* Telecom Billing CI/CD Platform — an APAC telecom operator (2024-03 to 2024-08)
+  Led the delivery of a CI/CD platform for an APAC telecom operator in telecom billing using Linux Administration and Observability, accelerating releases by 12%.
+* Telecom Billing Data-centre Exit To Cloud — a US telecom operator (2022-11 to 2024-02)
+  Designed a data-centre exit to cloud for a US telecom operator in telecom billing using Site Reliability Engineering, Kubernetes and Python, cutting cloud spend by 40%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Platform Engineer, DevOps Engineer

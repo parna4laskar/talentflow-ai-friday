@@ -1,0 +1,28 @@
+AAROHI BHAT
+Associate Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12863
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0.4 years of experience, based in Bengaluru. Strong in Python, GCP, Linux Administration and Cloud Security, with recent work in automotive. Interested in moving towards Platform Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Python (Proficient, 0.3y)
+- Cloud & DevOps: GCP (Working, 0.3y), Linux Administration (Working, 0.3y), FinOps (Working, 0.3y), CI/CD (Working, 0.3y), Terraform (Beginner, 0.3y), Platform Engineering (Beginner, 0.3y)
+- Security: Cloud Security (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Automotive Cloud Landing Zone — a European car maker (2026-08 to present)
+  Migrated a cloud landing zone for a European car maker in automotive using CI/CD, Communication, Platform Engineering and Terraform, cutting cloud spend by 12%.
+* Automotive Kubernetes Platform — a global car maker (2025-03 to 2026-06)
+  Led the delivery of a Kubernetes platform for a global car maker in automotive using Python, Platform Engineering and Terraform, cutting cloud spend by 18%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Platform Engineer, Software Architect, DevOps Engineer

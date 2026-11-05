@@ -1,0 +1,30 @@
+DIVYA NAIR
+Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10061
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 2.8 years of experience, based in Bengaluru. Strong in C#, REST API Design, SQL and Microservices, with recent work in airline operations. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: C# (Proficient, 1.3y), REST API Design (Proficient, 1.1y), Microservices (Proficient, 0.6y), System Design (Working, 0.3y), Spring Boot (Working, 0.5y), GraphQL (Beginner, 0.5y)
+- Data & AI: SQL (Proficient, 1.2y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.9y), FinOps (Beginner, 0.4y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Onboarding Platform — a tier-1 manufacturer (2025-11 to present)
+  Scaled a customer onboarding platform for a tier-1 manufacturer in manufacturing IoT using Kubernetes and SQL, improving conversion by 40%.
+* Airline Operations Pricing Engine — a fast-growing airline (2024-09 to 2025-08)
+  Built a pricing engine for a fast-growing airline in airline operations using Microservices, C# and SQL, reducing processing time by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Software Architect, Engineering Manager

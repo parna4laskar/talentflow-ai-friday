@@ -1,0 +1,35 @@
+MICHAŁ JONES
+Principal Platform Engineer | Cloud & Infrastructure | Kraków, Poland
+Employee ID: EMP11575
+
+PROFESSIONAL SUMMARY
+Principal Platform Engineer with 20.9 years of experience, based in Kraków. Strong in Terraform, Go, Site Reliability Engineering and Platform Engineering, with recent work in pharma R&D. Interested in moving towards Platform Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 16.8y), Site Reliability Engineering (Expert, 5.8y), Platform Engineering (Advanced, 17.3y), Kubernetes (Advanced, 8.1y), CI/CD (Advanced, 10.8y), AWS (Advanced, 0.6y), Observability (Proficient, 14.3y)
+- Software Engineering: Go (Expert, 13.6y)
+- Delivery & Leadership: People Leadership (Expert, 1.8y), Mentoring (Advanced, 11.0y), Stakeholder Management (Advanced, 19.9y)
+- Security: Identity & Access Management (Proficient, 8.6y)
+
+EXPERIENCE
+* Public Sector Kubernetes Platform — a global government agency (2026-03 to present)
+  Built a Kubernetes platform for a global government agency in public sector using Site Reliability Engineering, Observability and Platform Engineering, accelerating releases by 35%.
+* HR Tech CI/CD Platform — an APAC HR software company (2025-05 to 2026-02)
+  Built a CI/CD platform for an APAC HR software company in HR tech using Terraform and Kubernetes, accelerating releases by 30%.
+* E-commerce Kubernetes Platform — a fast-growing online retailer (2024-01 to 2025-04)
+  Scaled a Kubernetes platform for a fast-growing online retailer in e-commerce using Site Reliability Engineering and Platform Engineering, accelerating releases by 40%.
+* Pharma R&D Observability Stack — a European pharma company (2023-07 to 2024-01)
+  Led the delivery of an observability stack for a European pharma company in pharma R&D using AWS, Kubernetes, Observability and Platform Engineering, accelerating releases by 40%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer, Backend Engineer, Site Reliability Engineer

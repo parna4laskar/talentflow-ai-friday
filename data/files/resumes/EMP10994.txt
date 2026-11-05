@@ -1,0 +1,32 @@
+MADISON MARTINEZ
+Senior CRM Consultant | Enterprise Applications | New York, United States
+Employee ID: EMP10994
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 10.8 years of experience, based in New York. Strong in JavaScript, Requirements Gathering, ServiceNow and Business Analysis, with recent work in insurance claims. Interested in moving towards Business Analyst, SAP Consultant roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 10.8y), TypeScript (Working, 2.3y)
+- Business & Finance: Requirements Gathering (Advanced, 9.6y), ServiceNow (Proficient, 6.2y), Business Analysis (Proficient, 1.6y), Process Improvement (Working, 4.9y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 4.6y)
+
+EXPERIENCE
+* Insurance Claims Service Desk Automation — a US insurer (2026-09 to present)
+  Led the delivery of a service desk automation for a US insurer in insurance claims using Requirements Gathering and TypeScript, reducing processing time by 30%.
+* E-commerce Service Desk Automation — a tier-1 online retailer (2025-09 to 2026-08)
+  Modernised a service desk automation for a tier-1 online retailer in e-commerce using TypeScript, Business Analysis, ServiceNow and JavaScript, reducing processing time by 25%.
+* Insurance Claims ERP Finance Rollout — a fast-growing insurer (2024-06 to 2025-06)
+  Built an ERP finance rollout for a fast-growing insurer in insurance claims using Business Analysis, Requirements Gathering, Agile/Scrum and JavaScript, saving ~18K hours annually.
+
+CERTIFICATIONS
+- ServiceNow CSA (2024)
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, SAP Consultant, Account Manager

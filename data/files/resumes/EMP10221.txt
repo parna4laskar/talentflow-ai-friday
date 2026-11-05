@@ -1,0 +1,31 @@
+IMRAN KULKARNI
+Associate Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10221
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.1 years of experience, based in Pune. Strong in C#, Communication, SQL and Microservices, with recent work in media streaming. Interested in moving towards DevOps Engineer roles and open to relocating to Singapore, Toronto, London.
+
+CORE SKILLS
+- Software Engineering: C# (Advanced, 1.0y), Microservices (Proficient, 0.9y), REST API Design (Beginner, 0.3y), .NET Core (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Advanced, 0.9y)
+- Data & AI: SQL (Proficient, 0.5y)
+- Cloud & DevOps: AWS (Working, 0.6y)
+
+EXPERIENCE
+* Media Streaming Mobile Banking App — a fast-growing streaming platform (2026-01 to present)
+  Modernised a mobile banking app for a fast-growing streaming platform in media streaming using .NET Core, Communication, Microservices and C#, lifting NPS by 12 points.
+* Media Streaming Order Management System — a tier-1 streaming platform (2025-03 to 2025-11)
+  Migrated an order management system for a tier-1 streaming platform in media streaming using SQL, Communication and REST API Design, reducing processing time by 35%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer

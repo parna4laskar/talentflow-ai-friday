@@ -1,0 +1,31 @@
+DIVYA GOKHALE
+Data Scientist | Data & Analytics | Gurugram, India
+Employee ID: EMP12942
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3.6 years of experience, based in Gurugram. Strong in Statistics, Machine Learning, SQL and A/B Testing, with recent work in supply-chain logistics. Interested in moving towards ML Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: Statistics (Advanced, 1.1y), Machine Learning (Proficient, 2.4y), SQL (Proficient, 2.6y), Generative AI (Working, 1.5y), Apache Spark (Working, 1.5y), Data Visualization (Working, 0.3y)
+- Product & Design: A/B Testing (Working, 1.5y)
+- Software Engineering: Python (Beginner, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Data Lakehouse — a European insurer (2026-01 to present)
+  Built a data lakehouse for a European insurer in insurance claims using SQL, Python and Generative AI, cutting cloud spend by 35%.
+* Supply-chain Logistics Real-time Analytics Pipeline — an APAC logistics company (2024-06 to 2025-11)
+  Migrated a real-time analytics pipeline for an APAC logistics company in supply-chain logistics using SQL, Statistics, Data Visualization and Apache Spark, reducing processing time by 18%.
+* Supply-chain Logistics Real-time Analytics Pipeline — a US logistics company (2023-01 to 2024-05)
+  Scaled a real-time analytics pipeline for a US logistics company in supply-chain logistics using Statistics, Apache Spark and A/B Testing, reducing processing time by 35%.
+* Retail Banking Regulatory Reporting Suite — a global retail bank (2021-07 to 2022-12)
+  Re-architected a regulatory reporting suite for a global retail bank in retail banking using Generative AI and Machine Learning, reducing processing time by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: ML Engineer, Data Analyst

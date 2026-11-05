@@ -1,0 +1,34 @@
+SAMEER MENON
+Senior AI Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP10203
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 5.1 years of experience, based in Bengaluru. Strong in LLM Engineering, Generative AI, REST API Design and Communication, with recent work in media streaming. Interested in moving towards Data Scientist, ML Engineer roles and open to relocating to Dublin, London.
+
+CORE SKILLS
+- Data & AI: LLM Engineering (Expert, 5.1y), Generative AI (Advanced, 1.8y), Agentic AI (Proficient, 1.3y), Responsible AI (Proficient, 3.3y)
+- Software Engineering: REST API Design (Advanced, 4.2y), Python (Proficient, 3.2y)
+- Delivery & Leadership: Communication (Advanced, 2.5y)
+
+EXPERIENCE
+* Media Streaming Fraud Detection Model — a leading streaming platform (2025-10 to present)
+  Automated a fraud detection model for a leading streaming platform in media streaming using Python and Agentic AI, improving model accuracy by 25%.
+* Automotive Document Intelligence Pipeline — a global car maker (2024-10 to 2025-08)
+  Re-architected a document intelligence pipeline for a global car maker in automotive using Generative AI and Responsible AI, reducing processing time by 12%.
+* Media Streaming Recommendation Engine — a global streaming platform (2024-03 to 2024-08)
+  Designed a recommendation engine for a global streaming platform in media streaming using Responsible AI, REST API Design and Generative AI, improving conversion by 12%.
+* Insurance Claims Knowledge Assistant (RAG) — a fast-growing insurer (2022-12 to 2024-01)
+  Scaled a knowledge assistant (RAG) for a fast-growing insurer in insurance claims using LLM Engineering, Generative AI, Python and Agentic AI, lifting NPS by 35 points.
+
+CERTIFICATIONS
+- Google Generative AI Leader (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Scientist, ML Engineer, Full Stack Engineer

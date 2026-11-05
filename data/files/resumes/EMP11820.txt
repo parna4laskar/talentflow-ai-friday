@@ -1,0 +1,29 @@
+NOAH NGUYEN
+Lead Engineering Manager | Engineering | Austin, United States
+Employee ID: EMP11820
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.3 years of experience, based in Austin. Strong in People Leadership, Agile/Scrum, Communication and AWS, with recent work in e-commerce. Interested in moving towards Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 8.3y), Agile/Scrum (Advanced, 4.8y), Communication (Advanced, 7.8y), Stakeholder Management (Proficient, 3.2y), Mentoring (Proficient, 3.7y)
+- Cloud & DevOps: AWS (Advanced, 5.5y), Terraform (Working, 2.2y)
+- Software Engineering: Java (Advanced, 5.2y), System Design (Proficient, 1.7y), Python (Proficient, 3.9y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a US online retailer (2026-06 to present)
+  Designed a mobile banking app for a US online retailer in e-commerce using AWS and People Leadership, lifting NPS by 25 points.
+* E-commerce Mobile Banking App — a European online retailer (2025-03 to 2026-04)
+  Built a mobile banking app for a European online retailer in e-commerce using System Design and Python, improving conversion by 40%.
+* Automotive Payments Microservices Platform — a fast-growing car maker (2023-07 to 2025-01)
+  Migrated a payments microservices platform for a fast-growing car maker in automotive using System Design and Python, reducing processing time by 22%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Scrum Master

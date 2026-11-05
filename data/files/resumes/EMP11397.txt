@@ -1,0 +1,36 @@
+JAMES TAYLOR
+Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11397
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.3 years of experience, based in London. Strong in Spring Boot, C#, REST API Design and Communication, with recent work in energy trading. Interested in moving towards Backend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Spring Boot (Advanced, 1.2y), C# (Proficient, 1.8y), REST API Design (Proficient, 2.9y), Kafka (Working, 1.9y), Microservices (Beginner, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 1.3y)
+- Data & AI: SQL (Working, 1.9y)
+- Cloud & DevOps: AWS (Working, 1.3y)
+
+EXPERIENCE
+* Energy Trading Pricing Engine — an APAC energy company (2025-11 to present)
+  Scaled a pricing engine for an APAC energy company in energy trading using Kafka, Spring Boot, Communication and REST API Design, improving conversion by 30%.
+* Wealth Management Order Management System — a European wealth manager (2024-06 to 2025-09)
+  Led the delivery of an order management system for a European wealth manager in wealth management using Microservices and Spring Boot, reducing processing time by 35%.
+* Energy Trading Pricing Engine — a leading energy company (2023-10 to 2024-03)
+  Migrated a pricing engine for a leading energy company in energy trading using SQL and REST API Design, reducing processing time by 30%.
+* E-commerce Pricing Engine — a fast-growing online retailer (2023-03 to 2023-09)
+  Automated a pricing engine for a fast-growing online retailer in e-commerce using AWS and SQL, reducing processing time by 25%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Software Architect, Engineering Manager, AI Engineer

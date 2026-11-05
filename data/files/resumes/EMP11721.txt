@@ -1,0 +1,30 @@
+ADITI NAIR
+Senior Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11721
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 5.6 years of experience, based in Bengaluru. Strong in Platform Engineering, Python, GCP and Terraform, with recent work in insurance claims. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Expert, 2.1y), GCP (Proficient, 3.1y), Terraform (Proficient, 3.6y), Linux Administration (Proficient, 3.1y), Kubernetes (Working, 2.0y), CI/CD (Working, 0.9y)
+- Software Engineering: Python (Advanced, 2.8y)
+- Security: Cloud Security (Proficient, 1.3y)
+- Delivery & Leadership: Communication (Proficient, 1.5y)
+
+EXPERIENCE
+* Insurance Claims Kubernetes Platform — a global insurer (2026-02 to present)
+  Modernised a Kubernetes platform for a global insurer in insurance claims using Terraform, CI/CD and Kubernetes, accelerating releases by 12%.
+* Automotive Data-centre Exit To Cloud — an APAC car maker (2025-04 to 2025-12)
+  Migrated a data-centre exit to cloud for an APAC car maker in automotive using Platform Engineering and GCP, cutting cloud spend by 30%.
+* Supply-chain Logistics Observability Stack — an APAC logistics company (2024-07 to 2025-04)
+  Scaled an observability stack for an APAC logistics company in supply-chain logistics using CI/CD, Kubernetes and Terraform, reducing production incidents by 40%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer

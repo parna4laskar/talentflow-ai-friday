@@ -1,0 +1,31 @@
+DIVYA BHAT
+CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP11628
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 3.8 years of experience, based in Bengaluru. Strong in JavaScript, Requirements Gathering, Salesforce and Agile/Scrum, with recent work in retail banking. Interested in moving towards Business Analyst roles and open to relocating to Singapore, Dublin, Hyderabad.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 1.1y)
+- Business & Finance: Requirements Gathering (Advanced, 3.3y), Salesforce (Proficient, 1.0y), Business Analysis (Beginner, 0.6y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.0y)
+
+EXPERIENCE
+* Retail Banking ERP Finance Rollout — a global retail bank (2026-11 to present)
+  Built an ERP finance rollout for a global retail bank in retail banking using Agile/Scrum, Requirements Gathering and Business Analysis, saving ~22K hours annually.
+* Retail Banking ERP Finance Rollout — a fast-growing retail bank (2025-05 to 2026-10)
+  Built an ERP finance rollout for a fast-growing retail bank in retail banking using Agile/Scrum, Business Analysis, Salesforce and JavaScript, saving ~18K hours annually.
+* Retail Banking Service Desk Automation — a global retail bank (2023-12 to 2025-04)
+  Re-architected a service desk automation for a global retail bank in retail banking using Business Analysis, JavaScript, Agile/Scrum and Salesforce, saving ~30K hours annually.
+* Retail Banking ERP Finance Rollout — a European retail bank (2022-08 to 2023-11)
+  Automated an ERP finance rollout for a European retail bank in retail banking using Salesforce and Agile/Scrum, reducing processing time by 35%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Business Analyst

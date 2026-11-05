@@ -1,0 +1,31 @@
+VIKRAM BOSE
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP10250
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 9.5 years of experience, based in Hyderabad. Strong in System Design, Microservices, C# and AWS, with recent work in payments. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 4.4y), Microservices (Advanced, 6.3y), C# (Advanced, 6.6y), REST API Design (Advanced, 3.3y), Kafka (Proficient, 3.1y)
+- Cloud & DevOps: AWS (Advanced, 9.1y)
+- Security: Cloud Security (Advanced, 1.2y)
+- Delivery & Leadership: People Leadership (Advanced, 3.2y), Mentoring (Proficient, 1.2y), Stakeholder Management (Proficient, 2.8y)
+- Data & AI: Agentic AI (Proficient, 0.4y)
+
+EXPERIENCE
+* HR Tech Self-service Portal — a leading HR software company (2025-12 to present)
+  Led the delivery of a self-service portal for a leading HR software company in HR tech using Mentoring and Agentic AI, lifting NPS by 35 points.
+* Supply-chain Logistics Pricing Engine — a global logistics company (2024-08 to 2025-10)
+  Scaled a pricing engine for a global logistics company in supply-chain logistics using Agentic AI and C#, reducing processing time by 12%.
+* Airline Operations Customer Onboarding Platform — a leading airline (2023-11 to 2024-07)
+  Scaled a customer onboarding platform for a leading airline in airline operations using Cloud Security and Mentoring, reducing processing time by 40%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer, Backend Engineer

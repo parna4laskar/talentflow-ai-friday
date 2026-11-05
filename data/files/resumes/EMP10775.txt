@@ -1,0 +1,33 @@
+PAWEŁ KOWALSKI
+Data Analyst | Data & Analytics | Kraków, Poland
+Employee ID: EMP10775
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4.3 years of experience, based in Kraków. Strong in A/B Testing, SQL, Data Visualization and Snowflake, with recent work in pharma R&D. Interested in moving towards Business Analyst roles.
+
+CORE SKILLS
+- Product & Design: A/B Testing (Proficient, 1.1y)
+- Data & AI: SQL (Working, 1.1y), Data Visualization (Working, 0.8y), Snowflake (Working, 0.6y), Power BI (Beginner, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Working, 2.1y), Communication (Working, 1.6y)
+- Business & Finance: Business Analysis (Beginner, 0.4y)
+
+EXPERIENCE
+* Airline Operations Data Lakehouse — an APAC airline (2026-06 to present)
+  Migrated a data lakehouse for an APAC airline in airline operations using Business Analysis and Stakeholder Management, reducing processing time by 12%.
+* Pharma R&D Executive KPI Dashboard Suite — a European pharma company (2024-11 to 2026-03)
+  Automated an executive KPI dashboard suite for a European pharma company in pharma R&D using Data Visualization and SQL, saving ~25K hours annually.
+* Pharma R&D Customer Churn Model — a US pharma company (2023-11 to 2024-10)
+  Re-architected a customer churn model for a US pharma company in pharma R&D using Business Analysis and Stakeholder Management, improving model accuracy by 12%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2022)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+Polish, English, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst

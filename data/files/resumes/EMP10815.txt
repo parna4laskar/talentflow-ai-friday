@@ -1,0 +1,35 @@
+OWEN CAMPBELL
+Lead Software Architect | Engineering | Toronto, Canada
+Employee ID: EMP10815
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 10 years of experience, based in Toronto. Strong in System Design, Microservices, GCP and Cloud Security, with recent work in automotive. Interested in moving towards Software Architect, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 6.2y), Microservices (Advanced, 9.1y), C# (Proficient, 1.9y), REST API Design (Proficient, 5.7y)
+- Cloud & DevOps: GCP (Advanced, 2.8y), Kubernetes (Proficient, 2.4y)
+- Security: Cloud Security (Advanced, 8.1y)
+- Delivery & Leadership: Communication (Advanced, 9.4y), Stakeholder Management (Proficient, 5.5y), Mentoring (Working, 4.5y)
+
+EXPERIENCE
+* Payments Mobile Banking App — an APAC payments provider (2025-08 to present)
+  Modernised a mobile banking app for an APAC payments provider in payments using C# and Microservices, improving conversion by 30%.
+* Automotive Mobile Banking App — a US car maker (2024-04 to 2025-05)
+  Automated a mobile banking app for a US car maker in automotive using Cloud Security and REST API Design, lifting NPS by 40 points.
+* Payments Pricing Engine — a fast-growing payments provider (2023-07 to 2024-04)
+  Led the delivery of a pricing engine for a fast-growing payments provider in payments using Kubernetes, GCP, Cloud Security and Stakeholder Management, improving conversion by 22%.
+* Automotive Payments Microservices Platform — a tier-1 car maker (2022-02 to 2023-05)
+  Re-architected a payments microservices platform for a tier-1 car maker in automotive using GCP and Kubernetes, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- TOGAF 10 (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, French, German
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, Engineering Manager, DevOps Engineer, Cloud Engineer

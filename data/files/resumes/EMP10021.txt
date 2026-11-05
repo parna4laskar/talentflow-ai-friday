@@ -1,0 +1,32 @@
+OLIVER THOMAS
+Senior Backend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10021
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.9 years of experience, based in London. Strong in SQL, Java, REST API Design and GraphQL, with recent work in automotive. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 2.6y), Responsible AI (Working, 0.9y)
+- Software Engineering: Java (Proficient, 7.5y), REST API Design (Proficient, 7.3y), GraphQL (Proficient, 6.1y), Spring Boot (Proficient, 1.3y), Microservices (Working, 4.3y)
+- Cloud & DevOps: Docker (Proficient, 6.5y), Kubernetes (Working, 4.4y), CI/CD (Working, 0.5y)
+
+EXPERIENCE
+* Retail Banking Payments Microservices Platform — a fast-growing retail bank (2026-04 to present)
+  Built a payments microservices platform for a fast-growing retail bank in retail banking using Kubernetes, Responsible AI and Java, reducing processing time by 18%.
+* Payments Mobile Banking App — a European payments provider (2025-02 to 2026-01)
+  Modernised a mobile banking app for a European payments provider in payments using REST API Design, Microservices and SQL, improving conversion by 35%.
+* Automotive Claims Processing Engine — a tier-1 car maker (2023-06 to 2024-12)
+  Automated a claims processing engine for a tier-1 car maker in automotive using REST API Design and CI/CD, reducing processing time by 40%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, DevOps Engineer, Engineering Manager, Full Stack Engineer

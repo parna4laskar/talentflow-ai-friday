@@ -1,0 +1,35 @@
+VIVEK MUKHERJEE
+Lead Software Architect | Engineering | Hyderabad, India
+Employee ID: EMP10412
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 8.9 years of experience, based in Hyderabad. Strong in Microservices, C#, AWS and Cloud Security, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 8.9y), C# (Advanced, 0.7y), REST API Design (Advanced, 7.1y), Kafka (Advanced, 3.2y), System Design (Proficient, 4.2y)
+- Cloud & DevOps: AWS (Advanced, 6.2y), FinOps (Working, 3.2y)
+- Security: Cloud Security (Advanced, 5.2y)
+- Delivery & Leadership: Mentoring (Proficient, 4.3y), People Leadership (Proficient, 7.6y)
+
+EXPERIENCE
+* Media Streaming Customer Onboarding Platform — a tier-1 streaming platform (2025-09 to present)
+  Migrated a customer onboarding platform for a tier-1 streaming platform in media streaming using REST API Design, AWS and Microservices, reducing processing time by 12%.
+* Retail Banking Customer Onboarding Platform — an APAC retail bank (2024-10 to 2025-06)
+  Scaled a customer onboarding platform for an APAC retail bank in retail banking using Cloud Security, Microservices and REST API Design, reducing processing time by 40%.
+* Energy Trading Mobile Banking App — a US energy company (2023-08 to 2024-08)
+  Led the delivery of a mobile banking app for a US energy company in energy trading using Microservices, REST API Design and Cloud Security, lifting NPS by 35 points.
+* E-commerce Payments Microservices Platform — a global online retailer (2022-03 to 2023-06)
+  Modernised a payments microservices platform for a global online retailer in e-commerce using FinOps and Kafka, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Backend Engineer

@@ -1,0 +1,33 @@
+NEHA GUPTA
+Lead Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP11227
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 15.6 years of experience, based in Pune. Strong in Python, Data Engineering, Apache Spark and Kafka, with recent work in manufacturing IoT. Interested in moving towards Data Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 7.3y), Kafka (Advanced, 10.7y)
+- Data & AI: Data Engineering (Expert, 12.2y), Apache Spark (Advanced, 11.2y), SQL (Proficient, 7.3y), Data Governance (Proficient, 4.3y)
+- Cloud & DevOps: Terraform (Advanced, 11.2y), AWS (Working, 1.2y)
+- Delivery & Leadership: Communication (Advanced, 7.6y)
+
+EXPERIENCE
+* Energy Trading Customer Churn Model — an APAC energy company (2026-09 to present)
+  Modernised a customer churn model for an APAC energy company in energy trading using Terraform, Communication, Apache Spark and SQL, improving conversion by 22%.
+* Automotive Real-time Analytics Pipeline — a global car maker (2025-07 to 2026-09)
+  Migrated a real-time analytics pipeline for a global car maker in automotive using Terraform and SQL, reducing processing time by 12%.
+* Pharma R&D Data Lakehouse — a global pharma company (2024-11 to 2025-06)
+  Automated a data lakehouse for a global pharma company in pharma R&D using Data Governance, Python and Communication, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2023)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Engineer, Data Analyst

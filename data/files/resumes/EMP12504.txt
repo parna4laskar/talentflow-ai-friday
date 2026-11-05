@@ -1,0 +1,32 @@
+NAVEEN BHAT
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP12504
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 13.2 years of experience, based in Pune. Strong in People Leadership, System Design, Agile/Scrum and Microservices, with recent work in healthcare. Interested in moving towards Engineering Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 0.9y), Agile/Scrum (Advanced, 0.7y), Stakeholder Management (Proficient, 1.5y), Communication (Proficient, 4.8y)
+- Software Engineering: System Design (Advanced, 1.9y), Microservices (Advanced, 9.6y), Python (Advanced, 8.5y), Java (Proficient, 3.7y)
+- Cloud & DevOps: AWS (Proficient, 5.9y)
+- Quality Engineering: Playwright (Proficient, 5.0y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — a global hospital network (2026-05 to present)
+  Built a mobile banking app for a global hospital network in healthcare using Stakeholder Management, AWS, System Design and Agile/Scrum, improving conversion by 12%.
+* Healthcare Pricing Engine — a US hospital network (2025-09 to 2026-04)
+  Migrated a pricing engine for a US hospital network in healthcare using Playwright and Communication, improving conversion by 12%.
+* E-commerce Pricing Engine — a European online retailer (2024-05 to 2025-07)
+  Built a pricing engine for a European online retailer in e-commerce using Agile/Scrum, Playwright and Python, reducing processing time by 40%.
+* Healthcare Self-service Portal — a fast-growing hospital network (2023-07 to 2024-04)
+  Re-architected a self-service portal for a fast-growing hospital network in healthcare using People Leadership, System Design, Microservices and Java, saving ~40K hours annually.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Engineering Manager, Backend Engineer, Software Architect, Scrum Master

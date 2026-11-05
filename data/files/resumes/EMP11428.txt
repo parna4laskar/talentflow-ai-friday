@@ -1,0 +1,29 @@
+ADITYA SHEIKH
+Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP11428
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.8 years of experience, based in Pune. Strong in Python, Data Engineering, AWS and SQL, with recent work in airline operations. Interested in moving towards Backend Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.2y)
+- Data & AI: Data Engineering (Advanced, 3.8y), SQL (Working, 1.0y), dbt (Working, 0.6y), Snowflake (Working, 1.6y), Data Governance (Beginner, 0.7y), Generative AI (Beginner, 0.9y)
+- Cloud & DevOps: AWS (Advanced, 0.8y)
+
+EXPERIENCE
+* Manufacturing IoT Data Lakehouse — a US manufacturer (2026-10 to present)
+  Re-architected a data lakehouse for a US manufacturer in manufacturing IoT using Data Engineering and dbt, reducing processing time by 30%.
+* Payments Executive KPI Dashboard Suite — a US payments provider (2025-11 to 2026-09)
+  Led the delivery of an executive KPI dashboard suite for a US payments provider in payments using Python, dbt, SQL and AWS, saving ~25K hours annually.
+* Manufacturing IoT Real-time Analytics Pipeline — a European manufacturer (2025-02 to 2025-09)
+  Led the delivery of a real-time analytics pipeline for a European manufacturer in manufacturing IoT using Data Governance, Python, Data Engineering and Generative AI, cutting cloud spend by 25%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer

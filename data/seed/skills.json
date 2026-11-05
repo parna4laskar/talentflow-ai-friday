@@ -1,0 +1,2200 @@
+[
+ {
+  "skill_id": "SK001",
+  "name": "Python",
+  "category": "Software Engineering",
+  "description": "General-purpose language for backend services, automation, data and AI workloads.",
+  "market_growth_index": 1.18,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Go",
+    "weight": 0.8
+   },
+   {
+    "skill": "Machine Learning",
+    "weight": 0.6
+   },
+   {
+    "skill": "Test Automation",
+    "weight": 0.45
+   },
+   {
+    "skill": "Java",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK002",
+  "name": "Java",
+  "category": "Software Engineering",
+  "description": "Enterprise JVM language used for large-scale transactional backends.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "C#",
+    "weight": 0.75
+   },
+   {
+    "skill": "Spring Boot",
+    "weight": 0.7
+   },
+   {
+    "skill": "Test Automation",
+    "weight": 0.45
+   },
+   {
+    "skill": "Python",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK003",
+  "name": "Go",
+  "category": "Software Engineering",
+  "description": "Compiled language for cloud-native, concurrent network services.",
+  "market_growth_index": 1.15,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Python",
+    "weight": 0.8
+   }
+  ]
+ },
+ {
+  "skill_id": "SK004",
+  "name": "C#",
+  "category": "Software Engineering",
+  "description": ".NET language for enterprise applications and services.",
+  "market_growth_index": 1.0,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Java",
+    "weight": 0.75
+   },
+   {
+    "skill": ".NET Core",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK005",
+  "name": "TypeScript",
+  "category": "Software Engineering",
+  "description": "Typed superset of JavaScript for scalable web front-ends and Node services.",
+  "market_growth_index": 1.14,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "JavaScript",
+    "weight": 0.85
+   },
+   {
+    "skill": "Node.js",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK006",
+  "name": "JavaScript",
+  "category": "Software Engineering",
+  "description": "Core language of the web for interactive UI and Node.js services.",
+  "market_growth_index": 1.01,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "TypeScript",
+    "weight": 0.85
+   }
+  ]
+ },
+ {
+  "skill_id": "SK007",
+  "name": "React",
+  "category": "Software Engineering",
+  "description": "Component-based UI library for single-page web applications.",
+  "market_growth_index": 1.1,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Next.js",
+    "weight": 0.8
+   },
+   {
+    "skill": "Angular",
+    "weight": 0.7
+   },
+   {
+    "skill": "Mobile Development",
+    "weight": 0.55
+   },
+   {
+    "skill": "Flutter",
+    "weight": 0.55
+   },
+   {
+    "skill": "Design Systems",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK008",
+  "name": "Angular",
+  "category": "Software Engineering",
+  "description": "Opinionated TypeScript framework for enterprise web front-ends.",
+  "market_growth_index": 0.96,
+  "demand_trend": "Declining",
+  "adjacent": [
+   {
+    "skill": "React",
+    "weight": 0.7
+   },
+   {
+    "skill": "Next.js",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK009",
+  "name": "Next.js",
+  "category": "Software Engineering",
+  "description": "React meta-framework with server rendering and edge routing.",
+  "market_growth_index": 1.17,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "React",
+    "weight": 0.8
+   },
+   {
+    "skill": "Angular",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK010",
+  "name": "Node.js",
+  "category": "Software Engineering",
+  "description": "JavaScript runtime for event-driven backend services and APIs.",
+  "market_growth_index": 1.05,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "TypeScript",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK011",
+  "name": "Spring Boot",
+  "category": "Software Engineering",
+  "description": "Java framework for production-grade microservices.",
+  "market_growth_index": 1.03,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": ".NET Core",
+    "weight": 0.75
+   },
+   {
+    "skill": "Java",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK012",
+  "name": ".NET Core",
+  "category": "Software Engineering",
+  "description": "Cross-platform .NET runtime for web APIs and services.",
+  "market_growth_index": 1.0,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Spring Boot",
+    "weight": 0.75
+   },
+   {
+    "skill": "C#",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK013",
+  "name": "Microservices",
+  "category": "Software Engineering",
+  "description": "Architecture style decomposing systems into independently deployable services.",
+  "market_growth_index": 1.06,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "REST API Design",
+    "weight": 0.6
+   },
+   {
+    "skill": "System Design",
+    "weight": 0.6
+   },
+   {
+    "skill": "Kafka",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK014",
+  "name": "REST API Design",
+  "category": "Software Engineering",
+  "description": "Designing resource-oriented HTTP APIs, versioning and contracts.",
+  "market_growth_index": 1.04,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Microservices",
+    "weight": 0.6
+   },
+   {
+    "skill": "System Design",
+    "weight": 0.6
+   },
+   {
+    "skill": "Kafka",
+    "weight": 0.6
+   },
+   {
+    "skill": "GraphQL",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK015",
+  "name": "GraphQL",
+  "category": "Software Engineering",
+  "description": "Query language and runtime for flexible client-driven APIs.",
+  "market_growth_index": 1.03,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "REST API Design",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK016",
+  "name": "System Design",
+  "category": "Software Engineering",
+  "description": "Designing scalable, resilient distributed systems and trade-offs.",
+  "market_growth_index": 1.12,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Microservices",
+    "weight": 0.6
+   },
+   {
+    "skill": "REST API Design",
+    "weight": 0.6
+   },
+   {
+    "skill": "Kafka",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK017",
+  "name": "Kafka",
+  "category": "Software Engineering",
+  "description": "Distributed event streaming for real-time data pipelines.",
+  "market_growth_index": 1.09,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Microservices",
+    "weight": 0.6
+   },
+   {
+    "skill": "REST API Design",
+    "weight": 0.6
+   },
+   {
+    "skill": "System Design",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK018",
+  "name": "Mobile Development",
+  "category": "Software Engineering",
+  "description": "Building native and cross-platform iOS/Android apps.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Flutter",
+    "weight": 0.55
+   },
+   {
+    "skill": "React",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK019",
+  "name": "Flutter",
+  "category": "Software Engineering",
+  "description": "Cross-platform UI toolkit for mobile apps from one Dart codebase.",
+  "market_growth_index": 1.06,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Mobile Development",
+    "weight": 0.55
+   },
+   {
+    "skill": "React",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK020",
+  "name": "AWS",
+  "category": "Cloud & DevOps",
+  "description": "Amazon Web Services compute, storage, networking and managed services.",
+  "market_growth_index": 1.12,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Azure",
+    "weight": 0.75
+   },
+   {
+    "skill": "GCP",
+    "weight": 0.75
+   },
+   {
+    "skill": "Cloud Security",
+    "weight": 0.6
+   },
+   {
+    "skill": "Identity & Access Management",
+    "weight": 0.6
+   },
+   {
+    "skill": "FinOps",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK021",
+  "name": "Azure",
+  "category": "Cloud & DevOps",
+  "description": "Microsoft Azure cloud platform and enterprise integration services.",
+  "market_growth_index": 1.13,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "AWS",
+    "weight": 0.75
+   },
+   {
+    "skill": "GCP",
+    "weight": 0.75
+   },
+   {
+    "skill": "FinOps",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK022",
+  "name": "GCP",
+  "category": "Cloud & DevOps",
+  "description": "Google Cloud Platform including BigQuery, GKE and Vertex AI.",
+  "market_growth_index": 1.1,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "AWS",
+    "weight": 0.75
+   },
+   {
+    "skill": "Azure",
+    "weight": 0.75
+   }
+  ]
+ },
+ {
+  "skill_id": "SK023",
+  "name": "Kubernetes",
+  "category": "Cloud & DevOps",
+  "description": "Container orchestration for deploying and scaling workloads.",
+  "market_growth_index": 1.16,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Docker",
+    "weight": 0.75
+   },
+   {
+    "skill": "Site Reliability Engineering",
+    "weight": 0.6
+   },
+   {
+    "skill": "Observability",
+    "weight": 0.6
+   },
+   {
+    "skill": "Linux Administration",
+    "weight": 0.6
+   },
+   {
+    "skill": "MLOps",
+    "weight": 0.6
+   },
+   {
+    "skill": "Machine Learning",
+    "weight": 0.6
+   },
+   {
+    "skill": "CI/CD",
+    "weight": 0.6
+   },
+   {
+    "skill": "Platform Engineering",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK024",
+  "name": "Docker",
+  "category": "Cloud & DevOps",
+  "description": "Containerization of applications and their dependencies.",
+  "market_growth_index": 1.06,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Kubernetes",
+    "weight": 0.75
+   }
+  ]
+ },
+ {
+  "skill_id": "SK025",
+  "name": "Terraform",
+  "category": "Cloud & DevOps",
+  "description": "Infrastructure as code for provisioning multi-cloud resources.",
+  "market_growth_index": 1.14,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Platform Engineering",
+    "weight": 0.65
+   },
+   {
+    "skill": "CI/CD",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK026",
+  "name": "CI/CD",
+  "category": "Cloud & DevOps",
+  "description": "Automated build, test and deployment pipelines (GitHub Actions, Jenkins).",
+  "market_growth_index": 1.07,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Terraform",
+    "weight": 0.65
+   },
+   {
+    "skill": "Platform Engineering",
+    "weight": 0.65
+   },
+   {
+    "skill": "MLOps",
+    "weight": 0.6
+   },
+   {
+    "skill": "Machine Learning",
+    "weight": 0.6
+   },
+   {
+    "skill": "Kubernetes",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK027",
+  "name": "Linux Administration",
+  "category": "Cloud & DevOps",
+  "description": "Operating and hardening Linux servers.",
+  "market_growth_index": 0.98,
+  "demand_trend": "Declining",
+  "adjacent": [
+   {
+    "skill": "Site Reliability Engineering",
+    "weight": 0.6
+   },
+   {
+    "skill": "Observability",
+    "weight": 0.6
+   },
+   {
+    "skill": "Kubernetes",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK028",
+  "name": "Site Reliability Engineering",
+  "category": "Cloud & DevOps",
+  "description": "SLOs, incident response, observability and toil reduction.",
+  "market_growth_index": 1.13,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Observability",
+    "weight": 0.6
+   },
+   {
+    "skill": "Linux Administration",
+    "weight": 0.6
+   },
+   {
+    "skill": "Kubernetes",
+    "weight": 0.6
+   },
+   {
+    "skill": "Platform Engineering",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK029",
+  "name": "Observability",
+  "category": "Cloud & DevOps",
+  "description": "Metrics, logs and traces with Prometheus, Grafana, OpenTelemetry.",
+  "market_growth_index": 1.12,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Site Reliability Engineering",
+    "weight": 0.6
+   },
+   {
+    "skill": "Linux Administration",
+    "weight": 0.6
+   },
+   {
+    "skill": "Kubernetes",
+    "weight": 0.6
+   },
+   {
+    "skill": "Performance Testing",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK030",
+  "name": "Platform Engineering",
+  "category": "Cloud & DevOps",
+  "description": "Building internal developer platforms and golden paths.",
+  "market_growth_index": 1.2,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Terraform",
+    "weight": 0.65
+   },
+   {
+    "skill": "CI/CD",
+    "weight": 0.65
+   },
+   {
+    "skill": "Kubernetes",
+    "weight": 0.55
+   },
+   {
+    "skill": "Site Reliability Engineering",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK031",
+  "name": "FinOps",
+  "category": "Cloud & DevOps",
+  "description": "Cloud cost management, showback and optimisation.",
+  "market_growth_index": 1.18,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "AWS",
+    "weight": 0.5
+   },
+   {
+    "skill": "Azure",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK032",
+  "name": "SQL",
+  "category": "Data & AI",
+  "description": "Querying and modelling relational data.",
+  "market_growth_index": 1.03,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Data Engineering",
+    "weight": 0.6
+   },
+   {
+    "skill": "dbt",
+    "weight": 0.6
+   },
+   {
+    "skill": "Snowflake",
+    "weight": 0.6
+   },
+   {
+    "skill": "People Analytics",
+    "weight": 0.5
+   },
+   {
+    "skill": "Data Visualization",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK033",
+  "name": "Data Engineering",
+  "category": "Data & AI",
+  "description": "Designing batch and streaming pipelines and data platforms.",
+  "market_growth_index": 1.12,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Apache Spark",
+    "weight": 0.7
+   },
+   {
+    "skill": "Databricks",
+    "weight": 0.7
+   },
+   {
+    "skill": "SQL",
+    "weight": 0.6
+   },
+   {
+    "skill": "dbt",
+    "weight": 0.6
+   },
+   {
+    "skill": "Snowflake",
+    "weight": 0.6
+   },
+   {
+    "skill": "Airflow",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK034",
+  "name": "Apache Spark",
+  "category": "Data & AI",
+  "description": "Distributed processing engine for large-scale data.",
+  "market_growth_index": 1.06,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Databricks",
+    "weight": 0.7
+   },
+   {
+    "skill": "Data Engineering",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK035",
+  "name": "Airflow",
+  "category": "Data & AI",
+  "description": "Workflow orchestration for data pipelines.",
+  "market_growth_index": 1.04,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Data Engineering",
+    "weight": 0.55
+   },
+   {
+    "skill": "dbt",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK036",
+  "name": "dbt",
+  "category": "Data & AI",
+  "description": "SQL-based transformation and analytics engineering.",
+  "market_growth_index": 1.12,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "SQL",
+    "weight": 0.6
+   },
+   {
+    "skill": "Data Engineering",
+    "weight": 0.6
+   },
+   {
+    "skill": "Snowflake",
+    "weight": 0.6
+   },
+   {
+    "skill": "Airflow",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK037",
+  "name": "Snowflake",
+  "category": "Data & AI",
+  "description": "Cloud data warehouse and data sharing platform.",
+  "market_growth_index": 1.1,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "SQL",
+    "weight": 0.6
+   },
+   {
+    "skill": "Data Engineering",
+    "weight": 0.6
+   },
+   {
+    "skill": "dbt",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK038",
+  "name": "Databricks",
+  "category": "Data & AI",
+  "description": "Lakehouse platform for data engineering and ML.",
+  "market_growth_index": 1.15,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Apache Spark",
+    "weight": 0.7
+   },
+   {
+    "skill": "Data Engineering",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK039",
+  "name": "Machine Learning",
+  "category": "Data & AI",
+  "description": "Supervised and unsupervised modelling, feature engineering, evaluation.",
+  "market_growth_index": 1.17,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Deep Learning",
+    "weight": 0.7
+   },
+   {
+    "skill": "Statistics",
+    "weight": 0.7
+   },
+   {
+    "skill": "Python",
+    "weight": 0.6
+   },
+   {
+    "skill": "MLOps",
+    "weight": 0.6
+   },
+   {
+    "skill": "Kubernetes",
+    "weight": 0.6
+   },
+   {
+    "skill": "CI/CD",
+    "weight": 0.6
+   },
+   {
+    "skill": "Responsible AI",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK040",
+  "name": "Deep Learning",
+  "category": "Data & AI",
+  "description": "Neural network architectures with PyTorch/TensorFlow.",
+  "market_growth_index": 1.14,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Machine Learning",
+    "weight": 0.7
+   },
+   {
+    "skill": "Statistics",
+    "weight": 0.7
+   },
+   {
+    "skill": "NLP",
+    "weight": 0.65
+   },
+   {
+    "skill": "Generative AI",
+    "weight": 0.65
+   },
+   {
+    "skill": "Computer Vision",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK041",
+  "name": "NLP",
+  "category": "Data & AI",
+  "description": "Natural language processing: classification, extraction, embeddings.",
+  "market_growth_index": 1.16,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "LLM Engineering",
+    "weight": 0.7
+   },
+   {
+    "skill": "Vector Databases",
+    "weight": 0.7
+   },
+   {
+    "skill": "Deep Learning",
+    "weight": 0.65
+   },
+   {
+    "skill": "Generative AI",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK042",
+  "name": "Generative AI",
+  "category": "Data & AI",
+  "description": "Building applications with large language models and prompting.",
+  "market_growth_index": 1.42,
+  "demand_trend": "Hot",
+  "adjacent": [
+   {
+    "skill": "LLM Engineering",
+    "weight": 0.85
+   },
+   {
+    "skill": "Agentic AI",
+    "weight": 0.85
+   },
+   {
+    "skill": "NLP",
+    "weight": 0.65
+   },
+   {
+    "skill": "Deep Learning",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK043",
+  "name": "LLM Engineering",
+  "category": "Data & AI",
+  "description": "RAG, agents, evaluation and fine-tuning of LLM systems.",
+  "market_growth_index": 1.45,
+  "demand_trend": "Hot",
+  "adjacent": [
+   {
+    "skill": "Generative AI",
+    "weight": 0.85
+   },
+   {
+    "skill": "Agentic AI",
+    "weight": 0.85
+   },
+   {
+    "skill": "Vector Databases",
+    "weight": 0.7
+   },
+   {
+    "skill": "NLP",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK044",
+  "name": "Agentic AI",
+  "category": "Data & AI",
+  "description": "Multi-agent orchestration with LangGraph, CrewAI and tool calling.",
+  "market_growth_index": 1.48,
+  "demand_trend": "Hot",
+  "adjacent": [
+   {
+    "skill": "Generative AI",
+    "weight": 0.85
+   },
+   {
+    "skill": "LLM Engineering",
+    "weight": 0.85
+   }
+  ]
+ },
+ {
+  "skill_id": "SK045",
+  "name": "Vector Databases",
+  "category": "Data & AI",
+  "description": "Embedding storage and similarity search (Chroma, pgvector, Pinecone).",
+  "market_growth_index": 1.3,
+  "demand_trend": "Hot",
+  "adjacent": [
+   {
+    "skill": "LLM Engineering",
+    "weight": 0.7
+   },
+   {
+    "skill": "NLP",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK046",
+  "name": "MLOps",
+  "category": "Data & AI",
+  "description": "Deploying, monitoring and governing ML models in production.",
+  "market_growth_index": 1.22,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Machine Learning",
+    "weight": 0.6
+   },
+   {
+    "skill": "Kubernetes",
+    "weight": 0.6
+   },
+   {
+    "skill": "CI/CD",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK047",
+  "name": "Computer Vision",
+  "category": "Data & AI",
+  "description": "Image and video understanding models.",
+  "market_growth_index": 1.08,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Deep Learning",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK048",
+  "name": "Statistics",
+  "category": "Data & AI",
+  "description": "Inference, experimental design and probabilistic reasoning.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Machine Learning",
+    "weight": 0.7
+   },
+   {
+    "skill": "Deep Learning",
+    "weight": 0.7
+   },
+   {
+    "skill": "A/B Testing",
+    "weight": 0.4
+   },
+   {
+    "skill": "Marketing Analytics",
+    "weight": 0.4
+   }
+  ]
+ },
+ {
+  "skill_id": "SK049",
+  "name": "Data Visualization",
+  "category": "Data & AI",
+  "description": "Communicating insights through charts and dashboards.",
+  "market_growth_index": 1.03,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Power BI",
+    "weight": 0.7
+   },
+   {
+    "skill": "Tableau",
+    "weight": 0.7
+   },
+   {
+    "skill": "People Analytics",
+    "weight": 0.5
+   },
+   {
+    "skill": "SQL",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK050",
+  "name": "Power BI",
+  "category": "Data & AI",
+  "description": "Microsoft BI dashboards, DAX and data models.",
+  "market_growth_index": 1.05,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Tableau",
+    "weight": 0.7
+   },
+   {
+    "skill": "Data Visualization",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK051",
+  "name": "Tableau",
+  "category": "Data & AI",
+  "description": "Visual analytics and dashboard authoring.",
+  "market_growth_index": 0.97,
+  "demand_trend": "Declining",
+  "adjacent": [
+   {
+    "skill": "Power BI",
+    "weight": 0.7
+   },
+   {
+    "skill": "Data Visualization",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK052",
+  "name": "Data Governance",
+  "category": "Data & AI",
+  "description": "Data quality, lineage, catalogues and privacy controls.",
+  "market_growth_index": 1.11,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Responsible AI",
+    "weight": 0.5
+   },
+   {
+    "skill": "Regulatory Compliance",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK053",
+  "name": "Responsible AI",
+  "category": "Data & AI",
+  "description": "Fairness, transparency and risk controls for AI systems.",
+  "market_growth_index": 1.35,
+  "demand_trend": "Hot",
+  "adjacent": [
+   {
+    "skill": "Machine Learning",
+    "weight": 0.55
+   },
+   {
+    "skill": "Data Governance",
+    "weight": 0.5
+   },
+   {
+    "skill": "Regulatory Compliance",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK054",
+  "name": "Application Security",
+  "category": "Security",
+  "description": "Secure SDLC, SAST/DAST and vulnerability remediation.",
+  "market_growth_index": 1.12,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Threat Modeling",
+    "weight": 0.65
+   },
+   {
+    "skill": "Cloud Security",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK055",
+  "name": "Cloud Security",
+  "category": "Security",
+  "description": "Securing cloud workloads, posture management and guardrails.",
+  "market_growth_index": 1.18,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Application Security",
+    "weight": 0.65
+   },
+   {
+    "skill": "Threat Modeling",
+    "weight": 0.65
+   },
+   {
+    "skill": "AWS",
+    "weight": 0.6
+   },
+   {
+    "skill": "Identity & Access Management",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK056",
+  "name": "Identity & Access Management",
+  "category": "Security",
+  "description": "SSO, OAuth/OIDC, RBAC and privileged access.",
+  "market_growth_index": 1.09,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Cloud Security",
+    "weight": 0.6
+   },
+   {
+    "skill": "AWS",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK057",
+  "name": "Threat Modeling",
+  "category": "Security",
+  "description": "Identifying and prioritising threats in system designs.",
+  "market_growth_index": 1.08,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Application Security",
+    "weight": 0.65
+   },
+   {
+    "skill": "Cloud Security",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK058",
+  "name": "SIEM",
+  "category": "Security",
+  "description": "Security monitoring and detection engineering (Splunk, Sentinel).",
+  "market_growth_index": 1.06,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Incident Response",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK059",
+  "name": "Incident Response",
+  "category": "Security",
+  "description": "Triage, containment and forensics for security events.",
+  "market_growth_index": 1.07,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "SIEM",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK060",
+  "name": "GRC",
+  "category": "Security",
+  "description": "Governance, risk and compliance frameworks such as ISO 27001 and SOC 2.",
+  "market_growth_index": 1.04,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Risk Management",
+    "weight": 0.55
+   },
+   {
+    "skill": "Regulatory Compliance",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK061",
+  "name": "Test Automation",
+  "category": "Quality Engineering",
+  "description": "Automated functional testing frameworks and strategy.",
+  "market_growth_index": 1.04,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Selenium",
+    "weight": 0.7
+   },
+   {
+    "skill": "Playwright",
+    "weight": 0.7
+   },
+   {
+    "skill": "API Testing",
+    "weight": 0.7
+   },
+   {
+    "skill": "Python",
+    "weight": 0.45
+   },
+   {
+    "skill": "Java",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK062",
+  "name": "Selenium",
+  "category": "Quality Engineering",
+  "description": "Browser automation for web UI testing.",
+  "market_growth_index": 0.92,
+  "demand_trend": "Declining",
+  "adjacent": [
+   {
+    "skill": "Test Automation",
+    "weight": 0.7
+   },
+   {
+    "skill": "Playwright",
+    "weight": 0.7
+   },
+   {
+    "skill": "API Testing",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK063",
+  "name": "Playwright",
+  "category": "Quality Engineering",
+  "description": "Modern cross-browser end-to-end testing.",
+  "market_growth_index": 1.15,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Test Automation",
+    "weight": 0.7
+   },
+   {
+    "skill": "Selenium",
+    "weight": 0.7
+   },
+   {
+    "skill": "API Testing",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK064",
+  "name": "Performance Testing",
+  "category": "Quality Engineering",
+  "description": "Load and stress testing with JMeter, k6, Gatling.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Observability",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK065",
+  "name": "API Testing",
+  "category": "Quality Engineering",
+  "description": "Contract and functional testing of APIs (Postman, REST Assured).",
+  "market_growth_index": 1.03,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Test Automation",
+    "weight": 0.7
+   },
+   {
+    "skill": "Selenium",
+    "weight": 0.7
+   },
+   {
+    "skill": "Playwright",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK066",
+  "name": "Product Management",
+  "category": "Product & Design",
+  "description": "Discovery, prioritisation and outcome ownership of products.",
+  "market_growth_index": 1.08,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Product Strategy",
+    "weight": 0.7
+   },
+   {
+    "skill": "Roadmapping",
+    "weight": 0.7
+   },
+   {
+    "skill": "A/B Testing",
+    "weight": 0.55
+   },
+   {
+    "skill": "UX Research",
+    "weight": 0.55
+   },
+   {
+    "skill": "Business Analysis",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK067",
+  "name": "Product Strategy",
+  "category": "Product & Design",
+  "description": "Vision, positioning and multi-year product bets.",
+  "market_growth_index": 1.07,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Product Management",
+    "weight": 0.7
+   },
+   {
+    "skill": "Roadmapping",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK068",
+  "name": "Roadmapping",
+  "category": "Product & Design",
+  "description": "Planning and communicating product delivery sequencing.",
+  "market_growth_index": 1.01,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Product Management",
+    "weight": 0.7
+   },
+   {
+    "skill": "Product Strategy",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK069",
+  "name": "UX Research",
+  "category": "Product & Design",
+  "description": "User interviews, usability testing and insight synthesis.",
+  "market_growth_index": 1.04,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Product Management",
+    "weight": 0.55
+   },
+   {
+    "skill": "A/B Testing",
+    "weight": 0.55
+   },
+   {
+    "skill": "UI Design",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK070",
+  "name": "UI Design",
+  "category": "Product & Design",
+  "description": "Visual and interaction design for digital products.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Figma",
+    "weight": 0.75
+   },
+   {
+    "skill": "Design Systems",
+    "weight": 0.75
+   },
+   {
+    "skill": "UX Research",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK071",
+  "name": "Figma",
+  "category": "Product & Design",
+  "description": "Collaborative interface design and prototyping.",
+  "market_growth_index": 1.06,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "UI Design",
+    "weight": 0.75
+   },
+   {
+    "skill": "Design Systems",
+    "weight": 0.75
+   }
+  ]
+ },
+ {
+  "skill_id": "SK072",
+  "name": "Design Systems",
+  "category": "Product & Design",
+  "description": "Reusable component libraries and design tokens.",
+  "market_growth_index": 1.08,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "UI Design",
+    "weight": 0.75
+   },
+   {
+    "skill": "Figma",
+    "weight": 0.75
+   },
+   {
+    "skill": "React",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK073",
+  "name": "A/B Testing",
+  "category": "Product & Design",
+  "description": "Experiment design and analysis for product decisions.",
+  "market_growth_index": 1.06,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Product Management",
+    "weight": 0.55
+   },
+   {
+    "skill": "UX Research",
+    "weight": 0.55
+   },
+   {
+    "skill": "Marketing Analytics",
+    "weight": 0.55
+   },
+   {
+    "skill": "Digital Marketing",
+    "weight": 0.55
+   },
+   {
+    "skill": "Statistics",
+    "weight": 0.4
+   }
+  ]
+ },
+ {
+  "skill_id": "SK074",
+  "name": "Business Analysis",
+  "category": "Business & Finance",
+  "description": "Eliciting requirements and modelling business processes.",
+  "market_growth_index": 1.01,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Requirements Gathering",
+    "weight": 0.75
+   },
+   {
+    "skill": "Process Improvement",
+    "weight": 0.75
+   },
+   {
+    "skill": "Product Management",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK075",
+  "name": "Requirements Gathering",
+  "category": "Business & Finance",
+  "description": "Capturing user stories, acceptance criteria and specs.",
+  "market_growth_index": 1.0,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Business Analysis",
+    "weight": 0.75
+   },
+   {
+    "skill": "Process Improvement",
+    "weight": 0.75
+   }
+  ]
+ },
+ {
+  "skill_id": "SK076",
+  "name": "Process Improvement",
+  "category": "Business & Finance",
+  "description": "Lean / Six Sigma process optimisation.",
+  "market_growth_index": 1.0,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Business Analysis",
+    "weight": 0.75
+   },
+   {
+    "skill": "Requirements Gathering",
+    "weight": 0.75
+   }
+  ]
+ },
+ {
+  "skill_id": "SK077",
+  "name": "Financial Analysis",
+  "category": "Business & Finance",
+  "description": "Financial statements, ratio and variance analysis.",
+  "market_growth_index": 1.0,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "FP&A",
+    "weight": 0.7
+   },
+   {
+    "skill": "Financial Modeling",
+    "weight": 0.7
+   },
+   {
+    "skill": "SAP FICO",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK078",
+  "name": "FP&A",
+  "category": "Business & Finance",
+  "description": "Budgeting, forecasting and planning.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Financial Analysis",
+    "weight": 0.7
+   },
+   {
+    "skill": "Financial Modeling",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK079",
+  "name": "Financial Modeling",
+  "category": "Business & Finance",
+  "description": "Building driver-based models in Excel or Python.",
+  "market_growth_index": 1.03,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Financial Analysis",
+    "weight": 0.7
+   },
+   {
+    "skill": "FP&A",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK080",
+  "name": "SAP FICO",
+  "category": "Business & Finance",
+  "description": "SAP finance and controlling modules.",
+  "market_growth_index": 0.97,
+  "demand_trend": "Declining",
+  "adjacent": [
+   {
+    "skill": "SAP S/4HANA",
+    "weight": 0.7
+   },
+   {
+    "skill": "Financial Analysis",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK081",
+  "name": "SAP S/4HANA",
+  "category": "Business & Finance",
+  "description": "SAP's next-generation ERP suite.",
+  "market_growth_index": 1.08,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "SAP FICO",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK082",
+  "name": "Salesforce",
+  "category": "Business & Finance",
+  "description": "CRM configuration, Apex and Sales/Service Cloud.",
+  "market_growth_index": 1.04,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "ServiceNow",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK083",
+  "name": "ServiceNow",
+  "category": "Business & Finance",
+  "description": "IT service management workflows and platform development.",
+  "market_growth_index": 1.07,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Salesforce",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK084",
+  "name": "Procurement",
+  "category": "Business & Finance",
+  "description": "Sourcing, vendor negotiation and purchase-to-pay.",
+  "market_growth_index": 0.98,
+  "demand_trend": "Declining",
+  "adjacent": [
+   {
+    "skill": "Vendor Management",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK085",
+  "name": "Risk Management",
+  "category": "Business & Finance",
+  "description": "Identifying, measuring and mitigating operational and financial risk.",
+  "market_growth_index": 1.04,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "GRC",
+    "weight": 0.55
+   },
+   {
+    "skill": "Regulatory Compliance",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK086",
+  "name": "Regulatory Compliance",
+  "category": "Business & Finance",
+  "description": "Compliance with banking, privacy and industry regulation.",
+  "market_growth_index": 1.05,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "GRC",
+    "weight": 0.55
+   },
+   {
+    "skill": "Risk Management",
+    "weight": 0.55
+   },
+   {
+    "skill": "Data Governance",
+    "weight": 0.5
+   },
+   {
+    "skill": "Responsible AI",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK087",
+  "name": "Agile/Scrum",
+  "category": "Delivery & Leadership",
+  "description": "Iterative delivery with Scrum and Kanban practices.",
+  "market_growth_index": 1.0,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Program Management",
+    "weight": 0.65
+   },
+   {
+    "skill": "Project Management",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK088",
+  "name": "Program Management",
+  "category": "Delivery & Leadership",
+  "description": "Coordinating multiple projects towards strategic outcomes.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Project Management",
+    "weight": 0.65
+   },
+   {
+    "skill": "Agile/Scrum",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK089",
+  "name": "Project Management",
+  "category": "Delivery & Leadership",
+  "description": "Planning, scheduling, risk and budget control.",
+  "market_growth_index": 0.99,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Program Management",
+    "weight": 0.65
+   },
+   {
+    "skill": "Agile/Scrum",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK090",
+  "name": "Stakeholder Management",
+  "category": "Delivery & Leadership",
+  "description": "Aligning and influencing senior stakeholders.",
+  "market_growth_index": 1.03,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Communication",
+    "weight": 0.55
+   },
+   {
+    "skill": "Change Management",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK091",
+  "name": "People Leadership",
+  "category": "Delivery & Leadership",
+  "description": "Leading, coaching and growing teams.",
+  "market_growth_index": 1.04,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Mentoring",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK092",
+  "name": "Mentoring",
+  "category": "Delivery & Leadership",
+  "description": "Developing others through guidance and feedback.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "People Leadership",
+    "weight": 0.65
+   },
+   {
+    "skill": "Learning & Development",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK093",
+  "name": "Change Management",
+  "category": "Delivery & Leadership",
+  "description": "Driving organisational adoption of change.",
+  "market_growth_index": 1.05,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Stakeholder Management",
+    "weight": 0.55
+   },
+   {
+    "skill": "Communication",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK094",
+  "name": "Vendor Management",
+  "category": "Delivery & Leadership",
+  "description": "Managing third-party partners, contracts and SLAs.",
+  "market_growth_index": 0.98,
+  "demand_trend": "Declining",
+  "adjacent": [
+   {
+    "skill": "Procurement",
+    "weight": 0.45
+   }
+  ]
+ },
+ {
+  "skill_id": "SK095",
+  "name": "Communication",
+  "category": "Delivery & Leadership",
+  "description": "Clear written and verbal communication with diverse audiences.",
+  "market_growth_index": 1.01,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Stakeholder Management",
+    "weight": 0.55
+   },
+   {
+    "skill": "Change Management",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK096",
+  "name": "Talent Acquisition",
+  "category": "People & Marketing",
+  "description": "Sourcing, screening and closing candidates.",
+  "market_growth_index": 1.0,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "HR Business Partnering",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK097",
+  "name": "HR Business Partnering",
+  "category": "People & Marketing",
+  "description": "Advising business leaders on people strategy.",
+  "market_growth_index": 1.01,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Talent Acquisition",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK098",
+  "name": "Workday",
+  "category": "People & Marketing",
+  "description": "Workday HCM configuration and reporting.",
+  "market_growth_index": 1.04,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "People Analytics",
+    "weight": 0.55
+   },
+   {
+    "skill": "Compensation & Benefits",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK099",
+  "name": "Compensation & Benefits",
+  "category": "People & Marketing",
+  "description": "Pay structures, benchmarking and benefits design.",
+  "market_growth_index": 0.99,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Workday",
+    "weight": 0.55
+   },
+   {
+    "skill": "People Analytics",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK100",
+  "name": "Learning & Development",
+  "category": "People & Marketing",
+  "description": "Designing capability programmes and learning journeys.",
+  "market_growth_index": 1.03,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Mentoring",
+    "weight": 0.6
+   }
+  ]
+ },
+ {
+  "skill_id": "SK101",
+  "name": "People Analytics",
+  "category": "People & Marketing",
+  "description": "Workforce data analysis for talent decisions.",
+  "market_growth_index": 1.12,
+  "demand_trend": "Rising",
+  "adjacent": [
+   {
+    "skill": "Workday",
+    "weight": 0.55
+   },
+   {
+    "skill": "Compensation & Benefits",
+    "weight": 0.55
+   },
+   {
+    "skill": "Data Visualization",
+    "weight": 0.5
+   },
+   {
+    "skill": "SQL",
+    "weight": 0.5
+   }
+  ]
+ },
+ {
+  "skill_id": "SK102",
+  "name": "Digital Marketing",
+  "category": "People & Marketing",
+  "description": "Paid, owned and earned digital channels.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "SEO",
+    "weight": 0.7
+   },
+   {
+    "skill": "Content Strategy",
+    "weight": 0.7
+   },
+   {
+    "skill": "Marketing Analytics",
+    "weight": 0.55
+   },
+   {
+    "skill": "A/B Testing",
+    "weight": 0.55
+   }
+  ]
+ },
+ {
+  "skill_id": "SK103",
+  "name": "SEO",
+  "category": "People & Marketing",
+  "description": "Search engine optimisation of web content.",
+  "market_growth_index": 0.98,
+  "demand_trend": "Declining",
+  "adjacent": [
+   {
+    "skill": "Digital Marketing",
+    "weight": 0.7
+   },
+   {
+    "skill": "Content Strategy",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK104",
+  "name": "Content Strategy",
+  "category": "People & Marketing",
+  "description": "Planning editorial content aligned to audience journeys.",
+  "market_growth_index": 1.0,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Digital Marketing",
+    "weight": 0.7
+   },
+   {
+    "skill": "SEO",
+    "weight": 0.7
+   }
+  ]
+ },
+ {
+  "skill_id": "SK105",
+  "name": "Marketing Analytics",
+  "category": "People & Marketing",
+  "description": "Attribution, funnel and campaign analytics.",
+  "market_growth_index": 1.07,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Digital Marketing",
+    "weight": 0.55
+   },
+   {
+    "skill": "A/B Testing",
+    "weight": 0.55
+   },
+   {
+    "skill": "Statistics",
+    "weight": 0.4
+   }
+  ]
+ },
+ {
+  "skill_id": "SK106",
+  "name": "Account Management",
+  "category": "People & Marketing",
+  "description": "Growing and retaining client relationships.",
+  "market_growth_index": 1.0,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Solution Selling",
+    "weight": 0.65
+   }
+  ]
+ },
+ {
+  "skill_id": "SK107",
+  "name": "Solution Selling",
+  "category": "People & Marketing",
+  "description": "Consultative sales of complex solutions.",
+  "market_growth_index": 1.02,
+  "demand_trend": "Stable",
+  "adjacent": [
+   {
+    "skill": "Account Management",
+    "weight": 0.65
+   }
+  ]
+ }
+]

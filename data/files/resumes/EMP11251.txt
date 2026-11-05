@@ -1,0 +1,33 @@
+MARIA REDDY
+Principal Frontend Engineer | Engineering | New York, United States
+Employee ID: EMP11251
+
+PROFESSIONAL SUMMARY
+Principal Frontend Engineer with 25 years of experience, based in New York. Strong in TypeScript, JavaScript, Next.js and GraphQL, with recent work in e-commerce. Interested in moving towards Full Stack Engineer, UX Designer roles and open to relocating to Kraków.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.9y), JavaScript (Advanced, 12.4y), Next.js (Advanced, 18.9y), GraphQL (Advanced, 4.3y), Node.js (Advanced, 11.8y), React (Working, 7.8y)
+- Quality Engineering: Playwright (Advanced, 10.2y)
+- Delivery & Leadership: Mentoring (Advanced, 23.4y), Stakeholder Management (Advanced, 10.6y), Communication (Proficient, 3.1y)
+- Product & Design: Design Systems (Working, 3.5y)
+
+EXPERIENCE
+* Wealth Management Customer Onboarding Platform — a European wealth manager (2025-06 to present)
+  Designed a customer onboarding platform for a European wealth manager in wealth management using Next.js, Playwright and GraphQL, improving conversion by 30%.
+* Public Sector Customer Onboarding Platform — a fast-growing government agency (2024-01 to 2025-05)
+  Automated a customer onboarding platform for a fast-growing government agency in public sector using Mentoring, React and Next.js, lifting NPS by 35 points.
+* Pharma R&D Pricing Engine — a tier-1 pharma company (2023-01 to 2023-12)
+  Scaled a pricing engine for a tier-1 pharma company in pharma R&D using Stakeholder Management, JavaScript and GraphQL, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, UX Designer

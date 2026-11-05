@@ -1,0 +1,30 @@
+VIVEK SUBRAMANIAN
+Senior AI Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP10768
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 9.5 years of experience, based in Hyderabad. Strong in Vector Databases, Responsible AI, Python and LLM Engineering, with recent work in supply-chain logistics. Interested in moving towards Data Scientist, DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: Vector Databases (Expert, 9.5y), Responsible AI (Expert, 8.3y), LLM Engineering (Advanced, 3.3y), Generative AI (Proficient, 6.4y), NLP (Proficient, 4.5y), Agentic AI (Proficient, 5.9y)
+- Software Engineering: Python (Advanced, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 4.2y)
+- Cloud & DevOps: Azure (Beginner, 0.6y)
+
+EXPERIENCE
+* Supply-chain Logistics Knowledge Assistant (RAG) — a European logistics company (2025-08 to present)
+  Migrated a knowledge assistant (RAG) for a European logistics company in supply-chain logistics using Azure, NLP and Python, saving ~22K hours annually.
+* Supply-chain Logistics Fraud Detection Model — a tier-1 logistics company (2025-01 to 2025-07)
+  Modernised a fraud detection model for a tier-1 logistics company in supply-chain logistics using Generative AI and Communication, reducing processing time by 35%.
+* Pharma R&D Recommendation Engine — a European pharma company (2024-02 to 2024-12)
+  Migrated a recommendation engine for a European pharma company in pharma R&D using Responsible AI and Azure, improving model accuracy by 22%.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist, DevOps Engineer

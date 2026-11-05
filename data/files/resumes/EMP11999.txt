@@ -1,0 +1,33 @@
+ANJALI BHAT
+Principal Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11999
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 12.1 years of experience, based in Bengaluru. Strong in Microservices, Spring Boot, System Design and Python, with recent work in retail banking. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 2.6y), Spring Boot (Expert, 3.9y), System Design (Expert, 12.1y), Python (Advanced, 4.3y), REST API Design (Advanced, 3.6y)
+- Data & AI: SQL (Advanced, 8.7y)
+- Cloud & DevOps: CI/CD (Proficient, 6.9y), AWS (Proficient, 3.5y), Observability (Proficient, 2.4y), Kubernetes (Working, 5.6y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 7.4y), People Leadership (Proficient, 7.4y)
+
+EXPERIENCE
+* Retail Banking Payments Microservices Platform — a tier-1 retail bank (2026-04 to present)
+  Led the delivery of a payments microservices platform for a tier-1 retail bank in retail banking using AWS, REST API Design, Python and Spring Boot, accelerating releases by 18%.
+* Retail Banking Pricing Engine — a leading retail bank (2024-08 to 2026-02)
+  Migrated a pricing engine for a leading retail bank in retail banking using Observability, Stakeholder Management and Python, reducing processing time by 22%.
+* Telecom Billing Payments Microservices Platform — a fast-growing telecom operator (2023-10 to 2024-06)
+  Led the delivery of a payments microservices platform for a fast-growing telecom operator in telecom billing using System Design, REST API Design and Microservices, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Software Architect, DevOps Engineer

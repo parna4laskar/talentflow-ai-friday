@@ -1,0 +1,30 @@
+CIAN RYAN
+Senior DevOps Engineer | Cloud & Infrastructure | Dublin, Ireland
+Employee ID: EMP10295
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 7.2 years of experience, based in Dublin. Strong in CI/CD, Kubernetes, Azure and Observability, with recent work in automotive. Interested in moving towards Site Reliability Engineer roles and open to relocating to New York, Kraków, London.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 2.6y), Kubernetes (Advanced, 0.7y), Azure (Advanced, 7.2y), Observability (Advanced, 5.3y), Docker (Proficient, 3.7y), Linux Administration (Proficient, 4.2y), Terraform (Proficient, 5.2y)
+- Software Engineering: Go (Proficient, 2.8y), Python (Proficient, 5.3y)
+
+EXPERIENCE
+* Automotive Cloud Landing Zone — a European car maker (2025-08 to present)
+  Led the delivery of a cloud landing zone for a European car maker in automotive using CI/CD, Observability, Go and Python, cutting cloud spend by 18%.
+* Automotive Kubernetes Platform — a global car maker (2025-01 to 2025-07)
+  Built a Kubernetes platform for a global car maker in automotive using Python, Linux Administration, Terraform and Observability, cutting cloud spend by 35%.
+* E-commerce Data-centre Exit To Cloud — a US online retailer (2023-11 to 2024-12)
+  Built a data-centre exit to cloud for a US online retailer in e-commerce using Go and Linux Administration, cutting cloud spend by 22%.
+* Automotive CI/CD Platform — a leading car maker (2022-06 to 2023-11)
+  Built a CI/CD platform for a leading car maker in automotive using Linux Administration, Python and Terraform, accelerating releases by 40%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Site Reliability Engineer

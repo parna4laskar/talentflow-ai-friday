@@ -1,0 +1,32 @@
+JAMAL NGUYEN
+Senior QA Engineer | Quality Engineering | Austin, United States
+Employee ID: EMP12095
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 9.2 years of experience, based in Austin. Strong in Test Automation, Playwright, API Testing and Java, with recent work in e-commerce. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 0.9y), Playwright (Proficient, 1.4y), API Testing (Proficient, 6.8y)
+- Software Engineering: Java (Proficient, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 6.8y)
+- Cloud & DevOps: CI/CD (Working, 3.5y)
+
+EXPERIENCE
+* E-commerce Performance Engineering Programme — a US online retailer (2025-12 to present)
+  Re-architected a performance engineering programme for a US online retailer in e-commerce using CI/CD and API Testing, accelerating releases by 35%.
+* Pharma R&D API Contract-testing Suite — an APAC pharma company (2024-07 to 2025-10)
+  Led the delivery of an API contract-testing suite for an APAC pharma company in pharma R&D using API Testing, Java and CI/CD, reducing production incidents by 22%.
+* E-commerce Test Automation Framework — a US online retailer (2023-10 to 2024-05)
+  Scaled a test automation framework for a US online retailer in e-commerce using Test Automation, Java and API Testing, accelerating releases by 22%.
+* E-commerce Performance Engineering Programme — a tier-1 online retailer (2022-05 to 2023-07)
+  Migrated a performance engineering programme for a tier-1 online retailer in e-commerce using Communication, Playwright, API Testing and Test Automation, accelerating releases by 22%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: QA Engineer, Backend Engineer, Mobile Engineer, Engineering Manager

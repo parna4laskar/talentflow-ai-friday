@@ -1,0 +1,32 @@
+LAKSHMI SINGH
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10652
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8 years of experience, based in Pune. Strong in Microservices, .NET Core, Kubernetes and Python, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, Engineering Manager roles and open to relocating to Kraków, Bengaluru, Toronto.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 7.5y), .NET Core (Advanced, 2.8y), Python (Proficient, 0.8y), REST API Design (Proficient, 0.9y), System Design (Proficient, 5.0y)
+- Cloud & DevOps: Kubernetes (Advanced, 2.1y), CI/CD (Proficient, 4.2y)
+- Data & AI: SQL (Proficient, 5.7y)
+- Delivery & Leadership: Communication (Working, 2.7y)
+
+EXPERIENCE
+* Manufacturing IoT Pricing Engine — a leading manufacturer (2025-09 to present)
+  Re-architected a pricing engine for a leading manufacturer in manufacturing IoT using REST API Design, SQL and .NET Core, reducing processing time by 22%.
+* Public Sector Customer Onboarding Platform — a tier-1 government agency (2024-06 to 2025-08)
+  Built a customer onboarding platform for a tier-1 government agency in public sector using SQL, .NET Core, Python and CI/CD, improving conversion by 18%.
+* Manufacturing IoT Customer Onboarding Platform — a tier-1 manufacturer (2023-08 to 2024-03)
+  Built a customer onboarding platform for a tier-1 manufacturer in manufacturing IoT using REST API Design and Communication, improving conversion by 22%.
+* Manufacturing IoT Self-service Portal — an APAC manufacturer (2022-02 to 2023-06)
+  Led the delivery of a self-service portal for an APAC manufacturer in manufacturing IoT using System Design, .NET Core and Python, lifting NPS by 40 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Full Stack Engineer, Engineering Manager

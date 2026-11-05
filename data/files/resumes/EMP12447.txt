@@ -1,0 +1,26 @@
+VIKRAM DAS
+UX Designer | Design | Bengaluru, India
+Employee ID: EMP12447
+
+PROFESSIONAL SUMMARY
+UX Designer with 2.8 years of experience, based in Bengaluru. Strong in UI Design, Figma, UX Research and Communication, with recent work in wealth management. Interested in moving towards Frontend Engineer, Product Manager roles.
+
+CORE SKILLS
+- Product & Design: UI Design (Proficient, 2.1y), Figma (Proficient, 0.6y), UX Research (Working, 0.6y), Product Management (Working, 0.5y), A/B Testing (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+
+EXPERIENCE
+* Wealth Management Enterprise Design System — a European wealth manager (2025-08 to present)
+  Ran research for an enterprise design system for a European wealth manager in wealth management using Product Management, A/B Testing and Figma, accelerating releases by 18%.
+* Wealth Management Customer Self-service Journey — a global wealth manager (2024-04 to 2025-05)
+  Ran research for a customer self-service journey for a global wealth manager in wealth management using A/B Testing, Communication and UI Design, improving conversion by 25%.
+
+EDUCATION
+- M.Des
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, Product Manager

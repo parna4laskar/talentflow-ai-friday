@@ -1,0 +1,28 @@
+AMELIA BROWN
+Associate Business Analyst | Business Consulting | London, United Kingdom
+Employee ID: EMP11146
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 1.2 years of experience, based in London. Strong in Business Analysis, Stakeholder Management, Process Improvement and Terraform, with recent work in telecom billing. Interested in moving towards Business Analyst, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Working, 0.3y), Process Improvement (Working, 0.5y), Requirements Gathering (Beginner, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.3y)
+- Cloud & DevOps: Terraform (Working, 0.3y)
+- Data & AI: SQL (Beginner, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Process Re-engineering Initiative — an APAC insurer (2025-10 to present)
+  Led a process re-engineering initiative for an APAC insurer in insurance claims using Business Analysis, Terraform, SQL and Stakeholder Management, delivering $4M in cost savings.
+* Telecom Billing Agile Transformation — a European telecom operator (2024-04 to 2025-09)
+  Led an agile transformation for a European telecom operator in telecom billing using Stakeholder Management, SQL and Terraform, accelerating releases by 30%.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Business Analyst, CRM Consultant

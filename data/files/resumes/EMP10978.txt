@@ -1,0 +1,30 @@
+JUN HAO RAHMAN
+DevOps Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP10978
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 5.2 years of experience, based in Singapore. Strong in CI/CD, Docker, Kubernetes and AWS, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 2.6y), Docker (Proficient, 0.8y), Kubernetes (Proficient, 2.1y), AWS (Proficient, 0.7y), Linux Administration (Proficient, 0.5y), Observability (Proficient, 1.5y), Site Reliability Engineering (Working, 1.0y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Cloud Landing Zone — an APAC pharma company (2025-09 to present)
+  Migrated a cloud landing zone for an APAC pharma company in pharma R&D using AWS, Site Reliability Engineering and Observability, cutting cloud spend by 25%.
+* Pharma R&D Data-centre Exit To Cloud — a global pharma company (2025-01 to 2025-08)
+  Built a data-centre exit to cloud for a global pharma company in pharma R&D using Observability, Kubernetes, Site Reliability Engineering and Linux Administration, cutting cloud spend by 22%.
+* Insurance Claims Kubernetes Platform — an APAC insurer (2023-10 to 2024-11)
+  Re-architected a Kubernetes platform for an APAC insurer in insurance claims using CI/CD and Site Reliability Engineering, cutting cloud spend by 35%.
+* Pharma R&D Cloud Landing Zone — a tier-1 pharma company (2023-02 to 2023-10)
+  Modernised a cloud landing zone for a tier-1 pharma company in pharma R&D using CI/CD and Docker, cutting cloud spend by 12%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Site Reliability Engineer, Cloud Engineer, Platform Engineer

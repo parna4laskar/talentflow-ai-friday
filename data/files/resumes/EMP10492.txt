@@ -1,0 +1,31 @@
+DAVID RODRIGUEZ
+Senior Frontend Engineer | Engineering | Austin, United States
+Employee ID: EMP10492
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.2 years of experience, based in Austin. Strong in TypeScript, CI/CD, JavaScript and Angular, with recent work in automotive. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 1.7y), JavaScript (Proficient, 3.4y), Angular (Proficient, 2.5y), Node.js (Proficient, 0.6y), React (Proficient, 0.5y), Next.js (Working, 2.0y)
+- Cloud & DevOps: CI/CD (Advanced, 2.4y)
+- Data & AI: Agentic AI (Working, 2.1y)
+
+EXPERIENCE
+* Insurance Claims Claims Processing Engine — an APAC insurer (2026-01 to present)
+  Built a claims processing engine for an APAC insurer in insurance claims using TypeScript and Angular, reducing processing time by 25%.
+* Healthcare Mobile Banking App — a fast-growing hospital network (2024-12 to 2025-12)
+  Re-architected a mobile banking app for a fast-growing hospital network in healthcare using JavaScript, CI/CD and React, improving conversion by 18%.
+* Healthcare Pricing Engine — an APAC hospital network (2023-08 to 2024-10)
+  Designed a pricing engine for an APAC hospital network in healthcare using Angular and Next.js, improving conversion by 22%.
+* Automotive Claims Processing Engine — a European car maker (2022-03 to 2023-06)
+  Led the delivery of a claims processing engine for a European car maker in automotive using TypeScript, React, Agentic AI and Next.js, saving ~18K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Mobile Engineer, QA Engineer

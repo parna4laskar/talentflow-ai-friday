@@ -1,0 +1,27 @@
+ARJUN JOHNSON
+Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP12097
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.5 years of experience, based in Gurugram. Strong in JavaScript, React, GraphQL and Next.js, with recent work in telecom billing. Interested in moving towards QA Engineer, UX Designer roles and open to relocating to New York, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 0.9y), React (Advanced, 2.4y), GraphQL (Advanced, 2.1y), Next.js (Proficient, 0.7y), TypeScript (Working, 0.4y)
+- Cloud & DevOps: CI/CD (Working, 0.4y), Platform Engineering (Working, 0.8y)
+- Data & AI: MLOps (Working, 1.0y)
+
+EXPERIENCE
+* Telecom Billing Pricing Engine — a European telecom operator (2026-04 to present)
+  Designed a pricing engine for a European telecom operator in telecom billing using MLOps, TypeScript, GraphQL and JavaScript, improving conversion by 18%.
+* Airline Operations Mobile Banking App — a US airline (2025-08 to 2026-03)
+  Designed a mobile banking app for a US airline in airline operations using CI/CD, React, Next.js and JavaScript, lifting NPS by 25 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, UX Designer, Mobile Engineer

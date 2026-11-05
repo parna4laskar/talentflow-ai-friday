@@ -1,0 +1,30 @@
+SHREYA DESHPANDE
+Associate Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10771
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0 years of experience, based in Bengaluru. Strong in Linux Administration, AWS, Terraform and CI/CD, with recent work in payments. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Proficient, 0.3y), AWS (Working, 0.3y), Terraform (Working, 0.3y), CI/CD (Working, 0.3y), Platform Engineering (Working, 0.3y)
+- Data & AI: LLM Engineering (Beginner, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT CI/CD Platform — a US manufacturer (2025-11 to present)
+  Scaled a CI/CD platform for a US manufacturer in manufacturing IoT using AWS, CI/CD, Linux Administration and Platform Engineering, accelerating releases by 18%.
+* Pharma R&D Cloud Landing Zone — a leading pharma company (2024-12 to 2025-09)
+  Led the delivery of a cloud landing zone for a leading pharma company in pharma R&D using AWS and Linux Administration, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+- Azure Administrator Associate (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer, DevOps Engineer, Site Reliability Engineer

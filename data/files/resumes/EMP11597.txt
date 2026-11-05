@@ -1,0 +1,32 @@
+POOJA PAWAR
+Senior CRM Consultant | Enterprise Applications | Bengaluru, India
+Employee ID: EMP11597
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 10.7 years of experience, based in Bengaluru. Strong in ServiceNow, Process Improvement, Business Analysis and Requirements Gathering, with recent work in HR tech. Interested in moving towards Scrum Master, Business Analyst roles and open to relocating to Austin, Toronto, Chennai.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Advanced, 10.3y), Process Improvement (Advanced, 1.4y), Business Analysis (Proficient, 1.1y), Requirements Gathering (Proficient, 7.9y)
+
+EXPERIENCE
+* Energy Trading CRM Rollout — a fast-growing energy company (2026-05 to present)
+  Built a CRM rollout for a fast-growing energy company in energy trading using Requirements Gathering, Process Improvement, Business Analysis and ServiceNow, improving conversion by 40%.
+* Public Sector Service Desk Automation — a fast-growing government agency (2025-07 to 2026-02)
+  Automated a service desk automation for a fast-growing government agency in public sector using Requirements Gathering, ServiceNow and Business Analysis, reducing processing time by 12%.
+* Supply-chain Logistics ERP Finance Rollout — a tier-1 logistics company (2024-07 to 2025-05)
+  Migrated an ERP finance rollout for a tier-1 logistics company in supply-chain logistics using Process Improvement and Business Analysis, reducing processing time by 18%.
+* Airline Operations ERP Finance Rollout — an APAC airline (2023-10 to 2024-05)
+  Automated an ERP finance rollout for an APAC airline in airline operations using ServiceNow and Business Analysis, saving ~22K hours annually.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2025)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Scrum Master, Business Analyst, SAP Consultant

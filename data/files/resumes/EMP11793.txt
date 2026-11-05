@@ -1,0 +1,33 @@
+ABHISHEK DAS
+Data Scientist | Data & Analytics | Gurugram, India
+Employee ID: EMP11793
+
+PROFESSIONAL SUMMARY
+Data Scientist with 4.2 years of experience, based in Gurugram. Strong in Python, Machine Learning, SQL and MLOps, with recent work in energy trading. Interested in moving towards ML Engineer, Data Analyst roles and open to relocating to Kraków, New York.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.0y)
+- Data & AI: Machine Learning (Proficient, 3.1y), SQL (Proficient, 2.9y), MLOps (Proficient, 1.1y), Deep Learning (Proficient, 1.8y), Statistics (Working, 0.3y)
+
+EXPERIENCE
+* Pharma R&D Customer Churn Model — an APAC pharma company (2026-05 to present)
+  Built a customer churn model for an APAC pharma company in pharma R&D using MLOps, Machine Learning, Deep Learning and Statistics, improving model accuracy by 18%.
+* Energy Trading Real-time Analytics Pipeline — an APAC energy company (2025-08 to 2026-02)
+  Built a real-time analytics pipeline for an APAC energy company in energy trading using Deep Learning, SQL, Machine Learning and Python, reducing processing time by 18%.
+* Media Streaming Customer Churn Model — a fast-growing streaming platform (2024-12 to 2025-06)
+  Re-architected a customer churn model for a fast-growing streaming platform in media streaming using Python, MLOps and Statistics, improving conversion by 22%.
+* Payments Customer Churn Model — an APAC payments provider (2023-12 to 2024-11)
+  Designed a customer churn model for an APAC payments provider in payments using Python, Statistics, Machine Learning and Deep Learning, improving conversion by 25%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2022)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: ML Engineer, Data Analyst, AI Engineer

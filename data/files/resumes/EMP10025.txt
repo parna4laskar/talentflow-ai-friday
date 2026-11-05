@@ -1,0 +1,34 @@
+MEI WASHINGTON
+Senior Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP10025
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.6 years of experience, based in Austin. Strong in REST API Design, SQL, Communication and C#, with recent work in automotive. Interested in moving towards Engineering Manager, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 5.7y), C# (Proficient, 1.5y), Kafka (Proficient, 2.3y), Spring Boot (Proficient, 3.3y), Microservices (Working, 1.5y), System Design (Beginner, 2.4y)
+- Data & AI: SQL (Advanced, 1.6y)
+- Delivery & Leadership: Communication (Advanced, 5.0y)
+- Cloud & DevOps: CI/CD (Proficient, 3.0y), Docker (Working, 1.5y)
+
+EXPERIENCE
+* HR Tech Order Management System — a global HR software company (2026-06 to present)
+  Designed an order management system for a global HR software company in HR tech using Microservices, C# and REST API Design, onboarding 3 new enterprise clients.
+* Healthcare Pricing Engine — a fast-growing hospital network (2024-10 to 2026-04)
+  Scaled a pricing engine for a fast-growing hospital network in healthcare using Communication, System Design, REST API Design and Kafka, reducing processing time by 30%.
+* Pharma R&D Pricing Engine — a fast-growing pharma company (2023-08 to 2024-08)
+  Migrated a pricing engine for a fast-growing pharma company in pharma R&D using Microservices, REST API Design, Spring Boot and Communication, improving conversion by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Engineering Manager, Full Stack Engineer

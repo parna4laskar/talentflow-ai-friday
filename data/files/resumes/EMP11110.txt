@@ -1,0 +1,32 @@
+HARINI MALHOTRA
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP11110
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.1 years of experience, based in Hyderabad. Strong in Go, Kafka, System Design and GraphQL, with recent work in manufacturing IoT. Interested in moving towards Engineering Manager, AI Engineer roles and open to relocating to Gurugram, Bengaluru, New York.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 1.9y), Kafka (Proficient, 1.1y), System Design (Proficient, 3.5y), GraphQL (Proficient, 1.6y), REST API Design (Working, 0.6y), Microservices (Working, 2.1y)
+- Data & AI: SQL (Working, 0.8y)
+- Cloud & DevOps: Kubernetes (Working, 0.5y)
+
+EXPERIENCE
+* Telecom Billing Customer Onboarding Platform — a fast-growing telecom operator (2025-08 to present)
+  Designed a customer onboarding platform for a fast-growing telecom operator in telecom billing using Go, REST API Design and Kubernetes, improving conversion by 22%.
+* Manufacturing IoT Payments Microservices Platform — a fast-growing manufacturer (2024-05 to 2025-05)
+  Scaled a payments microservices platform for a fast-growing manufacturer in manufacturing IoT using Kafka, GraphQL, REST API Design and Kubernetes, reducing production incidents by 22%.
+* Manufacturing IoT Order Management System — a US manufacturer (2023-05 to 2024-04)
+  Scaled an order management system for a US manufacturer in manufacturing IoT using SQL and System Design, onboarding 8 new enterprise clients.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2021)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, AI Engineer, Software Architect

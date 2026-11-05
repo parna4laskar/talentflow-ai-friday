@@ -1,0 +1,28 @@
+ADITYA IYER
+Associate QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP12870
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 1.6 years of experience, based in Hyderabad. Strong in API Testing, Test Automation, Selenium and CI/CD, with recent work in airline operations. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Advanced, 1.0y), Test Automation (Proficient, 1.2y), Selenium (Proficient, 1.0y)
+- Cloud & DevOps: CI/CD (Working, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+- Data & AI: SQL (Beginner, 0.4y)
+
+EXPERIENCE
+* HR Tech Performance Engineering Programme — a European HR software company (2026-12 to present)
+  Re-architected a performance engineering programme for a European HR software company in HR tech using CI/CD and Test Automation, reducing production incidents by 40%.
+* Airline Operations Test Automation Framework — a leading airline (2025-07 to 2026-12)
+  Designed a test automation framework for a leading airline in airline operations using API Testing, SQL, Communication and CI/CD, raising automated test coverage to 80%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer

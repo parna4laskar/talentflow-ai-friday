@@ -1,0 +1,30 @@
+RAHUL O'BRIEN
+Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11984
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4.9 years of experience, based in Pune. Strong in Microservices, GraphQL, Go and SQL, with recent work in e-commerce. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 2.1y), GraphQL (Advanced, 4.2y), Go (Proficient, 0.7y), System Design (Proficient, 1.4y), REST API Design (Working, 2.3y), .NET Core (Working, 2.1y), Spring Boot (Working, 2.1y)
+- Data & AI: SQL (Proficient, 2.7y)
+- Delivery & Leadership: Communication (Proficient, 0.6y)
+- Cloud & DevOps: Kubernetes (Beginner, 0.8y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — a leading government agency (2026-05 to present)
+  Scaled a self-service portal for a leading government agency in public sector using Communication and Go, lifting NPS by 25 points.
+* Public Sector Self-service Portal — a global government agency (2025-09 to 2026-03)
+  Led the delivery of a self-service portal for a global government agency in public sector using .NET Core, System Design and Kubernetes, saving ~40K hours annually.
+* E-commerce Pricing Engine — a leading online retailer (2025-02 to 2025-07)
+  Modernised a pricing engine for a leading online retailer in e-commerce using SQL, Kubernetes, Microservices and Go, reducing processing time by 30%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, Software Architect

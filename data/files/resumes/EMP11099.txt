@@ -1,0 +1,30 @@
+MEI MARTINEZ
+Principal QA Engineer | Quality Engineering | New York, United States
+Employee ID: EMP11099
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 17.8 years of experience, based in New York. Strong in Test Automation, Selenium, CI/CD and API Testing, with recent work in energy trading. Interested in moving towards QA Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 5.0y), Selenium (Expert, 17.1y), API Testing (Advanced, 11.0y)
+- Cloud & DevOps: CI/CD (Expert, 10.9y)
+- Delivery & Leadership: People Leadership (Expert, 7.9y), Agile/Scrum (Advanced, 17.7y), Stakeholder Management (Advanced, 9.9y)
+- Data & AI: SQL (Proficient, 5.9y)
+
+EXPERIENCE
+* Energy Trading Test Automation Framework — an APAC energy company (2025-09 to present)
+  Modernised a test automation framework for an APAC energy company in energy trading using Agile/Scrum and Selenium, accelerating releases by 12%.
+* E-commerce Performance Engineering Programme — a European online retailer (2025-01 to 2025-08)
+  Designed a performance engineering programme for a European online retailer in e-commerce using Test Automation and CI/CD, accelerating releases by 40%.
+* Supply-chain Logistics Test Automation Framework — a global logistics company (2023-08 to 2024-11)
+  Built a test automation framework for a global logistics company in supply-chain logistics using API Testing and Stakeholder Management, raising automated test coverage to 90%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, Engineering Manager

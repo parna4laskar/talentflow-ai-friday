@@ -1,0 +1,29 @@
+SEÁN WALSH
+Backend Engineer | Engineering | Dublin, Ireland
+Employee ID: EMP10522
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.4 years of experience, based in Dublin. Strong in REST API Design, CI/CD, .NET Core and C#, with recent work in payments. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Proficient, 2.3y), .NET Core (Proficient, 2.2y), C# (Working, 0.6y), Microservices (Working, 0.8y)
+- Cloud & DevOps: CI/CD (Proficient, 1.4y), Docker (Working, 0.8y), Kubernetes (Working, 0.4y)
+- Data & AI: SQL (Working, 1.6y)
+
+EXPERIENCE
+* Energy Trading Claims Processing Engine — a leading energy company (2026-03 to present)
+  Built a claims processing engine for a leading energy company in energy trading using C#, Docker and SQL, reducing processing time by 40%.
+* Payments Customer Onboarding Platform — a US payments provider (2025-03 to 2026-01)
+  Re-architected a customer onboarding platform for a US payments provider in payments using Docker, Kubernetes and .NET Core, improving conversion by 35%.
+* Telecom Billing Self-service Portal — an APAC telecom operator (2023-08 to 2025-01)
+  Scaled a self-service portal for an APAC telecom operator in telecom billing using SQL, .NET Core, Microservices and Kubernetes, lifting NPS by 30 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer

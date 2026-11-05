@@ -1,0 +1,30 @@
+IMRAN SHEIKH
+Senior Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP11922
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 8.9 years of experience, based in Chennai. Strong in Data Visualization, Tableau, Statistics and Python, with recent work in automotive. Interested in moving towards Product Manager, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Advanced, 3.4y), Tableau (Advanced, 0.7y), Statistics (Advanced, 8.4y), SQL (Proficient, 3.1y), Snowflake (Proficient, 6.1y)
+- Software Engineering: Python (Advanced, 6.8y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 2.9y)
+- Product & Design: A/B Testing (Proficient, 4.8y)
+
+EXPERIENCE
+* Automotive Real-time Analytics Pipeline — a global car maker (2025-12 to present)
+  Built a real-time analytics pipeline for a global car maker in automotive using Tableau, Statistics, Python and Stakeholder Management, cutting cloud spend by 18%.
+* Automotive Real-time Analytics Pipeline — a European car maker (2024-10 to 2025-10)
+  Modernised a real-time analytics pipeline for a European car maker in automotive using Stakeholder Management, Tableau and A/B Testing, cutting cloud spend by 18%.
+* Retail Banking Regulatory Reporting Suite — a global retail bank (2023-07 to 2024-08)
+  Re-architected a regulatory reporting suite for a global retail bank in retail banking using A/B Testing, Data Visualization and Snowflake, reducing processing time by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager, Financial Analyst

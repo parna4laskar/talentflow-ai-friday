@@ -1,0 +1,28 @@
+CHRISTOPHER DAS
+Associate Cloud Engineer | Cloud & Infrastructure | Austin, United States
+Employee ID: EMP12392
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2.9 years of experience, based in Austin. Strong in AWS, Terraform, Linux Administration and CI/CD, with recent work in supply-chain logistics. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 2.6y), Terraform (Working, 1.4y), Linux Administration (Working, 0.4y), CI/CD (Working, 1.0y), Platform Engineering (Working, 0.4y), FinOps (Working, 1.1y)
+- Security: Cloud Security (Working, 0.9y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Cloud Landing Zone — an APAC retail bank (2026-08 to present)
+  Modernised a cloud landing zone for an APAC retail bank in retail banking using Cloud Security and CI/CD, accelerating releases by 40%.
+* Insurance Claims CI/CD Platform — a European insurer (2025-08 to 2026-07)
+  Migrated a CI/CD platform for a European insurer in insurance claims using Platform Engineering, Cloud Security and Terraform, accelerating releases by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer, Site Reliability Engineer, DevOps Engineer, Software Architect

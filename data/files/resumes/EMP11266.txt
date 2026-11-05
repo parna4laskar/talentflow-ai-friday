@@ -1,0 +1,32 @@
+SIDDHARTH KHAN
+Lead Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP11266
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 12.2 years of experience, based in Chennai. Strong in Angular, Java, TypeScript and SQL, with recent work in HR tech. Interested in moving towards Mobile Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 12.2y), Java (Expert, 12.2y), TypeScript (Advanced, 8.5y), Next.js (Advanced, 2.6y), REST API Design (Working, 4.7y), GraphQL (Working, 5.6y)
+- Data & AI: SQL (Advanced, 7.2y), Agentic AI (Proficient, 1.4y)
+- Delivery & Leadership: Communication (Proficient, 7.1y)
+- Cloud & DevOps: AWS (Working, 1.3y)
+
+EXPERIENCE
+* Energy Trading Pricing Engine — an APAC energy company (2026-05 to present)
+  Modernised a pricing engine for an APAC energy company in energy trading using Agentic AI, Angular and AWS, reducing processing time by 40%.
+* HR Tech Order Management System — a tier-1 HR software company (2025-09 to 2026-03)
+  Scaled an order management system for a tier-1 HR software company in HR tech using SQL and Agentic AI, onboarding 3 new enterprise clients.
+* HR Tech Customer Onboarding Platform — a fast-growing HR software company (2024-02 to 2025-07)
+  Built a customer onboarding platform for a fast-growing HR software company in HR tech using GraphQL and REST API Design, reducing processing time by 40%.
+* HR Tech Customer Onboarding Platform — a European HR software company (2022-07 to 2023-11)
+  Designed a customer onboarding platform for a European HR software company in HR tech using Next.js, AWS and GraphQL, improving conversion by 12%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Mobile Engineer, Frontend Engineer

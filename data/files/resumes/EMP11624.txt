@@ -1,0 +1,27 @@
+PRASAD HEGDE
+Associate Business Analyst | Business Consulting | Hyderabad, India
+Employee ID: EMP11624
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 2.3 years of experience, based in Hyderabad. Strong in Business Analysis, Power BI, Requirements Gathering and Stakeholder Management, with recent work in insurance claims. Interested in moving towards Data Analyst, Account Manager roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 0.5y), Requirements Gathering (Working, 1.0y), Salesforce (Beginner, 0.3y)
+- Data & AI: Power BI (Proficient, 1.7y), SQL (Working, 0.9y), LLM Engineering (Working, 0.6y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.4y), Communication (Working, 0.7y), Agile/Scrum (Working, 0.8y)
+
+EXPERIENCE
+* Public Sector Core Banking Transformation Programme — a US government agency (2025-08 to present)
+  Delivered a core banking transformation programme for a US government agency in public sector using Communication, Power BI, Agile/Scrum and LLM Engineering, delivering $3M in cost savings.
+* Manufacturing IoT Core Banking Transformation Programme — a fast-growing manufacturer (2024-12 to 2025-07)
+  Ran a core banking transformation programme for a fast-growing manufacturer in manufacturing IoT using Communication and Salesforce, delivering on time across 5 workstreams.
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Analyst, Account Manager, Product Manager

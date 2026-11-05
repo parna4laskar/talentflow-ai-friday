@@ -1,0 +1,31 @@
+NEHA DESHPANDE
+Senior Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP10861
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 8.4 years of experience, based in Gurugram. Strong in JavaScript, TypeScript, Angular and React, with recent work in healthcare. Interested in moving towards Frontend Engineer, Mobile Engineer roles and open to relocating to Hyderabad, Chennai, New York.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 6.5y), TypeScript (Proficient, 2.8y), Angular (Proficient, 3.5y), React (Proficient, 4.9y)
+- Quality Engineering: Playwright (Working, 0.9y)
+- Product & Design: Design Systems (Working, 1.6y)
+
+EXPERIENCE
+* Telecom Billing Payments Microservices Platform — a US telecom operator (2026-07 to present)
+  Modernised a payments microservices platform for a US telecom operator in telecom billing using Angular, Design Systems and React, accelerating releases by 40%.
+* E-commerce Order Management System — an APAC online retailer (2025-03 to 2026-06)
+  Automated an order management system for an APAC online retailer in e-commerce using TypeScript, Playwright, React and Angular, onboarding 2 new enterprise clients.
+* Healthcare Mobile Banking App — a leading hospital network (2024-01 to 2025-01)
+  Built a mobile banking app for a leading hospital network in healthcare using Playwright, Angular and Design Systems, improving conversion by 18%.
+* Healthcare Mobile Banking App — a leading hospital network (2023-06 to 2024-01)
+  Re-architected a mobile banking app for a leading hospital network in healthcare using React, Design Systems and TypeScript, lifting NPS by 18 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer, Mobile Engineer

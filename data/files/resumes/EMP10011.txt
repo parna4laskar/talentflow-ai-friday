@@ -1,0 +1,32 @@
+OMKAR SUBRAMANIAN
+Senior CRM Consultant | Enterprise Applications | Chennai, India
+Employee ID: EMP10011
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 10.1 years of experience, based in Chennai. Strong in Salesforce, Business Analysis, Agile/Scrum and Process Improvement, with recent work in retail banking. Interested in moving towards CRM Consultant, SAP Consultant roles and open to relocating to Singapore, New York, Gurugram.
+
+CORE SKILLS
+- Business & Finance: Salesforce (Advanced, 5.1y), Business Analysis (Proficient, 4.5y), Process Improvement (Proficient, 5.4y), Requirements Gathering (Working, 1.1y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 4.2y)
+- Software Engineering: JavaScript (Proficient, 2.8y)
+
+EXPERIENCE
+* Retail Banking CRM Rollout — a leading retail bank (2026-09 to present)
+  Led the delivery of a CRM rollout for a leading retail bank in retail banking using Business Analysis and Process Improvement, improving conversion by 25%.
+* Manufacturing IoT ERP Finance Rollout — an APAC manufacturer (2025-12 to 2026-07)
+  Built an ERP finance rollout for an APAC manufacturer in manufacturing IoT using Salesforce and Requirements Gathering, saving ~12K hours annually.
+* Retail Banking Service Desk Automation — an APAC retail bank (2024-11 to 2025-10)
+  Built a service desk automation for an APAC retail bank in retail banking using JavaScript, Requirements Gathering and Business Analysis, reducing processing time by 22%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2026)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: CRM Consultant, SAP Consultant

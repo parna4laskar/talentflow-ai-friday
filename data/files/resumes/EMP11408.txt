@@ -1,0 +1,29 @@
+RAHUL DAS
+DevOps Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP11408
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 3.5 years of experience, based in Chennai. Strong in Docker, CI/CD, Kubernetes and Azure, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Expert, 2.0y), CI/CD (Advanced, 1.2y), Kubernetes (Proficient, 0.4y), Azure (Proficient, 0.8y), Terraform (Working, 1.6y)
+- Software Engineering: Go (Proficient, 0.6y), Python (Working, 0.6y)
+- Delivery & Leadership: Communication (Proficient, 1.4y)
+
+EXPERIENCE
+* Supply-chain Logistics Kubernetes Platform — a fast-growing logistics company (2026-03 to present)
+  Migrated a Kubernetes platform for a fast-growing logistics company in supply-chain logistics using Terraform, Azure and Kubernetes, accelerating releases by 12%.
+* Airline Operations Cloud Landing Zone — a US airline (2024-12 to 2026-01)
+  Designed a cloud landing zone for a US airline in airline operations using Docker and Azure, cutting cloud spend by 30%.
+* Pharma R&D Cloud Landing Zone — a global pharma company (2023-07 to 2024-10)
+  Automated a cloud landing zone for a global pharma company in pharma R&D using Python, Azure and Docker, accelerating releases by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer

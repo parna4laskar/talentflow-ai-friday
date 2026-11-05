@@ -1,0 +1,29 @@
+PRIYA BHAT
+Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP12476
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2.3 years of experience, based in Bengaluru. Strong in SQL, dbt, LLM Engineering and Data Engineering, with recent work in supply-chain logistics. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.8y), dbt (Proficient, 0.7y), LLM Engineering (Proficient, 1.5y), Data Engineering (Working, 0.4y), Airflow (Working, 0.9y), Data Governance (Working, 0.4y), Databricks (Beginner, 0.4y)
+- Software Engineering: Kafka (Working, 0.8y), Python (Beginner, 0.4y)
+
+EXPERIENCE
+* Supply-chain Logistics Regulatory Reporting Suite — an APAC logistics company (2026-08 to present)
+  Automated a regulatory reporting suite for an APAC logistics company in supply-chain logistics using Python and Kafka, reducing processing time by 30%.
+* Healthcare Executive KPI Dashboard Suite — a fast-growing hospital network (2026-02 to 2026-07)
+  Modernised an executive KPI dashboard suite for a fast-growing hospital network in healthcare using Databricks and LLM Engineering, saving ~18K hours annually.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Scientist

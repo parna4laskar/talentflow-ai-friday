@@ -1,0 +1,25 @@
+SNEHA VERMA
+DevOps Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP11327
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 2.5 years of experience, based in Pune. Strong in CI/CD, Azure, Observability and Docker, with recent work in energy trading. Interested in moving towards Platform Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 1.7y), Azure (Proficient, 1.1y), Observability (Proficient, 1.1y), Docker (Working, 0.9y), Kubernetes (Working, 1.0y), Terraform (Working, 1.0y)
+
+EXPERIENCE
+* Energy Trading Data-centre Exit To Cloud — an APAC energy company (2026-05 to present)
+  Scaled a data-centre exit to cloud for an APAC energy company in energy trading using Azure and Observability, delivering $3M in cost savings.
+* Energy Trading CI/CD Platform — a European energy company (2024-10 to 2026-04)
+  Migrated a CI/CD platform for a European energy company in energy trading using Terraform, Azure and Docker, accelerating releases by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Platform Engineer, Site Reliability Engineer

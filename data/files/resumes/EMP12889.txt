@@ -1,0 +1,33 @@
+AMELIA WALKER
+Lead Software Architect | Engineering | London, United Kingdom
+Employee ID: EMP12889
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.4 years of experience, based in London. Strong in Stakeholder Management, System Design, Microservices and Azure, with recent work in automotive. Interested in moving towards Software Architect, Engineering Manager roles and open to relocating to Pune.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 6.1y), Mentoring (Advanced, 9.2y), Communication (Proficient, 9.8y), People Leadership (Proficient, 1.0y)
+- Software Engineering: System Design (Advanced, 11.5y), Microservices (Advanced, 4.4y), Kafka (Advanced, 5.8y), Java (Proficient, 4.4y), REST API Design (Proficient, 2.6y)
+- Cloud & DevOps: Azure (Advanced, 4.9y), Kubernetes (Advanced, 10.4y)
+- Security: Cloud Security (Proficient, 2.1y)
+
+EXPERIENCE
+* Automotive Claims Processing Engine — a tier-1 car maker (2026-01 to present)
+  Re-architected a claims processing engine for a tier-1 car maker in automotive using REST API Design and Cloud Security, reducing processing time by 22%.
+* Automotive Payments Microservices Platform — an APAC car maker (2025-03 to 2025-10)
+  Modernised a payments microservices platform for an APAC car maker in automotive using Kafka, System Design, REST API Design and Microservices, reducing production incidents by 22%.
+* E-commerce Self-service Portal — a tier-1 online retailer (2023-12 to 2025-01)
+  Led the delivery of a self-service portal for a tier-1 online retailer in e-commerce using Java and Stakeholder Management, lifting NPS by 18 points.
+
+CERTIFICATIONS
+- TOGAF 10 (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, Engineering Manager

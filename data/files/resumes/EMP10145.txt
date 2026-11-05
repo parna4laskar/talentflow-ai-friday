@@ -1,0 +1,28 @@
+HARJIT MARTIN
+Data Engineer | Data & Analytics | Toronto, Canada
+Employee ID: EMP10145
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4.7 years of experience, based in Toronto. Strong in Kafka, SQL, Python and Data Engineering, with recent work in automotive. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Kafka (Advanced, 2.6y), Python (Proficient, 3.2y)
+- Data & AI: SQL (Proficient, 3.4y), Data Engineering (Proficient, 2.2y), Apache Spark (Proficient, 3.0y), Databricks (Proficient, 2.9y), Snowflake (Proficient, 2.1y), Airflow (Proficient, 3.4y), dbt (Working, 1.8y)
+
+EXPERIENCE
+* Automotive Executive KPI Dashboard Suite — a tier-1 car maker (2026-08 to present)
+  Modernised an executive KPI dashboard suite for a tier-1 car maker in automotive using Airflow, Databricks, Kafka and Python, saving ~25K hours annually.
+* Retail Banking Data Lakehouse — a fast-growing retail bank (2025-11 to 2026-07)
+  Designed a data lakehouse for a fast-growing retail bank in retail banking using dbt, Kafka, Apache Spark and Airflow, reducing processing time by 22%.
+* Pharma R&D Regulatory Reporting Suite — a tier-1 pharma company (2025-02 to 2025-09)
+  Modernised a regulatory reporting suite for a tier-1 pharma company in pharma R&D using Snowflake and Apache Spark, saving ~18K hours annually.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, French, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer

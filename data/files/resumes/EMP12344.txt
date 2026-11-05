@@ -1,0 +1,33 @@
+SIMRAN HEGDE
+Lead Site Reliability Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12344
+
+PROFESSIONAL SUMMARY
+Lead Site Reliability Engineer with 11.4 years of experience, based in Pune. Strong in Linux Administration, Observability, Kubernetes and AWS, with recent work in airline operations. Interested in moving towards Site Reliability Engineer, Security Engineer roles and open to relocating to Gurugram, Kraków.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Expert, 7.1y), Observability (Advanced, 5.1y), Kubernetes (Advanced, 6.1y), AWS (Advanced, 0.5y), Site Reliability Engineering (Proficient, 8.2y), Terraform (Proficient, 7.3y)
+- Delivery & Leadership: Mentoring (Advanced, 10.8y), Stakeholder Management (Proficient, 8.0y), Communication (Working, 0.3y)
+- Quality Engineering: Performance Testing (Proficient, 6.9y)
+- Data & AI: Generative AI (Proficient, 3.4y)
+
+EXPERIENCE
+* Healthcare Kubernetes Platform — a leading hospital network (2025-09 to present)
+  Built a Kubernetes platform for a leading hospital network in healthcare using Mentoring, Performance Testing, Observability and AWS, accelerating releases by 25%.
+* Healthcare Observability Stack — a European hospital network (2024-06 to 2025-06)
+  Scaled an observability stack for a European hospital network in healthcare using Generative AI and Terraform, reducing production incidents by 35%.
+* Airline Operations Cloud Landing Zone — a global airline (2023-10 to 2024-05)
+  Led the delivery of a cloud landing zone for a global airline in airline operations using AWS, Generative AI, Observability and Performance Testing, accelerating releases by 12%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2024)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Site Reliability Engineer, Security Engineer, Cloud Engineer

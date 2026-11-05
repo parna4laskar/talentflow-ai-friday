@@ -1,0 +1,28 @@
+THOMAS WILSON
+Security Engineer | Cyber Security | London, United Kingdom
+Employee ID: EMP12907
+
+PROFESSIONAL SUMMARY
+Security Engineer with 2.3 years of experience, based in London. Strong in Threat Modeling, Cloud Security, Python and Application Security, with recent work in HR tech. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Security: Threat Modeling (Advanced, 1.8y), Cloud Security (Advanced, 0.6y), Application Security (Proficient, 1.1y)
+- Software Engineering: Python (Advanced, 1.4y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.1y), AWS (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Cloud Security Posture Programme — a European logistics company (2026-08 to present)
+  Re-architected a cloud security posture programme for a European logistics company in supply-chain logistics using Python, Application Security and Cloud Security, reducing production incidents by 30%.
+* HR Tech Security Operations Centre Uplift — a global HR software company (2024-12 to 2026-06)
+  Built a security operations centre uplift for a global HR software company in HR tech using Kubernetes, Application Security, Communication and Cloud Security, reducing production incidents by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Bengali
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer

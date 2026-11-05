@@ -1,0 +1,29 @@
+TEJAS KHAN
+Associate Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12398
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 0.2 years of experience, based in Bengaluru. Strong in Mobile Development, Flutter, CI/CD and UI Design, with recent work in insurance claims. Interested in moving towards QA Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Proficient, 0.3y), Flutter (Working, 0.3y), TypeScript (Beginner, 0.3y)
+- Cloud & DevOps: CI/CD (Working, 0.3y)
+- Product & Design: UI Design (Working, 0.3y)
+- Quality Engineering: Test Automation (Beginner, 0.3y)
+- Data & AI: Generative AI (Beginner, 0.3y)
+
+EXPERIENCE
+* HR Tech Claims Processing Engine — a US HR software company (2026-01 to present)
+  Re-architected a claims processing engine for a US HR software company in HR tech using TypeScript and UI Design, reducing processing time by 18%.
+* Insurance Claims Payments Microservices Platform — a European insurer (2024-12 to 2025-10)
+  Automated a payments microservices platform for a European insurer in insurance claims using TypeScript and Generative AI, reducing processing time by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: QA Engineer, Frontend Engineer, Full Stack Engineer

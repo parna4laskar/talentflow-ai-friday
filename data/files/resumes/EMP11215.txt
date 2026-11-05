@@ -1,0 +1,36 @@
+KARTHIK PILLAI
+Lead Security Analyst | Cyber Security | Chennai, India
+Employee ID: EMP11215
+
+PROFESSIONAL SUMMARY
+Lead Security Analyst with 11.9 years of experience, based in Chennai. Strong in SIEM, Incident Response, Python and GRC, with recent work in manufacturing IoT. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Security: SIEM (Expert, 11.7y), Incident Response (Advanced, 10.6y), GRC (Advanced, 5.8y), Threat Modeling (Proficient, 5.8y)
+- Delivery & Leadership: People Leadership (Expert, 7.0y), Mentoring (Advanced, 3.8y), Communication (Advanced, 11.7y)
+- Software Engineering: Python (Advanced, 3.7y)
+- Business & Finance: Risk Management (Working, 3.3y)
+
+EXPERIENCE
+* Manufacturing IoT Secure SDLC Rollout — a fast-growing manufacturer (2026-08 to present)
+  Modernised a secure SDLC rollout for a fast-growing manufacturer in manufacturing IoT using Python and Threat Modeling, reducing production incidents by 40%.
+* Wealth Management Cloud Security Posture Programme — a US wealth manager (2025-06 to 2026-06)
+  Automated a cloud security posture programme for a US wealth manager in wealth management using SIEM and Mentoring, reducing production incidents by 40%.
+* Telecom Billing Security Operations Centre Uplift — a tier-1 telecom operator (2024-08 to 2025-04)
+  Led the delivery of a security operations centre uplift for a tier-1 telecom operator in telecom billing using Communication, Threat Modeling, Python and SIEM, reducing production incidents by 22%.
+* Manufacturing IoT Identity and Access Platform — a tier-1 manufacturer (2023-03 to 2024-07)
+  Led the delivery of an identity and access platform for a tier-1 manufacturer in manufacturing IoT using SIEM and Incident Response, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- CompTIA Security+ (2021)
+- CySA+ (2024)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer

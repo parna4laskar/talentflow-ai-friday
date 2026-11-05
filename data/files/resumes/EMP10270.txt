@@ -1,0 +1,33 @@
+KUNAL SHARMA
+Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP10270
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.9 years of experience, based in Bengaluru. Strong in SQL, Python, Data Engineering and Apache Spark, with recent work in retail banking. Interested in moving towards ML Engineer, Data Analyst roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.1y), Data Engineering (Proficient, 0.5y), Apache Spark (Proficient, 2.0y), Data Governance (Proficient, 2.3y), dbt (Working, 1.1y), Databricks (Working, 1.2y)
+- Software Engineering: Python (Proficient, 2.9y)
+
+EXPERIENCE
+* Insurance Claims Executive KPI Dashboard Suite — a global insurer (2025-10 to present)
+  Led the delivery of an executive KPI dashboard suite for a global insurer in insurance claims using SQL, Data Governance and dbt, improving forecast accuracy by 40%.
+* Payments Customer Churn Model — a US payments provider (2025-02 to 2025-07)
+  Re-architected a customer churn model for a US payments provider in payments using Databricks, SQL, Apache Spark and Data Engineering, improving conversion by 25%.
+* Airline Operations Customer Churn Model — a global airline (2024-03 to 2025-01)
+  Built a customer churn model for a global airline in airline operations using Python, dbt and Apache Spark, improving conversion by 40%.
+* Retail Banking Data Lakehouse — a European retail bank (2023-10 to 2024-03)
+  Re-architected a data lakehouse for a European retail bank in retail banking using Data Engineering, Python, Databricks and dbt, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2025)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: ML Engineer, Data Analyst

@@ -1,0 +1,33 @@
+BHAVANA NAIR
+Senior Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP10033
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 8.9 years of experience, based in Pune. Strong in Python, Angular, Docker and TypeScript, with recent work in wealth management. Interested in moving towards Backend Engineer, Mobile Engineer roles and open to relocating to Austin, Toronto, Chennai.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 2.4y), Angular (Advanced, 4.1y), TypeScript (Proficient, 4.1y), GraphQL (Proficient, 3.5y), REST API Design (Proficient, 1.7y), Microservices (Proficient, 6.4y)
+- Cloud & DevOps: Docker (Advanced, 4.6y)
+- Data & AI: SQL (Proficient, 4.6y), Data Engineering (Working, 0.7y)
+- Delivery & Leadership: Communication (Proficient, 5.2y)
+
+EXPERIENCE
+* Telecom Billing Pricing Engine — a leading telecom operator (2025-08 to present)
+  Modernised a pricing engine for a leading telecom operator in telecom billing using Communication, REST API Design and GraphQL, improving conversion by 30%.
+* Manufacturing IoT Claims Processing Engine — a global manufacturer (2024-02 to 2025-06)
+  Modernised a claims processing engine for a global manufacturer in manufacturing IoT using SQL, Angular, Docker and Python, saving ~25K hours annually.
+* Telecom Billing Claims Processing Engine — a European telecom operator (2023-07 to 2024-01)
+  Modernised a claims processing engine for a European telecom operator in telecom billing using TypeScript and Data Engineering, reducing processing time by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Mobile Engineer, AI Engineer

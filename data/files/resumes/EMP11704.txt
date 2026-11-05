@@ -1,0 +1,37 @@
+ANIRUDH HEGDE
+Senior Data Analyst | Data & Analytics | Hyderabad, India
+Employee ID: EMP11704
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 10.4 years of experience, based in Hyderabad. Strong in SQL, Data Visualization, Power BI and Python, with recent work in energy trading. Interested in moving towards Data Analyst, Business Analyst roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 7.0y), Data Visualization (Advanced, 7.0y), Power BI (Proficient, 6.2y), Statistics (Proficient, 6.2y), LLM Engineering (Working, 4.5y)
+- Software Engineering: Python (Proficient, 1.5y)
+- Business & Finance: Business Analysis (Proficient, 7.3y)
+- Cloud & DevOps: Kubernetes (Proficient, 7.0y)
+- Product & Design: A/B Testing (Working, 3.1y)
+
+EXPERIENCE
+* Energy Trading Real-time Analytics Pipeline — a fast-growing energy company (2026-02 to present)
+  Led the delivery of a real-time analytics pipeline for a fast-growing energy company in energy trading using LLM Engineering and SQL, reducing processing time by 25%.
+* Energy Trading Data Lakehouse — a leading energy company (2025-02 to 2026-01)
+  Automated a data lakehouse for a leading energy company in energy trading using Data Visualization and Power BI, cutting cloud spend by 30%.
+* Energy Trading Real-time Analytics Pipeline — a tier-1 energy company (2024-01 to 2024-12)
+  Built a real-time analytics pipeline for a tier-1 energy company in energy trading using SQL and Python, reducing processing time by 12%.
+* Energy Trading Regulatory Reporting Suite — a US energy company (2023-05 to 2023-11)
+  Designed a regulatory reporting suite for a US energy company in energy trading using Business Analysis, LLM Engineering and Kubernetes, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2021)
+- Tableau Desktop Specialist (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Analyst, Business Analyst, Data Scientist, Product Manager

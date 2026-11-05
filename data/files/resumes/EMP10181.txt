@@ -1,0 +1,29 @@
+KUNAL CHATTERJEE
+Site Reliability Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP10181
+
+PROFESSIONAL SUMMARY
+Site Reliability Engineer with 2.1 years of experience, based in Gurugram. Strong in Linux Administration, Observability, Kubernetes and Incident Response, with recent work in energy trading. Interested in moving towards Site Reliability Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 0.5y), Observability (Proficient, 1.4y), Kubernetes (Proficient, 1.5y), Site Reliability Engineering (Working, 1.0y)
+- Security: Incident Response (Proficient, 1.6y)
+- Software Engineering: Go (Proficient, 0.5y), Python (Working, 0.3y)
+- Delivery & Leadership: Communication (Proficient, 0.6y)
+- Data & AI: Responsible AI (Working, 0.9y)
+
+EXPERIENCE
+* Energy Trading Cloud Landing Zone — a US energy company (2025-10 to present)
+  Automated a cloud landing zone for a US energy company in energy trading using Linux Administration and Go, cutting cloud spend by 40%.
+* Wealth Management CI/CD Platform — a leading wealth manager (2024-09 to 2025-08)
+  Migrated a CI/CD platform for a leading wealth manager in wealth management using Python and Responsible AI, accelerating releases by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Site Reliability Engineer, DevOps Engineer, Security Engineer

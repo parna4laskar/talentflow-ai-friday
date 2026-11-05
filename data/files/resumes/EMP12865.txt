@@ -1,0 +1,31 @@
+JASMINE MARTINEZ
+Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP12865
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3.8 years of experience, based in Austin. Strong in REST API Design, System Design, Python and SQL, with recent work in manufacturing IoT. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to Toronto, Bengaluru, Hyderabad.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 0.8y), System Design (Advanced, 2.8y), Python (Proficient, 1.3y), Microservices (Proficient, 0.8y), .NET Core (Proficient, 1.3y), Spring Boot (Working, 1.7y), GraphQL (Beginner, 0.6y)
+- Data & AI: SQL (Proficient, 1.7y)
+- Cloud & DevOps: Docker (Working, 1.5y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a European manufacturer (2026-03 to present)
+  Designed a mobile banking app for a European manufacturer in manufacturing IoT using REST API Design, System Design, SQL and Python, lifting NPS by 40 points.
+* Healthcare Payments Microservices Platform — a tier-1 hospital network (2025-08 to 2026-01)
+  Migrated a payments microservices platform for a tier-1 hospital network in healthcare using GraphQL, SQL, .NET Core and System Design, reducing processing time by 30%.
+* Media Streaming Pricing Engine — an APAC streaming platform (2024-10 to 2025-07)
+  Automated a pricing engine for an APAC streaming platform in media streaming using REST API Design, Spring Boot and System Design, improving conversion by 30%.
+* Healthcare Payments Microservices Platform — a leading hospital network (2023-09 to 2024-08)
+  Re-architected a payments microservices platform for a leading hospital network in healthcare using Microservices, GraphQL, SQL and REST API Design, reducing production incidents by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer, Software Architect

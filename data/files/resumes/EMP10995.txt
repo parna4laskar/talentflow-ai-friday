@@ -1,0 +1,30 @@
+MANISH RAHMAN
+Senior QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10995
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 10.7 years of experience, based in Bengaluru. Strong in API Testing, Test Automation, SQL and Communication, with recent work in retail banking. Interested in moving towards QA Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Advanced, 9.1y), Test Automation (Proficient, 1.5y), Playwright (Working, 4.9y)
+- Data & AI: SQL (Proficient, 5.5y)
+- Delivery & Leadership: Communication (Proficient, 5.8y)
+- Cloud & DevOps: CI/CD (Working, 2.3y)
+
+EXPERIENCE
+* Supply-chain Logistics API Contract-testing Suite — a global logistics company (2026-03 to present)
+  Migrated an API contract-testing suite for a global logistics company in supply-chain logistics using CI/CD, Test Automation and Communication, reducing production incidents by 30%.
+* Automotive Test Automation Framework — a US car maker (2025-07 to 2026-01)
+  Re-architected a test automation framework for a US car maker in automotive using API Testing, CI/CD, Playwright and Test Automation, accelerating releases by 40%.
+* Supply-chain Logistics Performance Engineering Programme — a fast-growing logistics company (2024-03 to 2025-06)
+  Migrated a performance engineering programme for a fast-growing logistics company in supply-chain logistics using API Testing, SQL and Communication, accelerating releases by 12%.
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: QA Engineer, DevOps Engineer, Backend Engineer

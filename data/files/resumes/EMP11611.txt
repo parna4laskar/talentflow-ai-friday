@@ -1,0 +1,33 @@
+RIYA MEHTA
+Senior ML Engineer | AI Center of Excellence | Gurugram, India
+Employee ID: EMP11611
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 9.4 years of experience, based in Gurugram. Strong in Python, Machine Learning, MLOps and Deep Learning, with recent work in insurance claims. Interested in moving towards ML Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 9.2y)
+- Data & AI: Machine Learning (Advanced, 7.4y), MLOps (Advanced, 9.1y), Deep Learning (Proficient, 0.8y), NLP (Proficient, 3.1y), Databricks (Proficient, 5.5y)
+- Cloud & DevOps: Docker (Proficient, 4.2y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Media Streaming Recommendation Engine — a European streaming platform (2025-12 to present)
+  Automated a recommendation engine for a European streaming platform in media streaming using Python, MLOps, Communication and Docker, improving conversion by 30%.
+* Payments Knowledge Assistant (RAG) — an APAC payments provider (2024-12 to 2025-09)
+  Migrated a knowledge assistant (RAG) for an APAC payments provider in payments using Databricks, Docker, NLP and Python, lifting NPS by 18 points.
+* Media Streaming Fraud Detection Model — a fast-growing streaming platform (2023-09 to 2024-10)
+  Led the delivery of a fraud detection model for a fast-growing streaming platform in media streaming using Python and Communication, improving model accuracy by 18%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2022)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, Data Scientist, AI Engineer

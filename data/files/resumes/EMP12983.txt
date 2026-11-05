@@ -1,0 +1,31 @@
+KAVYA SINGH
+Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP12983
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.3 years of experience, based in Hyderabad. Strong in SQL, Data Governance, Airflow and Python, with recent work in retail banking. Interested in moving towards AI Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.6y), Data Governance (Advanced, 2.0y), Airflow (Advanced, 0.7y), Data Engineering (Proficient, 1.1y), Apache Spark (Proficient, 0.4y), Databricks (Proficient, 2.0y), Snowflake (Working, 0.6y)
+- Software Engineering: Python (Proficient, 0.4y)
+- Cloud & DevOps: AWS (Working, 1.2y)
+
+EXPERIENCE
+* Retail Banking Executive KPI Dashboard Suite — a leading retail bank (2026-04 to present)
+  Automated an executive KPI dashboard suite for a leading retail bank in retail banking using Databricks, Snowflake and AWS, saving ~40K hours annually.
+* Public Sector Customer Churn Model — a leading government agency (2024-10 to 2026-03)
+  Modernised a customer churn model for a leading government agency in public sector using Data Governance, SQL and Databricks, improving model accuracy by 18%.
+* Pharma R&D Real-time Analytics Pipeline — a European pharma company (2023-04 to 2024-08)
+  Migrated a real-time analytics pipeline for a European pharma company in pharma R&D using Snowflake, Apache Spark and Data Engineering, reducing processing time by 18%.
+* Retail Banking Data Lakehouse — an APAC retail bank (2021-10 to 2023-04)
+  Designed a data lakehouse for an APAC retail bank in retail banking using SQL, Data Governance, AWS and Data Engineering, cutting cloud spend by 22%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: AI Engineer, Backend Engineer, Data Scientist

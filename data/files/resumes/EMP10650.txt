@@ -1,0 +1,33 @@
+ANJALI BROWN
+Lead Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10650
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 11.2 years of experience, based in Bengaluru. Strong in TypeScript, React, GraphQL and REST API Design, with recent work in manufacturing IoT. Interested in moving towards AI Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 1.1y), React (Expert, 10.0y), GraphQL (Advanced, 4.3y), REST API Design (Advanced, 9.9y), Node.js (Proficient, 1.4y), System Design (Working, 0.6y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 1.2y), People Leadership (Advanced, 4.2y)
+- Data & AI: SQL (Proficient, 3.0y)
+- Cloud & DevOps: Docker (Proficient, 2.7y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a fast-growing manufacturer (2026-08 to present)
+  Re-architected a mobile banking app for a fast-growing manufacturer in manufacturing IoT using System Design, REST API Design and SQL, lifting NPS by 25 points.
+* Wealth Management Pricing Engine — an APAC wealth manager (2025-04 to 2026-07)
+  Designed a pricing engine for an APAC wealth manager in wealth management using System Design, GraphQL and REST API Design, reducing processing time by 18%.
+* Manufacturing IoT Payments Microservices Platform — a leading manufacturer (2023-10 to 2025-03)
+  Migrated a payments microservices platform for a leading manufacturer in manufacturing IoT using Stakeholder Management and Node.js, accelerating releases by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: AI Engineer, Mobile Engineer

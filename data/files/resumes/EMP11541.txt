@@ -1,0 +1,33 @@
+CHRISTOPHER NGUYEN
+Senior Site Reliability Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11541
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 7.4 years of experience, based in New York. Strong in Kubernetes, Observability, Go and Site Reliability Engineering, with recent work in pharma R&D. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Expert, 7.0y), Observability (Advanced, 5.8y), Site Reliability Engineering (Proficient, 4.7y), Linux Administration (Proficient, 0.7y), AWS (Proficient, 3.3y)
+- Software Engineering: Go (Advanced, 1.4y), Python (Proficient, 3.5y)
+
+EXPERIENCE
+* Pharma R&D Data-centre Exit To Cloud — a leading pharma company (2026-08 to present)
+  Migrated a data-centre exit to cloud for a leading pharma company in pharma R&D using Python, Site Reliability Engineering and AWS, delivering $3M in cost savings.
+* Pharma R&D Observability Stack — a US pharma company (2026-02 to 2026-07)
+  Modernised an observability stack for a US pharma company in pharma R&D using Linux Administration and Python, reducing production incidents by 25%.
+* Pharma R&D Cloud Landing Zone — a fast-growing pharma company (2025-01 to 2026-01)
+  Scaled a cloud landing zone for a fast-growing pharma company in pharma R&D using Kubernetes and Linux Administration, cutting cloud spend by 12%.
+* Payments Observability Stack — an APAC payments provider (2023-05 to 2024-10)
+  Designed an observability stack for an APAC payments provider in payments using Go, Observability, AWS and Site Reliability Engineering, accelerating releases by 18%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer

@@ -1,0 +1,34 @@
+NOAH GARCIA
+Senior Backend Engineer | Engineering | New York, United States
+Employee ID: EMP12373
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.3 years of experience, based in New York. Strong in Microservices, Go, REST API Design and SQL, with recent work in media streaming. Interested in moving towards Backend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 3.9y), Go (Proficient, 5.0y), REST API Design (Proficient, 3.8y), .NET Core (Proficient, 2.3y), System Design (Proficient, 6.0y), Spring Boot (Working, 1.1y)
+- Data & AI: SQL (Proficient, 2.3y)
+- Cloud & DevOps: AWS (Proficient, 1.3y), Kubernetes (Working, 2.0y)
+
+EXPERIENCE
+* Supply-chain Logistics Order Management System — an APAC logistics company (2025-11 to present)
+  Led the delivery of an order management system for an APAC logistics company in supply-chain logistics using AWS, Go, Kubernetes and Spring Boot, onboarding 4 new enterprise clients.
+* Media Streaming Pricing Engine — a European streaming platform (2024-05 to 2025-10)
+  Designed a pricing engine for a European streaming platform in media streaming using .NET Core and REST API Design, reducing processing time by 35%.
+* Supply-chain Logistics Customer Onboarding Platform — a US logistics company (2023-01 to 2024-03)
+  Migrated a customer onboarding platform for a US logistics company in supply-chain logistics using System Design, Kubernetes and Go, improving conversion by 30%.
+* Manufacturing IoT Self-service Portal — a European manufacturer (2021-08 to 2022-12)
+  Built a self-service portal for a European manufacturer in manufacturing IoT using Go, Kubernetes and .NET Core, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer, Software Architect, DevOps Engineer, Engineering Manager

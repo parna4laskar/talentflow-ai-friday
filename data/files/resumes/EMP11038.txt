@@ -1,0 +1,34 @@
+GAURAV NAIR
+Lead Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11038
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 12.4 years of experience, based in Bengaluru. Strong in Java, SQL, System Design and Stakeholder Management, with recent work in pharma R&D. Interested in moving towards Full Stack Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 1.1y), System Design (Advanced, 5.0y), REST API Design (Proficient, 2.1y), Microservices (Proficient, 1.6y), Kafka (Proficient, 1.3y)
+- Data & AI: SQL (Advanced, 3.7y), Snowflake (Beginner, 2.6y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 8.4y), People Leadership (Advanced, 1.9y), Mentoring (Proficient, 2.3y), Communication (Proficient, 8.8y)
+
+EXPERIENCE
+* HR Tech Mobile Banking App — an APAC HR software company (2025-11 to present)
+  Led the delivery of a mobile banking app for an APAC HR software company in HR tech using REST API Design, Java and Stakeholder Management, lifting NPS by 40 points.
+* Pharma R&D Payments Microservices Platform — a leading pharma company (2024-11 to 2025-10)
+  Re-architected a payments microservices platform for a leading pharma company in pharma R&D using Stakeholder Management, Communication, Microservices and Java, accelerating releases by 35%.
+* Payments Claims Processing Engine — a European payments provider (2024-02 to 2024-08)
+  Modernised a claims processing engine for a European payments provider in payments using Stakeholder Management, Java and Communication, saving ~12K hours annually.
+* Payments Order Management System — a tier-1 payments provider (2022-11 to 2023-12)
+  Automated an order management system for a tier-1 payments provider in payments using Java, Mentoring and REST API Design, reducing processing time by 25%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer

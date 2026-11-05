@@ -1,0 +1,30 @@
+NOAH KAUR
+Principal Full Stack Engineer | Engineering | Austin, United States
+Employee ID: EMP10927
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 17.5 years of experience, based in Austin. Strong in Angular, TypeScript, Python and SQL, with recent work in automotive. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 3.8y), TypeScript (Advanced, 4.2y), Python (Advanced, 1.7y), Microservices (Advanced, 5.5y), REST API Design (Advanced, 2.8y), Next.js (Proficient, 11.8y)
+- Delivery & Leadership: People Leadership (Expert, 3.4y), Mentoring (Advanced, 1.6y)
+- Data & AI: SQL (Advanced, 1.9y)
+- Cloud & DevOps: AWS (Advanced, 0.5y), Kubernetes (Advanced, 2.1y)
+
+EXPERIENCE
+* Retail Banking Customer Onboarding Platform — an APAC retail bank (2025-08 to present)
+  Designed a customer onboarding platform for an APAC retail bank in retail banking using SQL and TypeScript, improving conversion by 30%.
+* Telecom Billing Pricing Engine — a tier-1 telecom operator (2025-01 to 2025-07)
+  Led the delivery of a pricing engine for a tier-1 telecom operator in telecom billing using TypeScript, Angular and REST API Design, reducing processing time by 35%.
+* Healthcare Mobile Banking App — a European hospital network (2024-04 to 2024-11)
+  Designed a mobile banking app for a European hospital network in healthcare using Angular and SQL, improving conversion by 22%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer

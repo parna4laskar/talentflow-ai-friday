@@ -1,0 +1,28 @@
+SNEHA KULKARNI
+Associate Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP10116
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 1.5 years of experience, based in Pune. Strong in SQL, Python, Data Engineering and Airflow, with recent work in healthcare. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.6y), Data Engineering (Proficient, 0.9y), Airflow (Proficient, 0.6y), dbt (Working, 0.4y), Generative AI (Working, 0.3y)
+- Software Engineering: Python (Proficient, 0.4y), Kafka (Proficient, 0.7y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+- Cloud & DevOps: AWS (Beginner, 0.3y)
+
+EXPERIENCE
+* Healthcare Real-time Analytics Pipeline — a fast-growing hospital network (2025-07 to present)
+  Designed a real-time analytics pipeline for a fast-growing hospital network in healthcare using Kafka, dbt, Data Engineering and Generative AI, cutting cloud spend by 30%.
+* Healthcare Data Lakehouse — an APAC hospital network (2024-03 to 2025-06)
+  Led the delivery of a data lakehouse for an APAC hospital network in healthcare using dbt and AWS, cutting cloud spend by 30%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Scientist

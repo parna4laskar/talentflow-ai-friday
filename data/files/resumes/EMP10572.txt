@@ -1,0 +1,36 @@
+RADHIKA BHAT
+Senior Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP10572
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 10.2 years of experience, based in Gurugram. Strong in TypeScript, JavaScript, Angular and Communication, with recent work in energy trading. Interested in moving towards Frontend Engineer, QA Engineer roles and open to relocating to Austin, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 5.1y), JavaScript (Advanced, 5.1y), Angular (Advanced, 3.6y), Node.js (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Advanced, 1.3y)
+- Product & Design: Figma (Proficient, 3.1y)
+- Cloud & DevOps: CI/CD (Proficient, 4.7y), Kubernetes (Working, 2.4y)
+- Quality Engineering: Playwright (Proficient, 5.1y)
+
+EXPERIENCE
+* E-commerce Payments Microservices Platform — a global online retailer (2025-07 to present)
+  Modernised a payments microservices platform for a global online retailer in e-commerce using CI/CD, Communication, Playwright and Node.js, accelerating releases by 12%.
+* Energy Trading Pricing Engine — a European energy company (2024-09 to 2025-05)
+  Built a pricing engine for a European energy company in energy trading using Node.js, JavaScript and Angular, reducing processing time by 12%.
+* Energy Trading Customer Onboarding Platform — a tier-1 energy company (2023-06 to 2024-07)
+  Migrated a customer onboarding platform for a tier-1 energy company in energy trading using Node.js, CI/CD, TypeScript and Communication, reducing processing time by 25%.
+* Energy Trading Mobile Banking App — a global energy company (2022-03 to 2023-05)
+  Modernised a mobile banking app for a global energy company in energy trading using Node.js, JavaScript and Communication, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer, QA Engineer

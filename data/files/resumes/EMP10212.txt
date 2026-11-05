@@ -1,0 +1,29 @@
+PAWEŁ NOWAK
+QA Engineer | Quality Engineering | Kraków, Poland
+Employee ID: EMP10212
+
+PROFESSIONAL SUMMARY
+QA Engineer with 4.6 years of experience, based in Kraków. Strong in Test Automation, Playwright, API Testing and Java, with recent work in retail banking. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 3.2y), Playwright (Proficient, 3.3y), API Testing (Proficient, 1.2y), Performance Testing (Working, 1.5y)
+- Software Engineering: Java (Proficient, 1.6y), Python (Proficient, 2.9y)
+- Delivery & Leadership: Agile/Scrum (Beginner, 0.6y)
+
+EXPERIENCE
+* Retail Banking Test Automation Framework — a global retail bank (2025-11 to present)
+  Scaled a test automation framework for a global retail bank in retail banking using Java, API Testing and Performance Testing, raising automated test coverage to 85%.
+* Insurance Claims Test Automation Framework — a global insurer (2024-10 to 2025-09)
+  Migrated a test automation framework for a global insurer in insurance claims using Agile/Scrum, API Testing and Python, accelerating releases by 35%.
+* Energy Trading Test Automation Framework — a fast-growing energy company (2024-02 to 2024-09)
+  Modernised a test automation framework for a fast-growing energy company in energy trading using Test Automation, API Testing, Python and Agile/Scrum, accelerating releases by 22%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+Polish, English, Arabic
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer

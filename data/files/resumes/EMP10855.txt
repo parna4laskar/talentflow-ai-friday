@@ -1,0 +1,27 @@
+NAVEEN HEGDE
+Associate Cloud Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP10855
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 1.1 years of experience, based in Chennai. Strong in AWS, Python, CI/CD and Terraform, with recent work in HR tech. Interested in moving towards Site Reliability Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Proficient, 0.7y), CI/CD (Proficient, 0.7y), Terraform (Working, 0.4y), Linux Administration (Working, 0.4y), FinOps (Working, 0.3y), Kubernetes (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.7y)
+- Security: Cloud Security (Working, 0.3y)
+
+EXPERIENCE
+* Insurance Claims Kubernetes Platform — a leading insurer (2026-09 to present)
+  Modernised a Kubernetes platform for a leading insurer in insurance claims using AWS and CI/CD, reducing production incidents by 30%.
+* HR Tech Data-centre Exit To Cloud — a fast-growing HR software company (2025-09 to 2026-07)
+  Modernised a data-centre exit to cloud for a fast-growing HR software company in HR tech using Terraform, Linux Administration and Python, cutting cloud spend by 25%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Site Reliability Engineer, Software Architect, DevOps Engineer

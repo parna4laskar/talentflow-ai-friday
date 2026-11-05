@@ -1,0 +1,28 @@
+SAMEER KHAN
+Associate Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10802
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0.3 years of experience, based in Bengaluru. Strong in Terraform, Linux Administration, Azure and FinOps, with recent work in HR tech. Interested in moving towards Site Reliability Engineer, DevOps Engineer roles and open to relocating to Austin, Hyderabad, Toronto.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Proficient, 0.3y), Linux Administration (Proficient, 0.3y), Azure (Working, 0.3y), FinOps (Working, 0.3y), Platform Engineering (Working, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+- Security: Cloud Security (Beginner, 0.3y)
+- Data & AI: LLM Engineering (Beginner, 0.3y)
+
+EXPERIENCE
+* HR Tech Data-centre Exit To Cloud — a European HR software company (2026-04 to present)
+  Modernised a data-centre exit to cloud for a European HR software company in HR tech using Cloud Security, Platform Engineering, Azure and Communication, delivering $6M in cost savings.
+* HR Tech Observability Stack — a leading HR software company (2024-11 to 2026-03)
+  Built an observability stack for a leading HR software company in HR tech using Linux Administration, Cloud Security, LLM Engineering and Communication, reducing production incidents by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Site Reliability Engineer, DevOps Engineer, Software Architect

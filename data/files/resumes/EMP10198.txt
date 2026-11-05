@@ -1,0 +1,31 @@
+SURESH REDDY
+Lead Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP10198
+
+PROFESSIONAL SUMMARY
+Lead Data Engineer with 11.4 years of experience, based in Bengaluru. Strong in dbt, SQL, Data Engineering and Snowflake, with recent work in energy trading. Interested in moving towards Data Scientist, ML Engineer roles and open to relocating to Dublin, Kraków.
+
+CORE SKILLS
+- Data & AI: dbt (Expert, 4.2y), SQL (Advanced, 5.7y), Data Engineering (Advanced, 11.3y), Snowflake (Advanced, 6.1y), Data Governance (Proficient, 0.9y), Responsible AI (Proficient, 4.5y)
+- Software Engineering: Python (Proficient, 3.6y), Kafka (Proficient, 3.4y)
+
+EXPERIENCE
+* Media Streaming Real-time Analytics Pipeline — a leading streaming platform (2026-10 to present)
+  Built a real-time analytics pipeline for a leading streaming platform in media streaming using Data Engineering and Data Governance, cutting cloud spend by 12%.
+* Energy Trading Regulatory Reporting Suite — a fast-growing energy company (2026-01 to 2026-08)
+  Scaled a regulatory reporting suite for a fast-growing energy company in energy trading using SQL, Kafka, Data Engineering and Python, reducing processing time by 35%.
+* Energy Trading Regulatory Reporting Suite — a US energy company (2025-03 to 2025-12)
+  Scaled a regulatory reporting suite for a US energy company in energy trading using SQL and Data Governance, saving ~30K hours annually.
+
+CERTIFICATIONS
+- SnowPro Core (2022)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Data Scientist, ML Engineer

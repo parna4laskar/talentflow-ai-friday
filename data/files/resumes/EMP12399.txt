@@ -1,0 +1,37 @@
+RAJESH RAHMAN
+Lead Cloud Engineer | Cloud & Infrastructure | Singapore, Singapore
+Employee ID: EMP12399
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 14.9 years of experience, based in Singapore. Strong in GCP, Terraform, Linux Administration and Python, with recent work in e-commerce. Interested in moving towards Software Architect, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 5.6y), Terraform (Advanced, 4.4y), Linux Administration (Advanced, 12.2y), CI/CD (Advanced, 3.9y), FinOps (Proficient, 9.9y), Platform Engineering (Proficient, 9.4y)
+- Software Engineering: Python (Advanced, 6.0y)
+- Security: Cloud Security (Advanced, 14.4y)
+- Delivery & Leadership: People Leadership (Advanced, 7.6y), Communication (Proficient, 3.2y)
+
+EXPERIENCE
+* Retail Banking CI/CD Platform — a European retail bank (2026-02 to present)
+  Migrated a CI/CD platform for a European retail bank in retail banking using Communication, Cloud Security and Python, accelerating releases by 18%.
+* E-commerce Cloud Landing Zone — a tier-1 online retailer (2024-12 to 2026-01)
+  Migrated a cloud landing zone for a tier-1 online retailer in e-commerce using GCP, Python and Cloud Security, cutting cloud spend by 25%.
+* E-commerce Observability Stack — a global online retailer (2024-03 to 2024-11)
+  Led the delivery of an observability stack for a global online retailer in e-commerce using Python and Platform Engineering, reducing production incidents by 18%.
+* Manufacturing IoT Cloud Landing Zone — a global manufacturer (2022-12 to 2024-02)
+  Automated a cloud landing zone for a global manufacturer in manufacturing IoT using CI/CD, Cloud Security, Communication and Platform Engineering, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+- Azure Administrator Associate (2023)
+- Google Professional Cloud Architect (2025)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Software Architect, Site Reliability Engineer

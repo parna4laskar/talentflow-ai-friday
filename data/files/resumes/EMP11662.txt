@@ -1,0 +1,32 @@
+KUNAL SEN
+Senior Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP11662
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 10.1 years of experience, based in Pune. Strong in SQL, Python, Data Engineering and Apache Spark, with recent work in airline operations. Interested in moving towards Data Analyst, Backend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 9.8y), Data Engineering (Advanced, 6.7y), Apache Spark (Proficient, 2.4y), dbt (Proficient, 6.4y), Data Governance (Working, 2.3y), Databricks (Working, 3.8y)
+- Software Engineering: Python (Advanced, 4.9y), Kafka (Proficient, 2.4y)
+- Delivery & Leadership: Communication (Proficient, 5.3y)
+- Cloud & DevOps: AWS (Working, 4.0y)
+
+EXPERIENCE
+* Telecom Billing Real-time Analytics Pipeline — an APAC telecom operator (2026-03 to present)
+  Built a real-time analytics pipeline for an APAC telecom operator in telecom billing using Kafka, Data Governance and Data Engineering, cutting cloud spend by 18%.
+* Public Sector Real-time Analytics Pipeline — a global government agency (2024-12 to 2026-01)
+  Automated a real-time analytics pipeline for a global government agency in public sector using SQL and Python, reducing processing time by 30%.
+* Airline Operations Regulatory Reporting Suite — a leading airline (2023-10 to 2024-12)
+  Led the delivery of a regulatory reporting suite for a leading airline in airline operations using SQL, Apache Spark and Python, reducing processing time by 18%.
+* Energy Trading Regulatory Reporting Suite — a leading energy company (2022-02 to 2023-08)
+  Built a regulatory reporting suite for a leading energy company in energy trading using Python, Kafka, SQL and AWS, reducing processing time by 30%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Analyst, Backend Engineer

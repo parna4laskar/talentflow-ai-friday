@@ -1,0 +1,33 @@
+CHLOE KHAN
+Senior Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP10695
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 8.6 years of experience, based in London. Strong in Python, Machine Learning, Statistics and SQL, with recent work in telecom billing. Interested in moving towards Data Scientist, Product Manager roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.0y)
+- Data & AI: Machine Learning (Advanced, 3.8y), Statistics (Advanced, 1.0y), SQL (Advanced, 5.0y), NLP (Proficient, 5.7y), Deep Learning (Proficient, 1.8y)
+
+EXPERIENCE
+* Supply-chain Logistics Executive KPI Dashboard Suite — a US logistics company (2026-05 to present)
+  Migrated an executive KPI dashboard suite for a US logistics company in supply-chain logistics using NLP and Statistics, saving ~35K hours annually.
+* E-commerce Data Lakehouse — a fast-growing online retailer (2025-01 to 2026-03)
+  Re-architected a data lakehouse for a fast-growing online retailer in e-commerce using Python and NLP, cutting cloud spend by 18%.
+* Energy Trading Customer Churn Model — an APAC energy company (2024-01 to 2024-10)
+  Modernised a customer churn model for an APAC energy company in energy trading using Python, NLP, SQL and Deep Learning, improving conversion by 40%.
+* Telecom Billing Data Lakehouse — a global telecom operator (2023-08 to 2024-01)
+  Scaled a data lakehouse for a global telecom operator in telecom billing using SQL and Python, reducing processing time by 35%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2022)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Scientist, Product Manager

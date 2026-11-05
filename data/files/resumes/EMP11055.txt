@@ -1,0 +1,32 @@
+VIVEK MEHTA
+Lead Mobile Engineer | Engineering | Pune, India
+Employee ID: EMP11055
+
+PROFESSIONAL SUMMARY
+Lead Mobile Engineer with 15.9 years of experience, based in Pune. Strong in Mobile Development, React, TypeScript and CI/CD, with recent work in telecom billing. Interested in moving towards Full Stack Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 3.6y), Mentoring (Advanced, 8.2y), Communication (Advanced, 10.3y)
+- Software Engineering: Mobile Development (Advanced, 5.9y), React (Advanced, 2.7y), TypeScript (Advanced, 7.6y), Flutter (Working, 4.3y)
+- Cloud & DevOps: CI/CD (Advanced, 5.9y)
+- Product & Design: UI Design (Proficient, 4.8y)
+
+EXPERIENCE
+* Healthcare Payments Microservices Platform — a tier-1 hospital network (2026-06 to present)
+  Re-architected a payments microservices platform for a tier-1 hospital network in healthcare using Mentoring and Flutter, accelerating releases by 35%.
+* Telecom Billing Self-service Portal — a fast-growing telecom operator (2025-10 to 2026-03)
+  Built a self-service portal for a fast-growing telecom operator in telecom billing using CI/CD, Mobile Development and TypeScript, saving ~18K hours annually.
+* Telecom Billing Payments Microservices Platform — a fast-growing telecom operator (2025-02 to 2025-08)
+  Built a payments microservices platform for a fast-growing telecom operator in telecom billing using Flutter, Communication, CI/CD and UI Design, reducing processing time by 30%.
+* Telecom Billing Self-service Portal — a global telecom operator (2024-06 to 2024-11)
+  Modernised a self-service portal for a global telecom operator in telecom billing using Mentoring and TypeScript, lifting NPS by 18 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, Backend Engineer

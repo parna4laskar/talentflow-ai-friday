@@ -1,0 +1,27 @@
+KAVYA SHAH
+Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP12175
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 2.7 years of experience, based in Pune. Strong in TypeScript, JavaScript, React and Next.js, with recent work in supply-chain logistics. Interested in moving towards Frontend Engineer, UX Designer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Proficient, 0.5y), JavaScript (Proficient, 1.5y), React (Proficient, 1.1y), Next.js (Proficient, 1.7y), GraphQL (Working, 1.0y)
+- Delivery & Leadership: Communication (Proficient, 1.0y)
+- Quality Engineering: Playwright (Working, 0.3y)
+
+EXPERIENCE
+* Supply-chain Logistics Pricing Engine — an APAC logistics company (2026-05 to present)
+  Re-architected a pricing engine for an APAC logistics company in supply-chain logistics using Communication, JavaScript and TypeScript, reducing processing time by 25%.
+* Retail Banking Self-service Portal — a fast-growing retail bank (2024-10 to 2026-04)
+  Migrated a self-service portal for a fast-growing retail bank in retail banking using Playwright and GraphQL, lifting NPS by 12 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Frontend Engineer, UX Designer, Mobile Engineer, QA Engineer

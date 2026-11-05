@@ -1,0 +1,30 @@
+WILLIAM TAYLOR
+Cloud Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12632
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 5.5 years of experience, based in London. Strong in AWS, Terraform, Linux Administration and Platform Engineering, with recent work in airline operations. Interested in moving towards Cloud Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Proficient, 0.5y), Terraform (Proficient, 4.0y), Linux Administration (Proficient, 1.6y), Platform Engineering (Working, 1.7y), CI/CD (Beginner, 0.3y), Kubernetes (Beginner, 1.3y)
+
+EXPERIENCE
+* Wealth Management Cloud Landing Zone — a leading wealth manager (2025-11 to present)
+  Built a cloud landing zone for a leading wealth manager in wealth management using Terraform, CI/CD and AWS, accelerating releases by 22%.
+* Airline Operations CI/CD Platform — a fast-growing airline (2025-04 to 2025-09)
+  Re-architected a CI/CD platform for a fast-growing airline in airline operations using CI/CD, Terraform and AWS, accelerating releases by 40%.
+* Airline Operations Data-centre Exit To Cloud — a US airline (2023-10 to 2025-03)
+  Re-architected a data-centre exit to cloud for a US airline in airline operations using Kubernetes and AWS, delivering $8M in cost savings.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Cloud Engineer, Site Reliability Engineer, Platform Engineer, Software Architect

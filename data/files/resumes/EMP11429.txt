@@ -1,0 +1,28 @@
+FARHAN REDDY
+Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP11429
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2 years of experience, based in Bengaluru. Strong in SQL, Power BI, A/B Testing and Stakeholder Management, with recent work in retail banking. Interested in moving towards Product Manager, Financial Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 1.8y), Power BI (Advanced, 1.6y), Snowflake (Working, 0.6y), Data Visualization (Beginner, 0.4y)
+- Product & Design: A/B Testing (Working, 1.0y)
+- Delivery & Leadership: Stakeholder Management (Working, 0.9y), Communication (Working, 0.9y)
+- Business & Finance: Business Analysis (Working, 0.7y)
+
+EXPERIENCE
+* Retail Banking Data Lakehouse — a tier-1 retail bank (2026-04 to present)
+  Led the delivery of a data lakehouse for a tier-1 retail bank in retail banking using A/B Testing, Business Analysis and Data Visualization, reducing processing time by 30%.
+* Energy Trading Data Lakehouse — a US energy company (2025-09 to 2026-03)
+  Designed a data lakehouse for a US energy company in energy trading using Communication and A/B Testing, cutting cloud spend by 40%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Product Manager, Financial Analyst

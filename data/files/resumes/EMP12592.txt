@@ -1,0 +1,32 @@
+MANISH AGARWAL
+Senior Platform Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12592
+
+PROFESSIONAL SUMMARY
+Senior Platform Engineer with 7.1 years of experience, based in Pune. Strong in Platform Engineering, AWS, Kubernetes and Terraform, with recent work in insurance claims. Interested in moving towards Platform Engineer, Backend Engineer roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Expert, 7.1y), AWS (Advanced, 3.0y), Kubernetes (Proficient, 3.7y), Terraform (Proficient, 4.7y), CI/CD (Proficient, 2.8y), Site Reliability Engineering (Proficient, 5.3y), Observability (Working, 0.8y)
+- Software Engineering: Go (Proficient, 3.1y), Python (Working, 3.2y)
+- Quality Engineering: Playwright (Beginner, 0.7y)
+
+EXPERIENCE
+* Insurance Claims Data-centre Exit To Cloud — a leading insurer (2026-07 to present)
+  Scaled a data-centre exit to cloud for a leading insurer in insurance claims using Observability, Terraform, Playwright and Platform Engineering, cutting cloud spend by 22%.
+* Insurance Claims Data-centre Exit To Cloud — a European insurer (2025-04 to 2026-05)
+  Migrated a data-centre exit to cloud for a European insurer in insurance claims using Platform Engineering, Observability and Site Reliability Engineering, delivering $6M in cost savings.
+* Insurance Claims CI/CD Platform — an APAC insurer (2024-04 to 2025-02)
+  Designed a CI/CD platform for an APAC insurer in insurance claims using Kubernetes, Go, Platform Engineering and Terraform, accelerating releases by 25%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2023)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer, Backend Engineer, Cloud Engineer, Site Reliability Engineer

@@ -1,0 +1,31 @@
+ISHITA SHARMA
+Senior Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP12401
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 5.3 years of experience, based in Chennai. Strong in Python, Machine Learning, A/B Testing and Statistics, with recent work in insurance claims. Interested in moving towards AI Engineer, Data Analyst roles and open to relocating to New York.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 5.1y)
+- Data & AI: Machine Learning (Advanced, 1.1y), Statistics (Proficient, 1.0y), SQL (Proficient, 3.5y), NLP (Proficient, 3.0y), Deep Learning (Proficient, 1.6y), Apache Spark (Proficient, 3.3y), MLOps (Working, 1.2y)
+- Product & Design: A/B Testing (Advanced, 2.9y)
+
+EXPERIENCE
+* Insurance Claims Regulatory Reporting Suite — a US insurer (2026-02 to present)
+  Modernised a regulatory reporting suite for a US insurer in insurance claims using NLP and A/B Testing, reducing processing time by 18%.
+* Manufacturing IoT Executive KPI Dashboard Suite — a US manufacturer (2025-06 to 2025-12)
+  Designed an executive KPI dashboard suite for a US manufacturer in manufacturing IoT using Machine Learning, Deep Learning, Python and Statistics, improving forecast accuracy by 25%.
+* Insurance Claims Data Lakehouse — a tier-1 insurer (2024-05 to 2025-05)
+  Designed a data lakehouse for a tier-1 insurer in insurance claims using A/B Testing, Machine Learning, NLP and Statistics, reducing processing time by 40%.
+* Insurance Claims Real-time Analytics Pipeline — a tier-1 insurer (2023-02 to 2024-03)
+  Modernised a real-time analytics pipeline for a tier-1 insurer in insurance claims using Machine Learning and Python, cutting cloud spend by 18%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: AI Engineer, Data Analyst, Product Manager

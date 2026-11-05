@@ -1,0 +1,33 @@
+JAMAL MILLER
+Lead QA Engineer | Quality Engineering | New York, United States
+Employee ID: EMP12266
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 9.4 years of experience, based in New York. Strong in API Testing, Test Automation, Playwright and Performance Testing, with recent work in insurance claims. Interested in moving towards QA Engineer, Full Stack Engineer roles and open to relocating to Singapore, Kraków, London.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 6.1y), Test Automation (Advanced, 2.9y), Playwright (Advanced, 1.3y), Performance Testing (Advanced, 8.9y)
+- Software Engineering: Java (Advanced, 4.5y), Python (Proficient, 2.9y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 8.3y), Program Management (Proficient, 1.8y), Stakeholder Management (Proficient, 2.2y), Communication (Proficient, 6.5y)
+- Cloud & DevOps: CI/CD (Advanced, 8.1y)
+- Data & AI: Databricks (Working, 1.3y)
+
+EXPERIENCE
+* Insurance Claims Performance Engineering Programme — a US insurer (2026-06 to present)
+  Modernised a performance engineering programme for a US insurer in insurance claims using Test Automation, Communication and Databricks, accelerating releases by 30%.
+* Retail Banking API Contract-testing Suite — a tier-1 retail bank (2025-11 to 2026-05)
+  Scaled an API contract-testing suite for a tier-1 retail bank in retail banking using Playwright, Agile/Scrum, Python and Communication, reducing production incidents by 30%.
+* Insurance Claims API Contract-testing Suite — a European insurer (2024-06 to 2025-09)
+  Modernised an API contract-testing suite for a European insurer in insurance claims using Agile/Scrum, CI/CD, Playwright and Performance Testing, raising automated test coverage to 80%.
+* Insurance Claims Test Automation Framework — a European insurer (2023-07 to 2024-05)
+  Migrated a test automation framework for a European insurer in insurance claims using Stakeholder Management and Agile/Scrum, accelerating releases by 30%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: QA Engineer, Full Stack Engineer

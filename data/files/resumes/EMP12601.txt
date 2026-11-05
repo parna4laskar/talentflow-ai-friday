@@ -1,0 +1,27 @@
+ROHAN BANERJEE
+Associate Business Analyst | Business Consulting | Hyderabad, India
+Employee ID: EMP12601
+
+PROFESSIONAL SUMMARY
+Associate Business Analyst with 2.8 years of experience, based in Hyderabad. Strong in Stakeholder Management, SQL, Power BI and Business Analysis, with recent work in manufacturing IoT. Interested in moving towards Product Manager roles and open to relocating to Pune, Gurugram.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.9y)
+- Data & AI: SQL (Proficient, 1.0y), Power BI (Proficient, 2.0y), Data Engineering (Beginner, 0.3y)
+- Business & Finance: Business Analysis (Working, 0.4y), Requirements Gathering (Working, 0.6y)
+
+EXPERIENCE
+* Manufacturing IoT Cloud Migration Programme — an APAC manufacturer (2026-04 to present)
+  Coordinated a cloud migration programme for an APAC manufacturer in manufacturing IoT using Data Engineering, SQL, Stakeholder Management and Requirements Gathering, cutting cloud spend by 40%.
+* Manufacturing IoT Requirements and UAT for a CRM Rollout — a European manufacturer (2024-10 to 2026-02)
+  Led a requirements and UAT for a CRM rollout for a European manufacturer in manufacturing IoT using Requirements Gathering, Stakeholder Management, Business Analysis and Power BI, reducing processing time by 12%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Product Manager

@@ -1,0 +1,29 @@
+PRANAV SINGH
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP10925
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.3 years of experience, based in Pune. Strong in Agile/Scrum, People Leadership, Stakeholder Management and Java, with recent work in public sector. Interested in moving towards Backend Engineer, Software Architect roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 6.2y), People Leadership (Advanced, 3.5y), Stakeholder Management (Advanced, 8.0y), Communication (Advanced, 5.9y), Mentoring (Working, 1.3y)
+- Software Engineering: Java (Advanced, 5.3y), System Design (Proficient, 5.5y), Python (Proficient, 3.2y), Microservices (Proficient, 1.2y)
+- Cloud & DevOps: AWS (Advanced, 4.1y)
+
+EXPERIENCE
+* Wealth Management Claims Processing Engine — a US wealth manager (2026-05 to present)
+  Modernised a claims processing engine for a US wealth manager in wealth management using Stakeholder Management, AWS and Mentoring, saving ~25K hours annually.
+* Media Streaming Self-service Portal — a tier-1 streaming platform (2025-08 to 2026-02)
+  Scaled a self-service portal for a tier-1 streaming platform in media streaming using System Design and People Leadership, saving ~18K hours annually.
+* Public Sector Payments Microservices Platform — a tier-1 government agency (2024-03 to 2025-08)
+  Led the delivery of a payments microservices platform for a tier-1 government agency in public sector using People Leadership, Java and Mentoring, accelerating releases by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Software Architect

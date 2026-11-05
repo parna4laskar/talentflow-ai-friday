@@ -1,0 +1,28 @@
+NOAH NGUYEN
+Associate Data Scientist | Data & Analytics | Austin, United States
+Employee ID: EMP11087
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 2.7 years of experience, based in Austin. Strong in Python, Statistics, Deep Learning and Machine Learning, with recent work in payments. Interested in moving towards Product Manager, ML Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 1.0y)
+- Data & AI: Statistics (Proficient, 1.8y), Deep Learning (Proficient, 1.0y), Machine Learning (Working, 0.6y), SQL (Working, 1.3y), NLP (Beginner, 0.5y), MLOps (Beginner, 0.5y), Generative AI (Beginner, 0.4y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+- Cloud & DevOps: Terraform (Beginner, 0.5y)
+
+EXPERIENCE
+* Telecom Billing Data Lakehouse — a tier-1 telecom operator (2025-06 to present)
+  Led the delivery of a data lakehouse for a tier-1 telecom operator in telecom billing using Generative AI and Python, cutting cloud spend by 40%.
+* Payments Customer Churn Model — a tier-1 payments provider (2024-11 to 2025-05)
+  Automated a customer churn model for a tier-1 payments provider in payments using Deep Learning and Communication, improving model accuracy by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Product Manager, ML Engineer

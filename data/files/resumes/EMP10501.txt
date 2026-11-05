@@ -1,0 +1,35 @@
+SURESH DESHPANDE
+Data Engineer | Data & Analytics | Hyderabad, India
+Employee ID: EMP10501
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5.8 years of experience, based in Hyderabad. Strong in SQL, Python, Data Engineering and Kafka, with recent work in media streaming. Interested in moving towards Data Scientist, ML Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 5.5y), Data Engineering (Proficient, 2.4y), Airflow (Working, 0.3y), Data Governance (Working, 0.5y), Snowflake (Working, 1.9y)
+- Software Engineering: Python (Proficient, 2.7y), Kafka (Proficient, 0.5y)
+- Cloud & DevOps: AWS (Working, 0.6y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Media Streaming Real-time Analytics Pipeline — a US streaming platform (2026-04 to present)
+  Migrated a real-time analytics pipeline for a US streaming platform in media streaming using Snowflake, Kafka and SQL, cutting cloud spend by 22%.
+* E-commerce Executive KPI Dashboard Suite — a US online retailer (2025-07 to 2026-02)
+  Migrated an executive KPI dashboard suite for a US online retailer in e-commerce using Kafka, AWS and Python, improving forecast accuracy by 35%.
+* Media Streaming Real-time Analytics Pipeline — a global streaming platform (2024-09 to 2025-06)
+  Automated a real-time analytics pipeline for a global streaming platform in media streaming using Airflow, SQL, AWS and Kafka, reducing processing time by 22%.
+* Retail Banking Customer Churn Model — a global retail bank (2023-05 to 2024-08)
+  Re-architected a customer churn model for a global retail bank in retail banking using AWS, SQL and Airflow, improving model accuracy by 35%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist, ML Engineer, Data Analyst

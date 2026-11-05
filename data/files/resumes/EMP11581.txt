@@ -1,0 +1,31 @@
+BHAVANA KULKARNI
+Principal Data Scientist | Data & Analytics | Chennai, India
+Employee ID: EMP11581
+
+PROFESSIONAL SUMMARY
+Principal Data Scientist with 17.1 years of experience, based in Chennai. Strong in Python, Machine Learning, Statistics and Generative AI, with recent work in wealth management. Interested in moving towards Data Scientist, Data Analyst roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 1.7y)
+- Data & AI: Machine Learning (Expert, 10.8y), Statistics (Expert, 17.1y), Generative AI (Expert, 7.5y), SQL (Advanced, 15.1y), NLP (Advanced, 6.6y), Deep Learning (Advanced, 6.5y), Apache Spark (Advanced, 12.8y), MLOps (Advanced, 4.0y), LLM Engineering (Proficient, 4.1y)
+- Delivery & Leadership: Communication (Advanced, 12.4y), People Leadership (Proficient, 4.1y)
+
+EXPERIENCE
+* Wealth Management Customer Churn Model — a European wealth manager (2026-02 to present)
+  Built a customer churn model for a European wealth manager in wealth management using Deep Learning, Communication and NLP, improving model accuracy by 12%.
+* Telecom Billing Executive KPI Dashboard Suite — a leading telecom operator (2025-05 to 2025-12)
+  Automated an executive KPI dashboard suite for a leading telecom operator in telecom billing using Machine Learning and Communication, improving forecast accuracy by 40%.
+* Wealth Management Executive KPI Dashboard Suite — an APAC wealth manager (2023-12 to 2025-04)
+  Designed an executive KPI dashboard suite for an APAC wealth manager in wealth management using Communication, Apache Spark, MLOps and Generative AI, improving forecast accuracy by 30%.
+* Airline Operations Data Lakehouse — a leading airline (2023-03 to 2023-11)
+  Modernised a data lakehouse for a leading airline in airline operations using SQL and Statistics, reducing processing time by 40%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Data Scientist, Data Analyst, Product Manager

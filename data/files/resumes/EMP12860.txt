@@ -1,0 +1,31 @@
+ANIRUDH GUPTA
+Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP12860
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3.3 years of experience, based in Pune. Strong in React, Java, SQL and GraphQL, with recent work in healthcare. Interested in moving towards Mobile Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: React (Proficient, 0.6y), Java (Proficient, 2.0y), GraphQL (Proficient, 2.2y), Next.js (Proficient, 1.9y), TypeScript (Working, 0.8y), Microservices (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 2.0y), Data Visualization (Working, 0.7y)
+- Cloud & DevOps: AWS (Working, 1.1y)
+
+EXPERIENCE
+* Healthcare Mobile Banking App — a US hospital network (2026-08 to present)
+  Led the delivery of a mobile banking app for a US hospital network in healthcare using Data Visualization and AWS, improving conversion by 40%.
+* Healthcare Claims Processing Engine — an APAC hospital network (2025-07 to 2026-06)
+  Migrated a claims processing engine for an APAC hospital network in healthcare using GraphQL, React and Java, reducing processing time by 30%.
+* HR Tech Self-service Portal — a US HR software company (2024-07 to 2025-07)
+  Modernised a self-service portal for a US HR software company in HR tech using Java, GraphQL, AWS and Microservices, lifting NPS by 35 points.
+* Healthcare Self-service Portal — a global hospital network (2023-11 to 2024-06)
+  Modernised a self-service portal for a global hospital network in healthcare using Microservices, React, GraphQL and AWS, lifting NPS by 40 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Mobile Engineer, Software Architect

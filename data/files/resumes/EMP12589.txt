@@ -1,0 +1,32 @@
+TANVI NAIR
+Senior AI Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP12589
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 10.4 years of experience, based in Bengaluru. Strong in Communication, Python, Generative AI and LLM Engineering, with recent work in HR tech. Interested in moving towards AI Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Communication (Advanced, 8.0y)
+- Software Engineering: Python (Proficient, 2.7y), REST API Design (Proficient, 4.1y)
+- Data & AI: Generative AI (Proficient, 2.7y), LLM Engineering (Proficient, 4.9y), NLP (Proficient, 2.4y), Responsible AI (Proficient, 7.1y)
+- Cloud & DevOps: Azure (Proficient, 6.9y)
+
+EXPERIENCE
+* HR Tech Knowledge Assistant (RAG) — a US HR software company (2025-06 to present)
+  Designed a knowledge assistant (RAG) for a US HR software company in HR tech using Azure, REST API Design, NLP and Python, lifting NPS by 30 points.
+* HR Tech Recommendation Engine — an APAC HR software company (2024-01 to 2025-04)
+  Automated a recommendation engine for an APAC HR software company in HR tech using NLP, Azure and Communication, improving model accuracy by 40%.
+* HR Tech Document Intelligence Pipeline — a European HR software company (2022-08 to 2023-12)
+  Designed a document intelligence pipeline for a European HR software company in HR tech using NLP and Generative AI, reducing processing time by 18%.
+* HR Tech Knowledge Assistant (RAG) — a leading HR software company (2021-04 to 2022-08)
+  Re-architected a knowledge assistant (RAG) for a leading HR software company in HR tech using LLM Engineering, Azure and Responsible AI, lifting NPS by 12 points.
+
+EDUCATION
+- M.Tech Artificial Intelligence
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: AI Engineer, Full Stack Engineer, ML Engineer, DevOps Engineer

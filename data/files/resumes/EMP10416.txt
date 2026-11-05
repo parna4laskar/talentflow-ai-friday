@@ -1,0 +1,32 @@
+GAURAV DAS
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10416
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 5.9 years of experience, based in Bengaluru. Strong in JavaScript, Angular, Next.js and CI/CD, with recent work in supply-chain logistics. Interested in moving towards Frontend Engineer, Full Stack Engineer roles and open to relocating to Kraków, London, New York.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 4.9y), Angular (Advanced, 2.2y), Next.js (Advanced, 1.2y), Node.js (Proficient, 3.3y), TypeScript (Working, 2.2y)
+- Cloud & DevOps: CI/CD (Proficient, 1.3y)
+- Product & Design: Design Systems (Proficient, 3.4y)
+- Delivery & Leadership: Communication (Proficient, 1.4y)
+
+EXPERIENCE
+* Energy Trading Self-service Portal — a European energy company (2026-06 to present)
+  Modernised a self-service portal for a European energy company in energy trading using CI/CD, JavaScript and Angular, lifting NPS by 30 points.
+* Pharma R&D Customer Onboarding Platform — a leading pharma company (2025-06 to 2026-05)
+  Modernised a customer onboarding platform for a leading pharma company in pharma R&D using TypeScript, Next.js, CI/CD and Node.js, improving conversion by 18%.
+* Healthcare Pricing Engine — a global hospital network (2024-09 to 2025-05)
+  Re-architected a pricing engine for a global hospital network in healthcare using Angular, Communication, JavaScript and TypeScript, reducing processing time by 18%.
+* Supply-chain Logistics Claims Processing Engine — a tier-1 logistics company (2023-12 to 2024-07)
+  Scaled a claims processing engine for a tier-1 logistics company in supply-chain logistics using Angular and Communication, saving ~25K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Frontend Engineer, Full Stack Engineer, QA Engineer, Mobile Engineer

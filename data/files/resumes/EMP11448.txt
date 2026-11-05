@@ -1,0 +1,31 @@
+ISHITA AGARWAL
+Associate Frontend Engineer | Engineering | Chennai, India
+Employee ID: EMP11448
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 1.3 years of experience, based in Chennai. Strong in Design Systems, TypeScript, JavaScript and React, with recent work in pharma R&D. Interested in moving towards UX Designer, QA Engineer roles.
+
+CORE SKILLS
+- Product & Design: Design Systems (Proficient, 0.5y), Figma (Working, 0.3y)
+- Software Engineering: TypeScript (Working, 0.3y), JavaScript (Working, 0.3y), React (Working, 0.3y), GraphQL (Working, 0.3y)
+- Cloud & DevOps: CI/CD (Working, 0.3y)
+- Data & AI: Machine Learning (Working, 0.4y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a fast-growing logistics company (2026-04 to present)
+  Designed a payments microservices platform for a fast-growing logistics company in supply-chain logistics using CI/CD, React and Figma, reducing production incidents by 12%.
+* Pharma R&D Payments Microservices Platform — an APAC pharma company (2025-01 to 2026-03)
+  Scaled a payments microservices platform for an APAC pharma company in pharma R&D using Design Systems and Figma, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: UX Designer, QA Engineer

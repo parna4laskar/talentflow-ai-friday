@@ -1,0 +1,31 @@
+VIVEK RAO
+Frontend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10088
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.3 years of experience, based in Hyderabad. Strong in JavaScript, TypeScript, Angular and Figma, with recent work in automotive. Interested in moving towards UX Designer, QA Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 2.4y), TypeScript (Proficient, 0.9y), Angular (Proficient, 1.7y), Next.js (Working, 1.0y)
+- Product & Design: Figma (Proficient, 1.6y)
+
+EXPERIENCE
+* Automotive Pricing Engine — a tier-1 car maker (2025-07 to present)
+  Scaled a pricing engine for a tier-1 car maker in automotive using TypeScript, Next.js and JavaScript, reducing processing time by 25%.
+* Automotive Pricing Engine — a tier-1 car maker (2024-12 to 2025-06)
+  Led the delivery of a pricing engine for a tier-1 car maker in automotive using JavaScript, Angular and Next.js, improving conversion by 18%.
+* Automotive Customer Onboarding Platform — a fast-growing car maker (2024-03 to 2024-11)
+  Scaled a customer onboarding platform for a fast-growing car maker in automotive using JavaScript, Figma, Angular and TypeScript, reducing processing time by 18%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, Spanish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: UX Designer, QA Engineer, Full Stack Engineer

@@ -1,0 +1,36 @@
+PARNA SHARMA
+Lead Cloud Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP11646
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 15.3 years of experience, based in Chennai. Strong in Terraform, AWS, Linux Administration and CI/CD, with recent work in healthcare. Interested in moving towards Cloud Engineer, DevOps Engineer roles and open to relocating to Singapore, Toronto, London.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Expert, 4.5y), AWS (Advanced, 13.0y), Linux Administration (Advanced, 11.3y), CI/CD (Advanced, 14.8y), FinOps (Advanced, 8.3y), Kubernetes (Proficient, 9.7y)
+- Security: Cloud Security (Advanced, 7.5y), Threat Modeling (Proficient, 2.0y)
+- Software Engineering: Python (Proficient, 7.3y)
+- Delivery & Leadership: Mentoring (Proficient, 11.2y), Stakeholder Management (Proficient, 6.6y), Communication (Proficient, 4.5y), People Leadership (Proficient, 7.9y)
+- Data & AI: Agentic AI (Working, 5.9y)
+
+EXPERIENCE
+* Payments CI/CD Platform — a leading payments provider (2026-08 to present)
+  Scaled a CI/CD platform for a leading payments provider in payments using CI/CD and Threat Modeling, accelerating releases by 12%.
+* Energy Trading Observability Stack — a global energy company (2025-07 to 2026-06)
+  Modernised an observability stack for a global energy company in energy trading using Python, Kubernetes and Mentoring, reducing production incidents by 12%.
+* Healthcare Cloud Landing Zone — an APAC hospital network (2024-06 to 2025-06)
+  Scaled a cloud landing zone for an APAC hospital network in healthcare using Communication, Agentic AI and Mentoring, cutting cloud spend by 18%.
+* Healthcare Observability Stack — a US hospital network (2023-12 to 2024-05)
+  Automated an observability stack for a US hospital network in healthcare using Communication, Threat Modeling, Mentoring and Terraform, reducing production incidents by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2022)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Cloud Engineer, DevOps Engineer

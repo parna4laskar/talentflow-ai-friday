@@ -1,0 +1,30 @@
+VENKAT NAIR
+Lead Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11565
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 11.1 years of experience, based in Bengaluru. Strong in JavaScript, Playwright, Mentoring and TypeScript, with recent work in e-commerce. Interested in moving towards UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 3.2y), TypeScript (Proficient, 7.1y), React (Proficient, 1.2y)
+- Quality Engineering: Playwright (Advanced, 1.3y)
+- Delivery & Leadership: Mentoring (Advanced, 9.7y), People Leadership (Advanced, 6.9y), Stakeholder Management (Proficient, 0.7y)
+- Product & Design: Figma (Proficient, 4.9y), Design Systems (Proficient, 8.0y), UI Design (Proficient, 1.3y)
+
+EXPERIENCE
+* E-commerce Payments Microservices Platform — a global online retailer (2025-06 to present)
+  Led the delivery of a payments microservices platform for a global online retailer in e-commerce using UI Design, TypeScript, Stakeholder Management and Figma, reducing processing time by 40%.
+* Public Sector Order Management System — a US government agency (2024-05 to 2025-05)
+  Built an order management system for a US government agency in public sector using UI Design, JavaScript, Mentoring and React, reducing processing time by 35%.
+* E-commerce Claims Processing Engine — a global online retailer (2023-11 to 2024-05)
+  Migrated a claims processing engine for a global online retailer in e-commerce using Playwright, Figma and JavaScript, reducing processing time by 35%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: UX Designer

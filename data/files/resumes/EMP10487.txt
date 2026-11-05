@@ -1,0 +1,30 @@
+SAMEER CHATTERJEE
+UX Designer | Design | Pune, India
+Employee ID: EMP10487
+
+PROFESSIONAL SUMMARY
+UX Designer with 5.5 years of experience, based in Pune. Strong in UX Research, Product Management, UI Design and Figma, with recent work in insurance claims. Interested in moving towards Marketing Specialist, Talent Acquisition Specialist roles.
+
+CORE SKILLS
+- Product & Design: UX Research (Advanced, 5.1y), Product Management (Proficient, 3.8y), UI Design (Working, 1.1y), Figma (Working, 0.4y), A/B Testing (Working, 1.5y), Design Systems (Working, 1.7y)
+- Cloud & DevOps: Terraform (Beginner, 0.3y)
+
+EXPERIENCE
+* E-commerce Onboarding Flow — a fast-growing online retailer (2026-07 to present)
+  Redesigned an onboarding flow for a fast-growing online retailer in e-commerce using Design Systems and UI Design, improving conversion by 40%.
+* Insurance Claims Enterprise Design System — a fast-growing insurer (2025-11 to 2026-05)
+  Redesigned an enterprise design system for a fast-growing insurer in insurance claims using Terraform, A/B Testing, Product Management and Figma, lifting NPS by 18 points.
+* Insurance Claims Customer Self-service Journey — a leading insurer (2025-01 to 2025-09)
+  Led UX for a customer self-service journey for a leading insurer in insurance claims using A/B Testing, UX Research, UI Design and Product Management, improving conversion by 18%.
+* Energy Trading Onboarding Flow — a tier-1 energy company (2023-12 to 2024-12)
+  Ran research for an onboarding flow for a tier-1 energy company in energy trading using Figma, UX Research, Terraform and UI Design, improving conversion by 35%.
+
+EDUCATION
+- BA Psychology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Marketing Specialist, Talent Acquisition Specialist

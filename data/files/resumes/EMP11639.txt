@@ -1,0 +1,35 @@
+KEISHA LEE
+Lead Software Architect | Engineering | Austin, United States
+Employee ID: EMP11639
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.5 years of experience, based in Austin. Strong in System Design, Microservices, AWS and Stakeholder Management, with recent work in e-commerce. Interested in moving towards DevOps Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 1.3y), Stakeholder Management (Advanced, 13.3y), Mentoring (Advanced, 7.8y), Communication (Proficient, 6.4y)
+- Software Engineering: System Design (Advanced, 4.6y), Microservices (Advanced, 11.6y), Kafka (Advanced, 10.0y), Java (Proficient, 5.2y)
+- Cloud & DevOps: AWS (Advanced, 11.1y)
+- Quality Engineering: Playwright (Proficient, 6.7y)
+
+EXPERIENCE
+* E-commerce Claims Processing Engine — a European online retailer (2026-05 to present)
+  Led the delivery of a claims processing engine for a European online retailer in e-commerce using AWS, Playwright and Mentoring, saving ~22K hours annually.
+* HR Tech Customer Onboarding Platform — a fast-growing HR software company (2025-02 to 2026-03)
+  Re-architected a customer onboarding platform for a fast-growing HR software company in HR tech using Java, Communication, Mentoring and System Design, lifting NPS by 35 points.
+* Wealth Management Mobile Banking App — an APAC wealth manager (2023-11 to 2024-12)
+  Led the delivery of a mobile banking app for an APAC wealth manager in wealth management using Kafka, Java, System Design and Communication, lifting NPS by 22 points.
+* E-commerce Self-service Portal — a US online retailer (2022-04 to 2023-09)
+  Automated a self-service portal for a US online retailer in e-commerce using Mentoring and Kafka, saving ~30K hours annually.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2025)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Telugu
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Engineering Manager, Backend Engineer

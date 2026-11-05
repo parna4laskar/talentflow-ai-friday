@@ -1,0 +1,31 @@
+MAJA ZIELIŃSKI
+Senior QA Engineer | Quality Engineering | Kraków, Poland
+Employee ID: EMP11757
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 8.7 years of experience, based in Kraków. Strong in Playwright, Test Automation, SQL and Performance Testing, with recent work in telecom billing. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Expert, 2.6y), Test Automation (Advanced, 4.8y), Performance Testing (Proficient, 4.1y), API Testing (Working, 0.4y)
+- Data & AI: SQL (Advanced, 5.2y), Responsible AI (Proficient, 5.3y)
+- Delivery & Leadership: Communication (Proficient, 0.5y), Agile/Scrum (Working, 3.1y)
+
+EXPERIENCE
+* Telecom Billing Performance Engineering Programme — a tier-1 telecom operator (2025-11 to present)
+  Built a performance engineering programme for a tier-1 telecom operator in telecom billing using Performance Testing, Test Automation and Responsible AI, reducing production incidents by 22%.
+* Telecom Billing API Contract-testing Suite — a fast-growing telecom operator (2024-09 to 2025-08)
+  Designed an API contract-testing suite for a fast-growing telecom operator in telecom billing using API Testing, Test Automation and Agile/Scrum, reducing production incidents by 35%.
+* Manufacturing IoT Test Automation Framework — a US manufacturer (2023-05 to 2024-07)
+  Automated a test automation framework for a US manufacturer in manufacturing IoT using Agile/Scrum and SQL, accelerating releases by 35%.
+* Healthcare API Contract-testing Suite — a tier-1 hospital network (2022-10 to 2023-05)
+  Re-architected an API contract-testing suite for a tier-1 hospital network in healthcare using SQL and Agile/Scrum, reducing production incidents by 25%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+Polish, English, Arabic
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer

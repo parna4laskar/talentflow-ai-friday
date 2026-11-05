@@ -1,0 +1,33 @@
+MANISH PATIL
+Senior Cloud Engineer | Cloud & Infrastructure | Pune, India
+Employee ID: EMP12518
+
+PROFESSIONAL SUMMARY
+Senior Cloud Engineer with 7.3 years of experience, based in Pune. Strong in Terraform, Linux Administration, FinOps and Kubernetes, with recent work in payments. Interested in moving towards Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 6.0y), Linux Administration (Advanced, 3.2y), FinOps (Advanced, 2.5y), Kubernetes (Proficient, 3.0y), Azure (Working, 0.9y)
+- Data & AI: Responsible AI (Proficient, 5.4y), Machine Learning (Working, 0.6y)
+- Delivery & Leadership: Communication (Working, 1.2y)
+
+EXPERIENCE
+* Payments Cloud Landing Zone — a tier-1 payments provider (2026-06 to present)
+  Modernised a cloud landing zone for a tier-1 payments provider in payments using Responsible AI, Communication and FinOps, cutting cloud spend by 25%.
+* Airline Operations Cloud Landing Zone — a European airline (2025-08 to 2026-04)
+  Modernised a cloud landing zone for a European airline in airline operations using Kubernetes, Responsible AI, Communication and Linux Administration, accelerating releases by 22%.
+* Payments Kubernetes Platform — a fast-growing payments provider (2024-04 to 2025-07)
+  Scaled a Kubernetes platform for a fast-growing payments provider in payments using Terraform, Azure and Kubernetes, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2021)
+- Azure Administrator Associate (2021)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Platform Engineer

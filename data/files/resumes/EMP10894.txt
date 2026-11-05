@@ -1,0 +1,30 @@
+MATEUSZ NOWAK
+Lead Data Scientist | Data & Analytics | Kraków, Poland
+Employee ID: EMP10894
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist with 8.3 years of experience, based in Kraków. Strong in Machine Learning, Statistics, SQL and Python, with recent work in telecom billing. Interested in moving towards Data Scientist, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Expert, 0.7y), Statistics (Expert, 7.0y), SQL (Expert, 7.1y), NLP (Proficient, 1.6y), Generative AI (Proficient, 1.4y), MLOps (Working, 2.7y), Apache Spark (Working, 1.1y), Responsible AI (Working, 2.5y), Deep Learning (Beginner, 1.2y)
+- Software Engineering: Python (Advanced, 5.1y)
+- Product & Design: A/B Testing (Advanced, 0.5y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 7.6y), People Leadership (Advanced, 2.5y)
+
+EXPERIENCE
+* Retail Banking Customer Churn Model — a US retail bank (2026-02 to present)
+  Scaled a customer churn model for a US retail bank in retail banking using NLP and Python, improving model accuracy by 30%.
+* Energy Trading Executive KPI Dashboard Suite — a US energy company (2025-07 to 2026-02)
+  Modernised an executive KPI dashboard suite for a US energy company in energy trading using Apache Spark, SQL and Generative AI, improving forecast accuracy by 22%.
+* Telecom Billing Real-time Analytics Pipeline — a leading telecom operator (2024-09 to 2025-04)
+  Re-architected a real-time analytics pipeline for a leading telecom operator in telecom billing using Python, NLP and Generative AI, cutting cloud spend by 12%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Scientist, AI Engineer, ML Engineer

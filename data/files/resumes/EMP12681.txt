@@ -1,0 +1,35 @@
+OLIVIA BROWN
+Lead DevOps Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP12681
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 14.4 years of experience, based in London. Strong in Docker, Kubernetes, GCP and Python, with recent work in public sector. Interested in moving towards Cloud Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Expert, 9.1y), Kubernetes (Expert, 4.4y), GCP (Expert, 13.9y), CI/CD (Proficient, 3.5y), Terraform (Proficient, 8.9y), Observability (Proficient, 10.2y)
+- Software Engineering: Python (Advanced, 5.5y), Go (Proficient, 10.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 9.1y), Communication (Advanced, 6.3y), People Leadership (Proficient, 7.2y)
+
+EXPERIENCE
+* E-commerce CI/CD Platform — an APAC online retailer (2025-10 to present)
+  Migrated a CI/CD platform for an APAC online retailer in e-commerce using GCP, CI/CD and Kubernetes, accelerating releases by 30%.
+* Public Sector Data-centre Exit To Cloud — a fast-growing government agency (2024-11 to 2025-08)
+  Modernised a data-centre exit to cloud for a fast-growing government agency in public sector using CI/CD and Python, delivering $6M in cost savings.
+* Payments Data-centre Exit To Cloud — a tier-1 payments provider (2024-02 to 2024-09)
+  Migrated a data-centre exit to cloud for a tier-1 payments provider in payments using Observability, CI/CD and Stakeholder Management, cutting cloud spend by 18%.
+* Public Sector Data-centre Exit To Cloud — a leading government agency (2023-03 to 2024-01)
+  Designed a data-centre exit to cloud for a leading government agency in public sector using Docker, GCP, Stakeholder Management and CI/CD, delivering $4M in cost savings.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+- HashiCorp Terraform Associate (2021)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Cloud Engineer, Backend Engineer

@@ -1,0 +1,31 @@
+JESSICA KAMIŃSKI
+Senior Full Stack Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11867
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 5.9 years of experience, based in Toronto. Strong in Angular, Python, Docker and SQL, with recent work in HR tech. Interested in moving towards Full Stack Engineer, Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 2.1y), Python (Advanced, 4.7y), Microservices (Proficient, 2.9y), Next.js (Proficient, 3.3y), TypeScript (Working, 1.2y)
+- Cloud & DevOps: Docker (Advanced, 4.4y)
+- Data & AI: SQL (Proficient, 2.7y)
+
+EXPERIENCE
+* Public Sector Self-service Portal — a US government agency (2025-12 to present)
+  Scaled a self-service portal for a US government agency in public sector using Angular and SQL, lifting NPS by 22 points.
+* Public Sector Claims Processing Engine — a global government agency (2024-06 to 2025-11)
+  Automated a claims processing engine for a global government agency in public sector using Microservices, Python, SQL and Docker, reducing processing time by 40%.
+* Retail Banking Order Management System — a US retail bank (2023-07 to 2024-03)
+  Designed an order management system for a US retail bank in retail banking using SQL and Next.js, reducing processing time by 30%.
+* HR Tech Mobile Banking App — a fast-growing HR software company (2022-06 to 2023-06)
+  Designed a mobile banking app for a fast-growing HR software company in HR tech using TypeScript, SQL and Next.js, improving conversion by 40%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Full Stack Engineer, Software Architect, AI Engineer, Frontend Engineer

@@ -1,0 +1,29 @@
+ANJALI KIM
+Associate QA Engineer | Quality Engineering | Gurugram, India
+Employee ID: EMP10573
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 1.1 years of experience, based in Gurugram. Strong in Playwright, Test Automation, SQL and Communication, with recent work in public sector. Interested in moving towards QA Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Playwright (Advanced, 0.7y), Test Automation (Proficient, 0.5y), API Testing (Working, 0.5y)
+- Data & AI: SQL (Proficient, 0.8y)
+- Delivery & Leadership: Communication (Proficient, 0.6y)
+- Cloud & DevOps: CI/CD (Working, 0.3y), FinOps (Beginner, 0.3y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Airline Operations Performance Engineering Programme — a tier-1 airline (2025-09 to present)
+  Re-architected a performance engineering programme for a tier-1 airline in airline operations using Python, FinOps, CI/CD and API Testing, reducing production incidents by 22%.
+* Airline Operations API Contract-testing Suite — a fast-growing airline (2024-04 to 2025-07)
+  Led the delivery of an API contract-testing suite for a fast-growing airline in airline operations using Python, API Testing, FinOps and Playwright, reducing production incidents by 30%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: QA Engineer, Mobile Engineer

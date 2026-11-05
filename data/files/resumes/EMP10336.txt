@@ -1,0 +1,34 @@
+LUCAS GAGNON
+QA Engineer | Quality Engineering | Toronto, Canada
+Employee ID: EMP10336
+
+PROFESSIONAL SUMMARY
+QA Engineer with 4.5 years of experience, based in Toronto. Strong in Test Automation, Playwright, API Testing and SQL, with recent work in media streaming. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Proficient, 1.7y), Playwright (Proficient, 0.4y), API Testing (Proficient, 1.7y)
+- Data & AI: SQL (Proficient, 2.6y)
+- Delivery & Leadership: Communication (Proficient, 2.8y), Agile/Scrum (Working, 1.1y)
+- Cloud & DevOps: CI/CD (Working, 1.2y)
+- Software Engineering: Java (Working, 2.0y)
+
+EXPERIENCE
+* Media Streaming Test Automation Framework — a fast-growing streaming platform (2025-11 to present)
+  Designed a test automation framework for a fast-growing streaming platform in media streaming using Java, Test Automation and Agile/Scrum, accelerating releases by 40%.
+* Media Streaming Test Automation Framework — a fast-growing streaming platform (2024-08 to 2025-10)
+  Designed a test automation framework for a fast-growing streaming platform in media streaming using Agile/Scrum, Test Automation, Java and Playwright, accelerating releases by 12%.
+* Media Streaming Test Automation Framework — a US streaming platform (2024-01 to 2024-06)
+  Designed a test automation framework for a US streaming platform in media streaming using Playwright and Java, raising automated test coverage to 80%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2023)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, Backend Engineer, Engineering Manager

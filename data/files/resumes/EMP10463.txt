@@ -1,0 +1,31 @@
+PARNA NAIR
+Cloud Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP10463
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2.9 years of experience, based in Chennai. Strong in Linux Administration, Cloud Security, Kubernetes and Azure, with recent work in supply-chain logistics. Interested in moving towards Cloud Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Proficient, 0.4y), Kubernetes (Proficient, 0.7y), Azure (Working, 0.3y), Terraform (Working, 0.3y), CI/CD (Working, 1.2y)
+- Security: Cloud Security (Proficient, 0.4y)
+- Software Engineering: Python (Working, 0.3y)
+- Data & AI: Generative AI (Working, 0.9y)
+
+EXPERIENCE
+* Manufacturing IoT Data-centre Exit To Cloud — a global manufacturer (2026-05 to present)
+  Re-architected a data-centre exit to cloud for a global manufacturer in manufacturing IoT using Python, Linux Administration, Terraform and Azure, cutting cloud spend by 25%.
+* HR Tech Cloud Landing Zone — a global HR software company (2025-09 to 2026-04)
+  Designed a cloud landing zone for a global HR software company in HR tech using Linux Administration, Generative AI, Kubernetes and Terraform, accelerating releases by 35%.
+
+CERTIFICATIONS
+- Google Professional Cloud Architect (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Tamil
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, DevOps Engineer, Platform Engineer

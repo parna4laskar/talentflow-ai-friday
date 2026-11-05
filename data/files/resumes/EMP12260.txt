@@ -1,0 +1,27 @@
+VAISHNAVI VERMA
+Associate Mobile Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12260
+
+PROFESSIONAL SUMMARY
+Associate Mobile Engineer with 2.8 years of experience, based in Bengaluru. Strong in Mobile Development, Flutter, TypeScript and JavaScript, with recent work in retail banking. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Working, 1.0y), Flutter (Working, 0.7y), TypeScript (Working, 0.6y), JavaScript (Working, 1.4y), React (Beginner, 0.7y)
+- Product & Design: UI Design (Beginner, 0.6y)
+- Cloud & DevOps: CI/CD (Beginner, 0.4y)
+
+EXPERIENCE
+* Manufacturing IoT Mobile Banking App — a European manufacturer (2026-04 to present)
+  Automated a mobile banking app for a European manufacturer in manufacturing IoT using Flutter, React, UI Design and TypeScript, improving conversion by 18%.
+* Retail Banking Self-service Portal — a global retail bank (2025-03 to 2026-04)
+  Scaled a self-service portal for a global retail bank in retail banking using CI/CD, UI Design, TypeScript and Mobile Development, saving ~40K hours annually.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Mobile Engineer, Full Stack Engineer, QA Engineer

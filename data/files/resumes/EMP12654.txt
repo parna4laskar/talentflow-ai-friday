@@ -1,0 +1,28 @@
+NANDINI NAIDU
+Associate QA Engineer | Quality Engineering | Gurugram, India
+Employee ID: EMP12654
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 2.5 years of experience, based in Gurugram. Strong in Selenium, Agile/Scrum, Test Automation and Python, with recent work in airline operations. Interested in moving towards Backend Engineer, Full Stack Engineer roles and open to relocating to Toronto, Austin.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 2.2y), Test Automation (Proficient, 0.9y), Performance Testing (Working, 1.1y), API Testing (Beginner, 0.6y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 1.6y)
+- Software Engineering: Python (Proficient, 0.7y)
+- Cloud & DevOps: CI/CD (Working, 1.1y)
+
+EXPERIENCE
+* Airline Operations Performance Engineering Programme — a European airline (2026-02 to present)
+  Led the delivery of a performance engineering programme for a European airline in airline operations using Performance Testing and CI/CD, reducing production incidents by 22%.
+* Airline Operations Performance Engineering Programme — a tier-1 airline (2024-10 to 2025-11)
+  Scaled a performance engineering programme for a tier-1 airline in airline operations using Selenium, Agile/Scrum, Python and Performance Testing, reducing production incidents by 25%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Backend Engineer, Full Stack Engineer, DevOps Engineer

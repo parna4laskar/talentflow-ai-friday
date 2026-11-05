@@ -1,0 +1,32 @@
+SIDDHARTH GARCIA
+Lead Software Architect | Engineering | Gurugram, India
+Employee ID: EMP11596
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 12.2 years of experience, based in Gurugram. Strong in Stakeholder Management, System Design, Microservices and GCP, with recent work in HR tech. Interested in moving towards Cloud Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Expert, 12.2y), Communication (Proficient, 3.9y), People Leadership (Proficient, 6.5y)
+- Software Engineering: System Design (Advanced, 5.1y), Microservices (Advanced, 2.2y), Java (Proficient, 7.3y), REST API Design (Proficient, 7.1y)
+- Cloud & DevOps: GCP (Advanced, 2.5y)
+- Data & AI: Responsible AI (Working, 5.8y)
+
+EXPERIENCE
+* Airline Operations Payments Microservices Platform — a fast-growing airline (2026-04 to present)
+  Led the delivery of a payments microservices platform for a fast-growing airline in airline operations using System Design, Stakeholder Management and Java, reducing production incidents by 30%.
+* Energy Trading Payments Microservices Platform — a US energy company (2025-09 to 2026-03)
+  Re-architected a payments microservices platform for a US energy company in energy trading using System Design, GCP, Microservices and Responsible AI, reducing production incidents by 25%.
+* E-commerce Payments Microservices Platform — a US online retailer (2024-06 to 2025-07)
+  Migrated a payments microservices platform for a US online retailer in e-commerce using GCP, System Design and REST API Design, reducing production incidents by 30%.
+* HR Tech Order Management System — an APAC HR software company (2023-11 to 2024-06)
+  Modernised an order management system for an APAC HR software company in HR tech using Communication, Java and GCP, onboarding 4 new enterprise clients.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, Backend Engineer, DevOps Engineer

@@ -1,0 +1,33 @@
+EMMA EVANS
+Senior Product Manager | Product | Dublin, Ireland
+Employee ID: EMP12752
+
+PROFESSIONAL SUMMARY
+Senior Product Manager with 7.6 years of experience, based in Dublin. Strong in Product Management, Stakeholder Management, Roadmapping and FinOps, with recent work in insurance claims. Interested in moving towards Scrum Master, Business Analyst roles and open to relocating to Chennai, Singapore.
+
+CORE SKILLS
+- Product & Design: Product Management (Advanced, 1.9y), Roadmapping (Proficient, 0.6y), A/B Testing (Beginner, 0.3y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.4y), Communication (Proficient, 3.0y)
+- Cloud & DevOps: FinOps (Proficient, 2.1y)
+- Data & AI: Generative AI (Working, 3.0y)
+
+EXPERIENCE
+* Automotive B2B Analytics Product — a global car maker (2026-05 to present)
+  Led discovery for a B2B analytics product for a global car maker in automotive using A/B Testing, FinOps and Generative AI, onboarding 3 new enterprise clients.
+* Insurance Claims AI-assisted Customer Journey — an APAC insurer (2025-02 to 2026-03)
+  Defined the roadmap for an AI-assisted customer journey for an APAC insurer in insurance claims using FinOps and Product Management, saving ~40K hours annually.
+* Wealth Management Checkout Experience — a US wealth manager (2024-01 to 2025-01)
+  Led discovery for a checkout experience for a US wealth manager in wealth management using Communication, A/B Testing, Roadmapping and FinOps, lifting NPS by 22 points.
+
+CERTIFICATIONS
+- SAFe POPM (2021)
+
+EDUCATION
+- B.Tech + MBA
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Scrum Master, Business Analyst, Project Manager

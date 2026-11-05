@@ -1,0 +1,30 @@
+SIMRAN REDDY
+Lead Software Architect | Engineering | Gurugram, India
+Employee ID: EMP11745
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 11.1 years of experience, based in Gurugram. Strong in System Design, Microservices, AWS and Cloud Security, with recent work in airline operations. Interested in moving towards Backend Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 11.1y), Microservices (Advanced, 1.3y), Kafka (Advanced, 10.4y), REST API Design (Advanced, 1.9y), Python (Proficient, 4.2y)
+- Cloud & DevOps: AWS (Advanced, 3.6y), Kubernetes (Proficient, 1.5y), FinOps (Working, 2.5y)
+- Security: Cloud Security (Advanced, 8.6y)
+- Delivery & Leadership: Mentoring (Advanced, 3.0y), Stakeholder Management (Advanced, 9.8y), Communication (Advanced, 4.4y), People Leadership (Proficient, 3.4y)
+
+EXPERIENCE
+* Airline Operations Mobile Banking App — a leading airline (2026-07 to present)
+  Designed a mobile banking app for a leading airline in airline operations using Microservices and System Design, improving conversion by 30%.
+* Wealth Management Self-service Portal — a leading wealth manager (2025-11 to 2026-05)
+  Modernised a self-service portal for a leading wealth manager in wealth management using Stakeholder Management, FinOps, AWS and REST API Design, lifting NPS by 40 points.
+* Pharma R&D Payments Microservices Platform — a fast-growing pharma company (2025-05 to 2025-09)
+  Modernised a payments microservices platform for a fast-growing pharma company in pharma R&D using Kafka, FinOps and Stakeholder Management, accelerating releases by 40%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, DevOps Engineer

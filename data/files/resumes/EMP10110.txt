@@ -1,0 +1,32 @@
+POOJA JOHNSON
+Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP10110
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.1 years of experience, based in Pune. Strong in Figma, GraphQL, Next.js and Communication, with recent work in public sector. Interested in moving towards Mobile Engineer, Full Stack Engineer roles and open to relocating to Austin, Bengaluru, Toronto.
+
+CORE SKILLS
+- Product & Design: Figma (Proficient, 1.0y)
+- Software Engineering: GraphQL (Proficient, 0.8y), Next.js (Proficient, 1.3y), JavaScript (Working, 0.5y), Angular (Working, 0.5y), React (Working, 0.8y), TypeScript (Beginner, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 0.9y)
+- Cloud & DevOps: CI/CD (Beginner, 0.5y), Terraform (Beginner, 0.4y)
+
+EXPERIENCE
+* Public Sector Pricing Engine — an APAC government agency (2026-01 to present)
+  Re-architected a pricing engine for an APAC government agency in public sector using GraphQL, Next.js and React, improving conversion by 12%.
+* Supply-chain Logistics Customer Onboarding Platform — a leading logistics company (2024-06 to 2025-10)
+  Modernised a customer onboarding platform for a leading logistics company in supply-chain logistics using CI/CD and Figma, lifting NPS by 30 points.
+* Public Sector Self-service Portal — a tier-1 government agency (2023-04 to 2024-03)
+  Re-architected a self-service portal for a tier-1 government agency in public sector using React, CI/CD and Angular, lifting NPS by 40 points.
+* Public Sector Payments Microservices Platform — a leading government agency (2022-05 to 2023-03)
+  Designed a payments microservices platform for a leading government agency in public sector using CI/CD and GraphQL, reducing production incidents by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Mobile Engineer, Full Stack Engineer, QA Engineer

@@ -1,0 +1,31 @@
+SWATI BHAT
+Associate Backend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10028
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 2.3 years of experience, based in Bengaluru. Strong in Microservices, Python, System Design and Kubernetes, with recent work in supply-chain logistics. Interested in moving towards Software Architect, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Advanced, 1.7y), Python (Proficient, 1.7y), System Design (Proficient, 0.6y), REST API Design (Working, 1.1y)
+- Cloud & DevOps: Kubernetes (Proficient, 0.9y)
+- Data & AI: SQL (Working, 0.7y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Order Management System — a US logistics company (2026-09 to present)
+  Designed an order management system for a US logistics company in supply-chain logistics using REST API Design and Kubernetes, onboarding 2 new enterprise clients.
+* Pharma R&D Order Management System — an APAC pharma company (2025-03 to 2026-09)
+  Designed an order management system for an APAC pharma company in pharma R&D using Communication and SQL, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Arabic
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Software Architect, Full Stack Engineer

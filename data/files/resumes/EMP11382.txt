@@ -1,0 +1,33 @@
+MEI NGUYEN
+Lead Business Analyst | Business Consulting | New York, United States
+Employee ID: EMP11382
+
+PROFESSIONAL SUMMARY
+Lead Business Analyst with 14.9 years of experience, based in New York. Strong in Business Analysis, Requirements Gathering, Stakeholder Management and Mentoring, with recent work in pharma R&D. Interested in moving towards Business Analyst, Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 5.9y), Requirements Gathering (Advanced, 10.2y), Salesforce (Proficient, 6.7y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 3.3y), Mentoring (Advanced, 3.7y), Communication (Advanced, 10.9y), Agile/Scrum (Proficient, 10.6y)
+
+EXPERIENCE
+* Pharma R&D Requirements and UAT for a CRM Rollout — a leading pharma company (2026-01 to present)
+  Delivered a requirements and UAT for a CRM rollout for a leading pharma company in pharma R&D using Communication, Stakeholder Management and Business Analysis, delivering on time across 2 workstreams.
+* Payments Process Re-engineering Initiative — an APAC payments provider (2025-01 to 2025-12)
+  Led a process re-engineering initiative for an APAC payments provider in payments using Stakeholder Management and Business Analysis, delivering $8M in cost savings.
+* Pharma R&D Requirements and UAT for a CRM Rollout — a US pharma company (2024-01 to 2024-12)
+  Led a requirements and UAT for a CRM rollout for a US pharma company in pharma R&D using Salesforce and Requirements Gathering, reducing processing time by 40%.
+* Healthcare Requirements and UAT for a CRM Rollout — a leading hospital network (2023-01 to 2023-10)
+  Delivered a requirements and UAT for a CRM rollout for a leading hospital network in healthcare using Requirements Gathering and Agile/Scrum, delivering on time across 8 workstreams.
+
+CERTIFICATIONS
+- PMI-PBA (2021)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Business Analyst, Data Analyst, CRM Consultant, Scrum Master

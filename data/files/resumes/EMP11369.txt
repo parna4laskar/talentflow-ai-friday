@@ -1,0 +1,30 @@
+THOMAS WILSON
+Lead Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11369
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 12.1 years of experience, based in London. Strong in GraphQL, TypeScript, JavaScript and React, with recent work in pharma R&D. Interested in moving towards Full Stack Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Expert, 9.1y), TypeScript (Advanced, 1.1y), JavaScript (Advanced, 9.0y), React (Advanced, 12.0y), Flutter (Proficient, 6.3y)
+- Product & Design: Figma (Advanced, 3.8y)
+- Quality Engineering: Playwright (Proficient, 3.7y)
+- Delivery & Leadership: Mentoring (Proficient, 8.3y), Stakeholder Management (Proficient, 3.4y)
+
+EXPERIENCE
+* Pharma R&D Claims Processing Engine — an APAC pharma company (2025-08 to present)
+  Modernised a claims processing engine for an APAC pharma company in pharma R&D using TypeScript, Stakeholder Management and Mentoring, saving ~12K hours annually.
+* Pharma R&D Pricing Engine — a fast-growing pharma company (2024-09 to 2025-06)
+  Scaled a pricing engine for a fast-growing pharma company in pharma R&D using GraphQL, TypeScript and Playwright, reducing processing time by 22%.
+* Telecom Billing Customer Onboarding Platform — a global telecom operator (2023-02 to 2024-06)
+  Scaled a customer onboarding platform for a global telecom operator in telecom billing using TypeScript and Mentoring, improving conversion by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Full Stack Engineer, UX Designer, Mobile Engineer

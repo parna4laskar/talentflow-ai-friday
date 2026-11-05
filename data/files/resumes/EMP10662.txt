@@ -1,0 +1,31 @@
+DARREN CHUA
+Principal Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP10662
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 19.7 years of experience, based in Singapore. Strong in Python, REST API Design, SQL and Microservices, with recent work in automotive. Interested in moving towards Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 14.7y), REST API Design (Expert, 1.3y), Microservices (Advanced, 2.6y), System Design (Advanced, 9.8y), GraphQL (Advanced, 7.7y)
+- Data & AI: SQL (Expert, 18.9y)
+
+EXPERIENCE
+* Supply-chain Logistics Customer Onboarding Platform — a global logistics company (2026-11 to present)
+  Scaled a customer onboarding platform for a global logistics company in supply-chain logistics using SQL, GraphQL and Microservices, lifting NPS by 18 points.
+* Supply-chain Logistics Customer Onboarding Platform — a leading logistics company (2025-07 to 2026-09)
+  Designed a customer onboarding platform for a leading logistics company in supply-chain logistics using System Design and REST API Design, lifting NPS by 25 points.
+* Automotive Mobile Banking App — a leading car maker (2024-03 to 2025-06)
+  Migrated a mobile banking app for a leading car maker in automotive using System Design, Microservices and GraphQL, improving conversion by 40%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Mandarin, Spanish
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Full Stack Engineer

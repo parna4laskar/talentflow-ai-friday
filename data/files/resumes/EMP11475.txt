@@ -1,0 +1,36 @@
+MEERA MENON
+Lead Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11475
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 14.3 years of experience, based in Bengaluru. Strong in GCP, Terraform, Linux Administration and Cloud Security, with recent work in HR tech. Interested in moving towards Cloud Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Advanced, 6.2y), Terraform (Advanced, 11.4y), Linux Administration (Advanced, 14.2y), CI/CD (Proficient, 4.6y)
+- Security: Cloud Security (Advanced, 3.9y)
+- Delivery & Leadership: Mentoring (Advanced, 0.5y), Stakeholder Management (Proficient, 6.1y)
+- Software Engineering: Python (Working, 3.9y)
+- Data & AI: Agentic AI (Working, 3.4y)
+
+EXPERIENCE
+* HR Tech Cloud Landing Zone — a global HR software company (2026-11 to present)
+  Re-architected a cloud landing zone for a global HR software company in HR tech using Mentoring, Terraform, Agentic AI and Stakeholder Management, cutting cloud spend by 18%.
+* Manufacturing IoT CI/CD Platform — a European manufacturer (2026-02 to 2026-09)
+  Re-architected a CI/CD platform for a European manufacturer in manufacturing IoT using Linux Administration, CI/CD and Cloud Security, accelerating releases by 40%.
+* Wealth Management Observability Stack — a tier-1 wealth manager (2024-10 to 2025-11)
+  Built an observability stack for a tier-1 wealth manager in wealth management using Cloud Security, Linux Administration, Terraform and Python, accelerating releases by 18%.
+* Energy Trading CI/CD Platform — a global energy company (2023-09 to 2024-10)
+  Scaled a CI/CD platform for a global energy company in energy trading using Terraform, Cloud Security, Linux Administration and Stakeholder Management, accelerating releases by 30%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, Software Architect, Site Reliability Engineer, DevOps Engineer

@@ -1,0 +1,32 @@
+ROHAN WILSON
+DevOps Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP10946
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.4 years of experience, based in London. Strong in Kubernetes, Communication, Docker and Go, with recent work in HR tech. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 3.3y), Docker (Proficient, 3.0y), GCP (Proficient, 1.9y), Terraform (Proficient, 1.9y), CI/CD (Working, 1.1y), Azure (Working, 0.6y), Linux Administration (Working, 1.6y), Observability (Working, 1.4y)
+- Delivery & Leadership: Communication (Advanced, 4.0y)
+- Software Engineering: Go (Proficient, 0.4y)
+
+EXPERIENCE
+* Airline Operations Observability Stack — a global airline (2026-02 to present)
+  Built an observability stack for a global airline in airline operations using Terraform, Azure and Kubernetes, reducing production incidents by 22%.
+* HR Tech Kubernetes Platform — a tier-1 HR software company (2024-08 to 2025-11)
+  Re-architected a Kubernetes platform for a tier-1 HR software company in HR tech using GCP, CI/CD and Kubernetes, accelerating releases by 12%.
+* Manufacturing IoT CI/CD Platform — a tier-1 manufacturer (2023-08 to 2024-05)
+  Re-architected a CI/CD platform for a tier-1 manufacturer in manufacturing IoT using Terraform, Linux Administration, Communication and GCP, accelerating releases by 40%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (2025)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer

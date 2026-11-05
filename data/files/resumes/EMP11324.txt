@@ -1,0 +1,28 @@
+ZOYA KAPOOR
+DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP11324
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.3 years of experience, based in Bengaluru. Strong in AWS, Terraform, CI/CD and Docker, with recent work in public sector. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 2.0y), Terraform (Advanced, 2.2y), CI/CD (Proficient, 0.7y), Docker (Proficient, 2.8y), Kubernetes (Proficient, 2.4y), Observability (Working, 1.1y), Site Reliability Engineering (Working, 2.0y)
+- Delivery & Leadership: Communication (Proficient, 1.6y)
+
+EXPERIENCE
+* Retail Banking CI/CD Platform — a fast-growing retail bank (2025-10 to present)
+  Led the delivery of a CI/CD platform for a fast-growing retail bank in retail banking using CI/CD, Site Reliability Engineering and Terraform, accelerating releases by 35%.
+* Supply-chain Logistics Cloud Landing Zone — a global logistics company (2024-04 to 2025-08)
+  Modernised a cloud landing zone for a global logistics company in supply-chain logistics using AWS, Terraform and Docker, cutting cloud spend by 35%.
+* Public Sector Cloud Landing Zone — a global government agency (2022-10 to 2024-03)
+  Scaled a cloud landing zone for a global government agency in public sector using Observability, Docker, Site Reliability Engineering and Terraform, cutting cloud spend by 18%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer

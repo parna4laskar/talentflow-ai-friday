@@ -1,0 +1,32 @@
+DIVYA GOKHALE
+Senior DevOps Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP12257
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 10.6 years of experience, based in Bengaluru. Strong in CI/CD, Docker, Kubernetes and AWS, with recent work in healthcare. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Advanced, 5.3y), Docker (Advanced, 2.2y), Kubernetes (Advanced, 8.6y), AWS (Advanced, 2.9y), Terraform (Proficient, 6.0y)
+- Software Engineering: Python (Advanced, 8.6y)
+- Delivery & Leadership: Communication (Working, 0.5y)
+
+EXPERIENCE
+* Energy Trading Kubernetes Platform — a European energy company (2025-10 to present)
+  Migrated a Kubernetes platform for a European energy company in energy trading using Terraform, Kubernetes and Docker, cutting cloud spend by 22%.
+* Payments CI/CD Platform — a fast-growing payments provider (2024-08 to 2025-09)
+  Designed a CI/CD platform for a fast-growing payments provider in payments using CI/CD, AWS and Docker, accelerating releases by 30%.
+* Media Streaming Kubernetes Platform — a US streaming platform (2023-04 to 2024-08)
+  Automated a Kubernetes platform for a US streaming platform in media streaming using Python, CI/CD and AWS, accelerating releases by 40%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2023)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Site Reliability Engineer, Backend Engineer, Cloud Engineer

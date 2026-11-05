@@ -1,0 +1,34 @@
+SURESH RAO
+Frontend Engineer | Engineering | Gurugram, India
+Employee ID: EMP10043
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 5.7 years of experience, based in Gurugram. Strong in TypeScript, Playwright, JavaScript and React, with recent work in e-commerce. Interested in moving towards Frontend Engineer, UX Designer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 4.0y), JavaScript (Proficient, 0.7y), React (Proficient, 0.4y), Next.js (Proficient, 3.3y), GraphQL (Beginner, 0.6y)
+- Quality Engineering: Playwright (Advanced, 0.6y)
+- Cloud & DevOps: CI/CD (Working, 2.7y)
+- Product & Design: Figma (Working, 1.7y)
+- Delivery & Leadership: Communication (Working, 1.2y)
+
+EXPERIENCE
+* E-commerce Mobile Banking App — a European online retailer (2026-04 to present)
+  Modernised a mobile banking app for a European online retailer in e-commerce using Communication, Next.js, JavaScript and Figma, lifting NPS by 25 points.
+* Payments Pricing Engine — a US payments provider (2025-09 to 2026-02)
+  Migrated a pricing engine for a US payments provider in payments using Next.js, CI/CD, Figma and Communication, reducing processing time by 18%.
+* Payments Pricing Engine — a tier-1 payments provider (2024-10 to 2025-09)
+  Re-architected a pricing engine for a tier-1 payments provider in payments using GraphQL and Playwright, improving conversion by 25%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2025)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, UX Designer, Full Stack Engineer

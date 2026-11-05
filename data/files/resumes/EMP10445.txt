@@ -1,0 +1,33 @@
+ETHAN WIŚNIEWSKI
+Senior Data Engineer | Data & Analytics | Toronto, Canada
+Employee ID: EMP10445
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 9.8 years of experience, based in Toronto. Strong in Airflow, Data Visualization, SQL and Python, with recent work in e-commerce. Interested in moving towards Data Analyst, Data Scientist roles and open to relocating to Gurugram, Bengaluru.
+
+CORE SKILLS
+- Data & AI: Airflow (Advanced, 3.8y), Data Visualization (Advanced, 0.7y), SQL (Proficient, 4.6y), Data Engineering (Proficient, 2.5y), Data Governance (Proficient, 3.1y), Snowflake (Proficient, 5.9y)
+- Software Engineering: Python (Proficient, 4.3y)
+
+EXPERIENCE
+* E-commerce Customer Churn Model — a tier-1 online retailer (2025-10 to present)
+  Scaled a customer churn model for a tier-1 online retailer in e-commerce using Airflow and Data Visualization, improving model accuracy by 22%.
+* Airline Operations Customer Churn Model — a global airline (2024-04 to 2025-09)
+  Modernised a customer churn model for a global airline in airline operations using SQL, Data Engineering and Data Governance, improving conversion by 30%.
+* Airline Operations Executive KPI Dashboard Suite — an APAC airline (2023-05 to 2024-03)
+  Led the delivery of an executive KPI dashboard suite for an APAC airline in airline operations using Data Visualization, Data Engineering and Airflow, saving ~12K hours annually.
+* Supply-chain Logistics Real-time Analytics Pipeline — a US logistics company (2022-09 to 2023-04)
+  Automated a real-time analytics pipeline for a US logistics company in supply-chain logistics using Data Governance and SQL, cutting cloud spend by 18%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Data Analyst, Data Scientist, ML Engineer

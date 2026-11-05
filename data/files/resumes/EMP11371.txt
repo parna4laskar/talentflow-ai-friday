@@ -1,0 +1,33 @@
+YASH MALHOTRA
+Scrum Master | Delivery Excellence | Pune, India
+Employee ID: EMP11371
+
+PROFESSIONAL SUMMARY
+Scrum Master with 5.8 years of experience, based in Pune. Strong in Stakeholder Management, Program Management, Agile/Scrum and Communication, with recent work in public sector. Interested in moving towards Engineering Manager, Project Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Advanced, 5.6y), Program Management (Advanced, 5.1y), Agile/Scrum (Proficient, 3.0y), Communication (Proficient, 2.4y), Mentoring (Proficient, 1.0y), Change Management (Proficient, 0.7y), Project Management (Beginner, 0.6y)
+- Data & AI: LLM Engineering (Proficient, 3.2y)
+
+EXPERIENCE
+* Automotive Requirements and UAT for a CRM Rollout — a US car maker (2026-09 to present)
+  Ran a requirements and UAT for a CRM rollout for a US car maker in automotive using Communication, Mentoring, Project Management and Change Management, reducing processing time by 18%.
+* Insurance Claims Requirements and UAT for a CRM Rollout — a global insurer (2025-11 to 2026-08)
+  Coordinated a requirements and UAT for a CRM rollout for a global insurer in insurance claims using LLM Engineering, Agile/Scrum and Change Management, reducing processing time by 22%.
+* Public Sector Agile Transformation — a European government agency (2025-03 to 2025-09)
+  Led an agile transformation for a European government agency in public sector using Agile/Scrum, Mentoring, Stakeholder Management and Change Management, delivering on time across 3 workstreams.
+* Airline Operations Core Banking Transformation Programme — an APAC airline (2024-05 to 2025-01)
+  Delivered a core banking transformation programme for an APAC airline in airline operations using Agile/Scrum and Project Management, delivering on time across 6 workstreams.
+
+CERTIFICATIONS
+- SAFe Scrum Master (2021)
+
+EDUCATION
+- B.E. Mechanical
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager, Project Manager, Business Analyst

@@ -1,0 +1,30 @@
+GAURI SINGH
+Associate Cloud Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10778
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 2.5 years of experience, based in Bengaluru. Strong in GCP, Terraform, Cloud Security and Linux Administration, with recent work in retail banking. Interested in moving towards Site Reliability Engineer, Software Architect roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Proficient, 0.8y), Terraform (Proficient, 1.0y), Linux Administration (Working, 1.1y), FinOps (Working, 1.2y), Platform Engineering (Working, 0.4y), CI/CD (Working, 1.0y), Kubernetes (Beginner, 0.4y)
+- Security: Cloud Security (Proficient, 1.1y)
+- Delivery & Leadership: Communication (Working, 0.9y)
+
+EXPERIENCE
+* Energy Trading CI/CD Platform — a global energy company (2025-08 to present)
+  Led the delivery of a CI/CD platform for a global energy company in energy trading using Platform Engineering and Linux Administration, accelerating releases by 12%.
+* Retail Banking CI/CD Platform — a tier-1 retail bank (2024-11 to 2025-06)
+  Built a CI/CD platform for a tier-1 retail bank in retail banking using Cloud Security, Linux Administration and CI/CD, accelerating releases by 25%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Site Reliability Engineer, Software Architect

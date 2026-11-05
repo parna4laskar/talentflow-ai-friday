@@ -1,0 +1,31 @@
+RITESH SUBRAMANIAN
+ML Engineer | AI Center of Excellence | Gurugram, India
+Employee ID: EMP12637
+
+PROFESSIONAL SUMMARY
+ML Engineer with 3.7 years of experience, based in Gurugram. Strong in Deep Learning, Machine Learning, MLOps and Python, with recent work in automotive. Interested in moving towards ML Engineer, Platform Engineer roles and open to relocating to Bengaluru, New York.
+
+CORE SKILLS
+- Data & AI: Deep Learning (Advanced, 1.7y), Machine Learning (Proficient, 1.3y), MLOps (Proficient, 0.9y), Databricks (Working, 1.5y), NLP (Working, 1.7y)
+- Software Engineering: Python (Working, 1.8y)
+- Cloud & DevOps: Docker (Working, 1.7y), AWS (Working, 1.4y), Kubernetes (Working, 1.6y)
+
+EXPERIENCE
+* Automotive Fraud Detection Model — a fast-growing car maker (2026-01 to present)
+  Designed a fraud detection model for a fast-growing car maker in automotive using Python and AWS, improving model accuracy by 40%.
+* E-commerce Knowledge Assistant (RAG) — a US online retailer (2025-02 to 2025-11)
+  Built a knowledge assistant (RAG) for a US online retailer in e-commerce using Machine Learning, MLOps, Databricks and AWS, saving ~35K hours annually.
+* Retail Banking Knowledge Assistant (RAG) — a tier-1 retail bank (2024-02 to 2024-11)
+  Migrated a knowledge assistant (RAG) for a tier-1 retail bank in retail banking using Kubernetes, AWS and NLP, saving ~30K hours annually.
+* Energy Trading Knowledge Assistant (RAG) — an APAC energy company (2022-07 to 2023-11)
+  Designed a knowledge assistant (RAG) for an APAC energy company in energy trading using AWS and Python, lifting NPS by 18 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: ML Engineer, Platform Engineer

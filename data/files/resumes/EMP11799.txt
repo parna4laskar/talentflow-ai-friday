@@ -1,0 +1,35 @@
+LUCAS TREMBLAY
+Senior Data Analyst | Data & Analytics | Toronto, Canada
+Employee ID: EMP11799
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 5.4 years of experience, based in Toronto. Strong in SQL, Data Visualization, People Analytics and Power BI, with recent work in automotive. Interested in moving towards Financial Analyst, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 1.2y), Data Visualization (Proficient, 1.3y), Power BI (Working, 1.0y)
+- People & Marketing: People Analytics (Proficient, 3.4y)
+- Business & Finance: Business Analysis (Working, 1.2y)
+- Software Engineering: Python (Working, 2.6y)
+
+EXPERIENCE
+* Automotive Executive KPI Dashboard Suite — a fast-growing car maker (2026-04 to present)
+  Built an executive KPI dashboard suite for a fast-growing car maker in automotive using Python, People Analytics and Business Analysis, saving ~35K hours annually.
+* Automotive Executive KPI Dashboard Suite — a global car maker (2024-09 to 2026-03)
+  Re-architected an executive KPI dashboard suite for a global car maker in automotive using Power BI and People Analytics, improving forecast accuracy by 12%.
+* Automotive Real-time Analytics Pipeline — a European car maker (2023-09 to 2024-09)
+  Scaled a real-time analytics pipeline for a European car maker in automotive using Business Analysis and Power BI, reducing processing time by 18%.
+* Automotive Data Lakehouse — a US car maker (2022-12 to 2023-07)
+  Led the delivery of a data lakehouse for a US car maker in automotive using Business Analysis, Python and Data Visualization, cutting cloud spend by 30%.
+
+CERTIFICATIONS
+- Tableau Desktop Specialist (2023)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Financial Analyst, Data Scientist

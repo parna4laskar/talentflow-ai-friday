@@ -1,0 +1,33 @@
+MRUNAL NAIR
+Senior Security Analyst | Cyber Security | Hyderabad, India
+Employee ID: EMP10484
+
+PROFESSIONAL SUMMARY
+Senior Security Analyst with 6.9 years of experience, based in Hyderabad. Strong in SIEM, Incident Response, Python and GRC, with recent work in airline operations. Interested in moving towards Security Analyst, DevOps Engineer roles and open to relocating to New York, Austin, London.
+
+CORE SKILLS
+- Security: SIEM (Proficient, 2.7y), Incident Response (Proficient, 4.6y), GRC (Proficient, 0.9y), Threat Modeling (Working, 1.3y)
+- Software Engineering: Python (Proficient, 4.8y)
+- Cloud & DevOps: Linux Administration (Working, 1.0y)
+- Data & AI: Machine Learning (Working, 1.8y)
+
+EXPERIENCE
+* Airline Operations Secure SDLC Rollout — a US airline (2026-05 to present)
+  Modernised a secure SDLC rollout for a US airline in airline operations using Machine Learning, Python and SIEM, accelerating releases by 25%.
+* Airline Operations Identity and Access Platform — a tier-1 airline (2024-10 to 2026-03)
+  Modernised an identity and access platform for a tier-1 airline in airline operations using Python, Incident Response, Threat Modeling and Linux Administration, reducing production incidents by 35%.
+* Healthcare Cloud Security Posture Programme — a US hospital network (2023-03 to 2024-09)
+  Migrated a cloud security posture programme for a US hospital network in healthcare using Machine Learning and Threat Modeling, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- CompTIA Security+ (2026)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Security Analyst, DevOps Engineer

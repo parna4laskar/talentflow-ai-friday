@@ -1,0 +1,31 @@
+EOIN RYAN
+Senior ML Engineer | AI Center of Excellence | Dublin, Ireland
+Employee ID: EMP11078
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 6.5 years of experience, based in Dublin. Strong in Python, Deep Learning, Machine Learning and MLOps, with recent work in healthcare. Interested in moving towards AI Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 3.8y)
+- Data & AI: Deep Learning (Advanced, 2.9y), Machine Learning (Proficient, 0.4y), MLOps (Proficient, 3.7y)
+- Cloud & DevOps: AWS (Proficient, 1.2y), Kubernetes (Proficient, 0.9y), Platform Engineering (Beginner, 1.0y)
+
+EXPERIENCE
+* Energy Trading Document Intelligence Pipeline — a fast-growing energy company (2026-02 to present)
+  Led the delivery of a document intelligence pipeline for a fast-growing energy company in energy trading using Machine Learning, MLOps, Kubernetes and Platform Engineering, saving ~12K hours annually.
+* Healthcare Agentic Customer-service Assistant — a fast-growing hospital network (2025-04 to 2025-12)
+  Designed an agentic customer-service assistant for a fast-growing hospital network in healthcare using MLOps and Python, lifting NPS by 22 points.
+* Healthcare Recommendation Engine — a global hospital network (2024-11 to 2025-04)
+  Modernised a recommendation engine for a global hospital network in healthcare using AWS, MLOps, Machine Learning and Kubernetes, improving conversion by 12%.
+* E-commerce Recommendation Engine — a tier-1 online retailer (2024-04 to 2024-09)
+  Automated a recommendation engine for a tier-1 online retailer in e-commerce using Kubernetes, MLOps, Deep Learning and Platform Engineering, improving model accuracy by 40%.
+
+EDUCATION
+- PhD Computer Science
+
+LANGUAGES
+English, Irish
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: AI Engineer, DevOps Engineer

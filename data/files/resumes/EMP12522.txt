@@ -1,0 +1,28 @@
+SHREYA JADHAV
+Security Engineer | Cyber Security | Hyderabad, India
+Employee ID: EMP12522
+
+PROFESSIONAL SUMMARY
+Security Engineer with 2.6 years of experience, based in Hyderabad. Strong in Threat Modeling, Identity & Access Management, Application Security and AWS, with recent work in pharma R&D. Interested in moving towards Security Engineer, Software Architect roles and open to relocating to London.
+
+CORE SKILLS
+- Security: Threat Modeling (Expert, 1.7y), Identity & Access Management (Advanced, 0.6y), Application Security (Proficient, 1.7y), Incident Response (Proficient, 1.7y), GRC (Working, 0.7y)
+- Cloud & DevOps: AWS (Proficient, 0.8y), Kubernetes (Proficient, 1.2y)
+- Delivery & Leadership: Communication (Proficient, 1.5y)
+- Data & AI: Responsible AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Automotive Secure SDLC Rollout — a tier-1 car maker (2025-11 to present)
+  Automated a secure SDLC rollout for a tier-1 car maker in automotive using Incident Response and Application Security, reducing production incidents by 12%.
+* Healthcare Identity and Access Platform — a global hospital network (2024-05 to 2025-08)
+  Led the delivery of an identity and access platform for a global hospital network in healthcare using Application Security, GRC and AWS, closing 25% of open audit findings.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Security Engineer, Software Architect

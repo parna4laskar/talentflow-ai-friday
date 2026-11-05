@@ -1,0 +1,30 @@
+NURUL GOH
+Associate Full Stack Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP10536
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 1 years of experience, based in Singapore. Strong in TypeScript, React, Node.js and Microservices, with recent work in supply-chain logistics. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Working, 0.3y), React (Working, 0.4y), Node.js (Working, 0.4y), Microservices (Working, 0.3y), GraphQL (Beginner, 0.3y)
+- Data & AI: Data Visualization (Working, 0.3y), SQL (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Customer Onboarding Platform — a US telecom operator (2026-05 to present)
+  Built a customer onboarding platform for a US telecom operator in telecom billing using SQL and Microservices, improving conversion by 18%.
+* Healthcare Order Management System — a US hospital network (2025-08 to 2026-02)
+  Built an order management system for a US hospital network in healthcare using Microservices, React and Data Visualization, onboarding 2 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Mandarin, Arabic
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer, Mobile Engineer

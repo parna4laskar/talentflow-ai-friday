@@ -1,0 +1,30 @@
+ADITYA SUBRAMANIAN
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP11846
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.5 years of experience, based in Bengaluru. Strong in People Leadership, Agile/Scrum, Stakeholder Management and Communication, with recent work in pharma R&D. Interested in moving towards Engineering Manager, Program Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 5.7y), Agile/Scrum (Advanced, 5.7y), Stakeholder Management (Advanced, 8.2y), Communication (Advanced, 1.4y), Mentoring (Proficient, 4.2y)
+- Software Engineering: System Design (Proficient, 1.2y), Java (Proficient, 1.2y), Microservices (Proficient, 4.0y)
+
+EXPERIENCE
+* Wealth Management Pricing Engine — a tier-1 wealth manager (2026-06 to present)
+  Migrated a pricing engine for a tier-1 wealth manager in wealth management using People Leadership, System Design and Mentoring, reducing processing time by 35%.
+* Pharma R&D Order Management System — a leading pharma company (2025-12 to 2026-05)
+  Led the delivery of an order management system for a leading pharma company in pharma R&D using System Design, People Leadership, Agile/Scrum and Mentoring, reducing processing time by 25%.
+* Automotive Pricing Engine — a leading car maker (2024-09 to 2025-11)
+  Built a pricing engine for a leading car maker in automotive using Agile/Scrum, Mentoring, Communication and Microservices, improving conversion by 25%.
+* Telecom Billing Self-service Portal — a leading telecom operator (2023-11 to 2024-07)
+  Migrated a self-service portal for a leading telecom operator in telecom billing using People Leadership, Java and Stakeholder Management, saving ~35K hours annually.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager, Program Manager, Backend Engineer, Scrum Master

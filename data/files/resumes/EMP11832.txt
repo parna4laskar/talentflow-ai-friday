@@ -1,0 +1,36 @@
+MARIA WASHINGTON
+Lead Backend Engineer | Engineering | New York, United States
+Employee ID: EMP11832
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 10.9 years of experience, based in New York. Strong in C#, Kafka, REST API Design and SQL, with recent work in insurance claims. Interested in moving towards Software Architect, Full Stack Engineer roles and open to relocating to Chennai, Kraków.
+
+CORE SKILLS
+- Software Engineering: C# (Expert, 10.9y), Kafka (Expert, 10.9y), REST API Design (Advanced, 7.9y), Microservices (Proficient, 3.4y), .NET Core (Proficient, 8.1y)
+- Delivery & Leadership: People Leadership (Expert, 5.4y), Mentoring (Proficient, 3.4y)
+- Data & AI: SQL (Advanced, 6.4y), Generative AI (Proficient, 2.4y)
+- Cloud & DevOps: CI/CD (Proficient, 3.2y), Terraform (Working, 3.3y)
+
+EXPERIENCE
+* E-commerce Self-service Portal — a fast-growing online retailer (2025-12 to present)
+  Designed a self-service portal for a fast-growing online retailer in e-commerce using C# and Generative AI, saving ~25K hours annually.
+* Insurance Claims Claims Processing Engine — a fast-growing insurer (2025-03 to 2025-09)
+  Built a claims processing engine for a fast-growing insurer in insurance claims using Generative AI, SQL and C#, saving ~25K hours annually.
+* Supply-chain Logistics Customer Onboarding Platform — a US logistics company (2024-09 to 2025-02)
+  Designed a customer onboarding platform for a US logistics company in supply-chain logistics using Microservices, SQL and C#, improving conversion by 18%.
+* Insurance Claims Order Management System — a fast-growing insurer (2023-05 to 2024-07)
+  Scaled an order management system for a fast-growing insurer in insurance claims using .NET Core, Generative AI and Terraform, onboarding 3 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Software Architect, Full Stack Engineer, Engineering Manager

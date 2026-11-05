@@ -1,0 +1,30 @@
+AKASH SHAH
+Senior Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10082
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 5.5 years of experience, based in Bengaluru. Strong in JavaScript, TypeScript, React and Next.js, with recent work in payments. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 4.6y), TypeScript (Proficient, 2.0y), React (Proficient, 2.6y), Next.js (Proficient, 3.2y), GraphQL (Working, 1.8y)
+- Product & Design: UI Design (Proficient, 3.8y), Figma (Working, 1.4y), Design Systems (Working, 2.3y)
+
+EXPERIENCE
+* Payments Order Management System — a leading payments provider (2026-08 to present)
+  Designed an order management system for a leading payments provider in payments using Design Systems, React and GraphQL, onboarding 5 new enterprise clients.
+* Payments Claims Processing Engine — a fast-growing payments provider (2026-02 to 2026-07)
+  Migrated a claims processing engine for a fast-growing payments provider in payments using TypeScript and GraphQL, saving ~22K hours annually.
+* Payments Self-service Portal — a European payments provider (2025-03 to 2026-01)
+  Automated a self-service portal for a European payments provider in payments using UI Design and Design Systems, lifting NPS by 18 points.
+* Payments Customer Onboarding Platform — a fast-growing payments provider (2023-11 to 2025-02)
+  Led the delivery of a customer onboarding platform for a fast-growing payments provider in payments using Next.js and TypeScript, lifting NPS by 35 points.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer, Mobile Engineer, QA Engineer, Full Stack Engineer

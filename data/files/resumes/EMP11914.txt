@@ -1,0 +1,30 @@
+MARIA LEE
+DevOps Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP11914
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 5.3 years of experience, based in New York. Strong in Docker, Kubernetes, Linux Administration and CI/CD, with recent work in energy trading. Interested in moving towards DevOps Engineer, Platform Engineer roles and open to relocating to Gurugram, Toronto, Hyderabad.
+
+CORE SKILLS
+- Cloud & DevOps: Docker (Advanced, 1.6y), Kubernetes (Advanced, 4.0y), Linux Administration (Advanced, 3.9y), CI/CD (Proficient, 2.0y), FinOps (Proficient, 0.5y), GCP (Working, 0.7y), Observability (Working, 0.5y), Terraform (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 1.8y), Go (Working, 1.4y)
+
+EXPERIENCE
+* Pharma R&D Cloud Landing Zone — a leading pharma company (2026-03 to present)
+  Modernised a cloud landing zone for a leading pharma company in pharma R&D using GCP, Terraform, Docker and Observability, accelerating releases by 35%.
+* Energy Trading Observability Stack — a fast-growing energy company (2025-01 to 2026-02)
+  Led the delivery of an observability stack for a fast-growing energy company in energy trading using Terraform and GCP, reducing production incidents by 30%.
+* Pharma R&D Observability Stack — a US pharma company (2024-05 to 2024-11)
+  Built an observability stack for a US pharma company in pharma R&D using Docker and FinOps, reducing production incidents by 30%.
+* Energy Trading Cloud Landing Zone — an APAC energy company (2023-02 to 2024-05)
+  Built a cloud landing zone for an APAC energy company in energy trading using Observability, GCP and Kubernetes, accelerating releases by 12%.
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: DevOps Engineer, Platform Engineer, Site Reliability Engineer, Cloud Engineer

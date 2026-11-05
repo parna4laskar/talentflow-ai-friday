@@ -1,0 +1,31 @@
+ZHI HAO CHUA
+Associate Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP12605
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.6 years of experience, based in Singapore. Strong in Java, REST API Design, SQL and GraphQL, with recent work in airline operations. Interested in moving towards Backend Engineer, Software Architect roles and open to relocating to New York, Hyderabad.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 0.8y), REST API Design (Proficient, 0.7y), GraphQL (Proficient, 0.6y), Microservices (Working, 0.6y), Spring Boot (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.5y)
+- Cloud & DevOps: Kubernetes (Proficient, 1.1y), Docker (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Working, 0.6y)
+
+EXPERIENCE
+* Insurance Claims Mobile Banking App — a fast-growing insurer (2026-06 to present)
+  Designed a mobile banking app for a fast-growing insurer in insurance claims using Communication, Kubernetes and GraphQL, improving conversion by 35%.
+* Retail Banking Self-service Portal — a European retail bank (2025-11 to 2026-05)
+  Re-architected a self-service portal for a European retail bank in retail banking using SQL, REST API Design and Docker, lifting NPS by 12 points.
+
+CERTIFICATIONS
+- AWS Certified Developer (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Mandarin, Marathi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Backend Engineer, Software Architect, Engineering Manager

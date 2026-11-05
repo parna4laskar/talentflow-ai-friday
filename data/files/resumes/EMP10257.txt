@@ -1,0 +1,28 @@
+RAHUL GAGNON
+Associate Site Reliability Engineer | Cloud & Infrastructure | Chennai, India
+Employee ID: EMP10257
+
+PROFESSIONAL SUMMARY
+Associate Site Reliability Engineer with 2.7 years of experience, based in Chennai. Strong in Site Reliability Engineering, Observability, Linux Administration and Terraform, with recent work in retail banking. Interested in moving towards DevOps Engineer, Cloud Engineer roles and open to relocating to Singapore, Austin, New York.
+
+CORE SKILLS
+- Cloud & DevOps: Site Reliability Engineering (Proficient, 1.8y), Observability (Proficient, 1.7y), Linux Administration (Proficient, 0.7y), Terraform (Proficient, 1.4y), Kubernetes (Working, 0.4y)
+- Security: Incident Response (Proficient, 1.8y)
+- Software Engineering: Go (Working, 0.5y)
+- Quality Engineering: Playwright (Working, 0.7y), Performance Testing (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing CI/CD Platform — a global telecom operator (2025-09 to present)
+  Scaled a CI/CD platform for a global telecom operator in telecom billing using Go and Playwright, accelerating releases by 18%.
+* Healthcare Cloud Landing Zone — a fast-growing hospital network (2025-01 to 2025-08)
+  Designed a cloud landing zone for a fast-growing hospital network in healthcare using Playwright and Performance Testing, cutting cloud spend by 35%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: DevOps Engineer, Cloud Engineer, Platform Engineer

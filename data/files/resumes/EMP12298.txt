@@ -1,0 +1,31 @@
+SIDDHARTH MEHTA
+Senior Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP12298
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6.2 years of experience, based in Chennai. Strong in TypeScript, SQL, REST API Design and React, with recent work in pharma R&D. Interested in moving towards Mobile Engineer roles and open to relocating to Dublin.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 5.6y), REST API Design (Advanced, 1.8y), React (Proficient, 2.6y), Java (Proficient, 2.6y), GraphQL (Proficient, 0.7y), Next.js (Working, 2.1y)
+- Data & AI: SQL (Advanced, 4.1y), Agentic AI (Proficient, 2.7y)
+- Cloud & DevOps: Docker (Proficient, 2.7y), AWS (Working, 3.0y)
+
+EXPERIENCE
+* Airline Operations Claims Processing Engine — a leading airline (2026-04 to present)
+  Built a claims processing engine for a leading airline in airline operations using Docker and TypeScript, reducing processing time by 22%.
+* Pharma R&D Payments Microservices Platform — a US pharma company (2024-09 to 2026-02)
+  Led the delivery of a payments microservices platform for a US pharma company in pharma R&D using React and GraphQL, reducing processing time by 40%.
+* Pharma R&D Pricing Engine — a fast-growing pharma company (2023-07 to 2024-07)
+  Led the delivery of a pricing engine for a fast-growing pharma company in pharma R&D using Java, TypeScript and REST API Design, reducing processing time by 12%.
+* Pharma R&D Claims Processing Engine — a tier-1 pharma company (2022-01 to 2023-05)
+  Re-architected a claims processing engine for a tier-1 pharma company in pharma R&D using Docker, SQL and Java, saving ~30K hours annually.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Mobile Engineer

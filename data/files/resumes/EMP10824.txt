@@ -1,0 +1,33 @@
+NIKHIL GOKHALE
+Lead Software Architect | Engineering | Pune, India
+Employee ID: EMP10824
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 14.7 years of experience, based in Pune. Strong in Microservices, REST API Design, System Design and Azure, with recent work in telecom billing. Interested in moving towards DevOps Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 3.6y), REST API Design (Expert, 6.9y), System Design (Advanced, 10.9y), Python (Proficient, 10.1y), Kafka (Proficient, 8.7y)
+- Delivery & Leadership: People Leadership (Expert, 3.1y), Mentoring (Advanced, 13.7y), Stakeholder Management (Advanced, 10.7y), Communication (Proficient, 1.5y)
+- Cloud & DevOps: Azure (Advanced, 14.6y), Kubernetes (Proficient, 3.7y)
+- Security: Cloud Security (Proficient, 7.5y)
+- Data & AI: Databricks (Proficient, 2.7y)
+
+EXPERIENCE
+* Telecom Billing Self-service Portal — a leading telecom operator (2025-07 to present)
+  Built a self-service portal for a leading telecom operator in telecom billing using Communication, REST API Design and Kubernetes, lifting NPS by 40 points.
+* Energy Trading Claims Processing Engine — a leading energy company (2024-09 to 2025-05)
+  Designed a claims processing engine for a leading energy company in energy trading using System Design, Kubernetes and Python, reducing processing time by 25%.
+* Insurance Claims Order Management System — a leading insurer (2023-07 to 2024-08)
+  Led the delivery of an order management system for a leading insurer in insurance claims using Communication, Cloud Security, Stakeholder Management and REST API Design, onboarding 3 new enterprise clients.
+* Telecom Billing Customer Onboarding Platform — a global telecom operator (2022-03 to 2023-04)
+  Designed a customer onboarding platform for a global telecom operator in telecom billing using Mentoring, Python and System Design, lifting NPS by 35 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: DevOps Engineer, Engineering Manager

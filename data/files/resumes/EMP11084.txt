@@ -1,0 +1,30 @@
+SITI CHUA
+CRM Consultant | Enterprise Applications | Singapore, Singapore
+Employee ID: EMP11084
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 2.9 years of experience, based in Singapore. Strong in Business Analysis, Salesforce, Requirements Gathering and Agile/Scrum, with recent work in telecom billing. Interested in moving towards SAP Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 0.5y), Salesforce (Working, 0.9y), Requirements Gathering (Working, 1.1y)
+- Delivery & Leadership: Agile/Scrum (Working, 1.0y), Communication (Working, 1.0y)
+- Data & AI: Responsible AI (Beginner, 0.4y)
+
+EXPERIENCE
+* Public Sector ERP Finance Rollout — a US government agency (2025-10 to present)
+  Automated an ERP finance rollout for a US government agency in public sector using Responsible AI, Communication and Business Analysis, reducing processing time by 25%.
+* HR Tech Service Desk Automation — a European HR software company (2024-08 to 2025-10)
+  Migrated a service desk automation for a European HR software company in HR tech using Requirements Gathering, Responsible AI, Agile/Scrum and Business Analysis, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2024)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: SAP Consultant

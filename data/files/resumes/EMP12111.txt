@@ -1,0 +1,31 @@
+HARSH KULKARNI
+Business Analyst | Business Consulting | Bengaluru, India
+Employee ID: EMP12111
+
+PROFESSIONAL SUMMARY
+Business Analyst with 3.4 years of experience, based in Bengaluru. Strong in Business Analysis, Requirements Gathering, Stakeholder Management and Salesforce, with recent work in healthcare. Interested in moving towards Product Manager, CRM Consultant roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Proficient, 1.5y), Requirements Gathering (Proficient, 1.2y), Salesforce (Proficient, 0.9y), Process Improvement (Working, 1.2y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 1.5y), Communication (Working, 1.2y)
+- Data & AI: Power BI (Beginner, 0.3y)
+
+EXPERIENCE
+* Telecom Billing Process Re-engineering Initiative — an APAC telecom operator (2026-01 to present)
+  Led a process re-engineering initiative for an APAC telecom operator in telecom billing using Power BI, Business Analysis, Requirements Gathering and Stakeholder Management, reducing processing time by 30%.
+* Public Sector Core Banking Transformation Programme — a European government agency (2025-02 to 2025-12)
+  Ran a core banking transformation programme for a European government agency in public sector using Salesforce, Requirements Gathering and Stakeholder Management, delivering on time across 6 workstreams.
+* E-commerce Core Banking Transformation Programme — a tier-1 online retailer (2023-10 to 2024-12)
+  Led a core banking transformation programme for a tier-1 online retailer in e-commerce using Salesforce, Requirements Gathering and Business Analysis, delivering on time across 3 workstreams.
+* Supply-chain Logistics Agile Transformation — a fast-growing logistics company (2022-10 to 2023-08)
+  Ran an agile transformation for a fast-growing logistics company in supply-chain logistics using Process Improvement, Salesforce, Communication and Power BI, accelerating releases by 35%.
+
+EDUCATION
+- BBA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Product Manager, CRM Consultant

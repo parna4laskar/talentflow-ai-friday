@@ -1,0 +1,34 @@
+MADISON MILLER
+Senior Product Manager | Product | New York, United States
+Employee ID: EMP10102
+
+PROFESSIONAL SUMMARY
+Senior Product Manager with 7.9 years of experience, based in New York. Strong in Product Management, Roadmapping, SQL and Stakeholder Management, with recent work in retail banking. Interested in moving towards Product Manager, Project Manager roles.
+
+CORE SKILLS
+- Product & Design: Product Management (Advanced, 1.0y), Roadmapping (Advanced, 5.3y), A/B Testing (Proficient, 0.5y), Product Strategy (Working, 2.9y)
+- Data & AI: SQL (Advanced, 5.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 5.0y), Communication (Proficient, 2.8y)
+
+EXPERIENCE
+* Media Streaming Checkout Experience — a European streaming platform (2025-06 to present)
+  Defined the roadmap for a checkout experience for a European streaming platform in media streaming using Communication, Stakeholder Management, Product Strategy and Roadmapping, lifting NPS by 30 points.
+* Supply-chain Logistics AI-assisted Customer Journey — a European logistics company (2024-07 to 2025-05)
+  Launched an AI-assisted customer journey for a European logistics company in supply-chain logistics using Roadmapping and Stakeholder Management, improving conversion by 18%.
+* Retail Banking Checkout Experience — a tier-1 retail bank (2023-07 to 2024-06)
+  Led discovery for a checkout experience for a tier-1 retail bank in retail banking using A/B Testing, Stakeholder Management and Roadmapping, improving conversion by 22%.
+* Retail Banking Checkout Experience — a US retail bank (2022-09 to 2023-05)
+  Led discovery for a checkout experience for a US retail bank in retail banking using Stakeholder Management, Communication, Product Management and SQL, improving conversion by 35%.
+
+CERTIFICATIONS
+- Pragmatic Institute PMC (2021)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, German
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Product Manager, Project Manager, Scrum Master, Business Analyst

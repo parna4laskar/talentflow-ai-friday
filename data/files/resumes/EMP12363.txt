@@ -1,0 +1,32 @@
+BHAVANA SEN
+Full Stack Engineer | Engineering | Chennai, India
+Employee ID: EMP12363
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3 years of experience, based in Chennai. Strong in TypeScript, Microservices, Python and SQL, with recent work in energy trading. Interested in moving towards Full Stack Engineer, AI Engineer roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 1.8y), Microservices (Advanced, 0.9y), Python (Proficient, 0.7y), Next.js (Proficient, 1.1y), React (Working, 1.0y), GraphQL (Working, 0.9y)
+- Data & AI: SQL (Proficient, 1.6y), dbt (Working, 1.3y)
+- Cloud & DevOps: AWS (Proficient, 0.6y), Docker (Working, 0.6y), Kubernetes (Working, 1.4y)
+- Delivery & Leadership: Communication (Working, 0.7y)
+
+EXPERIENCE
+* Energy Trading Pricing Engine — an APAC energy company (2026-09 to present)
+  Migrated a pricing engine for an APAC energy company in energy trading using Microservices and Python, improving conversion by 40%.
+* Airline Operations Pricing Engine — a leading airline (2026-02 to 2026-07)
+  Scaled a pricing engine for a leading airline in airline operations using SQL and TypeScript, reducing processing time by 40%.
+* Retail Banking Self-service Portal — a European retail bank (2025-05 to 2026-01)
+  Migrated a self-service portal for a European retail bank in retail banking using React and Docker, saving ~22K hours annually.
+* Payments Mobile Banking App — a fast-growing payments provider (2024-07 to 2025-02)
+  Re-architected a mobile banking app for a fast-growing payments provider in payments using Microservices and Kubernetes, improving conversion by 30%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, AI Engineer

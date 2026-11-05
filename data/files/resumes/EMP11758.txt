@@ -1,0 +1,35 @@
+AKASH DESHPANDE
+Senior QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP11758
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 9.3 years of experience, based in Pune. Strong in Test Automation, API Testing, Playwright and Python, with recent work in payments. Interested in moving towards Full Stack Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 5.3y), API Testing (Advanced, 5.9y), Playwright (Proficient, 1.2y), Performance Testing (Proficient, 5.5y)
+- Software Engineering: Python (Proficient, 4.4y)
+- Cloud & DevOps: CI/CD (Proficient, 2.8y)
+- Delivery & Leadership: Communication (Proficient, 2.7y), Agile/Scrum (Beginner, 1.4y)
+
+EXPERIENCE
+* Retail Banking Performance Engineering Programme — a fast-growing retail bank (2026-03 to present)
+  Built a performance engineering programme for a fast-growing retail bank in retail banking using Test Automation and Python, reducing production incidents by 22%.
+* Payments Performance Engineering Programme — a fast-growing payments provider (2025-04 to 2026-01)
+  Modernised a performance engineering programme for a fast-growing payments provider in payments using Playwright, Agile/Scrum and Test Automation, reducing production incidents by 18%.
+* Pharma R&D Test Automation Framework — an APAC pharma company (2023-12 to 2025-04)
+  Re-architected a test automation framework for an APAC pharma company in pharma R&D using Agile/Scrum, Communication and CI/CD, raising automated test coverage to 85%.
+* Automotive Test Automation Framework — a global car maker (2022-12 to 2023-10)
+  Automated a test automation framework for a global car maker in automotive using Communication, Python and Performance Testing, raising automated test coverage to 90%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2025)
+
+EDUCATION
+- B.E. Computer Engineering
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Full Stack Engineer, Mobile Engineer

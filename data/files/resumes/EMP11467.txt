@@ -1,0 +1,33 @@
+AISHA BROWN
+Principal QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP11467
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 21.8 years of experience, based in London. Strong in API Testing, Mentoring, Test Automation and Selenium, with recent work in supply-chain logistics. Interested in moving towards Mobile Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: API Testing (Expert, 21.8y), Test Automation (Advanced, 14.4y), Selenium (Advanced, 14.0y)
+- Delivery & Leadership: Mentoring (Expert, 14.1y), Stakeholder Management (Advanced, 6.3y)
+- Data & AI: SQL (Advanced, 1.7y)
+- Software Engineering: Python (Proficient, 3.1y)
+
+EXPERIENCE
+* Airline Operations Test Automation Framework — a European airline (2025-11 to present)
+  Re-architected a test automation framework for a European airline in airline operations using Test Automation, Selenium and Python, accelerating releases by 35%.
+* HR Tech Performance Engineering Programme — a global HR software company (2024-05 to 2025-10)
+  Modernised a performance engineering programme for a global HR software company in HR tech using SQL, API Testing and Test Automation, reducing production incidents by 25%.
+* Healthcare Performance Engineering Programme — a global hospital network (2023-02 to 2024-04)
+  Automated a performance engineering programme for a global hospital network in healthcare using Mentoring and Selenium, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2024)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, DevOps Engineer

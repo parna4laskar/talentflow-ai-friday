@@ -1,0 +1,33 @@
+RIYA SINGH
+Senior Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP12228
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 8.5 years of experience, based in Gurugram. Strong in SQL, React, Docker and Microservices, with recent work in payments. Interested in moving towards Full Stack Engineer, Frontend Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 2.9y)
+- Software Engineering: React (Advanced, 6.9y), Microservices (Advanced, 1.2y), TypeScript (Proficient, 2.1y), Node.js (Proficient, 5.2y), GraphQL (Proficient, 1.8y), REST API Design (Proficient, 5.8y)
+- Cloud & DevOps: Docker (Advanced, 3.4y), AWS (Working, 2.9y)
+- Delivery & Leadership: Communication (Proficient, 1.7y)
+
+EXPERIENCE
+* Payments Mobile Banking App — a global payments provider (2026-08 to present)
+  Designed a mobile banking app for a global payments provider in payments using Node.js, Docker, TypeScript and SQL, lifting NPS by 30 points.
+* Public Sector Customer Onboarding Platform — an APAC government agency (2025-03 to 2026-07)
+  Re-architected a customer onboarding platform for an APAC government agency in public sector using Docker, TypeScript and Node.js, improving conversion by 18%.
+* E-commerce Payments Microservices Platform — an APAC online retailer (2024-07 to 2025-01)
+  Designed a payments microservices platform for an APAC online retailer in e-commerce using Node.js, SQL and TypeScript, reducing processing time by 18%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, Frontend Engineer, Mobile Engineer, AI Engineer

@@ -1,0 +1,29 @@
+KACPER KAMIŃSKI
+Senior SAP Consultant | Enterprise Applications | Kraków, Poland
+Employee ID: EMP11797
+
+PROFESSIONAL SUMMARY
+Senior SAP Consultant with 6.3 years of experience, based in Kraków. Strong in Business Analysis, SAP S/4HANA, Process Improvement and Financial Modeling, with recent work in retail banking. Interested in moving towards SAP Consultant, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Business Analysis (Expert, 6.2y), SAP S/4HANA (Advanced, 5.6y), Process Improvement (Advanced, 2.7y), Financial Modeling (Proficient, 4.7y), Financial Analysis (Working, 2.4y), Requirements Gathering (Working, 2.1y)
+
+EXPERIENCE
+* Insurance Claims ERP Finance Rollout — a European insurer (2026-11 to present)
+  Re-architected an ERP finance rollout for a European insurer in insurance claims using Business Analysis and Financial Analysis, saving ~30K hours annually.
+* Payments ERP Finance Rollout — a fast-growing payments provider (2026-06 to 2026-11)
+  Built an ERP finance rollout for a fast-growing payments provider in payments using Process Improvement, Business Analysis, Financial Modeling and Financial Analysis, saving ~35K hours annually.
+* Retail Banking ERP Finance Rollout — a leading retail bank (2024-11 to 2026-05)
+  Automated an ERP finance rollout for a leading retail bank in retail banking using Financial Analysis, Financial Modeling and Process Improvement, saving ~35K hours annually.
+* Retail Banking CRM Rollout — a US retail bank (2023-12 to 2024-09)
+  Migrated a CRM rollout for a US retail bank in retail banking using SAP S/4HANA and Process Improvement, reducing processing time by 22%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: SAP Consultant, Risk & Compliance Analyst

@@ -1,0 +1,26 @@
+ANANYA SUBRAMANIAN
+Associate Data Engineer | Data & Analytics | Gurugram, India
+Employee ID: EMP10435
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.1 years of experience, based in Gurugram. Strong in SQL, Python, dbt and Data Governance, with recent work in energy trading. Interested in moving towards Data Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Proficient, 0.3y), dbt (Working, 0.3y), Data Governance (Working, 0.3y), Snowflake (Working, 0.3y), LLM Engineering (Working, 0.3y), Data Engineering (Beginner, 0.3y), Apache Spark (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 0.3y), Kafka (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Regulatory Reporting Suite — a leading energy company (2025-05 to present)
+  Led the delivery of a regulatory reporting suite for a leading energy company in energy trading using Python, SQL and dbt, reducing processing time by 40%.
+* Energy Trading Customer Churn Model — a fast-growing energy company (2023-12 to 2025-05)
+  Built a customer churn model for a fast-growing energy company in energy trading using Snowflake, Data Engineering, Kafka and LLM Engineering, improving conversion by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Data Engineer, AI Engineer, Data Scientist, Data Analyst

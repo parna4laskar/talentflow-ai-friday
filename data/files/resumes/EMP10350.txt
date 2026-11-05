@@ -1,0 +1,29 @@
+SWATI KRISHNAN
+Senior Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP10350
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.7 years of experience, based in Hyderabad. Strong in Java, REST API Design, Microservices and AWS, with recent work in telecom billing. Interested in moving towards DevOps Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 8.2y), REST API Design (Advanced, 8.3y), Microservices (Advanced, 9.5y), System Design (Proficient, 3.0y), Kafka (Proficient, 7.2y), Spring Boot (Working, 3.4y)
+- Cloud & DevOps: AWS (Advanced, 9.4y)
+- Data & AI: SQL (Proficient, 0.7y)
+
+EXPERIENCE
+* Healthcare Order Management System — a tier-1 hospital network (2025-10 to present)
+  Re-architected an order management system for a tier-1 hospital network in healthcare using AWS and System Design, onboarding 4 new enterprise clients.
+* HR Tech Self-service Portal — a leading HR software company (2024-03 to 2025-08)
+  Migrated a self-service portal for a leading HR software company in HR tech using Kafka, Microservices, SQL and Spring Boot, saving ~35K hours annually.
+* Telecom Billing Customer Onboarding Platform — a European telecom operator (2023-08 to 2024-01)
+  Built a customer onboarding platform for a European telecom operator in telecom billing using AWS, System Design, Kafka and Spring Boot, improving conversion by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, AI Engineer

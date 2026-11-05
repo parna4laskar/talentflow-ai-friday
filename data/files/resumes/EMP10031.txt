@@ -1,0 +1,30 @@
+JACK SMITH
+Senior SAP Consultant | Enterprise Applications | London, United Kingdom
+Employee ID: EMP10031
+
+PROFESSIONAL SUMMARY
+Senior SAP Consultant with 7.9 years of experience, based in London. Strong in SAP FICO, Business Analysis, SAP S/4HANA and Financial Analysis, with recent work in e-commerce. Interested in moving towards SAP Consultant, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: SAP FICO (Advanced, 3.6y), Business Analysis (Advanced, 5.1y), SAP S/4HANA (Proficient, 1.5y), Financial Analysis (Proficient, 4.7y), Requirements Gathering (Working, 0.5y)
+- Delivery & Leadership: Communication (Proficient, 0.8y)
+
+EXPERIENCE
+* HR Tech ERP Finance Rollout — a tier-1 HR software company (2026-09 to present)
+  Automated an ERP finance rollout for a tier-1 HR software company in HR tech using Requirements Gathering, Financial Analysis and Business Analysis, saving ~35K hours annually.
+* E-commerce ERP Finance Rollout — a fast-growing online retailer (2025-12 to 2026-07)
+  Automated an ERP finance rollout for a fast-growing online retailer in e-commerce using SAP S/4HANA and Communication, saving ~30K hours annually.
+* E-commerce ERP Finance Rollout — a US online retailer (2025-05 to 2025-10)
+  Scaled an ERP finance rollout for a US online retailer in e-commerce using SAP S/4HANA, Communication, Financial Analysis and Business Analysis, saving ~12K hours annually.
+* E-commerce ERP Finance Rollout — a fast-growing online retailer (2024-01 to 2025-03)
+  Built an ERP finance rollout for a fast-growing online retailer in e-commerce using Business Analysis, SAP S/4HANA and Communication, saving ~22K hours annually.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: SAP Consultant, Risk & Compliance Analyst, Business Analyst

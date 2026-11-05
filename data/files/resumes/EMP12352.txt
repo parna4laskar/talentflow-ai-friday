@@ -1,0 +1,29 @@
+CHLOE WILLIAMS
+Senior Data Scientist | Data & Analytics | London, United Kingdom
+Employee ID: EMP12352
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 6.9 years of experience, based in London. Strong in SQL, Python, Machine Learning and Statistics, with recent work in supply-chain logistics. Interested in moving towards AI Engineer, Data Analyst roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 4.1y), Machine Learning (Proficient, 3.0y), Statistics (Proficient, 1.8y), MLOps (Proficient, 3.6y), Generative AI (Proficient, 4.8y), Apache Spark (Working, 0.7y), Data Visualization (Working, 1.0y), Deep Learning (Beginner, 0.7y)
+- Software Engineering: Python (Proficient, 5.1y)
+- Delivery & Leadership: Communication (Proficient, 4.5y)
+
+EXPERIENCE
+* Airline Operations Data Lakehouse — a leading airline (2026-05 to present)
+  Automated a data lakehouse for a leading airline in airline operations using Statistics and Communication, cutting cloud spend by 18%.
+* Energy Trading Executive KPI Dashboard Suite — a leading energy company (2024-12 to 2026-03)
+  Migrated an executive KPI dashboard suite for a leading energy company in energy trading using Communication, Generative AI and SQL, saving ~18K hours annually.
+* Supply-chain Logistics Data Lakehouse — a fast-growing logistics company (2023-09 to 2024-09)
+  Modernised a data lakehouse for a fast-growing logistics company in supply-chain logistics using Apache Spark, SQL and Generative AI, reducing processing time by 35%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: AI Engineer, Data Analyst

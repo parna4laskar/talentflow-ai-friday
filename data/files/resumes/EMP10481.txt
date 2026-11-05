@@ -1,0 +1,30 @@
+IMRAN CHATTERJEE
+Lead Site Reliability Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10481
+
+PROFESSIONAL SUMMARY
+Lead Site Reliability Engineer with 10.9 years of experience, based in Bengaluru. Strong in Observability, Kubernetes, Linux Administration and Go, with recent work in airline operations. Interested in moving towards Site Reliability Engineer, Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Observability (Expert, 8.6y), Kubernetes (Expert, 6.0y), Linux Administration (Advanced, 8.0y), Site Reliability Engineering (Proficient, 7.9y)
+- Software Engineering: Go (Advanced, 1.0y)
+- Delivery & Leadership: Mentoring (Advanced, 6.1y)
+- Quality Engineering: Performance Testing (Proficient, 7.6y)
+
+EXPERIENCE
+* Airline Operations CI/CD Platform — a European airline (2026-07 to present)
+  Built a CI/CD platform for a European airline in airline operations using Mentoring, Kubernetes and Observability, accelerating releases by 25%.
+* Payments Cloud Landing Zone — an APAC payments provider (2024-11 to 2026-04)
+  Modernised a cloud landing zone for an APAC payments provider in payments using Mentoring, Site Reliability Engineering, Go and Kubernetes, cutting cloud spend by 18%.
+* Airline Operations Observability Stack — a US airline (2023-10 to 2024-10)
+  Automated an observability stack for a US airline in airline operations using Mentoring, Performance Testing and Observability, reducing production incidents by 35%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Site Reliability Engineer, Security Engineer

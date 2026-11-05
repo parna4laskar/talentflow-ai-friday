@@ -1,0 +1,26 @@
+ANIRUDH SHAH
+Associate Full Stack Engineer | Engineering | Pune, India
+Employee ID: EMP12781
+
+PROFESSIONAL SUMMARY
+Associate Full Stack Engineer with 0.5 years of experience, based in Pune. Strong in React, SQL, Microservices and TypeScript, with recent work in insurance claims. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Expert, 0.5y), Microservices (Proficient, 0.4y), TypeScript (Working, 0.3y), Java (Working, 0.3y), GraphQL (Working, 0.3y), REST API Design (Working, 0.3y), C# (Beginner, 0.3y)
+- Data & AI: SQL (Proficient, 0.4y)
+
+EXPERIENCE
+* Insurance Claims Pricing Engine — an APAC insurer (2025-11 to present)
+  Migrated a pricing engine for an APAC insurer in insurance claims using C#, GraphQL and Microservices, improving conversion by 35%.
+* Insurance Claims Pricing Engine — a global insurer (2024-07 to 2025-09)
+  Migrated a pricing engine for a global insurer in insurance claims using GraphQL, Java and C#, improving conversion by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer, AI Engineer, Mobile Engineer

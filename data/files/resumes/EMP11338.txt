@@ -1,0 +1,33 @@
+PRIYA THOMAS
+QA Engineer | Quality Engineering | London, United Kingdom
+Employee ID: EMP11338
+
+PROFESSIONAL SUMMARY
+QA Engineer with 3.5 years of experience, based in London. Strong in Test Automation, Selenium, API Testing and CI/CD, with recent work in public sector. Interested in moving towards QA Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 1.6y), Selenium (Advanced, 2.3y), API Testing (Proficient, 1.4y)
+- Cloud & DevOps: CI/CD (Proficient, 1.4y)
+- Software Engineering: Python (Working, 0.9y)
+- Data & AI: SQL (Working, 1.4y)
+- Delivery & Leadership: Communication (Beginner, 0.4y)
+
+EXPERIENCE
+* Pharma R&D API Contract-testing Suite — an APAC pharma company (2026-05 to present)
+  Automated an API contract-testing suite for an APAC pharma company in pharma R&D using Selenium, API Testing and Test Automation, raising automated test coverage to 90%.
+* Public Sector Test Automation Framework — a global government agency (2025-06 to 2026-02)
+  Modernised a test automation framework for a global government agency in public sector using API Testing, Selenium and Python, accelerating releases by 30%.
+* Public Sector API Contract-testing Suite — a tier-1 government agency (2024-07 to 2025-03)
+  Scaled an API contract-testing suite for a tier-1 government agency in public sector using Python, API Testing and Test Automation, raising automated test coverage to 90%.
+* Pharma R&D API Contract-testing Suite — an APAC pharma company (2024-02 to 2024-07)
+  Designed an API contract-testing suite for an APAC pharma company in pharma R&D using SQL, API Testing, Python and Test Automation, raising automated test coverage to 85%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: QA Engineer, Full Stack Engineer

@@ -1,0 +1,35 @@
+EMMA GARCIA
+Principal Backend Engineer | Engineering | New York, United States
+Employee ID: EMP10521
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 23.8 years of experience, based in New York. Strong in REST API Design, Microservices, GraphQL and Stakeholder Management, with recent work in payments. Interested in moving towards Software Architect, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Expert, 22.9y), Microservices (Expert, 5.7y), GraphQL (Expert, 13.0y), Python (Advanced, 2.3y), Spring Boot (Proficient, 8.5y)
+- Delivery & Leadership: Stakeholder Management (Expert, 3.2y), People Leadership (Expert, 5.2y), Mentoring (Working, 0.3y)
+- Data & AI: SQL (Advanced, 18.5y)
+- Cloud & DevOps: AWS (Advanced, 18.8y), CI/CD (Advanced, 21.2y), Kubernetes (Proficient, 8.2y)
+
+EXPERIENCE
+* Payments Customer Onboarding Platform — a European payments provider (2026-07 to present)
+  Migrated a customer onboarding platform for a European payments provider in payments using Python and SQL, reducing processing time by 25%.
+* Payments Order Management System — a global payments provider (2024-10 to 2026-04)
+  Re-architected an order management system for a global payments provider in payments using Kubernetes, Microservices and GraphQL, reducing processing time by 30%.
+* Supply-chain Logistics Order Management System — a European logistics company (2023-05 to 2024-08)
+  Automated an order management system for a European logistics company in supply-chain logistics using AWS and Mentoring, reducing processing time by 18%.
+* HR Tech Payments Microservices Platform — a leading HR software company (2022-07 to 2023-03)
+  Led the delivery of a payments microservices platform for a leading HR software company in HR tech using GraphQL, SQL and REST API Design, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2024)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, Engineering Manager

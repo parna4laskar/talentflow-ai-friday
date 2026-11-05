@@ -1,0 +1,33 @@
+SANJANA PILLAI
+Senior Security Analyst | Cyber Security | Pune, India
+Employee ID: EMP10047
+
+PROFESSIONAL SUMMARY
+Senior Security Analyst with 8.7 years of experience, based in Pune. Strong in Linux Administration, SIEM, Threat Modeling and Kubernetes, with recent work in energy trading. Interested in moving towards Security Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Linux Administration (Advanced, 6.9y), Kubernetes (Proficient, 1.0y)
+- Security: SIEM (Proficient, 0.4y), Threat Modeling (Proficient, 4.3y), Incident Response (Working, 2.7y)
+
+EXPERIENCE
+* Payments Identity and Access Platform — a US payments provider (2026-05 to present)
+  Automated an identity and access platform for a US payments provider in payments using Linux Administration, SIEM, Kubernetes and Incident Response, closing 30% of open audit findings.
+* Payments Identity and Access Platform — a leading payments provider (2024-12 to 2026-03)
+  Built an identity and access platform for a leading payments provider in payments using Incident Response and Threat Modeling, closing 18% of open audit findings.
+* Retail Banking Secure SDLC Rollout — a leading retail bank (2024-01 to 2024-11)
+  Modernised a secure SDLC rollout for a leading retail bank in retail banking using Threat Modeling, Incident Response, Kubernetes and Linux Administration, accelerating releases by 12%.
+* Energy Trading Secure SDLC Rollout — a US energy company (2023-02 to 2023-12)
+  Re-architected a secure SDLC rollout for a US energy company in energy trading using SIEM and Threat Modeling, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- CySA+ (2024)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Security Engineer

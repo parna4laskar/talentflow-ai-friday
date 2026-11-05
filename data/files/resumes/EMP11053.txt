@@ -1,0 +1,28 @@
+AISHA SMITH
+Associate Platform Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP11053
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 2.8 years of experience, based in London. Strong in Kubernetes, Go, Platform Engineering and Terraform, with recent work in energy trading. Interested in moving towards Platform Engineer, Backend Engineer roles and open to relocating to Dublin, Austin.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Proficient, 1.6y), Platform Engineering (Working, 1.2y), Terraform (Working, 1.2y), CI/CD (Working, 0.6y), Observability (Working, 1.0y)
+- Software Engineering: Go (Proficient, 1.8y), Python (Beginner, 0.6y)
+- Data & AI: MLOps (Working, 1.3y)
+- Delivery & Leadership: Communication (Beginner, 0.4y)
+
+EXPERIENCE
+* Energy Trading Cloud Landing Zone — a leading energy company (2026-01 to present)
+  Modernised a cloud landing zone for a leading energy company in energy trading using Platform Engineering, Go and Terraform, cutting cloud spend by 12%.
+* Insurance Claims Cloud Landing Zone — a tier-1 insurer (2025-04 to 2025-11)
+  Migrated a cloud landing zone for a tier-1 insurer in insurance claims using CI/CD and Observability, accelerating releases by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Backend Engineer, DevOps Engineer, Cloud Engineer

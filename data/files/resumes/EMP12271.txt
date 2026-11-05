@@ -1,0 +1,29 @@
+NOAH MARTINEZ
+Senior Security Analyst | Cyber Security | New York, United States
+Employee ID: EMP12271
+
+PROFESSIONAL SUMMARY
+Senior Security Analyst with 8.9 years of experience, based in New York. Strong in SIEM, Incident Response, GRC and Python, with recent work in telecom billing. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Security: SIEM (Proficient, 5.9y), Incident Response (Proficient, 1.1y), GRC (Proficient, 1.7y), Threat Modeling (Proficient, 2.5y), Cloud Security (Proficient, 0.8y)
+- Software Engineering: Python (Proficient, 4.9y)
+- Cloud & DevOps: Linux Administration (Proficient, 2.0y)
+
+EXPERIENCE
+* Telecom Billing Identity and Access Platform — a fast-growing telecom operator (2026-09 to present)
+  Scaled an identity and access platform for a fast-growing telecom operator in telecom billing using Incident Response, Python, Linux Administration and Threat Modeling, closing 12% of open audit findings.
+* Telecom Billing Security Operations Centre Uplift — a leading telecom operator (2026-03 to 2026-07)
+  Migrated a security operations centre uplift for a leading telecom operator in telecom billing using GRC, Python, Cloud Security and Linux Administration, reducing production incidents by 22%.
+* Airline Operations Identity and Access Platform — an APAC airline (2025-06 to 2025-12)
+  Re-architected an identity and access platform for an APAC airline in airline operations using Incident Response, Linux Administration, Cloud Security and SIEM, reducing production incidents by 40%.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer

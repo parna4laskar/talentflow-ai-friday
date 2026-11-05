@@ -1,0 +1,35 @@
+JAKUB MACDONALD
+Lead Backend Engineer | Engineering | Kraków, Poland
+Employee ID: EMP11304
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 15 years of experience, based in Kraków. Strong in Go, REST API Design, SQL and Microservices, with recent work in public sector. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Go (Expert, 10.1y), REST API Design (Expert, 15.0y), Microservices (Advanced, 13.9y), .NET Core (Proficient, 0.7y), GraphQL (Proficient, 9.4y)
+- Data & AI: SQL (Advanced, 4.6y)
+- Cloud & DevOps: Docker (Advanced, 12.1y), CI/CD (Advanced, 3.9y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.1y), Communication (Proficient, 4.1y)
+
+EXPERIENCE
+* Public Sector Claims Processing Engine — a fast-growing government agency (2025-10 to present)
+  Modernised a claims processing engine for a fast-growing government agency in public sector using Docker, Microservices, REST API Design and SQL, reducing processing time by 40%.
+* Public Sector Payments Microservices Platform — an APAC government agency (2024-06 to 2025-10)
+  Led the delivery of a payments microservices platform for an APAC government agency in public sector using Microservices, SQL and Docker, reducing production incidents by 25%.
+* Public Sector Customer Onboarding Platform — a US government agency (2022-11 to 2024-04)
+  Re-architected a customer onboarding platform for a US government agency in public sector using SQL, Docker, REST API Design and Communication, improving conversion by 18%.
+* Public Sector Payments Microservices Platform — a global government agency (2021-11 to 2022-10)
+  Migrated a payments microservices platform for a global government agency in public sector using GraphQL, REST API Design and .NET Core, accelerating releases by 30%.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect

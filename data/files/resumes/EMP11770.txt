@@ -1,0 +1,31 @@
+FÉLIX TREMBLAY
+Senior Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP11770
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 9.7 years of experience, based in Toronto. Strong in SQL, System Design, dbt and REST API Design, with recent work in public sector. Interested in moving towards DevOps Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 8.2y), dbt (Advanced, 1.1y)
+- Software Engineering: System Design (Advanced, 6.6y), REST API Design (Proficient, 6.0y), Microservices (Proficient, 2.3y), Go (Working, 3.8y)
+- Delivery & Leadership: Communication (Proficient, 6.9y)
+- Cloud & DevOps: CI/CD (Working, 2.1y)
+- People & Marketing: People Analytics (Beginner, 1.8y)
+
+EXPERIENCE
+* Automotive Payments Microservices Platform — a leading car maker (2025-11 to present)
+  Re-architected a payments microservices platform for a leading car maker in automotive using Microservices and Go, accelerating releases by 25%.
+* Public Sector Mobile Banking App — a global government agency (2024-03 to 2025-08)
+  Designed a mobile banking app for a global government agency in public sector using CI/CD, SQL and Microservices, improving conversion by 12%.
+* Public Sector Customer Onboarding Platform — a European government agency (2022-07 to 2024-01)
+  Scaled a customer onboarding platform for a European government agency in public sector using SQL, CI/CD and System Design, improving conversion by 22%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, French, German
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: DevOps Engineer, AI Engineer, Engineering Manager

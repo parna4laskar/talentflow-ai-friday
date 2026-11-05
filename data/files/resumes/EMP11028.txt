@@ -1,0 +1,29 @@
+SURESH JOSHI
+Risk & Compliance Analyst | Risk & Compliance | Hyderabad, India
+Employee ID: EMP11028
+
+PROFESSIONAL SUMMARY
+Risk & Compliance Analyst with 5.8 years of experience, based in Hyderabad. Strong in GRC, Risk Management, Financial Analysis and Data Engineering, with recent work in wealth management. Interested in moving towards SAP Consultant, Security Analyst roles and open to relocating to Singapore, London, Bengaluru.
+
+CORE SKILLS
+- Security: GRC (Advanced, 2.5y)
+- Business & Finance: Risk Management (Proficient, 3.7y), Financial Analysis (Proficient, 1.5y), Regulatory Compliance (Working, 0.3y)
+- Data & AI: Data Engineering (Proficient, 3.6y), Data Governance (Working, 1.8y), Responsible AI (Working, 1.6y), SQL (Working, 1.5y)
+
+EXPERIENCE
+* Supply-chain Logistics Cost Transformation Programme — a leading logistics company (2026-09 to present)
+  Redesigned a cost transformation programme for a leading logistics company in supply-chain logistics using Data Governance, Regulatory Compliance and Responsible AI, delivering $2M in cost savings.
+* Pharma R&D Rolling Forecasting Model — a leading pharma company (2025-08 to 2026-06)
+  Led a rolling forecasting model for a leading pharma company in pharma R&D using Data Governance, Risk Management, SQL and Data Engineering, improving forecast accuracy by 25%.
+* Airline Operations Rolling Forecasting Model — a global airline (2024-08 to 2025-07)
+  Owned a rolling forecasting model for a global airline in airline operations using Regulatory Compliance, Risk Management, SQL and GRC, improving forecast accuracy by 30%.
+
+EDUCATION
+- LLB
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: SAP Consultant, Security Analyst

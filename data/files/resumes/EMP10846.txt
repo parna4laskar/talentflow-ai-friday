@@ -1,0 +1,30 @@
+ANJALI JOSHI
+QA Engineer | Quality Engineering | Hyderabad, India
+Employee ID: EMP10846
+
+PROFESSIONAL SUMMARY
+QA Engineer with 5.2 years of experience, based in Hyderabad. Strong in Test Automation, Performance Testing, Selenium and API Testing, with recent work in retail banking. Interested in moving towards QA Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 2.2y), Performance Testing (Proficient, 2.3y), Selenium (Working, 1.8y), API Testing (Working, 1.4y)
+- Software Engineering: Java (Beginner, 1.2y)
+
+EXPERIENCE
+* Retail Banking Performance Engineering Programme — a tier-1 retail bank (2026-02 to present)
+  Migrated a performance engineering programme for a tier-1 retail bank in retail banking using Java and API Testing, reducing production incidents by 30%.
+* Retail Banking Performance Engineering Programme — a fast-growing retail bank (2025-05 to 2025-12)
+  Automated a performance engineering programme for a fast-growing retail bank in retail banking using Test Automation, API Testing, Java and Selenium, reducing production incidents by 40%.
+* E-commerce API Contract-testing Suite — a leading online retailer (2024-06 to 2025-03)
+  Modernised an API contract-testing suite for a leading online retailer in e-commerce using Test Automation and Java, reducing production incidents by 25%.
+* Retail Banking API Contract-testing Suite — a global retail bank (2022-12 to 2024-05)
+  Automated an API contract-testing suite for a global retail bank in retail banking using Selenium and Test Automation, reducing production incidents by 40%.
+
+EDUCATION
+- BCA
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: QA Engineer, Backend Engineer, Engineering Manager

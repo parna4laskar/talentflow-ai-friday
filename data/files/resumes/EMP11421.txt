@@ -1,0 +1,34 @@
+MATTHEW ANDERSON
+Principal Backend Engineer | Engineering | Austin, United States
+Employee ID: EMP11421
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 20.8 years of experience, based in Austin. Strong in Python, REST API Design, SQL and Microservices, with recent work in healthcare. Interested in moving towards Engineering Manager roles and open to relocating to Singapore.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 7.6y), REST API Design (Advanced, 5.4y), Microservices (Advanced, 18.3y), GraphQL (Advanced, 7.5y), System Design (Advanced, 11.2y), .NET Core (Working, 8.1y)
+- Data & AI: SQL (Advanced, 6.1y)
+- Cloud & DevOps: AWS (Advanced, 11.4y)
+- Delivery & Leadership: Mentoring (Advanced, 3.0y), Communication (Advanced, 3.0y), People Leadership (Advanced, 5.1y)
+
+EXPERIENCE
+* Healthcare Claims Processing Engine — a global hospital network (2026-08 to present)
+  Designed a claims processing engine for a global hospital network in healthcare using SQL and Python, reducing processing time by 30%.
+* Healthcare Customer Onboarding Platform — a European hospital network (2025-01 to 2026-06)
+  Built a customer onboarding platform for a European hospital network in healthcare using SQL and System Design, reducing processing time by 30%.
+* Healthcare Order Management System — a fast-growing hospital network (2023-08 to 2024-12)
+  Designed an order management system for a fast-growing hospital network in healthcare using Communication, .NET Core and Mentoring, reducing processing time by 35%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+- Oracle Java SE Professional (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, German
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Engineering Manager

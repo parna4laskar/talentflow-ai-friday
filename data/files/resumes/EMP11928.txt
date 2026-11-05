@@ -1,0 +1,31 @@
+DANIEL WILLIAMS
+Senior Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11928
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 6 years of experience, based in London. Strong in React, Node.js, TypeScript and SQL, with recent work in automotive. Interested in moving towards Software Architect, Backend Engineer roles and open to relocating to New York, Bengaluru.
+
+CORE SKILLS
+- Software Engineering: React (Advanced, 1.2y), Node.js (Advanced, 2.9y), TypeScript (Proficient, 1.5y), Microservices (Proficient, 2.1y), REST API Design (Proficient, 0.7y), GraphQL (Working, 0.7y)
+- Data & AI: SQL (Proficient, 2.1y)
+- Cloud & DevOps: AWS (Proficient, 0.5y)
+
+EXPERIENCE
+* Automotive Mobile Banking App — a leading car maker (2025-10 to present)
+  Modernised a mobile banking app for a leading car maker in automotive using React, GraphQL, TypeScript and SQL, improving conversion by 18%.
+* Automotive Self-service Portal — a US car maker (2024-03 to 2025-09)
+  Modernised a self-service portal for a US car maker in automotive using Microservices, Node.js, TypeScript and REST API Design, saving ~35K hours annually.
+* Automotive Pricing Engine — a tier-1 car maker (2023-06 to 2024-03)
+  Automated a pricing engine for a tier-1 car maker in automotive using TypeScript and Node.js, reducing processing time by 35%.
+* Automotive Order Management System — a European car maker (2022-06 to 2023-05)
+  Built an order management system for a European car maker in automotive using AWS and GraphQL, reducing processing time by 35%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Software Architect, Backend Engineer

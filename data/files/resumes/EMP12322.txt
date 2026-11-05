@@ -1,0 +1,33 @@
+MATTHEW NGUYEN
+Senior Mobile Engineer | Engineering | Austin, United States
+Employee ID: EMP12322
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 8.2 years of experience, based in Austin. Strong in Mobile Development, UI Design, Flutter and CI/CD, with recent work in payments. Interested in moving towards Frontend Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 8.1y), Flutter (Proficient, 5.3y), TypeScript (Working, 0.9y), REST API Design (Working, 1.7y)
+- Product & Design: UI Design (Advanced, 1.3y)
+- Cloud & DevOps: CI/CD (Proficient, 6.0y)
+- Quality Engineering: Test Automation (Working, 3.5y), Playwright (Working, 2.1y)
+- Data & AI: Responsible AI (Working, 0.3y)
+
+EXPERIENCE
+* Automotive Payments Microservices Platform — a global car maker (2026-03 to present)
+  Scaled a payments microservices platform for a global car maker in automotive using CI/CD and Mobile Development, reducing production incidents by 30%.
+* Airline Operations Order Management System — a tier-1 airline (2025-02 to 2026-01)
+  Automated an order management system for a tier-1 airline in airline operations using Mobile Development and Playwright, onboarding 6 new enterprise clients.
+* Payments Order Management System — a global payments provider (2023-08 to 2024-11)
+  Scaled an order management system for a global payments provider in payments using Flutter and Mobile Development, onboarding 6 new enterprise clients.
+* Payments Customer Onboarding Platform — a tier-1 payments provider (2022-07 to 2023-07)
+  Migrated a customer onboarding platform for a tier-1 payments provider in payments using UI Design and Test Automation, reducing processing time by 30%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Frontend Engineer

@@ -1,0 +1,31 @@
+SOPHIA CHEN
+Principal Engineering Manager | Engineering | New York, United States
+Employee ID: EMP10366
+
+PROFESSIONAL SUMMARY
+Principal Engineering Manager with 17.1 years of experience, based in New York. Strong in People Leadership, System Design, Agile/Scrum and Java, with recent work in automotive. Interested in moving towards Backend Engineer, Scrum Master roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Expert, 16.3y), Agile/Scrum (Expert, 2.8y), Stakeholder Management (Advanced, 4.0y), Mentoring (Advanced, 13.8y), Communication (Proficient, 1.3y)
+- Software Engineering: System Design (Expert, 9.5y), Java (Expert, 17.1y), Microservices (Proficient, 8.4y)
+- Cloud & DevOps: AWS (Proficient, 8.6y)
+
+EXPERIENCE
+* Manufacturing IoT Customer Onboarding Platform — a tier-1 manufacturer (2026-04 to present)
+  Modernised a customer onboarding platform for a tier-1 manufacturer in manufacturing IoT using Mentoring, Agile/Scrum, System Design and Stakeholder Management, improving conversion by 18%.
+* Manufacturing IoT Order Management System — a leading manufacturer (2025-05 to 2026-03)
+  Re-architected an order management system for a leading manufacturer in manufacturing IoT using Stakeholder Management, Mentoring and People Leadership, onboarding 6 new enterprise clients.
+* Automotive Pricing Engine — a global car maker (2024-04 to 2025-04)
+  Re-architected a pricing engine for a global car maker in automotive using Microservices, Stakeholder Management and Communication, improving conversion by 12%.
+* Healthcare Self-service Portal — a European hospital network (2022-11 to 2024-04)
+  Modernised a self-service portal for a European hospital network in healthcare using Stakeholder Management, Communication, AWS and Agile/Scrum, lifting NPS by 30 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Scrum Master, Software Architect

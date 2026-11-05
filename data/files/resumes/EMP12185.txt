@@ -1,0 +1,31 @@
+SIDDHARTH BOSE
+Frontend Engineer | Engineering | Bengaluru, India
+Employee ID: EMP12185
+
+PROFESSIONAL SUMMARY
+Frontend Engineer with 3.5 years of experience, based in Bengaluru. Strong in TypeScript, React, JavaScript and Playwright, with recent work in payments. Interested in moving towards Frontend Engineer, Mobile Engineer roles and open to relocating to New York, Austin.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.8y), React (Advanced, 1.6y), JavaScript (Proficient, 1.4y), Next.js (Proficient, 0.9y)
+- Quality Engineering: Playwright (Proficient, 1.9y)
+- Product & Design: Figma (Working, 0.9y)
+- Delivery & Leadership: Communication (Working, 1.7y)
+- Cloud & DevOps: CI/CD (Beginner, 0.6y)
+
+EXPERIENCE
+* HR Tech Payments Microservices Platform — a fast-growing HR software company (2026-03 to present)
+  Scaled a payments microservices platform for a fast-growing HR software company in HR tech using CI/CD, React and JavaScript, accelerating releases by 12%.
+* HR Tech Mobile Banking App — a tier-1 HR software company (2024-10 to 2026-02)
+  Re-architected a mobile banking app for a tier-1 HR software company in HR tech using CI/CD and Figma, lifting NPS by 18 points.
+* Payments Payments Microservices Platform — a fast-growing payments provider (2023-10 to 2024-07)
+  Built a payments microservices platform for a fast-growing payments provider in payments using Playwright, JavaScript and Figma, accelerating releases by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Telugu
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Frontend Engineer, Mobile Engineer, Full Stack Engineer

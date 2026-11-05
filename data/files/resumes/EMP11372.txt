@@ -1,0 +1,33 @@
+MIA MARTINEZ
+Data Analyst | Data & Analytics | Austin, United States
+Employee ID: EMP11372
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4.5 years of experience, based in Austin. Strong in Data Visualization, SQL, Tableau and A/B Testing, with recent work in e-commerce. Interested in moving towards Product Manager roles.
+
+CORE SKILLS
+- Data & AI: Data Visualization (Proficient, 1.7y), SQL (Working, 1.4y), Tableau (Working, 0.8y), Snowflake (Working, 1.0y)
+- Product & Design: A/B Testing (Working, 0.9y), UX Research (Beginner, 1.0y)
+- Business & Finance: Business Analysis (Working, 1.7y)
+
+EXPERIENCE
+* Payments Regulatory Reporting Suite — a global payments provider (2025-10 to present)
+  Modernised a regulatory reporting suite for a global payments provider in payments using SQL, A/B Testing, UX Research and Snowflake, reducing processing time by 30%.
+* E-commerce Data Lakehouse — a fast-growing online retailer (2024-03 to 2025-07)
+  Scaled a data lakehouse for a fast-growing online retailer in e-commerce using UX Research, Data Visualization and Snowflake, reducing processing time by 25%.
+* Pharma R&D Customer Churn Model — a global pharma company (2023-01 to 2024-01)
+  Led the delivery of a customer churn model for a global pharma company in pharma R&D using Tableau, Snowflake, A/B Testing and UX Research, improving model accuracy by 40%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2026)
+- Tableau Desktop Specialist (2024)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Product Manager

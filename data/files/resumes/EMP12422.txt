@@ -1,0 +1,37 @@
+PALLAVI KULKARNI
+Lead Data Analyst | Data & Analytics | Chennai, India
+Employee ID: EMP12422
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 15.5 years of experience, based in Chennai. Strong in Python, A/B Testing, SQL and Data Visualization, with recent work in pharma R&D. Interested in moving towards Product Manager, Data Scientist roles.
+
+CORE SKILLS
+- Software Engineering: Python (Expert, 10.9y)
+- Product & Design: A/B Testing (Expert, 15.5y)
+- Data & AI: SQL (Advanced, 7.1y), Data Visualization (Advanced, 14.5y), Power BI (Proficient, 1.5y)
+- Delivery & Leadership: Mentoring (Advanced, 1.7y), People Leadership (Advanced, 3.5y), Communication (Proficient, 4.1y), Stakeholder Management (Working, 3.9y)
+- Business & Finance: Business Analysis (Proficient, 6.4y)
+
+EXPERIENCE
+* Pharma R&D Data Lakehouse — a US pharma company (2025-12 to present)
+  Scaled a data lakehouse for a US pharma company in pharma R&D using Communication and A/B Testing, cutting cloud spend by 25%.
+* Pharma R&D Executive KPI Dashboard Suite — a European pharma company (2025-05 to 2025-10)
+  Scaled an executive KPI dashboard suite for a European pharma company in pharma R&D using Business Analysis and Data Visualization, saving ~40K hours annually.
+* Pharma R&D Data Lakehouse — an APAC pharma company (2024-02 to 2025-04)
+  Designed a data lakehouse for an APAC pharma company in pharma R&D using Business Analysis, A/B Testing, Mentoring and Power BI, reducing processing time by 35%.
+* Supply-chain Logistics Customer Churn Model — an APAC logistics company (2022-07 to 2023-12)
+  Scaled a customer churn model for an APAC logistics company in supply-chain logistics using Stakeholder Management, Communication, Python and Data Visualization, improving conversion by 30%.
+
+CERTIFICATIONS
+- Microsoft PL-300 Power BI Analyst (2023)
+- Tableau Desktop Specialist (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Product Manager, Data Scientist

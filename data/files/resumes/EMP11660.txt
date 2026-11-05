@@ -1,0 +1,28 @@
+RAJESH NG
+Senior QA Engineer | Quality Engineering | Singapore, Singapore
+Employee ID: EMP11660
+
+PROFESSIONAL SUMMARY
+Senior QA Engineer with 5.6 years of experience, based in Singapore. Strong in Test Automation, API Testing, Playwright and CI/CD, with recent work in public sector. Interested in moving towards Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 3.4y), API Testing (Advanced, 3.5y), Playwright (Proficient, 0.5y), Performance Testing (Proficient, 2.8y)
+- Cloud & DevOps: CI/CD (Proficient, 2.3y)
+
+EXPERIENCE
+* Public Sector Performance Engineering Programme — an APAC government agency (2026-04 to present)
+  Re-architected a performance engineering programme for an APAC government agency in public sector using Performance Testing and API Testing, accelerating releases by 30%.
+* Energy Trading Test Automation Framework — a US energy company (2025-06 to 2026-04)
+  Scaled a test automation framework for a US energy company in energy trading using Performance Testing, CI/CD and Test Automation, accelerating releases by 40%.
+* Public Sector API Contract-testing Suite — a fast-growing government agency (2024-07 to 2025-05)
+  Designed an API contract-testing suite for a fast-growing government agency in public sector using API Testing and Playwright, raising automated test coverage to 80%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Engineering Manager

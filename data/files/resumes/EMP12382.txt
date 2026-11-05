@@ -1,0 +1,35 @@
+ADITYA MENON
+Principal QA Engineer | Quality Engineering | Pune, India
+Employee ID: EMP12382
+
+PROFESSIONAL SUMMARY
+Principal QA Engineer with 15.3 years of experience, based in Pune. Strong in Test Automation, API Testing, Stakeholder Management and SQL, with recent work in retail banking. Interested in moving towards QA Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Expert, 15.3y), API Testing (Expert, 12.8y), Playwright (Proficient, 11.1y)
+- Delivery & Leadership: Stakeholder Management (Expert, 13.9y), Mentoring (Advanced, 7.3y)
+- Data & AI: SQL (Advanced, 13.2y), Databricks (Proficient, 6.1y)
+- Software Engineering: Java (Working, 1.4y)
+
+EXPERIENCE
+* E-commerce Performance Engineering Programme — a leading online retailer (2026-06 to present)
+  Automated a performance engineering programme for a leading online retailer in e-commerce using Mentoring, SQL and Test Automation, accelerating releases by 12%.
+* Retail Banking Test Automation Framework — an APAC retail bank (2025-02 to 2026-05)
+  Automated a test automation framework for an APAC retail bank in retail banking using Playwright, Test Automation, API Testing and Stakeholder Management, accelerating releases by 40%.
+* Retail Banking Performance Engineering Programme — a leading retail bank (2024-06 to 2025-01)
+  Built a performance engineering programme for a leading retail bank in retail banking using Test Automation, Stakeholder Management, API Testing and Java, accelerating releases by 35%.
+* Pharma R&D Performance Engineering Programme — a global pharma company (2022-12 to 2024-05)
+  Re-architected a performance engineering programme for a global pharma company in pharma R&D using Databricks, Stakeholder Management and Playwright, accelerating releases by 40%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2021)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: QA Engineer, DevOps Engineer, Full Stack Engineer

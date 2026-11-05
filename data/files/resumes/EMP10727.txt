@@ -1,0 +1,27 @@
+DEEPIKA KAPOOR
+Associate Platform Engineer | Cloud & Infrastructure | Bengaluru, India
+Employee ID: EMP10727
+
+PROFESSIONAL SUMMARY
+Associate Platform Engineer with 1.5 years of experience, based in Bengaluru. Strong in Platform Engineering, Terraform, Kubernetes and CI/CD, with recent work in media streaming. Interested in moving towards Cloud Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Platform Engineering (Advanced, 1.2y), Terraform (Proficient, 1.1y), Kubernetes (Working, 0.7y), CI/CD (Working, 0.3y), AWS (Working, 0.4y)
+- Software Engineering: Python (Working, 0.6y)
+- Data & AI: Databricks (Working, 0.3y)
+
+EXPERIENCE
+* Payments Cloud Landing Zone — a European payments provider (2026-08 to present)
+  Designed a cloud landing zone for a European payments provider in payments using Kubernetes, CI/CD, Terraform and Databricks, accelerating releases by 30%.
+* Media Streaming Kubernetes Platform — a global streaming platform (2025-03 to 2026-06)
+  Built a Kubernetes platform for a global streaming platform in media streaming using CI/CD, Terraform, Kubernetes and Platform Engineering, reducing production incidents by 22%.
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Cloud Engineer

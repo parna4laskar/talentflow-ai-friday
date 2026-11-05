@@ -1,0 +1,35 @@
+NURUL ONG
+Principal Business Analyst | Business Consulting | Singapore, Singapore
+Employee ID: EMP10386
+
+PROFESSIONAL SUMMARY
+Principal Business Analyst with 22.7 years of experience, based in Singapore. Strong in Requirements Gathering, SQL, Mentoring and Stakeholder Management, with recent work in healthcare. Interested in moving towards Scrum Master, Account Manager roles and open to relocating to Hyderabad, Bengaluru, Kraków.
+
+CORE SKILLS
+- Business & Finance: Requirements Gathering (Expert, 22.7y), Process Improvement (Advanced, 21.0y), Business Analysis (Proficient, 11.7y)
+- Data & AI: SQL (Expert, 13.4y), Power BI (Advanced, 10.8y)
+- Delivery & Leadership: Mentoring (Expert, 8.7y), Stakeholder Management (Advanced, 2.6y), Communication (Proficient, 8.1y), People Leadership (Proficient, 7.8y)
+
+EXPERIENCE
+* Manufacturing IoT Cloud Migration Programme — a leading manufacturer (2026-04 to present)
+  Ran a cloud migration programme for a leading manufacturer in manufacturing IoT using Communication, SQL and Requirements Gathering, cutting cloud spend by 35%.
+* Healthcare Core Banking Transformation Programme — a fast-growing hospital network (2024-12 to 2026-02)
+  Led a core banking transformation programme for a fast-growing hospital network in healthcare using Business Analysis, Stakeholder Management, SQL and Mentoring, delivering $8M in cost savings.
+* Payments Requirements and UAT for a CRM Rollout — a global payments provider (2023-12 to 2024-10)
+  Coordinated a requirements and UAT for a CRM rollout for a global payments provider in payments using Power BI, Communication and SQL, delivering on time across 8 workstreams.
+* Healthcare Requirements and UAT for a CRM Rollout — an APAC hospital network (2022-09 to 2023-11)
+  Led a requirements and UAT for a CRM rollout for an APAC hospital network in healthcare using Communication, Requirements Gathering, Process Improvement and Stakeholder Management, delivering on time across 3 workstreams.
+
+CERTIFICATIONS
+- CBAP (2022)
+- PMI-PBA (2024)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Scrum Master, Account Manager

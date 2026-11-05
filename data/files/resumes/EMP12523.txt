@@ -1,0 +1,34 @@
+PRANAV RYAN
+ML Engineer | AI Center of Excellence | Hyderabad, India
+Employee ID: EMP12523
+
+PROFESSIONAL SUMMARY
+ML Engineer with 3 years of experience, based in Hyderabad. Strong in Machine Learning, Python, MLOps and Deep Learning, with recent work in retail banking. Interested in moving towards ML Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 2.3y), MLOps (Proficient, 1.1y), Deep Learning (Proficient, 0.4y), Computer Vision (Working, 0.3y), Vector Databases (Working, 1.2y), NLP (Working, 1.3y), Databricks (Beginner, 0.3y)
+- Software Engineering: Python (Proficient, 2.0y)
+- Delivery & Leadership: Communication (Working, 0.8y)
+
+EXPERIENCE
+* Retail Banking Knowledge Assistant (RAG) — a global retail bank (2026-01 to present)
+  Led the delivery of a knowledge assistant (RAG) for a global retail bank in retail banking using Machine Learning, Communication and Computer Vision, lifting NPS by 25 points.
+* Automotive Agentic Customer-service Assistant — a fast-growing car maker (2024-10 to 2026-01)
+  Scaled an agentic customer-service assistant for a fast-growing car maker in automotive using MLOps and Databricks, lifting NPS by 30 points.
+* Energy Trading Knowledge Assistant (RAG) — an APAC energy company (2023-03 to 2024-07)
+  Re-architected a knowledge assistant (RAG) for an APAC energy company in energy trading using Machine Learning, NLP, Computer Vision and Databricks, lifting NPS by 18 points.
+* Energy Trading Agentic Customer-service Assistant — a global energy company (2021-11 to 2023-01)
+  Migrated an agentic customer-service assistant for a global energy company in energy trading using Communication, Deep Learning, Machine Learning and Python, saving ~30K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2025)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer, AI Engineer

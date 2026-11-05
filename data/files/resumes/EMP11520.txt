@@ -1,0 +1,29 @@
+NAVEEN NAIDU
+DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11520
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 3.5 years of experience, based in Hyderabad. Strong in CI/CD, Docker, Azure and Go, with recent work in automotive. Interested in moving towards Site Reliability Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Proficient, 2.1y), Docker (Proficient, 1.4y), Azure (Proficient, 1.3y), FinOps (Proficient, 0.6y), Kubernetes (Working, 0.5y), Observability (Working, 0.4y), Terraform (Beginner, 0.7y)
+- Software Engineering: Go (Proficient, 0.7y), Python (Working, 0.9y)
+- Delivery & Leadership: Communication (Proficient, 1.8y)
+
+EXPERIENCE
+* Automotive Kubernetes Platform — a tier-1 car maker (2026-01 to present)
+  Designed a Kubernetes platform for a tier-1 car maker in automotive using Kubernetes, Docker and Observability, cutting cloud spend by 40%.
+* Wealth Management Kubernetes Platform — a European wealth manager (2024-07 to 2025-12)
+  Modernised a Kubernetes platform for a European wealth manager in wealth management using Go and Terraform, reducing production incidents by 35%.
+* Automotive Kubernetes Platform — a global car maker (2023-12 to 2024-05)
+  Modernised a Kubernetes platform for a global car maker in automotive using Communication, FinOps and Docker, accelerating releases by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Site Reliability Engineer, Platform Engineer

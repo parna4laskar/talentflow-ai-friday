@@ -1,0 +1,31 @@
+SWATI CHATTERJEE
+Senior DevOps Engineer | Cloud & Infrastructure | Gurugram, India
+Employee ID: EMP11207
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 9.4 years of experience, based in Gurugram. Strong in GCP, CI/CD, Docker and Kubernetes, with recent work in energy trading. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: GCP (Expert, 7.7y), CI/CD (Advanced, 9.4y), Docker (Advanced, 0.6y), Kubernetes (Advanced, 4.0y), Observability (Advanced, 5.8y), Linux Administration (Proficient, 1.4y)
+- Delivery & Leadership: Communication (Advanced, 3.0y)
+
+EXPERIENCE
+* Energy Trading Data-centre Exit To Cloud — a global energy company (2026-07 to present)
+  Built a data-centre exit to cloud for a global energy company in energy trading using CI/CD, Communication and Docker, cutting cloud spend by 40%.
+* Automotive Kubernetes Platform — a European car maker (2024-12 to 2026-06)
+  Built a Kubernetes platform for a European car maker in automotive using GCP, Linux Administration, Docker and Communication, cutting cloud spend by 30%.
+* Public Sector Kubernetes Platform — a US government agency (2024-01 to 2024-11)
+  Migrated a Kubernetes platform for a US government agency in public sector using GCP, Communication and Kubernetes, reducing production incidents by 18%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2023)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: DevOps Engineer, Site Reliability Engineer, Cloud Engineer, Platform Engineer

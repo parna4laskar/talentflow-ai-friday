@@ -1,0 +1,28 @@
+PRIYA SINGH
+Associate QA Engineer | Quality Engineering | Bengaluru, India
+Employee ID: EMP10408
+
+PROFESSIONAL SUMMARY
+Associate QA Engineer with 0.4 years of experience, based in Bengaluru. Strong in Performance Testing, Test Automation, API Testing and SQL, with recent work in energy trading. Interested in moving towards QA Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Quality Engineering: Performance Testing (Proficient, 0.3y), Test Automation (Working, 0.3y), API Testing (Working, 0.3y), Selenium (Beginner, 0.3y)
+- Data & AI: SQL (Working, 0.3y), MLOps (Beginner, 0.3y)
+- Cloud & DevOps: CI/CD (Working, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading Test Automation Framework — an APAC energy company (2025-08 to present)
+  Built a test automation framework for an APAC energy company in energy trading using Test Automation, API Testing, CI/CD and MLOps, raising automated test coverage to 85%.
+* Energy Trading Test Automation Framework — a European energy company (2024-08 to 2025-05)
+  Automated a test automation framework for a European energy company in energy trading using CI/CD, Selenium, API Testing and MLOps, accelerating releases by 40%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: QA Engineer, Engineering Manager, DevOps Engineer, Full Stack Engineer

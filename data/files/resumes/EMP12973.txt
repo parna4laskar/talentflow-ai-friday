@@ -1,0 +1,32 @@
+VIVEK VERMA
+Lead Software Architect | Engineering | Bengaluru, India
+Employee ID: EMP12973
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 13.4 years of experience, based in Bengaluru. Strong in Microservices, GCP, System Design and Java, with recent work in public sector. Interested in moving towards Software Architect, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 9.8y), System Design (Advanced, 6.4y), Java (Advanced, 1.5y), REST API Design (Proficient, 8.8y)
+- Cloud & DevOps: GCP (Expert, 8.5y), AWS (Proficient, 2.7y)
+- Delivery & Leadership: Mentoring (Proficient, 3.2y), Stakeholder Management (Proficient, 2.5y)
+- Security: Cloud Security (Working, 6.4y)
+
+EXPERIENCE
+* Public Sector Customer Onboarding Platform — a tier-1 government agency (2025-04 to present)
+  Modernised a customer onboarding platform for a tier-1 government agency in public sector using Microservices and Cloud Security, reducing processing time by 12%.
+* Retail Banking Customer Onboarding Platform — an APAC retail bank (2024-09 to 2025-04)
+  Modernised a customer onboarding platform for an APAC retail bank in retail banking using System Design, Stakeholder Management and GCP, reducing processing time by 40%.
+* Public Sector Self-service Portal — a US government agency (2023-09 to 2024-07)
+  Re-architected a self-service portal for a US government agency in public sector using REST API Design and Microservices, saving ~12K hours annually.
+* Manufacturing IoT Pricing Engine — an APAC manufacturer (2022-06 to 2023-08)
+  Scaled a pricing engine for an APAC manufacturer in manufacturing IoT using Mentoring, AWS and System Design, improving conversion by 18%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Software Architect, Engineering Manager, Backend Engineer

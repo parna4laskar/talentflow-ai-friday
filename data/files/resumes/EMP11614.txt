@@ -1,0 +1,35 @@
+ZUZANNA LEWANDOWSKI
+Principal Security Engineer | Cyber Security | Kraków, Poland
+Employee ID: EMP11614
+
+PROFESSIONAL SUMMARY
+Principal Security Engineer with 14.1 years of experience, based in Kraków. Strong in Threat Modeling, Incident Response, Identity & Access Management and SIEM, with recent work in payments. Interested in moving towards Software Architect, Security Analyst roles.
+
+CORE SKILLS
+- Security: Threat Modeling (Expert, 10.5y), Incident Response (Expert, 8.5y), Identity & Access Management (Advanced, 12.0y), SIEM (Advanced, 3.7y), Application Security (Proficient, 6.7y)
+- Delivery & Leadership: Mentoring (Advanced, 5.3y), People Leadership (Proficient, 1.4y)
+- Software Engineering: Python (Proficient, 6.3y)
+
+EXPERIENCE
+* Payments Identity and Access Platform — a global payments provider (2026-02 to present)
+  Migrated an identity and access platform for a global payments provider in payments using Threat Modeling and Identity & Access Management, reducing production incidents by 35%.
+* Energy Trading Identity and Access Platform — a US energy company (2024-12 to 2026-02)
+  Built an identity and access platform for a US energy company in energy trading using Incident Response, Application Security and Mentoring, closing 25% of open audit findings.
+* Payments Cloud Security Posture Programme — a global payments provider (2023-07 to 2024-10)
+  Scaled a cloud security posture programme for a global payments provider in payments using Mentoring and SIEM, closing 35% of open audit findings.
+* Wealth Management Security Operations Centre Uplift — an APAC wealth manager (2022-06 to 2023-04)
+  Re-architected a security operations centre uplift for an APAC wealth manager in wealth management using Python, Incident Response and Mentoring, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- CISSP (2022)
+- CCSP (2022)
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+Polish, English, Arabic
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Software Architect, Security Analyst, Cloud Engineer

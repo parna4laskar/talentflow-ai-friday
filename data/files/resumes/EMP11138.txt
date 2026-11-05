@@ -1,0 +1,30 @@
+RIYA WASHINGTON
+Principal Backend Engineer | Engineering | Pune, India
+Employee ID: EMP11138
+
+PROFESSIONAL SUMMARY
+Principal Backend Engineer with 19.3 years of experience, based in Pune. Strong in Kafka, Go, REST API Design and SQL, with recent work in energy trading. Interested in moving towards Software Architect roles.
+
+CORE SKILLS
+- Software Engineering: Kafka (Expert, 2.8y), Go (Advanced, 15.2y), REST API Design (Advanced, 15.3y), Microservices (Advanced, 10.2y)
+- Data & AI: SQL (Advanced, 18.8y)
+- Cloud & DevOps: CI/CD (Advanced, 9.3y), Docker (Proficient, 12.6y), Terraform (Proficient, 3.2y)
+- Delivery & Leadership: Mentoring (Advanced, 12.2y), Stakeholder Management (Advanced, 1.2y)
+
+EXPERIENCE
+* Healthcare Pricing Engine — a fast-growing hospital network (2025-08 to present)
+  Scaled a pricing engine for a fast-growing hospital network in healthcare using Mentoring, Terraform and Microservices, reducing processing time by 12%.
+* Retail Banking Claims Processing Engine — an APAC retail bank (2025-01 to 2025-06)
+  Re-architected a claims processing engine for an APAC retail bank in retail banking using SQL and Docker, reducing processing time by 22%.
+* Pharma R&D Claims Processing Engine — a leading pharma company (2024-03 to 2024-10)
+  Designed a claims processing engine for a leading pharma company in pharma R&D using Mentoring and Stakeholder Management, saving ~40K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Software Architect

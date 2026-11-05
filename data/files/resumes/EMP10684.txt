@@ -1,0 +1,31 @@
+ANIRUDH SZYMAŃSKI
+Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP10684
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5.1 years of experience, based in Bengaluru. Strong in TypeScript, Angular, Node.js and SQL, with recent work in HR tech. Interested in moving towards Backend Engineer roles and open to relocating to Pune, Gurugram, Kraków.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.8y), Angular (Advanced, 2.8y), Node.js (Proficient, 3.8y), REST API Design (Proficient, 1.8y), Next.js (Working, 0.6y)
+- Data & AI: SQL (Proficient, 1.1y)
+
+EXPERIENCE
+* Airline Operations Customer Onboarding Platform — a tier-1 airline (2026-05 to present)
+  Designed a customer onboarding platform for a tier-1 airline in airline operations using Node.js, Next.js, SQL and REST API Design, reducing processing time by 18%.
+* HR Tech Payments Microservices Platform — a US HR software company (2025-01 to 2026-04)
+  Built a payments microservices platform for a US HR software company in HR tech using Node.js, REST API Design, Next.js and TypeScript, reducing production incidents by 22%.
+* Automotive Mobile Banking App — an APAC car maker (2023-11 to 2024-11)
+  Re-architected a mobile banking app for an APAC car maker in automotive using Next.js and Angular, improving conversion by 12%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Backend Engineer

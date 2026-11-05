@@ -1,0 +1,29 @@
+PRIYA CHUA
+Senior Backend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP10738
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10.1 years of experience, based in Singapore. Strong in Go, REST API Design, SQL and AWS, with recent work in manufacturing IoT. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 2.7y), REST API Design (Advanced, 9.8y), Microservices (Proficient, 4.5y), System Design (Proficient, 5.0y), GraphQL (Working, 2.8y)
+- Data & AI: SQL (Advanced, 10.1y), Responsible AI (Working, 0.9y)
+- Cloud & DevOps: AWS (Advanced, 2.6y), Docker (Working, 2.5y)
+
+EXPERIENCE
+* Manufacturing IoT Order Management System — an APAC manufacturer (2026-08 to present)
+  Automated an order management system for an APAC manufacturer in manufacturing IoT using Microservices, System Design, Responsible AI and REST API Design, reducing processing time by 22%.
+* Manufacturing IoT Order Management System — a US manufacturer (2025-10 to 2026-06)
+  Migrated an order management system for a US manufacturer in manufacturing IoT using Docker, SQL and AWS, onboarding 6 new enterprise clients.
+* Manufacturing IoT Payments Microservices Platform — a US manufacturer (2024-06 to 2025-07)
+  Modernised a payments microservices platform for a US manufacturer in manufacturing IoT using GraphQL, System Design, SQL and Microservices, reducing processing time by 18%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Mandarin, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: AI Engineer

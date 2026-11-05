@@ -1,0 +1,31 @@
+KARTHIK JADHAV
+Lead Full Stack Engineer | Engineering | Gurugram, India
+Employee ID: EMP10326
+
+PROFESSIONAL SUMMARY
+Lead Full Stack Engineer with 13.3 years of experience, based in Gurugram. Strong in TypeScript, React, Java and SQL, with recent work in media streaming. Interested in moving towards Full Stack Engineer, Software Architect roles and open to relocating to London, Pune.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Expert, 2.1y), React (Advanced, 10.4y), Java (Advanced, 4.9y), Microservices (Advanced, 8.2y), REST API Design (Advanced, 8.6y), Next.js (Proficient, 9.4y)
+- Data & AI: SQL (Advanced, 5.9y), Databricks (Proficient, 5.4y)
+- Cloud & DevOps: AWS (Advanced, 5.3y), Docker (Proficient, 8.6y)
+
+EXPERIENCE
+* Media Streaming Mobile Banking App — an APAC streaming platform (2025-07 to present)
+  Re-architected a mobile banking app for an APAC streaming platform in media streaming using AWS, TypeScript and Databricks, lifting NPS by 40 points.
+* Media Streaming Self-service Portal — a US streaming platform (2024-06 to 2025-05)
+  Modernised a self-service portal for a US streaming platform in media streaming using Java and Docker, saving ~18K hours annually.
+* Public Sector Order Management System — a tier-1 government agency (2022-12 to 2024-05)
+  Built an order management system for a tier-1 government agency in public sector using React, Java and REST API Design, onboarding 3 new enterprise clients.
+* Media Streaming Self-service Portal — a tier-1 streaming platform (2022-05 to 2022-11)
+  Migrated a self-service portal for a tier-1 streaming platform in media streaming using AWS, TypeScript and Microservices, saving ~25K hours annually.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Full Stack Engineer, Software Architect, AI Engineer, Backend Engineer

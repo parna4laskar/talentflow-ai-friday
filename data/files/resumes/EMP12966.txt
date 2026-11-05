@@ -1,0 +1,29 @@
+PRIYA MARTINEZ
+Associate Cloud Engineer | Cloud & Infrastructure | New York, United States
+Employee ID: EMP12966
+
+PROFESSIONAL SUMMARY
+Associate Cloud Engineer with 0.9 years of experience, based in New York. Strong in Terraform, AWS, Linux Administration and FinOps, with recent work in retail banking. Interested in moving towards Platform Engineer, DevOps Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Terraform (Advanced, 0.5y), AWS (Proficient, 0.6y), Linux Administration (Working, 0.3y), FinOps (Working, 0.4y), CI/CD (Working, 0.3y), Platform Engineering (Beginner, 0.3y)
+- Data & AI: Responsible AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Payments Cloud Landing Zone — a tier-1 payments provider (2026-02 to present)
+  Built a cloud landing zone for a tier-1 payments provider in payments using AWS and Responsible AI, cutting cloud spend by 25%.
+* Telecom Billing Data-centre Exit To Cloud — a tier-1 telecom operator (2024-12 to 2026-01)
+  Designed a data-centre exit to cloud for a tier-1 telecom operator in telecom billing using FinOps, CI/CD, Linux Administration and Platform Engineering, cutting cloud spend by 35%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2026)
+
+EDUCATION
+- BSc Information Systems
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Platform Engineer, DevOps Engineer

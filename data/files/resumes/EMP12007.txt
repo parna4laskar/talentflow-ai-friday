@@ -1,0 +1,30 @@
+DEEPIKA DESHPANDE
+Senior AI Engineer | AI Center of Excellence | Bengaluru, India
+Employee ID: EMP12007
+
+PROFESSIONAL SUMMARY
+Senior AI Engineer with 7.5 years of experience, based in Bengaluru. Strong in Python, Generative AI, LLM Engineering and NLP, with recent work in healthcare. Interested in moving towards ML Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 6.3y)
+- Data & AI: Generative AI (Advanced, 4.0y), LLM Engineering (Advanced, 7.1y), NLP (Advanced, 5.7y), Agentic AI (Proficient, 5.3y), Vector Databases (Working, 2.3y)
+- Cloud & DevOps: Docker (Proficient, 3.7y)
+- Delivery & Leadership: Communication (Proficient, 1.1y)
+
+EXPERIENCE
+* Telecom Billing Knowledge Assistant (RAG) — a global telecom operator (2026-05 to present)
+  Scaled a knowledge assistant (RAG) for a global telecom operator in telecom billing using NLP, Generative AI and LLM Engineering, lifting NPS by 25 points.
+* Healthcare Recommendation Engine — a leading hospital network (2025-03 to 2026-03)
+  Migrated a recommendation engine for a leading hospital network in healthcare using LLM Engineering, Python, NLP and Docker, improving conversion by 40%.
+* Insurance Claims Agentic Customer-service Assistant — a US insurer (2024-08 to 2025-02)
+  Built an agentic customer-service assistant for a US insurer in insurance claims using Python, Communication, Vector Databases and LLM Engineering, lifting NPS by 40 points.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: ML Engineer, Data Scientist

@@ -1,0 +1,30 @@
+KRZYSZTOF LEWANDOWSKI
+CRM Consultant | Enterprise Applications | Kraków, Poland
+Employee ID: EMP12008
+
+PROFESSIONAL SUMMARY
+CRM Consultant with 3.1 years of experience, based in Kraków. Strong in Agile/Scrum, Salesforce, Business Analysis and Process Improvement, with recent work in e-commerce. Interested in moving towards CRM Consultant, SAP Consultant roles.
+
+CORE SKILLS
+- Delivery & Leadership: Agile/Scrum (Expert, 3.1y)
+- Business & Finance: Salesforce (Proficient, 2.2y), Business Analysis (Proficient, 0.7y), Process Improvement (Proficient, 1.4y), Requirements Gathering (Proficient, 0.5y)
+- Software Engineering: JavaScript (Proficient, 0.4y)
+- Quality Engineering: Playwright (Working, 1.1y)
+
+EXPERIENCE
+* Telecom Billing CRM Rollout — an APAC telecom operator (2026-10 to present)
+  Re-architected a CRM rollout for an APAC telecom operator in telecom billing using Salesforce, JavaScript and Process Improvement, reducing processing time by 18%.
+* Wealth Management Service Desk Automation — an APAC wealth manager (2025-03 to 2026-09)
+  Built a service desk automation for an APAC wealth manager in wealth management using Process Improvement, Agile/Scrum, Salesforce and JavaScript, saving ~25K hours annually.
+* Media Streaming CRM Rollout — a global streaming platform (2023-10 to 2025-02)
+  Led the delivery of a CRM rollout for a global streaming platform in media streaming using Agile/Scrum, Salesforce, Requirements Gathering and Business Analysis, improving conversion by 40%.
+
+EDUCATION
+- MBA
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: CRM Consultant, SAP Consultant, Account Manager, Scrum Master

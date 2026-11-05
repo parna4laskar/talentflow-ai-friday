@@ -1,0 +1,35 @@
+XIN YI WONG
+Lead Frontend Engineer | Engineering | Singapore, Singapore
+Employee ID: EMP11001
+
+PROFESSIONAL SUMMARY
+Lead Frontend Engineer with 11.1 years of experience, based in Singapore. Strong in React, JavaScript, Stakeholder Management and Node.js, with recent work in media streaming. Interested in moving towards Mobile Engineer, Full Stack Engineer roles.
+
+CORE SKILLS
+- Software Engineering: React (Expert, 10.7y), JavaScript (Advanced, 2.3y), Node.js (Proficient, 1.0y), TypeScript (Working, 4.4y), Next.js (Working, 2.8y), GraphQL (Working, 1.4y)
+- Delivery & Leadership: People Leadership (Expert, 1.2y), Stakeholder Management (Advanced, 1.1y), Communication (Working, 1.0y)
+- Product & Design: Figma (Proficient, 7.4y)
+- Quality Engineering: Playwright (Proficient, 6.8y)
+
+EXPERIENCE
+* Media Streaming Order Management System — a tier-1 streaming platform (2025-06 to present)
+  Modernised an order management system for a tier-1 streaming platform in media streaming using Figma and Next.js, onboarding 2 new enterprise clients.
+* Public Sector Claims Processing Engine — a US government agency (2024-08 to 2025-05)
+  Migrated a claims processing engine for a US government agency in public sector using Node.js and Figma, reducing processing time by 40%.
+* Media Streaming Customer Onboarding Platform — a leading streaming platform (2023-08 to 2024-06)
+  Automated a customer onboarding platform for a leading streaming platform in media streaming using Playwright, Next.js and React, improving conversion by 40%.
+* HR Tech Pricing Engine — a US HR software company (2021-12 to 2023-05)
+  Led the delivery of a pricing engine for a US HR software company in HR tech using GraphQL and Next.js, reducing processing time by 30%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2024)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Mobile Engineer, Full Stack Engineer

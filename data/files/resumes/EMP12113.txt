@@ -1,0 +1,34 @@
+YASH SHEIKH
+Senior Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP12113
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6 years of experience, based in Pune. Strong in Angular, TypeScript, JavaScript and Playwright, with recent work in wealth management. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Advanced, 2.0y), TypeScript (Proficient, 3.3y), JavaScript (Proficient, 0.9y), Node.js (Proficient, 3.2y), GraphQL (Working, 1.1y), Next.js (Working, 1.8y)
+- Quality Engineering: Playwright (Proficient, 3.0y)
+- Data & AI: LLM Engineering (Proficient, 0.5y)
+- Product & Design: Figma (Working, 1.2y)
+- Delivery & Leadership: Communication (Working, 1.4y)
+
+EXPERIENCE
+* Wealth Management Customer Onboarding Platform — an APAC wealth manager (2025-10 to present)
+  Automated a customer onboarding platform for an APAC wealth manager in wealth management using Figma, GraphQL, Communication and TypeScript, improving conversion by 18%.
+* Payments Claims Processing Engine — a European payments provider (2025-03 to 2025-09)
+  Built a claims processing engine for a European payments provider in payments using Playwright, GraphQL, Next.js and Node.js, saving ~18K hours annually.
+* Wealth Management Payments Microservices Platform — a global wealth manager (2023-11 to 2025-01)
+  Modernised a payments microservices platform for a global wealth manager in wealth management using JavaScript and Playwright, accelerating releases by 30%.
+
+CERTIFICATIONS
+- Meta Front-End Developer (2026)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Frontend Engineer, Mobile Engineer, QA Engineer, Full Stack Engineer

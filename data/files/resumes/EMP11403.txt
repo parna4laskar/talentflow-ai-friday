@@ -1,0 +1,30 @@
+RAJESH SZYMAŃSKI
+Senior Financial Analyst | Finance | Gurugram, India
+Employee ID: EMP11403
+
+PROFESSIONAL SUMMARY
+Senior Financial Analyst with 8.1 years of experience, based in Gurugram. Strong in Financial Modeling, SAP FICO, Financial Analysis and FP&A, with recent work in payments. Interested in moving towards SAP Consultant, Risk & Compliance Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Financial Modeling (Advanced, 7.5y), SAP FICO (Advanced, 5.7y), Financial Analysis (Proficient, 2.9y), FP&A (Proficient, 1.2y), SAP S/4HANA (Working, 3.8y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 5.3y), Communication (Proficient, 5.9y)
+
+EXPERIENCE
+* Payments Rolling Forecasting Model — a fast-growing payments provider (2026-05 to present)
+  Led a rolling forecasting model for a fast-growing payments provider in payments using SAP S/4HANA and SAP FICO, improving forecast accuracy by 35%.
+* E-commerce Rolling Forecasting Model — a tier-1 online retailer (2025-03 to 2026-04)
+  Led a rolling forecasting model for a tier-1 online retailer in e-commerce using Financial Modeling and FP&A, saving ~18K hours annually.
+* Automotive Cost Transformation Programme — a fast-growing car maker (2023-06 to 2024-12)
+  Built a cost transformation programme for a fast-growing car maker in automotive using SAP S/4HANA and Financial Analysis, delivering $3M in cost savings.
+* HR Tech Cost Transformation Programme — a leading HR software company (2022-03 to 2023-04)
+  Led a cost transformation programme for a leading HR software company in HR tech using SAP FICO, Stakeholder Management and Communication, delivering $8M in cost savings.
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: SAP Consultant, Risk & Compliance Analyst, Data Analyst

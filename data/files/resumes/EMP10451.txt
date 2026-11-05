@@ -1,0 +1,34 @@
+ROHAN SHARMA
+Senior Financial Analyst | Finance | Chennai, India
+Employee ID: EMP10451
+
+PROFESSIONAL SUMMARY
+Senior Financial Analyst with 6.2 years of experience, based in Chennai. Strong in Financial Modeling, Risk Management, SAP FICO and Financial Analysis, with recent work in media streaming. Interested in moving towards Financial Analyst, Data Analyst roles.
+
+CORE SKILLS
+- Business & Finance: Financial Modeling (Advanced, 3.6y), Risk Management (Advanced, 3.0y), SAP FICO (Advanced, 5.1y), Financial Analysis (Proficient, 3.6y), FP&A (Proficient, 1.1y)
+- Quality Engineering: Playwright (Proficient, 4.3y)
+- Data & AI: Power BI (Working, 2.2y)
+- Delivery & Leadership: Communication (Working, 3.1y)
+
+EXPERIENCE
+* Manufacturing IoT Cost Transformation Programme — a US manufacturer (2026-05 to present)
+  Led a cost transformation programme for a US manufacturer in manufacturing IoT using Playwright, FP&A and Financial Modeling, delivering $6M in cost savings.
+* Media Streaming Rolling Forecasting Model — a European streaming platform (2025-03 to 2026-03)
+  Redesigned a rolling forecasting model for a European streaming platform in media streaming using FP&A, Playwright and Power BI, saving ~40K hours annually.
+* Media Streaming Cost Transformation Programme — a US streaming platform (2024-03 to 2024-12)
+  Built a cost transformation programme for a US streaming platform in media streaming using Communication, Playwright, FP&A and SAP FICO, delivering $4M in cost savings.
+
+CERTIFICATIONS
+- CFA Level II (2021)
+- ACCA (2023)
+
+EDUCATION
+- MBA Finance
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Financial Analyst, Data Analyst, Risk & Compliance Analyst

@@ -1,0 +1,33 @@
+MEERA SHAH
+Senior Backend Engineer | Engineering | Pune, India
+Employee ID: EMP10745
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8.7 years of experience, based in Pune. Strong in SQL, Microservices, CI/CD and Python, with recent work in manufacturing IoT. Interested in moving towards AI Engineer, Software Architect roles and open to relocating to Bengaluru, Gurugram.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 5.4y), dbt (Working, 2.3y)
+- Software Engineering: Microservices (Advanced, 0.8y), Python (Proficient, 0.6y), REST API Design (Proficient, 1.5y)
+- Cloud & DevOps: CI/CD (Advanced, 3.3y), Docker (Working, 3.4y)
+- Delivery & Leadership: Communication (Working, 4.0y)
+
+EXPERIENCE
+* Manufacturing IoT Payments Microservices Platform — a fast-growing manufacturer (2025-12 to present)
+  Automated a payments microservices platform for a fast-growing manufacturer in manufacturing IoT using SQL, Communication, REST API Design and Docker, accelerating releases by 12%.
+* Insurance Claims Claims Processing Engine — a global insurer (2024-08 to 2025-11)
+  Built a claims processing engine for a global insurer in insurance claims using Python, REST API Design and Microservices, saving ~18K hours annually.
+* Manufacturing IoT Order Management System — a tier-1 manufacturer (2023-12 to 2024-07)
+  Automated an order management system for a tier-1 manufacturer in manufacturing IoT using CI/CD and REST API Design, onboarding 4 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2022)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer, Software Architect

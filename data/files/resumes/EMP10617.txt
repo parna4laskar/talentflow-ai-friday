@@ -1,0 +1,35 @@
+WILLIAM JONES
+Lead Cloud Engineer | Cloud & Infrastructure | London, United Kingdom
+Employee ID: EMP10617
+
+PROFESSIONAL SUMMARY
+Lead Cloud Engineer with 14.6 years of experience, based in London. Strong in AWS, Linux Administration, FinOps and Terraform, with recent work in automotive. Interested in moving towards Cloud Engineer, Platform Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Advanced, 10.3y), Linux Administration (Advanced, 3.7y), FinOps (Advanced, 5.7y), Terraform (Proficient, 8.6y), Platform Engineering (Proficient, 7.3y)
+- Security: Cloud Security (Proficient, 5.4y)
+- Delivery & Leadership: Mentoring (Proficient, 3.8y)
+
+EXPERIENCE
+* Automotive Data-centre Exit To Cloud — a tier-1 car maker (2026-03 to present)
+  Automated a data-centre exit to cloud for a tier-1 car maker in automotive using Mentoring, AWS, Linux Administration and Cloud Security, delivering $4M in cost savings.
+* Insurance Claims Observability Stack — a fast-growing insurer (2024-09 to 2026-01)
+  Scaled an observability stack for a fast-growing insurer in insurance claims using Linux Administration, Terraform, Cloud Security and AWS, accelerating releases by 12%.
+* Retail Banking Cloud Landing Zone — a US retail bank (2023-02 to 2024-07)
+  Re-architected a cloud landing zone for a US retail bank in retail banking using Linux Administration, AWS, Cloud Security and Platform Engineering, cutting cloud spend by 35%.
+* HR Tech Kubernetes Platform — a European HR software company (2021-08 to 2023-01)
+  Built a Kubernetes platform for a European HR software company in HR tech using Mentoring, Platform Engineering and AWS, reducing production incidents by 12%.
+
+CERTIFICATIONS
+- Azure Administrator Associate (2022)
+- Google Professional Cloud Architect (2024)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Cloud Engineer, Platform Engineer

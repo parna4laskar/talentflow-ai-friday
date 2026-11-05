@@ -1,0 +1,31 @@
+KAVYA SHEIKH
+Lead Engineering Manager | Engineering | Pune, India
+Employee ID: EMP11751
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 8.5 years of experience, based in Pune. Strong in People Leadership, Agile/Scrum, Stakeholder Management and Microservices, with recent work in energy trading. Interested in moving towards Software Architect, Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 1.7y), Agile/Scrum (Advanced, 7.6y), Stakeholder Management (Advanced, 5.4y), Communication (Proficient, 3.4y), Mentoring (Working, 1.0y)
+- Software Engineering: Microservices (Proficient, 3.4y), System Design (Working, 1.5y), Java (Working, 3.6y)
+- Cloud & DevOps: AWS (Working, 0.7y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a global logistics company (2026-03 to present)
+  Scaled a payments microservices platform for a global logistics company in supply-chain logistics using Java, People Leadership, Communication and Agile/Scrum, reducing production incidents by 35%.
+* Supply-chain Logistics Order Management System — a US logistics company (2025-08 to 2026-01)
+  Automated an order management system for a US logistics company in supply-chain logistics using Java, AWS, Microservices and Agile/Scrum, reducing processing time by 12%.
+* Energy Trading Order Management System — a fast-growing energy company (2024-10 to 2025-05)
+  Migrated an order management system for a fast-growing energy company in energy trading using Microservices, Java and Mentoring, reducing processing time by 22%.
+* Healthcare Claims Processing Engine — a tier-1 hospital network (2024-02 to 2024-08)
+  Migrated a claims processing engine for a tier-1 hospital network in healthcare using Stakeholder Management and Java, saving ~12K hours annually.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: Software Architect, Backend Engineer

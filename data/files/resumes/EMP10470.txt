@@ -1,0 +1,32 @@
+PRASAD REDDY
+Senior Data Engineer | Data & Analytics | Chennai, India
+Employee ID: EMP10470
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 10.1 years of experience, based in Chennai. Strong in SQL, Data Engineering, Python and Apache Spark, with recent work in energy trading. Interested in moving towards ML Engineer roles and open to relocating to Hyderabad, New York.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 2.6y), Data Engineering (Advanced, 9.2y), Apache Spark (Proficient, 4.0y), Responsible AI (Working, 1.4y)
+- Software Engineering: Python (Proficient, 3.7y), Microservices (Proficient, 3.7y), Kafka (Working, 0.8y)
+- Cloud & DevOps: AWS (Working, 0.6y)
+
+EXPERIENCE
+* Media Streaming Real-time Analytics Pipeline — an APAC streaming platform (2026-08 to present)
+  Migrated a real-time analytics pipeline for an APAC streaming platform in media streaming using Data Engineering, SQL and Python, cutting cloud spend by 12%.
+* Insurance Claims Customer Churn Model — a tier-1 insurer (2025-04 to 2026-07)
+  Automated a customer churn model for a tier-1 insurer in insurance claims using Responsible AI, Apache Spark and Python, improving conversion by 25%.
+* Telecom Billing Customer Churn Model — an APAC telecom operator (2023-12 to 2025-04)
+  Automated a customer churn model for an APAC telecom operator in telecom billing using Data Engineering and Responsible AI, improving model accuracy by 40%.
+
+CERTIFICATIONS
+- SnowPro Core (2024)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: ML Engineer

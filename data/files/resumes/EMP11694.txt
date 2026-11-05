@@ -1,0 +1,30 @@
+LAKSHMI DESHPANDE
+DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP11694
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 4.4 years of experience, based in Hyderabad. Strong in Kubernetes, CI/CD, Docker and GCP, with recent work in manufacturing IoT. Interested in moving towards DevOps Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: Kubernetes (Advanced, 1.5y), CI/CD (Proficient, 2.0y), Docker (Proficient, 2.4y), GCP (Proficient, 1.3y), Observability (Proficient, 2.6y), Linux Administration (Working, 1.2y), Terraform (Beginner, 0.3y)
+- Software Engineering: Python (Working, 1.6y), Go (Working, 0.8y)
+- Data & AI: MLOps (Working, 1.5y)
+- Delivery & Leadership: Communication (Working, 2.2y)
+
+EXPERIENCE
+* Retail Banking Cloud Landing Zone — a European retail bank (2025-11 to present)
+  Modernised a cloud landing zone for a European retail bank in retail banking using Docker and Observability, accelerating releases by 12%.
+* Energy Trading CI/CD Platform — a fast-growing energy company (2025-03 to 2025-10)
+  Scaled a CI/CD platform for a fast-growing energy company in energy trading using Docker and GCP, accelerating releases by 30%.
+* Manufacturing IoT Cloud Landing Zone — a global manufacturer (2024-10 to 2025-02)
+  Automated a cloud landing zone for a global manufacturer in manufacturing IoT using Communication, MLOps and GCP, accelerating releases by 12%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: DevOps Engineer, Backend Engineer

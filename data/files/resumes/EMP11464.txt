@@ -1,0 +1,32 @@
+KUNAL DESHPANDE
+Principal Full Stack Engineer | Engineering | Bengaluru, India
+Employee ID: EMP11464
+
+PROFESSIONAL SUMMARY
+Principal Full Stack Engineer with 17.7 years of experience, based in Bengaluru. Strong in Angular, SQL, TypeScript and Java, with recent work in media streaming. Interested in moving towards Backend Engineer, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: Angular (Expert, 7.6y), TypeScript (Advanced, 5.0y), Java (Advanced, 2.9y), REST API Design (Advanced, 2.9y), Microservices (Advanced, 6.5y), Next.js (Proficient, 8.9y), Spring Boot (Working, 1.0y)
+- Data & AI: SQL (Expert, 17.7y)
+- Cloud & DevOps: Docker (Advanced, 4.0y), AWS (Proficient, 3.1y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 13.4y)
+
+EXPERIENCE
+* Media Streaming Mobile Banking App — a European streaming platform (2025-11 to present)
+  Scaled a mobile banking app for a European streaming platform in media streaming using Spring Boot, SQL and Docker, improving conversion by 35%.
+* Payments Customer Onboarding Platform — a leading payments provider (2024-08 to 2025-09)
+  Automated a customer onboarding platform for a leading payments provider in payments using SQL, Docker, TypeScript and REST API Design, improving conversion by 18%.
+* HR Tech Payments Microservices Platform — a global HR software company (2023-03 to 2024-07)
+  Designed a payments microservices platform for a global HR software company in HR tech using Next.js, Docker, Spring Boot and REST API Design, accelerating releases by 18%.
+* Media Streaming Pricing Engine — a US streaming platform (2022-09 to 2023-03)
+  Scaled a pricing engine for a US streaming platform in media streaming using REST API Design and Spring Boot, improving conversion by 40%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, AI Engineer, Frontend Engineer

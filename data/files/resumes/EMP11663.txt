@@ -1,0 +1,34 @@
+PRIYA MARTINEZ
+Full Stack Engineer | Engineering | Austin, United States
+Employee ID: EMP11663
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3.4 years of experience, based in Austin. Strong in GraphQL, Angular, Java and SQL, with recent work in insurance claims. Interested in moving towards Full Stack Engineer, Frontend Engineer roles and open to relocating to New York.
+
+CORE SKILLS
+- Software Engineering: GraphQL (Advanced, 1.9y), Angular (Proficient, 1.0y), Java (Proficient, 2.3y), Microservices (Proficient, 2.4y), TypeScript (Working, 1.0y), REST API Design (Working, 0.7y), System Design (Working, 1.3y)
+- Data & AI: SQL (Proficient, 1.5y), Agentic AI (Beginner, 0.6y)
+- Cloud & DevOps: Docker (Proficient, 1.6y)
+
+EXPERIENCE
+* Insurance Claims Customer Onboarding Platform — an APAC insurer (2025-10 to present)
+  Built a customer onboarding platform for an APAC insurer in insurance claims using System Design, REST API Design and TypeScript, reducing processing time by 12%.
+* Healthcare Claims Processing Engine — a US hospital network (2024-06 to 2025-07)
+  Automated a claims processing engine for a US hospital network in healthcare using Agentic AI, System Design and SQL, reducing processing time by 22%.
+* Retail Banking Pricing Engine — a European retail bank (2023-09 to 2024-03)
+  Built a pricing engine for a European retail bank in retail banking using Microservices and Angular, reducing processing time by 22%.
+* Pharma R&D Payments Microservices Platform — a global pharma company (2022-02 to 2023-07)
+  Migrated a payments microservices platform for a global pharma company in pharma R&D using Agentic AI, TypeScript, Java and SQL, reducing processing time by 18%.
+
+CERTIFICATIONS
+- AWS Certified Developer (2023)
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Full Stack Engineer, Frontend Engineer

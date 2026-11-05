@@ -1,0 +1,30 @@
+ANANYA MUKHERJEE
+Lead Mobile Engineer | Engineering | Chennai, India
+Employee ID: EMP11254
+
+PROFESSIONAL SUMMARY
+Lead Mobile Engineer with 10.1 years of experience, based in Chennai. Strong in Mobile Development, React, UI Design and Stakeholder Management, with recent work in insurance claims. Interested in moving towards Frontend Engineer roles and open to relocating to Hyderabad, Gurugram.
+
+CORE SKILLS
+- Software Engineering: Mobile Development (Advanced, 6.7y), React (Advanced, 8.7y), TypeScript (Proficient, 4.6y)
+- Product & Design: UI Design (Advanced, 8.9y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 6.7y), People Leadership (Proficient, 2.6y)
+- Cloud & DevOps: CI/CD (Proficient, 5.4y), Terraform (Proficient, 1.5y)
+
+EXPERIENCE
+* Supply-chain Logistics Self-service Portal — a fast-growing logistics company (2026-01 to present)
+  Built a self-service portal for a fast-growing logistics company in supply-chain logistics using Mobile Development and React, saving ~35K hours annually.
+* Manufacturing IoT Mobile Banking App — a global manufacturer (2025-04 to 2025-12)
+  Led the delivery of a mobile banking app for a global manufacturer in manufacturing IoT using Mobile Development and Stakeholder Management, improving conversion by 18%.
+* Insurance Claims Pricing Engine — an APAC insurer (2023-10 to 2025-03)
+  Scaled a pricing engine for an APAC insurer in insurance claims using Terraform, TypeScript and Stakeholder Management, improving conversion by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Frontend Engineer

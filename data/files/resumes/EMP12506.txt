@@ -1,0 +1,32 @@
+RYAN WONG
+Senior Backend Engineer | Engineering | Toronto, Canada
+Employee ID: EMP12506
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 5.3 years of experience, based in Toronto. Strong in REST API Design, SQL, Go and Microservices, with recent work in pharma R&D. Interested in moving towards AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: REST API Design (Advanced, 2.8y), Go (Proficient, 3.4y), Microservices (Proficient, 2.6y)
+- Data & AI: SQL (Advanced, 1.9y), Responsible AI (Working, 2.4y)
+- Cloud & DevOps: Kubernetes (Proficient, 3.3y), CI/CD (Proficient, 1.9y)
+
+EXPERIENCE
+* Pharma R&D Customer Onboarding Platform — a tier-1 pharma company (2026-08 to present)
+  Modernised a customer onboarding platform for a tier-1 pharma company in pharma R&D using Microservices and Go, lifting NPS by 12 points.
+* Manufacturing IoT Mobile Banking App — a European manufacturer (2025-11 to 2026-05)
+  Led the delivery of a mobile banking app for a European manufacturer in manufacturing IoT using Microservices, REST API Design, SQL and CI/CD, improving conversion by 22%.
+* Pharma R&D Mobile Banking App — a global pharma company (2024-08 to 2025-09)
+  Scaled a mobile banking app for a global pharma company in pharma R&D using CI/CD, REST API Design and Kubernetes, lifting NPS by 40 points.
+
+CERTIFICATIONS
+- Oracle Java SE Professional (2022)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, French
+
+CAREER ASPIRATIONS
+Wants to grow into a technical leadership role.
+Target roles: AI Engineer

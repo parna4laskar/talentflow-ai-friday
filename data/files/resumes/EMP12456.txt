@@ -1,0 +1,31 @@
+OMKAR MEHTA
+Senior Data Analyst | Data & Analytics | Gurugram, India
+Employee ID: EMP12456
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 7.2 years of experience, based in Gurugram. Strong in SQL, Data Visualization, A/B Testing and Power BI, with recent work in telecom billing. Interested in moving towards Business Analyst, Product Manager roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.0y), Data Visualization (Advanced, 3.1y), Power BI (Proficient, 2.4y), Statistics (Proficient, 4.6y)
+- Product & Design: A/B Testing (Advanced, 4.7y)
+- Software Engineering: Python (Working, 1.3y)
+
+EXPERIENCE
+* Telecom Billing Customer Churn Model — a global telecom operator (2026-05 to present)
+  Re-architected a customer churn model for a global telecom operator in telecom billing using A/B Testing, Power BI, SQL and Statistics, improving model accuracy by 40%.
+* Telecom Billing Real-time Analytics Pipeline — a tier-1 telecom operator (2025-01 to 2026-02)
+  Led the delivery of a real-time analytics pipeline for a tier-1 telecom operator in telecom billing using Python, Statistics and Data Visualization, reducing processing time by 12%.
+* Wealth Management Data Lakehouse — a leading wealth manager (2024-03 to 2024-12)
+  Designed a data lakehouse for a leading wealth manager in wealth management using Statistics, Power BI, Data Visualization and A/B Testing, cutting cloud spend by 30%.
+* Retail Banking Customer Churn Model — a fast-growing retail bank (2023-04 to 2024-02)
+  Designed a customer churn model for a fast-growing retail bank in retail banking using Statistics, Data Visualization, SQL and Power BI, improving model accuracy by 40%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Business Analyst, Product Manager

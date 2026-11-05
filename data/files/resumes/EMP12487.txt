@@ -1,0 +1,34 @@
+VENKAT BOSE
+Lead Backend Engineer | Engineering | Pune, India
+Employee ID: EMP12487
+
+PROFESSIONAL SUMMARY
+Lead Backend Engineer with 13.5 years of experience, based in Pune. Strong in SQL, C#, REST API Design and Microservices, with recent work in retail banking. Interested in moving towards DevOps Engineer roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 11.6y), Agentic AI (Beginner, 0.3y)
+- Software Engineering: C# (Advanced, 11.4y), REST API Design (Advanced, 4.6y), Microservices (Advanced, 12.1y), Kafka (Proficient, 2.2y), Spring Boot (Working, 4.4y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 6.5y), Communication (Working, 6.2y)
+
+EXPERIENCE
+* Retail Banking Claims Processing Engine — a fast-growing retail bank (2025-12 to present)
+  Migrated a claims processing engine for a fast-growing retail bank in retail banking using Stakeholder Management and Microservices, reducing processing time by 12%.
+* Retail Banking Payments Microservices Platform — a fast-growing retail bank (2025-02 to 2025-11)
+  Scaled a payments microservices platform for a fast-growing retail bank in retail banking using SQL, C# and Microservices, reducing production incidents by 25%.
+* Retail Banking Pricing Engine — a fast-growing retail bank (2023-07 to 2025-01)
+  Modernised a pricing engine for a fast-growing retail bank in retail banking using REST API Design, Communication, C# and Microservices, improving conversion by 30%.
+* Insurance Claims Order Management System — a fast-growing insurer (2022-12 to 2023-07)
+  Built an order management system for a fast-growing insurer in insurance claims using Microservices, Communication, REST API Design and C#, onboarding 2 new enterprise clients.
+
+CERTIFICATIONS
+- AWS Certified Developer (2025)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer

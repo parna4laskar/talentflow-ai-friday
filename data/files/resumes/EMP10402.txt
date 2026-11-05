@@ -1,0 +1,26 @@
+ANJALI SHEIKH
+Associate Data Scientist | Data & Analytics | Hyderabad, India
+Employee ID: EMP10402
+
+PROFESSIONAL SUMMARY
+Associate Data Scientist with 0.1 years of experience, based in Hyderabad. Strong in Machine Learning, Python, Statistics and SQL, with recent work in energy trading. Interested in moving towards ML Engineer, Product Manager roles and open to relocating to Bengaluru, London, Dublin.
+
+CORE SKILLS
+- Data & AI: Machine Learning (Advanced, 0.4y), Statistics (Working, 0.3y), SQL (Working, 0.3y), NLP (Beginner, 0.3y), Generative AI (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.3y), Go (Working, 0.3y)
+
+EXPERIENCE
+* Manufacturing IoT Executive KPI Dashboard Suite — an APAC manufacturer (2026-01 to present)
+  Led the delivery of an executive KPI dashboard suite for an APAC manufacturer in manufacturing IoT using Python, Generative AI and NLP, saving ~22K hours annually.
+* Retail Banking Data Lakehouse — a fast-growing retail bank (2024-07 to 2026-01)
+  Re-architected a data lakehouse for a fast-growing retail bank in retail banking using SQL and Python, cutting cloud spend by 12%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, Product Manager

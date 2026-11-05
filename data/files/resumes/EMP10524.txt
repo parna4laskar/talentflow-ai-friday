@@ -1,0 +1,33 @@
+RITESH MALHOTRA
+Senior Data Engineer | Data & Analytics | Bengaluru, India
+Employee ID: EMP10524
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5.1 years of experience, based in Bengaluru. Strong in SQL, Python, Data Engineering and AWS, with recent work in airline operations. Interested in moving towards Data Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 3.8y), Data Engineering (Advanced, 0.9y), Data Governance (Advanced, 5.0y), dbt (Proficient, 3.1y), Databricks (Proficient, 3.5y), Airflow (Proficient, 0.5y), Snowflake (Beginner, 1.1y)
+- Software Engineering: Python (Advanced, 4.9y)
+- Cloud & DevOps: AWS (Advanced, 4.3y)
+- Delivery & Leadership: Communication (Proficient, 2.1y)
+
+EXPERIENCE
+* Airline Operations Real-time Analytics Pipeline — a European airline (2026-02 to present)
+  Designed a real-time analytics pipeline for a European airline in airline operations using dbt and Data Governance, reducing processing time by 35%.
+* Airline Operations Executive KPI Dashboard Suite — a leading airline (2024-11 to 2025-12)
+  Led the delivery of an executive KPI dashboard suite for a leading airline in airline operations using AWS and Data Engineering, saving ~12K hours annually.
+* Healthcare Regulatory Reporting Suite — an APAC hospital network (2023-07 to 2024-10)
+  Migrated a regulatory reporting suite for an APAC hospital network in healthcare using SQL and dbt, saving ~25K hours annually.
+
+CERTIFICATIONS
+- Databricks Data Engineer Associate (2021)
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Engineer, Data Scientist, AI Engineer

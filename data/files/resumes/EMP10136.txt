@@ -1,0 +1,27 @@
+KRZYSZTOF WÓJCIK
+Full Stack Engineer | Engineering | Kraków, Poland
+Employee ID: EMP10136
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 2.3 years of experience, based in Kraków. Strong in TypeScript, React, SQL and REST API Design, with recent work in energy trading. Interested in moving towards Backend Engineer roles and open to relocating to London, Chennai.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 0.6y), React (Proficient, 0.4y), REST API Design (Proficient, 1.0y), Node.js (Working, 0.4y), GraphQL (Working, 1.1y), Flutter (Working, 0.7y), JavaScript (Beginner, 0.4y)
+- Data & AI: SQL (Proficient, 0.8y)
+- Cloud & DevOps: AWS (Working, 0.6y)
+
+EXPERIENCE
+* Energy Trading Order Management System — a tier-1 energy company (2026-10 to present)
+  Migrated an order management system for a tier-1 energy company in energy trading using GraphQL, Flutter and SQL, reducing processing time by 18%.
+* Public Sector Customer Onboarding Platform — a leading government agency (2025-06 to 2026-08)
+  Automated a customer onboarding platform for a leading government agency in public sector using TypeScript, REST API Design, JavaScript and AWS, improving conversion by 22%.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+Polish, English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer

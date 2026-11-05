@@ -1,0 +1,31 @@
+ASHLEY LEE
+Senior Security Engineer | Cyber Security | New York, United States
+Employee ID: EMP12513
+
+PROFESSIONAL SUMMARY
+Senior Security Engineer with 8.7 years of experience, based in New York. Strong in Application Security, Identity & Access Management, Threat Modeling and Python, with recent work in wealth management. Interested in moving towards Security Analyst, Cloud Engineer roles and open to relocating to Toronto.
+
+CORE SKILLS
+- Security: Application Security (Advanced, 3.6y), Identity & Access Management (Advanced, 7.4y), Threat Modeling (Proficient, 1.2y), GRC (Proficient, 6.2y), SIEM (Working, 0.8y)
+- Software Engineering: Python (Proficient, 3.1y)
+- Cloud & DevOps: AWS (Proficient, 4.1y), Kubernetes (Working, 2.2y)
+- Data & AI: Databricks (Proficient, 2.9y)
+- Delivery & Leadership: Communication (Proficient, 3.2y)
+
+EXPERIENCE
+* HR Tech Secure SDLC Rollout — a European HR software company (2025-07 to present)
+  Led the delivery of a secure SDLC rollout for a European HR software company in HR tech using Identity & Access Management, Threat Modeling, GRC and SIEM, accelerating releases by 40%.
+* Wealth Management Security Operations Centre Uplift — a fast-growing wealth manager (2024-02 to 2025-05)
+  Scaled a security operations centre uplift for a fast-growing wealth manager in wealth management using GRC, Databricks and Communication, reducing production incidents by 18%.
+* Wealth Management Cloud Security Posture Programme — a European wealth manager (2023-01 to 2023-12)
+  Re-architected a cloud security posture programme for a European wealth manager in wealth management using Kubernetes, GRC and Identity & Access Management, reducing production incidents by 30%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Arabic
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Security Analyst, Cloud Engineer, Site Reliability Engineer

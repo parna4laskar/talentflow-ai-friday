@@ -1,0 +1,36 @@
+MOHAMMED WILSON
+Lead Software Architect | Engineering | London, United Kingdom
+Employee ID: EMP11858
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 15.2 years of experience, based in London. Strong in Microservices, Kubernetes, Communication and System Design, with recent work in airline operations. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Microservices (Expert, 15.2y), System Design (Advanced, 4.6y), Python (Advanced, 13.1y), Kafka (Proficient, 1.3y), REST API Design (Proficient, 4.0y)
+- Cloud & DevOps: Kubernetes (Expert, 15.2y), GCP (Advanced, 11.7y)
+- Delivery & Leadership: Communication (Expert, 14.6y), People Leadership (Expert, 5.8y), Mentoring (Proficient, 3.7y)
+- Security: Cloud Security (Advanced, 14.5y)
+
+EXPERIENCE
+* Airline Operations Claims Processing Engine — a global airline (2026-06 to present)
+  Built a claims processing engine for a global airline in airline operations using Kubernetes, Kafka and Python, saving ~22K hours annually.
+* Public Sector Self-service Portal — a US government agency (2025-08 to 2026-03)
+  Designed a self-service portal for a US government agency in public sector using Python and GCP, lifting NPS by 30 points.
+* Airline Operations Self-service Portal — a leading airline (2024-01 to 2025-06)
+  Migrated a self-service portal for a leading airline in airline operations using Microservices and GCP, lifting NPS by 40 points.
+* Airline Operations Payments Microservices Platform — a global airline (2022-11 to 2023-10)
+  Scaled a payments microservices platform for a global airline in airline operations using Mentoring, Kubernetes and System Design, reducing production incidents by 30%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2026)
+- TOGAF 10 (2021)
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Engineering Manager, DevOps Engineer

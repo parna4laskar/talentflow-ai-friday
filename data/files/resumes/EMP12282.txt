@@ -1,0 +1,34 @@
+BHAVANA NAIR
+Senior CRM Consultant | Enterprise Applications | Pune, India
+Employee ID: EMP12282
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 8.8 years of experience, based in Pune. Strong in Process Improvement, Agile/Scrum, ServiceNow and Business Analysis, with recent work in public sector. Interested in moving towards CRM Consultant, Account Manager roles and open to relocating to Bengaluru, Gurugram.
+
+CORE SKILLS
+- Business & Finance: Process Improvement (Advanced, 3.6y), ServiceNow (Proficient, 1.9y), Business Analysis (Proficient, 5.6y), Requirements Gathering (Working, 3.9y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 1.7y), Communication (Proficient, 2.6y)
+- Software Engineering: JavaScript (Proficient, 4.0y)
+
+EXPERIENCE
+* Payments ERP Finance Rollout — a US payments provider (2026-04 to present)
+  Automated an ERP finance rollout for a US payments provider in payments using Communication, Requirements Gathering, Process Improvement and JavaScript, saving ~12K hours annually.
+* Wealth Management CRM Rollout — a leading wealth manager (2025-06 to 2026-03)
+  Re-architected a CRM rollout for a leading wealth manager in wealth management using JavaScript and Requirements Gathering, reducing processing time by 12%.
+* Public Sector ERP Finance Rollout — a tier-1 government agency (2024-06 to 2025-04)
+  Automated an ERP finance rollout for a tier-1 government agency in public sector using Business Analysis and ServiceNow, reducing processing time by 25%.
+* Public Sector ERP Finance Rollout — a fast-growing government agency (2022-11 to 2024-04)
+  Built an ERP finance rollout for a fast-growing government agency in public sector using Process Improvement and JavaScript, reducing processing time by 12%.
+
+CERTIFICATIONS
+- Salesforce Platform Developer I (2022)
+
+EDUCATION
+- B.Com
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: CRM Consultant, Account Manager, Business Analyst

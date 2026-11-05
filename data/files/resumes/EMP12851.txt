@@ -1,0 +1,31 @@
+SAYALI IYER
+Data Analyst | Data & Analytics | Bengaluru, India
+Employee ID: EMP12851
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4.6 years of experience, based in Bengaluru. Strong in A/B Testing, Data Visualization, Tableau and Python, with recent work in energy trading. Interested in moving towards Data Analyst, Business Analyst roles.
+
+CORE SKILLS
+- Product & Design: A/B Testing (Advanced, 1.0y)
+- Data & AI: Data Visualization (Proficient, 1.9y), Tableau (Proficient, 3.3y), SQL (Working, 1.1y), Statistics (Working, 1.2y), Snowflake (Working, 0.7y)
+- Software Engineering: Python (Proficient, 2.8y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 3.2y)
+- Business & Finance: Business Analysis (Beginner, 0.6y)
+
+EXPERIENCE
+* Energy Trading Customer Churn Model — a leading energy company (2026-05 to present)
+  Migrated a customer churn model for a leading energy company in energy trading using Python and Snowflake, improving model accuracy by 12%.
+* Energy Trading Executive KPI Dashboard Suite — an APAC energy company (2025-06 to 2026-04)
+  Built an executive KPI dashboard suite for an APAC energy company in energy trading using Snowflake, Stakeholder Management, A/B Testing and Statistics, saving ~18K hours annually.
+* Energy Trading Customer Churn Model — a European energy company (2024-10 to 2025-04)
+  Built a customer churn model for a European energy company in energy trading using A/B Testing, Stakeholder Management, Statistics and Tableau, improving conversion by 22%.
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Data Analyst, Business Analyst

@@ -1,0 +1,29 @@
+DEEPIKA WONG
+Lead DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12728
+
+PROFESSIONAL SUMMARY
+Lead DevOps Engineer with 15.6 years of experience, based in Hyderabad. Strong in AWS, CI/CD, Docker and Kubernetes, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, Backend Engineer roles and open to relocating to Chennai, Bengaluru.
+
+CORE SKILLS
+- Cloud & DevOps: AWS (Expert, 4.1y), CI/CD (Advanced, 5.9y), Docker (Advanced, 7.7y), Kubernetes (Advanced, 6.8y), Observability (Proficient, 3.4y), Linux Administration (Proficient, 0.5y)
+- Software Engineering: Python (Advanced, 4.2y), Go (Proficient, 3.2y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 4.1y), Communication (Advanced, 9.1y), Mentoring (Working, 2.5y)
+
+EXPERIENCE
+* Pharma R&D CI/CD Platform — an APAC pharma company (2025-12 to present)
+  Modernised a CI/CD platform for an APAC pharma company in pharma R&D using Observability, Go and Mentoring, accelerating releases by 22%.
+* Public Sector Kubernetes Platform — a global government agency (2024-11 to 2025-11)
+  Designed a Kubernetes platform for a global government agency in public sector using Stakeholder Management and CI/CD, cutting cloud spend by 30%.
+* Pharma R&D CI/CD Platform — an APAC pharma company (2023-12 to 2024-08)
+  Re-architected a CI/CD platform for an APAC pharma company in pharma R&D using Kubernetes and Stakeholder Management, accelerating releases by 25%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer, Backend Engineer, Cloud Engineer

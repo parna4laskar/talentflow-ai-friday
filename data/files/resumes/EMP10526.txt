@@ -1,0 +1,29 @@
+NOAH KIM
+QA Engineer | Quality Engineering | Austin, United States
+Employee ID: EMP10526
+
+PROFESSIONAL SUMMARY
+QA Engineer with 2.5 years of experience, based in Austin. Strong in Selenium, Performance Testing, Agile/Scrum and Test Automation, with recent work in energy trading. Interested in moving towards Mobile Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Selenium (Advanced, 1.7y), Performance Testing (Advanced, 1.2y), Test Automation (Proficient, 1.5y), API Testing (Proficient, 1.5y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 2.2y)
+- Data & AI: SQL (Proficient, 1.2y), Data Engineering (Working, 1.0y)
+- Cloud & DevOps: Terraform (Working, 1.0y), CI/CD (Beginner, 0.6y)
+- Software Engineering: Python (Beginner, 0.3y)
+
+EXPERIENCE
+* Energy Trading API Contract-testing Suite — a US energy company (2026-04 to present)
+  Re-architected an API contract-testing suite for a US energy company in energy trading using CI/CD, Selenium, Python and Performance Testing, raising automated test coverage to 70%.
+* Payments Test Automation Framework — a tier-1 payments provider (2025-09 to 2026-03)
+  Migrated a test automation framework for a tier-1 payments provider in payments using Test Automation and SQL, accelerating releases by 18%.
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Japanese
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Mobile Engineer

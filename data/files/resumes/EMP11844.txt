@@ -1,0 +1,30 @@
+JANHAVI KRISHNAN
+Associate Data Engineer | Data & Analytics | Pune, India
+Employee ID: EMP11844
+
+PROFESSIONAL SUMMARY
+Associate Data Engineer with 0.6 years of experience, based in Pune. Strong in SQL, Data Engineering, Python and Airflow, with recent work in retail banking. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Advanced, 0.6y), Data Engineering (Proficient, 0.4y), Airflow (Working, 0.3y), Snowflake (Working, 0.3y), Data Governance (Beginner, 0.3y)
+- Software Engineering: Python (Working, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.3y)
+
+EXPERIENCE
+* Retail Banking Executive KPI Dashboard Suite — an APAC retail bank (2025-12 to present)
+  Designed an executive KPI dashboard suite for an APAC retail bank in retail banking using Python and Airflow, saving ~22K hours annually.
+* Wealth Management Data Lakehouse — a US wealth manager (2024-11 to 2025-10)
+  Designed a data lakehouse for a US wealth manager in wealth management using Data Governance, Data Engineering, Snowflake and SQL, cutting cloud spend by 12%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Hindi, Japanese
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Data Scientist

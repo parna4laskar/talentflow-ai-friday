@@ -1,0 +1,29 @@
+SIDDHARTH SHAH
+Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12395
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 5.2 years of experience, based in Hyderabad. Strong in System Design, Python, Microservices and Kubernetes, with recent work in wealth management. Interested in moving towards Software Architect, AI Engineer roles.
+
+CORE SKILLS
+- Software Engineering: System Design (Advanced, 1.8y), Python (Proficient, 0.6y), Microservices (Proficient, 2.1y), REST API Design (Working, 0.8y)
+- Cloud & DevOps: Kubernetes (Proficient, 2.5y), CI/CD (Beginner, 0.6y)
+- Data & AI: SQL (Working, 1.2y)
+
+EXPERIENCE
+* Wealth Management Payments Microservices Platform — a leading wealth manager (2026-03 to present)
+  Built a payments microservices platform for a leading wealth manager in wealth management using REST API Design and Kubernetes, reducing processing time by 35%.
+* Wealth Management Order Management System — a European wealth manager (2025-04 to 2026-01)
+  Led the delivery of an order management system for a European wealth manager in wealth management using REST API Design, SQL and System Design, onboarding 2 new enterprise clients.
+* Energy Trading Payments Microservices Platform — an APAC energy company (2024-08 to 2025-03)
+  Led the delivery of a payments microservices platform for an APAC energy company in energy trading using Python, CI/CD and REST API Design, accelerating releases by 35%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect, AI Engineer

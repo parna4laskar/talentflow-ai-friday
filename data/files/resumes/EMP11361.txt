@@ -1,0 +1,30 @@
+TEJAS ZIELIŃSKI
+Lead Software Architect | Engineering | Bengaluru, India
+Employee ID: EMP11361
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 10 years of experience, based in Bengaluru. Strong in Java, GCP, Cloud Security and REST API Design, with recent work in healthcare. Interested in moving towards Backend Engineer roles and open to relocating to Gurugram, Kraków, Austin.
+
+CORE SKILLS
+- Software Engineering: Java (Advanced, 4.6y), REST API Design (Advanced, 3.9y), System Design (Proficient, 3.7y), Microservices (Proficient, 7.0y)
+- Cloud & DevOps: GCP (Advanced, 1.9y), Kubernetes (Proficient, 7.4y)
+- Security: Cloud Security (Advanced, 1.8y)
+- Delivery & Leadership: People Leadership (Advanced, 6.8y), Stakeholder Management (Proficient, 1.1y)
+
+EXPERIENCE
+* Healthcare Customer Onboarding Platform — a leading hospital network (2026-01 to present)
+  Re-architected a customer onboarding platform for a leading hospital network in healthcare using GCP and Microservices, improving conversion by 22%.
+* Energy Trading Claims Processing Engine — a fast-growing energy company (2024-07 to 2025-12)
+  Led the delivery of a claims processing engine for a fast-growing energy company in energy trading using Microservices, Java and Stakeholder Management, reducing processing time by 35%.
+* Healthcare Customer Onboarding Platform — a fast-growing hospital network (2023-10 to 2024-06)
+  Re-architected a customer onboarding platform for a fast-growing hospital network in healthcare using System Design, Kubernetes and GCP, lifting NPS by 22 points.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Backend Engineer

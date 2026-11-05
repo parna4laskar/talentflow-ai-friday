@@ -1,0 +1,34 @@
+LAKSHMI SHARMA
+Lead QA Engineer | Quality Engineering | Chennai, India
+Employee ID: EMP12577
+
+PROFESSIONAL SUMMARY
+Lead QA Engineer with 12.5 years of experience, based in Chennai. Strong in Test Automation, Selenium, API Testing and Performance Testing, with recent work in HR tech. Interested in moving towards Engineering Manager, Backend Engineer roles.
+
+CORE SKILLS
+- Quality Engineering: Test Automation (Advanced, 6.8y), Selenium (Advanced, 2.5y), API Testing (Advanced, 1.1y), Performance Testing (Advanced, 8.9y)
+- Software Engineering: Java (Proficient, 7.9y)
+- Delivery & Leadership: Agile/Scrum (Proficient, 3.2y)
+
+EXPERIENCE
+* HR Tech Test Automation Framework — a fast-growing HR software company (2026-05 to present)
+  Re-architected a test automation framework for a fast-growing HR software company in HR tech using Performance Testing, Selenium, API Testing and Agile/Scrum, accelerating releases by 30%.
+* HR Tech Performance Engineering Programme — a fast-growing HR software company (2025-08 to 2026-04)
+  Scaled a performance engineering programme for a fast-growing HR software company in HR tech using Selenium and Test Automation, accelerating releases by 40%.
+* HR Tech Performance Engineering Programme — a US HR software company (2024-11 to 2025-06)
+  Re-architected a performance engineering programme for a US HR software company in HR tech using Agile/Scrum, API Testing and Selenium, accelerating releases by 18%.
+* Pharma R&D Performance Engineering Programme — a US pharma company (2024-03 to 2024-09)
+  Automated a performance engineering programme for a US pharma company in pharma R&D using Performance Testing and Selenium, accelerating releases by 25%.
+
+CERTIFICATIONS
+- ISTQB Advanced Test Automation (2025)
+
+EDUCATION
+- B.Sc IT
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: Engineering Manager, Backend Engineer

@@ -1,0 +1,27 @@
+HARPREET NAIR
+Associate Security Analyst | Cyber Security | Pune, India
+Employee ID: EMP10892
+
+PROFESSIONAL SUMMARY
+Associate Security Analyst with 2.1 years of experience, based in Pune. Strong in SIEM, Incident Response, GRC and Linux Administration, with recent work in payments. Interested in moving towards DevOps Engineer, Site Reliability Engineer roles.
+
+CORE SKILLS
+- Security: SIEM (Advanced, 1.8y), Incident Response (Proficient, 0.9y), GRC (Working, 0.5y), Threat Modeling (Working, 1.0y)
+- Cloud & DevOps: Linux Administration (Working, 0.5y)
+- Delivery & Leadership: Communication (Working, 1.0y)
+
+EXPERIENCE
+* Payments Identity and Access Platform — a leading payments provider (2026-05 to present)
+  Scaled an identity and access platform for a leading payments provider in payments using Incident Response and Communication, closing 35% of open audit findings.
+* Healthcare Identity and Access Platform — a US hospital network (2025-04 to 2026-02)
+  Led the delivery of an identity and access platform for a US hospital network in healthcare using Threat Modeling and SIEM, closing 18% of open audit findings.
+
+EDUCATION
+- MSc Cyber Security
+
+LANGUAGES
+English, Hindi, German
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Site Reliability Engineer, Security Engineer

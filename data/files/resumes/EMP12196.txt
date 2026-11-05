@@ -1,0 +1,28 @@
+NAVEEN PATIL
+Associate Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12196
+
+PROFESSIONAL SUMMARY
+Associate Backend Engineer with 1.6 years of experience, based in Hyderabad. Strong in Java, REST API Design, SQL and Microservices, with recent work in payments. Interested in moving towards Backend Engineer, Engineering Manager roles.
+
+CORE SKILLS
+- Software Engineering: Java (Proficient, 0.7y), REST API Design (Proficient, 0.9y), Microservices (Proficient, 0.5y), System Design (Working, 0.8y), Spring Boot (Working, 0.7y)
+- Data & AI: SQL (Proficient, 1.0y)
+- Cloud & DevOps: CI/CD (Working, 0.6y), Terraform (Beginner, 0.3y)
+- Delivery & Leadership: Communication (Beginner, 0.4y)
+
+EXPERIENCE
+* Retail Banking Payments Microservices Platform — a tier-1 retail bank (2026-10 to present)
+  Re-architected a payments microservices platform for a tier-1 retail bank in retail banking using Microservices, REST API Design and Communication, accelerating releases by 40%.
+* Payments Mobile Banking App — a leading payments provider (2025-03 to 2026-09)
+  Built a mobile banking app for a leading payments provider in payments using System Design and Terraform, lifting NPS by 40 points.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Backend Engineer, Engineering Manager, AI Engineer

@@ -1,0 +1,34 @@
+AAROHI SHAH
+Senior Business Analyst | Business Consulting | Chennai, India
+Employee ID: EMP12695
+
+PROFESSIONAL SUMMARY
+Senior Business Analyst with 7.6 years of experience, based in Chennai. Strong in Stakeholder Management, SQL, Business Analysis and Requirements Gathering, with recent work in e-commerce. Interested in moving towards Business Analyst, Account Manager roles.
+
+CORE SKILLS
+- Delivery & Leadership: Stakeholder Management (Advanced, 1.5y), Agile/Scrum (Proficient, 3.9y), Communication (Proficient, 4.9y)
+- Data & AI: SQL (Advanced, 6.3y), Power BI (Proficient, 4.4y), dbt (Working, 0.5y)
+- Business & Finance: Business Analysis (Proficient, 2.4y), Requirements Gathering (Proficient, 3.3y), Salesforce (Working, 1.5y)
+
+EXPERIENCE
+* Payments Core Banking Transformation Programme — a global payments provider (2026-09 to present)
+  Coordinated a core banking transformation programme for a global payments provider in payments using Salesforce and Stakeholder Management, delivering on time across 5 workstreams.
+* Energy Trading Cloud Migration Programme — a European energy company (2025-07 to 2026-08)
+  Led a cloud migration programme for a European energy company in energy trading using Power BI and Business Analysis, delivering on time across 8 workstreams.
+* E-commerce Core Banking Transformation Programme — a global online retailer (2024-04 to 2025-06)
+  Led a core banking transformation programme for a global online retailer in e-commerce using dbt, Communication and Requirements Gathering, delivering $3M in cost savings.
+* Public Sector Core Banking Transformation Programme — a global government agency (2022-10 to 2024-03)
+  Coordinated a core banking transformation programme for a global government agency in public sector using Communication, Requirements Gathering, Agile/Scrum and Power BI, delivering on time across 8 workstreams.
+
+CERTIFICATIONS
+- PMI-PBA (2021)
+
+EDUCATION
+- MBA
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Business Analyst, Account Manager, Data Analyst

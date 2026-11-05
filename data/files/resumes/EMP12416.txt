@@ -1,0 +1,29 @@
+MAGDALENA KOWALSKI
+Lead Engineering Manager | Engineering | Kraków, Poland
+Employee ID: EMP12416
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 15.5 years of experience, based in Kraków. Strong in People Leadership, System Design, Agile/Scrum and Stakeholder Management, with recent work in retail banking. Interested in moving towards Backend Engineer roles.
+
+CORE SKILLS
+- Delivery & Leadership: People Leadership (Advanced, 6.2y), Agile/Scrum (Advanced, 7.5y), Stakeholder Management (Advanced, 14.6y), Mentoring (Advanced, 6.3y), Communication (Proficient, 1.9y)
+- Software Engineering: System Design (Advanced, 14.3y), Python (Advanced, 4.8y), Java (Proficient, 0.7y), Microservices (Working, 1.7y), REST API Design (Working, 5.1y)
+- Cloud & DevOps: Terraform (Proficient, 0.5y)
+
+EXPERIENCE
+* Retail Banking Self-service Portal — a US retail bank (2026-11 to present)
+  Built a self-service portal for a US retail bank in retail banking using Mentoring, System Design and Stakeholder Management, saving ~12K hours annually.
+* Retail Banking Order Management System — a tier-1 retail bank (2026-02 to 2026-09)
+  Led the delivery of an order management system for a tier-1 retail bank in retail banking using Terraform, System Design, REST API Design and Python, reducing processing time by 30%.
+* Payments Mobile Banking App — a fast-growing payments provider (2024-07 to 2025-11)
+  Scaled a mobile banking app for a fast-growing payments provider in payments using Mentoring and REST API Design, lifting NPS by 22 points.
+
+EDUCATION
+- B.E. Information Technology
+
+LANGUAGES
+Polish, English, Spanish
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Backend Engineer

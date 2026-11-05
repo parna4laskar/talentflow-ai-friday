@@ -1,0 +1,29 @@
+SNEHA BOSE
+Lead Engineering Manager | Engineering | Bengaluru, India
+Employee ID: EMP11675
+
+PROFESSIONAL SUMMARY
+Lead Engineering Manager with 14.2 years of experience, based in Bengaluru. Strong in System Design, Agile/Scrum, Stakeholder Management and Mentoring, with recent work in telecom billing. Interested in moving towards Software Architect, Scrum Master roles and open to relocating to Toronto, Pune.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 14.2y), Microservices (Advanced, 2.1y), Java (Proficient, 3.7y)
+- Delivery & Leadership: Agile/Scrum (Advanced, 8.1y), Stakeholder Management (Advanced, 11.1y), Mentoring (Advanced, 6.4y), People Leadership (Proficient, 8.2y), Communication (Working, 1.3y)
+- Cloud & DevOps: AWS (Proficient, 9.3y)
+
+EXPERIENCE
+* Telecom Billing Claims Processing Engine — a global telecom operator (2026-06 to present)
+  Migrated a claims processing engine for a global telecom operator in telecom billing using Stakeholder Management, AWS, Agile/Scrum and Communication, saving ~22K hours annually.
+* Telecom Billing Customer Onboarding Platform — a European telecom operator (2025-08 to 2026-05)
+  Migrated a customer onboarding platform for a European telecom operator in telecom billing using Microservices, System Design, AWS and Agile/Scrum, reducing processing time by 40%.
+* Payments Claims Processing Engine — a tier-1 payments provider (2024-06 to 2025-05)
+  Re-architected a claims processing engine for a tier-1 payments provider in payments using System Design and Java, reducing processing time by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Software Architect, Scrum Master

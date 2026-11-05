@@ -1,0 +1,30 @@
+GAURI DAS
+Security Engineer | Cyber Security | Bengaluru, India
+Employee ID: EMP11621
+
+PROFESSIONAL SUMMARY
+Security Engineer with 2.5 years of experience, based in Bengaluru. Strong in Cloud Security, Application Security, Threat Modeling and AWS, with recent work in supply-chain logistics. Interested in moving towards Site Reliability Engineer, Cloud Engineer roles.
+
+CORE SKILLS
+- Security: Cloud Security (Advanced, 1.7y), Application Security (Proficient, 1.3y), Threat Modeling (Proficient, 1.0y)
+- Cloud & DevOps: AWS (Working, 0.3y), Kubernetes (Working, 1.1y), Observability (Working, 0.6y)
+
+EXPERIENCE
+* HR Tech Secure SDLC Rollout — a global HR software company (2026-09 to present)
+  Modernised a secure SDLC rollout for a global HR software company in HR tech using Observability, Application Security, Cloud Security and Threat Modeling, accelerating releases by 12%.
+* Telecom Billing Secure SDLC Rollout — a tier-1 telecom operator (2025-05 to 2026-08)
+  Re-architected a secure SDLC rollout for a tier-1 telecom operator in telecom billing using Observability, Kubernetes and AWS, accelerating releases by 12%.
+
+CERTIFICATIONS
+- CISSP (2025)
+- CEH (2025)
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Site Reliability Engineer, Cloud Engineer

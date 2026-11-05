@@ -1,0 +1,29 @@
+OLIVER KHAN
+Full Stack Engineer | Engineering | London, United Kingdom
+Employee ID: EMP11556
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 4 years of experience, based in London. Strong in TypeScript, React, AWS and Python, with recent work in supply-chain logistics. Interested in moving towards Backend Engineer, Frontend Engineer roles and open to relocating to Gurugram.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Advanced, 2.2y), React (Advanced, 1.0y), Python (Proficient, 1.7y), Go (Working, 0.5y)
+- Cloud & DevOps: AWS (Advanced, 2.9y), Docker (Working, 0.7y)
+- Data & AI: SQL (Working, 0.3y), Databricks (Working, 0.3y)
+
+EXPERIENCE
+* E-commerce Customer Onboarding Platform — an APAC online retailer (2026-04 to present)
+  Modernised a customer onboarding platform for an APAC online retailer in e-commerce using Docker and TypeScript, reducing processing time by 25%.
+* Supply-chain Logistics Customer Onboarding Platform — a global logistics company (2025-08 to 2026-02)
+  Built a customer onboarding platform for a global logistics company in supply-chain logistics using SQL and AWS, lifting NPS by 35 points.
+* Healthcare Customer Onboarding Platform — a US hospital network (2024-06 to 2025-06)
+  Led the delivery of a customer onboarding platform for a US hospital network in healthcare using Go, TypeScript, AWS and Databricks, improving conversion by 35%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Frontend Engineer

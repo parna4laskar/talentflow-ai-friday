@@ -1,0 +1,32 @@
+OMKAR BANERJEE
+Senior UX Designer | Design | Pune, India
+Employee ID: EMP11829
+
+PROFESSIONAL SUMMARY
+Senior UX Designer with 9.7 years of experience, based in Pune. Strong in UX Research, UI Design, Figma and Communication, with recent work in insurance claims. Interested in moving towards UX Designer, Frontend Engineer roles.
+
+CORE SKILLS
+- Product & Design: UX Research (Proficient, 4.8y), UI Design (Proficient, 2.0y), Figma (Proficient, 4.4y), A/B Testing (Working, 3.9y)
+- Delivery & Leadership: Communication (Proficient, 2.9y)
+- People & Marketing: Digital Marketing (Proficient, 2.2y)
+- Data & AI: LLM Engineering (Beginner, 1.9y)
+
+EXPERIENCE
+* Insurance Claims Enterprise Design System — a fast-growing insurer (2025-06 to present)
+  Ran research for an enterprise design system for a fast-growing insurer in insurance claims using UI Design and UX Research, lifting NPS by 30 points.
+* Pharma R&D Enterprise Design System — a tier-1 pharma company (2024-04 to 2025-06)
+  Led UX for an enterprise design system for a tier-1 pharma company in pharma R&D using UX Research and Figma, accelerating releases by 40%.
+* Public Sector Customer Self-service Journey — an APAC government agency (2023-01 to 2024-03)
+  Designed a customer self-service journey for an APAC government agency in public sector using LLM Engineering, Digital Marketing, Figma and A/B Testing, lifting NPS by 40 points.
+* Insurance Claims Onboarding Flow — an APAC insurer (2022-07 to 2022-12)
+  Designed an onboarding flow for an APAC insurer in insurance claims using Communication, UI Design, A/B Testing and UX Research, lifting NPS by 40 points.
+
+EDUCATION
+- M.Des
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: UX Designer, Frontend Engineer, Talent Acquisition Specialist, Marketing Specialist

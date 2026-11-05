@@ -1,0 +1,29 @@
+POOJA GUPTA
+Lead Data Analyst | Data & Analytics | Gurugram, India
+Employee ID: EMP12065
+
+PROFESSIONAL SUMMARY
+Lead Data Analyst with 15.3 years of experience, based in Gurugram. Strong in SQL, Power BI, Stakeholder Management and Business Analysis, with recent work in insurance claims. Interested in moving towards Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: SQL (Expert, 6.0y), Power BI (Advanced, 4.4y), Snowflake (Advanced, 14.5y), Data Visualization (Proficient, 2.4y)
+- Delivery & Leadership: Stakeholder Management (Advanced, 11.9y), Communication (Proficient, 6.8y), People Leadership (Proficient, 2.5y)
+- Business & Finance: Business Analysis (Advanced, 7.2y)
+
+EXPERIENCE
+* Insurance Claims Customer Churn Model — a US insurer (2025-11 to present)
+  Re-architected a customer churn model for a US insurer in insurance claims using Power BI, Data Visualization and Communication, improving model accuracy by 12%.
+* HR Tech Data Lakehouse — a leading HR software company (2024-11 to 2025-09)
+  Designed a data lakehouse for a leading HR software company in HR tech using Data Visualization, Power BI and Communication, reducing processing time by 22%.
+* Insurance Claims Data Lakehouse — a European insurer (2023-06 to 2024-09)
+  Led the delivery of a data lakehouse for a European insurer in insurance claims using SQL, Stakeholder Management and Snowflake, reducing processing time by 30%.
+
+EDUCATION
+- MSc Data Science
+
+LANGUAGES
+English, Hindi, Bengali
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Scientist

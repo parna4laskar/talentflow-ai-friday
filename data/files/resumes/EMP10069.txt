@@ -1,0 +1,31 @@
+MIA MILLER
+Senior CRM Consultant | Enterprise Applications | New York, United States
+Employee ID: EMP10069
+
+PROFESSIONAL SUMMARY
+Senior CRM Consultant with 10.1 years of experience, based in New York. Strong in ServiceNow, Business Analysis, Process Improvement and JavaScript, with recent work in pharma R&D. Interested in moving towards Account Manager roles and open to relocating to Hyderabad.
+
+CORE SKILLS
+- Business & Finance: ServiceNow (Advanced, 6.5y), Business Analysis (Proficient, 1.8y), Process Improvement (Proficient, 1.2y), Requirements Gathering (Proficient, 6.1y)
+- Software Engineering: JavaScript (Proficient, 6.0y)
+- Cloud & DevOps: FinOps (Beginner, 2.5y)
+
+EXPERIENCE
+* Wealth Management ERP Finance Rollout — a global wealth manager (2026-01 to present)
+  Re-architected an ERP finance rollout for a global wealth manager in wealth management using Requirements Gathering and Process Improvement, saving ~25K hours annually.
+* Pharma R&D Service Desk Automation — an APAC pharma company (2025-02 to 2025-11)
+  Modernised a service desk automation for an APAC pharma company in pharma R&D using Business Analysis, JavaScript and Requirements Gathering, reducing processing time by 35%.
+* Pharma R&D CRM Rollout — an APAC pharma company (2024-03 to 2025-01)
+  Migrated a CRM rollout for an APAC pharma company in pharma R&D using JavaScript and Business Analysis, reducing processing time by 12%.
+* Pharma R&D CRM Rollout — a leading pharma company (2023-08 to 2024-02)
+  Built a CRM rollout for a leading pharma company in pharma R&D using Process Improvement and FinOps, reducing processing time by 12%.
+
+EDUCATION
+- B.Tech
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to deepen cloud architecture expertise.
+Target roles: Account Manager

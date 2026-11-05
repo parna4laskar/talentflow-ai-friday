@@ -1,0 +1,29 @@
+POOJA PILLAI
+Senior Frontend Engineer | Engineering | Pune, India
+Employee ID: EMP12222
+
+PROFESSIONAL SUMMARY
+Senior Frontend Engineer with 6.6 years of experience, based in Pune. Strong in JavaScript, TypeScript, Angular and Playwright, with recent work in supply-chain logistics. Interested in moving towards Full Stack Engineer, UX Designer roles and open to relocating to New York, Austin.
+
+CORE SKILLS
+- Software Engineering: JavaScript (Advanced, 5.2y), TypeScript (Proficient, 1.3y), Angular (Proficient, 0.8y), Next.js (Proficient, 3.7y), Node.js (Working, 2.7y)
+- Quality Engineering: Playwright (Proficient, 4.3y)
+- Product & Design: Figma (Proficient, 1.6y)
+
+EXPERIENCE
+* Supply-chain Logistics Payments Microservices Platform — a leading logistics company (2026-10 to present)
+  Designed a payments microservices platform for a leading logistics company in supply-chain logistics using Angular and Figma, reducing production incidents by 12%.
+* Supply-chain Logistics Self-service Portal — a fast-growing logistics company (2025-05 to 2026-09)
+  Built a self-service portal for a fast-growing logistics company in supply-chain logistics using Angular, Node.js and Figma, lifting NPS by 35 points.
+* Supply-chain Logistics Pricing Engine — a US logistics company (2024-03 to 2025-05)
+  Re-architected a pricing engine for a US logistics company in supply-chain logistics using Node.js, TypeScript, Next.js and Angular, improving conversion by 18%.
+
+EDUCATION
+- MSc Computer Science
+
+LANGUAGES
+English, Hindi, Mandarin
+
+CAREER ASPIRATIONS
+Seeks a role with global stakeholder exposure.
+Target roles: Full Stack Engineer, UX Designer, QA Engineer

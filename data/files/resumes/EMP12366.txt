@@ -1,0 +1,34 @@
+PARNA MALHOTRA
+Lead ML Engineer | AI Center of Excellence | Pune, India
+Employee ID: EMP12366
+
+PROFESSIONAL SUMMARY
+Lead ML Engineer with 8.2 years of experience, based in Pune. Strong in Python, MLOps, Deep Learning and NLP, with recent work in pharma R&D. Interested in moving towards DevOps Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Software Engineering: Python (Advanced, 5.0y)
+- Data & AI: MLOps (Advanced, 2.5y), Deep Learning (Advanced, 1.0y), NLP (Advanced, 6.0y), Machine Learning (Proficient, 1.2y), Computer Vision (Proficient, 0.8y), Databricks (Proficient, 0.4y), Vector Databases (Working, 3.8y)
+- Cloud & DevOps: Kubernetes (Proficient, 3.6y), AWS (Working, 1.5y)
+- Delivery & Leadership: Stakeholder Management (Proficient, 4.5y)
+
+EXPERIENCE
+* Pharma R&D Document Intelligence Pipeline — an APAC pharma company (2025-06 to present)
+  Re-architected a document intelligence pipeline for an APAC pharma company in pharma R&D using Computer Vision, Databricks and Kubernetes, saving ~18K hours annually.
+* Wealth Management Agentic Customer-service Assistant — a leading wealth manager (2024-01 to 2025-03)
+  Led the delivery of an agentic customer-service assistant for a leading wealth manager in wealth management using Databricks, Vector Databases, AWS and Stakeholder Management, lifting NPS by 40 points.
+* Public Sector Recommendation Engine — a European government agency (2023-06 to 2023-12)
+  Automated a recommendation engine for a European government agency in public sector using Machine Learning, Kubernetes and Stakeholder Management, improving model accuracy by 40%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2026)
+- AWS ML Specialty (2023)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: DevOps Engineer, Data Scientist

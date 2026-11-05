@@ -1,0 +1,32 @@
+NAVEEN NAIR
+Data Engineer | Data & Analytics | Gurugram, India
+Employee ID: EMP12061
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3.8 years of experience, based in Gurugram. Strong in Airflow, Databricks, Python and dbt, with recent work in wealth management. Interested in moving towards Data Engineer, AI Engineer roles and open to relocating to New York, Kraków, Bengaluru.
+
+CORE SKILLS
+- Data & AI: Airflow (Advanced, 3.1y), Databricks (Advanced, 1.6y), dbt (Proficient, 0.9y), Data Governance (Proficient, 1.4y), SQL (Working, 0.3y), Data Engineering (Working, 0.6y)
+- Software Engineering: Python (Proficient, 1.2y), Kafka (Proficient, 2.4y)
+- Cloud & DevOps: AWS (Proficient, 0.7y)
+
+EXPERIENCE
+* E-commerce Customer Churn Model — a global online retailer (2025-08 to present)
+  Led the delivery of a customer churn model for a global online retailer in e-commerce using Python and Kafka, improving conversion by 22%.
+* Wealth Management Customer Churn Model — a tier-1 wealth manager (2024-03 to 2025-07)
+  Led the delivery of a customer churn model for a tier-1 wealth manager in wealth management using dbt and Airflow, improving model accuracy by 30%.
+* Pharma R&D Customer Churn Model — a tier-1 pharma company (2023-02 to 2023-12)
+  Led the delivery of a customer churn model for a tier-1 pharma company in pharma R&D using Data Engineering, Python and Airflow, improving conversion by 30%.
+
+CERTIFICATIONS
+- SnowPro Core (2026)
+
+EDUCATION
+- M.Sc Statistics
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Keen to work on AI-driven products.
+Target roles: Data Engineer, AI Engineer, ML Engineer, Data Scientist

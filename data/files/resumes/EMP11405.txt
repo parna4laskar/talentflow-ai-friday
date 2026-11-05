@@ -1,0 +1,30 @@
+RAJESH RAHMAN
+Senior Data Engineer | Data & Analytics | Singapore, Singapore
+Employee ID: EMP11405
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 10.3 years of experience, based in Singapore. Strong in dbt, Databricks, SQL and Python, with recent work in pharma R&D. Interested in moving towards ML Engineer, Data Scientist roles.
+
+CORE SKILLS
+- Data & AI: dbt (Advanced, 4.1y), Databricks (Advanced, 0.9y), SQL (Proficient, 0.4y), Data Engineering (Proficient, 3.5y)
+- Software Engineering: Python (Proficient, 1.9y)
+- Cloud & DevOps: AWS (Proficient, 5.1y)
+- Delivery & Leadership: Communication (Working, 3.5y)
+
+EXPERIENCE
+* Pharma R&D Customer Churn Model — a global pharma company (2025-07 to present)
+  Re-architected a customer churn model for a global pharma company in pharma R&D using Databricks, Python and Data Engineering, improving model accuracy by 18%.
+* Pharma R&D Executive KPI Dashboard Suite — a tier-1 pharma company (2023-10 to 2025-04)
+  Built an executive KPI dashboard suite for a tier-1 pharma company in pharma R&D using Communication, Data Engineering, AWS and Python, saving ~40K hours annually.
+* Energy Trading Executive KPI Dashboard Suite — a European energy company (2022-08 to 2023-10)
+  Migrated an executive KPI dashboard suite for a European energy company in energy trading using Python, Data Engineering, Databricks and Communication, improving forecast accuracy by 30%.
+
+EDUCATION
+- M.Sc Mathematics
+
+LANGUAGES
+English, Mandarin
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: ML Engineer, Data Scientist, Backend Engineer

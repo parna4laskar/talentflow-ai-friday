@@ -1,0 +1,28 @@
+HARRY SMITH
+Associate Frontend Engineer | Engineering | London, United Kingdom
+Employee ID: EMP10378
+
+PROFESSIONAL SUMMARY
+Associate Frontend Engineer with 0.5 years of experience, based in London. Strong in TypeScript, JavaScript, Angular and Node.js, with recent work in wealth management. Interested in moving towards Frontend Engineer, Mobile Engineer roles.
+
+CORE SKILLS
+- Software Engineering: TypeScript (Working, 0.3y), JavaScript (Working, 0.3y), Angular (Working, 0.3y), Node.js (Working, 0.3y), GraphQL (Working, 0.3y)
+- Cloud & DevOps: CI/CD (Working, 0.3y)
+- Quality Engineering: Playwright (Working, 0.3y)
+- Data & AI: Agentic AI (Beginner, 0.3y)
+
+EXPERIENCE
+* Wealth Management Claims Processing Engine — a European wealth manager (2025-11 to present)
+  Re-architected a claims processing engine for a European wealth manager in wealth management using Agentic AI and CI/CD, saving ~12K hours annually.
+* Airline Operations Mobile Banking App — a US airline (2024-11 to 2025-10)
+  Modernised a mobile banking app for a US airline in airline operations using Playwright, CI/CD, Angular and JavaScript, improving conversion by 40%.
+
+EDUCATION
+- BSc Computer Science
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Frontend Engineer, Mobile Engineer, UX Designer, QA Engineer

@@ -1,0 +1,31 @@
+VARUN SUBRAMANIAN
+Senior DevOps Engineer | Cloud & Infrastructure | Hyderabad, India
+Employee ID: EMP12925
+
+PROFESSIONAL SUMMARY
+Senior DevOps Engineer with 5.8 years of experience, based in Hyderabad. Strong in CI/CD, Docker, Kubernetes and Azure, with recent work in manufacturing IoT. Interested in moving towards Platform Engineer, Backend Engineer roles.
+
+CORE SKILLS
+- Cloud & DevOps: CI/CD (Expert, 3.6y), Docker (Advanced, 1.8y), Kubernetes (Advanced, 5.3y), Azure (Advanced, 0.6y), Terraform (Proficient, 3.5y)
+- Software Engineering: Python (Proficient, 0.4y)
+
+EXPERIENCE
+* Manufacturing IoT CI/CD Platform — a European manufacturer (2025-11 to present)
+  Migrated a CI/CD platform for a European manufacturer in manufacturing IoT using Docker and Python, accelerating releases by 18%.
+* Manufacturing IoT Observability Stack — a US manufacturer (2025-03 to 2025-10)
+  Migrated an observability stack for a US manufacturer in manufacturing IoT using Azure, Kubernetes, Python and Terraform, accelerating releases by 40%.
+* Public Sector Observability Stack — a tier-1 government agency (2024-03 to 2025-02)
+  Modernised an observability stack for a tier-1 government agency in public sector using Kubernetes, CI/CD, Azure and Docker, reducing production incidents by 25%.
+
+CERTIFICATIONS
+- HashiCorp Terraform Associate (2021)
+
+EDUCATION
+- B.E. Electronics & Telecommunication
+
+LANGUAGES
+English, Hindi, French
+
+CAREER ASPIRATIONS
+Wants to move closer to product and business outcomes.
+Target roles: Platform Engineer, Backend Engineer

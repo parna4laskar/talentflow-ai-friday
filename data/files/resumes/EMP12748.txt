@@ -1,0 +1,37 @@
+PRASAD DAS
+Lead Software Architect | Engineering | Chennai, India
+Employee ID: EMP12748
+
+PROFESSIONAL SUMMARY
+Lead Software Architect with 12.1 years of experience, based in Chennai. Strong in System Design, Microservices, Stakeholder Management and Java, with recent work in public sector. Interested in moving towards Backend Engineer, Engineering Manager roles and open to relocating to Kraków, London.
+
+CORE SKILLS
+- Software Engineering: System Design (Expert, 6.1y), Microservices (Expert, 12.1y), Java (Advanced, 10.9y), REST API Design (Working, 0.8y)
+- Delivery & Leadership: Stakeholder Management (Expert, 0.9y), People Leadership (Advanced, 2.9y), Mentoring (Proficient, 5.8y)
+- Cloud & DevOps: AWS (Advanced, 7.6y), Kubernetes (Advanced, 10.0y), Platform Engineering (Working, 0.5y)
+- Security: Cloud Security (Proficient, 6.8y)
+- Data & AI: LLM Engineering (Proficient, 7.2y)
+
+EXPERIENCE
+* Energy Trading Order Management System — a fast-growing energy company (2026-05 to present)
+  Designed an order management system for a fast-growing energy company in energy trading using Java, Kubernetes, LLM Engineering and REST API Design, onboarding 8 new enterprise clients.
+* HR Tech Payments Microservices Platform — an APAC HR software company (2025-02 to 2026-04)
+  Built a payments microservices platform for an APAC HR software company in HR tech using System Design and Java, reducing production incidents by 22%.
+* Public Sector Order Management System — a US government agency (2024-07 to 2025-01)
+  Modernised an order management system for a US government agency in public sector using Platform Engineering and Stakeholder Management, onboarding 2 new enterprise clients.
+* Public Sector Pricing Engine — a fast-growing government agency (2023-05 to 2024-06)
+  Re-architected a pricing engine for a fast-growing government agency in public sector using AWS and Mentoring, improving conversion by 25%.
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2022)
+- TOGAF 10 (2026)
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Backend Engineer, Engineering Manager, DevOps Engineer

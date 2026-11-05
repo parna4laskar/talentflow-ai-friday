@@ -1,0 +1,29 @@
+SAMEER NAIDU
+Senior Backend Engineer | Engineering | Hyderabad, India
+Employee ID: EMP12804
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 8 years of experience, based in Hyderabad. Strong in Go, SQL, Microservices and System Design, with recent work in e-commerce. Interested in moving towards Engineering Manager roles and open to relocating to Bengaluru.
+
+CORE SKILLS
+- Software Engineering: Go (Advanced, 2.5y), Microservices (Advanced, 7.7y), System Design (Advanced, 2.4y), REST API Design (Proficient, 1.1y), Spring Boot (Working, 0.3y)
+- Data & AI: SQL (Advanced, 6.3y)
+- Cloud & DevOps: CI/CD (Proficient, 3.6y), AWS (Working, 1.7y), FinOps (Working, 3.5y)
+
+EXPERIENCE
+* Insurance Claims Order Management System — a US insurer (2026-02 to present)
+  Re-architected an order management system for a US insurer in insurance claims using FinOps, Go, Spring Boot and AWS, onboarding 2 new enterprise clients.
+* E-commerce Self-service Portal — a fast-growing online retailer (2024-09 to 2025-11)
+  Scaled a self-service portal for a fast-growing online retailer in e-commerce using Microservices and Spring Boot, saving ~40K hours annually.
+* E-commerce Pricing Engine — a European online retailer (2023-10 to 2024-07)
+  Re-architected a pricing engine for a European online retailer in e-commerce using Go, REST API Design, SQL and System Design, improving conversion by 22%.
+
+EDUCATION
+- M.Tech Software Systems
+
+LANGUAGES
+English, Hindi, Kannada
+
+CAREER ASPIRATIONS
+Looking to specialise in data and analytics.
+Target roles: Engineering Manager

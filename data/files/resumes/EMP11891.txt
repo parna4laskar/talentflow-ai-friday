@@ -1,0 +1,32 @@
+BHAVANA KHAN
+Senior Security Analyst | Cyber Security | Pune, India
+Employee ID: EMP11891
+
+PROFESSIONAL SUMMARY
+Senior Security Analyst with 9.9 years of experience, based in Pune. Strong in Incident Response, GRC, SIEM and Communication, with recent work in insurance claims. Interested in moving towards Cloud Engineer roles and open to relocating to London, Gurugram.
+
+CORE SKILLS
+- Security: Incident Response (Expert, 9.9y), GRC (Expert, 4.1y), SIEM (Advanced, 3.6y), Cloud Security (Proficient, 3.8y)
+- Delivery & Leadership: Communication (Advanced, 5.2y)
+- Software Engineering: Python (Working, 2.2y)
+- Data & AI: Generative AI (Working, 3.8y)
+
+EXPERIENCE
+* Telecom Billing Security Operations Centre Uplift — a tier-1 telecom operator (2025-11 to present)
+  Migrated a security operations centre uplift for a tier-1 telecom operator in telecom billing using Python and SIEM, reducing production incidents by 22%.
+* Insurance Claims Secure SDLC Rollout — a US insurer (2024-07 to 2025-09)
+  Re-architected a secure SDLC rollout for a US insurer in insurance claims using Incident Response, SIEM and Communication, reducing production incidents by 22%.
+* Pharma R&D Secure SDLC Rollout — a leading pharma company (2023-04 to 2024-05)
+  Re-architected a secure SDLC rollout for a leading pharma company in pharma R&D using Python, Incident Response and SIEM, reducing production incidents by 12%.
+* Wealth Management Identity and Access Platform — a global wealth manager (2022-06 to 2023-03)
+  Led the delivery of an identity and access platform for a global wealth manager in wealth management using Cloud Security, Python and Communication, reducing production incidents by 40%.
+
+EDUCATION
+- B.Tech Computer Science
+
+LANGUAGES
+English, Hindi, Marathi
+
+CAREER ASPIRATIONS
+Interested in mentoring and people management.
+Target roles: Cloud Engineer

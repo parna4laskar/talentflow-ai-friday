@@ -1,0 +1,33 @@
+HARRY WALKER
+Senior ML Engineer | AI Center of Excellence | London, United Kingdom
+Employee ID: EMP11695
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 5 years of experience, based in London. Strong in Deep Learning, Machine Learning, AWS and Python, with recent work in manufacturing IoT. Interested in moving towards DevOps Engineer roles and open to relocating to Austin, Bengaluru.
+
+CORE SKILLS
+- Data & AI: Deep Learning (Expert, 4.7y), Machine Learning (Advanced, 3.5y), MLOps (Proficient, 3.5y), Databricks (Proficient, 2.2y), Data Engineering (Working, 2.0y)
+- Cloud & DevOps: AWS (Advanced, 2.6y)
+- Software Engineering: Python (Proficient, 3.5y)
+
+EXPERIENCE
+* Manufacturing IoT Fraud Detection Model — a fast-growing manufacturer (2025-11 to present)
+  Automated a fraud detection model for a fast-growing manufacturer in manufacturing IoT using AWS and Machine Learning, improving model accuracy by 35%.
+* Manufacturing IoT Recommendation Engine — a European manufacturer (2025-04 to 2025-09)
+  Re-architected a recommendation engine for a European manufacturer in manufacturing IoT using Python, Machine Learning, Deep Learning and MLOps, improving conversion by 12%.
+* Manufacturing IoT Knowledge Assistant (RAG) — a European manufacturer (2024-03 to 2025-02)
+  Designed a knowledge assistant (RAG) for a European manufacturer in manufacturing IoT using Machine Learning and Databricks, saving ~40K hours annually.
+
+CERTIFICATIONS
+- Google Professional ML Engineer (2023)
+- AWS ML Specialty (2023)
+
+EDUCATION
+- MSc Machine Learning
+
+LANGUAGES
+English
+
+CAREER ASPIRATIONS
+Looking for client-facing exposure.
+Target roles: DevOps Engineer
